@@ -1,12 +1,12 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Burn This Ghost + All These Animals + YENI + Ængellll" on Sat, 19 Sept 2026.
+Madame Claude is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Burn This Ghost + All These Animals + YENI + Ængellll" on Sat, 19 Sept 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ATMOS, Devin Gray, DJ Fiona and dOctOr doms and 2 more. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including ATMOS, Devin Gray, DJ Fiona and dOctOr doms and 2 more. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Burn This Ghost + All These Animals + YENI + Ængellll | YENI |
 | Sat, 19 Sept 2026 | HOLYWORLD | ATMOS, DJ Fiona, Heshumi, Holywanderer, Sakrum, dOctOr doms |

@@ -1,12 +1,12 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE) " on Sat, 19 Sept 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE) " on Sat, 19 Sept 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE)  |  |
 | Sun, 20 Sept 2026 | FREE OPEN AIR BEACH CLOSING PARTY: Lost invites Posay | ATMEN, André Butano, Cesar Martino, Jean Pierre, Karla Amaro |

@@ -1,12 +1,12 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "RIOT OVER RIVER 11 - OPEN AIR & INDOOR FESTIVAL" on Sat, 19 Sept 2026.
+Cross Club is a music venue in Prague with 22 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "RIOT OVER RIVER 11 - OPEN AIR & INDOOR FESTIVAL" on Sat, 19 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 22 upcoming gigs, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | RIOT OVER RIVER 11 - OPEN AIR & INDOOR FESTIVAL |  |
 | Sun, 20 Sept 2026 | SUNDEJ SE SUNDAY |  |

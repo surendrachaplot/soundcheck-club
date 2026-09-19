@@ -1,12 +1,12 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SYNTH presents CORE: AD003 with KØLPØS / CARMELO PONENTE / KTV" on Sat, 19 Sept 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SYNTH presents CORE: AD003 with KØLPØS / CARMELO PONENTE / KTV" on Sat, 19 Sept 2026.
 
-TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Andrés Ov, Butter.Jim, Cristal Roto and Dana Kuehr and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Andrés Ov, Butter.Jim, Cristal Roto and Dana Kuehr and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SYNTH presents CORE: AD003 with KØLPØS / CARMELO PONENTE / KTV | Andrés Ov, KTV (ES), KØLPØS, Xcire |
 | Sat, 26 Sept 2026 | Heb Sed X Abduction | KRSDJ, R1TON, Redondoo, Syback, Vera Grace |

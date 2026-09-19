@@ -1,12 +1,12 @@
 # Communale Saint-Ouen
 
-Communale Saint-Ouen is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V" on Thu, 24 Sept 2026.
+Communale Saint-Ouen is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V" on Thu, 24 Sept 2026.
 
-Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Alessandra Leone, Loke Rahbek, Noa (DE) and ohjeelo and 2 more. Browse upcoming dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
+Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Alessandra Leone, Loke Rahbek, Noa (DE) and ohjeelo and 2 more. Browse upcoming dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V | Alessandra Leone, Zoë Mc Pherson |
 | Thu, 22 Oct 2026 | Jokko Collective Pasaporteman A/V + Noa & ohjeelo A/V | Noa (DE), ohjeelo |

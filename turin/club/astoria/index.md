@@ -1,12 +1,12 @@
 # Astoria
 
-Astoria is a music venue in Turin with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Da BOUNCEMENT Astoria w/Paolo Doldo" on Sat, 19 Sept 2026.
+Astoria is a music venue in Turin with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Da BOUNCEMENT Astoria w/Paolo Doldo" on Sat, 19 Sept 2026.
 
-Astoria is a music venue in Turin listed on soundcheck. 13 upcoming nights, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
+Astoria is a music venue in Turin listed on soundcheck. 13 upcoming gigs, with line-ups including Aberra, Allegretti, AMRED and BENZA and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Da BOUNCEMENT Astoria w/Paolo Doldo | Hellson5 |
 | Fri, 25 Sept 2026 | TECHNOBULL RESIDENCY: Aberra, Adler, Yerdok | Aberra |

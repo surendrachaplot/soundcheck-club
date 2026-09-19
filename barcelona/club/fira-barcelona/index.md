@@ -1,12 +1,12 @@
 # Fira Barcelona
 
-Fira Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mira Festival 2026" on Fri, 6 Nov 2026.
+Fira Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mira Festival 2026" on Fri, 6 Nov 2026.
 
-Fira Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Anthony Rother, Arca, Daito Manabe and Debit and 2 more. Browse upcoming dates, start times and who's playing. Montjuïc, Avda. Reina Maria Cristina s/n, 08004 Barcelona.
+Fira Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Anthony Rother, Arca, Daito Manabe and Debit and 2 more. Browse upcoming dates, start times and who's playing. Montjuïc, Avda. Reina Maria Cristina s/n, 08004 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Mira Festival 2026 | Anthony Rother, Arca, Daito Manabe, Debit, Fennesz, Grand River, Helena Hauff, KAVARI, Lillevan, Machine Girl, Max Cooper, Nicola Cruz, Nosaj Thing, R-010, Ryoichi Kurokawa, Shygirl, Space Afrika, Suicide, Tortoise, Tutu, dj g2g |
 

@@ -1,12 +1,12 @@
 # Village Underground
 
-Village Underground is a music venue in London with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Big Squeeze" on Sat, 19 Sept 2026.
+Village Underground is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Big Squeeze" on Sat, 19 Sept 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and anu and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and anu and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Big Squeeze |  |
 | Fri, 25 Sept 2026 | Central - Youandewan b2b Liquid Earth, Laurine, Ron Obvious | Adam Chapman, Checketts, Laurine, Liquid Earth, Ron Obvious, Youandewan |

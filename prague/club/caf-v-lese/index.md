@@ -1,12 +1,12 @@
 # Café V Lese
 
-Café V Lese is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "ShitKid + support at Café v Lese" on Sun, 27 Sept 2026.
+Café V Lese is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "ShitKid + support at Café v Lese" on Sun, 27 Sept 2026.
 
-Café V Lese is a music venue in Prague listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
+Café V Lese is a music venue in Prague listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Krymska 12, Praha 10 - Vrsovice.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | ShitKid + support at Café v Lese |  |
 

@@ -1,12 +1,12 @@
 # The Model
 
-The Model is a music venue in Nottingham with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Oktoberfest + afterparty with BIBLIOTECH" on Sat, 19 Sept 2026.
+The Model is a music venue in Nottingham with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Oktoberfest + afterparty with BIBLIOTECH" on Sat, 19 Sept 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming nights, with line-ups including Brad Bradley, Burly Chassis, CHEZA LUCINA and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming gigs, with line-ups including Brad Bradley, Burly Chassis, CHEZA LUCINA and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Oktoberfest + afterparty with BIBLIOTECH |  |
 | Fri, 25 Sept 2026 | Duty Free #5 |  |

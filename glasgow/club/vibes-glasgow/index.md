@@ -1,12 +1,12 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Darkbeat x Vibes" on Fri, 2 Oct 2026.
+Vibes Glasgow is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Darkbeat x Vibes" on Fri, 2 Oct 2026.
 
-Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including JOKA, Make It Last, Sinner and WŁSN. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
+Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including JOKA, Make It Last, Sinner and WŁSN. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Darkbeat x Vibes | Sinner |
 | Sat, 17 Oct 2026 | Jay Handren presents at Vibes Glasgow |  |

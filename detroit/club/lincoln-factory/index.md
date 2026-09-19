@@ -1,12 +1,12 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Truncate - Julia Govor - JANSØ - Lincoln Factory" on Sat, 19 Sept 2026.
+Lincoln Factory is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Truncate - Julia Govor - JANSØ - Lincoln Factory" on Sat, 19 Sept 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Truncate - Julia Govor - JANSØ - Lincoln Factory | JANSØ, Julia Govor, Truncate |
 | Fri, 25 Sept 2026 | Ms. Nina with SWDEJAY and Psy-Chick | Ms Nina (ES), Psy-Chick, SWDEJAY |

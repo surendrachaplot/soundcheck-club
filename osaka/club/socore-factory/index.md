@@ -1,12 +1,12 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 39 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HUMILIATION(from Malaysia) JAPAN TOUR 2026 Osaka" on Sat, 19 Sept 2026.
+Socore Factory is a music venue in Osaka with 39 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HUMILIATION(from Malaysia) JAPAN TOUR 2026 Osaka" on Sat, 19 Sept 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 39 upcoming nights, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 39 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | HUMILIATION(from Malaysia) JAPAN TOUR 2026 Osaka |  |
 | Sat, 19 Sept 2026 | blueover 15周年ライブ '粹〻' |  |

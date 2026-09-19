@@ -1,12 +1,12 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "sacred x BLOOM:CAST" on Fri, 25 Sept 2026.
+Helios37 is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "sacred x BLOOM:CAST" on Fri, 25 Sept 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Backyard Mix, DJ VENUSSS, Felix Kröcher and HENNESY and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including Backyard Mix, DJ VENUSSS, Felix Kröcher and HENNESY and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | sacred x BLOOM:CAST | LSG, VINYA, kichererbsenstampf |
 | Sat, 26 Sept 2026 | 10 years of Techno Allianz with Sofie Sapuna, Rian Wood & Matthias Olck | Matthias Olck, Rian Wood, Ropemaker, Sofie Sapuna |

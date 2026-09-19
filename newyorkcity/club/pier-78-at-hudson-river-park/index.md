@@ -1,12 +1,12 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "R&B on the River - Sunset Boat Party Yacht Cruise" on Sat, 19 Sept 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "R&B on the River - Sunset Boat Party Yacht Cruise" on Sat, 19 Sept 2026.
 
-Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | R&B on the River - Sunset Boat Party Yacht Cruise |  |
 | Sat, 19 Sept 2026 | NYC #1 HIP HOP & R&B Boat Party Yacht Sunset Cruise |  |

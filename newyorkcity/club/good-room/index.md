@@ -1,12 +1,12 @@
 # Good Room
 
-Good Room is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Love Games: Tony Humphries, Lauren Murada & Finn Jones, TYLERFROMWHERE, Steph Vaye" on Sat, 19 Sept 2026.
+Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Love Games: Tony Humphries, Lauren Murada & Finn Jones, TYLERFROMWHERE, Steph Vaye" on Sat, 19 Sept 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including adobeprincess, Adrian Hex, A lana and Arina Krondeva and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 14 upcoming gigs, with line-ups including adobeprincess, Adrian Hex, A lana and Arina Krondeva and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Love Games: Tony Humphries, Lauren Murada & Finn Jones, TYLERFROMWHERE, Steph Vaye | Finn Jones, Lauren Murada, Steph Vaye, TYLERFROMWHERE, Tony Humphries |
 | Thu, 24 Sept 2026 | Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund | Adrian Hex, Clarisa Kimskii, Erik Braun, HNDRNC, KYRUH, skoglund |

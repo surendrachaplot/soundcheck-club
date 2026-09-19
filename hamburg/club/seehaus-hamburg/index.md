@@ -1,12 +1,12 @@
 # Seehaus Hamburg
 
-Seehaus Hamburg is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Levi Live at Seehaus" on Wed, 23 Sept 2026.
+Seehaus Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Levi Live at Seehaus" on Wed, 23 Sept 2026.
 
-Seehaus Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. An der Alster 10a, 20099 Hamburg, Germany.
+Seehaus Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. An der Alster 10a, 20099 Hamburg, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Levi Live at Seehaus | Levi (AU) |
 

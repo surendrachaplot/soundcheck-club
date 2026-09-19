@@ -1,12 +1,12 @@
 # TBA - The Reserve, 212 E 125th St The Living Room, New York, NY
 
-TBA - The Reserve, 212 E 125th St The Living Room, New York, NY is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Reserve December Edition" on Fri, 13 Nov 2026.
+TBA - The Reserve, 212 E 125th St The Living Room, New York, NY is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Reserve December Edition" on Fri, 13 Nov 2026.
 
-TBA - The Reserve, 212 E 125th St The Living Room, New York, NY is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including RAAM BAND. Browse upcoming dates, start times and who's playing.
+TBA - The Reserve, 212 E 125th St The Living Room, New York, NY is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including RAAM BAND. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Reserve December Edition | RAAM BAND |
 

@@ -1,12 +1,12 @@
 # Tomodachi
 
-Tomodachi is a music venue in Ibiza with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tomodachi w/ TOMOKI TAMURA" on Sat, 19 Sept 2026.
+Tomodachi is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tomodachi w/ TOMOKI TAMURA" on Sat, 19 Sept 2026.
 
-Tomodachi is a music venue in Ibiza listed on soundcheck. 10 upcoming nights, with line-ups including Cabanne, Ion Ludwig, Miller and Prichindel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.
+Tomodachi is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Cabanne, Ion Ludwig, Miller and Prichindel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tomodachi w/ TOMOKI TAMURA | Tomoki Tamura |
 | Tue, 22 Sept 2026 | Real Gang w/ SIBIL | Sibil (1) |

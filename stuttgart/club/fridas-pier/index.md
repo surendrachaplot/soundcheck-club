@@ -1,12 +1,12 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "sweat Summerclosing with Alex Kassian - Sibel - Special Interest - Edwin - Ferial - Miro" on Sat, 19 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "sweat Summerclosing with Alex Kassian - Sibel - Special Interest - Edwin - Ferial - Miro" on Sat, 19 Sept 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nights, with line-ups including Alex Kassian, Anna Reusch, Ann Clue and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Kassian, Anna Reusch, Ann Clue and BabaBass3000 and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | sweat Summerclosing with Alex Kassian - Sibel - Special Interest - Edwin - Ferial - Miro | Alex Kassian, Edwin (DE), MIRO (DE), Sibel |
 | Fri, 25 Sept 2026 | FCKNG SERIOUS DAY & NIGHT RAVE | Ann Clue, Deniz Bul, Fab Massimo, Ginger, Jakob (BE), Julian Wassermann, Moritz Hofbauer, shot by stanley |

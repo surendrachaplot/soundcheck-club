@@ -1,12 +1,12 @@
 # Solfa
 
-Solfa is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solfa 18TH ANNIVERSARY 'DAY2'" on Sat, 19 Sept 2026.
+Solfa is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solfa 18TH ANNIVERSARY 'DAY2'" on Sat, 19 Sept 2026.
 
-Solfa is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including ARISA, Dazzle Drums, grooveman Spot and HIKARU and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
+Solfa is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ARISA, Dazzle Drums, grooveman Spot and HIKARU and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Solfa 18TH ANNIVERSARY 'DAY2' |  |
 | Sun, 20 Sept 2026 | Solfa 18TH ANNIVERSARY 'DAY3' |  |

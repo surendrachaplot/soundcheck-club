@@ -1,12 +1,12 @@
 # Son Fusteret
 
-Son Fusteret is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "240 km/h x Danzû Fstvl" on Sat, 19 Sept 2026.
+Son Fusteret is a music venue in Mallorca with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "240 km/h x Danzû Fstvl" on Sat, 19 Sept 2026.
 
-Son Fusteret is a music venue in Mallorca listed on soundcheck. 1 upcoming night, with line-ups including Adrian Mills, Linus Villa, relajadita and Serafina and 1 more. Browse upcoming dates, start times and who's playing. Camí de Bunyola s/n, 07009, Palma de Mallorca.
+Son Fusteret is a music venue in Mallorca listed on soundcheck. 1 upcoming gig, with line-ups including Adrian Mills, Linus Villa, relajadita and Serafina and 1 more. Browse upcoming dates, start times and who's playing. Camí de Bunyola s/n, 07009, Palma de Mallorca.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 240 km/h x Danzû Fstvl | Adrian Mills, Linus Villa, Serafina, Vendex, relajadita |
 

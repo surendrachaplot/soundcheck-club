@@ -1,12 +1,12 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jolene Invites with RosieCpt (DE), Dalga & DJ Camov" on Sat, 19 Sept 2026.
+Jolene is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jolene Invites with RosieCpt (DE), Dalga & DJ Camov" on Sat, 19 Sept 2026.
 
-Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including avoN, B From E, Dalga and DJ Camov and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
+Jolene is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including avoN, B From E, Dalga and DJ Camov and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Jolene Invites with RosieCpt (DE), Dalga & DJ Camov | DJ Camov, Dalga, RosieCpt |
 | Thu, 24 Sept 2026 | Rollene pt. III | B From E, Ziggy Stardubb, avoN |

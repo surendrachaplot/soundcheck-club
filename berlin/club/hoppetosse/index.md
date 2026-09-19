@@ -1,12 +1,12 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SHAMELESS X PBC - 2 Floors - House & Techno" on Sat, 19 Sept 2026.
+Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SHAMELESS X PBC - 2 Floors - House & Techno" on Sat, 19 Sept 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Skancke, Alexandra, Alex Picone and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SHAMELESS X PBC - 2 Floors - House & Techno | Bailey Brown, Fear Of Color, GregOrMarvel, Kutscher (DE), LUISELLE, Lmlø, PyjamaMama, Selin (DE), Siegfried Plemo, Westside Bass, kutscher |
 | Fri, 25 Sept 2026 | Musek Vol. VII | Francesco Farfa, Hamsa, Janina, Miki |

@@ -1,12 +1,12 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFB IS HERE ALBUM RELEASE PARTY - HIPHOP -" on Sat, 19 Sept 2026.
+ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFB IS HERE ALBUM RELEASE PARTY - HIPHOP -" on Sat, 19 Sept 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including akii, Altemica, ATAMI and AVALON and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including akii, Altemica, ATAMI and AVALON and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | AFB IS HERE ALBUM RELEASE PARTY - HIPHOP - | nasthug |
 | Sun, 20 Sept 2026 | ESSENCE - Estella Boersma / Rebekah - TECHNO / HARD TECHNO - | Estella Boersma, HATSUYUKI, Kijta, O.Goo, Rebekah, STRATAH, YURI VALEN |

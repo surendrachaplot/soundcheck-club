@@ -1,12 +1,12 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 26 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Der Amboss presents Aura Nox" on Sat, 19 Sept 2026.
+Stage and Radio is a music venue in Manchester with 26 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Der Amboss presents Aura Nox" on Sat, 19 Sept 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming nights, with line-ups including adamine, AJ Jonesy, Ali Roche (2) and Anah and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming gigs, with line-ups including adamine, AJ Jonesy, Ali Roche (2) and Anah and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Der Amboss presents Aura Nox | Aura Nox |
 | Sat, 19 Sept 2026 | Cut the Rug 10th Birthday W/Special Guest & Nick & Nath - Night Only | Cut the Rug, Finn Nelson, Nick & Nath |

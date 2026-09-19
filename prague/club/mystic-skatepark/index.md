@@ -1,12 +1,12 @@
 # Mystic Skatepark
 
-Mystic Skatepark is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Blackout Festival" on Sat, 26 Sept 2026.
+Mystic Skatepark is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Blackout Festival" on Sat, 26 Sept 2026.
 
-Mystic Skatepark is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including IGDA, L.zwo and Nonsense. Browse upcoming dates, start times and who's playing. Štvanice 944, 170 00 Praha 7, Czech Republic.
+Mystic Skatepark is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including IGDA, L.zwo and Nonsense. Browse upcoming dates, start times and who's playing. Štvanice 944, 170 00 Praha 7, Czech Republic.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Blackout Festival | IGDA, L.zwo, Nonsense |
 

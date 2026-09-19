@@ -1,12 +1,12 @@
 # Bain Mathieu
 
-Bain Mathieu is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "DARK AREA" on Sat, 24 Oct 2026.
+Bain Mathieu is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "DARK AREA" on Sat, 24 Oct 2026.
 
-Bain Mathieu is a music venue in Montreal listed on soundcheck. 1 upcoming night, with line-ups including Babaganouschka, Ponsif and Special K (CA). Browse upcoming dates, start times and who's playing. 2915 Ontario Est; Montreal, QC H2K 1X7; Canada.
+Bain Mathieu is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Babaganouschka, Ponsif and Special K (CA). Browse upcoming dates, start times and who's playing. 2915 Ontario Est; Montreal, QC H2K 1X7; Canada.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | DARK AREA | Babaganouschka, Ponsif, Special K (CA) |
 

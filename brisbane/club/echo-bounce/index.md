@@ -1,12 +1,12 @@
 # Echo & Bounce
 
-Echo & Bounce is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Feeding Ground Klubnacht II" on Sun, 4 Oct 2026.
+Echo & Bounce is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Feeding Ground Klubnacht II" on Sun, 4 Oct 2026.
 
-Echo & Bounce is a music venue in Brisbane listed on soundcheck. 1 upcoming night, with line-ups including Josh Heywood and Public Nuisance. Browse upcoming dates, start times and who's playing. 7 Jacob Ln, Woolloongabba QLD 4102, Australia.
+Echo & Bounce is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Josh Heywood and Public Nuisance. Browse upcoming dates, start times and who's playing. 7 Jacob Ln, Woolloongabba QLD 4102, Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Feeding Ground Klubnacht II | Josh Heywood, Public Nuisance |
 

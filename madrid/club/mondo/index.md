@@ -1,12 +1,12 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFTERPARTY: Pegassi / Gerardo Niva B2B NewTone / EMILIJA " on Sat, 19 Sept 2026.
+Mondo is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFTERPARTY: Pegassi / Gerardo Niva B2B NewTone / EMILIJA " on Sat, 19 Sept 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | AFTERPARTY: Pegassi / Gerardo Niva B2B NewTone / EMILIJA  | EMILIJA, Gerardo Niva, NewTone, Pegassi |
 | Thu, 24 Sept 2026 | southstar B2B DJ SWISHERMAN  /  Gerardo Niva  /  doccudder   | DJ SWISHERMAN, Gerardo Niva, doccudder, southstar |

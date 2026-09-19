@@ -1,12 +1,12 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OPENING PARTY with Carl Craig, Jesooria, jade removille b2b giuseppe amoruoso" on Sat, 19 Sept 2026.
+REC Napoli is a music venue in Naples with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OPENING PARTY with Carl Craig, Jesooria, jade removille b2b giuseppe amoruoso" on Sat, 19 Sept 2026.
 
-REC Napoli is a music venue in Naples listed on soundcheck. 6 upcoming nights, with line-ups including BASHKKA, Carl Craig, Dan Ghenacia and Dyed Soundorom and 2 more. Browse upcoming dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
+REC Napoli is a music venue in Naples listed on soundcheck. 6 upcoming gigs, with line-ups including BASHKKA, Carl Craig, Dan Ghenacia and Dyed Soundorom and 2 more. Browse upcoming dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OPENING PARTY with Carl Craig, Jesooria, jade removille b2b giuseppe amoruoso | Carl Craig, Jesooria |
 | Sat, 26 Sept 2026 | Dyed Soundorom, Idriss D, Carlo Giorgetto | Dyed Soundorom, Idriss D |

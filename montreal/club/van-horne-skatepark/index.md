@@ -1,12 +1,12 @@
 # Van Horne Skatepark
 
-Van Horne Skatepark is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "FÊTE DE QUARTIER NUMÉRIQUE | Festival MAPP 2026" on Thu, 1 Oct 2026.
+Van Horne Skatepark is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "FÊTE DE QUARTIER NUMÉRIQUE | Festival MAPP 2026" on Thu, 1 Oct 2026.
 
-Van Horne Skatepark is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 5855 St Laurent Blvd, Montreal, Quebec H2T 1T3.
+Van Horne Skatepark is a music venue in Montreal listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 5855 St Laurent Blvd, Montreal, Quebec H2T 1T3.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | FÊTE DE QUARTIER NUMÉRIQUE / Festival MAPP 2026 |  |
 

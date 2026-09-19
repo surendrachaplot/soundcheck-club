@@ -1,12 +1,12 @@
 # Spartacus Potsdam
 
-Spartacus Potsdam is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "NON GRATA Afternoon Open Air + Clubnacht" on Sat, 3 Oct 2026.
+Spartacus Potsdam is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "NON GRATA Afternoon Open Air + Clubnacht" on Sat, 3 Oct 2026.
 
-Spartacus Potsdam is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Carluschka, DJ Don Höschen and Katze Storno. Browse upcoming dates, start times and who's playing. Friedrich-Engels-Straße 22, 14473 Potsdam, Germany.
+Spartacus Potsdam is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Carluschka, DJ Don Höschen and Katze Storno. Browse upcoming dates, start times and who's playing. Friedrich-Engels-Straße 22, 14473 Potsdam, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NON GRATA Afternoon Open Air + Clubnacht | Carluschka, DJ Don Höschen, Katze Storno |
 

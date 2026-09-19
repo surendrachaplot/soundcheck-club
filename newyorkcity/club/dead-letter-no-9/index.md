@@ -1,12 +1,12 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dos Flakos, Jeremy Giros, Bendito, Sunny Cheeba, Cosmo - Dead Letter No.9" on Sat, 19 Sept 2026.
+Dead Letter No. 9 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dos Flakos, Jeremy Giros, Bendito, Sunny Cheeba, Cosmo - Dead Letter No.9" on Sat, 19 Sept 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Acid Mama, Bea Hardy, beewack and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, beewack and Bendito and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dos Flakos, Jeremy Giros, Bendito, Sunny Cheeba, Cosmo - Dead Letter No.9 | Bendito, Cosmo (NY), Dos Flakos, Jeremy Giros, Sunny Cheeba |
 | Sat, 19 Sept 2026 | We are Eclipse: La Vega, JLU | JLu (MX), La Vega |

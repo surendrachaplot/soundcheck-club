@@ -1,12 +1,12 @@
 # TBA - Inner North Location
 
-TBA - Inner North Location is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session" on Sat, 10 Oct 2026.
+TBA - Inner North Location is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session" on Sat, 10 Oct 2026.
 
-TBA - Inner North Location is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Josh Heywood. Browse upcoming dates, start times and who's playing.
+TBA - Inner North Location is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Josh Heywood. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session | Josh Heywood |
 

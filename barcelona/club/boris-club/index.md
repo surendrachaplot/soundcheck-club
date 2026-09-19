@@ -1,12 +1,12 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Boris pres. Damian Lazarus" on Sat, 19 Sept 2026.
+BORIS CLUB is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Boris pres. Damian Lazarus" on Sat, 19 Sept 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including AJNA, Ander Race, BizZa and Catz 'N Dogz and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including AJNA, Ander Race, BizZa and Catz 'N Dogz and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Boris pres. Damian Lazarus | Damian Lazarus, JANSE, Marcel BS |
 | Thu, 24 Sept 2026 | Pax Arabiana - Boris III | Pax Arabiana |

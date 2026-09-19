@@ -1,12 +1,12 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Familiar Feelings · Daytime Party" on Sun, 20 Sept 2026.
+Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Familiar Feelings · Daytime Party" on Sun, 20 Sept 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 5RVZ, Akua, Atavi and BLUME and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 5RVZ, Akua, Atavi and BLUME and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Familiar Feelings · Daytime Party | David Pearl, Gal Kadan, Mille (DE) |
 | Thu, 24 Sept 2026 | Kosmopolis powered by Au. Die Agentur | 5RVZ, BLUME, Harald Uunk, Neutran |

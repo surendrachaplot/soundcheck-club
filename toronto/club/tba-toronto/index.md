@@ -1,12 +1,12 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "body2body ft. SHERELLE" on Fri, 9 Oct 2026.
+TBA - Toronto is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "body2body ft. SHERELLE" on Fri, 9 Oct 2026.
 
-TBA - Toronto is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Anfisa Letyago, Chinelo, Jamvvis and Kerri Chandler and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Toronto is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including Anfisa Letyago, Chinelo, Jamvvis and Kerri Chandler and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | body2body ft. SHERELLE | Chinelo, Jamvvis, Marcus Visionary, Raf Reza, SHERELLE |
 | Sat, 17 Oct 2026 | ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH | Anfisa Letyago, Nótt |

@@ -1,12 +1,12 @@
 # Hearth
 
-Hearth is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "20 Years of Rebirth Records" on Thu, 22 Oct 2026.
+Hearth is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "20 Years of Rebirth Records" on Thu, 22 Oct 2026.
 
-Hearth is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Chromatic Filters, On the Rocks (OTR), Sassy J and Shield and 1 more. Browse upcoming dates, start times and who's playing. Camperstraat 26H, 1091 AG Amsterdam, Netherlands.
+Hearth is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Chromatic Filters, On the Rocks (OTR), Sassy J and Shield and 1 more. Browse upcoming dates, start times and who's playing. Camperstraat 26H, 1091 AG Amsterdam, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | 20 Years of Rebirth Records | Chromatic Filters, Shield |
 | Fri, 23 Oct 2026 | On The Rocks with Tornado Wallace (ADE Special) | On the Rocks (OTR), Tornado Wallace |

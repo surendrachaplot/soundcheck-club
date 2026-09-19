@@ -1,12 +1,12 @@
 # O der Klub
 
-O der Klub is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SIGNAL presents TITA LAU" on Fri, 25 Sept 2026.
+O der Klub is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SIGNAL presents TITA LAU" on Fri, 25 Sept 2026.
 
-O der Klub is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Adam Beyer, Albin Brezlan, Bob Moses and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
+O der Klub is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Beyer, Albin Brezlan, Bob Moses and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Opernring/Operngasse, 1010 Wien.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | SIGNAL presents TITA LAU | ESH |
 | Fri, 2 Oct 2026 | SIGNAL presents Joyhauser | Albin Brezlan, Joris Turenhout, Joyhauser, Mark Michael |

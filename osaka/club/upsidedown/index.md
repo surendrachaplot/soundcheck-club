@@ -1,12 +1,12 @@
 # Upsidedown
 
-Upsidedown is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Shhhhh  /  MiTSUYAS   set" on Sat, 19 Sept 2026.
+Upsidedown is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Shhhhh  /  MiTSUYAS   set" on Sat, 19 Sept 2026.
 
-Upsidedown is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including HSC (1), Kim.Qna, MiTSUYAS and Shhhhh and 1 more. Browse upcoming dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Upsidedown is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including HSC (1), Kim.Qna, MiTSUYAS and Shhhhh and 1 more. Browse upcoming dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Shhhhh  /  MiTSUYAS   set | MiTSUYAS, Shhhhh |
 | Fri, 25 Sept 2026 | TREPAmotion |  |

@@ -1,12 +1,12 @@
 # Index
 
-Index is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Index: SG Lewis" on Sat, 19 Sept 2026.
+Index is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Index: SG Lewis" on Sat, 19 Sept 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Kepler, Jake Fitz, Nicole Spagnol and Notion and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Kepler, Jake Fitz, Nicole Spagnol and Notion and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Index: SG Lewis | SG Lewis |
 | Fri, 25 Sept 2026 | Index x Encore: Rivo | Nicole Spagnol, Rivo, SOUZAC |

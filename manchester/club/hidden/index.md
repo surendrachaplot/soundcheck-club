@@ -1,12 +1,12 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 25 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Scrambled Network presents: Pure Science (live)" on Sat, 19 Sept 2026.
+Hidden is a music venue in Manchester with 25 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Scrambled Network presents: Pure Science (live)" on Sat, 19 Sept 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 25 upcoming nights, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 25 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
 | Sat, 19 Sept 2026 | MELODÏQ Klubnacht Series / Hardt Antoine + Support  | Animalize, Hardt Antoine, Jenkaya, Paris Camille |

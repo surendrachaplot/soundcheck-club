@@ -1,12 +1,12 @@
 # Nectar Lounge
 
-Nectar Lounge is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "RJD2 with Alice Camille & DJ Indica Jones" on Sat, 19 Sept 2026.
+Nectar Lounge is a music venue in Seattle with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "RJD2 with Alice Camille & DJ Indica Jones" on Sat, 19 Sept 2026.
 
-Nectar Lounge is a music venue in Seattle listed on soundcheck. 7 upcoming nights, with line-ups including ATYYA, DR. GABBA, Jamie Schwabl and Jason Code and 2 more. Browse upcoming dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
+Nectar Lounge is a music venue in Seattle listed on soundcheck. 7 upcoming gigs, with line-ups including ATYYA, DR. GABBA, Jamie Schwabl and Jason Code and 2 more. Browse upcoming dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | RJD2 with Alice Camille & DJ Indica Jones |  |
 | Fri, 25 Sept 2026 | DIMOND SAINTS plus Saturna and Pressha | Pressha |

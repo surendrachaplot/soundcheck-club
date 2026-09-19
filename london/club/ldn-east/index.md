@@ -1,12 +1,12 @@
 # LDN East
 
-LDN East is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jungle Splash presents Jungle X Garage Free Rave" on Sat, 26 Sept 2026.
+LDN East is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jungle Splash presents Jungle X Garage Free Rave" on Sat, 26 Sept 2026.
 
-LDN East is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Beezo, DJ Brockie, DJ Perception and Don't F**k with Disco and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
+LDN East is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Beezo, DJ Brockie, DJ Perception and Don't F**k with Disco and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Jungle Splash presents Jungle X Garage Free Rave | DJ Brockie, DJ Perception, Flame Jade, Garage, Jungle (UK), Lawrence Anthony, Potential Badboy, Shane Blitz, TFLEX, Uncle Dugs, Wesley Jay |
 | Sat, 10 Oct 2026 | Jawani 4eva |  |

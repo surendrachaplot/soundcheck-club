@@ -1,12 +1,12 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Daphni" on Sat, 19 Sept 2026.
+smartbar is a music venue in Chicago with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Daphni" on Sat, 19 Sept 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming nights, with line-ups including Andrew Emil, Bradley Zero, Brenda and Chris Cruse and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 20 upcoming gigs, with line-ups including Andrew Emil, Bradley Zero, Brenda and Chris Cruse and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Daphni | Daphni, Phillip Stone |
 | Sun, 20 Sept 2026 | Queen! feat. Bradley Zero - Derrick Carter - Michael Serafini | Bradley Zero, Derrick Carter, Michael Serafini |

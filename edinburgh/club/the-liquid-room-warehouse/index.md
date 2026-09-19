@@ -1,12 +1,12 @@
 # The Liquid Room Warehouse
 
-The Liquid Room Warehouse is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "REDEMPTION presents Laurence Guy" on Mon, 5 Oct 2026.
+The Liquid Room Warehouse is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "REDEMPTION presents Laurence Guy" on Mon, 5 Oct 2026.
 
-The Liquid Room Warehouse is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including Laurence Guy. Browse upcoming dates, start times and who's playing. 9c Victoria Street, EH1 2HE.
+The Liquid Room Warehouse is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including Laurence Guy. Browse upcoming dates, start times and who's playing. 9c Victoria Street, EH1 2HE.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 5 Oct 2026 | REDEMPTION presents Laurence Guy | Laurence Guy |
 

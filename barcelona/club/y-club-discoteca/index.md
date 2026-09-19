@@ -1,12 +1,12 @@
 # Y Club Discoteca
 
-Y Club Discoteca is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Monje Forever" on Sat, 19 Sept 2026.
+Y Club Discoteca is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Monje Forever" on Sat, 19 Sept 2026.
 
-Y Club Discoteca is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Basil O'Glue, DJ Serio, GuyOhm and MerchyPoöoP and 2 more. Browse upcoming dates, start times and who's playing. Carrer aries 2, Santa susanna, 08398, Catalunya, Spain.
+Y Club Discoteca is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Basil O'Glue, DJ Serio, GuyOhm and MerchyPoöoP and 2 more. Browse upcoming dates, start times and who's playing. Carrer aries 2, Santa susanna, 08398, Catalunya, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Monje Forever | Basil O'Glue, DJ Serio, GuyOhm, MerchyPoöoP, Nuria Ghia, Rebe Komplot, Rebeka Brown, Robert Leiner |
 

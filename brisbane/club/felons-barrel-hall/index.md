@@ -1,12 +1,12 @@
 # Felons Barrel Hall
 
-Felons Barrel Hall is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Defected Brisbane 2026" on Sun, 6 Dec 2026.
+Felons Barrel Hall is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Defected Brisbane 2026" on Sun, 6 Dec 2026.
 
-Felons Barrel Hall is a music venue in Brisbane listed on soundcheck. 1 upcoming night, with line-ups including David Penn, Sam Divine, Murphy's Law and Nick Curly. Browse upcoming dates, start times and who's playing. 5 Boundary St, Brisbane City QLD 4000, Australia.
+Felons Barrel Hall is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including David Penn, Sam Divine, Murphy's Law and Nick Curly. Browse upcoming dates, start times and who's playing. 5 Boundary St, Brisbane City QLD 4000, Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 6 Dec 2026 | Defected Brisbane 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
 

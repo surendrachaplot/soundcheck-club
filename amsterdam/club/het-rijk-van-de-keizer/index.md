@@ -1,12 +1,12 @@
 # Het Rijk van de Keizer
 
-Het Rijk van de Keizer is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ZeeZout ADE - Friday Daytime" on Fri, 23 Oct 2026.
+Het Rijk van de Keizer is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "ZeeZout ADE - Friday Daytime" on Fri, 23 Oct 2026.
 
-Het Rijk van de Keizer is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including 36framez, Call Super, CARISTA and DjRUM and 2 more. Browse upcoming dates, start times and who's playing. Haarlemmerweg 711, 1067 HP, Amsterdam.
+Het Rijk van de Keizer is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including 36framez, Call Super, CARISTA and DjRUM and 2 more. Browse upcoming dates, start times and who's playing. Haarlemmerweg 711, 1067 HP, Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ZeeZout ADE - Friday Daytime | CARISTA, DjRUM, Eris Drew, Identified Patient, Ineffekt, Jyoty, Laura Meester, Octo Octa, RIRIA, Sam Alfred, Two Shell |
 | Sat, 24 Oct 2026 | ZeeZout ADE - Saturday Daytime | 36framez, Call Super, Doppelgang, Emvae, Fiona Zanetti, Helena Hauff, Hunee, Luke Alessi, Mattias El Mansouri, Merel Helderman, Milion, Moopie, Moxes, Narciss (RO), PHIA, Surusinghe, Torus |

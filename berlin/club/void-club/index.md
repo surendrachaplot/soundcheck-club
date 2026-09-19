@@ -1,12 +1,12 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Enter the VOID #81 with Marie Moon, Abex, buktuu, Upzet, Lukeez, Emaenu, Wi5dom" on Sat, 19 Sept 2026.
+Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Enter the VOID #81 with Marie Moon, Abex, buktuu, Upzet, Lukeez, Emaenu, Wi5dom" on Sat, 19 Sept 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Enter the VOID #81 with Marie Moon, Abex, buktuu, Upzet, Lukeez, Emaenu, Wi5dom | MARIE.MOON, Upzet, Wi5dom, buktuu, emaenu (2) |
 | Fri, 25 Sept 2026 | 5 Years Animarum – A Club Festival For Your Soul | Alex Xandra, Andriiic, DJ Jordan, Endica, MCHL51, Marí Kozlovska, Mosher, Patrick Scuro, RHAPSODIE, Roger Lavelle, Sophie van Hayden, Vero_ |

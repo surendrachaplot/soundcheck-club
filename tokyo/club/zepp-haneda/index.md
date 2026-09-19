@@ -1,12 +1,12 @@
 # Zepp Haneda
 
-Zepp Haneda is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "TOKYOMONSOON × SpringWave Taiwan 2026" on Sat, 31 Oct 2026.
+Zepp Haneda is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TOKYOMONSOON × SpringWave Taiwan 2026" on Sat, 31 Oct 2026.
 
-Zepp Haneda is a music venue in Tokyo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+Zepp Haneda is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TOKYOMONSOON × SpringWave Taiwan 2026 |  |
 | Sun, 1 Nov 2026 | TOKYOMONSOON × SpringWave Taiwan 2026 |  |

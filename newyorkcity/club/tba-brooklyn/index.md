@@ -1,12 +1,12 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MERGE all night long: Rrose" on Sat, 3 Oct 2026.
+TBA - Brooklyn is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MERGE all night long: Rrose" on Sat, 3 Oct 2026.
 
-TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Annie Lew, Cristobal Pesce, Fadi Mohem and Ignez and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including Annie Lew, Cristobal Pesce, Fadi Mohem and Ignez and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | MERGE all night long: Rrose | Rrose |
 | Fri, 9 Oct 2026 | Techno Brooklyn presents Cristobal Pesce | Cristobal Pesce |

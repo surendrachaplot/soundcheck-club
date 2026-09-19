@@ -1,12 +1,12 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "えんにち" on Tue, 22 Sept 2026.
+Triangle is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "えんにち" on Tue, 22 Sept 2026.
 
-Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including DJ :-), 死者蘇生CH, _goodbyeforever_ and Ascalypso and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Triangle is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including DJ :-), 死者蘇生CH, _goodbyeforever_ and Ascalypso and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | えんにち | Casper (FIN), DJ :-), Danjo, Ivo (1), Nu, Zest, iku, kakepon |
 | Fri, 25 Sept 2026 | Warrego Valles | Ascalypso, Warrego Valles, WÖNDER GIRL, _goodbyeforever_ |

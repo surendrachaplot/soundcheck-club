@@ -1,12 +1,12 @@
 # Wet Deck at W Hotel
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "WET Sessions & Sunset by Neon pres Nico Morano" on Sat, 19 Sept 2026.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "WET Sessions & Sunset by Neon pres Nico Morano" on Sat, 19 Sept 2026.
 
-Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including Nico Morano and Terence C. Browse upcoming dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
+Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 1 upcoming gig, with line-ups including Nico Morano and Terence C. Browse upcoming dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | WET Sessions & Sunset by Neon pres Nico Morano | Nico Morano, Terence C |
 

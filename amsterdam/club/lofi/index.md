@@ -1,12 +1,12 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Patio - Summer Closing" on Sat, 19 Sept 2026.
+Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Patio - Summer Closing" on Sat, 19 Sept 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Agents Of Time, Amanda Mussi, AMORAL and Antal and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Agents Of Time, Amanda Mussi, AMORAL and Antal and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Patio - Summer Closing | AMORAL, Amanda Mussi, BIANKA, Ignez, Mary Lake, Nick Moody, Nørbak, Olivia Mendez, Phara, Setaoc Mass, TAFKAMP, Talismann, Toobris, UFO95, VIL (PT), Valody |
 | Fri, 25 Sept 2026 | Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen | Bart Skils, Oliver Huntemann, Roger Gerressen, Victor Ruiz |

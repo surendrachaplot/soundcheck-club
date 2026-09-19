@@ -1,12 +1,12 @@
 # Liquidate
 
-Liquidate is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kibosh in Residence" on Fri, 2 Oct 2026.
+Liquidate is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kibosh in Residence" on Fri, 2 Oct 2026.
 
-Liquidate is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Alex Gaskill and Jack Moss. Browse upcoming dates, start times and who's playing. 855 Stockport road.
+Liquidate is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Alex Gaskill and Jack Moss. Browse upcoming dates, start times and who's playing. 855 Stockport road.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kibosh in Residence | Alex Gaskill, Jack Moss |
 

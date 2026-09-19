@@ -1,12 +1,12 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mathias Kaden" on Sat, 19 Sept 2026.
+Hive Club is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mathias Kaden" on Sat, 19 Sept 2026.
 
-Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming nights, with line-ups including 1luu, ACID FLORA, Animal Trainer and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
+Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including 1luu, ACID FLORA, Animal Trainer and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Mathias Kaden | Talkback Heads |
 | Fri, 25 Sept 2026 | Mad Katz x Tresor | Ben Sims, Fireground, Flex, Hitam, Kuona, Mareena, Marisa Joyce |

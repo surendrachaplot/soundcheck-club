@@ -1,12 +1,12 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 1" on Sat, 19 Sept 2026.
+WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 1" on Sat, 19 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including 7e, Akie, Akua and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including 7e, Akie, Akua and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 1 | ALEXANDER M, ANDY DEDE, JOMMY, Kenji Takimi, Koki Byrd, Licaxxx, Mamazu, NAMIMI SENSEI, Peggy Gou, RYOHEI |
 | Sun, 20 Sept 2026 | ULTRA JAPAN RESISTANCE TOKYO OFFICIAL AFTER PARTY DAY 2 | DJ Bin, Osamu M, Ren Yokoi, Risa Taniguchi, Sara Landry |

@@ -1,12 +1,12 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Danza x SuNKeN Launch Party ft Cam Stockman" on Fri, 18 Sept 2026.
+Electric Studios is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Danza x SuNKeN Launch Party ft Cam Stockman" on Fri, 18 Sept 2026.
 
-Electric Studios is a music venue in Sheffield listed on soundcheck. 10 upcoming nights, with line-ups including Amy Dabbs, BassLayerz, Cam Stockman and Channel One Sound and 2 more. Browse upcoming dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
+Electric Studios is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Amy Dabbs, BassLayerz, Cam Stockman and Channel One Sound and 2 more. Browse upcoming dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Danza x SuNKeN Launch Party ft Cam Stockman | Cam Stockman |
 | Sat, 19 Sept 2026 | Morgan Seatree, Danny Bond | Danny Bond, Morgan Seatree |

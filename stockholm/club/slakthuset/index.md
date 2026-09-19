@@ -1,12 +1,12 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "IBNE x QUEERHEL" on Sat, 19 Sept 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "IBNE x QUEERHEL" on Sat, 19 Sept 2026.
 
-Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming nights, with line-ups including Andemon, Anneli, Bara W and Dual Drive and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
+Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including Andemon, Anneli, Bara W and Dual Drive and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | IBNE x QUEERHEL | Andemon, Harami, Huijari, Ozan, Psykoterapi, ØSHUN |
 | Fri, 25 Sept 2026 | NORDIC RAVE - TECHNO STOCKHOLM | Anneli, Bara W, Dual Drive, Solo Viking, TBA, Technokid |

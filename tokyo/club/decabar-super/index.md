@@ -1,12 +1,12 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "analog love" on Fri, 25 Sept 2026.
+Decabar Super is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "analog love" on Fri, 25 Sept 2026.
 
-Decabar Super is a music venue in Tokyo listed on soundcheck. 2 upcoming nights, with line-ups including ALLY, Doom Tempo, puffclouds and TECSTONE. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
+Decabar Super is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ALLY, Doom Tempo, puffclouds and TECSTONE. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | analog love | ALLY, Doom Tempo, TECSTONE, puffclouds |
 | Sat, 10 Oct 2026 | KABUKICHO MENHERA NIGHT VOL.15 |  |

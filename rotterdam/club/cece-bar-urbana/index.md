@@ -1,12 +1,12 @@
 # Cece Bar Urbana
 
-Cece Bar Urbana is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "De Koffierave" on Sun, 27 Sept 2026.
+Cece Bar Urbana is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "De Koffierave" on Sun, 27 Sept 2026.
 
-Cece Bar Urbana is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Steve Riddm and ZOËZO. Browse upcoming dates, start times and who's playing.
+Cece Bar Urbana is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with line-ups including Steve Riddm and ZOËZO. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | De Koffierave | Steve Riddm, ZOËZO |
 

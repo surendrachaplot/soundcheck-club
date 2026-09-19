@@ -1,12 +1,12 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "TECHNO MADRID GROUP" on Sat, 19 Sept 2026.
+Hangar48 Club is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TECHNO MADRID GROUP" on Sat, 19 Sept 2026.
 
-Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Brigado Crew, COSUS CLUB, DJ Ruby and Fellino and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
+Hangar48 Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Brigado Crew, COSUS CLUB, DJ Ruby and Fellino and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TECHNO MADRID GROUP | Mussen, NSEL, Reitze |
 | Sat, 19 Sept 2026 | HOLOGRAM |  |

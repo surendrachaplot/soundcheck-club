@@ -1,12 +1,12 @@
 # Tanjong Pagar Distripark
 
-Tanjong Pagar Distripark is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rainbow Disco Club Singapore" on Sat, 3 Oct 2026.
+Tanjong Pagar Distripark is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rainbow Disco Club Singapore" on Sat, 3 Oct 2026.
 
-Tanjong Pagar Distripark is a music venue in Singapore listed on soundcheck. 1 upcoming night, with line-ups including Antal, Daryl Knows, DJ Nobu and kindergarchy and 2 more. Browse upcoming dates, start times and who's playing.
+Tanjong Pagar Distripark is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with line-ups including Antal, Daryl Knows, DJ Nobu and kindergarchy and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Rainbow Disco Club Singapore | Antal, DJ Nobu, Daryl Knows, Kuniyuki, MUTO (2), Xiaolin, kindergarchy |
 

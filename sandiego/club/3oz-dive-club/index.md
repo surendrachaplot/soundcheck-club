@@ -1,12 +1,12 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "GU3ST LISTE with Jen Cardini" on Thu, 24 Sept 2026.
+3oz Dive Club is a music venue in San Diego with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "GU3ST LISTE with Jen Cardini" on Thu, 24 Sept 2026.
 
-3oz Dive Club is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including badtongUe, Degs, DJ Freqk3y and DJ Godfather and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
+3oz Dive Club is a music venue in Sandiego listed on soundcheck. 6 upcoming gigs, with line-ups including badtongUe, Degs, DJ Freqk3y and DJ Godfather and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | GU3ST LISTE with Jen Cardini | DJ Freqk3y, Jen Cardini, Kale, Krissy Marchante |
 | Sat, 3 Oct 2026 | The Freakathon with DJ Godfather, Kale b2b Krysdacat, badtongUe, & Kieran Ishimaru | DJ Godfather, Kale, KrysDaCat (2), badtongUe |

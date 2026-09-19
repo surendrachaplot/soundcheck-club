@@ -1,12 +1,12 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dazed Muzic 10th Birthday ft Friction, Koven, Skepsis + more" on Sat, 19 Sept 2026.
+Lakota is a music venue in Bristol with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dazed Muzic 10th Birthday ft Friction, Koven, Skepsis + more" on Sat, 19 Sept 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 18 upcoming nights, with line-ups including C.A.R., Fabio Santos, Friction and hiRobbie and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 18 upcoming gigs, with line-ups including C.A.R., Fabio Santos, Friction and hiRobbie and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dazed Muzic 10th Birthday ft Friction, Koven, Skepsis + more | Friction, Koven, Skepsis |
 | Sat, 19 Sept 2026 | UWE Bristol Official Freshers - 6 Room MEGA Rave ft Friction + more |  |

@@ -1,12 +1,12 @@
 # P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bus zum Titanium Festival 2026" on Sat, 19 Sept 2026.
+P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bus zum Titanium Festival 2026" on Sat, 19 Sept 2026.
 
-P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt listed on soundcheck. 12 upcoming nights, with line-ups including Abzocka, Act of Rage, aehm and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Hugo-Eckener-Ring.
+P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, with line-ups including Abzocka, Act of Rage, aehm and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Hugo-Eckener-Ring.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Bus zum Titanium Festival 2026 | Angerfist, Anime, Da Mouth of Madness, F. Noize, Korsakoff, Lekkerfaces, Lunatic, Neophyte, Noxiouz, Tha Playah (NL), The Darkraver, VALHALLA (GB) |
 | Sat, 3 Oct 2026 | Bus zum Syndicate Festival 2026 (Hardcore) | Act of Rage, Angerfist, Dr Donk, Host (CA), Korsakoff, Mad Dog, Marc Acardipane, Mish, Neophyte, Panic, Partyraiser, Paul Elstak, Pinotello, Predator, The Dark Horror, vince |

@@ -1,12 +1,12 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cirque Du Soul: Leeds // Back To Beaver Works" on Fri, 25 Sept 2026.
+Beaver Works is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cirque Du Soul: Leeds // Back To Beaver Works" on Fri, 25 Sept 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including ad*n, Bakey, Blackeye MC and camukg and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including ad*n, Bakey, Blackeye MC and camukg and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cirque Du Soul: Leeds // Back To Beaver Works | Greenhouse, KABOCANA, Mylania, PR!MAL (2), Petz, Ramone, ad*n, camukg, whoswill |
 | Fri, 2 Oct 2026 | Beaverworks presents KURUPT FM - Fri 2nd Oct |  |

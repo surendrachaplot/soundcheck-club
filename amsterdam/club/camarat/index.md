@@ -1,12 +1,12 @@
 # Camarat
 
-Camarat is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toman pres. High Ceilings - ADE 2026" on Fri, 23 Oct 2026.
+Camarat is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toman pres. High Ceilings - ADE 2026" on Fri, 23 Oct 2026.
 
-Camarat is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Alci, Daisy Weweh, Mateo Dufour and Rooléh and 1 more. Browse upcoming dates, start times and who's playing.
+Camarat is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Alci, Daisy Weweh, Mateo Dufour and Rooléh and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Toman pres. High Ceilings - ADE 2026 | Alci, Daisy Weweh, Mateo Dufour, Rooléh, Toman |
 

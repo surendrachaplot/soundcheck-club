@@ -1,12 +1,12 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Garçon Sauvage x Polaris Records" on Sat, 19 Sept 2026.
+Le Sucre is a music venue in Lyon with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Garçon Sauvage x Polaris Records" on Sat, 19 Sept 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 11 upcoming nights, with line-ups including Airod, Alex Wilcox, BOYCA and CallBackSami and 2 more. Browse upcoming dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 11 upcoming gigs, with line-ups including Airod, Alex Wilcox, BOYCA and CallBackSami and 2 more. Browse upcoming dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Garçon Sauvage x Polaris Records | Cormac, Jordan Nocturne |
 | Sun, 20 Sept 2026 | S.society: Dave Clarke, Maïa Neel, Yasmin Regisford | Dave Clarke, Yasmin Regisford |

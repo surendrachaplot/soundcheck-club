@@ -1,12 +1,12 @@
 # SOBs
 
-SOBs is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Orishas - De Cerca, en New York" on Sat, 19 Sept 2026.
+SOBs is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Orishas - De Cerca, en New York" on Sat, 19 Sept 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including Gwen, Joon, Maso and Samsara and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 24 upcoming gigs, with line-ups including Gwen, Joon, Maso and Samsara and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Orishas - De Cerca, en New York |  |
 | Tue, 22 Sept 2026 | Jazz For Lovers: John Coltrane 100th Birthday Tribute |  |

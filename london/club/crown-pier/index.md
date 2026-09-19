@@ -1,12 +1,12 @@
 # Crown Pier
 
-Crown Pier is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Summer of Love - London party boat + free after party" on Sat, 26 Sept 2026.
+Crown Pier is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Summer of Love - London party boat + free after party" on Sat, 26 Sept 2026.
 
-Crown Pier is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alfredo Romero, BämBäm, Eddie Van Poppel and Max E Groove and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
+Crown Pier is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Alfredo Romero, BämBäm, Eddie Van Poppel and Max E Groove and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Summer of Love - London party boat + free after party | Eddie Van Poppel, Mr Fresh Official, NYCity Soundz, VanRock |
 | Sat, 26 Sept 2026 | Party! Party! Boat Party | Max E Groove, Mr Fresh Official, NYCity Soundz, Romeo, Scot Mochan, VanRock |

@@ -1,12 +1,12 @@
 # TBA - Secret Venue
 
-TBA - Secret Venue is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill" on Fri, 25 Sept 2026.
+TBA - Secret Venue is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill" on Fri, 25 Sept 2026.
 
-TBA - Secret Venue is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Eline (BE), evin, ferrari rot and Fio Fa and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Venue is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Eline (BE), evin, ferrari rot and Fio Fa and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Club Savvy with ferrari rot b2b Eline, evin b2b Fio Fa & Mark Gill | Eline (BE), Fio Fa, Mark Gill, evin, ferrari rot |
 

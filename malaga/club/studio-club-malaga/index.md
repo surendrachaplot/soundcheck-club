@@ -1,12 +1,12 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Studio Club Invites: Andrea Oliva - ALL NIGHT LONG" on Sat, 19 Sept 2026.
+Studio Club Malaga is a music venue in Malaga with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Studio Club Invites: Andrea Oliva - ALL NIGHT LONG" on Sat, 19 Sept 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including 6EJOU, Alinka, Âme and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 8 upcoming gigs, with line-ups including 6EJOU, Alinka, Âme and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Studio Club Invites: Andrea Oliva - ALL NIGHT LONG | Andrea Oliva |
 | Fri, 25 Sept 2026 | Studio Club Invites: Funk Tribu | Funk Tribu |

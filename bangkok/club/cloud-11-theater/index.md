@@ -1,12 +1,12 @@
 # Cloud 11 Theater
 
-Cloud 11 Theater is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "IDRIS - Bangkok 2026" on Sat, 26 Sept 2026.
+Cloud 11 Theater is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "IDRIS - Bangkok 2026" on Sat, 26 Sept 2026.
 
-Cloud 11 Theater is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including Elaheh, Idris Elba and Wildealer. Browse upcoming dates, start times and who's playing.
+Cloud 11 Theater is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including Elaheh, Idris Elba and Wildealer. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | IDRIS - Bangkok 2026 | Elaheh, Idris Elba, Wildealer |
 

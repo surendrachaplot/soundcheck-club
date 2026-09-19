@@ -1,12 +1,12 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "COZi b2b Emvae & Nik-ey" on Sat, 19 Sept 2026.
+nachbar is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "COZi b2b Emvae & Nik-ey" on Sat, 19 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | COZi b2b Emvae & Nik-ey | COZi, Emvae, nik-ey |
 | Wed, 23 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave |  |

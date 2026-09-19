@@ -1,12 +1,12 @@
 # C'mon Everybody
 
-C'mon Everybody is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "GRUNT- BROOKLYN" on Sat, 19 Sept 2026.
+C'mon Everybody is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "GRUNT- BROOKLYN" on Sat, 19 Sept 2026.
 
-C'mon Everybody is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Del (4) and Will Jack. Browse upcoming dates, start times and who's playing. 325 Franklin Ave, Brooklyn, NY 11238.
+C'mon Everybody is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Del (4) and Will Jack. Browse upcoming dates, start times and who's playing. 325 Franklin Ave, Brooklyn, NY 11238.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | GRUNT- BROOKLYN | Del (4), Will Jack |
 

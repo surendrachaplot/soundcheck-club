@@ -1,12 +1,12 @@
 # Terminal 5
 
-Terminal 5 is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "oskar med k" on Sat, 19 Sept 2026.
+Terminal 5 is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "oskar med k" on Sat, 19 Sept 2026.
 
-Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Dazegxd, Jane Remover, Kruder & Dorfmeister and nimino and 2 more. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
+Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including Dazegxd, Jane Remover, Kruder & Dorfmeister and nimino and 2 more. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | oskar med k | oskar med k |
 | Tue, 22 Sept 2026 | Jane Remover | Dazegxd, Jane Remover |

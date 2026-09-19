@@ -1,14 +1,14 @@
 # Imperial Private Club
 
-Imperial Private Club is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "UNHOLY - A KNKY PARTY" on Fri, 25 Sept 2026.
+Imperial Private Club is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "UNHOLY - A KNKY PARTY" on Fri, 25 Sept 2026.
 
-Imperial Private Club is a music venue in Barcelona listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona.
+Imperial Private Club is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Kleyver Reyes. Browse upcoming dates, start times and who's playing. Carrer d'Aribau, 46, L'Eixample, 08011 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | UNHOLY - A KNKY PARTY |  |
+| Fri, 25 Sept 2026 | UNHOLY - A KNKY PARTY | Kleyver Reyes |
 | Wed, 30 Sept 2026 | Speed Friending for Kinksters - Edition 3 |  |
 | Fri, 23 Oct 2026 | BERLINA - Hard Techno Kinky Party |  |
 

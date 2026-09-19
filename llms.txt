@@ -1,6 +1,6 @@
 # soundcheck
 
-> Club nights, DJs and venues across 105 cities — listings, playable DJ sets, gig diaries and scene guides. All pages are server-rendered; each significant page has a markdown twin at <url>/index.md.
+> Gigs, artists and venues across 105 cities — listings, playable artist sets, gig diaries and scene guides. All pages are server-rendered; each significant page has a markdown twin at <url>/index.md.
 
 Updated: 2026-09-19
 
@@ -116,7 +116,7 @@ Updated: 2026-09-19
 - [Minimal Bar (Berlin)](https://soundcheck.club/berlin/club/minimal-bar/) — [markdown](https://soundcheck.club/berlin/club/minimal-bar/index.md)
 - [Lokschuppen Berlin (Berlin)](https://soundcheck.club/berlin/club/lokschuppen-berlin/) — [markdown](https://soundcheck.club/berlin/club/lokschuppen-berlin/index.md)
 - [DJ Bar Bridge (Tokyo)](https://soundcheck.club/tokyo/club/dj-bar-bridge/) — [markdown](https://soundcheck.club/tokyo/club/dj-bar-bridge/index.md)
-- [TBA - (Secret Location) (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
+- [TBA - Secret Location (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
 - [Wax Music Lounge (Melbourne)](https://soundcheck.club/melbourne/club/wax-music-lounge/) — [markdown](https://soundcheck.club/melbourne/club/wax-music-lounge/index.md)
 - [The Jazz Cafe (London)](https://soundcheck.club/london/club/the-jazz-cafe/) — [markdown](https://soundcheck.club/london/club/the-jazz-cafe/index.md)
 - [DJ Bar Bridge Shinjuku (Tokyo)](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/) — [markdown](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/index.md)
@@ -135,8 +135,8 @@ Updated: 2026-09-19
 - [public records (New York City)](https://soundcheck.club/newyorkcity/club/public-records/) — [markdown](https://soundcheck.club/newyorkcity/club/public-records/index.md)
 - [Paloma (Berlin)](https://soundcheck.club/berlin/club/paloma/) — [markdown](https://soundcheck.club/berlin/club/paloma/index.md)
 - [Club Metro (Kyoto)](https://soundcheck.club/kyoto/club/club-metro/) — [markdown](https://soundcheck.club/kyoto/club/club-metro/index.md)
-- [Night Tales (London)](https://soundcheck.club/london/club/night-tales/) — [markdown](https://soundcheck.club/london/club/night-tales/index.md)
 - [M.O.T (London)](https://soundcheck.club/london/club/m-o-t/) — [markdown](https://soundcheck.club/london/club/m-o-t/index.md)
+- [Night Tales (London)](https://soundcheck.club/london/club/night-tales/) — [markdown](https://soundcheck.club/london/club/night-tales/index.md)
 - [SWG3 (Glasgow)](https://soundcheck.club/glasgow/club/swg3/) — [markdown](https://soundcheck.club/glasgow/club/swg3/index.md)
 - [Nowadays (New York City)](https://soundcheck.club/newyorkcity/club/nowadays/) — [markdown](https://soundcheck.club/newyorkcity/club/nowadays/index.md)
 - [Radius (Chicago)](https://soundcheck.club/chicago/club/radius/) — [markdown](https://soundcheck.club/chicago/club/radius/index.md)
@@ -158,9 +158,9 @@ Updated: 2026-09-19
 - [EL SÓTANO (Madrid)](https://soundcheck.club/madrid/club/el-s-tano/) — [markdown](https://soundcheck.club/madrid/club/el-s-tano/index.md)
 - [OIL Club (Shenzhen)](https://soundcheck.club/shenzhen/club/oil-club/) — [markdown](https://soundcheck.club/shenzhen/club/oil-club/index.md)
 - [The Concourse Project (Austin)](https://soundcheck.club/austin/club/the-concourse-project/) — [markdown](https://soundcheck.club/austin/club/the-concourse-project/index.md)
-- [FOLD (London)](https://soundcheck.club/london/club/fold/) — [markdown](https://soundcheck.club/london/club/fold/index.md)
 - [Colour Factory (London)](https://soundcheck.club/london/club/colour-factory/) — [markdown](https://soundcheck.club/london/club/colour-factory/index.md)
 - [XOYO (London)](https://soundcheck.club/london/club/xoyo/) — [markdown](https://soundcheck.club/london/club/xoyo/index.md)
+- [FOLD (London)](https://soundcheck.club/london/club/fold/) — [markdown](https://soundcheck.club/london/club/fold/index.md)
 - [Shelter Amsterdam (Amsterdam)](https://soundcheck.club/amsterdam/club/shelter-amsterdam/) — [markdown](https://soundcheck.club/amsterdam/club/shelter-amsterdam/index.md)
 - [Savaya Bali (Bali)](https://soundcheck.club/bali/club/savaya-bali/) — [markdown](https://soundcheck.club/bali/club/savaya-bali/index.md)
 - [SILO (New York City)](https://soundcheck.club/newyorkcity/club/silo/) — [markdown](https://soundcheck.club/newyorkcity/club/silo/index.md)

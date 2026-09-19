@@ -1,12 +1,12 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rebel Dread Rockers: Don Letts + Andy Smith" on Fri, 25 Sept 2026.
+Future Yard is a music venue in Liverpool with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rebel Dread Rockers: Don Letts + Andy Smith" on Fri, 25 Sept 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 21 upcoming nights, with line-ups including African Head Charge, Bodega, corto.alto and DJ Andy Smith and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 21 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and DJ Andy Smith and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Rebel Dread Rockers: Don Letts + Andy Smith | DJ Andy Smith |
 | Sat, 3 Oct 2026 | James Lavelle (UNKLE/MO'WAX) | James Lavelle, UNKLE |

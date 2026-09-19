@@ -1,12 +1,12 @@
 # WOLF Barcelona
 
-WOLF Barcelona is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PERREITO - Tardeo Reggaeton Old School - Opening Party" on Sat, 26 Sept 2026.
+WOLF Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PERREITO - Tardeo Reggaeton Old School - Opening Party" on Sat, 26 Sept 2026.
 
-WOLF Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. C/ dels Almogàvers, 88, 08018 Barcelona.
+WOLF Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. C/ dels Almogàvers, 88, 08018 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | PERREITO - Tardeo Reggaeton Old School - Opening Party |  |
 | Sat, 26 Sept 2026 | PERREITO - Tardeo Reggaeton Old School - Opening Party |  |

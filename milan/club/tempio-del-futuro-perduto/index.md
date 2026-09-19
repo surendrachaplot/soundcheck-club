@@ -1,12 +1,12 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HARDGROOVE PARK CLOSING: Kora Lyssa, Marthial, cccre, Iacopo Carli" on Sat, 19 Sept 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 22 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HARDGROOVE PARK CLOSING: Kora Lyssa, Marthial, cccre, Iacopo Carli" on Sat, 19 Sept 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 22 upcoming nights, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 22 upcoming gigs, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | HARDGROOVE PARK CLOSING: Kora Lyssa, Marthial, cccre, Iacopo Carli | Iacopo Carli, Kora Lyssa, Marthial, cccre |
 | Sun, 20 Sept 2026 | VANDALS 2: Metallo e Cemento presenta OTR / GENTE GUASTA |  |

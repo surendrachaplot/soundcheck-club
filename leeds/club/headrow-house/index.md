@@ -1,12 +1,12 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "KAASKAZINI 2" on Sat, 19 Sept 2026.
+Headrow House is a music venue in Leeds with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "KAASKAZINI 2" on Sat, 19 Sept 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 23 upcoming nights, with line-ups including Artist Lebo, Buckley (UK), Capo Lee and Gabrielle Kwarteng and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 23 upcoming gigs, with line-ups including Artist Lebo, Buckley (UK), Capo Lee and Gabrielle Kwarteng and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | KAASKAZINI 2 | Artist Lebo, GUTA |
 | Tue, 22 Sept 2026 | 3PM Selects: The Next Chapter - The Launch |  |

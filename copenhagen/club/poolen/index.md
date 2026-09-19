@@ -1,12 +1,12 @@
 # Poolen
 
-Poolen is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kevin de Vries & Massano" on Fri, 2 Oct 2026.
+Poolen is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kevin de Vries & Massano" on Fri, 2 Oct 2026.
 
-Poolen is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including ARANEA, Benny Benassi, DJ Heartstring and Kevin de Vries and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
+Poolen is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including ARANEA, Benny Benassi, DJ Heartstring and Kevin de Vries and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kevin de Vries & Massano | Kevin de Vries, Massano |
 | Sat, 10 Oct 2026 | Benny Benassi | Benny Benassi |

@@ -1,12 +1,12 @@
 # Elbphilharmonie Hamburg
 
-Elbphilharmonie Hamburg is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Apparat" on Tue, 6 Oct 2026.
+Elbphilharmonie Hamburg is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Apparat" on Tue, 6 Oct 2026.
 
-Elbphilharmonie Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Apparat. Browse upcoming dates, start times and who's playing. Platz der Deutschen Einheit 1, 20457 Hamburg, Germany.
+Elbphilharmonie Hamburg is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Apparat. Browse upcoming dates, start times and who's playing. Platz der Deutschen Einheit 1, 20457 Hamburg, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 6 Oct 2026 | Apparat | Apparat |
 

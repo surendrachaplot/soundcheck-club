@@ -1,12 +1,12 @@
 # 24 Kitchen Street
 
-24 Kitchen Street is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sexy Lady Massive presents The Massive Tour" on Tue, 22 Sept 2026.
+24 Kitchen Street is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sexy Lady Massive presents The Massive Tour" on Tue, 22 Sept 2026.
 
-24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Amber Rose, Beat Detective, Bel Cobain and Benno and 2 more. Browse upcoming dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
+24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Amber Rose, Beat Detective, Bel Cobain and Benno and 2 more. Browse upcoming dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Sexy Lady Massive presents The Massive Tour | Amber Rose, Hardcore Babes, Sexy Lady Massive |
 | Fri, 25 Sept 2026 | Conduit 001 with Sticky Dub, Lila, yeahitsrenee, Benno & Beat Detective | Beat Detective, Benno, LILA (1), Sticky Dub, yeahitsrenee |

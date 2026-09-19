@@ -1,12 +1,12 @@
 # Ticcle
 
-Ticcle is a music venue in Hobart with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ticcle sundays with Grace Green, Asami One, Damien Groundrie" on Sun, 27 Sept 2026.
+Ticcle is a music venue in Hobart with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "ticcle sundays with Grace Green, Asami One, Damien Groundrie" on Sun, 27 Sept 2026.
 
-Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming nights, with line-ups including Damien Goundrie, DJ Fett Burger, Evan Baggs and Marcellus Pittman and 2 more. Browse upcoming dates, start times and who's playing. 64 Warwick Street Hobart 7000.
+Ticcle is a music venue in Hobart listed on soundcheck. 5 upcoming gigs, with line-ups including Damien Goundrie, DJ Fett Burger, Evan Baggs and Marcellus Pittman and 2 more. Browse upcoming dates, start times and who's playing. 64 Warwick Street Hobart 7000.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | ticcle sundays with Grace Green, Asami One, Damien Groundrie | Damien Goundrie |
 | Sun, 11 Oct 2026 | ticcle presents Telephones (NOR/DE) & DJ Fett Burger (NOR/BER) | DJ Fett Burger, Telephones |

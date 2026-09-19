@@ -1,12 +1,12 @@
 # The White Swan
 
-The White Swan is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unofficial Suede & Manic Street Preachers O2 afterparty (London)" on Fri, 6 Nov 2026.
+The White Swan is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unofficial Suede & Manic Street Preachers O2 afterparty (London)" on Fri, 6 Nov 2026.
 
-The White Swan is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
+The White Swan is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Unofficial Suede & Manic Street Preachers O2 afterparty (London) |  |
 

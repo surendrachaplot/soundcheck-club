@@ -1,12 +1,12 @@
 # Filmcasino
 
-Filmcasino is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "LEVI goes Afterwiesn'" on Fri, 2 Oct 2026.
+Filmcasino is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "LEVI goes Afterwiesn'" on Fri, 2 Oct 2026.
 
-Filmcasino is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. Odeonsplatz 8, 80539 München.
+Filmcasino is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. Odeonsplatz 8, 80539 München.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | LEVI goes Afterwiesn' | Levi (AU) |
 

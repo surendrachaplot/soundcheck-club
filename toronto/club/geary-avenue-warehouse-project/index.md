@@ -1,12 +1,12 @@
 # Geary Avenue Warehouse Project
 
-Geary Avenue Warehouse Project is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PASSPORT RAVE: 17-Hour Worldwide Sounds" on Sat, 19 Sept 2026.
+Geary Avenue Warehouse Project is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PASSPORT RAVE: 17-Hour Worldwide Sounds" on Sat, 19 Sept 2026.
 
-Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including ANTON BASHKOV, badtrpboi, EDSTONE and Jayne Dice and 2 more. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
+Geary Avenue Warehouse Project is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including ANTON BASHKOV, badtrpboi, EDSTONE and Jayne Dice and 2 more. Browse upcoming dates, start times and who's playing. 209 Geary Ave, Toronto, ON, M6H2C1.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PASSPORT RAVE: 17-Hour Worldwide Sounds | EDSTONE, Jayne Dice, Martin Naipaul, badtrpboi |
 | Sat, 26 Sept 2026 | K-pop Warehouse Rave |  |

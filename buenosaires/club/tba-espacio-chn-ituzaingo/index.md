@@ -1,12 +1,12 @@
 # TBA - Espacio CHN, Ituzaingo
 
-TBA - Espacio CHN, Ituzaingo is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties" on Fri, 2 Oct 2026.
+TBA - Espacio CHN, Ituzaingo is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties" on Fri, 2 Oct 2026.
 
-TBA - Espacio CHN, Ituzaingo is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Guy Mantzur. Browse upcoming dates, start times and who's playing.
+TBA - Espacio CHN, Ituzaingo is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, with line-ups including Guy Mantzur. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Guy Mantzur - Somos Produce, Espacio Chn - ALLMusicParties | Guy Mantzur |
 

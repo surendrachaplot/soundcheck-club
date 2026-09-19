@@ -1,12 +1,12 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Romy White with CVLTURE" on Sat, 19 Sept 2026.
+Mono is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Romy White with CVLTURE" on Sat, 19 Sept 2026.
 
-Mono is a music venue in Rotterdam listed on soundcheck. 4 upcoming nights, with line-ups including ABADIR, AMBRR, ARRA and AYEDA and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
+Mono is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, with line-ups including ABADIR, AMBRR, ARRA and AYEDA and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Romy White with CVLTURE |  |
 | Fri, 25 Sept 2026 | Bimbo Beats | AMBRR, ARRA, Slimfit |

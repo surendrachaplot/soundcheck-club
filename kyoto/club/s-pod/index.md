@@ -1,12 +1,12 @@
 # S-Pod
 
-S-Pod is a music venue in Kyoto with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "S-Pod×イーサンによるタイ祭り「Imadegawa Monsoon 」" on Sat, 19 Sept 2026.
+S-Pod is a music venue in Kyoto with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "S-Pod×イーサンによるタイ祭り「Imadegawa Monsoon 」" on Sat, 19 Sept 2026.
 
-S-Pod is a music venue in Kyoto listed on soundcheck. 5 upcoming nights, with line-ups including Aiconga. Browse upcoming dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
+S-Pod is a music venue in Kyoto listed on soundcheck. 5 upcoming gigs, with line-ups including Aiconga. Browse upcoming dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | S-Pod×イーサンによるタイ祭り「Imadegawa Monsoon 」 | Aiconga |
 | Sat, 19 Sept 2026 | Imadegawa Monsoon | Aiconga |

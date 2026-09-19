@@ -1,12 +1,12 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "TUFF SF: Folsom Street Kick Off" on Thu, 24 Sept 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TUFF SF: Folsom Street Kick Off" on Thu, 24 Sept 2026.
 
-1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, DE ALMA, Discnogirl and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming gigs, with line-ups including 2ManyDJs, DE ALMA, Discnogirl and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TUFF SF: Folsom Street Kick Off |  |
 | Fri, 25 Sept 2026 | 2ManyDJs | 2ManyDJs |

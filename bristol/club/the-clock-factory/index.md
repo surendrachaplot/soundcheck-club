@@ -1,12 +1,12 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jungle Cakes Bristol 360° • Ed Solo, Deekline, Phibes, Serial Killaz & More" on Sat, 19 Sept 2026.
+The Clock Factory is a music venue in Bristol with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jungle Cakes Bristol 360° • Ed Solo, Deekline, Phibes, Serial Killaz & More" on Sat, 19 Sept 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 21 upcoming nights, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 21 upcoming gigs, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Jungle Cakes Bristol 360° • Ed Solo, Deekline, Phibes, Serial Killaz & More |  |
 | Tue, 22 Sept 2026 | Teletech Bristol: KIRSTY [All Night Long]  | KIRSTY |

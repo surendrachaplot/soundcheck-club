@@ -1,12 +1,12 @@
 # Le Groove
 
-Le Groove is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club)" on Fri, 2 Oct 2026.
+Le Groove is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club)" on Fri, 2 Oct 2026.
 
-Le Groove is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Bowmore and Deborah Aime La Bagarre. Browse upcoming dates, start times and who's playing. Rue des Gazomètres 9, 1205 Genève.
+Le Groove is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including Bowmore and Deborah Aime La Bagarre. Browse upcoming dates, start times and who's playing. Rue des Gazomètres 9, 1205 Genève.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club) | Bowmore, Deborah Aime La Bagarre |
 

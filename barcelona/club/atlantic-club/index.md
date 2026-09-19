@@ -1,12 +1,12 @@
 # Atlantic Club
 
-Atlantic Club is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "PEOPLE HALLOWEEN " on Sat, 31 Oct 2026.
+Atlantic Club is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "PEOPLE HALLOWEEN " on Sat, 31 Oct 2026.
 
-Atlantic Club is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Couce. Browse upcoming dates, start times and who's playing. Avinguda del Tibidabo, 56, 08035 Barcelona, España.
+Atlantic Club is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Couce. Browse upcoming dates, start times and who's playing. Avinguda del Tibidabo, 56, 08035 Barcelona, España.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | PEOPLE HALLOWEEN  | Couce |
 

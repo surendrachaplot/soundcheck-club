@@ -1,12 +1,12 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PAX-ROMANA COMMUNITY EVENT" on Sat, 19 Sept 2026.
+De Fik Garden is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PAX-ROMANA COMMUNITY EVENT" on Sat, 19 Sept 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Andy Garvey, Bastienne, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Garvey, Bastienne, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PAX-ROMANA COMMUNITY EVENT | Comrade Winston, Lara Renner, Maria Cue, RAUL FOURNIER |
 | Fri, 25 Sept 2026 | Gloeilamp | Vall Du Son |

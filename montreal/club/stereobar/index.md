@@ -1,12 +1,12 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Amper x SB: Prïa - Zac Martel - Lost Heroes" on Sat, 19 Sept 2026.
+StereoBar is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Amper x SB: Prïa - Zac Martel - Lost Heroes" on Sat, 19 Sept 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Colmee, Eli Escobar, Freeman and Laurence Matte and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Colmee, Eli Escobar, Freeman and Laurence Matte and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Amper x SB: Prïa - Zac Martel - Lost Heroes | Lost Heroes, Prïa, Zac Martel |
 | Sun, 20 Sept 2026 | LBD: Napo Lugo - Colmee b2b Freeman | Colmee, Freeman, Napo Lugo |

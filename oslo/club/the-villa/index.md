@@ -1,12 +1,12 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Finnebassen - All night + Maia Drachen" on Sat, 19 Sept 2026.
+The Villa is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Finnebassen - All night + Maia Drachen" on Sat, 19 Sept 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming nights, with line-ups including Aydin Imani, Bjørn Torske, Daichi Wada and Decoder and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-ups including Aydin Imani, Bjørn Torske, Daichi Wada and Decoder and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Finnebassen - All night + Maia Drachen | Finnebassen |
 | Fri, 25 Sept 2026 | Fragments pres. Decoder (US) | Aydin Imani, Decoder, Franko |

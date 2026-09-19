@@ -1,12 +1,12 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "All Night Long — CEB" on Sat, 19 Sept 2026.
+Post Bar is a music venue in Helsinki with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "All Night Long — CEB" on Sat, 19 Sept 2026.
 
-Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming nights, with line-ups including Basit Soomro, CEB (FI), Daniel Kayrouz and emkay (FI) and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 2.
+Post Bar is a music venue in Helsinki listed on soundcheck. 8 upcoming gigs, with line-ups including Basit Soomro, CEB (FI), Daniel Kayrouz and emkay (FI) and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 2.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | All Night Long — CEB | CEB (FI) |
 | Fri, 25 Sept 2026 | Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko | Basit Soomro |

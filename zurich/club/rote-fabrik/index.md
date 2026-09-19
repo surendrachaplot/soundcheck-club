@@ -1,12 +1,12 @@
 # Rote Fabrik
 
-Rote Fabrik is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Autechre" on Fri, 25 Sept 2026.
+Rote Fabrik is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Autechre" on Fri, 25 Sept 2026.
 
-Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Autechre. Browse upcoming dates, start times and who's playing. Seestrasse 395; 8038, Zürich; Switzerland.
+Rote Fabrik is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Autechre. Browse upcoming dates, start times and who's playing. Seestrasse 395; 8038, Zürich; Switzerland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Autechre | Autechre |
 

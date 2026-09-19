@@ -1,12 +1,12 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LIMA" on Sat, 19 Sept 2026.
+Club Bellevue is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "LIMA" on Sat, 19 Sept 2026.
 
-Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including Lukey and Tomato (IT). Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
+Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including Lukey and Tomato (IT). Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | LIMA |  |
 | Fri, 2 Oct 2026 | ADULTE: NIGHT OF SENSES - DEEP SOULFUL HOUSE |  |

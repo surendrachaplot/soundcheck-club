@@ -1,12 +1,12 @@
 # Alcove Nottingham
 
-Alcove Nottingham is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Infinite Beats" on Sat, 31 Oct 2026.
+Alcove Nottingham is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Infinite Beats" on Sat, 31 Oct 2026.
 
-Alcove Nottingham is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including Ian Bircher. Browse upcoming dates, start times and who's playing. 26 St James's St, Nottingham NG1 6FH.
+Alcove Nottingham is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Ian Bircher. Browse upcoming dates, start times and who's playing. 26 St James's St, Nottingham NG1 6FH.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Infinite Beats | Ian Bircher |
 

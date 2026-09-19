@@ -1,12 +1,12 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MUTED // Fashionshow + Rave" on Sat, 19 Sept 2026.
+FLUCC is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MUTED // Fashionshow + Rave" on Sat, 19 Sept 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including A.Pringle, Dcascallana, Dj Wifi (3) and Ele Luz and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including A.Pringle, Dcascallana, Dj Wifi (3) and Ele Luz and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MUTED // Fashionshow + Rave | Dj Wifi (3), Trugbild, pinklotion |
 | Fri, 25 Sept 2026 | Sniffin´ Glue | Ora Et Labora |

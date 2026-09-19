@@ -1,12 +1,12 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 27 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OMNOM + Kamino" on Sat, 19 Sept 2026.
+The Concourse Project is a music venue in Austin with 27 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OMNOM + Kamino" on Sat, 19 Sept 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OMNOM + Kamino | Kamino |
 | Fri, 25 Sept 2026 | Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) | Deorro |

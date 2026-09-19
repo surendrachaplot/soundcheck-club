@@ -1,12 +1,12 @@
 # Flux Studios D2
 
-Flux Studios D2 is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "ddr.10 Day 1" on Sat, 31 Oct 2026.
+Flux Studios D2 is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "ddr.10 Day 1" on Sat, 31 Oct 2026.
 
-Flux Studios D2 is a music venue in Dublin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 4 Chatham Row, Dublin, D02 PA06.
+Flux Studios D2 is a music venue in Dublin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 4 Chatham Row, Dublin, D02 PA06.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | ddr.10 Day 1 |  |
 | Sun, 1 Nov 2026 | ddr.10 Day 2 |  |

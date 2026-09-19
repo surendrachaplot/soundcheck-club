@@ -1,12 +1,12 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "hereandthere x Spectrum Waves: open-air day & night" on Sat, 19 Sept 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "hereandthere x Spectrum Waves: open-air day & night" on Sat, 19 Sept 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming nights, with line-ups including Adamatron, aláya, Arthur Robert and AVHD and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Adamatron, aláya, Arthur Robert and AVHD and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | hereandthere x Spectrum Waves: open-air day & night | Adamatron, Arthur Robert, Fake Agent, Lea Occhi, Maria Politi, Natalie Robinson, Pink Concrete, RÆZA, SOTTOH, aláya |
 | Thu, 24 Sept 2026 | SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA | Gnosis, ItsLucid, VLZQUES |

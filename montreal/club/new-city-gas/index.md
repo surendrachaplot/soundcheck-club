@@ -1,12 +1,12 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "R3hab, Tomas grey" on Sat, 26 Sept 2026.
+New City Gas is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "R3hab, Tomas grey" on Sat, 26 Sept 2026.
 
-New City Gas is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Afrojack, Bob Sinclar, CamelPhat and Dillon Francis and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
+New City Gas is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Afrojack, Bob Sinclar, CamelPhat and Dillon Francis and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | R3hab, Tomas grey | R3hab |
 | Sat, 3 Oct 2026 | Afrojack presents: CONTROL | Afrojack, Torren Foot |

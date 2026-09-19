@@ -1,12 +1,12 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice" on Sat, 19 Sept 2026.
+Club Vaag is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice" on Sat, 19 Sept 2026.
 
-Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, with line-ups including BISOUX, BØĘRY, CeeJay and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
+Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with line-ups including BISOUX, BØĘRY, CeeJay and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice | DJ IP, Entasia, Jef Nice, THELMA |
 | Fri, 25 Sept 2026 | Club Vaag invites Ueberrest, TASSERY & THISO | JIPSEY, TASSERY, THISO, Ueberrest |

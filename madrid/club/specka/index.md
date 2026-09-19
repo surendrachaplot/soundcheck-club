@@ -1,12 +1,12 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Michael Mayer [Kompakt] I Halley Club" on Sat, 19 Sept 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Michael Mayer [Kompakt] I Halley Club" on Sat, 19 Sept 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Anthony Rother, Aro Rey, Brody (2) and David Ponziano and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Rother, Aro Rey, Brody (2) and David Ponziano and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Michael Mayer [Kompakt] I Halley Club | David Ponziano, Michael Mayer |
 | Sat, 19 Sept 2026 | Nostromo Club 2*Aniv. Tardes de Trance I SpeckaClub |  |

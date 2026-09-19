@@ -1,12 +1,12 @@
 # TBA - Location With Ticket
 
-TBA - Location With Ticket is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pluse Ritual 5" on Sat, 26 Sept 2026.
+TBA - Location With Ticket is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pluse Ritual 5" on Sat, 26 Sept 2026.
 
-TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Andrew Bon Bosher and Lorely Mur. Browse upcoming dates, start times and who's playing.
+TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Andrew Bon Bosher and Lorely Mur. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Pluse Ritual 5 | Andrew Bon Bosher, Lorely Mur |
 

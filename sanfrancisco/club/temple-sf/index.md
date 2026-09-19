@@ -1,12 +1,12 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dayshift - 30+ Day Party San Francisco" on Sat, 19 Sept 2026.
+Temple SF is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dayshift - 30+ Day Party San Francisco" on Sat, 19 Sept 2026.
 
-Temple SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming gigs, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dayshift - 30+ Day Party San Francisco |  |
 | Sat, 19 Sept 2026 | HELLO GATITA PERREO |  |

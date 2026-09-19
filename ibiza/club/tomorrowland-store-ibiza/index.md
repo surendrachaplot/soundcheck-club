@@ -1,12 +1,12 @@
 # Tomorrowland Store Ibiza
 
-Tomorrowland Store Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tomorrowland Rooftop Sessions" on Fri, 25 Sept 2026.
+Tomorrowland Store Ibiza is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tomorrowland Rooftop Sessions" on Fri, 25 Sept 2026.
 
-Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Sebastiaan Hooft. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears.
+Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Sebastiaan Hooft. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Tomorrowland Rooftop Sessions | Sebastiaan Hooft |
 | Fri, 9 Oct 2026 | Tomorrowland Rooftop Sessoons | Sebastiaan Hooft |

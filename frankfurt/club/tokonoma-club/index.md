@@ -1,12 +1,12 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Circle" on Sat, 19 Sept 2026.
+Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Circle" on Sat, 19 Sept 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with line-ups including Agafy, Alas (2), Anna Hjalmarsson and Back2Bass and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Agafy, Alas (2), Anna Hjalmarsson and Back2Bass and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Circle | Agafy, Anna Hjalmarsson, Cryptofauna, DJ SPORTSCHUH, François X, Kim She, POIZN, Paul Pahn, Perra Inmunda, Surf 2 Glory, Wigbert, julia gun |
 | Fri, 9 Oct 2026 | Habitus x Tokonoma | ELSA (DE), Ignez, Mara Menace, Preta, Tobi Lack, Townes, Waldymoto, Zarling |

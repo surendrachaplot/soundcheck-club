@@ -1,12 +1,12 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Midnight Film Festival with Live Sound MICHAEL JACKSON MOONWALKER" on Sun, 20 Sept 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Midnight Film Festival with Live Sound MICHAEL JACKSON MOONWALKER" on Sun, 20 Sept 2026.
 
-MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including A-Tweed, AERAE, Aiko Inoue and Astma and 2 more. Browse upcoming dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including A-Tweed, AERAE, Aiko Inoue and Astma and 2 more. Browse upcoming dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Midnight Film Festival with Live Sound MICHAEL JACKSON MOONWALKER |  |
 | Fri, 2 Oct 2026 | ツチノカホリ / Tsuchi no Kahori | A-Tweed, ZUNDOKO DISCO, k:sea |

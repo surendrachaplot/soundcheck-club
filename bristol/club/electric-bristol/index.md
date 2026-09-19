@@ -1,12 +1,12 @@
 # Electric Bristol
 
-Electric Bristol is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Devlin - Bristol" on Fri, 25 Sept 2026.
+Electric Bristol is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Devlin - Bristol" on Fri, 25 Sept 2026.
 
-Electric Bristol is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including Carina Lawrence, Culture Shock, Dosem and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
+Electric Bristol is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Carina Lawrence, Culture Shock, Dosem and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 15 Nelson Street, Bristol, BS1 2JY, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Devlin - Bristol |  |
 | Sat, 26 Sept 2026 | Woodland Dance Project: DNB After Party |  |

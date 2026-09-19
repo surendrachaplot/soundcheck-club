@@ -1,12 +1,12 @@
 # Cafe Del Mar Sydney
 
-Cafe Del Mar Sydney is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Back to the 90's - Sydney (Halloween Edition)" on Sat, 31 Oct 2026.
+Cafe Del Mar Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Back to the 90's - Sydney (Halloween Edition)" on Sat, 31 Oct 2026.
 
-Cafe Del Mar Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+Cafe Del Mar Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Back to the 90's - Sydney (Halloween Edition) |  |
 

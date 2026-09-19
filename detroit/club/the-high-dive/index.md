@@ -1,12 +1,12 @@
 # The High Dive
 
-The High Dive is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DJ Rozwell - Detroit" on Fri, 25 Sept 2026.
+The High Dive is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DJ Rozwell - Detroit" on Fri, 25 Sept 2026.
 
-The High Dive is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including ASL Princess, Auntie Chanel, Buzi and Obi-Wan Shinobi and 1 more. Browse upcoming dates, start times and who's playing. 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA.
+The High Dive is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including ASL Princess, Auntie Chanel, Buzi and Obi-Wan Shinobi and 1 more. Browse upcoming dates, start times and who's playing. 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | DJ Rozwell - Detroit | XXHARDBIT3S |
 | Sat, 3 Oct 2026 | Lezzing Out: Munches & Monsters Burlesque | Buzi |

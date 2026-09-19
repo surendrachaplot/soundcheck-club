@@ -1,12 +1,12 @@
 # Space Eat & Dance
 
-Space Eat & Dance is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Space Sunset Rituals feat. Juan Laforga & Secretario" on Sat, 19 Sept 2026.
+Space Eat & Dance is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Space Sunset Rituals feat. Juan Laforga & Secretario" on Sat, 19 Sept 2026.
 
-Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with line-ups including dubsea, John Fritz, Paul Bozak Morrissey and Ramon Castells and 2 more. Browse upcoming dates, start times and who's playing.
+Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including dubsea, John Fritz, Paul Bozak Morrissey and Ramon Castells and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Space Sunset Rituals feat. Juan Laforga & Secretario |  |
 | Mon, 21 Sept 2026 | Space Sunset Rituals feat. Paul Bozak | Paul Bozak Morrissey |

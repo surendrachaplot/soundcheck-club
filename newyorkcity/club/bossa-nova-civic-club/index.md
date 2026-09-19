@@ -1,12 +1,12 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Happy Hour: elle xxo" on Sat, 19 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Happy Hour: elle xxo" on Sat, 19 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Happy Hour: elle xxo | elle xxo |
 | Sat, 19 Sept 2026 | SEX CHANGE | ASL Princess, BLAIZE, Mr. Bitch, SEXINCHURCH, kuntress |

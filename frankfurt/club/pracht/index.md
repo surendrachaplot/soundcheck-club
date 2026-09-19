@@ -1,12 +1,12 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex" on Sat, 19 Sept 2026.
+Pracht is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex" on Sat, 19 Sept 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming nights, with line-ups including Andrea Castells, Benja Asima, BIANCA BLANCO and Claudius (DE) and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Castells, Benja Asima, BIANCA BLANCO and Claudius (DE) and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex | Claudius (DE), Maex, Mike Gannu, stefan mueller |
 | Thu, 24 Sept 2026 | feierabend. x ONGRND with Monsieur Vide & Shahab |  |

@@ -1,12 +1,12 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ego-Trip with Ben Kamal, Hermética" on Fri, 25 Sept 2026.
+Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ego-Trip with Ben Kamal, Hermética" on Fri, 25 Sept 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Angelo Stasi, Atomic moog, Audiolux and Avo (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Angelo Stasi, Atomic moog, Audiolux and Avo (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Ego-Trip with Ben Kamal, Hermética | Ben Kamal, HERMETICA, Varo (ES) |
 | Sat, 26 Sept 2026 | Selected Records Showcase | Angelo Stasi, G4G0, Gabriel D'or & Bordoy |

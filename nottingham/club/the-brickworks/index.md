@@ -1,12 +1,12 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Brickworks: Conducta [All Night Long]" on Sat, 19 Sept 2026.
+The Brickworks is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Brickworks: Conducta [All Night Long]" on Sat, 19 Sept 2026.
 
-The Brickworks is a music venue in Nottingham listed on soundcheck. 7 upcoming nights, with line-ups including Captain Wallop, Channel One Sound, Conducta and LTJ Bukem and 2 more. Browse upcoming dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
+The Brickworks is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, with line-ups including Captain Wallop, Channel One Sound, Conducta and LTJ Bukem and 2 more. Browse upcoming dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Brickworks: Conducta [All Night Long] | Conducta |
 | Fri, 25 Sept 2026 | The Brickworks: LTJ Bukem | LTJ Bukem |

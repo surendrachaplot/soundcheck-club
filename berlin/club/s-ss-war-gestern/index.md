@@ -1,12 +1,12 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 22 Sept 2026.
+Süss War Gestern is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 22 Sept 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Dicso_Muzek and KAT:10. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Dicso_Muzek and KAT:10. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | KAT:10 |
 | Tue, 29 Sept 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | Dicso_Muzek |

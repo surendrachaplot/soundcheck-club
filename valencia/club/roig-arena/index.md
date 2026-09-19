@@ -1,12 +1,12 @@
 # Roig Arena
 
-Roig Arena is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "House Arena" on Sat, 7 Nov 2026.
+Roig Arena is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "House Arena" on Sat, 7 Nov 2026.
 
-Roig Arena is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Dan Shake, Demi Riquisimo and Folamour. Browse upcoming dates, start times and who's playing. C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 València, Valencia.
+Roig Arena is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with line-ups including Dan Shake, Demi Riquisimo and Folamour. Browse upcoming dates, start times and who's playing. C/ del Bomber Ramon Duart, 12, Quatre Carreres, 46013 València, Valencia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | House Arena | Dan Shake, Demi Riquisimo, Folamour |
 

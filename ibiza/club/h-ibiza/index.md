@@ -1,12 +1,12 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Black Coffee" on Sat, 19 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Black Coffee" on Sat, 19 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming gigs, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Black Coffee | ANOTR, Black Coffee, East End Dubs, Laolu |
 | Sun, 20 Sept 2026 | MESTIZA | DJ Dali, Indira Paganotto, Lee Ann Roberts, MËSTIZA, Pole Position, THEMBA |

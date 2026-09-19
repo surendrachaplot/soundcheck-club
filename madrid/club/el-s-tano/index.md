@@ -1,12 +1,12 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BAKALAO: DJ NEIL, Monty, Gaskón" on Sat, 19 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 28 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "BAKALAO: DJ NEIL, Monty, Gaskón" on Sat, 19 Sept 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming nights, with line-ups including Alexander Kowalski, Alvaro Cabana, Arok Shiva and Brisa Then and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 28 upcoming gigs, with line-ups including Alexander Kowalski, Alvaro Cabana, Arok Shiva and Brisa Then and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | BAKALAO: DJ NEIL, Monty, Gaskón | Gaskón |
 | Sun, 20 Sept 2026 | Riot invites Drøma: Dofs, Mwalls y Arok Shiva | Arok Shiva |

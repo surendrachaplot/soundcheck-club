@@ -1,12 +1,12 @@
 # Grow
 
-Grow is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Soul Satisfaction: Max Sinàl // Maria Hanlon" on Sat, 19 Sept 2026.
+Grow is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Soul Satisfaction: Max Sinàl // Maria Hanlon" on Sat, 19 Sept 2026.
 
-Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Bena, Chameleonas, CSGRV and donwella and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Bena, Chameleonas, CSGRV and donwella and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Soul Satisfaction: Max Sinàl // Maria Hanlon | Maria Hanlon, Max Sinàl |
 | Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // Goh Well | Goh Well, Moontalk, OKAMI, THEMPRESS |

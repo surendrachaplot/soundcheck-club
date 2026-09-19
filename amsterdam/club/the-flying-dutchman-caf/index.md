@@ -1,12 +1,12 @@
 # The Flying Dutchman Café
 
-The Flying Dutchman Café is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Strange Town" on Fri, 23 Oct 2026.
+The Flying Dutchman Café is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Strange Town" on Fri, 23 Oct 2026.
 
-The Flying Dutchman Café is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Alísha, AMYMI MUSICA, Baha and Bryan Wolf Ear and 2 more. Browse upcoming dates, start times and who's playing. Martelaarsgracht 13HS, 1012 TN Amsterdam.
+The Flying Dutchman Café is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alísha, AMYMI MUSICA, Baha and Bryan Wolf Ear and 2 more. Browse upcoming dates, start times and who's playing. Martelaarsgracht 13HS, 1012 TN Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Strange Town | Alísha, Baha, Bryan Wolf Ear, Daesmith, JUWLZ, Kostya Outta, Pedro Mercado |
 | Sat, 24 Oct 2026 | Melodic Drift | AMYMI MUSICA, Eddy Tango, JP Lantieri, Pedro Mercado, RELO4D |

@@ -1,12 +1,12 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vendex presents: VALKHOR" on Fri, 2 Oct 2026.
+Edelfettwerk is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vendex presents: VALKHOR" on Fri, 2 Oct 2026.
 
-Edelfettwerk is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including Cera Khin, Charlie, DJ Cringey and DJ DRECKISCH and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
+Edelfettwerk is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including Cera Khin, Charlie, DJ Cringey and DJ DRECKISCH and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Vendex presents: VALKHOR | Cera Khin, Koboyo, Luciid, Mila Black, Vendex |
 | Fri, 9 Oct 2026 | SECTOR BOUNCE EDITION with DJ DRECKISCH, DJ Cringey, WILDERÍCH, HOOM & Shilo | DJ Cringey, DJ DRECKISCH, HOOM, Shilo, WILDERÍCH |

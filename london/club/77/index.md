@@ -1,12 +1,12 @@
 # 77
 
-77 is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "77 SESSIONS: DEB FA" on Sat, 19 Sept 2026.
+77 is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "77 SESSIONS: DEB FA" on Sat, 19 Sept 2026.
 
-77 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including CLEIDO, AfroKillerz, AliTR and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, AliTR and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 77 SESSIONS: DEB FA | DUO (UK), Duo, Kidflo |
 | Fri, 25 Sept 2026 | 77 SESSIONS: KOTTO | Dan Luxa, Hazel Marimba |

@@ -1,12 +1,12 @@
 # Supperclub Cruise
 
-Supperclub Cruise is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Oktoberfest by Heineken & Erdinger" on Fri, 2 Oct 2026.
+Supperclub Cruise is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Oktoberfest by Heineken & Erdinger" on Fri, 2 Oct 2026.
 
-Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Cris-H, Einmusik, GIVIO and Grace Kim and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
+Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Cris-H, Einmusik, GIVIO and Grace Kim and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Oktoberfest by Heineken & Erdinger |  |
 | Thu, 22 Oct 2026 | Jackies ADE Boat Party 2026 - Louie Vega - Open to Close | GIVIO, Grace Kim, Louie Vega, Piem |

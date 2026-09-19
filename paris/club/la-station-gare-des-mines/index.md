@@ -1,12 +1,12 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "AÏE DES MINES (Nord + Sud) THE LAST DANCE (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 19 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AÏE DES MINES (Nord + Sud) THE LAST DANCE (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES)" on Sat, 19 Sept 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including 1LDK, 300SkullsAndCounting, A.Litique and Amnesia Scanner and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including 1LDK, 300SkullsAndCounting, A.Litique and Amnesia Scanner and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | AÏE DES MINES (Nord + Sud) THE LAST DANCE (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) |  |
 | Wed, 23 Sept 2026 | Devon Rexi & Nicolini - Ciclade x la Station | Devon Rexi |

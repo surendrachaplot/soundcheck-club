@@ -1,12 +1,12 @@
 # Hidden Grooves
 
-Hidden Grooves is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party" on Tue, 10 Nov 2026.
+Hidden Grooves is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party" on Tue, 10 Nov 2026.
 
-Hidden Grooves is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Colleen 'Cosmo' Murphy. Browse upcoming dates, start times and who's playing. 45 Curtain Rd, London EC2A 3PT.
+Hidden Grooves is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Colleen 'Cosmo' Murphy. Browse upcoming dates, start times and who's playing. 45 Curtain Rd, London EC2A 3PT.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Classic Album Sundays presents Balearic Breakfast Vol.5 Album Launch Party | Colleen 'Cosmo' Murphy |
 

@@ -1,12 +1,12 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Multiverse Events presents SPECTRUM SOUND" on Sat, 19 Sept 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Multiverse Events presents SPECTRUM SOUND" on Sat, 19 Sept 2026.
 
-Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including Nuno di Rosso, Pedro Tabuada, Rui Azevedo and Rui Trintaeum and 1 more. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
+Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Nuno di Rosso, Pedro Tabuada, Rui Azevedo and Rui Trintaeum and 1 more. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Multiverse Events presents SPECTRUM SOUND |  |
 | Sun, 20 Sept 2026 | LASER VOID |  |

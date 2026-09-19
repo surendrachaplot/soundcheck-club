@@ -1,12 +1,12 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Liquid Culture presents Nutritious All Night: Solarmaxxing Release Party" on Sat, 19 Sept 2026.
+Danger Danger is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Liquid Culture presents Nutritious All Night: Solarmaxxing Release Party" on Sat, 19 Sept 2026.
 
-Danger Danger is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Nutritious. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
+Danger Danger is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Nutritious. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Liquid Culture presents Nutritious All Night: Solarmaxxing Release Party | Nutritious |
 

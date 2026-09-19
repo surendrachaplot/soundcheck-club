@@ -1,12 +1,12 @@
 # TBA - Stave - Brynsveien 1
 
-TBA - Stave - Brynsveien 1 is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Under the Rug - October 2026" on Fri, 2 Oct 2026.
+TBA - Stave - Brynsveien 1 is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Under the Rug - October 2026" on Fri, 2 Oct 2026.
 
-TBA - Stave - Brynsveien 1 is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Axymt., Javel, Josh Bobzin and Katiusha and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Stave - Brynsveien 1 is a music venue in Oslo listed on soundcheck. 1 upcoming gig, with line-ups including Axymt., Javel, Josh Bobzin and Katiusha and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Under the Rug - October 2026 | Axymt., Javel, Josh Bobzin, Katiusha, Lilli Zylka, Niilas, Recorded Future |
 

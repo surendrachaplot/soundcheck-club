@@ -1,12 +1,12 @@
 # Lingotto Fiere
 
-Lingotto Fiere is a music venue in Turin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "C2C Festival 2026" on Thu, 29 Oct 2026.
+Lingotto Fiere is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "C2C Festival 2026" on Thu, 29 Oct 2026.
 
-Lingotto Fiere is a music venue in Turin listed on soundcheck. 1 upcoming night, with line-ups including Arca, Bladee, Carl Stone and Crystallmess and 2 more. Browse upcoming dates, start times and who's playing. Via Nizza 294, 10126 Torino (TO), Italy.
+Lingotto Fiere is a music venue in Turin listed on soundcheck. 1 upcoming gig, with line-ups including Arca, Bladee, Carl Stone and Crystallmess and 2 more. Browse upcoming dates, start times and who's playing. Via Nizza 294, 10126 Torino (TO), Italy.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | C2C Festival 2026 | Arca, Bladee, Carl Stone, Crystallmess, Eli Wewentxu, Giesse, Grouper, KMRU, Kelela, Kode9, Marina Herlop, Nexus, Oklou, RP Boo, Robyn, Shygirl, Smerz, Talpah, Theo Parrish, Visible Cloaks |
 

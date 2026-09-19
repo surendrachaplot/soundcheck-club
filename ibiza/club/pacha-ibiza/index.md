@@ -1,12 +1,12 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Robin Schulz" on Sat, 19 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Robin Schulz" on Sat, 19 Sept 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming gigs, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Robin Schulz | Jax Jones, MistaJam, Robin Schulz |
 | Sun, 20 Sept 2026 | Solomun+1 | KETTAMA, Solomun |

@@ -1,12 +1,12 @@
 # The Aubrey
 
-The Aubrey is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Omaya presents Afro, Arabic & Turkish House @ The Aubrey - Knightsbridge" on Fri, 25 Sept 2026.
+The Aubrey is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Omaya presents Afro, Arabic & Turkish House @ The Aubrey - Knightsbridge" on Fri, 25 Sept 2026.
 
-The Aubrey is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 66 Knightsbridge, London SW1X 7LA.
+The Aubrey is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 66 Knightsbridge, London SW1X 7LA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Omaya presents Afro, Arabic & Turkish House @ The Aubrey - Knightsbridge |  |
 

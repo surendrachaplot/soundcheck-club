@@ -1,12 +1,12 @@
 # Midline
 
-Midline is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Loe Shimmy – Pretty Girls Run The World Tour MIAMI" on Fri, 25 Sept 2026.
+Midline is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Loe Shimmy – Pretty Girls Run The World Tour MIAMI" on Fri, 25 Sept 2026.
 
-Midline is a music venue in Miami listed on soundcheck. 9 upcoming nights, with line-ups including DJ Habibeats and Mose. Browse upcoming dates, start times and who's playing.
+Midline is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Habibeats and Mose. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Loe Shimmy – Pretty Girls Run The World Tour MIAMI |  |
 | Sat, 3 Oct 2026 | Akeem Ali: The Texture Tour |  |

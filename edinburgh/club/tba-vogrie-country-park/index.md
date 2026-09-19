@@ -1,12 +1,12 @@
 # TBA - Vogrie Country Park
 
-TBA - Vogrie Country Park is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Woodland Dance Project with Shy Fx, 4am Kru, Oppidan, Badger, Mungos Hifi ft Aziza " on Sat, 3 Oct 2026.
+TBA - Vogrie Country Park is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Woodland Dance Project with Shy Fx, 4am Kru, Oppidan, Badger, Mungos Hifi ft Aziza " on Sat, 3 Oct 2026.
 
-TBA - Vogrie Country Park is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including 4am Kru, Badger (UK), BASTI(UK) and Oppidan and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Vogrie Country Park is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including 4am Kru, Badger (UK), BASTI(UK) and Oppidan and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Woodland Dance Project with Shy Fx, 4am Kru, Oppidan, Badger, Mungos Hifi ft Aziza  | 4am Kru, BASTI(UK), Badger (UK), Oppidan, Saint Ludo, Shy FX |
 

@@ -1,12 +1,12 @@
 # Frame
 
-Frame is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Frame Dublin Season 2 Opening Night" on Sat, 26 Sept 2026.
+Frame is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Frame Dublin Season 2 Opening Night" on Sat, 26 Sept 2026.
 
-Frame is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Christian AB, Donncha, Hannah (1) and Justin Bank and 2 more. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin 1, D01 C3N0, Ireland.
+Frame is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including Christian AB, Donncha, Hannah (1) and Justin Bank and 2 more. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin 1, D01 C3N0, Ireland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Frame Dublin Season 2 Opening Night | Donncha, Hannah (1), Justin Bank, Seán Ruane, Sophie (2) |
 | Fri, 2 Oct 2026 | Frame presents: Christian AB | Christian AB |

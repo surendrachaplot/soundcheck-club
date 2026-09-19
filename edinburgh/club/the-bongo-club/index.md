@@ -1,12 +1,12 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Messenger Sound System - Bongo Return Dance" on Sat, 19 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Messenger Sound System - Bongo Return Dance" on Sat, 19 Sept 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming nights, with line-ups including FLIPSIDE., YVI, Bryan Gee and Capo Lee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming gigs, with line-ups including FLIPSIDE., YVI, Bryan Gee and Capo Lee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Messenger Sound System - Bongo Return Dance |  |
 | Tue, 22 Sept 2026 | Volta Launch Night with Miss Cabbage, Sea Urchin + residents [LIMITED FREE TICKETS] | Miss Cabbage, Rodent, Sea Urchin |

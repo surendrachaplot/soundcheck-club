@@ -1,12 +1,12 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Alegría x Boyanza (Mexico City) at Vittoria Wharf" on Sun, 20 Sept 2026.
+Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Alegría x Boyanza (Mexico City) at Vittoria Wharf" on Sun, 20 Sept 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Aldonna, Alien Communications, ASHTREY and Bekefi and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Aldonna, Alien Communications, ASHTREY and Bekefi and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Club Alegría x Boyanza (Mexico City) at Vittoria Wharf | Camila Valero, Kodemul, Lettie, Li Causi, Lils, Lukas Leigh, Rafatel, Revstreet, Valeriana, papa jazz |
 | Thu, 24 Sept 2026 | REALITYS |  |

@@ -1,12 +1,12 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitefreak" on Sat, 19 Sept 2026.
+Audio SF is a music venue in San Francisco/Oakland with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitefreak" on Sat, 19 Sept 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming nights, with line-ups including Ahadadream, ALMAS, Azzecca and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming gigs, with line-ups including Ahadadream, ALMAS, Azzecca and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nitefreak | Nitefreak |
 | Fri, 25 Sept 2026 | WELKER |  |

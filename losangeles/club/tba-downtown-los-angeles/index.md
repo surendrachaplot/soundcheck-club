@@ -1,12 +1,12 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "body wave: Felix Dickinson (UK), Masha Mar, Junior" on Sat, 19 Sept 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "body wave: Felix Dickinson (UK), Masha Mar, Junior" on Sat, 19 Sept 2026.
 
-TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcoming nights, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | body wave: Felix Dickinson (UK), Masha Mar, Junior | Body Wave DJs, Felix Dickinson, Masha Mar |
 | Fri, 25 Sept 2026 | Certified Groovers: Gene On Earth in LA | Chemtrail Johnny, Cromie, Gene On Earth, Gilbert0, Hazy, Ian Llorens, Momo Trosman |

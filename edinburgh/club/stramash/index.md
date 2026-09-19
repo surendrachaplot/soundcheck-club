@@ -1,12 +1,12 @@
 # Stramash
 
-Stramash is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "High Fade Twice as Nice Tour - Edinburgh" on Fri, 9 Oct 2026.
+Stramash is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "High Fade Twice as Nice Tour - Edinburgh" on Fri, 9 Oct 2026.
 
-Stramash is a music venue in Edinburgh listed on soundcheck. 1 upcoming night, with line-ups including High Fade. Browse upcoming dates, start times and who's playing.
+Stramash is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including High Fade. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | High Fade Twice as Nice Tour - Edinburgh | High Fade |
 

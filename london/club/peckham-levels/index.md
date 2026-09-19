@@ -1,12 +1,12 @@
 # Peckham Levels
 
-Peckham Levels is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More" on Sat, 31 Oct 2026.
+Peckham Levels is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More" on Sat, 31 Oct 2026.
 
-Peckham Levels is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Disco Freaks, Dr Meaker and Jazzheadchronic. Browse upcoming dates, start times and who's playing. Peckham Levels, Peckham Town Centre Carpark, 95A Rye Ln, London SE15 4ST, United Kingdom.
+Peckham Levels is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Disco Freaks, Dr Meaker and Jazzheadchronic. Browse upcoming dates, start times and who's playing. Peckham Levels, Peckham Town Centre Carpark, 95A Rye Ln, London SE15 4ST, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More | Disco Freaks, Dr Meaker, Jazzheadchronic |
 

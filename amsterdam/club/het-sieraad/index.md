@@ -1,12 +1,12 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "I-F - EILEEN - 5 hour sets" on Fri, 25 Sept 2026.
+Het Sieraad is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "I-F - EILEEN - 5 hour sets" on Fri, 25 Sept 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Adam Ten, Adapter, Anthony Middleton and [ares] and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | I-F - EILEEN - 5 hour sets | Eileen (NL), I-F |
 | Sat, 26 Sept 2026 | ZENZELE AMSTERDAM W BUN XAPA, FNX OMAR, SAFFOU & MANY MORE |  |

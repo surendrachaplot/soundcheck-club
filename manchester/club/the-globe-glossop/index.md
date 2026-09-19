@@ -1,12 +1,12 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "TBC#22: KULK + IAN" on Thu, 24 Sept 2026.
+The Globe, Glossop is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TBC#22: KULK + IAN" on Thu, 24 Sept 2026.
 
-The Globe, Glossop is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Kode9. Browse upcoming dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
+The Globe, Glossop is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Kode9. Browse upcoming dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBC#22: KULK + IAN |  |
 | Sat, 3 Oct 2026 | T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN |  |

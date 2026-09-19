@@ -1,12 +1,12 @@
 # Don Quixote
 
-Don Quixote is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tinzo + Jojo's Dark Library - Los Angeles" on Fri, 16 Oct 2026.
+Don Quixote is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tinzo + Jojo's Dark Library - Los Angeles" on Fri, 16 Oct 2026.
 
-Don Quixote is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Cquestt, Jojo Lorenzo, Machinedrum and Rohaan and 2 more. Browse upcoming dates, start times and who's playing. 2811 E Olympic Blvd, Los Angeles, CA 90023.
+Don Quixote is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including Cquestt, Jojo Lorenzo, Machinedrum and Rohaan and 2 more. Browse upcoming dates, start times and who's playing. 2811 E Olympic Blvd, Los Angeles, CA 90023.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tinzo + Jojo's Dark Library - Los Angeles | Jojo Lorenzo, Tinzo |
 | Fri, 6 Nov 2026 | Bitch Planet: Barbazon presents Big Freedia | Cquestt, Star Amerasu, UNiiQU3 |

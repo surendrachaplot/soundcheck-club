@@ -1,12 +1,12 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Big Fish Little Fish Outdoor Family Rave - Lewisham" on Sun, 20 Sept 2026.
+The Fox and Firkin is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Big Fish Little Fish Outdoor Family Rave - Lewisham" on Sun, 20 Sept 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 808 State, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 808 State, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Big Fish Little Fish Outdoor Family Rave - Lewisham |  |
 | Thu, 24 Sept 2026 | RECREATION w/ Special Guest, Rebekah Abdeen, CASE & Trudy Knight | Case (2), Rebekah Abdeen, Trudy Knight |

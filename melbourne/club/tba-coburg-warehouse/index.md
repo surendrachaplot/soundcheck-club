@@ -1,12 +1,12 @@
 # TBA - Coburg warehouse 
 
-TBA - Coburg warehouse  is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg]" on Fri, 25 Sept 2026.
+TBA - Coburg warehouse  is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg]" on Fri, 25 Sept 2026.
 
-TBA - Coburg warehouse  is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including JOVE, PEACHI and S3PPA. Browse upcoming dates, start times and who's playing.
+TBA - Coburg warehouse  is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including JOVE, PEACHI and S3PPA. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Marigold pres S3PPA [NL] & APRD [NL] - [BYO Warehouse Coburg] | JOVE, PEACHI, S3PPA |
 

@@ -1,12 +1,12 @@
 # Random Sample
 
-Random Sample is a music venue in Nashville with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Lou Turner - 'Strangels' Release Show, joined by Kate Teague" on Fri, 6 Nov 2026.
+Random Sample is a music venue in Nashville with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Lou Turner - 'Strangels' Release Show, joined by Kate Teague" on Fri, 6 Nov 2026.
 
-Random Sample is a music venue in Nashville listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 4904 Charlotte Ave, Nashville, TN 37209.
+Random Sample is a music venue in Nashville listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 4904 Charlotte Ave, Nashville, TN 37209.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Lou Turner - 'Strangels' Release Show, joined by Kate Teague |  |
 | Sat, 7 Nov 2026 | Rock Eupora // Vinyl Release Party |  |

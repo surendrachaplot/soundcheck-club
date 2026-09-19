@@ -1,12 +1,12 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 26 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OPEN-AIR: DJ MANDY" on Sat, 19 Sept 2026.
+BERHTA is a music venue in Washington DC with 26 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OPEN-AIR: DJ MANDY" on Sat, 19 Sept 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 26 upcoming nights, with line-ups including 100 gecs, Anfisa Letyago, bradeazy and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 26 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, bradeazy and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | OPEN-AIR: DJ MANDY | DJ MANDY |
 | Sat, 19 Sept 2026 | EAT IT UP | Ty Sunderland |

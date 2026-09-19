@@ -1,12 +1,12 @@
 # Birgit
 
-Birgit is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Birgits WEEKENDER" on Fri, 18 Sept 2026.
+Birgit is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Birgits WEEKENDER" on Fri, 18 Sept 2026.
 
-Birgit is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Miss Kitchen and Vivi Wonder. Browse upcoming dates, start times and who's playing. Schleusenufer 3, 10997 Berlin.
+Birgit is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Miss Kitchen and Vivi Wonder. Browse upcoming dates, start times and who's playing. Schleusenufer 3, 10997 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Birgits WEEKENDER | Miss Kitchen, Vivi Wonder |
 

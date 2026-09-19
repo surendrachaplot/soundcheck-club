@@ -1,12 +1,12 @@
 # Ruskii Sports Bar
 
-Ruskii Sports Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "BEAUTY AND THE BEATZ" on Sat, 19 Sept 2026.
+Ruskii Sports Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "BEAUTY AND THE BEATZ" on Sat, 19 Sept 2026.
 
-Ruskii Sports Bar is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+Ruskii Sports Bar is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | BEAUTY AND THE BEATZ |  |
 

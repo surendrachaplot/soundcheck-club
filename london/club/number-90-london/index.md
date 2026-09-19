@@ -1,12 +1,12 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faem e Li" on Sat, 19 Sept 2026.
+NUMBER 90 LONDON is a music venue in London with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faem e Li" on Sat, 19 Sept 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Faem e Li |  |
 | Thu, 24 Sept 2026 | Cosmo's Midnight |  |

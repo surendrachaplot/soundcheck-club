@@ -1,12 +1,12 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Foundation 011" on Thu, 24 Sept 2026.
+The Chemist is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Foundation 011" on Thu, 24 Sept 2026.
 
-The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel and Patchwork. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
+The Chemist is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Anthony Pappa, Brian Gravel and Patchwork. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Foundation 011 | Patchwork |
 | Sat, 26 Sept 2026 | CONNECTEDwith presents Anthony Pappa | Anthony Pappa, Brian Gravel |

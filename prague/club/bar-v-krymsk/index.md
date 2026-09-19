@@ -1,12 +1,12 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Orkus" on Sat, 19 Sept 2026.
+Bar v Krymský is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Orkus" on Sat, 19 Sept 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 18 upcoming nights, with line-ups including Cubik, Diome, Dj Wash! and Javas and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with line-ups including Cubik, Diome, Dj Wash! and Javas and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Orkus | Orkus |
 | Thu, 24 Sept 2026 | Yukimura |  |

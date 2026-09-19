@@ -1,12 +1,12 @@
 # La Marquise
 
-La Marquise is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Thx4Crying" on Thu, 8 Oct 2026.
+La Marquise is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Thx4Crying" on Thu, 8 Oct 2026.
 
-La Marquise is a music venue in Lyon listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 20 Quai Augagneur, 69003 Lyon.
+La Marquise is a music venue in Lyon listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 20 Quai Augagneur, 69003 Lyon.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Thx4Crying |  |
 | Wed, 18 Nov 2026 | La Parade |  |

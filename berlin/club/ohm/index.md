@@ -1,12 +1,12 @@
 # OHM
 
-OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PuMp Berlin Daytime hosted by Anja Schneider with Skatman" on Sat, 19 Sept 2026.
+OHM is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PuMp Berlin Daytime hosted by Anja Schneider with Skatman" on Sat, 19 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaronovsky, aeriform, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Aaronovsky, aeriform, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PuMp Berlin Daytime hosted by Anja Schneider with Skatman | Anja Schneider, Skatman |
 | Sat, 19 Sept 2026 | Life Classics with Antal | Antal, Sanctuary |

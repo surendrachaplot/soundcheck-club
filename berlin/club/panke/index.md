@@ -1,12 +1,12 @@
 # Panke
 
-Panke is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "JellyZone x TAKSEER: Cairo Showcase" on Sat, 19 Sept 2026.
+Panke is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "JellyZone x TAKSEER: Cairo Showcase" on Sat, 19 Sept 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including A7ba L Jelly, AGILITÄT, Alex Wilcox and BBBBBBB and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including A7ba L Jelly, AGILITÄT, Alex Wilcox and BBBBBBB and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | JellyZone x TAKSEER: Cairo Showcase | A7ba L Jelly, Jana, Saphe, Taradud, ZOBAYDA |
 | Wed, 23 Sept 2026 | AJULLIACOSTA | SILVASURFER000 |

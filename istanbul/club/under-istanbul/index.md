@@ -1,12 +1,12 @@
 # Under Istanbul
 
-Under Istanbul is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Step Into the Groove: A Private Late-Night Session" on Sat, 19 Sept 2026.
+Under Istanbul is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Step Into the Groove: A Private Late-Night Session" on Sat, 19 Sept 2026.
 
-Under Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Sıraselviler Caddesi. No:55A Cihangir, Istanbul, Turkey, 34433.
+Under Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Sıraselviler Caddesi. No:55A Cihangir, Istanbul, Turkey, 34433.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Step Into the Groove: A Private Late-Night Session |  |
 

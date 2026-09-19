@@ -1,12 +1,12 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "A BIG A$$ PARTY: shekdash, AK, Disc Jockey George b2b JMT" on Sat, 19 Sept 2026.
+TV Lounge is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "A BIG A$$ PARTY: shekdash, AK, Disc Jockey George b2b JMT" on Sat, 19 Sept 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including AK (US), Al Ester, Ashton Swinton and Ataxia and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including AK (US), Al Ester, Ashton Swinton and Ataxia and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | A BIG A$$ PARTY: shekdash, AK, Disc Jockey George b2b JMT | AK (US), Disc Jockey George, JMT (2), shekdash |
 | Fri, 25 Sept 2026 | Hector Romero does TV | Bruce Bailey, Hector Romero, sillygirlcarmen |

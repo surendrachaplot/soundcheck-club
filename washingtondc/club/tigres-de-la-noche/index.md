@@ -1,12 +1,12 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nü Androids presents SünDown: Mishell" on Sat, 19 Sept 2026.
+Tigres de la Noche is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nü Androids presents SünDown: Mishell" on Sat, 19 Sept 2026.
 
-Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including AEREA, Chinonegro, Dublon and Dusky and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 21 upcoming gigs, with line-ups including AEREA, Chinonegro, Dublon and Dusky and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nü Androids presents SünDown: Mishell |  |
 | Sat, 19 Sept 2026 | Nü Androids presents: Main Phase | Main Phase |

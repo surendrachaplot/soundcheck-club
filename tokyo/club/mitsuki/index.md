@@ -1,12 +1,12 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HALOGEN" on Wed, 16 Sept 2026.
+Mitsuki is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HALOGEN" on Wed, 16 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including AAGUU, An toi, Carl H and Celter and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AAGUU, An toi, Carl H and Celter and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | HALOGEN | HIMAWARI, KOPY, Ko Umehara, nano odorine |
 | Sat, 19 Sept 2026 | QUERICO x CREATURES OF THE NIGHT: Zombies in Miami, DSKE & Manaha | An toi, DSKE, Manaha, Zombies In Miami |

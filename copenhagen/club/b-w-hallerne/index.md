@@ -1,12 +1,12 @@
 # B&W Hallerne
 
-B&W Hallerne is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "DA NIENTE: A massive sound and light installation in B&W Hallerne" on Fri, 9 Oct 2026.
+B&W Hallerne is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "DA NIENTE: A massive sound and light installation in B&W Hallerne" on Fri, 9 Oct 2026.
 
-B&W Hallerne is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including SØS Gunver Ryberg. Browse upcoming dates, start times and who's playing. Refshalevej 177, 1432 Koebenhavn.
+B&W Hallerne is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including SØS Gunver Ryberg. Browse upcoming dates, start times and who's playing. Refshalevej 177, 1432 Koebenhavn.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | DA NIENTE: A massive sound and light installation in B&W Hallerne | SØS Gunver Ryberg |
 

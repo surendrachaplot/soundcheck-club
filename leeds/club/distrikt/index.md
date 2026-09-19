@@ -1,12 +1,12 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASS3 x Distrikt Bar" on Sat, 19 Sept 2026.
+Distrikt is a music venue in Leeds with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASS3 x Distrikt Bar" on Sat, 19 Sept 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Alex Osifo, Arty, Ben Murphy and Binyamhn and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Osifo, Arty, Ben Murphy and Binyamhn and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | BASS3 x Distrikt Bar | Ben Murphy, Late Replies |
 | Fri, 25 Sept 2026 | LouderNoize X Spinners - Smokey Bubblin' B | Smokey Bubblin' B |

@@ -1,12 +1,12 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FOCUS: MARRØN" on Sat, 19 Sept 2026.
+Flash is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FOCUS: MARRØN" on Sat, 19 Sept 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including Alan Fitzpatrick, Andy Grant, Anetha and Anthony Middleton and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming gigs, with line-ups including Alan Fitzpatrick, Andy Grant, Anetha and Anthony Middleton and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | FOCUS: MARRØN | BehTarin, MARRØN, Sabda, TV HILL, shilimili |
 | Sun, 20 Sept 2026 | Sunday Love: BASHKKA - Gabrielle Kwarteng - Geena Marie | BASHKKA, Gabrielle Kwarteng |

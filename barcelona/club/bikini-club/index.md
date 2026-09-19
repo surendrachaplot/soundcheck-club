@@ -1,12 +1,12 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tunnel pres. 20 Years of Rekids with Radio Slave, Riva Starr, Vikki" on Sat, 19 Sept 2026.
+Bikini Club is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tunnel pres. 20 Years of Rekids with Radio Slave, Riva Starr, Vikki" on Sat, 19 Sept 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Budakid, Chicks Luv Us, Danny Howells and Dave Seaman and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including Budakid, Chicks Luv Us, Danny Howells and Dave Seaman and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tunnel pres. 20 Years of Rekids with Radio Slave, Riva Starr, Vikki | Radio Slave, Riva Starr, Vikki |
 | Fri, 25 Sept 2026 | Tunnel pres. Carloh, Murphy's Law, Viccenzo | Chicks Luv Us, Viccenzo |

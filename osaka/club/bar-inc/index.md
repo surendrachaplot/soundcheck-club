@@ -1,12 +1,12 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WEEKEND SELECTERS" on Sat, 19 Sept 2026.
+BAR Inc is a music venue in Osaka with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "WEEKEND SELECTERS" on Sat, 19 Sept 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Benedek and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming gigs, with line-ups including ANCHIN, AOKI takamasa, Benedek and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | WEEKEND SELECTERS |  |
 | Sun, 20 Sept 2026 | WEEKEND SELECTERS | ANCHIN, Steven Julien |

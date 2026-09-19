@@ -1,12 +1,12 @@
 # Café Café Bar Amsterdam
 
-Café Café Bar Amsterdam is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hyperactive World Amsterdam at ADE" on Thu, 22 Oct 2026.
+Café Café Bar Amsterdam is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hyperactive World Amsterdam at ADE" on Thu, 22 Oct 2026.
 
-Café Café Bar Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including 25EMEHEURE, Alien Communications, ANXHELA and Craigie Knowes and 2 more. Browse upcoming dates, start times and who's playing. Amstel 1 1011VW Amsterdam.
+Café Café Bar Amsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including 25EMEHEURE, Alien Communications, ANXHELA and Craigie Knowes and 2 more. Browse upcoming dates, start times and who's playing. Amstel 1 1011VW Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Hyperactive World Amsterdam at ADE |  |
 | Fri, 23 Oct 2026 | Together Alone x ADE | 25EMEHEURE, ANXHELA, ECZODIA, KAAI, KØZLØV, LESSSS, Majes, NORO$T, OMAKS |

@@ -1,12 +1,12 @@
 # TBA - Wicker Park
 
-TBA - Wicker Park is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave)" on Sat, 26 Sept 2026.
+TBA - Wicker Park is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave)" on Sat, 26 Sept 2026.
 
-TBA - Wicker Park is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including BiLatinBby, Jon McCray, Nanoos and Slight. Browse upcoming dates, start times and who's playing.
+TBA - Wicker Park is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including BiLatinBby, Jon McCray, Nanoos and Slight. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Sinners Sanctuary: $atan's Slutty Sleepover (a bi/pansexual hell rave) | BiLatinBby, Jon McCray, Nanoos, Slight |
 

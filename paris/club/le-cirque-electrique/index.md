@@ -1,12 +1,12 @@
 # Le Cirque Electrique
 
-Le Cirque Electrique is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Acrobat - Ornorm -" on Sat, 26 Sept 2026.
+Le Cirque Electrique is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Acrobat - Ornorm -" on Sat, 26 Sept 2026.
 
-Le Cirque Electrique is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Place du Maquis du Vercors, 75020 Paris.
+Le Cirque Electrique is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Place du Maquis du Vercors, 75020 Paris.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Acrobat - Ornorm - |  |
 

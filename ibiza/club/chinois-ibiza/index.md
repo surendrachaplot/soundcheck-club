@@ -1,12 +1,12 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Masquerade: Claptone, Pete Tong, Alexander Som, Artche" on Sat, 19 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Masquerade: Claptone, Pete Tong, Alexander Som, Artche" on Sat, 19 Sept 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including Andrea Oliva, Antdot, Anthony James and Artche and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 20 upcoming gigs, with line-ups including Andrea Oliva, Antdot, Anthony James and Artche and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Masquerade: Claptone, Pete Tong, Alexander Som, Artche | Artche, Claptone, Pete Tong |
 | Sun, 20 Sept 2026 | Bedouin presents SAGA | Bedouin |

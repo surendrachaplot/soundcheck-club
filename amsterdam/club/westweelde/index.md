@@ -1,12 +1,12 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Exchange party - Semester Opening Festival" on Fri, 18 Sept 2026.
+WestWeelde is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Exchange party - Semester Opening Festival" on Fri, 18 Sept 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including ACID FLORA, Analog Kitchen, Animal Trainer and Awka and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Animal Trainer and Awka and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Exchange party - Semester Opening Festival |  |
 | Sat, 26 Sept 2026 | SINGLZ Events |  |

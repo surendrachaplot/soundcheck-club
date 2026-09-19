@@ -1,12 +1,12 @@
 # TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party )
 
-TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Istanbul season closing sep 20th" on Sun, 20 Sept 2026.
+TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Istanbul season closing sep 20th" on Sun, 20 Sept 2026.
 
-TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including ARKADYAN, HotLap and IMEN. Browse upcoming dates, start times and who's playing.
+TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ) is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including ARKADYAN, HotLap and IMEN. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Istanbul season closing sep 20th | ARKADYAN, HotLap, IMEN |
 

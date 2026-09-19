@@ -1,12 +1,12 @@
 # De Vierde Zaal
 
-De Vierde Zaal is a music venue in Ghent with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Menace to Society" on Sat, 19 Sept 2026.
+De Vierde Zaal is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Menace to Society" on Sat, 19 Sept 2026.
 
-De Vierde Zaal is a music venue in Ghent listed on soundcheck. 3 upcoming nights, with line-ups including DJoy, Filen, Samsnavs and Traskel. Browse upcoming dates, start times and who's playing. Driebeekstraat 4, 9050 Gent.
+De Vierde Zaal is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including DJoy, Filen, Samsnavs and Traskel. Browse upcoming dates, start times and who's playing. Driebeekstraat 4, 9050 Gent.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Menace to Society | Filen, Samsnavs, Traskel |
 | Sat, 26 Sept 2026 | Teknodrome | DJoy |

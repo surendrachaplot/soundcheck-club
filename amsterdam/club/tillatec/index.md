@@ -1,12 +1,12 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VBX SUMMER CLOSING " on Sat, 19 Sept 2026.
+TILLATEC is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VBX SUMMER CLOSING " on Sat, 19 Sept 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Justine Perry, Andy Garvey, Andy Martin and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Andy Garvey, Andy Martin and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VBX SUMMER CLOSING  | DJ Split, Nosedrip, PHIA, Ploy, THC, Tommy Chikara, Velasco, dj sweet6teen |
 | Fri, 25 Sept 2026 | sSSsSensationsSs: CLOWN DIVA DOWN | angelboy |

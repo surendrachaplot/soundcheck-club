@@ -1,12 +1,12 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SALTARUS with Raxeller & KIM AHLF" on Sat, 19 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SALTARUS with Raxeller & KIM AHLF" on Sat, 19 Sept 2026.
 
-Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including AEREA, Aiden (DE), Alignment and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
+Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming gigs, with line-ups including AEREA, Aiden (DE), Alignment and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SALTARUS with Raxeller & KIM AHLF | Alignment, KIM AHLF, Raxeller, Staszko, TRYPTAJ, TWOFACEDKIMMY, Unromantic, unjani |
 | Fri, 25 Sept 2026 | Liquicity Hamburg 2026 | Eightball, Lexurus, Maduk, Pola & Bryson |

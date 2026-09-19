@@ -1,12 +1,12 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "UTOPIA" on Fri, 18 Sept 2026.
+Club Wintercircus is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "UTOPIA" on Fri, 18 Sept 2026.
 
-Club Wintercircus is a music venue in Ghent listed on soundcheck. 8 upcoming nights, with line-ups including 6 SENSE, Auramatic, BEN GERRANS and Forbidden Fruit and 2 more. Browse upcoming dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
+Club Wintercircus is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including 6 SENSE, Auramatic, BEN GERRANS and Forbidden Fruit and 2 more. Browse upcoming dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | UTOPIA | 6 SENSE, Auramatic, BEN GERRANS, Maëlle, Prinsezy, SHUFFA |
 | Fri, 25 Sept 2026 | Lippstick - Fall in Love |  |

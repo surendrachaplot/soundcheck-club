@@ -1,12 +1,12 @@
 # 8MM
 
-8MM is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "8MM & Shameless/Limitless present: Meril Wubslin (Bongo Joe)" on Tue, 22 Sept 2026.
+8MM is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "8MM & Shameless/Limitless present: Meril Wubslin (Bongo Joe)" on Tue, 22 Sept 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | 8MM & Shameless/Limitless present: Meril Wubslin (Bongo Joe) |  |
 | Wed, 30 Sept 2026 | 8MM & Shameless/Limitless present: Morgan Garrett + Keith Leaf (DJ) |  |

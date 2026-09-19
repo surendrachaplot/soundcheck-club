@@ -1,12 +1,12 @@
 # Crane Hotel Faralda
 
-Crane Hotel Faralda is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
+Crane Hotel Faralda is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Do Not Sit On ADE" on Wed, 21 Oct 2026.
 
-Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Alex Micca, ADRIANNA, Alex Stein and Alice DiMar and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
+Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Micca, ADRIANNA, Alex Stein and Alice DiMar and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Do Not Sit On ADE | Lost Desert |
 | Thu, 22 Oct 2026 | TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) | Ivory, Tim Engelhardt, Tommy Farrow |

@@ -1,12 +1,12 @@
 # Six Trees Bar And Kitchen Manchester
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Silly Little Disco 002" on Fri, 30 Oct 2026.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Silly Little Disco 002" on Fri, 30 Oct 2026.
 
-Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Benny L, Diagnostix, dogger and Gray and 2 more. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
+Six Trees Bar And Kitchen Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Benny L, Diagnostix, dogger and Gray and 2 more. Browse upcoming dates, start times and who's playing. Trafford Park Rd, Trafford Park, Stretford, Manchester M17 1BN.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Silly Little Disco 002 | LEZZER QUEST |
 | Sat, 31 Oct 2026 | Mannyfest Halloween Special | Benny L, Diagnostix, Gray, Jamie Brewer, Mark XTC, Mindstate, Think Tonk, dogger |

@@ -1,12 +1,12 @@
 # Rebellion
 
-Rebellion is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK" on Fri, 2 Oct 2026.
+Rebellion is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK" on Fri, 2 Oct 2026.
 
-Rebellion is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including 2CUTE2CUE, Arkyn, Big Dope P and Chinese Daughter and 2 more. Browse upcoming dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
+Rebellion is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including 2CUTE2CUE, Arkyn, Big Dope P and Chinese Daughter and 2 more. Browse upcoming dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK | 2CUTE2CUE, Arkyn, Big Dope P, CRAIC DAVID, MALVADØNA, skywalka, sohotsospicy |
 | Sat, 3 Oct 2026 | Tunnel presents: Hardcore Babes, Scritts | Hardcore Babes |

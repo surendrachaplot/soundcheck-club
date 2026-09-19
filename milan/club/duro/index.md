@@ -1,12 +1,12 @@
 # DURO
 
-DURO is a music venue in Milan with 30 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MOAB Season Opening at DURO Club w/ tINI, Leena, Franzizca " on Sat, 19 Sept 2026.
+DURO is a music venue in Milan with 30 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MOAB Season Opening at DURO Club w/ tINI, Leena, Franzizca " on Sat, 19 Sept 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 30 upcoming nights, with line-ups including Aline Brooklyn, Caim, Carloalberto and Chloé and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 30 upcoming gigs, with line-ups including Aline Brooklyn, Caim, Carloalberto and Chloé and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MOAB Season Opening at DURO Club w/ tINI, Leena, Franzizca  | Franzizca., Leena, tINI |
 | Sat, 19 Sept 2026 | MOAB - Leena - Franzizca - tINI | Franzizca., Leena, tINI |

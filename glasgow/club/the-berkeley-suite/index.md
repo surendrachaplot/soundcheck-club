@@ -1,12 +1,12 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 30 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Shoot Your Shot - Giulia Gutterer (Scotland Debut)" on Sat, 19 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Shoot Your Shot - Giulia Gutterer (Scotland Debut)" on Sat, 19 Sept 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 30 upcoming nights, with line-ups including Andy Barton, Big Miz, Bonzai Bonner and Céleste and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with line-ups including Andy Barton, Big Miz, Bonzai Bonner and Céleste and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Shoot Your Shot - Giulia Gutterer (Scotland Debut) | Bonzai Bonner, Giulia Gutterer |
 | Tue, 22 Sept 2026 | CASA: WELCOME TO GLASGOW // TUESDAYS AT BERKELEY SUITE // 'OUR HOUSE IS YOUR HOUSE' |  |

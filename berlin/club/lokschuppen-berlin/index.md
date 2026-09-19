@@ -1,12 +1,12 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 71 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "NEER Eve & Night + Art Exhibition" on Sat, 19 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 71 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NEER Eve & Night + Art Exhibition" on Sat, 19 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming nights, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | NEER Eve & Night + Art Exhibition | BAUTZ, BUTZ, Hekato, Josiane, Jynki, KIKE Friday, Oskar Knickelbein, Philena, Smoothie Operator, krawallwitz |
 | Sun, 20 Sept 2026 | wieder: No Gravity x Eternity Showcase | Callado, Obelisk030, SALCHIKILLER, mølly (on molly) |

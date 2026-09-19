@@ -1,12 +1,12 @@
 # Radius
 
-Radius is a music venue in Chicago with 32 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LSR/CITY by Gareth Emery" on Sat, 19 Sept 2026.
+Radius is a music venue in Chicago with 32 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "LSR/CITY by Gareth Emery" on Sat, 19 Sept 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 32 upcoming nights, with line-ups including 10cust, Afrojack, Ariel Zetina and Ben Böhmer and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 32 upcoming gigs, with line-ups including 10cust, Afrojack, Ariel Zetina and Ben Böhmer and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | LSR/CITY by Gareth Emery | Gareth Emery |
 | Fri, 25 Sept 2026 | San Holo | San Holo |

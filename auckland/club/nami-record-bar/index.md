@@ -1,12 +1,12 @@
 # nami record bar
 
-nami record bar is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Give a f*ck. Vote." on Fri, 25 Sept 2026.
+nami record bar is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Give a f*ck. Vote." on Fri, 25 Sept 2026.
 
-nami record bar is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including Dylan Biscuit. Browse upcoming dates, start times and who's playing. 115a Ponsonby Road, Ponsonby, Auckland.
+nami record bar is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including Dylan Biscuit. Browse upcoming dates, start times and who's playing. 115a Ponsonby Road, Ponsonby, Auckland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Give a f*ck. Vote. | Dylan Biscuit |
 

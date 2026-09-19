@@ -1,12 +1,12 @@
 # Spielbank Berlin am Potsdamer Platz
 
-Spielbank Berlin am Potsdamer Platz is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music Lounge mit Abribass" on Wed, 23 Sept 2026.
+Spielbank Berlin am Potsdamer Platz is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music Lounge mit Abribass" on Wed, 23 Sept 2026.
 
-Spielbank Berlin am Potsdamer Platz is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Abribass and Cedric Scheibel. Browse upcoming dates, start times and who's playing. Marlene-Dietrich Platz 1; Mitte; 10178 Berlin; Germany.
+Spielbank Berlin am Potsdamer Platz is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Abribass and Cedric Scheibel. Browse upcoming dates, start times and who's playing. Marlene-Dietrich Platz 1; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Music Lounge mit Abribass | Abribass |
 | Wed, 30 Sept 2026 | Music Lounge mit Safe in Sound |  |

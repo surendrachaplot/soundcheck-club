@@ -1,12 +1,12 @@
 # Hero's Welcome
 
-Hero's Welcome is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "John Lee Trio at Hero’s Welcome" on Sun, 20 Sept 2026.
+Hero's Welcome is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "John Lee Trio at Hero’s Welcome" on Sun, 20 Sept 2026.
 
-Hero's Welcome is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3917 Main St, Vancouver, BC V5V 3P3.
+Hero's Welcome is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 3917 Main St, Vancouver, BC V5V 3P3.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | John Lee Trio at Hero’s Welcome |  |
 

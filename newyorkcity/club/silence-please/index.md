@@ -1,12 +1,12 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Halima In Process: One Year of SWEET TOOTH" on Sat, 19 Sept 2026.
+Silence Please is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Halima In Process: One Year of SWEET TOOTH" on Sat, 19 Sept 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including 320 (1), Halima, Softi and Kiana and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, with line-ups including 320 (1), Halima, Softi and Kiana and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Halima In Process: One Year of SWEET TOOTH | Halima |
 | Sat, 19 Sept 2026 | SILLAGE: W/ ROHANA |  |

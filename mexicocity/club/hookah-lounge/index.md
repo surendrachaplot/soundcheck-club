@@ -1,12 +1,12 @@
 # Hookah Lounge
 
-Hookah Lounge is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "HOOKAH CARTELERA SEPTIEMBRE" on Thu, 17 Sept 2026.
+Hookah Lounge is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "HOOKAH CARTELERA SEPTIEMBRE" on Thu, 17 Sept 2026.
 
-Hookah Lounge is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Campeche 284 Condesa, Cuauhtémoc; 06100 Ciudad de México, D.F.; Mexico.
+Hookah Lounge is a music venue in Mexicocity listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Campeche 284 Condesa, Cuauhtémoc; 06100 Ciudad de México, D.F.; Mexico.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | HOOKAH CARTELERA SEPTIEMBRE |  |
 

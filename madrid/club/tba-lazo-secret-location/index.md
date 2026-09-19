@@ -1,12 +1,12 @@
 # TBA - Lazo & Secret Location
 
-TBA - Lazo & Secret Location is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sinapsis x Undancel x BROKEN TOYS" on Sat, 10 Oct 2026.
+TBA - Lazo & Secret Location is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sinapsis x Undancel x BROKEN TOYS" on Sat, 10 Oct 2026.
 
-TBA - Lazo & Secret Location is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including ACID DRIFT, HCOR, Irrational Language and Sann Ku and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Lazo & Secret Location is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including ACID DRIFT, HCOR, Irrational Language and Sann Ku and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Sinapsis x Undancel x BROKEN TOYS | ACID DRIFT, HCOR, Irrational Language, Sann Ku, Semuta, Sub Hour |
 

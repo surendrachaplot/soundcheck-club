@@ -1,12 +1,12 @@
 # Cank Neukölln
 
-Cank Neukölln is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "3hd 2026: Beyond Imagining" on Sat, 31 Oct 2026.
+Cank Neukölln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "3hd 2026: Beyond Imagining" on Sat, 31 Oct 2026.
 
-Cank Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including 2K88, exmantera, Safety Trance and Suutoo. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 95, 12043 Berlin.
+Cank Neukölln is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including 2K88, exmantera, Safety Trance and Suutoo. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 95, 12043 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | 3hd 2026: Beyond Imagining | 2K88, Safety Trance, Suutoo, exmantera |
 

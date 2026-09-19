@@ -1,12 +1,12 @@
 # Bünker Mataró
 
-Bünker Mataró is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bünker XVII · Maze DK, Arcfilter, J KEY" on Fri, 2 Oct 2026.
+Bünker Mataró is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bünker XVII · Maze DK, Arcfilter, J KEY" on Fri, 2 Oct 2026.
 
-Bünker Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Arcfilter, JKEY and Maze DK. Browse upcoming dates, start times and who's playing. Carrer Batista i Roca 55, Mataró, Barcelona.
+Bünker Mataró is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Arcfilter, JKEY and Maze DK. Browse upcoming dates, start times and who's playing. Carrer Batista i Roca 55, Mataró, Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Bünker XVII · Maze DK, Arcfilter, J KEY | Arcfilter, JKEY, Maze DK |
 

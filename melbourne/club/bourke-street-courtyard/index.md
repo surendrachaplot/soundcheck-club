@@ -1,12 +1,12 @@
 # Bourke Street Courtyard
 
-Bourke Street Courtyard is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dangerous Goods x AURA presents - Mandragora RETURNS (MELBOURNE)" on Sat, 19 Sept 2026.
+Bourke Street Courtyard is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dangerous Goods x AURA presents - Mandragora RETURNS (MELBOURNE)" on Sat, 19 Sept 2026.
 
-Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Aarv, Double Touch, Gus McKinna and Lee Burridge and 2 more. Browse upcoming dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
+Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Aarv, Double Touch, Gus McKinna and Lee Burridge and 2 more. Browse upcoming dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dangerous Goods x AURA presents - Mandragora RETURNS (MELBOURNE) | Aarv, Mandragora, Nik Kastel |
 | Thu, 24 Sept 2026 | turbo629 > grand final public holiday eve > Bourke Street Courtyard | Gus McKinna |

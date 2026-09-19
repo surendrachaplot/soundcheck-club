@@ -1,12 +1,12 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "曲率驱动 Curvature-driven: K.O.P. 32 (Live)" on Sat, 19 Sept 2026.
+OIL Club is a music venue in Shenzhen with 28 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "曲率驱动 Curvature-driven: K.O.P. 32 (Live)" on Sat, 19 Sept 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming nights, with line-ups including ADEAD, Alex Banks, Alion and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming gigs, with line-ups including ADEAD, Alex Banks, Alion and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 曲率驱动 Curvature-driven: K.O.P. 32 (Live) | Fengshui, TiaNT |
 | Thu, 24 Sept 2026 | 小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live | Alex Banks |

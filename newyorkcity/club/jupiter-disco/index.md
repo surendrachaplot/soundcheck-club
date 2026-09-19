@@ -1,12 +1,12 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE" on Sat, 19 Sept 2026.
+Jupiter Disco is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE" on Sat, 19 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE | Colored Craig, For Future's Sake, Sevyn, VARSHA |
 | Sat, 19 Sept 2026 | Happy Hour: DJ girlcrush | DJ girlcrush |

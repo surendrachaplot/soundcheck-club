@@ -1,12 +1,12 @@
 # Fleet Steps - Mrs Macquaries Point
 
-Fleet Steps - Mrs Macquaries Point is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Harbourlife 2026" on Sat, 21 Nov 2026.
+Fleet Steps - Mrs Macquaries Point is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Harbourlife 2026" on Sat, 21 Nov 2026.
 
-Fleet Steps - Mrs Macquaries Point is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Bella Backe, Ben Sterling, HoneyLuv and Jordan Brando and 2 more. Browse upcoming dates, start times and who's playing. Macquarie St; Sydney, NSW 2000; Australia.
+Fleet Steps - Mrs Macquaries Point is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Bella Backe, Ben Sterling, HoneyLuv and Jordan Brando and 2 more. Browse upcoming dates, start times and who's playing. Macquarie St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Harbourlife 2026 | Bella Backe, Ben Sterling, Honey Dijon, HoneyLuv, Jordan Brando, Luke Dean_, Max Dean, Morgan Seatree, Omar+, Samantha Loveridge |
 

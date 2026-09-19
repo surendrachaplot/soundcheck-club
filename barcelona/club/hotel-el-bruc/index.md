@@ -1,12 +1,12 @@
 # Hotel El Bruc
 
-Hotel El Bruc is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "PINKCLOUD POOL PARTY (OPEN AIR)" on Sat, 19 Sept 2026.
+Hotel El Bruc is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "PINKCLOUD POOL PARTY (OPEN AIR)" on Sat, 19 Sept 2026.
 
-Hotel El Bruc is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including 3LEEZA, Bluntz (2), Brenda Serna (2) and H1pnos1s and 2 more. Browse upcoming dates, start times and who's playing. A-2 km 570, 08294 El Bruc, Barcelona.
+Hotel El Bruc is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including 3LEEZA, Bluntz (2), Brenda Serna (2) and H1pnos1s and 2 more. Browse upcoming dates, start times and who's playing. A-2 km 570, 08294 El Bruc, Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PINKCLOUD POOL PARTY (OPEN AIR) | 3LEEZA, Bluntz (2), Brenda Serna (2), H1pnos1s, Nahum Korm, Nita Key, QUINCE (2), Tasuik, Vicks (ES) |
 

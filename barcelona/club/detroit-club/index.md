@@ -1,12 +1,12 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "EKLIPSE pres. Toobris" on Sat, 19 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "EKLIPSE pres. Toobris" on Sat, 19 Sept 2026.
 
-DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including ALTRAX, CARGO (DE), Casanøva and Cobb Douglas and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
+DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including ALTRAX, CARGO (DE), Casanøva and Cobb Douglas and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | EKLIPSE pres. Toobris | Pärdo, TBA, Toobris |
 | Sat, 26 Sept 2026 | HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO  | REGGIO, VØLNA |

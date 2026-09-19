@@ -1,12 +1,12 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more" on Sat, 19 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more" on Sat, 19 Sept 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Pre-human 8BM: Esplendor Geométrico, Drew McDowall, Die Anstalt, The Hacker, SDH & many more | Drew McDowall, Pedro Maia, Shakti, The Hacker, Years of Denial |
 | Sat, 19 Sept 2026 | RAZZCLUBS: Drea b2b Keyrah + TBA | Canina, Drea (ES), Kaidara, Keyrah, L'Miranda |

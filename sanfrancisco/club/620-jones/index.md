@@ -1,12 +1,12 @@
 # 620 Jones
 
-620 Jones is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitefreak - Day Party Terrace" on Sat, 19 Sept 2026.
+620 Jones is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitefreak - Day Party Terrace" on Sat, 19 Sept 2026.
 
-620 Jones is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Nitefreak. Browse upcoming dates, start times and who's playing. 620 Jones Street, San Francisco, CA 94102, USA.
+620 Jones is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including Nitefreak. Browse upcoming dates, start times and who's playing. 620 Jones Street, San Francisco, CA 94102, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nitefreak - Day Party Terrace | Nitefreak |
 

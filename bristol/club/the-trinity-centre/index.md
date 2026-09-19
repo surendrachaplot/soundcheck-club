@@ -1,12 +1,12 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sexy Lady Massive" on Sat, 19 Sept 2026.
+The Trinity Centre is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sexy Lady Massive" on Sat, 19 Sept 2026.
 
-The Trinity Centre is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including ASIAN BRAT, Betsy Mae, Breakforce One and Coki and 2 more. Browse upcoming dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
+The Trinity Centre is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including ASIAN BRAT, Betsy Mae, Breakforce One and Coki and 2 more. Browse upcoming dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Sexy Lady Massive | ASIAN BRAT, Betsy Mae, Louise Plus One, REA (UK), Rhi Spect |
 | Sat, 26 Sept 2026 | EXRCISM: Chapter One | Breakforce One, Krista Bourgeois, Mollie Rush, The Teknoist |

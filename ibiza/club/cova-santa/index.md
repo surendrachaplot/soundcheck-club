@@ -1,12 +1,12 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cova Santa presents Joseph Capriati" on Sat, 19 Sept 2026.
+Cova Santa is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cova Santa presents Joseph Capriati" on Sat, 19 Sept 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 8 upcoming nights, with line-ups including Kepler, Abdon, Aca [RO] and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Kepler, Abdon, Aca [RO] and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Cova Santa presents Joseph Capriati | Joseph Capriati, Murphy's Law, Simon Kidzoo, Toman |
 | Tue, 22 Sept 2026 | PIV IBIZA TUESDAYS - September 22 | Ella Knight, Jansons, Job de Jong, Paisley Jensen, Prunk, Rich NXT |

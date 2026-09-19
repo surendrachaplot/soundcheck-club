@@ -1,12 +1,12 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Compact Disco: Revolution stage" on Sat, 19 Sept 2026.
+Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Compact Disco: Revolution stage" on Sat, 19 Sept 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including 3TB (1), aláya, Ark3r and AVHD and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 3TB (1), aláya, Ark3r and AVHD and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Compact Disco: Revolution stage | Old & Rich |
 | Fri, 25 Sept 2026 | Wellwetツ meets Golden Gate Berlin | Ark3r, De Mode, Edgar Peng, Nils Ohrmann, SERENE, kuju |

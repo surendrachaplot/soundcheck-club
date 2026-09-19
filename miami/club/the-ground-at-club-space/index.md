@@ -1,12 +1,12 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitzer Ebb" on Sat, 19 Sept 2026.
+The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nitzer Ebb" on Sat, 19 Sept 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nitzer Ebb | Nitzer Ebb, Sepehr, Souls Departed |
 | Fri, 25 Sept 2026 | Autonomy: SHERELLE, Bok Bok, & Introspekt | Bok Bok, Introspekt, Marie Qrie, SHERELLE, Xilla |

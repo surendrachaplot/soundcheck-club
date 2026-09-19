@@ -1,12 +1,12 @@
 # komunal
 
-komunal is a music venue in Birmingham with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "matty's bday with Gambol [kru] b2b Josh Padgett, KAMIL + Tom Moy" on Sat, 19 Sept 2026.
+komunal is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "matty's bday with Gambol [kru] b2b Josh Padgett, KAMIL + Tom Moy" on Sat, 19 Sept 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | matty's bday with Gambol [kru] b2b Josh Padgett, KAMIL + Tom Moy |  |
 | Fri, 25 Sept 2026 | Gio.Wav, Bagza + Louis Dominic |  |

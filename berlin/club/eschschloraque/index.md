@@ -1,12 +1,12 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Paulina Panik & Decadent Jugend" on Sat, 19 Sept 2026.
+Eschschloraque is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Paulina Panik & Decadent Jugend" on Sat, 19 Sept 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Paulina Panik & Decadent Jugend | Paulina Panik |
 | Wed, 23 Sept 2026 | MissVergnügen presents AUGELEKTRIK - live | MissVergnügen |

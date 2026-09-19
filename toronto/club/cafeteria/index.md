@@ -1,12 +1,12 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kontravoid with Buzz Kull" on Thu, 24 Sept 2026.
+Cafeteria is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kontravoid with Buzz Kull" on Thu, 24 Sept 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Ana Luisa, Gremlinz, Indie Sleaze and Momocita and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including Ana Luisa, Gremlinz, Indie Sleaze and Momocita and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Kontravoid with Buzz Kull |  |
 | Fri, 25 Sept 2026 | A Night for Venezuela & Colombia: Musical Bingo & Dance Party | Ana Luisa, Momocita, olasconola |

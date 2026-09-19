@@ -1,12 +1,12 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "CLUBBASS" on Sat, 19 Sept 2026.
+Garage 442 is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "CLUBBASS" on Sat, 19 Sept 2026.
 
-Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including DJ Alen, Inpulse, KARI (Ø) and Matteo Floris and 1 more. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
+Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Alen, Inpulse, KARI (Ø) and Matteo Floris and 1 more. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | CLUBBASS | Inpulse, Matteo Floris |
 | Wed, 23 Sept 2026 | (FREE) Wednesnight with |  |

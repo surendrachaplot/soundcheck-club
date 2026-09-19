@@ -1,12 +1,12 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 90 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "friends.zone mit Jørnemann & Freunde" on Sat, 19 Sept 2026.
+Minimal Bar is a music venue in Berlin with 90 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "friends.zone mit Jørnemann & Freunde" on Sat, 19 Sept 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 90 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 90 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | friends.zone mit Jørnemann & Freunde | Jørnemann |
 | Sun, 20 Sept 2026 | lazy.sunday mit CEEE & Freunde | CEEE |

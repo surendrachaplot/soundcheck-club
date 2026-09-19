@@ -1,12 +1,12 @@
 # OST
 
-OST is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more" on Sat, 19 Sept 2026.
+OST is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more" on Sat, 19 Sept 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including ĀFRAME, Alas (2), ALT8 and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including ĀFRAME, Alas (2), ALT8 and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more | Athina, DJ HOTMAIL, IGDA, JAZZY (2), Kø:lab, Limoncello, SEKTOR69, Treibende Kraft, ZOEVITA |
 | Thu, 24 Sept 2026 | [FREE ENTRY TILL 00:30] SAVORY | MAURER, WAN.1, sima (DE) |

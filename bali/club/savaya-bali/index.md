@@ -1,12 +1,12 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 27 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Techno and Chill" on Sat, 19 Sept 2026.
+Savaya Bali is a music venue in Bali with 27 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Techno and Chill" on Sat, 19 Sept 2026.
 
-Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, with line-ups including 19:26, Alex Wann, AMÉMÉ and Betical and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
+Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming gigs, with line-ups including 19:26, Alex Wann, AMÉMÉ and Betical and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Techno and Chill | Betical, Henrik Schwarz, Malive, Moeaike, Rockin Moroccin, Rolbac, Sparrow (CH) |
 | Sat, 26 Sept 2026 | Stephan Bodzin | Stephan Bodzin |

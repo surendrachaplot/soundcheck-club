@@ -1,12 +1,12 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Laurence Guy + Fred Martín + Simón García" on Sat, 19 Sept 2026.
+Sala Villanos is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Laurence Guy + Fred Martín + Simón García" on Sat, 19 Sept 2026.
 
-Sala Villanos is a music venue in Madrid listed on soundcheck. 17 upcoming nights, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
+Sala Villanos is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Laurence Guy + Fred Martín + Simón García | Laurence Guy |
 | Fri, 25 Sept 2026 | Paquita Gordon + Mena G + Estrella OR | ESTRELLA OR, Mena G, Paquita Gordon |

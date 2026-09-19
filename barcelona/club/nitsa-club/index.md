@@ -1,12 +1,12 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Expansivo @NITSA" on Sat, 19 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Club Expansivo @NITSA" on Sat, 19 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including acidheaven, Alan Braxe, Altinbas and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Club Expansivo @NITSA | Animistic Beliefs, Julio César, KEBRA, T0M1, Tiyumii |
 | Sat, 19 Sept 2026 | Braxe + Falcon · LB aka LABAT / Club Expansivo: Animistic Beliefs · KEBRA · Simona Live | Alan Braxe, Animistic Beliefs, Arnau Obiols, DJ F16 Falcon, Julio César, KEBRA, LB aka LABAT, T0M1, Tiyumii |

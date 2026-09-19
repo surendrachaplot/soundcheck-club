@@ -1,12 +1,12 @@
 # The Red Room
 
-The Red Room is a music venue in Vancouver with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SUBculure Saturdays: K Motionz" on Sat, 19 Sept 2026.
+The Red Room is a music venue in Vancouver with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SUBculure Saturdays: K Motionz" on Sat, 19 Sept 2026.
 
-The Red Room is a music venue in Vancouver listed on soundcheck. 8 upcoming nights, with line-ups including Alix Perez, Cartridge, Enei and Kasra and 2 more. Browse upcoming dates, start times and who's playing. 398 Richards St; Vancouver, BC V6B 4Y2; Canada.
+The Red Room is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs, with line-ups including Alix Perez, Cartridge, Enei and Kasra and 2 more. Browse upcoming dates, start times and who's playing. 398 Richards St; Vancouver, BC V6B 4Y2; Canada.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SUBculure Saturdays: K Motionz | K Motionz |
 | Sat, 19 Sept 2026 | K Motionz at SUBculture Saturdays | K Motionz |

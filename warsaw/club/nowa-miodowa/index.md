@@ -1,12 +1,12 @@
 # Nowa Miodowa
 
-Nowa Miodowa is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein" on Sun, 4 Oct 2026.
+Nowa Miodowa is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein" on Sun, 4 Oct 2026.
 
-Nowa Miodowa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including Klein and Visible Cloaks. Browse upcoming dates, start times and who's playing.
+Nowa Miodowa is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Klein and Visible Cloaks. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Unsound Warszawa 2026: MORNING GLORY 2 - Milkweed / Klein | Klein |
 | Sun, 4 Oct 2026 | Unsound Warszawa 2026: AFTERNOON GLORY 2 - Visible Cloaks feat. Hashtag Ensemble | Visible Cloaks |

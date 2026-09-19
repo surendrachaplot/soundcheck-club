@@ -1,12 +1,12 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires" on Sat, 19 Sept 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires" on Sat, 19 Sept 2026.
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming nights, with line-ups including Eli Nissan, FRANCO BA, Marcelo Vasami and Nick Varon and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming gigs, with line-ups including Eli Nissan, FRANCO BA, Marcelo Vasami and Nick Varon and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires | FRANCO BA |
 | Fri, 25 Sept 2026 | Armina x Karmic, La Biblioteca, San Telmo Buenos Aires |  |

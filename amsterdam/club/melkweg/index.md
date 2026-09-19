@@ -1,12 +1,12 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 47 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Curated by Break" on Sat, 19 Sept 2026.
+Melkweg is a music venue in Amsterdam with 47 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Curated by Break" on Sat, 19 Sept 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 47 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ABOUT SOFIYA and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 47 upcoming gigs, with line-ups including 2HOT2PLAY, Yulia Niko, ABOUT SOFIYA and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Curated by Break |  |
 | Mon, 21 Sept 2026 | Cheeky Monday: Anaïs | Anaïs, Insom |

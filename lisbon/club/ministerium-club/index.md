@@ -1,12 +1,12 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ministerium Club // Natural Goofy, Eric Furtado & Kristina" on Sat, 19 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ministerium Club // Natural Goofy, Eric Furtado & Kristina" on Sat, 19 Sept 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including aalice, Anastasiya Ty, ANÍBAL and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including aalice, Anastasiya Ty, ANÍBAL and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Ministerium Club // Natural Goofy, Eric Furtado & Kristina | Eric Furtado, Kristina (2), Natural Goofy |
 | Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | KICKREY, Madson Carpenter, Pharah, Shogun, VLB (1) |

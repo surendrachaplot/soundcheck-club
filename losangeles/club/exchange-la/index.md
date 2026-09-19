@@ -1,12 +1,12 @@
 # Exchange LA
 
-Exchange LA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Speed Freak" on Sat, 19 Sept 2026.
+Exchange LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Speed Freak" on Sat, 19 Sept 2026.
 
-Exchange LA is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Anfisa Letyago, Dillon Francis, Massano and Township Rebellion. Browse upcoming dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
+Exchange LA is a music venue in Losangeles listed on soundcheck. 6 upcoming gigs, with line-ups including Anfisa Letyago, Dillon Francis, Massano and Township Rebellion. Browse upcoming dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Speed Freak |  |
 | Sat, 10 Oct 2026 | Anfisa Letyago | Anfisa Letyago |

@@ -1,12 +1,12 @@
 # Grand Hotel Bucharest
 
-Grand Hotel Bucharest is a music venue in Bucharest with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MUSIC, FASHION, RAVE" on Sat, 19 Sept 2026.
+Grand Hotel Bucharest is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MUSIC, FASHION, RAVE" on Sat, 19 Sept 2026.
 
-Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Bulevardul Nicolae Bălcescu 4, București 010051.
+Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Bulevardul Nicolae Bălcescu 4, București 010051.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MUSIC, FASHION, RAVE |  |
 | Sun, 20 Sept 2026 | ABBA - DAY PARTY |  |

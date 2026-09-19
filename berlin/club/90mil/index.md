@@ -1,12 +1,12 @@
 # 90mil
 
-90mil is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SouthXSouthEast" on Tue, 22 Sept 2026.
+90mil is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SouthXSouthEast" on Tue, 22 Sept 2026.
 
-90mil is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 3rd Party Influence, Ami Wokloni, Bernhard Hollinger and Broshuda and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
+90mil is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including 3rd Party Influence, Ami Wokloni, Bernhard Hollinger and Broshuda and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | SouthXSouthEast | DJ Ayam Hitam, DJ Idiyappam, Memeshift |
 | Fri, 25 Sept 2026 | POLLEN: 90mil radio festival | 3rd Party Influence, Bernhard Hollinger, Broshuda, Depuratumba, Federico Torres, Hilary C/B, Karim Khelil, Kasei P, Leila Hassan, Mathilde Nobel, Max Volume, Nilgün Özer, Oman Sounds, Panalog, Reinartz, Rocco.fx, Rowan, VictorDiscos, Vile Tensor, jahiht |

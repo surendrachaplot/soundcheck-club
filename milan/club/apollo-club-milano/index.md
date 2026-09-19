@@ -1,12 +1,12 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toy Tonics x Sound Metaphors Milano" on Sat, 19 Sept 2026.
+Apollo Club Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toy Tonics x Sound Metaphors Milano" on Sat, 19 Sept 2026.
 
-Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Alinka, Arpy Brown, Bitter Saint and GABRIELEFEDELE and 2 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
+Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Alinka, Arpy Brown, Bitter Saint and GABRIELEFEDELE and 2 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Toy Tonics x Sound Metaphors Milano | Arpy Brown, Kapote, Max NRG Supply, Sound Metaphors Djs |
 | Fri, 25 Sept 2026 | milanosulset FW Opening with Alinka | Alinka, GS.ELLE |

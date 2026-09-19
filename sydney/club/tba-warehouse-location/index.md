@@ -1,12 +1,12 @@
 # TBA - Warehouse Location
 
-TBA - Warehouse Location is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mutual: DJ TOOL, CSILLA, MOS" on Sat, 3 Oct 2026.
+TBA - Warehouse Location is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mutual: DJ TOOL, CSILLA, MOS" on Sat, 3 Oct 2026.
 
-TBA - Warehouse Location is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Aloysia, CSILLA, DJ TOOL and human plushie and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Warehouse Location is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Aloysia, CSILLA, DJ TOOL and human plushie and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Mutual: DJ TOOL, CSILLA, MOS | CSILLA, DJ TOOL, Mos (NYC) |
 | Sat, 3 Oct 2026 | KINSHIP | Aloysia, Miss Parker, Sambee, human plushie |

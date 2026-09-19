@@ -1,12 +1,12 @@
 # Alffo Records
 
-Alffo Records is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "CURRENTS" on Sun, 27 Sept 2026.
+Alffo Records is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "CURRENTS" on Sun, 27 Sept 2026.
 
-Alffo Records is a music venue in Osaka listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1-2-6 3rd floor Shinmachi,Nishi-ku,Osaka,550-0013,Japan.
+Alffo Records is a music venue in Osaka listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1-2-6 3rd floor Shinmachi,Nishi-ku,Osaka,550-0013,Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | CURRENTS |  |
 

@@ -1,12 +1,12 @@
 # Private Hire at fabric
 
-Private Hire at fabric is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "THE FRESHERS IBIZA WHITE PARTY AT FABRIC! LONDON FRESHERS WEEK 2026" on Mon, 21 Sept 2026.
+Private Hire at fabric is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "THE FRESHERS IBIZA WHITE PARTY AT FABRIC! LONDON FRESHERS WEEK 2026" on Mon, 21 Sept 2026.
 
-Private Hire at fabric is a music venue in London listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing.
+Private Hire at fabric is a music venue in London listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | THE FRESHERS IBIZA WHITE PARTY AT FABRIC! LONDON FRESHERS WEEK 2026 |  |
 | Tue, 22 Sept 2026 | The Freshers Rave |  |

@@ -1,12 +1,12 @@
 # St. Ninian's Church
 
-St. Ninian's Church is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vocal Improvisation Workshop with Dali de Saint Paul" on Fri, 2 Oct 2026.
+St. Ninian's Church is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vocal Improvisation Workshop with Dali de Saint Paul" on Fri, 2 Oct 2026.
 
-St. Ninian's Church is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Albert Drive, Pollokshields, Glasgow, G41 2PE.
+St. Ninian's Church is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1 Albert Drive, Pollokshields, Glasgow, G41 2PE.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Vocal Improvisation Workshop with Dali de Saint Paul |  |
 

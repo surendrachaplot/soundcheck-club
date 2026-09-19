@@ -1,12 +1,12 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Freshers Project" on Mon, 21 Sept 2026.
+NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Freshers Project" on Mon, 21 Sept 2026.
 
-NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming nights, with line-ups including Arthi, Azyr, Bella Claxton and Ben Prophet and 2 more. Browse upcoming dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
+NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including Arthi, Azyr, Bella Claxton and Ben Prophet and 2 more. Browse upcoming dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Freshers Project |  |
 | Mon, 21 Sept 2026 | Freshers Project |  |

@@ -1,12 +1,12 @@
 # Boat Cruise Summer Series
 
-Boat Cruise Summer Series is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cheat Codes Boat Cruise" on Sat, 19 Sept 2026.
+Boat Cruise Summer Series is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cheat Codes Boat Cruise" on Sat, 19 Sept 2026.
 
-Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 200 Seaport Blvd Boston, MA 02210 USA.
+Boat Cruise Summer Series is a music venue in Boston listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 200 Seaport Blvd Boston, MA 02210 USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Cheat Codes Boat Cruise |  |
 | Sat, 3 Oct 2026 | Jigitz: 50 Ballerinas Tour |  |

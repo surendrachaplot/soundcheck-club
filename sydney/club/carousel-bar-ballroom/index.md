@@ -1,12 +1,12 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "★ S.A.S.H Sydney ★ Eddie Richards ★ Saturday 19th September ★" on Sat, 19 Sept 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "★ S.A.S.H Sydney ★ Eddie Richards ★ Saturday 19th September ★" on Sat, 19 Sept 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including DAYZZI, Deaf Toucan, DJ SWISHERMAN and FUKHED and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including DAYZZI, Deaf Toucan, DJ SWISHERMAN and FUKHED and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | ★ S.A.S.H Sydney ★ Eddie Richards ★ Saturday 19th September ★ |  |
 | Sat, 26 Sept 2026 | ★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★ | Kerry Wallace, Le Brond, Marley Sherman |

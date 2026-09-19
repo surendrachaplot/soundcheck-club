@@ -1,12 +1,12 @@
 # Radisson Red Sky Bar
 
-Radisson Red Sky Bar is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mariano Mellino - SKYLINE, GLASGOW" on Sun, 25 Oct 2026.
+Radisson Red Sky Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mariano Mellino - SKYLINE, GLASGOW" on Sun, 25 Oct 2026.
 
-Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including Mariano Mellino. Browse upcoming dates, start times and who's playing. 25 Tunnel Street, Finnieston Quay, G3 8HL.
+Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Mariano Mellino. Browse upcoming dates, start times and who's playing. 25 Tunnel Street, Finnieston Quay, G3 8HL.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Mariano Mellino - SKYLINE, GLASGOW | Mariano Mellino |
 

@@ -1,12 +1,12 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Digital x Special Delivery presents: Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz" on Sat, 19 Sept 2026.
+Ouseburn Garden is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Digital x Special Delivery presents: Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz" on Sat, 19 Sept 2026.
 
-Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, with line-ups including Mariiin, Adam Lance, Alisdair and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
+Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Mariiin, Adam Lance, Alisdair and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Digital x Special Delivery presents: Tania Vulcano, Inland Knights, Bobby ODonnell B2B Foz | Adam Lance, Bobby O'Donnell, Foz, Inland Knights, Tania Vulcano, Wakka |
 | Fri, 25 Sept 2026 | Krazed W/ DJ BAX, NOVA CHEQ, MALWARE |  |

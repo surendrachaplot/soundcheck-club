@@ -1,12 +1,12 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VACANZA × Butschi all night long" on Sat, 19 Sept 2026.
+Distillery is a music venue in Leipzig with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VACANZA × Butschi all night long" on Sat, 19 Sept 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VACANZA × Butschi all night long | Butschi, Krash Cora, Montezuma (DE) |
 | Fri, 25 Sept 2026 | S.D.H.Q. presents: Sonic Dimensions #1 | Kalitos, OutWithJane |

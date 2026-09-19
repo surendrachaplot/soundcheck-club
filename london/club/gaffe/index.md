@@ -1,12 +1,12 @@
 # Gaffe
 
-Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Wisdom Teeth Day & Night: Pariah, Facta x K-LONE, Manami, Jorg Kuning, FYI Robyn" on Sat, 19 Sept 2026.
+Gaffe is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Wisdom Teeth Day & Night: Pariah, Facta x K-LONE, Manami, Jorg Kuning, FYI Robyn" on Sat, 19 Sept 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including 1BYAKKO, 3 Minds, Alien Communications and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Wisdom Teeth Day & Night: Pariah, Facta x K-LONE, Manami, Jorg Kuning, FYI Robyn | FYI Robyn, Facta, Jorg Kuning, K-LONE, Manami, Pariah |
 | Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |

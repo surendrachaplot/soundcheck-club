@@ -1,12 +1,12 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "karaEKKO" on Thu, 24 Sept 2026.
+EKKO is a music venue in Utrecht with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "karaEKKO" on Thu, 24 Sept 2026.
 
-EKKO is a music venue in Utrecht listed on soundcheck. 13 upcoming nights, with line-ups including askmelater, Bella Hall, Deborah X and Neon Wasabi and 2 more. Browse upcoming dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
+EKKO is a music venue in Utrecht listed on soundcheck. 13 upcoming gigs, with line-ups including askmelater, Bella Hall, Deborah X and Neon Wasabi and 2 more. Browse upcoming dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | karaEKKO |  |
 | Fri, 25 Sept 2026 | Diep In De Groef |  |

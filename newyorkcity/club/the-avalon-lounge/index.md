@@ -1,12 +1,12 @@
 # The Avalon Lounge
 
-The Avalon Lounge is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Community Rave Network presents: Sharlese, Nick Schiarizzi, Christopher Michael Hefner, SVB" on Sat, 19 Sept 2026.
+The Avalon Lounge is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Community Rave Network presents: Sharlese, Nick Schiarizzi, Christopher Michael Hefner, SVB" on Sat, 19 Sept 2026.
 
-The Avalon Lounge is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Nick Schiarizzi, Sharlese and SVB. Browse upcoming dates, start times and who's playing. 29 Church St, Catskill, NY 12414, United States.
+The Avalon Lounge is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Nick Schiarizzi, Sharlese and SVB. Browse upcoming dates, start times and who's playing. 29 Church St, Catskill, NY 12414, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Community Rave Network presents: Sharlese, Nick Schiarizzi, Christopher Michael Hefner, SVB | Nick Schiarizzi, SVB, Sharlese |
 

@@ -1,12 +1,12 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Magenta release session: Phase Shift" on Sat, 19 Sept 2026.
+dubble is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Magenta release session: Phase Shift" on Sat, 19 Sept 2026.
 
-dubble is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Lena Rigel, MALLAURY, Marijn S and Masha Wordpress and 2 more. Browse upcoming dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
+dubble is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Lena Rigel, MALLAURY, Marijn S and Masha Wordpress and 2 more. Browse upcoming dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Magenta release session: Phase Shift | Lena Rigel, MALLAURY, Marijn S, Masha Wordpress |
 | Sun, 20 Sept 2026 | innerzone with robbin | robbin |

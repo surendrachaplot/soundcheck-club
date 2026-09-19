@@ -1,12 +1,12 @@
 # Canvas
 
-Canvas is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends" on Fri, 23 Oct 2026.
+Canvas is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends" on Fri, 23 Oct 2026.
 
-Canvas is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Afshin, Kapela and Young Pulse. Browse upcoming dates, start times and who's playing. 7th floor, Wibautstraat 150; 1091 Watergraafsmeer; Amsterdam; Netherlands.
+Canvas is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Afshin, Kapela and Young Pulse. Browse upcoming dates, start times and who's playing. 7th floor, Wibautstraat 150; 1091 Watergraafsmeer; Amsterdam; Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Djoon Paris x Canvas Nights [ADE] w/ Afshin - Kapela & friends | Afshin, Kapela |
 | Sat, 24 Oct 2026 | Djoon Paris x Canvas Nights [ADE] with Young Pulse & friends | Young Pulse |

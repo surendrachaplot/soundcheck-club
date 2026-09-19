@@ -1,12 +1,12 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios" on Sat, 26 Sept 2026.
+Ääniwalli is a music venue in Helsinki with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios" on Sat, 26 Sept 2026.
 
-Ääniwalli is a music venue in Helsinki listed on soundcheck. 7 upcoming nights, with line-ups including ALLFIVE, amil raja, Bucktooth T and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
+Ääniwalli is a music venue in Helsinki listed on soundcheck. 7 upcoming gigs, with line-ups including ALLFIVE, amil raja, Bucktooth T and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | KEEP HUSH × NOSLEEP with BIG SEXXY BASS & WHAT'S ON Joseysradios | Bucktooth T, Joseysradios, KOFU, Saint Nia, Sala (3), Shannen SP, moimar |
 | Sat, 3 Oct 2026 | Club Zero Vol.14 | Exploited Body, Glayden, MFM (FI), Niko Demus, amil raja, una (1) |

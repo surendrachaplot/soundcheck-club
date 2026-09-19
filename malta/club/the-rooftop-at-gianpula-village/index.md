@@ -1,12 +1,12 @@
 # The Rooftop at Gianpula Village
 
-The Rooftop at Gianpula Village is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "in.di.go // Summer Closing" on Sun, 27 Sept 2026.
+The Rooftop at Gianpula Village is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "in.di.go // Summer Closing" on Sun, 27 Sept 2026.
 
-The Rooftop at Gianpula Village is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including chouhal, Gordon Flash, Muski and Nastia and 1 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
+The Rooftop at Gianpula Village is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including chouhal, Gordon Flash, Muski and Nastia and 1 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | in.di.go // Summer Closing | Gordon Flash, Muski, Nastia, Patient (MT), chouhal |
 

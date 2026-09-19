@@ -1,12 +1,12 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hotstuff (München) Takeover" on Sat, 19 Sept 2026.
+Giselle is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hotstuff (München) Takeover" on Sat, 19 Sept 2026.
 
-Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming nights, with line-ups including Chet Rubbs, Chris Gerber, DJ Flatbeat and Goiaba and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
+Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming gigs, with line-ups including Chet Rubbs, Chris Gerber, DJ Flatbeat and Goiaba and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Hotstuff (München) Takeover | Chet Rubbs, Goiaba, POLSCHI (2) |
 | Fri, 25 Sept 2026 | Sofia Zoloto (UA) all night long | Sofiia Zoloto |

@@ -1,12 +1,12 @@
 # Akihabara IV
 
-Akihabara IV is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "D2D REAL Vol.5" on Sat, 19 Sept 2026.
+Akihabara IV is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "D2D REAL Vol.5" on Sat, 19 Sept 2026.
 
-Akihabara IV is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including ATMK. Browse upcoming dates, start times and who's playing. 6 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021.
+Akihabara IV is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including ATMK. Browse upcoming dates, start times and who's playing. 6 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | D2D REAL Vol.5 | ATMK |
 

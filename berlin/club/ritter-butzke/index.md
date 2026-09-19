@@ -1,12 +1,12 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solee" on Sat, 19 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solee" on Sat, 19 Sept 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including Aio, Alan Fitzpatrick, Alex Stein and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Aio, Alan Fitzpatrick, Alex Stein and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Solee | Katzengold, Malouna, Prismode, Solee |
 | Fri, 25 Sept 2026 | INTERNA | CUT:NA, Maik Gyver, RECLUSE (2) |

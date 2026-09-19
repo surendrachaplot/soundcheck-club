@@ -1,12 +1,12 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long]" on Sat, 19 Sept 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long]" on Sat, 19 Sept 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming gigs, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long] | Nat Wendell |
 | Thu, 24 Sept 2026 | Poly*Technic 003 | Shelf-Index |

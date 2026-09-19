@@ -1,12 +1,12 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 52 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DJ POIPOI, CALLMEKEVIN, TIM REYES & crazist" on Sat, 19 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 52 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DJ POIPOI, CALLMEKEVIN, TIM REYES & crazist" on Sat, 19 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 52 upcoming nights, with line-ups including 1-DRINK (2), 7e, BANANA-CHAN and crazist and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 52 upcoming gigs, with line-ups including 1-DRINK (2), 7e, BANANA-CHAN and crazist and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DJ POIPOI, CALLMEKEVIN, TIM REYES & crazist | DJ POIPOI, crazist |
 | Sun, 20 Sept 2026 | SuperUnKnown -100% production set | Dictionally, Kyohei Tanaka, Yukio Nohara |

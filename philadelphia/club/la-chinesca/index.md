@@ -1,12 +1,12 @@
 # La Chinesca
 
-La Chinesca is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Making Time ∞ TRANSCENDENTAL Shuttle Bus Passes - SHUTTLE BUS ONLY " on Fri, 18 Sept 2026.
+La Chinesca is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Making Time ∞ TRANSCENDENTAL Shuttle Bus Passes - SHUTTLE BUS ONLY " on Fri, 18 Sept 2026.
 
-La Chinesca is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including Gvantsky, Ricardo Roessel and Royce Larøca. Browse upcoming dates, start times and who's playing. 1036 Spring Garden St, Philadelphia, PA 19123.
+La Chinesca is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Gvantsky, Ricardo Roessel and Royce Larøca. Browse upcoming dates, start times and who's playing. 1036 Spring Garden St, Philadelphia, PA 19123.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Making Time ∞ TRANSCENDENTAL Shuttle Bus Passes - SHUTTLE BUS ONLY  |  |
 | Sun, 11 Oct 2026 | SubSummer Szn Finale | Gvantsky, Ricardo Roessel, Royce Larøca |

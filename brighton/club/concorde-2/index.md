@@ -1,12 +1,12 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Moody Disco: SOSA" on Sat, 19 Sept 2026.
+Concorde 2 is a music venue in Brighton with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Moody Disco: SOSA" on Sat, 19 Sept 2026.
 
-Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Kepler, Culture Shock, Flowdan and Neffa-T and 2 more. Browse upcoming dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
+Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming gigs, with line-ups including Kepler, Culture Shock, Flowdan and Neffa-T and 2 more. Browse upcoming dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Moody Disco: SOSA | SOSA (UK) |
 | Fri, 9 Oct 2026 | Kepler - Brighton | Kepler |

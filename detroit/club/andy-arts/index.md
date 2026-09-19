@@ -1,12 +1,12 @@
 # Andy Arts
 
-Andy Arts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "3.1.3" on Fri, 18 Sept 2026.
+Andy Arts is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "3.1.3" on Fri, 18 Sept 2026.
 
-Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Bccording, caitlin c. harvey, Cherriel and Infant and 2 more. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
+Andy Arts is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Bccording, caitlin c. harvey, Cherriel and Infant and 2 more. Browse upcoming dates, start times and who's playing. 3000 Fenkell Ave, Detroit, MI 48238, USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | 3.1.3 | Bccording, Cherriel, Infant, Pod Blotz, Safety Scissors, Taqsim, caitlin c. harvey, otodojo |
 

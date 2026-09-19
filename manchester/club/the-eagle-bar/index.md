@@ -1,12 +1,12 @@
 # The Eagle Bar
 
-The Eagle Bar is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "InTheHouse" on Fri, 9 Oct 2026.
+The Eagle Bar is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "InTheHouse" on Fri, 9 Oct 2026.
 
-The Eagle Bar is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including WÏLES. Browse upcoming dates, start times and who's playing. 15 Bloom Street, The Village, Manchester, M1 3HZ, United Kingdom.
+The Eagle Bar is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including WÏLES. Browse upcoming dates, start times and who's playing. 15 Bloom Street, The Village, Manchester, M1 3HZ, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | InTheHouse | WÏLES |
 

@@ -1,12 +1,12 @@
 # Sala River
 
-Sala River is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Musarañas Records X Spellbound Sessions" on Fri, 23 Oct 2026.
+Sala River is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Musarañas Records X Spellbound Sessions" on Fri, 23 Oct 2026.
 
-Sala River is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Dispël. Browse upcoming dates, start times and who's playing. Carrer Santa Anna, 14, 08901 L''Hospitalet de Llobregat, Barcelona, Spain.
+Sala River is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Dispël. Browse upcoming dates, start times and who's playing. Carrer Santa Anna, 14, 08901 L''Hospitalet de Llobregat, Barcelona, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Musarañas Records X Spellbound Sessions | Dispël |
 

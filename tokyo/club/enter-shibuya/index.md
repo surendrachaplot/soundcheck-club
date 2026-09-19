@@ -1,12 +1,12 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "00's MEGA MIX" on Sat, 19 Sept 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "00's MEGA MIX" on Sat, 19 Sept 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 1LDK, age (1), AKARI and akii and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 1LDK, age (1), AKARI and akii and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 00's MEGA MIX | CYBERHACKSYSTEM, HIMAWARI, RYUU, ShioriyBradshaw |
 | Sun, 20 Sept 2026 | DiVANG TUNE 16TH ANNIVERSARY -yuitty BIRTHDAY BASH& DJ MIYU 20TH ANNIV.- | CITY1, DJ MIYU, oshi (2), yuitty |

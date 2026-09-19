@@ -1,12 +1,12 @@
 # Schiffsanlegestelle Uber Arena
 
-Schiffsanlegestelle Uber Arena is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bootsevent Spree mit dickem Bass" on Sat, 19 Sept 2026.
+Schiffsanlegestelle Uber Arena is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bootsevent Spree mit dickem Bass" on Sat, 19 Sept 2026.
 
-Schiffsanlegestelle Uber Arena is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Carl Bergé, DJ YARAK, ELLI B and Maxim Covelo and 2 more. Browse upcoming dates, start times and who's playing. Mühlenstraße 71  10243 Berlin.
+Schiffsanlegestelle Uber Arena is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Carl Bergé, DJ YARAK, ELLI B and Maxim Covelo and 2 more. Browse upcoming dates, start times and who's playing. Mühlenstraße 71  10243 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Bootsevent Spree mit dickem Bass | Carl Bergé, DJ YARAK, ELLI B, Maxim Covelo, Shake Daddy, Simonkannnix |
 

@@ -1,12 +1,12 @@
 # EartH
 
-EartH is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "AMPERS&ONE" on Thu, 24 Sept 2026.
+EartH is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AMPERS&ONE" on Thu, 24 Sept 2026.
 
-EartH is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Croatian Amor, Decibella, Digitalism and DJRon and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Croatian Amor, Decibella, Digitalism and DJRon and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |

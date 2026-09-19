@@ -1,12 +1,12 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas" on Sat, 19 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas" on Sat, 19 Sept 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 20 upcoming nights, with line-ups including Angelo Cortines, Billi, Brieela and Camps (1) and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 20 upcoming gigs, with line-ups including Angelo Cortines, Billi, Brieela and Camps (1) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas | Edu C, LUKAS (4), Manu Oubiña |
 | Wed, 23 Sept 2026 | Studio Stereo La Mercè pres. Los Roques x Prblm |  |

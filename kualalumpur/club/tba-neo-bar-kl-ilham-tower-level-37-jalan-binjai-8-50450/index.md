@@ -1,12 +1,12 @@
 # TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450
 
-TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Neo Bar KL- 18,19 September Weekend feat. Odd, OtherKind, It's All Gone House" on Fri, 18 Sept 2026.
+TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Neo Bar KL- 18,19 September Weekend feat. Odd, OtherKind, It's All Gone House" on Fri, 18 Sept 2026.
 
-TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including OtherKind. Browse upcoming dates, start times and who's playing.
+TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450 is a music venue in Kualalumpur listed on soundcheck. 1 upcoming gig, with line-ups including OtherKind. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Neo Bar KL- 18,19 September Weekend feat. Odd, OtherKind, It's All Gone House | OtherKind |
 

@@ -1,12 +1,12 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "PLAYROOM" on Sat, 19 Sept 2026.
+Supermarket is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PLAYROOM" on Sat, 19 Sept 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including FLETCH, Anthik, Benosah and BRAINDAAMAGE and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including FLETCH, Anthik, Benosah and BRAINDAAMAGE and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PLAYROOM | Benosah, FLETCH, Sirol |
 | Fri, 25 Sept 2026 | WE LOVE | Anthik |

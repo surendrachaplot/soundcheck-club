@@ -1,12 +1,12 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SAMSTAG x TRUE LOVE • SAYURI • JOSHA • OCEAN SEVEN • NOAH SHAH" on Sat, 19 Sept 2026.
+Kowalski is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SAMSTAG x TRUE LOVE • SAYURI • JOSHA • OCEAN SEVEN • NOAH SHAH" on Sat, 19 Sept 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming nights, with line-ups including Chamelio 3000 and Shubostar. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Chamelio 3000 and Shubostar. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SAMSTAG x TRUE LOVE • SAYURI • JOSHA • OCEAN SEVEN • NOAH SHAH |  |
 | Sat, 19 Sept 2026 | KOWA SAMSTAG x TRUE LOVE - Sa. 19.09., Stuttgart |  |

@@ -1,12 +1,12 @@
 # renae
 
-renae is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ashley's fundraiser" on Sat, 19 Sept 2026.
+renae is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ashley's fundraiser" on Sat, 19 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Anop, April (UK), ASHTYLR and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Anop, April (UK), ASHTYLR and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Ashley's fundraiser | ASHTYLR, Anop, FOULMOUTH, Lapalace, Lucky Bunny, Princess Elf Bar, SHERI (2), Willow J |
 | Sat, 19 Sept 2026 | renae: Léna C | Léna C |

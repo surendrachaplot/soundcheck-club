@@ -1,12 +1,12 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Doka Studio with De Sluwe Vos B2B Theo Kottis" on Sat, 19 Sept 2026.
+Doka is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Doka Studio with De Sluwe Vos B2B Theo Kottis" on Sat, 19 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Doka Studio with De Sluwe Vos B2B Theo Kottis | De Sluwe Vos, Theo Kottis |
 | Fri, 25 Sept 2026 | Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary | Intergalactic Gary, Vladimir Ivkovic |

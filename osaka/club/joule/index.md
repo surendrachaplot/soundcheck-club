@@ -1,12 +1,12 @@
 # Joule
 
-Joule is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "GOODLIFE feat. Rebekah" on Sat, 19 Sept 2026.
+Joule is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "GOODLIFE feat. Rebekah" on Sat, 19 Sept 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including Astro, Astro aka Akihisa Takahashi, DMITRI ABSINTHE and FENGX2 and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including Astro, Astro aka Akihisa Takahashi, DMITRI ABSINTHE and FENGX2 and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | GOODLIFE feat. Rebekah | FENGX2, O-MAN, Rebekah |
 | Sun, 20 Sept 2026 | AmaterasU -天照- | DMITRI ABSINTHE, NOBUYA (2), O-MAN |

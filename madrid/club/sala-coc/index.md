@@ -1,12 +1,12 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HYBRID: BTFL" on Sat, 19 Sept 2026.
+Sala Cocó is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HYBRID: BTFL" on Sat, 19 Sept 2026.
 
-Sala Cocó is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including NYRA (DE), BTFL, CRITICAL ERROR 404 and DOCTOR MÜCKE and 2 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
+Sala Cocó is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including NYRA (DE), BTFL, CRITICAL ERROR 404 and DOCTOR MÜCKE and 2 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | HYBRID: BTFL | BTFL |
 | Sat, 26 Sept 2026 | HYBRID: GEA | M.I.XX.I |

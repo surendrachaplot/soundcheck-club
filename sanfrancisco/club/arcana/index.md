@@ -1,12 +1,12 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WAX CANDY: DJ Fleg & BIG HAPPY" on Sat, 19 Sept 2026.
+Arcana is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "WAX CANDY: DJ Fleg & BIG HAPPY" on Sat, 19 Sept 2026.
 
-Arcana is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Albion Street Music, B.Love, DJ Fleg and Sánlo and 1 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
+Arcana is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming gigs, with line-ups including Albion Street Music, B.Love, DJ Fleg and Sánlo and 1 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | WAX CANDY: DJ Fleg & BIG HAPPY | DJ Fleg |
 | Sun, 20 Sept 2026 | PLANTA HI-FI | WOCKIE |

@@ -1,12 +1,12 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Contrast presents: Calyx, Kasra, QZB & More" on Sat, 19 Sept 2026.
+Grelle Forelle is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Contrast presents: Calyx, Kasra, QZB & More" on Sat, 19 Sept 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Andy Catana, Calyx, FENIM0RE and future.666 and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Catana, Calyx, FENIM0RE and future.666 and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Contrast presents: Calyx, Kasra, QZB & More | Calyx, Kasra, SMG (UK), Sequent |
 | Fri, 25 Sept 2026 | Trancemaster Krause all night long | Trancemaster Krause |

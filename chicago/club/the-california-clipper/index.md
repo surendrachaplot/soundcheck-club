@@ -1,12 +1,12 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Room Tone: Evan G & Leja Hazer" on Fri, 25 Sept 2026.
+The California Clipper is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Room Tone: Evan G & Leja Hazer" on Fri, 25 Sept 2026.
 
-The California Clipper is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Dan B Hood, Jaq Attaque, Jesse Sandwich and Leja Hazer. Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
+The California Clipper is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Dan B Hood, Jaq Attaque, Jesse Sandwich and Leja Hazer. Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Room Tone: Evan G & Leja Hazer | Leja Hazer |
 | Tue, 29 Sept 2026 | TRIAGE: An Industry Night | Dan B Hood, Jaq Attaque, Jesse Sandwich |

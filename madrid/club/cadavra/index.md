@@ -1,12 +1,12 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 23 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HORS-SOL with Amaliah" on Sat, 19 Sept 2026.
+Cadavra is a music venue in Madrid with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HORS-SOL with Amaliah" on Sat, 19 Sept 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming nights, with line-ups including 2garlics, Agulla, Alvaro Cabana and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 23 upcoming gigs, with line-ups including 2garlics, Agulla, Alvaro Cabana and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | HORS-SOL with Amaliah | Amaliah, Conio, HORS-SOL, Jolly (FR), Lastvuska, Marina Antih, Maryu, cris sinaka |
 | Thu, 24 Sept 2026 | Anika Kunst at ANFANG / 1 YEAR | Agulla, Anika Kunst, Unkle Fon, Vitreoux |

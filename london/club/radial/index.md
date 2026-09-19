@@ -1,12 +1,12 @@
 # radial
 
-radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "IMPULSE CONTROL: STRANGE THERAPY SHOWCASE" on Sat, 19 Sept 2026.
+radial is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "IMPULSE CONTROL: STRANGE THERAPY SHOWCASE" on Sat, 19 Sept 2026.
 
-radial is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Seyer (UK), Aaron Burr (2), Abby Daze and Ac1d Vicious and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr (2), Abby Daze and Ac1d Vicious and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | IMPULSE CONTROL: STRANGE THERAPY SHOWCASE | New Flesh (2), Toni S, ex.sses |
 | Fri, 25 Sept 2026 | Katia Curie, Daisy Moon b2b Adam Curtain - Trouble Maker | Adam Curtain, Daisy Moon, Katia Curie |

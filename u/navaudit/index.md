@@ -1,8 +1,8 @@
 # u/navaudit (@navaudit)
 
-u/navaudit (@navaudit) has logged 2 club nights across 2 venues in 2 cities on soundcheck.
+u/navaudit (@navaudit) has logged 2 gigs across 2 venues in 2 cities on soundcheck.
 
-- Nights logged: 2
+- Gigs logged: 2
 - Venues: 2
 - Cities: 2
 - Seen live: 5

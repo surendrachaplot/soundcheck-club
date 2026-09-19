@@ -1,12 +1,12 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Berlin Rave (Sydney) ft ANXHELA (Italy)" on Sat, 19 Sept 2026.
+Oxford Art Factory is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Berlin Rave (Sydney) ft ANXHELA (Italy)" on Sat, 19 Sept 2026.
 
-Oxford Art Factory is a music venue in Sydney listed on soundcheck. 12 upcoming nights, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and BOLT and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
+Oxford Art Factory is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Alan Fitzpatrick, Allen Cedano, ANXHELA and BOLT and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Berlin Rave (Sydney) ft ANXHELA (Italy) | ANXHELA, Allen Cedano, KAYA (AU) |
 | Wed, 23 Sept 2026 | Clementine Douglas |  |

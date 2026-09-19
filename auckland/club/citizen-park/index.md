@@ -1,12 +1,12 @@
 # Citizen Park
 
-Citizen Park is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Live Samba Music :: Ziriguidum" on Sat, 26 Sept 2026.
+Citizen Park is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Live Samba Music :: Ziriguidum" on Sat, 26 Sept 2026.
 
-Citizen Park is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1/424 New North Road, Kingsland, Auckland 1021.
+Citizen Park is a music venue in Auckland listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1/424 New North Road, Kingsland, Auckland 1021.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Live Samba Music :: Ziriguidum |  |
 

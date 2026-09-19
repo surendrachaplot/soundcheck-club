@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>soundcheck — club nights &amp; DJ sets in 104 cities</title>
-  <meta name="description" content="Find your music for tonight. soundcheck maps club nights and artist line-ups across 104 cities in 40 countries — see who's playing, follow the artists and venues you love, log the gigs you go to, and stream every artist's sets." />
+  <title>soundcheck — gigs &amp; artist sets in 104 cities</title>
+  <meta name="description" content="Find your music for tonight. soundcheck maps gigs and artist line-ups across 104 cities in 40 countries — see who's playing, follow the artists and venues you love, log the gigs you go to, and stream every artist's sets." />
   <meta property="og:site_name" content="soundcheck" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="soundcheck — find your music for tonight" />
-  <meta property="og:description" content="Find your music for tonight. Club nights and artist line-ups across 104 cities in 40 countries — see who's playing, follow artists and venues, log your gigs and stream every set." />
+  <meta property="og:description" content="Find your music for tonight. Gigs and artist line-ups across 104 cities in 40 countries — see who's playing, follow artists and venues, log your gigs and stream every set." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
@@ -3146,7 +3146,7 @@
 .ap-seen{margin:16px 0 4px;padding-top:14px;border-top:1px solid var(--border);max-width:440px}
 /* YOUR OWN LOG of this night, on the EVENT page. The apps have had this since
    the diary shipped; web returned `ev.mine` from the same endpoint and never
-   drew it, so a night you had already written up went on offering "log a night"
+   drew it, so a night you had already written up went on offering "log a gig"
    — the page asking a question it has the answer to. */
 /* The logged-night block. It carries its OWN gutter: inside the app's WebView
    the parent that used to supply padding is absent, so this sat flush against
@@ -3333,7 +3333,7 @@
     /* SoundCloud sets subsection inside the Sets tab */
     .fp-sets-sch{ display:flex; align-items:center; gap:8px; margin:20px 0 12px; font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
     .fp-sets-sch::before,.fp-sets-sch::after{ content:""; height:1px; background:var(--border); flex:1; }
-    /* Tracks tab — ranked "most played in their sets" list */
+    /* IDs tab — ranked "most played in their sets" list */
     .fp-tracks{ padding:6px 18px 12px; }   /* 18px h-padding aligns content with the .fp-sech heading */
     .tk-list{ list-style:none; margin:0; padding:0; }
     .tk-row{ display:flex; align-items:center; gap:12px; padding:11px 0; border-top:1px solid var(--line); cursor:pointer; -webkit-tap-highlight-color:transparent; }
@@ -4006,7 +4006,7 @@
        28ms now; change them together or the claim rots again. */
     .sc-reveal{ transition-delay:calc(var(--i, 0) * 28ms); }   /* = STAGGER_MS in native src/design/motion.ts — keep them equal */
 
-    /* The log-a-night language, shared with the native screen: an outlined violet
+    /* The log-a-gig language, shared with the native screen: an outlined violet
        action (an invitation, not a demand — it must not compete with Play, which
        is the one gradient button on any view), and rating stars that are empty
        until you actually have an opinion. */
@@ -4120,7 +4120,7 @@
     /* ── Unified micro-caption voice ──────────────────────────────────────────
        All the small kicker / eyebrow / stat-label / field-label captions share ONE
        treatment: monospace, uppercase, weight 600, .12em tracking (matching the
-       Tracks heading's "most played in their sets"). Colour + margin stay per-context;
+       IDs heading's "most played in their sets"). Colour + margin stay per-context;
        interactive pills / badges / genre stamps / buttons are intentionally excluded.
        The stat-ribbon labels keep their own tighter tracking so they stay one line. */
     .eyebrow, .auth-box .eyebrow, .fp-kick, .fp-ev-meta, .fp-erow-date, .fp-sech span,
@@ -4295,7 +4295,7 @@
     .adm-area { border:1px solid var(--border); border-radius:var(--radius); padding:var(--sp-3); margin-bottom:var(--sp-3); }
     .adm-miss { font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--accent); margin-top:var(--sp-2); }
 
-    /* Log a night — dead centre of the nav. Logging is the app's whole point, so
+    /* Log a gig — dead centre of the nav. Logging is the app's whole point, so
        it gets the one gradient control in the bar; the four tabs stay flat and
        equal around it. Uses --accent-grad, the SAME paint as every other primary
        (fp-ab go), never a new colour. */
@@ -4448,9 +4448,9 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789822153157">
+<meta name="sc-build" content="1789824872041">
   <link rel="canonical" href="https://soundcheck.club/" />
-  <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
+  <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
@@ -4513,8 +4513,8 @@
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
          Home-only (inside #home, which body.page-on hides); setCity keeps .hs-city in step. -->
     <section id="home-seo" class="home-seo">
-      <h1 class="home-seo-h1">Club nights &amp; artist sets in <span class="hs-city">London</span></h1>
-      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">London</span>. Preview the sets, follow the artists you love, and save the nights you want &mdash; soundcheck maps club nights and artist line-ups across 104 cities in 40 countries.</p>
+      <h1 class="home-seo-h1">Gigs &amp; artist sets in <span class="hs-city">London</span></h1>
+      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">London</span>. Preview the sets, follow the artists you love, and save the gigs you want &mdash; soundcheck maps gigs and artist line-ups across 104 cities in 40 countries.</p>
     </section>
 
     </div><!-- /#home -->
@@ -4613,7 +4613,7 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
-    <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a night"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
     <button class="bnav-tab" id="bnav-scenes" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg><span class="bnav-l">Scenes</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
@@ -4800,7 +4800,7 @@
     // tens of KB. Omit w to get the original.
     function imgUrl(u, w){ return API_BASE+'/api/img?u='+encodeURIComponent(u)+(w?('&w='+w):''); }
     function posterHTML(ev){
-      var img=ev.poster?'<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,600)+'" alt="'+attrEsc(ev.title||'Club night')+' poster" onerror="this.style.display=\'none\'">':'';
+      var img=ev.poster?'<img class="real" loading="lazy" decoding="async" src="'+imgUrl(ev.poster,600)+'" alt="'+attrEsc(ev.title||'Gig')+' poster" onerror="this.style.display=\'none\'">':'';
       return '<div class="poster">'+genPoster(ev.title||'Event')+img+'<span class="tint"></span></div>';
     }
 
@@ -6249,7 +6249,7 @@
           '<div class="rad-rack">'+idx.venues.map(function(v,i){
             return row({ id:'venue|'+v.venue, seed:v.venue, rank:i+1, kick:'VENUE', poster:v.poster,
                          title:v.venue,
-                         sub:v.list.length+' artist'+(v.list.length===1?'':'s')+' &middot; '+v.events+' night'+(v.events===1?'':'s') });
+                         sub:v.list.length+' artist'+(v.list.length===1?'':'s')+' &middot; '+v.events+' gig'+(v.events===1?'':'s') });
           }).join('')+'</div>';
       }
       body.innerHTML=html;
@@ -6681,7 +6681,7 @@
     // be showing "build a profile" to somebody who just made one.
     var PROMO={
       signup:{ t:'Build your music taste.', a:'Sign up',
-               wide:'Log the nights you go to and build your music taste.', wideA:'Create your profile' },
+               wide:'Log the gigs you go to and build your music taste.', wideA:'Create your profile' },
       app:{ t:'The app is coming.', a:'Join the waitlist',
             wide:'soundcheck for iPhone and Android is coming.', wideA:'Join the waitlist' }
     };
@@ -7338,7 +7338,7 @@
           '<div style="width:56px;height:74px;border-radius:var(--r-1);flex:none;background-size:cover;background-position:center;'+
             (ev.poster?'background-image:url('+imgUrl(ev.poster,240)+')':'background:linear-gradient(150deg,#3d1352,#a02a63)')+'"></div>'+
           '<div style="min-width:0;display:flex;flex-direction:column;justify-content:center">'+
-            '<div style="font:800 var(--fs-md)/1.25 var(--head);color:var(--fg)">'+esc(ev.title||'This night')+'</div>'+
+            '<div style="font:800 var(--fs-md)/1.25 var(--head);color:var(--fg)">'+esc(ev.title||'This gig')+'</div>'+
             '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">'+esc([day,ev.venue].filter(Boolean).join(' \u00b7 '))+'</div>'+
           '</div>'+
         '</div>'+
@@ -7346,7 +7346,7 @@
         '<input type="email" id="inv-e" placeholder="you@\u2026" autocomplete="email" inputmode="email" value="'+attrEsc(_inv.email)+'">'+
         '<button class="ob-cta" id="inv-go" type="button">Email me a code</button>'+
         '<div class="ob-err" id="inv-err"></div>'+
-        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:14px;max-width:40ch">No password. One code, and your night is saved. Already on soundcheck? Use the same box &mdash; the code signs you in.</p>');
+        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:14px;max-width:40ch">No password. One code, and your gig is saved. Already on soundcheck? Use the same box &mdash; the code signs you in.</p>');
       var hi=el.querySelector('#inv-h'), ei=el.querySelector('#inv-e'), err=el.querySelector('#inv-err');
       function go(){
         var em=(ei.value||'').trim().toLowerCase();
@@ -7386,7 +7386,7 @@
           '<div style="display:flex;align-items:center;gap:10px;margin-top:10px">'+
             '<div style="width:40px;height:40px;border-radius:var(--r-1);flex:none;background:linear-gradient(150deg,#3d1352,#a02a63)"></div>'+
             '<div style="min-width:0;flex:1"><div style="font:800 var(--fs-base)/1.25 var(--head);color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(a0.name)+'</div>'+
-            '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">From this night\u2019s line-up</div></div>'+
+            '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">From this gig\u2019s line-up</div></div>'+
             '<button class="fp-ab go" id="inv-play" type="button"><span>Play</span></button>'+
           '</div></div>'):''));
       var ci=el.querySelector('#inv-code'), cerr=el.querySelector('#inv-cerr'), cgo=el.querySelector('#inv-codego');
@@ -7436,7 +7436,7 @@
           '<div style="height:88px;position:relative;background-size:cover;background-position:center;'+
             (ev.poster?'background-image:url('+imgUrl(ev.poster,600)+')':'background:linear-gradient(160deg,#3d1352,#a02a63 80%)')+'">'+
             '<div style="position:absolute;left:0;right:0;bottom:0;height:60px;background:linear-gradient(rgba(33,24,64,0),var(--surface))"></div>'+
-            '<div style="position:absolute;left:16px;bottom:12px;font:800 var(--fs-md)/1.2 var(--head);color:var(--fg)">'+esc(ev.title||'This night')+'</div>'+
+            '<div style="position:absolute;left:16px;bottom:12px;font:800 var(--fs-md)/1.2 var(--head);color:var(--fg)">'+esc(ev.title||'This gig')+'</div>'+
           '</div>'+
           '<div style="padding:12px 16px;display:flex;flex-direction:column;gap:10px">'+
             '<div style="font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)">'+esc([day,ev.venue].filter(Boolean).join(' \u00b7 '))+'</div>'+
@@ -7447,14 +7447,14 @@
         '</div>'+
         '<div style="display:flex;gap:8px;margin-top:16px">'+
           '<button class="fp-ab" id="inv-cal" type="button"><span>Add to calendar</span></button>'+
-          '<button class="fp-ab" id="inv-see" type="button"><span>See the night</span></button>'+
+          '<button class="fp-ab" id="inv-see" type="button"><span>See the gig</span></button>'+
         '</div>'+
         '<div style="margin-top:22px;padding:16px;border-radius:var(--radius);background:var(--surface);border:1px solid var(--border);display:flex;flex-direction:column">'+
           '<div class="eyebrow" style="margin-bottom:0">Your turn</div>'+
           '<div class="evi-sub">Anyone else coming? Send them your link.</div>'+
           '<button class="ob-cta" id="inv-share" type="button" style="margin-top:14px">Invite friends</button>'+
         '</div>'+
-        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:18px">Saved to your nights. <b style="color:var(--accent)">Manage</b></p>');
+        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:18px">Saved to your gigs. <b style="color:var(--accent)">Manage</b></p>');
       el.querySelector('#inv-see').addEventListener('click',obClose);
       el.querySelector('#inv-share').addEventListener('click',function(){ shareInvite(id, ev.title, ev.venue); });
       el.querySelector('#inv-cal').addEventListener('click',function(){ addToCalendar(ev, id); });
@@ -7476,7 +7476,7 @@
     }
     function addToCalendar(ev, id){
       var day=String(ev.event_date||'').slice(0,10).replace(/-/g,'');
-      if(!day){ showToast('No date on this night yet'); return; }
+      if(!day){ showToast('No date on this gig yet'); return; }
       var dtStart=icsStamp(ev.startTime||ev._time, day, '230000');
       var dtEnd=icsStamp(ev.endTime, day, '235900');
       if(dtEnd<=dtStart){                                        // a 06:00 finish is the NEXT day
@@ -7487,16 +7487,16 @@
       }
       var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','CALSCALE:GREGORIAN','BEGIN:VEVENT',
         'UID:sc-'+eventIdOf(id)+'@soundcheck.club','DTSTART:'+dtStart,'DTEND:'+dtEnd,
-        'SUMMARY:'+icsEsc(ev.title||'A night'),
+        'SUMMARY:'+icsEsc(ev.title||'A gig'),
         'LOCATION:'+icsEsc((ev.venue||'')+(ev.city?', '+cityLabel(ev.city):'')),
         'URL:'+icsEsc(inviteUrl(id, ev.title, ev.venue)),'END:VEVENT','END:VCALENDAR'].join('\r\n');
       var a=document.createElement('a');
       a.href='data:text/calendar;charset=utf-8,'+encodeURIComponent(ics);
-      a.download=(ev.title||'night').replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'.ics';
+      a.download=(ev.title||'gig').replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'.ics';
       document.body.appendChild(a); a.click(); a.remove();
     }
     function shareInvite(id, title, venue){
-      var t=(title||'A night')+(venue?(' at '+venue):'');
+      var t=(title||'A gig')+(venue?(' at '+venue):'');
       // The text must NOT contain the URL. navigator.share appends `url` itself,
       // so a link inside `text` renders the link twice in the message — which is
       // exactly what shipped. One link, carried by the field built for it.
@@ -7553,7 +7553,7 @@
       if(wannaComing.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · upcoming<span class="ct">'+wannaComing.length+'</span></div><ul class="tray-line">'+wannaComing.map(function(w){ return meRow(w.nm, (w.ev.venue||'')+(w.ev._day?(' · '+w.ev._day):''), 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
       if(wannaList.length){ h+='<div class="sec-h" style="margin-top:18px">Wanna see · on your list<span class="ct">'+wannaList.length+'</span></div><ul class="tray-line">'+wannaList.map(function(w){ return meRow(w.nm, 'no upcoming London date yet', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
       if(seen.length){ h+='<div class="sec-h" style="margin-top:18px">Seen live<span class="ct">'+seen.length+'</span></div><ul class="tray-line">'+seen.map(function(w){ return meRow(w.nm, '', 'data-rm-art="'+esc(w.s)+'"'); }).join('')+'</ul>'; }
-      if(!h) h='<div class="empty">Nothing here yet. Heart artists you wanna see, mark nights you&rsquo;re interested in, and tick artists you&rsquo;ve seen live.</div>';
+      if(!h) h='<div class="empty">Nothing here yet. Heart artists you wanna see, mark gigs you&rsquo;re interested in, and tick artists you&rsquo;ve seen live.</div>';
       return h;
     }
     function openMyPicks(){
@@ -7620,7 +7620,7 @@
       try{
         var r=await authedFetch('/api/diary'); var j=await r.json(); var rows=j.entries||[];
         var el=document.getElementById('mp-diary'); if(!el) return;
-        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="es"><span class="es-t">No nights logged yet</span><p class="es-s">Log one and it lands here, with the line-up attached &mdash; that\u2019s what builds your scene card.</p></div>');
+        el.innerHTML='<div class="sec-h">Diary<span class="ct">'+rows.length+'</span> <span class="more" id="mp-log">+ Log a gig</span></div>'+(rows.length?diaryListHTML(rows, true):'<div class="es"><span class="es-t">No gigs logged yet</span><p class="es-s">Log one and it lands here, with the line-up attached &mdash; that\u2019s what builds your scene card.</p></div>');
         var lb=document.getElementById('mp-log'); if(lb) lb.addEventListener('click',function(){ openLog(); });
         wireDiary(el, true, appendPicksDiary);
       }catch(_){}
@@ -7649,7 +7649,7 @@
     function myPid(){ if(!_scPid) _scPid=(Math.random().toString(36).slice(2)+Math.random().toString(36).slice(2)).slice(0,18); return _scPid; }
     function activeNight(){ return _scNight; }
     function setActiveNight(code){ _scNight=code||null; }
-    function fmtNightDate(d){ if(!d) return 'A night out'; try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'short'}); }catch(_){ return 'A night out'; } }
+    function fmtNightDate(d){ if(!d) return 'A gig'; try{ return new Date(String(d).slice(0,10)+'T12:00:00').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'short'}); }catch(_){ return 'A gig'; } }
     function nightTitle(d){ return d.title || fmtNightDate(d.date); }
     function nightAv(m){ return avatarBg(m.handle||m.participant_id, m.avatar); }
     // Back to the feed — and TAKE THE URL WITH YOU.
@@ -7668,13 +7668,13 @@
 
     async function openNight(code){
       code=String(code); setRoute('n/'+encodeURIComponent(code));
-      openPanel('<div class="empty">Loading the night…</div>');
+      openPanel('<div class="empty">Loading the gig…</div>');
       loadNight(code);
     }
     async function loadNight(code){
       try{
         var r=await authedFetch('/api/night?code='+encodeURIComponent(code)+'&pid='+encodeURIComponent(myPid()));
-        if(r.status===404){ if(activeNight()===code) setActiveNight(null); openPanel('<div class="empty">That night isn’t around anymore.</div>'); return; }
+        if(r.status===404){ if(activeNight()===code) setActiveNight(null); openPanel('<div class="empty">That gig isn’t around anymore.</div>'); return; }
         if(!r.ok) throw 0;
         var d=await r.json();
         if(location.hash.indexOf('n/')<0) return;
@@ -7683,20 +7683,20 @@
           renderNightInvite(d); return;
         }
         renderNightBoard(d);
-      }catch(_){ openPanel('<div class="empty">Couldn’t load that night.</div>'); }
+      }catch(_){ openPanel('<div class="empty">Couldn’t load that gig.</div>'); }
     }
     function renderNightInvite(d){
-      showPage('<div class="nb-head"><div class="eyebrow">You’re invited</div><h3>'+esc(nightTitle(d))+'</h3><p class="sub">Your mates are sorting out this night. Add your name to join in and react.</p></div>'+
-        '<button class="follow-btn" id="nb-join" type="button" style="max-width:280px">Join the night</button>');
+      showPage('<div class="nb-head"><div class="eyebrow">You’re invited</div><h3>'+esc(nightTitle(d))+'</h3><p class="sub">Your mates are sorting out this gig. Add your name to join in and react.</p></div>'+
+        '<button class="follow-btn" id="nb-join" type="button" style="max-width:280px">Join the gig</button>');
       document.getElementById('nb-join').addEventListener('click',function(){ openNightJoinModal(d.code, d); });
     }
     function openNightJoinModal(code, d){
       var ov=document.createElement('div'); ov.className='auth-overlay show';
       ov.innerHTML='<div class="auth-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
-        '<div class="eyebrow">Join the night</div><h3>'+esc(nightTitle(d))+'</h3>'+
+        '<div class="eyebrow">Join the gig</div><h3>'+esc(nightTitle(d))+'</h3>'+
         '<p>Add your name so your mates know you’re in.</p>'+
         '<input type="text" id="nj-name" maxlength="40" placeholder="Your first name" autocomplete="given-name">'+
-        '<button class="go" id="nj-go" type="button">Join the night</button>'+
+        '<button class="go" id="nj-go" type="button">Join the gig</button>'+
         '<p style="margin-top:12px;font-size:var(--fs-sm);color:var(--muted)">Have an account? <button class="b-link" id="nj-signin" type="button" style="background:none;border:none;color:var(--accent);font:inherit;cursor:pointer;padding:0">Sign in</button></p>'+
         '<div class="err" id="nj-err"></div></div>';
       document.body.appendChild(ov);
@@ -7720,13 +7720,13 @@
     function renderNightBoard(d){
       _nightCode=d.code; setActiveNight(d.code);
       var canLog = currentUser && d.date && (String(d.date).slice(0,10) <= todayISO());
-      var head='<div class="nb-head"><div class="eyebrow">Night out</div><h3>'+esc(nightTitle(d))+'</h3></div>'+
+      var head='<div class="nb-head"><div class="eyebrow">Gig</div><h3>'+esc(nightTitle(d))+'</h3></div>'+
         '<div class="nb-actions"><button class="nb-share" id="nb-share" type="button">'+SHARE_SVG+'<span>Share</span></button>'+
         '<button class="nb-add" id="nb-add" type="button">＋ Add events</button>'+
-        (canLog?'<button class="nb-add" id="nb-log" type="button">✎ Log this night</button>':'')+'</div>';
+        (canLog?'<button class="nb-add" id="nb-log" type="button">✎ Log this gig</button>':'')+'</div>';
       showPage(head+'<div id="night-board"></div>');
       document.getElementById('nb-share').addEventListener('click',function(){ shareNight(d.code, nightTitle(d)); });
-      document.getElementById('nb-add').addEventListener('click',function(){ setActiveNight(d.code); showToast('Browse events and tap ＋ Add to night'); goGrid(); });
+      document.getElementById('nb-add').addEventListener('click',function(){ setActiveNight(d.code); showToast('Browse events and tap ＋ Add to gig'); goGrid(); });
       var lb=document.getElementById('nb-log'); if(lb) lb.addEventListener('click',function(){ logThisNight(d); });
       var board=document.getElementById('night-board');
       board.addEventListener('click',function(e){
@@ -7750,7 +7750,7 @@
       var rx=e.reactions||{down:[],maybe:[],nah:[]}, down=rx.down||[], maybe=rx.maybe||[], nah=rx.nah||[];
       var mine= down.indexOf(myP)>=0?'down':(maybe.indexOf(myP)>=0?'maybe':(nah.indexOf(myP)>=0?'nah':null));
       var front= down.length>0 && down.length===maxDown ? ' front' : '';
-      var poster= e.poster_url ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(e.poster_url,200)+'" alt="'+attrEsc((e.title||'Club night')+' poster')+'" onerror="this.style.display=\'none\'">' : '';
+      var poster= e.poster_url ? '<img class="real" loading="lazy" decoding="async" src="'+imgUrl(e.poster_url,200)+'" alt="'+attrEsc((e.title||'Gig')+' poster')+'" onerror="this.style.display=\'none\'">' : '';
       var dnames= down.map(function(pid){ return members[pid]?members[pid].name:''; }).filter(Boolean);
       var dav= down.slice(0,6).map(function(pid){ var m=members[pid]; return m?'<span class="nstack-av" style="background-image:'+nightAv(m)+'" title="'+esc(m.name||'')+'"></span>':''; }).join('');
       function pill(k){ var arr=k==='down'?down:(k==='maybe'?maybe:nah); var on=mine===k?' on':''; return '<button class="rx-pill '+k+on+'" data-evt="'+esc(e.id)+'" data-rx="'+k+'" type="button">'+RX_META[k].e+' '+RX_META[k].l+(arr.length?' <b>'+arr.length+'</b>':'')+'</button>'; }
@@ -7780,7 +7780,7 @@
     document.addEventListener('visibilitychange',function(){ if(!document.hidden && _nightCode && location.hash.indexOf('#n/'+_nightCode)>=0) refreshNightData(_nightCode); });
     function shareNight(code, title){
       var url=location.origin+location.pathname+'#n/'+encodeURIComponent(code);
-      doShare({ title:title||'A night out on soundcheck', text:(title||'A night out')+' — sort the plan on soundcheck', url:url });
+      doShare({ title:title||'A gig on soundcheck', text:(title||'A gig')+' — sort the plan on soundcheck', url:url });
     }
     // Log this night → prefill the diary with the event you were most "in" on.
     function logThisNight(d){
@@ -8002,7 +8002,7 @@
     // whatever is on screen, so the feed only claims it when nothing is over it.
     function setCityTitle(){
       if(document.body.classList.contains('page-on')) return;
-      document.title='soundcheck · '+cityMeta().name+' — club nights & artist sets';
+      document.title='soundcheck · '+cityMeta().name+' — gigs & artist sets';
     }
     function setSeo(title, desc, jsonld, canonical){
       if(title) document.title=title;
@@ -8016,7 +8016,7 @@
     function resetSeo(){
       var cn=(typeof cityLabel==='function'?cityLabel(currentCity):'')||'your city';
       var nCities=(typeof CITY_LIST!=='undefined'&&CITY_LIST.length)||104;
-      var d="Find your music for tonight in "+cn+" — club nights, artist line-ups and venues across "+nCities+" cities on soundcheck. Follow the artists and venues you love, log your gigs and stream every artist's sets.";
+      var d="Find your music for tonight in "+cn+" — gigs, artist line-ups and venues across "+nCities+" cities on soundcheck. Follow the artists and venues you love, log your gigs and stream every artist's sets.";
       setSeo(_seoDefaultTitle, d, null, location.origin+(typeof cityPath==='function'?cityPath(currentCity):SC_BASE));
     }
     // The in-app "Back" steps one level through real history (matches the
@@ -8140,11 +8140,11 @@
       // THE HERO NUMBER HAS TO MEAN SOMETHING. Your rating when you gave one,
       // otherwise how many acts you caught — never a placeholder dash.
       var num=(m.rating!=null)?m.rating:arts.length, sym=(m.rating!=null)?'\u2605':'\u00d7';
-      var cap=(m.rating!=null)?'the night you caught':('act'+(arts.length===1?'':'s')+' you caught');
+      var cap=(m.rating!=null)?'the gig you caught':('act'+(arts.length===1?'':'s')+' you caught');
       // Nothing to count and nothing rated: say the plain true thing instead of
       // showing "0×".
       var head=(m.rating==null && !arts.length)
-        ? '<div class="evm-caponly">You logged this night.</div>'
+        ? '<div class="evm-caponly">You logged this gig.</div>'
         : '<div class="evm-top"><span class="evm-num">'+num+'<span class="evm-sym">'+sym+'</span></span>'+
           '<span class="evm-cap"><span class="evm-capt">'+cap+'</span>'+
           '<b class="evm-where">'+esc([ev.venue, fmtDateLabel(String(m.gig_date||ev.event_date||'').slice(0,10))].filter(Boolean).join(' · '))+'</b></span></div>';
@@ -8156,21 +8156,32 @@
             (a.slug?'<a class="evm-link nav" href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'">view artist \u203a</a>':'')+'</div>';
         }).join('')+
         (m.note?'<div class="ev-mine-note">'+esc(m.note)+'</div>':'')+
-        '<button class="evm-edit" id="ev-mine-edit" type="button">\u270e Edit this night</button>'+
+        '<button class="evm-edit" id="ev-mine-edit" type="button">\u270e Edit this gig</button>'+
       '</div>';
     }
+    // VENUE DNA IS EARNED (Suren, 2026-09-19). Under this many ratings the panel
+    // shows only what the listings already prove — what the room MOSTLY plays and
+    // which rooms are SIMILAR. The sound system, the busiest day, the door price
+    // and the sound/crowd/toilets scores are all claims drawn from a handful of
+    // people: fabric has two, and two ratings must not print "Sound 3/5".
+    // The app's gate is REVIEWS_MIN in soundcheck-native VenueScreen.tsx — keep
+    // the number the same on both.
+    var REVIEWS_MIN = 20;
     function dnaBoxHTML(j){
       if(!j || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem && !(j.crowdTags||[]).length && !j.reviews)) return '';
+      var earned = !!(j.reviews && j.reviews.n >= REVIEWS_MIN);
       var rows='';
-      // Derived tags (sceneTier/genre) + crowd-picked vibe tags, deduped (case-insensitive), capped.
-      var allTags=[], seenT={};
-      (j.tags||[]).concat(j.crowdTags||[]).forEach(function(t){ var k=String(t).toLowerCase(); if(!seenT[k]){ seenT[k]=1; allTags.push(t); } });
-      if(allTags.length) rows+='<div class="vd-tags">'+allTags.slice(0,6).map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
-      if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
+      if(earned){
+        // Derived tags (sceneTier/genre) + crowd-picked vibe tags, deduped (case-insensitive), capped.
+        var allTags=[], seenT={};
+        (j.tags||[]).concat(j.crowdTags||[]).forEach(function(t){ var k=String(t).toLowerCase(); if(!seenT[k]){ seenT[k]=1; allTags.push(t); } });
+        if(allTags.length) rows+='<div class="vd-tags">'+allTags.slice(0,6).map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+        if(j.soundSystem) rows+='<div class="vd-row"><span class="vd-k">System</span><span>'+esc(j.soundSystem)+'</span></div>';
+      }
       if((j.genres||[]).length) rows+='<div class="vd-row"><span class="vd-k">Mostly</span><span>'+j.genres.slice(0,4).map(function(g){ return esc(g); }).join(', ')+'</span></div>';
-      if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
-      if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
-      if(j.reviews){
+      if(earned){
+        if(j.bestNight) rows+='<div class="vd-row"><span class="vd-k">Busiest</span><span>'+esc(j.bestNight)+'</span></div>';
+        if(j.priceTier) rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.priceTier)+'</span></div>';
         rows+='<div class="vd-row"><span class="vd-k">Sound</span><span>'+j.reviews.sound+'/5 <span style="color:var(--muted)">· '+j.reviews.n+' been</span></span></div>';
         if(j.reviews.crowd!=null) rows+='<div class="vd-row"><span class="vd-k">Crowd</span><span>'+j.reviews.crowd+'/5</span></div>';
         if(j.reviews.toilets!=null) rows+='<div class="vd-row"><span class="vd-k">Toilets</span><span>'+j.reviews.toilets+'/5</span></div>';
@@ -8444,7 +8455,7 @@
     function diaryTLHTML(diary, isMe){
       if(!diary.length){
         return isMe
-          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Add a night you went to &mdash; it builds your diary and taste profile.</p></div><span class="pb-prob-btn">Log a gig</span></button>'
+          ? '<button class="pb-prob" id="diary-log2" type="button"><div class="pb-nudge-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div><div class="pb-prob-tx"><b>No gigs logged yet</b><p>Add a gig you went to &mdash; it builds your diary and taste profile.</p></div><span class="pb-prob-btn">Log a gig</span></button>'
           : '<div class="empty">No gigs logged yet.</div>';
       }
       return '<div class="pb-stubs">'+diary.map(function(d){
@@ -8473,7 +8484,7 @@
       var topN='', topC=0; Object.keys(arts).forEach(function(k){ if(arts[k]>topC){ topC=arts[k]; topN=k; } });
       function tile(v,l,sm){ return '<div class="diary-stat"><b'+(sm?' class="sm"':'')+'>'+esc(String(v))+'</b><span>'+esc(l)+'</span></div>'; }
       return '<div class="diary-stats">'+
-        tile(diary.length,'Nights')+
+        tile(diary.length,'Gigs')+
         tile(Object.keys(venues).length,'Venues')+
         tile(Object.keys(cities).length,'Cities')+
         tile(topN||'—','Most seen'+(topC>1?' · '+topC+'×':''),true)+
@@ -8596,7 +8607,7 @@
       return '<div class="tb-pass tb-card">'+
         '<div class="tb-main">'+
           '<div class="tb-head"><span class="tb-avatar" style="background-image:'+avbg+';background-size:cover;background-position:center"></span><div class="tb-hid"><div class="tb-name">'+name+'</div>'+(home?'<div class="tb-hsub">Based in '+esc(home)+'</div>':'')+'</div><span class="tb-season">'+yr+' season</span></div>'+
-          '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">nights logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
+          '<div class="tb-big"><div class="tb-bignum">'+gigs+'</div><div class="tb-bigu">gigs logged'+(thisY?' · '+thisY+' this year':'')+'</div></div>'+
           '<div class="tb-counts"><div><b>'+(s.wannaSee||[]).length+'</b><span>wanna see</span></div><div><b>'+seenA.length+'</b><span>seen live</span></div><div><b>'+(s.venues||[]).length+'</b><span>venues</span></div></div>'+
           (facts?'<div class="tb-facts">'+facts+'</div>':'')+
           (seenA.length?'<div class="tb-artists"><div class="tb-arth"><span class="tb-lbl">Acts seen</span><span class="tb-artn">'+seenA.length+' total</span></div><div class="tb-abubs">'+bubbles+'</div></div>':'')+
@@ -8747,7 +8758,7 @@
       if(!people.length){
         el.innerHTML='<div class="es"><span class="es-t">'+(kind==='following'?'Not following anyone yet':'No followers yet')+'</span>'+
           '<p class="es-s">'+(kind==='following'
-            ? 'Following people puts their nights and their picks in your feed.'
+            ? 'Following people puts their gigs and their picks in your feed.'
             : 'Share your profile and the people you go out with turn up here.')+'</p></div>'; return;
       }
       el.innerHTML='<div class="ppl">'+people.map(function(u){
@@ -8813,7 +8824,7 @@
           '<div class="pfh-acts">'+acts+'</div></div>'+
         // each ribbon cell jumps to its tab (and inner segment) below
         '<div class="pfh-ribbon">'+
-          '<div class="c" data-go="diary"><b>'+nights+'</b><span>Nights</span></div>'+
+          '<div class="c" data-go="diary"><b>'+nights+'</b><span>Gigs</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="seen"><b>'+seenN+'</b><span>Seen live</span></div>'+
           '<div class="c" data-go="artists" data-go-sub="wanna"><b>'+wannaN+'</b><span>Wanna see</span></div>'+
           '<div class="c" data-go="people" data-go-sub="followers"><b>'+(p.followers||0)+'</b><span>Followers</span></div>'+
@@ -8865,7 +8876,7 @@
       if(!evs.length){ el.innerHTML=''; return; }
       el.innerHTML=evs.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
-        return '<div class="pb-prob" data-ni="'+i+'"><div class="pb-prob-tx"><b>How was '+esc(e.title||'that night')+'?</b><p>'+esc([e.venue,d].filter(Boolean).join(' · '))+' — you said you were going. Log it to your diary.</p></div><button class="pb-prob-btn" type="button" data-nlog="'+esc(String(e.event_id))+'">Log it</button><button class="pf-btn" type="button" data-nskip="'+esc(String(e.event_id))+'">Didn&rsquo;t go</button></div>';
+        return '<div class="pb-prob" data-ni="'+i+'"><div class="pb-prob-tx"><b>How was '+esc(e.title||'that gig')+'?</b><p>'+esc([e.venue,d].filter(Boolean).join(' · '))+' — you said you were going. Log it to your diary.</p></div><button class="pb-prob-btn" type="button" data-nlog="'+esc(String(e.event_id))+'">Log it</button><button class="pf-btn" type="button" data-nskip="'+esc(String(e.event_id))+'">Didn&rsquo;t go</button></div>';
       }).join('');
       el.querySelectorAll('[data-nlog]').forEach(function(b){ b.addEventListener('click',function(){ openLog({eventId:b.dataset.nlog}); }); });
       el.querySelectorAll('[data-nskip]').forEach(function(b){ b.addEventListener('click',function(){ setEvent(b.dataset.nskip, null, {}); b.closest('.pb-prob').remove(); }); });
@@ -8901,7 +8912,7 @@
         var key=new Uint8Array(raw.length); for(var i=0;i<raw.length;i++) key[i]=raw.charCodeAt(i);
         var sub=await reg.pushManager.subscribe({ userVisibleOnly:true, applicationServerKey:key });
         var r=await authedFetch('/api/push/subscribe',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(sub.toJSON()) });
-        showToast(r.ok?'Night alerts on — we’ll ping you when artists you follow announce shows.':'Couldn’t save the subscription.');
+        showToast(r.ok?'Gig alerts on — we’ll ping you when artists you follow announce shows.':'Couldn’t save the subscription.');
       }catch(e){ showToast('Couldn’t enable alerts.'); }
     }
     function wirePbProfile(p){
@@ -8986,7 +8997,7 @@
         bioEl.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); editBio(); } });
       }
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
-        { label:'Turn on night alerts', run:function(){ enablePush(); } },
+        { label:'Turn on gig alerts', run:function(){ enablePush(); } },
         { label:'Change handle', run:function(){ openHandleModal(true); } },
         { label:'Describe your music taste', run:function(){ if(bioEl) bioEl.click(); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
@@ -9137,7 +9148,7 @@
           (p.canEdit?'<button class="plt-x" type="button" data-rm="'+esc(String(t.id))+'" aria-label="Remove">&times;</button>':'')+
         '</li>';
       }).join('');
-      openPanel(head+'<ul class="plt-list">'+(rows||'<div class="empty" style="padding:14px 18px">No tracks yet — add some from any artist&rsquo;s Tracks tab.</div>')+'</ul>');
+      openPanel(head+'<ul class="plt-list">'+(rows||'<div class="empty" style="padding:14px 18px">No tracks yet — add some from any artist&rsquo;s IDs tab.</div>')+'</ul>');
       armSticky(p.title, playable.length?function(){ playYtList(playable,0); }:null, document.getElementById('page-body'));
       var pa=document.getElementById('plp-play'); if(pa) pa.addEventListener('click',function(){ playYtList(playable,0); });
       var sh=document.getElementById('plp-share'); if(sh) sh.addEventListener('click',function(){ doShare({ title:p.title+' · soundcheck', text:'Check this playlist on soundcheck', url:location.origin+location.pathname+'#pl/'+p.id }); });
@@ -9183,7 +9194,7 @@
     function openFeedback(kind, context, title, hint){
       var ov=document.createElement('div'); ov.className='sc-ov';
       ov.innerHTML='<div class="sc-sheet"><h4>'+esc(title||'Something wrong?')+'</h4><p class="hint">'+esc(hint||'Tell us what&rsquo;s off and we&rsquo;ll fix it.')+'</p>'+
-        '<textarea id="fb-t" placeholder="'+esc(kind==='wrong_info'?'e.g. wrong date, missing DJ, dead link…':'Your idea…')+'"></textarea>'+
+        '<textarea id="fb-t" placeholder="'+esc(kind==='wrong_info'?'e.g. wrong date, missing artist, dead link…':'Your idea…')+'"></textarea>'+
         '<div class="sc-row"><button class="pf-btn" id="fb-cancel" type="button">Cancel</button><button class="pf-btn primary" id="fb-send" type="button">Send</button></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
@@ -9340,7 +9351,7 @@
             '<button class="upc-tab" data-up-tab="venues" role="tab">Venues'+npill(V.length)+'</button>'+
             '<button class="upc-tab" data-up-tab="friends" role="tab">Friends'+npill(F.length)+'</button>'+
           '</div><div id="upc-body"></div>';
-        var EMPTY={ artists:'No artists you follow are playing in this window.', venues:'No venues you follow have nights in this window.', friends:'Nothing your friends are into in this window.' };
+        var EMPTY={ artists:'No artists you follow are playing in this window.', venues:'No venues you follow have gigs in this window.', friends:'Nothing your friends are into in this window.' };
         var bodyEl=document.getElementById('upc-body');
         if(!upS.tab || !feeds[upS.tab].list.length) upS.tab = A.length?'artists':V.length?'venues':'friends';
         function showTab(tab){
@@ -9364,7 +9375,7 @@
     function upGigLine(g, kind, hidden){
       var d=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
       var t1, t2='';
-      if(kind==='venue'){ t1=g.title||'Club night'; }
+      if(kind==='venue'){ t1=g.title||'Gig'; }
       else if(kind==='artist'){ t1=g.venue||'TBA'; t2=cityLabel(g.city)||''; }
       else { t1=g.title||g.venue||'A show'; t2=(g.title&&g.venue)?g.venue:''; }
       return '<button class="cu-gl'+(hidden?' cu-hide':'')+'" type="button" data-ev="'+esc(String(g.id))+'"><span class="cu-d">'+esc(d)+'</span><span class="cu-m"><span class="cu-m1">'+esc(t1)+'</span>'+(t2?'<span class="cu-m2">'+esc(t2)+'</span>':'')+'</span></button>';
@@ -9549,7 +9560,7 @@
     function renderTasteCTA(onboarded){
       var el=document.getElementById('dc-taste'); if(!el) return;
       if(onboarded){ el.innerHTML=''; return; }
-      el.innerHTML='<button class="scene-cta" id="dc-taste-btn" type="button"><span class="scene-cta-tx"><b>Build your taste</b><span>2 min — so we can find nights you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
+      el.innerHTML='<button class="scene-cta" id="dc-taste-btn" type="button"><span class="scene-cta-tx"><b>Build your taste</b><span>2 min — so we can find gigs you&rsquo;ll actually like</span></span><span class="scene-cta-go">&rsaquo;</span></button>';
       var b=document.getElementById('dc-taste-btn'); if(b) b.addEventListener('click',function(){ if(currentUser) openTasteOnboard(); else openAuth(); });
     }
     // ── Reusable horizontal rails (DS: "Rails") ─────────────────────────────────────────
@@ -9952,7 +9963,7 @@
     async function openMap(){
       setRoute('map');
       var cm=cityMeta();
-      showPage('<h2 class="page-title">Venue map</h2><div class="sub">'+esc(cm.name)+' clubs &amp; venues with upcoming nights &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
+      showPage('<h2 class="page-title">Venue map</h2><div class="sub">'+esc(cm.name)+' clubs &amp; venues with upcoming gigs &mdash; tap a pin.</div><div id="venue-map" class="venue-map"></div>');
       mountVenueMap(document.getElementById('venue-map'), currentCity, { center:[cm.lat||51.5074, cm.lng||-0.1278] });
     }
     // Reusable club map: OpenFreeMap dark tiles + hybrid dot/date-pill markers from
@@ -9976,7 +9987,7 @@
         if(!document.body.contains(el)){ map.remove(); return; }
         var vs=(j.venues||[]);
         function pinDate(iso){ if(!iso) return ''; var d=new Date(String(iso).slice(0,10)+'T12:00:00'); return d.toLocaleDateString('en-GB',{weekday:'short',day:'numeric'}); }
-        function popupHTML(v){ var up=v.upcoming?(v.upcoming+' upcoming night'+(v.upcoming===1?'':'s')):'no dates yet'; return '<b>'+esc(v.name)+'</b><br><span style="color:var(--muted)">'+esc(up)+'</span><br><a class="map-link nav" href="'+esc(venueHref(v.name))+'" data-venue="'+esc(v.name)+'">View venue &rsaquo;</a>'; }
+        function popupHTML(v){ var up=v.upcoming?(v.upcoming+' upcoming gig'+(v.upcoming===1?'':'s')):'no dates yet'; return '<b>'+esc(v.name)+'</b><br><span style="color:var(--muted)">'+esc(up)+'</span><br><a class="map-link nav" href="'+esc(venueHref(v.name))+'" data-venue="'+esc(v.name)+'">View venue &rsaquo;</a>'; }
         // Popularity heat: a venue's upcoming-night count vs the busiest in the city →
         // hottest = bright red + big + bright halo, quietest = dim slate + small. No legend.
         var maxUp=vs.reduce(function(m,v){ return Math.max(m, v.upcoming||0); }, 0) || 1;
@@ -10095,14 +10106,14 @@
         // "Sets" FIRST (default tab) — the artist's full YouTube sets; lazy-loaded on first open (one YT search per artist, cached).
         secTabs.push({ key:'sets', label:'Sets', count:null,
           html:'<div class="fp-sec"><div class="fp-sech">Sets <span>full sets · pick one to play</span></div><div class="fp-sets" id="fp-sets"><div class="fp-sets-load">Loading sets…</div></div></div>' });
-        secTabs.push({ key:'tracks', label:'Tracks', count:null,
-          html:'<div class="fp-sec"><div class="fp-sech">Tracks <span>most played in their sets</span></div><div class="fp-tracks" id="ap-tracks"><div class="fp-sets-load">Reading their sets…</div></div></div>' });
-        if(a.interviewsEnabled) secTabs.push({ key:'press', label:'Interviews', count:null,
-          html:'<div class="fp-sec"><div class="fp-sech">Interviews <span>in the music press</span></div><div class="fp-press" id="ap-press"><div class="fp-sets-load">Looking for interviews…</div></div></div>' });
         if(up.length) secTabs.push({ key:'upcoming', label:'Upcoming', count:up.length,
           html:'<div class="fp-sec"><div class="fp-sech">Upcoming events <span>'+up.length+' upcoming</span></div><div id="ap-upcoming-strip"></div><div id="ap-upcoming-cards"></div></div>' });
-        if((a.history||[]).length) secTabs.push({ key:'past', label:'Past events', count:a.history.length,
+        if((a.history||[]).length) secTabs.push({ key:'past', label:'Past', count:a.history.length,
           html:'<div class="fp-sec"><div class="fp-sech">Past events <span>logged by the scene</span></div><div id="ap-past-cards"></div></div>' });
+        secTabs.push({ key:'tracks', label:'IDs', count:null,
+          html:'<div class="fp-sec"><div class="fp-sech">IDs <span>most played in their sets</span></div><div class="fp-tracks" id="ap-tracks"><div class="fp-sets-load">Reading their sets…</div></div></div>' });
+        if(a.interviewsEnabled) secTabs.push({ key:'press', label:'Interviews', count:null,
+          html:'<div class="fp-sec"><div class="fp-sech">Interviews <span>in the music press</span></div><div class="fp-press" id="ap-press"><div class="fp-sets-load">Looking for interviews…</div></div></div>' });
         if((a.alongside||[]).length) secTabs.push({ key:'similar', label:'Similar', count:null,
           html:'<div class="fp-sec"><div class="fp-sech">More like '+esc(a.name||slug)+' <span>similar sound · shares bills</span></div><div class="fp-more" id="fp-morelike"></div>'+
                 '<a class="gd-chip nav" style="margin-top:12px" href="'+esc(SC_BASE+'dj/'+encodeURIComponent(slug)+'/similar/')+'">If you like '+esc(a.name||slug)+' &rarr;</a></div>' });
@@ -10152,9 +10163,9 @@
             var box=document.getElementById('ap-seen-panel'); if(!box) return;
             var c=sd.count||0, nights=sd.nights||[];
             if(c>0){
-              box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">night'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
+              box.innerHTML='<div class="ap-seen"><div class="ap-seen-top"><div class="ap-seen-num">'+c+'<span>×</span></div><div class="ap-seen-lbl">gig'+(c===1?'':'s')+' you’ve caught<br><b>'+esc(_anm)+'</b></div></div>'+
                 nights.map(function(g){ var d=g.gig_date?fmtGigDate(g.gig_date):''; var ev=g.event_id?'<a class="ap-seen-ev nav" href="'+esc(evHref(g.event_id,null,g.venue))+'" data-event-id="'+esc(String(g.event_id))+'">view event ›</a>':''; return '<div class="ap-seen-row"><span class="ap-seen-d">'+esc(d)+'</span><a class="ap-seen-v nav"'+(g.venue?' href="'+esc(venueHref(g.venue))+'" data-venue="'+esc(g.venue)+'"':'')+'>'+esc(g.venue||'Gig')+'</a>'+ev+'</div>'; }).join('')+
-                '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another night</button></div>';
+                '<button class="ap-seen-log" id="ap-seen-log" type="button">＋ Log another gig</button></div>';
             } else { box.innerHTML=''; }   // no empty-state nudge — Log a gig already lives in the header actions
             var lg=document.getElementById('ap-seen-log'); if(lg) lg.addEventListener('click',function(){ openLog({ artist:{ slug:slug, name:_anm } }); });
             box.querySelectorAll('.ap-seen-ev[data-event-id]').forEach(function(b){ b.addEventListener('click',function(){ openEvent(b.dataset.eventId); }); });
@@ -10322,7 +10333,7 @@
             box.querySelectorAll('[data-shl]').forEach(function(b){ b.addEventListener('click',function(e){ e.stopPropagation(); shelfClick(+b.dataset.shl,'listened'); }); });
           });
         }
-        // Tracks tab — most-played tracks aggregated from their sets' parsed tracklists.
+        // IDs tab — most-played tracks aggregated from their sets' parsed tracklists.
         // Tap a row to jump to that drop in the set (timestamped), else YouTube-search it.
         var _tracksLoaded=false, _pressLoaded=false;
         function loadTracksTab(){
@@ -10392,7 +10403,7 @@
           if(k==='press') loadInterviewsTab();
         }); });
         // Lazy-load whichever tab is initially active (deep-link via #tab, or the default Sets).
-        // Upcoming/Past/Similar render synchronously; only Sets + Tracks are lazy.
+        // Upcoming/Past/Similar render synchronously; only Sets + IDs are lazy.
         if(_activeTab==='sets') loadSetsTab(); else if(_activeTab==='tracks') loadTracksTab(); else if(_activeTab==='press') loadInterviewsTab();
         markTabsFade(document.querySelector('#page-body .fp-tabs'));
         document.querySelectorAll('#page-body .fp-erow[data-ev]').forEach(function(tr){ tr.addEventListener('click',function(){ openEvent(tr.dataset.ev); }); });
@@ -10487,7 +10498,7 @@
       try{
         var r=await authedFetch('/api/scenes'); var j=await r.json();
         var cs=(j.cities||[]).slice();
-        if(!cs.length){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">No scenes with upcoming nights yet.</div>'); return; }
+        if(!cs.length){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">No scenes with upcoming gigs yet.</div>'); return; }
 
         // Your city, by the same rule the rest of the app uses. If we do not have
         // it (or it has nothing on) the hero falls to the busiest city rather
@@ -10509,7 +10520,7 @@
           '<div class="scn-hero-in">'+
             '<div class="scn-hero-eyebrow">'+(isYours?'Your scene':'Busiest scene')+'</div>'+
             '<div class="scn-hero-name">'+esc(mine.name)+(mine.country?'<span class="scn-hero-cc">'+esc(mine.country)+'</span>':'')+'</div>'+
-            '<div class="scn-hero-meta">'+(mine.count?Number(mine.count).toLocaleString('en-GB')+' nights':'')+
+            '<div class="scn-hero-meta">'+(mine.count?Number(mine.count).toLocaleString('en-GB')+' gigs':'')+
               (mine.topGenre?' &middot; '+esc(titleCaseWord(mine.topGenre)):'')+'</div>'+
             '<button class="fp-ab go scn-hero-cta" type="button" id="sc-hero-go">'+PLAY_SVG+'<span>Open the guide</span></button>'+
           '</div></div>';
@@ -10550,7 +10561,7 @@
                   : '<span class="scn-tile-s" style="background:'+sceneTone(c.slug)+'"></span>')+
               '</span>'+
               '<span class="scn-tile-tx"><span class="scn-tile-name">'+esc(c.name)+'</span>'+
-              '<span class="scn-tile-sub">'+(c.count?Number(c.count).toLocaleString('en-GB')+' nights':'')+
+              '<span class="scn-tile-sub">'+(c.count?Number(c.count).toLocaleString('en-GB')+' gigs':'')+
                 (c.topGenre?' &middot; '+esc(titleCaseWord(c.topGenre)):'')+'</span></span></button>';
           }).join('')+'</div>';
           box.querySelectorAll('.scn-tile[data-city]').forEach(function(b){
@@ -10654,7 +10665,7 @@
         var num=function(n){ return Number(n).toLocaleString('en-GB'); };
         // next30 counts the next 30 days. stats.nights counts 365 days BACKWARD —
         // mostly nights that already happened — so it cannot sit under this headline.
-        var sub=[n30.nights?num(n30.nights)+' nights':'', n30.venues?num(n30.venues)+' venues':'', n30.artists?num(n30.artists)+' artists':'']
+        var sub=[n30.nights?num(n30.nights)+' gigs':'', n30.venues?num(n30.venues)+' venues':'', n30.artists?num(n30.artists)+' artists':'']
                 .filter(Boolean).join(' · ');
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button>'+
           '<div class="scg-head"><div class="scg-headtx">'+
@@ -10669,7 +10680,7 @@
           '<div id="cs-playing"></div><div id="cs-venues"></div>'+
           '<div class="sec-h" style="margin-top:26px">On the map</div>'+
           '<div id="cs-map" class="cs-map-hero"></div>'+
-          '<div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>'+
+          '<div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming gigs. Tap a pin.</div>'+
           '</div></div>';
         openPanel(h);
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
@@ -10694,14 +10705,14 @@
         // said "techno in London" instead of "Techno".
         setSeo(filter ? (filter.name+' in '+nm+' — line-ups & tickets | soundcheck')
                       : (nm+" scene guide — who's playing, the venues & sounds | soundcheck"),
-               'The artists playing '+nm+' this month, the venues they’re in, upcoming nights and the sounds that define the city.',
+               'The artists playing '+nm+' this month, the venues they’re in, upcoming gigs and the sounds that define the city.',
                null, location.origin+url);
 
         (function(){
           var box=document.getElementById('cs-showing'); if(!box||!filter) return;
           box.innerHTML='<div class="scg-showing">Showing '+
             '<a class="scg-chip nav" href="'+esc(SC_BASE+city+'/scene/')+'"><b>'+esc(filter.name)+'</b><span class="x">&times;</span></a>'+
-            '<span>'+(count!=null?num(count)+' nights':'')+' across '+esc(nm)+'</span></div>';
+            '<span>'+(count!=null?num(count)+' gigs':'')+' across '+esc(nm)+'</span></div>';
         })();
 
         (function(){
@@ -11096,10 +11107,10 @@
         var r=await authedFetch('/api/promoters?city='+encodeURIComponent(city));
         var d=await r.json(), ps=(d&&d.promoters)||[], cn=cityLabel(city);
         if(!ps.length){ openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">No promoters listed for '+esc(cn)+' yet.</div>'); return; }
-        var blurb='The crews behind '+cn+'\u2019s club nights \u2014 who they book, the rooms they use and every date they have on.';
+        var blurb='The crews behind '+cn+'\u2019s gigs \u2014 who they book, the rooms they use and every date they have on.';
         var h='<nav class="crumb"><a class="nav" href="'+esc(SC_BASE+encodeURIComponent(city)+'/')+'">'+esc(cn)+'</a><span>&rsaquo;</span><span>Promoters</span></nav>'+
           '<div class="gd-head"><h2 class="page-title">'+esc(cn)+' promoters</h2>'+
-          '<div class="sub">'+ps.length+' collectives with more than one night coming up</div>'+
+          '<div class="sub">'+ps.length+' collectives with more than one gig coming up</div>'+
           '<p class="seo-desc">'+esc(blurb)+'</p></div>'+
           '<div class="gd-rows">'+ps.map(function(p){
             // The venues line is what tells two same-named rows apart, and it is the
@@ -11124,8 +11135,8 @@
           a.addEventListener('click',function(e){ e.preventDefault(); openPromoter(a.dataset.promoter); });
         });
         var canon=location.origin+url;
-        setSeo(cn+' promoters \u2014 club night collectives | soundcheck',
-          cn+' promoters: '+ps.length+' collectives with nights coming up. '+blurb, null, canon);
+        setSeo(cn+' promoters \u2014 gig collectives | soundcheck',
+          cn+' promoters: '+ps.length+' collectives with gigs coming up. '+blurb, null, canon);
       }catch(_){ openPanel('<h2 class="page-title">Couldn\u2019t load</h2><div class="sub">Try again in a moment.</div>'); }
     }
     async function openPromoter(slug){
@@ -11173,7 +11184,7 @@
         if(p.gigs) stats.push('<span><b>'+p.gigs+'</b> in all</span>');
         if((p.cities||[]).length>1) stats.push('<span><b>'+p.cities.length+'</b> cities</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
-        if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
+        if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their gigs.</div>';
         var pNext=pNext0;
         // UPCOMING / PAST AS TABS, like the venue and artist pages. They used to
         // be two stacked sections, so a promoter with 200 past nights buried the
@@ -11203,7 +11214,7 @@
           try{ history.replaceState(history.state,'','#'+k); }catch(_){}
         }); });
         var _pcanon=location.origin+SC_BASE+'promoter/'+slug+'/';
-        var _pdesc=p.description||(dispName+' — upcoming events, line-ups and the club nights they put on, on soundcheck.');
+        var _pdesc=p.description||(dispName+' — upcoming events, line-ups and the gigs they put on, on soundcheck.');
         setSeo(dispName+' — events & line-ups | soundcheck', _pdesc, { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:_pdesc }, _pcanon);
         var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
         if(pu && up.length){
@@ -11300,7 +11311,7 @@
         h+='</div>';   // close .fp-artist
         openPanel(h);
         var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
-        var _vdesc=v.description||(dispName+" — upcoming club nights, line-ups, sound and location"+(v.city?' in '+cityLabel(v.city):'')+", on soundcheck. Follow the venue for new dates.");
+        var _vdesc=v.description||(dispName+" — upcoming gigs, line-ups, sound and location"+(v.city?' in '+cityLabel(v.city):'')+", on soundcheck. Follow the venue for new dates.");
         setSeo(dispName+" — what's on & tickets | soundcheck", _vdesc, { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:_vdesc, address:v.address||undefined }, _vcanon);
         var vfBtn=document.getElementById('vf-btn');
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
@@ -11509,9 +11520,9 @@
               '</div><div class="fp-ev-map" id="fp-ev-map"></div></div></div>';
         }
         if((ev.alsoOn||[]).length){
-          h+='<div class="fp-sec"><div class="fp-sech">Also on that night <span>same city · same date</span></div><div id="fp-ev-alsoon"></div></div>';
+          h+='<div class="fp-sec"><div class="fp-sech">Also on that date <span>same city · same date</span></div><div id="fp-ev-alsoon"></div></div>';
         }
-        if(ev.venue) h+='<a class="fp-morev venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">More nights at '+esc(ev.venue)+' →</a>';
+        if(ev.venue) h+='<a class="fp-morev venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">More gigs at '+esc(ev.venue)+' →</a>';
         h+='<div style="padding:18px 18px 4px">'+reportCue('event:'+id)+'</div>';
         h+='</div>';
         openPanel(h);
@@ -11525,7 +11536,7 @@
           pos.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); open(); } });
         })();
         var _canon=location.origin+SC_BASE+eventPath(id,_who,ev.venue)+'/';
-        var _edesc=ev.description||((ev.title||_who||'This night')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
+        var _edesc=ev.description||((ev.title||_who||'This gig')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
         setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', _edesc, musicEventLD(ev), _canon);   // MusicEvent JSON-LD (restored after the bespoke port dropped it)
         armEventSticky(ev.title||'');
         if((ev.alsoOn||[]).length){ var _ao=document.getElementById('fp-ev-alsoon'); if(_ao) mountEventCards(_ao, ev.alsoOn.slice(0,6)); }   // same card/list template as everywhere
@@ -11626,7 +11637,7 @@
             openLog({ eventId: id });
           });
         // Edit your own log of this night. openLog({eventId}) is the same entry
-        // point the "log a night" prompts use, so it opens seeded, not blank.
+        // point the "log a gig" prompts use, so it opens seeded, not blank.
         var me=document.getElementById('ev-mine-edit');
         if(me) me.addEventListener('click',function(){ openLog({eventId:String(id)}); });
         }
@@ -11739,8 +11750,8 @@
     }
     function logFormHTML(){
       return '<h2 class="page-title">Log a gig</h2>'+
-        (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Find the night you '+(_logHintAt?'had at':'caught')+' <b>'+esc(_logHint)+'</b></div>':'')+
-        '<div class="sub">Find the night you went to &mdash; pick it and the venue &amp; lineup fill themselves in.</div>'+
+        (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Find the gig you '+(_logHintAt?'had at':'caught')+' <b>'+esc(_logHint)+'</b></div>':'')+
+        '<div class="sub">Find the gig you went to &mdash; pick it and the venue &amp; lineup fill themselves in.</div>'+
         '<div style="max-width:600px">'+
           '<div class="pf-box">'+
             // The city is a CHIP inside the search box, not a labelled field
@@ -11765,18 +11776,18 @@
     }
     // A "not here? add it" escape hatch shown under the nights list — for when the
     // gig you're logging isn't in our indexed history.
-    function lgAddEvHTML(){ return '<button type="button" class="more-btn" id="lg-addev" style="margin-top:12px">Can&rsquo;t find your night? Add the event &rarr;</button>'; }
+    function lgAddEvHTML(){ return '<button type="button" class="more-btn" id="lg-addev" style="margin-top:12px">Can&rsquo;t find your gig? Add the event &rarr;</button>'; }
     // Render the artist's indexed nights as a selectable list.
     function renderLgEvents(){
       var el=document.getElementById('lg-events'); if(!el) return;
-      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No indexed nights matched — try the club or a headliner, or add the night below.</div>'+lgAddEvHTML(); return; }
+      if(!lgEventList.length){ el.innerHTML='<div class="empty" style="padding:6px 0">No indexed gigs matched — try the club or a headliner, or add the gig below.</div>'+lgAddEvHTML(); return; }
       el.innerHTML=lgEventList.map(function(e,i){
         var d=e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):'';
         var ln=(e.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,2).join(', ');
         var sub=[esc(e.venue||''), e.city?esc(cityLabel(e.city)):'', ln?esc(ln):''].filter(Boolean).join(' &middot; ');
         var po=e.poster_url?' style="background-image:url(\''+imgUrl(e.poster_url,120)+'\')"':'';
         var on=lgSel&&lgSel.id===e.id;
-        return '<button type="button" class="lg-erow'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-po"'+po+'></span><span class="le-m"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||e.venue||'Club night')+'</span>'+(sub?'<span class="le-s">'+sub+'</span>':'')+'</span><span class="le-go">'+(on?'&check;':'&rsaquo;')+'</span></button>';
+        return '<button type="button" class="lg-erow'+(on?' on':'')+'" data-evi="'+i+'"><span class="le-po"'+po+'></span><span class="le-m"><span class="le-d">'+esc(d)+'</span><span class="le-t">'+esc(e.title||e.venue||'Gig')+'</span>'+(sub?'<span class="le-s">'+sub+'</span>':'')+'</span><span class="le-go">'+(on?'&check;':'&rsaquo;')+'</span></button>';
       }).join('')+lgAddEvHTML();
     }
     // Real, named acts only — drops empty / "-" placeholder entries from the bill.
@@ -11962,7 +11973,7 @@
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
         lgEventList=[{ id:ev.id, title:ev.title, venue:ev.venue, city:ev.city, event_date:ev.event_date, poster_url:ev.poster_url, lineup:ev.lineup||[] }];
         selectLgEvent(lgEventList[0]);
-      }catch(_){ if(ev0) ev0.innerHTML='<div class="es"><span class="es-t">Couldn\u2019t load that night</span><p class="es-s">Usually a dropped connection rather than a missing event. Pull to refresh, or head back to the city page.</p></div>'; }
+      }catch(_){ if(ev0) ev0.innerHTML='<div class="es"><span class="es-t">Couldn\u2019t load that gig</span><p class="es-s">Usually a dropped connection rather than a missing event. Pull to refresh, or head back to the city page.</p></div>'; }
     }
     // ── P1: taste onboarding (the <3-min flow → living taste profile) ──
     var TASTE_VIBES=['intimate','warehouse','queer','audiophile','afterhours','high energy','deep/listening','experimental'];
@@ -11987,7 +11998,7 @@
       ov.innerHTML='<div class="auth-box taste-box">'+
         '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
         '<div id="to-form">'+
-          '<div class="eyebrow">Build your taste</div><h3>Find nights you&rsquo;ll actually like.</h3>'+
+          '<div class="eyebrow">Build your taste</div><h3>Find gigs you&rsquo;ll actually like.</h3>'+
           '<p style="margin-bottom:14px">Two minutes &mdash; and it sharpens every time you save an artist or log a gig.</p>'+
           '<label class="to-label">Favourite artists <small>5&ndash;10</small></label>'+
           '<div class="sg-wrap"><input id="to-art-in" type="text" placeholder="Search artists…" autocomplete="off" autocapitalize="off"><div class="sg-drop" id="to-art-drop"></div></div>'+
@@ -12098,7 +12109,7 @@
       var acts=function(e){ return ((e&&e.artists)||[]).map(function(a){ return a.name; }); };
       var row=function(e,right){
         return '<div class="ob-rw">'+(poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
-          '<span class="tx"><b>'+esc(e.title||'Club night')+'</b><i>'+esc([e.venue].filter(Boolean).join(' · '))+'</i></span>'+(right||'')+'</div>';
+          '<span class="tx"><b>'+esc(e.title||'Gig')+'</b><i>'+esc([e.venue].filter(Boolean).join(' · '))+'</i></span>'+(right||'')+'</div>';
       };
       // 1 · artist actions
       var s1='<div class="ob-stage">'+(poster(e0,600)?'<div class="ob-pvart" style="background-image:url('+poster(e0,600)+')"></div>':'')+
@@ -12112,7 +12123,7 @@
         '<div class="ob-pvrow dd">Share</div></div></div>';
       // 2 · quick log
       var s2='<div class="ob-stage"><div class="ob-pv" style="padding:14px 13px">'+
-        '<div class="ob-eyebrow" style="margin-bottom:8px">SEARCH A NIGHT</div>'+
+        '<div class="ob-eyebrow" style="margin-bottom:8px">SEARCH A GIG</div>'+
         '<div class="ob-fld">'+esc((e0.venue||'fabric').toLowerCase())+'</div>'+
         evs.slice(0,3).map(function(e,i){ return row(e,'<span class="pin'+(i===0?' on':'')+'">'+(i===0?'✓':'+')+'</span>'); }).join('')+
         '<div class="ob-cnt"><b>1</b> logged · keep going</div></div></div>';
@@ -12122,7 +12133,7 @@
           var a=acts(e);
           return '<div class="ob-rw">'+obDateTile((e.startTime||'').slice(0,10)||new Date().toISOString().slice(0,10))+
             (poster(e)?'<span class="th" style="background-image:url('+poster(e)+')"></span>':'<span class="th"></span>')+
-            '<span class="tx"><b>'+esc(e.venue||'Club night')+'</b><i class="ac">'+esc(a.slice(0,2).join(', ')+(a.length>2?' +'+(a.length-2):''))+'</i></span></div>';
+            '<span class="tx"><b>'+esc(e.venue||'Gig')+'</b><i class="ac">'+esc(a.slice(0,2).join(', ')+(a.length>2?' +'+(a.length-2):''))+'</i></span></div>';
         }).join('')+'</div>';
       // 4 · friends
       var who=['maya','theo','ren','kaya'], verb=['logged','is going to','marked seen','shared a playlist'];
@@ -12144,8 +12155,8 @@
         '</div></div>';
       return [
         { h:'Every artist you&rsquo;ve seen,<br>on the record', s:'Mark them seen, save the ones you want to catch, play their sets.', b:s1 },
-        { h:'Log a night<br>in two taps', s:'Search the night, tap it. The whole line-up is marked seen.', b:s2 },
-        { h:'Your gig diary,<br>month by month', s:'Every night you&rsquo;ve been to, with who played.', b:s3 },
+        { h:'Log a gig<br>in two taps', s:'Search the gig, tap it. The whole line-up is marked seen.', b:s2 },
+        { h:'Your gig diary,<br>month by month', s:'Every gig you&rsquo;ve been to, with who played.', b:s3 },
         { h:'Follow your people', s:'See what they&rsquo;re catching, and where they&rsquo;re going next.', b:s4 },
         { h:'Playlists, sets<br>and the scene', s:'Build playlists from the bills you love. Every set, one tap away.', b:s5 },
         { h:'Your scene card', s:'You, in artists. Post it to your story or the group chat.', b:s6 },
@@ -12271,7 +12282,7 @@
     function obStepCity(){
       var el=obBody('<div class="ob-eyebrow">Step 1 of 3</div>'+
         '<h1 class="ob-h1" id="ob-cityh">Finding your city&hellip;</h1>'+
-        '<p class="ob-sub">This is where we&rsquo;ll look for your nights &mdash; you can switch any time.</p>'+
+        '<p class="ob-sub">This is where we&rsquo;ll look for your gigs &mdash; you can switch any time.</p>'+
         '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
         '<button class="ob-alt" id="ob-changecity" type="button">Somewhere else</button></div>'+
         '<div id="ob-citypick" style="margin-top:14px;max-width:340px" hidden>'+cityPickerHTML('ob-city','')+'</div>'+
@@ -12297,12 +12308,12 @@
         scOnboard('pick');
       });
     }
-    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="'+attrEsc((g.title||'Club night')+' poster')+'">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
+    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="'+attrEsc((g.title||'Gig')+' poster')+'">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
     function obStepLog(){
       var el=obBody('<div class="ob-eyebrow">Step 2 of 4</div>'+
-        '<h1 class="ob-h1">Which nights were you at?</h1>'+
-        '<p class="ob-sub">Search an artist, a venue or a night &mdash; then just tap it. Three to five is plenty; it all lands in your gig diary.</p>'+
-        '<input type="text" id="ob-q" placeholder="Try a DJ or a club&hellip;" autocomplete="off" autocapitalize="off">'+
+        '<h1 class="ob-h1">Which gigs were you at?</h1>'+
+        '<p class="ob-sub">Search an artist, a venue or a gig &mdash; then just tap it. Three to five is plenty; it all lands in your gig diary.</p>'+
+        '<input type="text" id="ob-q" placeholder="Try an artist or a club&hellip;" autocomplete="off" autocapitalize="off">'+
         '<div class="ob-results" id="ob-res"></div>'+
         '<div class="ob-count" id="ob-cnt" hidden></div>'+
         '<button class="ob-cta" id="ob-loggo" type="button" disabled>Next</button>');
@@ -12441,7 +12452,7 @@
       if(!h){
         var pv=obBody('<div class="ob-eyebrow">Step 3 of 3</div>'+
           '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
-          '<p class="ob-sub">You, in artists. Add your email and it&rsquo;s yours to keep &mdash; shareable, and it grows every night you log.</p>'+
+          '<p class="ob-sub">You, in artists. Add your email and it&rsquo;s yours to keep &mdash; shareable, and it grows every gig you log.</p>'+
           obCardPreview(_obPicked)+
           '<button class="ob-cta" id="ob-keep" type="button">Keep my card</button>'+
           '<button class="ob-alt" id="ob-later" type="button">Not now</button>');
@@ -12559,7 +12570,7 @@
     }
     async function saveLog(){
       if(!currentUser){ openAuth(); return; }
-      if(!lgSel){ document.getElementById('lg-err').textContent='Pick a night first.'; return; }
+      if(!lgSel){ document.getElementById('lg-err').textContent='Pick a gig first.'; return; }
       // No artists is a valid night — plenty of bills are never published, so the
       // acts are optional and only the night itself is required.
       var btn=document.getElementById('lg-save'); btn.disabled=true; document.getElementById('lg-err').textContent='';
@@ -12600,7 +12611,7 @@
           '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
             '<div style="display:flex;gap:8px"><input type="url" id="im-url" placeholder="https://…" autocomplete="off" style="flex:1"><button id="im-fetch" type="button" style="flex:0 0 auto;background:var(--surface-2);color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-btn);padding:0 16px;font:700 var(--fs-xs)/var(--lh-xs) var(--body);text-transform:uppercase;letter-spacing:0.08em;cursor:pointer">Fetch</button></div>'+
             '<div id="im-note" style="font-size:var(--fs-sm);color:var(--muted);margin-top:6px;min-height:1em"></div></div>'+
-          '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Night / event name"></div>'+
+          '<div class="lg-field"><label>Title</label><input type="text" id="im-title" placeholder="Gig / event name"></div>'+
           '<div class="lg-field"><label>Venue</label><input type="text" id="im-venue" placeholder="Where"></div>'+
           '<div class="lg-field"><label>City</label>'+cityPickerHTML('im-city', currentCity)+'</div>'+
           '<div class="lg-field" style="display:flex;gap:12px"><div style="flex:1"><label>Date</label><input type="date" id="im-date"></div><div style="flex:0 0 130px"><label>Start <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(opt)</small></label><input type="time" id="im-time"></div></div>'+
@@ -12845,7 +12856,7 @@
         '<div class="adm-sec-s">The hand-written layer on the city page. Every section is optional&nbsp;&mdash; save as you go.'+
         (j&&j.updatedAt?' Last edited '+esc(String(j.updatedAt).slice(0,10))+'.':'')+'</div>'+
         '<div class="adm-field"><label for="adm-g-intro">Intro</label>'+
-          '<textarea id="adm-g-intro" maxlength="1500" placeholder="What someone should know before their first night here.">'+esc(d.intro||'')+'</textarea></div>'+
+          '<textarea id="adm-g-intro" maxlength="1500" placeholder="What someone should know before their first gig here.">'+esc(d.intro||'')+'</textarea></div>'+
         '<div class="adm-field"><label for="adm-g-high">Highlights <small style="text-transform:none;letter-spacing:0;color:var(--faint)">one per line, up to 6</small></label>'+
           '<textarea id="adm-g-high" placeholder="Nothing starts before 1am">'+esc((d.highlights||[]).join('\n'))+'</textarea></div>'+
         '<div class="adm-sec"><div class="adm-sec-t">Practical</div><div class="adm-sec-s">The stuff nobody else publishes.</div>';
@@ -13293,7 +13304,7 @@
     function renderEvents(events, eyebrowPrefix){
       stopActive();
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
-      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a night we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
+      if(evs.length===0){ gridEl.innerHTML='<div class="status">Nothing on this day. <button class="more-btn" id="grid-tryweekend">Try the weekend &rarr;</button><div style="margin-top:10px;font-size:var(--fs-sm)">Know a gig we&rsquo;re missing? <button class="more-btn" id="grid-addev">Add an event &rarr;</button></div></div>'; var _tw=document.getElementById('grid-tryweekend'); if(_tw) _tw.addEventListener('click',function(){ loadWeekend(); }); var _ae=document.getElementById('grid-addev'); if(_ae) _ae.addEventListener('click',function(){ openImport(); }); _gridEvents=[]; _genreFilter=null; _priceFilter=null; _nearFilter=null; syncGenreChip(); syncPriceChip(); syncNearChip(); return; }
       var ordered=orderEvents(evs);
       _gridEvents=ordered; _genreFilter=null; _priceFilter=null; _nearFilter=null; closeGenreMenu(); closePriceMenu(); syncGenreChip(); syncPriceChip(); syncNearChip();
       paintCurrentGrid();

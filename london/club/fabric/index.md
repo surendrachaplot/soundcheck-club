@@ -1,12 +1,12 @@
 # fabric
 
-fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "fabric: Sam Paganini, Simone Zino, Marco Faraone, FIFI FORTE" on Sat, 19 Sept 2026.
+fabric is a music venue in London with 28 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "fabric: Sam Paganini, Simone Zino, Marco Faraone, FIFI FORTE" on Sat, 19 Sept 2026.
 
-fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie Aukett and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie Aukett and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | fabric: Sam Paganini, Simone Zino, Marco Faraone, FIFI FORTE | FIFI FORTE, Marco Faraone, Ryan Resso, Sam Paganini, Simone Zino |
 | Sun, 20 Sept 2026 | CAYA by fabric - Unity Sound | BALA (3), FITS ME FUNNY, Kittani, Luke Elias, Rocco Han, Sinjin, misschief, samasama |

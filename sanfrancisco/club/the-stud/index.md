@@ -1,12 +1,12 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "140: Folsom Kickoff" on Thu, 24 Sept 2026.
+The Stud is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "140: Folsom Kickoff" on Thu, 24 Sept 2026.
 
-The Stud is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including arktoi, Del (4), Miss Crafty and Mozhgan and 1 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
+The Stud is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming gigs, with line-ups including arktoi, Del (4), Miss Crafty and Mozhgan and 1 more. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | 140: Folsom Kickoff | Miss Crafty, Olivia Lauren, arktoi |
 | Sat, 26 Sept 2026 | GRUNT- FOLSOM- TIX AVAIL. AT DOOR | Del (4), Mozhgan |

@@ -1,12 +1,12 @@
 # Signal
 
-Signal is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Night & Day Weekender with Konduku, CCL, Buttechno and many more" on Fri, 18 Sept 2026.
+Signal is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Night & Day Weekender with Konduku, CCL, Buttechno and many more" on Fri, 18 Sept 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Night & Day Weekender with Konduku, CCL, Buttechno and many more | 98dots, Buttechno, CCL, Chloe Battelle, DJ Sundae, Denzel, Ekkel, Joni DJ, Konduku, Kurilo, Naone, Unai Trotti, Zurkin |
 | Wed, 23 Sept 2026 | Nuclear Cinema presents: We Live In Public screening |  |

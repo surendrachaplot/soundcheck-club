@@ -1,12 +1,12 @@
 # Gigi's Hoxton
 
-Gigi's Hoxton is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Carnival Terror Party " on Fri, 30 Oct 2026.
+Gigi's Hoxton is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Carnival Terror Party " on Fri, 30 Oct 2026.
 
-Gigi's Hoxton is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Jo Cruz and KAYDNCE. Browse upcoming dates, start times and who's playing. 11 Hoxton Square, Hackney, London N1 6NU.
+Gigi's Hoxton is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Jo Cruz and KAYDNCE. Browse upcoming dates, start times and who's playing. 11 Hoxton Square, Hackney, London N1 6NU.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Carnival Terror Party  | Jo Cruz, KAYDNCE |
 

@@ -1,12 +1,12 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "24K Kink" on Sat, 19 Sept 2026.
+Insomnia is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "24K Kink" on Sat, 19 Sept 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including ANAMORPH_, Andara Nox, BOHO and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including ANAMORPH_, Andara Nox, BOHO and BOOTHBUNNY and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | 24K Kink | Sika Akis |
 | Thu, 24 Sept 2026 | Berlin Kink |  |

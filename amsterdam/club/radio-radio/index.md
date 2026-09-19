@@ -1,12 +1,12 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ecclipse" on Sat, 19 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ecclipse" on Sat, 19 Sept 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Aldonna, Alex Coly, Bambii and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Aldonna, Alex Coly, Bambii and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Ecclipse | Cleo Grooves, Lex Valverde |
 | Sat, 19 Sept 2026 | Dimitri • jannah | Dimitri K, jannah |

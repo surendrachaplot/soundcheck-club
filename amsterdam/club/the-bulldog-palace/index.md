@@ -1,12 +1,12 @@
 # The Bulldog Palace
 
-The Bulldog Palace is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Discovery Sessions: The Bulldog Amsterdam" on Thu, 22 Oct 2026.
+The Bulldog Palace is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Discovery Sessions: The Bulldog Amsterdam" on Thu, 22 Oct 2026.
 
-The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including 2HOT2PLAY, ABOUT SOFIYA, Alex Bohemien and Alex Pi and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 15, 1017 PS Amsterdam.
+The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 2HOT2PLAY, ABOUT SOFIYA, Alex Bohemien and Alex Pi and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 15, 1017 PS Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Discovery Sessions: The Bulldog Amsterdam | Ben Kim, DXNBY, Danny Snowden, Goosey, Semmi Amdouni, Shek, VLTRA (IT) |
 | Fri, 23 Oct 2026 | ADUNANZA IN THE CAGE - ADE 2026 | Alex Bohemien, Manu P |

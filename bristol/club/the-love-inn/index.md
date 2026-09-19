@@ -1,12 +1,12 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dave Angel 'A TIME AND PLACE' Album Launch Party" on Sat, 19 Sept 2026.
+The Love Inn is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dave Angel 'A TIME AND PLACE' Album Launch Party" on Sat, 19 Sept 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming nights, with line-ups including A For Alpha, Alexandria, Andy Martin and Caragh and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including A For Alpha, Alexandria, Andy Martin and Caragh and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dave Angel 'A TIME AND PLACE' Album Launch Party | Dave Angel, Surgeons Girl |
 | Wed, 23 Sept 2026 | QUANTO residency #01 w/ Alexandria | Alexandria |

@@ -1,12 +1,12 @@
 # Bozar
 
-Bozar is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback" on Thu, 22 Oct 2026.
+Bozar is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback" on Thu, 22 Oct 2026.
 
-Bozar is a music venue in Brussels listed on soundcheck. 3 upcoming nights, with line-ups including Carrier (Aus), Eomac, Mika Oki and NVST and 2 more. Browse upcoming dates, start times and who's playing. Rue Ravensteinstraat 23, 1000 Brussels, Belgium.
+Bozar is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Carrier (Aus), Eomac, Mika Oki and NVST and 2 more. Browse upcoming dates, start times and who's playing. Rue Ravensteinstraat 23, 1000 Brussels, Belgium.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Bozar Bassment #1: cratje – Shapednoise & Sevi Iko Dømochevsky – Slikback | Shapednoise, Slikback |
 | Thu, 19 Nov 2026 | Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki | Eomac, Mika Oki, NVST, Rebecca Salvadori (2) |

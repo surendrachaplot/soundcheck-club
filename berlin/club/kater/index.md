@@ -1,12 +1,12 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kater x Riotvan & Muting The Noise" on Sat, 19 Sept 2026.
+Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kater x Riotvan & Muting The Noise" on Sat, 19 Sept 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and ailin and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and ailin and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Kater x Riotvan & Muting The Noise | ARCYDARO, Dana Ruh, Dominic Pohlmann, Esther Silex, Menqui, Panthera Krause, Pentti Igor, Peter Invasion, Pilar Jordan, Red Axes, Rena Volvo, Shubostar, Syrtaki, TINDRA, Tina von Kugler, ailin, capitano (she/her), cee_ohh |
 | Fri, 25 Sept 2026 | 44 Hertz | Daniel Neuland, Dydaa Forne, Frau Kaufmann, Naicet, Pascale Voltaire, Taberia, vom Feisten |

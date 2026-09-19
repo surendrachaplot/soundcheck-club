@@ -1,12 +1,12 @@
 # House Party
 
-House Party is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "R'n'B LDN Day Party x House Party Soho" on Sat, 19 Sept 2026.
+House Party is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "R'n'B LDN Day Party x House Party Soho" on Sat, 19 Sept 2026.
 
-House Party is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 61 Poland St, London W1F 7NU.
+House Party is a music venue in London listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 61 Poland St, London W1F 7NU.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | R'n'B LDN Day Party x House Party Soho |  |
 | Sat, 17 Oct 2026 | R'n'B LDN Day Party x House Party Soho |  |

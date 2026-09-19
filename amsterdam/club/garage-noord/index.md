@@ -1,12 +1,12 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Al Wootton, Dave Huismans, AliA Bar40 by Glinted records" on Sat, 19 Sept 2026.
+Garage Noord is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Al Wootton, Dave Huismans, AliA Bar40 by Glinted records" on Sat, 19 Sept 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and AliA and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and AliA and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Al Wootton, Dave Huismans, AliA Bar40 by Glinted records | Al Wootton, AliA, Dave Huismans, Lulá Luna, Seb H. |
 | Sun, 20 Sept 2026 | NTS Amsterdam | DJ Shahmaran, Himera, Jespfur, Mankiyan, Rotational, Rozaly, Toff Youth, amil raja, dare balogun |

@@ -1,12 +1,12 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tryouts Takeover at Golden Lion" on Sat, 19 Sept 2026.
+The Golden Lion is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tryouts Takeover at Golden Lion" on Sat, 19 Sept 2026.
 
-The Golden Lion is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Alex Dallas, Bakey, Bijon and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
+The Golden Lion is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Alex Dallas, Bakey, Bijon and Bill Brewster and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tryouts Takeover at Golden Lion | Logan Fisher, Marco Passarani |
 | Thu, 1 Oct 2026 | KIOSK + THOSE HOLY |  |

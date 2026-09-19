@@ -1,12 +1,12 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "yusu selectors" on Sat, 19 Sept 2026.
+murmur is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "yusu selectors" on Sat, 19 Sept 2026.
 
-murmur is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including B Current, Carla dal Forno, Gres A and rriddim. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
+murmur is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including B Current, Carla dal Forno, Gres A and rriddim. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | yusu selectors |  |
 | Thu, 24 Sept 2026 | subbacultcha presents: carla dal forno + ebby [sold out] | Carla dal Forno |

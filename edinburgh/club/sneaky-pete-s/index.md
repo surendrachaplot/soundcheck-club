@@ -1,12 +1,12 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Popular Music: Alexis Taylor (Hot Chip) DJ Set" on Sat, 19 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Popular Music: Alexis Taylor (Hot Chip) DJ Set" on Sat, 19 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including YVI, Alexis Taylor, billybawbags and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gigs, with line-ups including YVI, Alexis Taylor, billybawbags and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Popular Music: Alexis Taylor (Hot Chip) DJ Set | Alexis Taylor, Nick from Sneaks, Peaky Blindrunk |
 | Sun, 20 Sept 2026 | Sofia Kourtesis (DJ set): Free Time - Edinburgh - sold out - resale tickets active | Sofia Kourtesis |

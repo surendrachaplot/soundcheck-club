@@ -1,12 +1,12 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FLVMEN" on Sun, 20 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FLVMEN" on Sun, 20 Sept 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 5 upcoming nights, with line-ups including Alessio Barletta, bee.Z, Brasi and Fernando Costantini and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 5 upcoming gigs, with line-ups including Alessio Barletta, bee.Z, Brasi and Fernando Costantini and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | FLVMEN | Alessio Barletta, Onokai |
 | Mon, 21 Sept 2026 | Purple MondayS Closing Season Night |  |

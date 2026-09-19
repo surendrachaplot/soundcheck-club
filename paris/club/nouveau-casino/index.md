@@ -1,12 +1,12 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SDK x Nouveau Casino" on Sat, 19 Sept 2026.
+Nouveau Casino is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SDK x Nouveau Casino" on Sat, 19 Sept 2026.
 
-Nouveau Casino is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Aleqs Notal, Ben Manson, DJ Clark Kent and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
+Nouveau Casino is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Aleqs Notal, Ben Manson, DJ Clark Kent and DJ Stingray 313 and 2 more. Browse upcoming dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SDK x Nouveau Casino | Serō |
 | Sat, 26 Sept 2026 | LESS DRAMA MORE TECHNO [September issue] | Ben Manson, DJ Clark Kent, Mr Cozzo |

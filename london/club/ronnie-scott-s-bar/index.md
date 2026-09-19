@@ -1,12 +1,12 @@
 # Ronnie Scott's Bar
 
-Ronnie Scott's Bar is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Late Late Show Upstairs with Energy Exchange Records" on Sat, 19 Sept 2026.
+Ronnie Scott's Bar is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Late Late Show Upstairs with Energy Exchange Records" on Sat, 19 Sept 2026.
 
-Ronnie Scott's Bar is a music venue in London listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
+Ronnie Scott's Bar is a music venue in London listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Late Late Show Upstairs with Energy Exchange Records |  |
 | Thu, 24 Sept 2026 | Late Late Show hosted by Myele Manzanza |  |

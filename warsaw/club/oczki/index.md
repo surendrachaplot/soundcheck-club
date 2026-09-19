@@ -1,12 +1,12 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "III Urodziny OCZKI | DAY II" on Sat, 19 Sept 2026.
+OCZKI is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "III Urodziny OCZKI | DAY II" on Sat, 19 Sept 2026.
 
-OCZKI is a music venue in Warsaw listed on soundcheck. 10 upcoming nights, with line-ups including Blackhaine, BOBAIO, Bronka and Debit and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
+OCZKI is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Blackhaine, BOBAIO, Bronka and Debit and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | III Urodziny OCZKI / DAY II | Duszne Granie, GiGi (PL), Glasse, Korenberg, Mazi (PL), Pysh, Sincz, WEIKUM |
 | Sat, 19 Sept 2026 | ZA STARZY NA TECHNO |  |

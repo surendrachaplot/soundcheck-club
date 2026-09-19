@@ -1,12 +1,12 @@
 # Heebie Jeebies
 
-Heebie Jeebies is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Back In The Club" on Tue, 22 Sept 2026.
+Heebie Jeebies is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Back In The Club" on Tue, 22 Sept 2026.
 
-Heebie Jeebies is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including Aly P, Dj Streaks and Liv Leslie. Browse upcoming dates, start times and who's playing. 80 Seel Street; Merseyside; Liverpool; L1 4BH; United Kingdom.
+Heebie Jeebies is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Aly P, Dj Streaks and Liv Leslie. Browse upcoming dates, start times and who's playing. 80 Seel Street; Merseyside; Liverpool; L1 4BH; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Back In The Club |  |
 | Fri, 25 Sept 2026 | Casa Del Grooves |  |

@@ -1,12 +1,12 @@
 # Phonox
 
-Phonox is a music venue in London with 39 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Phonox: Len Faki + Alba Heidari" on Sat, 19 Sept 2026.
+Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Phonox: Len Faki + Alba Heidari" on Sat, 19 Sept 2026.
 
-Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including Alba Heidari, A LOVE FROM OUTER SPACE, Amaliah and Amy Os and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including Alba Heidari, A LOVE FROM OUTER SPACE, Amaliah and Amy Os and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Phonox: Len Faki + Alba Heidari | Alba Heidari, Len Faki |
 | Thu, 24 Sept 2026 | Insomnia London: DJ JM, sooyeon, Carmen Baía | Carmen Baía, DJ JM, TBA, sooyeon |

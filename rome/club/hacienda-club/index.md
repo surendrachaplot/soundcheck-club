@@ -1,12 +1,12 @@
 # Hacienda Club
 
-Hacienda Club is a music venue in Rome with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Invincible Fest pres Digitalism live" on Sat, 17 Oct 2026.
+Hacienda Club is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Invincible Fest pres Digitalism live" on Sat, 17 Oct 2026.
 
-Hacienda Club is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Digitalism. Browse upcoming dates, start times and who's playing. via di galla placidia, 27 b, roma , 00159.
+Hacienda Club is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Digitalism. Browse upcoming dates, start times and who's playing. via di galla placidia, 27 b, roma , 00159.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Invincible Fest pres Digitalism live | Digitalism |
 

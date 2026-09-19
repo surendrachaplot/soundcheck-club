@@ -1,12 +1,12 @@
 # Soup
 
-Soup is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove" on Sat, 19 Sept 2026.
+Soup is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove" on Sat, 19 Sept 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, atalaya and Ayy Den and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Abby Harris, ASIAN BRAT, atalaya and Ayy Den and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove | Bugs Groove, JS Zeiter, Simo Cell |
 | Thu, 24 Sept 2026 | Cause & Effect: 20 years of Oneman  | ASIAN BRAT, Oneman |

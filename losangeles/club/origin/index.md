@@ -1,12 +1,12 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fixture Invites Hotties: ØTTA & Cquestt" on Wed, 25 Nov 2026.
+Origin is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fixture Invites Hotties: ØTTA & Cquestt" on Wed, 25 Nov 2026.
 
-Origin is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Cquestt and ØTTA. Browse upcoming dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
+Origin is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Cquestt and ØTTA. Browse upcoming dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Fixture Invites Hotties: ØTTA & Cquestt | Cquestt, ØTTA |
 

@@ -1,12 +1,12 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faction: gwän, KETEVAN, LYZA, Script" on Sat, 19 Sept 2026.
+Bassiani is a music venue in Tbilisi with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faction: gwän, KETEVAN, LYZA, Script" on Sat, 19 Sept 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming nights, with line-ups including 3AM, Anthony Rother, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming gigs, with line-ups including 3AM, Anthony Rother, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Faction: gwän, KETEVAN, LYZA, Script | KETEVAN, LYZA, Script (GE), Uväll, gwän |
 | Fri, 25 Sept 2026 | Bassiani x Nachti | BMI (GE), Boyá, Lux., Manamana, Ndrx, Shed, Valley Dolly, Victor (DE), karete bu |

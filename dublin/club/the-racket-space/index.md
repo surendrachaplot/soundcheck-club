@@ -1,12 +1,12 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4)" on Sun, 20 Sept 2026.
+The Racket Space is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4)" on Sun, 20 Sept 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 11 upcoming nights, with line-ups including Blimp, Cailín, camoufly and Dan J. Wilcox and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including Blimp, Cailín, camoufly and Dan J. Wilcox and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Mystify Creative Playground & Vinyl and Learn Workshop Season 2 (Day1/4) | Blimp, Dan J. Wilcox, LIAL, Sémaé, Tadhg K, Tr One |
 | Fri, 25 Sept 2026 | DOT. presents MADVILLA | MADVILLA |

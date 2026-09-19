@@ -1,12 +1,12 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 25 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Melodic 15: Jeremy Olander (3hr Set)" on Sat, 19 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 25 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Melodic 15: Jeremy Olander (3hr Set)" on Sat, 19 Sept 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming nights, with line-ups including 2manycolours, A For Alpha, Alba (2) and Batu and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming gigs, with line-ups including 2manycolours, A For Alpha, Alba (2) and Batu and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Melodic 15: Jeremy Olander (3hr Set) | Gavin Rochford, Jeremy Olander |
 | Thu, 24 Sept 2026 | UCDJS present: Back To Basics |  |

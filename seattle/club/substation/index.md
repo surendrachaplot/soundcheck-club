@@ -1,12 +1,12 @@
 # Substation
 
-Substation is a music venue in Seattle with 31 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Communion: Drezo & One True God" on Sat, 19 Sept 2026.
+Substation is a music venue in Seattle with 31 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Communion: Drezo & One True God" on Sat, 19 Sept 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 31 upcoming nights, with line-ups including AEREA, alexia.f, Anish Kumar and Austin R and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 31 upcoming gigs, with line-ups including AEREA, alexia.f, Anish Kumar and Austin R and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Communion: Drezo & One True God |  |
 | Sun, 20 Sept 2026 | Routine: Anish Kumar | Anish Kumar, Crash Landon |

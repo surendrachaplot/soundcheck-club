@@ -1,12 +1,12 @@
 # The Dome
 
-The Dome is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "aera presents: Enzo Is Burning" on Fri, 2 Oct 2026.
+The Dome is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "aera presents: Enzo Is Burning" on Fri, 2 Oct 2026.
 
-The Dome is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. Browse upcoming dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
+The Dome is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. Browse upcoming dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | aera presents: Enzo Is Burning | Enzo is Burning |
 | Sat, 3 Oct 2026 | Mas Alto presents: Massano | Massano |

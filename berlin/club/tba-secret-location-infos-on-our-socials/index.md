@@ -1,12 +1,12 @@
 # TBA - Secret Location - Infos on our socials 
 
-TBA - Secret Location - Infos on our socials  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nectar - The Harvest OPEN AIR" on Sat, 19 Sept 2026.
+TBA - Secret Location - Infos on our socials  is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nectar - The Harvest OPEN AIR" on Sat, 19 Sept 2026.
 
-TBA - Secret Location - Infos on our socials  is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Cara Carpaccio, Jeremy J, Marianno and R1D1 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location - Infos on our socials  is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Cara Carpaccio, Jeremy J, Marianno and R1D1 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nectar - The Harvest OPEN AIR | Cara Carpaccio, Jeremy J, Marianno, R1D1, Rabat, TVNG |
 

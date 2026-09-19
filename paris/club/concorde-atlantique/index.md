@@ -1,12 +1,12 @@
 # Concorde Atlantique
 
-Concorde Atlantique is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Deep Sunday Rooftop Party - Closing" on Sun, 20 Sept 2026.
+Concorde Atlantique is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Deep Sunday Rooftop Party - Closing" on Sun, 20 Sept 2026.
 
-Concorde Atlantique is a music venue in Paris listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 23 quai Anatole France; 75007; Paris; France.
+Concorde Atlantique is a music venue in Paris listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 23 quai Anatole France; 75007; Paris; France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Deep Sunday Rooftop Party - Closing |  |
 | Fri, 23 Oct 2026 | One Night In Paris - Halloween Edition |  |

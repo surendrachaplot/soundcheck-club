@@ -1,12 +1,12 @@
 # E1
 
-E1 is a music venue in London with 44 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Robert Hood (Extended 3 Hour Set) presented by PATRÓN" on Sat, 19 Sept 2026.
+E1 is a music venue in London with 44 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Robert Hood (Extended 3 Hour Set) presented by PATRÓN" on Sat, 19 Sept 2026.
 
-E1 is a music venue in London listed on soundcheck. 44 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ABEL (UK) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 44 upcoming gigs, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ABEL (UK) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Robert Hood (Extended 3 Hour Set) presented by PATRÓN | Livid (UK), NEUX, Robert Hood, Unhuman |
 | Sat, 19 Sept 2026 | I Will Be There In The Asylum: Coldsteps Birthday | Beezo, DJ Decimal, Pioneer, Shenin Amara, Supa D |

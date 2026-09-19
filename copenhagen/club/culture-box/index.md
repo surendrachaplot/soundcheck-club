@@ -1,12 +1,12 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "What Happens: 4 Decades of Tim Andresen + Friends" on Sat, 19 Sept 2026.
+Culture Box is a music venue in Copenhagen with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "What Happens: 4 Decades of Tim Andresen + Friends" on Sat, 19 Sept 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including Aerocell, Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 17 upcoming gigs, with line-ups including Aerocell, Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | What Happens: 4 Decades of Tim Andresen + Friends | Gerssein, NILU, Shansen, Thor Calin, Tim Andresen |
 | Fri, 25 Sept 2026 | Madben / Anton Goltermann / Halfdan Sandquist / Girls Gone Bass: Valentina / Popsie / SILK! / C | Anton Goltermann, CALIFANO, Halfdan Sandquist, Madben, Valentina(DK) |

@@ -1,12 +1,12 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 37 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DoitJAZZ! 20th Anniversary meets TSUBAKI fm" on Sat, 19 Sept 2026.
+Club Metro is a music venue in Kyoto with 37 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DoitJAZZ! 20th Anniversary meets TSUBAKI fm" on Sat, 19 Sept 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 37 upcoming nights, with line-ups including AOKI takamasa, CH.0, DJ KAZUMA and DJ Krush and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 37 upcoming gigs, with line-ups including AOKI takamasa, CH.0, DJ KAZUMA and DJ Krush and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DoitJAZZ! 20th Anniversary meets TSUBAKI fm | Masaki Tamura, Midori Aoyama, Naoki Yoda |
 | Sat, 19 Sept 2026 | DoitJAZZ! 20th Anniversary meets TSUBAKI fm |  |

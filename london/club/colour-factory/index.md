@@ -1,12 +1,12 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft" on Sat, 19 Sept 2026.
+Colour Factory is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft" on Sat, 19 Sept 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Amber Rose and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Amber Rose and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Larry Cadge, Mono Dust_, Rick Sanders |
 | Sat, 19 Sept 2026 | Manga Saint Hilare presents IN THE DANCE | Amber Rose, Capo Lee, Freeza Chin, Kruz Leone, Logan_olm, Manga Saint Hilare, N3 (UA), Sahib |

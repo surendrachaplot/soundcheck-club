@@ -1,12 +1,12 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nulu Movement X Le Bain" on Sat, 19 Sept 2026.
+Le Bain is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nulu Movement X Le Bain" on Sat, 19 Sept 2026.
 
-Le Bain is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Anane, Ash, boyyyish and Duneska and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Anane, Ash, boyyyish and Duneska and 2 more. Browse upcoming dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Nulu Movement X Le Bain | Anane |
 | Sat, 19 Sept 2026 | Sunset with Fulano Librizzi |  |

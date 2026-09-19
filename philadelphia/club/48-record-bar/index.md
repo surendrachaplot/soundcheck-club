@@ -1,12 +1,12 @@
 # 48 Record Bar
 
-48 Record Bar is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cosmo Baker's Album Club: Session 011" on Sun, 20 Sept 2026.
+48 Record Bar is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Cosmo Baker's Album Club: Session 011" on Sun, 20 Sept 2026.
 
-48 Record Bar is a music venue in Philadelphia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 48 S 2nd St. Philadelphia, PA 19106.
+48 Record Bar is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 48 S 2nd St. Philadelphia, PA 19106.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Cosmo Baker's Album Club: Session 011 |  |
 

@@ -1,12 +1,12 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses" on Fri, 25 Sept 2026.
+Vespers Club is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses" on Fri, 25 Sept 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AAKAARA, Cinna Peyghamy, Creep-P and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AAKAARA, Cinna Peyghamy, Creep-P and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses | Iyesha, LCN, Mvcoko, Stolen Velour, ex.sses |
 | Sat, 26 Sept 2026 | Amen Gyaldem presents: Jungle All Night Long | Petit Problème, SAVSSOUNDS, Sheba Q |

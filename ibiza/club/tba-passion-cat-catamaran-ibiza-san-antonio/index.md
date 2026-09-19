@@ -1,12 +1,12 @@
 # TBA - Passion Cat Catamaran Ibiza - San Antonio
 
-TBA - Passion Cat Catamaran Ibiza - San Antonio is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Beskar Ibiza Experience 2026: Catamaran Party + Claptone at Chinois" on Sat, 19 Sept 2026.
+TBA - Passion Cat Catamaran Ibiza - San Antonio is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Beskar Ibiza Experience 2026: Catamaran Party + Claptone at Chinois" on Sat, 19 Sept 2026.
 
-TBA - Passion Cat Catamaran Ibiza - San Antonio is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Jana Vitiligo, Judoc, Kevin Kinembe and Major K and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Passion Cat Catamaran Ibiza - San Antonio is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including Jana Vitiligo, Judoc, Kevin Kinembe and Major K and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Beskar Ibiza Experience 2026: Catamaran Party + Claptone at Chinois | Jana Vitiligo, Judoc, Kevin Kinembe, MELLA MARA, Major K, Mum & Dad (BE), Nick Mason, SurfingDJs |
 

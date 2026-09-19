@@ -1,12 +1,12 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sonic Ceremony: Echonomist, OVEOUS, Chaske + Yonti" on Sat, 19 Sept 2026.
+House of Yes is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sonic Ceremony: Echonomist, OVEOUS, Chaske + Yonti" on Sat, 19 Sept 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 13 upcoming gigs, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist, OVEOUS, Chaske + Yonti | Echonomist, OVEOUS, Yonti |
 | Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |

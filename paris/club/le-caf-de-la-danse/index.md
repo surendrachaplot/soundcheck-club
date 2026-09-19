@@ -1,12 +1,12 @@
 # Le Café De La Danse
 
-Le Café De La Danse is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Aman Sayed Live" on Fri, 16 Oct 2026.
+Le Café De La Danse is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Aman Sayed Live" on Fri, 16 Oct 2026.
 
-Le Café De La Danse is a music venue in Paris listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 5 passage Louis-Philippe, 75011, Paris.
+Le Café De La Danse is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 5 passage Louis-Philippe, 75011, Paris.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Aman Sayed Live |  |
 

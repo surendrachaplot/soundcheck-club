@@ -1,12 +1,12 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DBA 6TH GIRTHDAY" on Sat, 19 Sept 2026.
+The DBA is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DBA 6TH GIRTHDAY" on Sat, 19 Sept 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Aerbreak, Aiden Francis, b.lo and Blason and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Aerbreak, Aiden Francis, b.lo and Blason and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DBA 6TH GIRTHDAY | Daskaran, Deventi, Oriki, Rhod Parry, SHERI (2), ZESTY (UK) |
 | Thu, 24 Sept 2026 | Open Decks: Anything with Breaks  |  |

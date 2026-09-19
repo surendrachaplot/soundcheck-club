@@ -1,12 +1,12 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Display w/ Edward" on Sat, 19 Sept 2026.
+Nido Marseille is a music venue in Marseille with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Display w/ Edward" on Sat, 19 Sept 2026.
 
-Nido Marseille is a music venue in Marseille listed on soundcheck. 20 upcoming nights, with line-ups including Admo, ALiNA, Arthur Lastmann and Atree and 2 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
+Nido Marseille is a music venue in Marseille listed on soundcheck. 20 upcoming gigs, with line-ups including Admo, ALiNA, Arthur Lastmann and Atree and 2 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Display w/ Edward | Edward |
 | Sat, 19 Sept 2026 | Nido toute la nuit : Pastel | Pastel |

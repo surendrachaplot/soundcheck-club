@@ -1,12 +1,12 @@
 # Culture
 
-Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Achromatic presents: Nooriyah" on Sat, 19 Sept 2026.
+Culture is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Achromatic presents: Nooriyah" on Sat, 19 Sept 2026.
 
-Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including Amtrac, Gravagerz, Morgan Seatree and Nitefreak and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming gigs, with line-ups including Amtrac, Gravagerz, Morgan Seatree and Nitefreak and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Achromatic presents: Nooriyah | Nooriyah |
 | Fri, 25 Sept 2026 | Nü Androids x Starlight presents: Nitefreak | Nitefreak |

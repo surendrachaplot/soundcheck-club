@@ -1,12 +1,12 @@
 # Firepit Art Gallery and Studios CIC
 
-Firepit Art Gallery and Studios CIC is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "AIR.wav // Firepit Art Gallery" on Fri, 25 Sept 2026.
+Firepit Art Gallery and Studios CIC is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "AIR.wav // Firepit Art Gallery" on Fri, 25 Sept 2026.
 
-Firepit Art Gallery and Studios CIC is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AMAR (UK), Dan be and UNCUT (UK). Browse upcoming dates, start times and who's playing. Ground Floor, Retail Unit, 10 Cutter Ln, London SE10 0XX.
+Firepit Art Gallery and Studios CIC is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including AMAR (UK), Dan be and UNCUT (UK). Browse upcoming dates, start times and who's playing. Ground Floor, Retail Unit, 10 Cutter Ln, London SE10 0XX.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | AIR.wav // Firepit Art Gallery | AMAR (UK), Dan be, UNCUT (UK) |
 

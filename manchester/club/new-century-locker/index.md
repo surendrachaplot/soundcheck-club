@@ -1,12 +1,12 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nooriyah, Adele Tondu, imad:re" on Fri, 2 Oct 2026.
+New Century Locker is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nooriyah, Adele Tondu, imad:re" on Fri, 2 Oct 2026.
 
-New Century Locker is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Bimini, Bronka, Decius and Dennis Bovell and 2 more. Browse upcoming dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
+New Century Locker is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Bimini, Bronka, Decius and Dennis Bovell and 2 more. Browse upcoming dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Nooriyah, Adele Tondu, imad:re | Nooriyah, imad:re |
 | Sat, 3 Oct 2026 | Paranoid London (Live feat Mutado Pintado), DJ Subaru, Kiosk + special guests TBA | DJ Subaru, Paranoid London |

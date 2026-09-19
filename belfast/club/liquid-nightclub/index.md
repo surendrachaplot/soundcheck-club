@@ -1,12 +1,12 @@
 # Liquid Nightclub
 
-Liquid Nightclub is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sub:Protocol" on Sat, 24 Oct 2026.
+Liquid Nightclub is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sub:Protocol" on Sat, 24 Oct 2026.
 
-Liquid Nightclub is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including CAOIMHE, Chris Cargo, Craig Mitchell and Lawley and 1 more. Browse upcoming dates, start times and who's playing.
+Liquid Nightclub is a music venue in Belfast listed on soundcheck. 1 upcoming gig, with line-ups including CAOIMHE, Chris Cargo, Craig Mitchell and Lawley and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Sub:Protocol | CAOIMHE, Chris Cargo, Craig Mitchell, Lawley, Nitetales |
 

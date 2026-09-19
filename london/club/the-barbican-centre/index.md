@@ -1,12 +1,12 @@
 # The Barbican Centre
 
-The Barbican Centre is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Smerz" on Thu, 15 Oct 2026.
+The Barbican Centre is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Smerz" on Thu, 15 Oct 2026.
 
-The Barbican Centre is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Smerz. Browse upcoming dates, start times and who's playing. Silk Street; London EC2Y 8DS; United Kingdom.
+The Barbican Centre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Smerz. Browse upcoming dates, start times and who's playing. Silk Street; London EC2Y 8DS; United Kingdom.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Smerz | Smerz |
 

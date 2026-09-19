@@ -1,12 +1,12 @@
 # Munich Club House
 
-Munich Club House is a music venue in Munich with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Super House Wiesn Club" on Sat, 19 Sept 2026.
+Munich Club House is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Super House Wiesn Club" on Sat, 19 Sept 2026.
 
-Munich Club House is a music venue in Munich listed on soundcheck. 4 upcoming nights, with line-ups including CHOOSE WHITE and Felipe de M.. Browse upcoming dates, start times and who's playing.
+Munich Club House is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including CHOOSE WHITE and Felipe de M.. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Super House Wiesn Club | CHOOSE WHITE, Felipe de M. |
 | Sat, 26 Sept 2026 | Super House Wiesn Club | CHOOSE WHITE, Felipe de M. |

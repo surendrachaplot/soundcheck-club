@@ -1,12 +1,12 @@
 # 26 Leake Street
 
-26 Leake Street is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Max Styler" on Sat, 21 Nov 2026.
+26 Leake Street is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Max Styler" on Sat, 21 Nov 2026.
 
-26 Leake Street is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Max Styler. Browse upcoming dates, start times and who's playing. 26 Leake St, South Bank, London SE1 7NN.
+26 Leake Street is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Max Styler. Browse upcoming dates, start times and who's playing. 26 Leake St, South Bank, London SE1 7NN.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Max Styler | Max Styler |
 | Sat, 21 Nov 2026 | Max Styler | Max Styler |

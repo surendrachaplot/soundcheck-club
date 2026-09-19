@@ -1,12 +1,12 @@
 # Irie Bangkok
 
-Irie Bangkok is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "6th International Conference on Cardiology" on Fri, 13 Nov 2026.
+Irie Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "6th International Conference on Cardiology" on Fri, 13 Nov 2026.
 
-Irie Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 48 Chakrabongse Rd, Khwaeng Talat Yot, Khet Phra Nakhon Phra Nakhon, Bangkok, Thailand 10200.
+Irie Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 48 Chakrabongse Rd, Khwaeng Talat Yot, Khet Phra Nakhon Phra Nakhon, Bangkok, Thailand 10200.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | 6th International Conference on Cardiology |  |
 

@@ -1,12 +1,12 @@
 # The Sinclair
 
-The Sinclair is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "EVAN GIIA" on Fri, 25 Sept 2026.
+The Sinclair is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "EVAN GIIA" on Fri, 25 Sept 2026.
 
-The Sinclair is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 52 Church St; Cambridge, MA 02138; USA.
+The Sinclair is a music venue in Boston listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 52 Church St; Cambridge, MA 02138; USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | EVAN GIIA |  |
 | Mon, 12 Oct 2026 | Tricky |  |

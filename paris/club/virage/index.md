@@ -1,12 +1,12 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame" on Sat, 19 Sept 2026.
+Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame" on Sat, 19 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Alex Wilcox, Bella Claxton, Blaame and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Blaame and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame | Blaame, Cassie Raptor, Emma Ollivary, Enham |
 | Fri, 25 Sept 2026 | SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA | Massimiliano Pagliara, PAURRO, PEPIITA, ketia, trevor.f |

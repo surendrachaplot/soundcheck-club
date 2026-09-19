@@ -1,12 +1,12 @@
 # The Mist
 
-The Mist is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "STRIPPED Album Release" on Mon, 21 Sept 2026.
+The Mist is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "STRIPPED Album Release" on Mon, 21 Sept 2026.
 
-The Mist is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including LUNAx3. Browse upcoming dates, start times and who's playing. Address: 78 Derby Rd, Nottingham NG1 5FD.
+The Mist is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including LUNAx3. Browse upcoming dates, start times and who's playing. Address: 78 Derby Rd, Nottingham NG1 5FD.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | STRIPPED Album Release | LUNAx3 |
 

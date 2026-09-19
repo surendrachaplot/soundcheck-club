@@ -1,12 +1,12 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Transgenik x stargurl Rituals" on Sat, 19 Sept 2026.
+Le Trabendo is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Transgenik x stargurl Rituals" on Sat, 19 Sept 2026.
 
-Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Asaya, Boskøw, Cardopusher and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
+Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Asaya, Boskøw, Cardopusher and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Transgenik x stargurl Rituals | Asaya, stargurl |
 | Sat, 26 Sept 2026 | Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi | Boskøw, Dasha Rush, Lea Occhi |

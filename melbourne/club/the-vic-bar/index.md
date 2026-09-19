@@ -1,12 +1,12 @@
 # The Vic Bar
 
-The Vic Bar is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Freshly Squeezed Jazz Vol.2" on Sat, 19 Sept 2026.
+The Vic Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Freshly Squeezed Jazz Vol.2" on Sat, 19 Sept 2026.
 
-The Vic Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Julius Myles, NALIITA and Tom Eclect. Browse upcoming dates, start times and who's playing. 281 Victoria Street, Abbotsford VIC 3067, Australia.
+The Vic Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Julius Myles, NALIITA and Tom Eclect. Browse upcoming dates, start times and who's playing. 281 Victoria Street, Abbotsford VIC 3067, Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Freshly Squeezed Jazz Vol.2 | Julius Myles, NALIITA, Tom Eclect |
 

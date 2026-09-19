@@ -1,12 +1,12 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VITA 11th Anniversary -A New Chapter-" on Sun, 20 Sept 2026.
+clubasia is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VITA 11th Anniversary -A New Chapter-" on Sun, 20 Sept 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including Acrocanthosaurus, AMIDAdrive, Bass and BLACK(JP) and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including Acrocanthosaurus, AMIDAdrive, Bass and BLACK(JP) and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | VITA 11th Anniversary -A New Chapter- | Karsten Sollors |
 | Mon, 21 Sept 2026 | Doc Martin *ALL NIGHT LONG 『THE HOUSE TOKYO』 | Doc Martin |

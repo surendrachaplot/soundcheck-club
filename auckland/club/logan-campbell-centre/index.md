@@ -1,12 +1,12 @@
 # Logan Campbell Centre
 
-Logan Campbell Centre is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "SOTA (UK) “STATE OF THE ART 3.0”" on Fri, 25 Sept 2026.
+Logan Campbell Centre is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "SOTA (UK) “STATE OF THE ART 3.0”" on Fri, 25 Sept 2026.
 
-Logan Campbell Centre is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including SOTA. Browse upcoming dates, start times and who's playing. 217 Green Ln, Epsom, Auckland 1051, New Zealand.
+Logan Campbell Centre is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including SOTA. Browse upcoming dates, start times and who's playing. 217 Green Ln, Epsom, Auckland 1051, New Zealand.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | SOTA (UK) “STATE OF THE ART 3.0” | SOTA |
 

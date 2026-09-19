@@ -1,12 +1,12 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "EVAN GIIA" on Sat, 19 Sept 2026.
+The Independent is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "EVAN GIIA" on Sat, 19 Sept 2026.
 
-The Independent is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Cut Chemist, Dublon, Hot Chip and O'Flynn. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
+The Independent is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming gigs, with line-ups including Cut Chemist, Dublon, Hot Chip and O'Flynn. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | EVAN GIIA |  |
 | Sat, 19 Sept 2026 | Cut Chemist | Cut Chemist |

@@ -1,12 +1,12 @@
 # XLR
 
-XLR is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Withington Pride x XLR x Angels [B.Y.O.B]" on Sat, 19 Sept 2026.
+XLR is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Withington Pride x XLR x Angels [B.Y.O.B]" on Sat, 19 Sept 2026.
 
-XLR is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including 0akley, abejizaza, AZEH and Azrel and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
+XLR is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including 0akley, abejizaza, AZEH and Azrel and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Withington Pride x XLR x Angels [B.Y.O.B] | Jess Rose |
 | Sat, 19 Sept 2026 | Angels: Withington Pride Afterparty |  |

@@ -1,12 +1,12 @@
 # Grandangolo
 
-Grandangolo is a music venue in Rome with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "MAISON BINARIO 'SEPTEMBER FEVER'" on Fri, 25 Sept 2026.
+Grandangolo is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "MAISON BINARIO 'SEPTEMBER FEVER'" on Fri, 25 Sept 2026.
 
-Grandangolo is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including ALDAVE and Larry Masmero. Browse upcoming dates, start times and who's playing. V. del Foro Italico, 501, 00197 Roma RM.
+Grandangolo is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including ALDAVE and Larry Masmero. Browse upcoming dates, start times and who's playing. V. del Foro Italico, 501, 00197 Roma RM.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | MAISON BINARIO 'SEPTEMBER FEVER' | ALDAVE, Larry Masmero |
 

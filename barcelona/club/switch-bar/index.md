@@ -1,12 +1,12 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Diggers Society" on Sat, 19 Sept 2026.
+Switch Bar is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Diggers Society" on Sat, 19 Sept 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Konnin, LeMichael, LM and Rumbler. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Konnin, LeMichael, LM and Rumbler. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Diggers Society |  |
 | Wed, 7 Oct 2026 | Bobare Wednesday: Concrete Joe / LM | LM, LeMichael |

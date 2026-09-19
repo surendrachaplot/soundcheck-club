@@ -1,12 +1,12 @@
 # Bar Shaffy
 
-Bar Shaffy is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "PHAT TRAX & Bar Shaffy present: Amsterdam Takeover" on Wed, 21 Oct 2026.
+Bar Shaffy is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "PHAT TRAX & Bar Shaffy present: Amsterdam Takeover" on Wed, 21 Oct 2026.
 
-Bar Shaffy is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Beni Hana, Lunett, Mixolydian and Poolhaus and 1 more. Browse upcoming dates, start times and who's playing.
+Bar Shaffy is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Beni Hana, Lunett, Mixolydian and Poolhaus and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | PHAT TRAX & Bar Shaffy present: Amsterdam Takeover | Beni Hana, Lunett, Mixolydian, Poolhaus, Shek |
 

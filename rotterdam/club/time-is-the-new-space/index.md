@@ -1,12 +1,12 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MOVING CLOSER X HYPNOSIS" on Sat, 19 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MOVING CLOSER X HYPNOSIS" on Sat, 19 Sept 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including AHIL, Helmond Lang, Human Space Machine and Leon and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including AHIL, Helmond Lang, Human Space Machine and Leon and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MOVING CLOSER X HYPNOSIS | AHIL, Human Space Machine |
 | Wed, 23 Sept 2026 | HIDDEN BEHIND X TITNS VOL. 22 |  |

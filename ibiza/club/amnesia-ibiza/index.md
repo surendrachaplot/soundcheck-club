@@ -1,12 +1,12 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FAC51: The Haçienda" on Sat, 19 Sept 2026.
+Amnesia Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FAC51: The Haçienda" on Sat, 19 Sept 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, Adrian Mills, Alarico and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Kepler, Adrian Mills, Alarico and Alexandria and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | FAC51: The Haçienda | DJ Paulette, David Morales, Graeme Park, Innercity (BE), Mike Pickering, Todd Terry |
 | Sun, 20 Sept 2026 | Pyramid | Andres Campo, Cam Stockman, Charlie Sparks, Deborah De Luca, Demi Riquisimo, Fleur Shore, Josh Baker, Kolter, Luca Donzelli, Marco Faraone, Marsolo |

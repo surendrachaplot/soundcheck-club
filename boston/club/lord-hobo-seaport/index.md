@@ -1,12 +1,12 @@
 # Lord Hobo Seaport
 
-Lord Hobo Seaport is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC" on Sun, 11 Oct 2026.
+Lord Hobo Seaport is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC" on Sun, 11 Oct 2026.
 
-Lord Hobo Seaport is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2 Drydock Ave, Boston, MA 02210, United States.
+Lord Hobo Seaport is a music venue in Boston listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 2 Drydock Ave, Boston, MA 02210, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC |  |
 

@@ -1,12 +1,12 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Klasse Wrecks: Luca Lozano b2b Mr. Ho" on Sat, 19 Sept 2026.
+Outer Heaven is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Klasse Wrecks: Luca Lozano b2b Mr. Ho" on Sat, 19 Sept 2026.
 
-Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Armii1n, Auphoria, B.Love and DLR (nyc) and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Armii1n, Auphoria, B.Love and DLR (nyc) and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Klasse Wrecks: Luca Lozano b2b Mr. Ho | Luca Lozano, Mr. Ho, Second Contact |
 | Wed, 23 Sept 2026 | Out The Bag: Choukroun b2b Monk |  |

@@ -1,12 +1,12 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "GB" on Wed, 23 Sept 2026.
+Urban Spree is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "GB" on Wed, 23 Sept 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Albert Kraft, Architect, Bam Bam's Boogie and Daniel Myer and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Albert Kraft, Architect, Bam Bam's Boogie and Daniel Myer and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | GB | GB (2) |
 | Sat, 26 Sept 2026 | Urban Spree KLUBNACHT 005 | Albert Kraft, Daraio, Key Clef |

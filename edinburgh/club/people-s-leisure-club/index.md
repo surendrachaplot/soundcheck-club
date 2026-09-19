@@ -1,12 +1,12 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 20 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "LIKE THIS #028" on Sat, 19 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "LIKE THIS #028" on Sat, 19 Sept 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming nights, with line-ups including damside, Accident Machine, Alec Falconer and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming gigs, with line-ups including damside, Accident Machine, Alec Falconer and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | LIKE THIS #028 | Main Ingredient, Marti-Time! |
 | Sat, 19 Sept 2026 | Spectrum Presents: Billy Daniel Bunter | Billy Daniel Bunter |

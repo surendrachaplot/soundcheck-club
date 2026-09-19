@@ -1,12 +1,12 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Disco Bizarre at Kit Kat with Marco Duba, Ric Piccolo, D.J. himsel, Defcon & Bizarre Billy" on Sat, 19 Sept 2026.
+KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Disco Bizarre at Kit Kat with Marco Duba, Ric Piccolo, D.J. himsel, Defcon & Bizarre Billy" on Sat, 19 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Disco Bizarre at Kit Kat with Marco Duba, Ric Piccolo, D.J. himsel, Defcon & Bizarre Billy | Bizarre Billy, DJ himself, Ric Piccolo |
 | Sun, 20 Sept 2026 | Nachspiel |  |

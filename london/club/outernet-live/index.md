@@ -1,12 +1,12 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
+Outernet Live is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including AALIYAH, AJNA, AliA and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including AALIYAH, AJNA, AliA and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MORTEN - London Takeover |  |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA | AliA, Bitter Babe, Blawan, Mala |

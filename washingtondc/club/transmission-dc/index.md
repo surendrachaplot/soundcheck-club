@@ -1,12 +1,12 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Slings & Arrows Pres: Night Of The Witch" on Sat, 19 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Slings & Arrows Pres: Night Of The Witch" on Sat, 19 Sept 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 13 upcoming nights, with line-ups including 1tbsp, blankphosphenes, Cadeem LaMarr and CalvoMusic and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, blankphosphenes, Cadeem LaMarr and CalvoMusic and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Slings & Arrows Pres: Night Of The Witch |  |
 | Sat, 19 Sept 2026 | FREAQUINOX: a Hardcore Farewell 2 Summer | DJ Land Reform, Gabberbitch69, blankphosphenes |

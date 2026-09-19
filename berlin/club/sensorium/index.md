@@ -1,12 +1,12 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SENSO NACHT" on Sat, 19 Sept 2026.
+Sensorium is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SENSO NACHT" on Sat, 19 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SENSO NACHT | H7 (3), James Cherry, Matthieu Benjamin, Milky Way, Person X, Polter, So detroit, UniKhatu |
 | Sun, 20 Sept 2026 | TRIG I 23:00- XXX | Stallo |

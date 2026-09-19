@@ -1,12 +1,12 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pasa Passa 4YEARS ANNIVERSARY" on Sat, 19 Sept 2026.
+Bolero is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pasa Passa 4YEARS ANNIVERSARY" on Sat, 19 Sept 2026.
 
-Bolero is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including DJ Co.kr, ANDOW, AUS10 and bojvck and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
+Bolero is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Co.kr, ANDOW, AUS10 and bojvck and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Pasa Passa 4YEARS ANNIVERSARY | NAFIY, Xena (KR), Y1VB0, YENN (2), Zion |
 | Sun, 20 Sept 2026 | Bolero: PMG ARTIST WELCOME PARTY with PARTY NEXT DOORLOCK | McCOL |

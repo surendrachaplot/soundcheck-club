@@ -1,12 +1,12 @@
 # Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego
 
-Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unsound Warszawa 2026: WARSZAWA 1 - Piotr Kurek & Wilhelm Sasnal / Bendik Giske" on Sat, 3 Oct 2026.
+Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Unsound Warszawa 2026: WARSZAWA 1 - Piotr Kurek & Wilhelm Sasnal / Bendik Giske" on Sat, 3 Oct 2026.
 
-Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Bendik Giske. Browse upcoming dates, start times and who's playing.
+Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Bendik Giske. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Unsound Warszawa 2026: WARSZAWA 1 - Piotr Kurek & Wilhelm Sasnal / Bendik Giske | Bendik Giske |
 

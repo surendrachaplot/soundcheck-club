@@ -1,12 +1,12 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Glad Cafe presents: La Tène + Suzan Peeters" on Wed, 23 Sept 2026.
+The Glad Cafe is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Glad Cafe presents: La Tène + Suzan Peeters" on Wed, 23 Sept 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Carla dal Forno, Gigi Masin, Mark Van Hoen and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin, Mark Van Hoen and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | The Glad Cafe presents: La Tène + Suzan Peeters |  |
 | Sat, 26 Sept 2026 | Pop Mutations presents: Locust |  |

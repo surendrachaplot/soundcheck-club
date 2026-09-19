@@ -1,12 +1,12 @@
 # Hotel Negresco Princess
 
-Hotel Negresco Princess is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "CANCELLLED FOR PRIVATE EVENT" on Sat, 19 Sept 2026.
+Hotel Negresco Princess is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "CANCELLLED FOR PRIVATE EVENT" on Sat, 19 Sept 2026.
 
-Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Helen Me Lia. Browse upcoming dates, start times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.
+Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Helen Me Lia. Browse upcoming dates, start times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | CANCELLLED FOR PRIVATE EVENT | Helen Me Lia |
 | Sun, 20 Sept 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |

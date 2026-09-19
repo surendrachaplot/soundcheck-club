@@ -1,12 +1,12 @@
 # Fitz Mallorca
 
-Fitz Mallorca is a music venue in Mallorca with 2 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Humanos pres. Colyn, Mallorca" on Sat, 26 Sept 2026.
+Fitz Mallorca is a music venue in Mallorca with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Humanos pres. Colyn, Mallorca" on Sat, 26 Sept 2026.
 
-Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 2 upcoming nights, with line-ups including Colyn and Noncitizens. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
+Fitz Mallorca is a music venue in Mallorca listed on soundcheck. 2 upcoming gigs, with line-ups including Colyn and Noncitizens. Browse upcoming dates, start times and who's playing. Avinguda de Gabriel Roca, 32,  Palma, Illes Balears.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Humanos pres. Colyn, Mallorca | Colyn, Noncitizens |
 | Sat, 26 Sept 2026 | Colyn & Noncitizens - HUMANOS x FITZ | Colyn, Noncitizens |

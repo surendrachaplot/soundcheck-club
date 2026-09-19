@@ -1,12 +1,12 @@
 # La Java
 
-La Java is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tryangle Man + Yann Dulché Concert" on Sat, 19 Sept 2026.
+La Java is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tryangle Man + Yann Dulché Concert" on Sat, 19 Sept 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Aleqs Notal, C.LYYA, Chinau and Die Klar and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including Aleqs Notal, C.LYYA, Chinau and Die Klar and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tryangle Man + Yann Dulché Concert | Tryangle Man |
 | Sat, 19 Sept 2026 | Terrence Parker, Bangageo & 175 Records | Terrence Parker |

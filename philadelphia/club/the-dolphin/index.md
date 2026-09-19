@@ -1,12 +1,12 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "FVTVRE FAVORITE with MISS MADELINE [LIVE]" on Fri, 25 Sept 2026.
+The Dolphin is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FVTVRE FAVORITE with MISS MADELINE [LIVE]" on Fri, 25 Sept 2026.
 
-The Dolphin is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including 4AM NYC, CITYSPROBLEM, Dave Tidey and DJ Try (US) and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
+The Dolphin is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including 4AM NYC, CITYSPROBLEM, Dave Tidey and DJ Try (US) and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | FVTVRE FAVORITE with MISS MADELINE [LIVE] | G I N A, GIAVACIOUS |
 | Sat, 26 Sept 2026 | raptura [trance all night long] | CITYSPROBLEM, DJ Try (US), moistbreezy |

@@ -1,12 +1,12 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zoon Phonanta, Cobra Killer" on Sun, 20 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zoon Phonanta, Cobra Killer" on Sun, 20 Sept 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Zoon Phonanta, Cobra Killer |  |
 | Fri, 25 Sept 2026 | MILK ME presents: Frustration + Nochteff 'Crecer y Decrecer' Single Release Show |  |

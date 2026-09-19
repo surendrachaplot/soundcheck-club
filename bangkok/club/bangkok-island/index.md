@@ -1,12 +1,12 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Island Grooves" on Sat, 19 Sept 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Island Grooves" on Sat, 19 Sept 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including Art (AU), DJ S (UK) and FASHION (US). Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including Art (AU), DJ S (UK) and FASHION (US). Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Island Grooves |  |
 | Sun, 20 Sept 2026 | Turntable on the Chaophraya |  |

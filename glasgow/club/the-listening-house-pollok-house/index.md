@@ -1,12 +1,12 @@
 # The Listening House | Pollok House
 
-The Listening House | Pollok House is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sonica: THALASSA - SHHE" on Sat, 26 Sept 2026.
+The Listening House | Pollok House is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sonica: THALASSA - SHHE" on Sat, 26 Sept 2026.
 
-The Listening House | Pollok House is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Alliyah Enyo, Isa Gordon, SHHE and Thomas Ankersmit. Browse upcoming dates, start times and who's playing. 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT.
+The Listening House | Pollok House is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Alliyah Enyo, Isa Gordon, SHHE and Thomas Ankersmit. Browse upcoming dates, start times and who's playing. 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Sonica: THALASSA - SHHE | SHHE |
 | Sat, 26 Sept 2026 | Sonica: 8Men - Vocal Translations - Isa Gordon | Isa Gordon |

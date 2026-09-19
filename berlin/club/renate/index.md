@@ -1,12 +1,12 @@
 # Renate
 
-Renate is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club" on Sat, 19 Sept 2026.
+Renate is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club" on Sat, 19 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including 16 Faces, 80HDJ, Abibi and Adlas and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 16 Faces, 80HDJ, Abibi and Adlas and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club | 80HDJ, CSILLA, Camilla Rae, DJ Sterni, Elvin, IDA, Juana Valeria, Lenz, Lily Haz, Npoint_O, Octoptic, Reinartz, Retter (DE), Robot Girlfriend, Vaccaro, Vitling, WD40 |
 | Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |

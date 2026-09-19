@@ -1,12 +1,12 @@
 # Petersham Bowling Club
 
-Petersham Bowling Club is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Our Friends Electric Presents: A Whole Venue Takeover" on Sat, 19 Sept 2026.
+Petersham Bowling Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Our Friends Electric Presents: A Whole Venue Takeover" on Sat, 19 Sept 2026.
 
-Petersham Bowling Club is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Vacuum. Browse upcoming dates, start times and who's playing. 77 Brighton St; Petersham, Sydney NSW; Australia.
+Petersham Bowling Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Vacuum. Browse upcoming dates, start times and who's playing. 77 Brighton St; Petersham, Sydney NSW; Australia.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Our Friends Electric Presents: A Whole Venue Takeover | Vacuum |
 

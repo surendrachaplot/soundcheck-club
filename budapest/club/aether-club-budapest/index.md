@@ -1,12 +1,12 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "NO TOMORROW - Technokool, THIRD 2HIFT, Ben3dek, 3en" on Sat, 19 Sept 2026.
+Aether Club Budapest is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NO TOMORROW - Technokool, THIRD 2HIFT, Ben3dek, 3en" on Sat, 19 Sept 2026.
 
-Aether Club Budapest is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including 3en, Adx, AGA2L and And/Or and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
+Aether Club Budapest is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including 3en, Adx, AGA2L and And/Or and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | NO TOMORROW - Technokool, THIRD 2HIFT, Ben3dek, 3en | 3en, THIRD 2HIFT, Technokool |
 | Fri, 25 Sept 2026 | AETHER CLOSING PT. 1: 3en, AGA2L, And/Or, Atomik, Benke, Daniel Moritz, dtnb, Katamii | 3en, AGA2L, And/Or, Daniel Moritz, Katamii, dtnb |

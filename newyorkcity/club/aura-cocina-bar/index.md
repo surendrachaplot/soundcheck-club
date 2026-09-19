@@ -1,12 +1,12 @@
 # Aura Cocina & Bar
 
-Aura Cocina & Bar is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Grum (Anjunabeats) - Open-Air Event - Brooklyn, NY" on Sun, 20 Sept 2026.
+Aura Cocina & Bar is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Grum (Anjunabeats) - Open-Air Event - Brooklyn, NY" on Sun, 20 Sept 2026.
 
-Aura Cocina & Bar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Grum. Browse upcoming dates, start times and who's playing. 315 Meserole Street, East Williamsburg, New York.
+Aura Cocina & Bar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Grum. Browse upcoming dates, start times and who's playing. 315 Meserole Street, East Williamsburg, New York.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Grum (Anjunabeats) - Open-Air Event - Brooklyn, NY | Grum |
 

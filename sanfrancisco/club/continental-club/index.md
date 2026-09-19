@@ -1,12 +1,12 @@
 # Continental Club
 
-Continental Club is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "PSFytech Immersion Rooftop Session" on Sat, 19 Sept 2026.
+Continental Club is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "PSFytech Immersion Rooftop Session" on Sat, 19 Sept 2026.
 
-Continental Club is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1658 12th St, Oakland, CA 9460.
+Continental Club is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1658 12th St, Oakland, CA 9460.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | PSFytech Immersion Rooftop Session |  |
 

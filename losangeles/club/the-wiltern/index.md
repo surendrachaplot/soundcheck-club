@@ -1,12 +1,12 @@
 # The Wiltern
 
-The Wiltern is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kelela" on Mon, 21 Sept 2026.
+The Wiltern is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kelela" on Mon, 21 Sept 2026.
 
-The Wiltern is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including keiyaA, Kelela and Olafur Arnalds. Browse upcoming dates, start times and who's playing. 3790 Wilshire Blvd, Los Angeles, CA 90010.
+The Wiltern is a music venue in Losangeles listed on soundcheck. 6 upcoming gigs, with line-ups including keiyaA, Kelela and Olafur Arnalds. Browse upcoming dates, start times and who's playing. 3790 Wilshire Blvd, Los Angeles, CA 90010.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Kelela | Kelela, keiyaA |
 | Tue, 22 Sept 2026 | Kelela | Kelela, keiyaA |

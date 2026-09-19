@@ -1,12 +1,12 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Belgian Junglists Night 16" on Sat, 19 Sept 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Belgian Junglists Night 16" on Sat, 19 Sept 2026.
 
-Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 5 upcoming nights, with line-ups including Black Francis, Castor W. and Jaquarius. Browse upcoming dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
+Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Black Francis, Castor W. and Jaquarius. Browse upcoming dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Belgian Junglists Night 16 |  |
 | Sat, 26 Sept 2026 | Dark Entries Night: Rabbits Wear Boots + Witch of None |  |

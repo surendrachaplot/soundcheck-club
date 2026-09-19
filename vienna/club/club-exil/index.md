@@ -1,12 +1,12 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "OXYDICE FESTIVAL" on Fri, 25 Sept 2026.
+Club Exil is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OXYDICE FESTIVAL" on Fri, 25 Sept 2026.
 
-Club Exil is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Anaïs, Anna Ullrich, DJ DIAMOND (2) and DORAH and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
+Club Exil is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Anaïs, Anna Ullrich, DJ DIAMOND (2) and DORAH and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | OXYDICE FESTIVAL | DJ DIAMOND (2), Kat Ze, WO.IZZY |
 | Sat, 26 Sept 2026 | VERKNALLT w/ KLOUD, Luciid, Lola Cerise | KLOUD, Luciid, ORYMA, Sutter Cane |

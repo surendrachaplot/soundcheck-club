@@ -1,12 +1,12 @@
 # The Garage
 
-The Garage is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "INNERVISIONS MADRID" on Sun, 11 Oct 2026.
+The Garage is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "INNERVISIONS MADRID" on Sun, 11 Oct 2026.
 
-The Garage is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Alba Franch, Âme, Azyr and Dennis Cruz and 2 more. Browse upcoming dates, start times and who's playing. Calle Isla de Java 2, 28034 Madrid.
+The Garage is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Alba Franch, Âme, Azyr and Dennis Cruz and 2 more. Browse upcoming dates, start times and who's playing. Calle Isla de Java 2, 28034 Madrid.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | INNERVISIONS MADRID | Dixon, Jimi Jules, Julya Karma, Trikk, Âme |
 | Sat, 17 Oct 2026 | Dennis Cruz - ALL DAY LONG | Dennis Cruz |

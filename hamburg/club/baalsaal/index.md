@@ -1,12 +1,12 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "WE ARE ONE" on Sat, 19 Sept 2026.
+Baalsaal is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "WE ARE ONE" on Sat, 19 Sept 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, with line-ups including formula303, Linh (2), ROOB and shaccø and 1 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, with line-ups including formula303, Linh (2), ROOB and shaccø and 1 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | WE ARE ONE |  |
 | Fri, 25 Sept 2026 | GR:IT | Linh (2), formula303, shaccø |

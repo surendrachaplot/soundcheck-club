@@ -1,12 +1,12 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faithless Dj Set I Sat Sep 19" on Sat, 19 Sept 2026.
+Bolivar Beach Bar is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Faithless Dj Set I Sat Sep 19" on Sat, 19 Sept 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including Adam Beyer, Ajja, Brina Knauss and Ilario Alicante and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Beyer, Ajja, Brina Knauss and Ilario Alicante and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Faithless Dj Set I Sat Sep 19 | Sister Bliss |
 | Sat, 26 Sept 2026 | Drumcode Athens  I Sat Sep 26 | Adam Beyer, Brina Knauss, Ilario Alicante, Konstantin Sibold |

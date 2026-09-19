@@ -1,12 +1,12 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Placeo & Soundwave pres. Afternoon Showcase - Bridge48" on Sat, 19 Sept 2026.
+Bridge 48 is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Placeo & Soundwave pres. Afternoon Showcase - Bridge48" on Sat, 19 Sept 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including 21b (1), Albert Salvatierra, Alderaan and Babo and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 21b (1), Albert Salvatierra, Alderaan and Babo and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Placeo & Soundwave pres. Afternoon Showcase - Bridge48 | Babo, LUCIANA, Mario Chicoli, Mastro Sally, Vinz (ITA) |
 | Thu, 24 Sept 2026 | B48 Live x RITUALS |  |

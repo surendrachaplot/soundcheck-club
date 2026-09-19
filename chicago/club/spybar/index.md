@@ -1,12 +1,12 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tini Gessler" on Sat, 19 Sept 2026.
+Spybar is a music venue in Chicago with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tini Gessler" on Sat, 19 Sept 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including CRi, Dam Swindle, Effy and Franc Fala and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming gigs, with line-ups including CRi, Dam Swindle, Effy and Franc Fala and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Tini Gessler | Tini Gessler |
 | Thu, 24 Sept 2026 | Thursday Social: Open Decks + Night Market |  |

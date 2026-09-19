@@ -1,12 +1,12 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "NWR: Hannah O'Gorman" on Sat, 19 Sept 2026.
+New Wave Ramen is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NWR: Hannah O'Gorman" on Sat, 19 Sept 2026.
 
-New Wave Ramen is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Hannah O'Gorman. Browse upcoming dates, start times and who's playing. 16 Tib Ln, M2 4JB.
+New Wave Ramen is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Hannah O'Gorman. Browse upcoming dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | NWR: Hannah O'Gorman | Hannah O'Gorman |
 | Fri, 25 Sept 2026 | NWR: Ralph Ninety |  |

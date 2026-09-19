@@ -1,12 +1,12 @@
 # Junsei
 
-Junsei is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "leverson x Junsei 純正 (vinyl set)" on Thu, 1 Oct 2026.
+Junsei is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "leverson x Junsei 純正 (vinyl set)" on Thu, 1 Oct 2026.
 
-Junsei is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
+Junsei is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | leverson x Junsei 純正 (vinyl set) | leverson |
 | Sat, 3 Oct 2026 | leverson x Junsei 純正 (vinyl set) | leverson |

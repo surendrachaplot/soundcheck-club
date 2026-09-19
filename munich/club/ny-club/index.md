@@ -1,12 +1,12 @@
 # NY.Club
 
-NY.Club is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "WoopWoop Party" on Sat, 14 Nov 2026.
+NY.Club is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "WoopWoop Party" on Sat, 14 Nov 2026.
 
-NY.Club is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Chris Bekker. Browse upcoming dates, start times and who's playing. Elisenstraße 3, 80335 München.
+NY.Club is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Chris Bekker. Browse upcoming dates, start times and who's playing. Elisenstraße 3, 80335 München.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WoopWoop Party | Chris Bekker |
 

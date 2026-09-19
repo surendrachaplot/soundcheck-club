@@ -1,12 +1,12 @@
 # Atno
 
-Atno is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "co-motion 1.0" on Fri, 25 Sept 2026.
+Atno is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "co-motion 1.0" on Fri, 25 Sept 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Aikatherina, Benc, Blackeye MC and BLZS and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including Aikatherina, Benc, Blackeye MC and BLZS and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | co-motion 1.0 | Den (4), Lost in Details, Peter Bernath, Robert Dobak, Toro Lomo |
 | Sat, 26 Sept 2026 | Atno Támogatói Buli with DARĀGE, Nono Gigsta (BE) | Nono Gigsta, klpflrtpr |

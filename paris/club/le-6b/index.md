@@ -1,12 +1,12 @@
 # Le 6b
 
-Le 6b is a music venue in Paris with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "El Hey with Massaï B2B Gabriel Belabbas, IAMBP, Maco Maria, El Hey" on Sat, 19 Sept 2026.
+Le 6b is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "El Hey with Massaï B2B Gabriel Belabbas, IAMBP, Maco Maria, El Hey" on Sat, 19 Sept 2026.
 
-Le 6b is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including El Hey, Gabriel Belabbas, IAMBP and Maco Maria and 2 more. Browse upcoming dates, start times and who's playing. 6 Quai de Seine Saint-Denis 93200 France.
+Le 6b is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including El Hey, Gabriel Belabbas, IAMBP and Maco Maria and 2 more. Browse upcoming dates, start times and who's playing. 6 Quai de Seine Saint-Denis 93200 France.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | El Hey with Massaï B2B Gabriel Belabbas, IAMBP, Maco Maria, El Hey | El Hey, Gabriel Belabbas, IAMBP, Maco Maria, Massaï, NOCH (2), Sebizarre |
 

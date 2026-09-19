@@ -1,12 +1,12 @@
 # Theater im Delphi
 
-Theater im Delphi is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUCT TAPE 4. Year Anniversary Drag Show" on Sat, 19 Sept 2026.
+Theater im Delphi is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUCT TAPE 4. Year Anniversary Drag Show" on Sat, 19 Sept 2026.
 
-Theater im Delphi is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Maximalism. Browse upcoming dates, start times and who's playing. Gustav-Adolf-Straße 2, 13086 Berlin.
+Theater im Delphi is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Maximalism. Browse upcoming dates, start times and who's playing. Gustav-Adolf-Straße 2, 13086 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DUCT TAPE 4. Year Anniversary Drag Show | Maximalism |
 

@@ -1,12 +1,12 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Taiwan Golden Melody Night feat. DJ Mish & Friends" on Fri, 25 Sept 2026.
+The Get Down is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Taiwan Golden Melody Night feat. DJ Mish & Friends" on Fri, 25 Sept 2026.
 
-The Get Down is a music venue in Portland listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
+The Get Down is a music venue in Portland listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Taiwan Golden Melody Night feat. DJ Mish & Friends |  |
 | Fri, 2 Oct 2026 | RJD2 (Live Band) |  |

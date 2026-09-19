@@ -1,12 +1,12 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUALISM with SPEEDBOYS LIVE, CARGO, YOVA" on Sat, 19 Sept 2026.
+://about blank is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DUALISM with SPEEDBOYS LIVE, CARGO, YOVA" on Sat, 19 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 4NOUK, 5euroGoldi, YOVA and alemiko and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), Calcifer, DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
 | Sat, 19 Sept 2026 | Daytime department by tam ias (14-22 Uhr) | kluntje |

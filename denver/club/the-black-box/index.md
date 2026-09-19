@@ -1,12 +1,12 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Black Box presents: DJ Paypal" on Sat, 19 Sept 2026.
+The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Black Box presents: DJ Paypal" on Sat, 19 Sept 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming nights, with line-ups including Daedelus, Daxta, DJ Paypal and Eichenbaum and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Daedelus, Daxta, DJ Paypal and Eichenbaum and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Black Box presents: DJ Paypal | DJ Paypal |
 | Thu, 24 Sept 2026 | The Black Box presents: Mefjus | Daxta, Mefjus |

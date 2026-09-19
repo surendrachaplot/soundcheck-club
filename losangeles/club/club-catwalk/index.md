@@ -1,12 +1,12 @@
 # Club Catwalk
 
-Club Catwalk is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "club speed.star presents: RIRIA , Trekkie Trax Crew, Linda Lo, Avi Loud" on Fri, 25 Sept 2026.
+Club Catwalk is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "club speed.star presents: RIRIA , Trekkie Trax Crew, Linda Lo, Avi Loud" on Fri, 25 Sept 2026.
 
-Club Catwalk is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Avi Loud, Linda Lo and RIRIA. Browse upcoming dates, start times and who's playing. 698 Harlem Pl, Los Angeles, CA 90014 USA.
+Club Catwalk is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Avi Loud, Linda Lo and RIRIA. Browse upcoming dates, start times and who's playing. 698 Harlem Pl, Los Angeles, CA 90014 USA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | club speed.star presents: RIRIA , Trekkie Trax Crew, Linda Lo, Avi Loud | Avi Loud, Linda Lo, RIRIA |
 

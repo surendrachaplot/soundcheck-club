@@ -1,12 +1,12 @@
 # 610 Hegenberger
 
-610 Hegenberger is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu" on Sat, 10 Oct 2026.
+610 Hegenberger is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu" on Sat, 10 Oct 2026.
 
-610 Hegenberger is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including London Elektricity and NAYAN. Browse upcoming dates, start times and who's playing.
+610 Hegenberger is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including London Elektricity and NAYAN. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | BASS SUMMIT: London Elektricity, Natty Lou, Jewelz Blu | London Elektricity, NAYAN |
 

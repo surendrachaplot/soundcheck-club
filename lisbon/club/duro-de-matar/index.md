@@ -1,12 +1,12 @@
 # Duro de Matar
 
-Duro de Matar is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pieces Chess Club Lisbon" on Fri, 25 Sept 2026.
+Duro de Matar is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Pieces Chess Club Lisbon" on Fri, 25 Sept 2026.
 
-Duro de Matar is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including GAYANCE. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, 151.
+Duro de Matar is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including GAYANCE. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, 151.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Pieces Chess Club Lisbon | GAYANCE |
 

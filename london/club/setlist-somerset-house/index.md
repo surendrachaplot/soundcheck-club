@@ -1,12 +1,12 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SETLIFE presents KWAMZ ORIGINAL (SEASON 5 FINALE)" on Sat, 19 Sept 2026.
+Setlist @ Somerset House is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SETLIFE presents KWAMZ ORIGINAL (SEASON 5 FINALE)" on Sat, 19 Sept 2026.
 
-Setlist @ Somerset House is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Atjazz, Handson Family, Jacinta and Larizzle and 1 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
+Setlist @ Somerset House is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Atjazz, Handson Family, Jacinta and Larizzle and 1 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SETLIFE presents KWAMZ ORIGINAL (SEASON 5 FINALE) |  |
 | Sun, 20 Sept 2026 | Found at SetList All Dayer - Atjazz, LESLIE LOVE, Handson Family | Atjazz, Handson Family |

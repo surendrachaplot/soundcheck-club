@@ -1,12 +1,12 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VLAD PHANGAN" on Sat, 19 Sept 2026.
+Teritorija is a music venue in Riga with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VLAD PHANGAN" on Sat, 19 Sept 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including B2BBASS, DENOVA, Dmitry Puffin and excels and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming gigs, with line-ups including B2BBASS, DENOVA, Dmitry Puffin and excels and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VLAD PHANGAN | VLAD PHANGAN |
 | Sat, 19 Sept 2026 | BASS SLAUGHTER x TRT: ANGEL'S SECRET | DENOVA, MVKO, VLAD PHANGAN, XSYNC19, excels, oshigakill |

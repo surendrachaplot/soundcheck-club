@@ -1,6 +1,6 @@
 # Freqy Rhythm Queer V/A Launch Party at The Glove That Fits
 
-Freqy Rhythm Queer V/A Launch Party at The Glove That Fits on Thu 1 Oct, London. 4 acts on the bill: Bertie, Cheriii, Marie Malarie and Ysanne. House and Club. Preview the line-up and save it on soundcheck.
+Freqy Rhythm Queer V/A Launch Party at The Glove That Fits on Thu 1 Oct, London. 5 acts on the bill: Bertie, Cheriii, HOLY C and Marie Malarie and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Freqy Rhythm Queer V/A Launch Party at The Glove That Fits on Thu 1 Oct, London.
 
 - Bertie
 - Cheriii
+- HOLY C
 - Marie Malarie
 - Ysanne
 

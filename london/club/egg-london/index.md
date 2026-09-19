@@ -1,12 +1,12 @@
 # Egg London
 
-Egg London is a music venue in London with 47 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Lost in the Loft" on Sat, 19 Sept 2026.
+Egg London is a music venue in London with 47 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Lost in the Loft" on Sat, 19 Sept 2026.
 
-Egg London is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including B3, Beezo, Cassius Holland and D8V! and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 47 upcoming gigs, with line-ups including B3, Beezo, Cassius Holland and D8V! and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Lost in the Loft | Zohr |
 | Sat, 19 Sept 2026 | Egg LDN Pres: SUBVRS - Tech House, Deep Tech & Deep House |  |

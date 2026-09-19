@@ -1,12 +1,12 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 18 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky" on Sat, 19 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky" on Sat, 19 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky | DJ Chuckie, Koperblond, Nala, Yucky |
 | Fri, 25 Sept 2026 | BASIS/ Stan Christ all night long | Stan Christ |

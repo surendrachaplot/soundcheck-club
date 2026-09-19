@@ -1,12 +1,12 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE" on Fri, 25 Sept 2026.
+Marmorbar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE" on Fri, 25 Sept 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including ALIS., benzii, bod [包家巷] and ALKARLINE and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including ALIS., benzii, bod [包家巷] and ALKARLINE and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Bis Gleich! at Marmorbar with: Pilocka Krach / GEBRÜDER KRACH / Zarling / ALKARLINE / and MORE | ALKARLINE, Pilocka Krach, Zarling |
 | Sat, 26 Sept 2026 | COORD 02 | Locre, Source01, Warlord®, benzii, bod [包家巷] |

@@ -1,12 +1,12 @@
 # THE BATHS
 
-THE BATHS is a music venue in Austin with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Selector Series Vol III" on Sat, 19 Sept 2026.
+THE BATHS is a music venue in Austin with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Selector Series Vol III" on Sat, 19 Sept 2026.
 
-THE BATHS is a music venue in Austin listed on soundcheck. 6 upcoming nights, with line-ups including Chinonegro, Julian Fijma and Toman. Browse upcoming dates, start times and who's playing. 207 San Jacinto Blvd #100, Austin, TX 78701.
+THE BATHS is a music venue in Austin listed on soundcheck. 6 upcoming gigs, with line-ups including Chinonegro, Julian Fijma and Toman. Browse upcoming dates, start times and who's playing. 207 San Jacinto Blvd #100, Austin, TX 78701.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Selector Series Vol III |  |
 | Fri, 2 Oct 2026 | Chinonegro | Chinonegro |

@@ -1,12 +1,12 @@
 # 400 Vinyl Room
 
-400 Vinyl Room is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "Discotheque Saturdays" on Sat, 19 Sept 2026.
+400 Vinyl Room is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Discotheque Saturdays" on Sat, 19 Sept 2026.
 
-400 Vinyl Room is a music venue in Miami listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 159 NE 6th St fl 9, Miami, FL 33132.
+400 Vinyl Room is a music venue in Miami listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 159 NE 6th St fl 9, Miami, FL 33132.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Discotheque Saturdays |  |
 

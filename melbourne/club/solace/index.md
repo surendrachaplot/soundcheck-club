@@ -1,12 +1,12 @@
 # Solace
 
-Solace is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solace Invites W/ Katharine Ricky Nord Roka LUNA Kodi Lotto" on Sat, 19 Sept 2026.
+Solace is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Solace Invites W/ Katharine Ricky Nord Roka LUNA Kodi Lotto" on Sat, 19 Sept 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, with line-ups including Ari (AU), Cousin, D-Grade and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including Ari (AU), Cousin, D-Grade and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Solace Invites W/ Katharine Ricky Nord Roka LUNA Kodi Lotto | Katharine, Kodi Lotto, Ricky Nord, Roka |
 | Wed, 23 Sept 2026 | Free. Live. Music // Jazz Upstairs |  |

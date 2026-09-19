@@ -1,12 +1,12 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Miz Megs - FLIPSIDE - Tyler Hill - Randomdoug" on Sat, 19 Sept 2026.
+Wiggle Room is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Miz Megs - FLIPSIDE - Tyler Hill - Randomdoug" on Sat, 19 Sept 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Miz Megs - FLIPSIDE - Tyler Hill - Randomdoug | MC Flipside, Miz Megs, Randomdoug, Tyler Hill |
 | Sun, 20 Sept 2026 | Sunday SerVice: NOUR - Manzone & Strong - 4AM LAST CALL | Barroness, Manzone & Strong, Nour (CAN) |

@@ -1,12 +1,12 @@
 # Rotown
 
-Rotown is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "I.S.U.I.L.P TOUR 26" on Wed, 28 Oct 2026.
+Rotown is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "I.S.U.I.L.P TOUR 26" on Wed, 28 Oct 2026.
 
-Rotown is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Kabeaushé. Browse upcoming dates, start times and who's playing. Nieuwe Binnenweg 17-19, 3014 GB, Rotterdam, Netherlands.
+Rotown is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig, with line-ups including Kabeaushé. Browse upcoming dates, start times and who's playing. Nieuwe Binnenweg 17-19, 3014 GB, Rotterdam, Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 28 Oct 2026 | I.S.U.I.L.P TOUR 26 | Kabeaushé |
 

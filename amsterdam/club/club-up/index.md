@@ -1,12 +1,12 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "VONK x Club Up" on Sat, 19 Sept 2026.
+Club Up is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VONK x Club Up" on Sat, 19 Sept 2026.
 
-Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Becking, Chunky, Danny Snowden and DART and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
+Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Becking, Chunky, Danny Snowden and DART and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | VONK x Club Up | Ive Lovers, Julian Wijn |
 | Fri, 25 Sept 2026 | SKINNYJEANS |  |

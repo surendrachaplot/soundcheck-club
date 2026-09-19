@@ -1,12 +1,12 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 5 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fuse Malta" on Thu, 17 Sept 2026.
+UNO MALTA is a music venue in Malta with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fuse Malta" on Thu, 17 Sept 2026.
 
-UNO MALTA is a music venue in Malta listed on soundcheck. 5 upcoming nights, with line-ups including Kepler, Across Boundaries, ADMNTi and Alec Falconer and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
+UNO MALTA is a music venue in Malta listed on soundcheck. 5 upcoming gigs, with line-ups including Kepler, Across Boundaries, ADMNTi and Alec Falconer and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Fuse Malta | ADMNTi, Annie Errez, Anthea, Apollonia, B.Love, Boss Priester, Call Super, Christian AB, Dr Banana, E.LINA, Enzo Siragusa, Francesco Del Garda, Gaskin, Hamish & Toby |
 | Fri, 18 Sept 2026 | FUSE ➔ Malta 2026 | ADMNTi, Across Boundaries, Alec Falconer, Annie Errez, Anthea, Apollonia, B.Love, Boss Priester, Call Super, Cap, Christian AB, Demi Riquisimo, Doudou MD, Dr Banana, Elina, Enzo Siragusa, Francesco Del Garda, Fumiya Tanaka, Gaskin, Hamish & Toby, Interplanetary Criminal, Isaac Carter, Jamback, Jhobei, Julian Anthony, Just Jam, Kepler, L.P. Rhythm, Laidlaw, Locklead, Locky, Luke Dean_, Luuk van Dijk, MATO, Marlie, Marsolo, Max Dean, Mella Dee, Melody RA+RE, Mother Earth, Natalia Roth, O.BEE, Ogazón, PACH, RTK Tarantino, Raresh, Reeshy, Reflex Blue, Ricardo Villalobos, Rich NXT, Rossi, Rossko, Samuel Deep, Saoirse, Seb Zito, Shanti Celeste, Sonja Moonear, Sweely, The Ghost, Tomas Station, Traumer, Tristan da Cunha, Voigtmann, Willow, Wodda, tINI |

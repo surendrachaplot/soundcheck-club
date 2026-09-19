@@ -1,12 +1,12 @@
 # Le Douze
 
-Le Douze is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Sat, 19 Sept 2026; the next is "R2L - Roule pour le quartier" on Thu, 24 Sept 2026.
+Le Douze is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "R2L - Roule pour le quartier" on Thu, 24 Sept 2026.
 
-Le Douze is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Artmaillé and Pascal Viscardi. Browse upcoming dates, start times and who's playing.
+Le Douze is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including Artmaillé and Pascal Viscardi. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | R2L - Roule pour le quartier | Artmaillé, Pascal Viscardi |
 

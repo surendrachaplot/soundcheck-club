@@ -1,12 +1,12 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mama Cacao Mindful Experience" on Sun, 20 Sept 2026.
+Kraftwerk is a music venue in Zurich with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mama Cacao Mindful Experience" on Sun, 20 Sept 2026.
 
-Kraftwerk is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Jkson. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
+Kraftwerk is a music venue in Zurich listed on soundcheck. 3 upcoming gigs, with line-ups including Jkson. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
 ## What's on
 
-| Date | Night | Line-up |
+| Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Mama Cacao Mindful Experience | Jkson |
 | Sun, 25 Oct 2026 | Mama cacao Breath Ritual | Jkson |
