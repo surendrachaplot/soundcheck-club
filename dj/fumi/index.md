@@ -10,6 +10,7 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logge
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Theata | London |
 | Fri, 16 Oct 2026 | Arzenal | Budapest |
+| Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 
 ## Recently played
 

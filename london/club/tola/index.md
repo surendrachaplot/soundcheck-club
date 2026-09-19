@@ -11,7 +11,7 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 | Sat, 19 Sept 2026 | Frogwork: Day and Night Special | Corvair, Donut, Jiminy Watts, M'Lover, Touré |
 | Fri, 25 Sept 2026 | The Wonky House presents: Straight On 'til Morning | 1KY (1), Harmony, Harry Mason, Josh Wickers, Magpie, ZAZA C |
 | Sat, 26 Sept 2026 | Riddim Division: Summer Send Off w/ Klose One plus more | Ali Velmi, Klose One |
-| Sat, 3 Oct 2026 | LO MID HI: Return to Tola - V3 | Althoff, ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
+| Sat, 3 Oct 2026 | LO MID HI with Special Guests @ Tola Peckham  | Althoff, ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
 | Fri, 9 Oct 2026 | Parallel Sounds with Yesca | Nick Parallel, Yesca, dan.e.l.a |
 | Fri, 16 Oct 2026 | JAZZ TO JUNGLE | ELshus, Half-Life, karishma |
 | Sat, 17 Oct 2026 | GROOVE MONGERS | Cristian Sirica, Earnshaw, John's, Marco Savo |

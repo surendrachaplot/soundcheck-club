@@ -1,6 +1,6 @@
-# DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nany June at M.O.T
+# DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nancy June, Donsurf, Shoski at M.O.T
 
-DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nany June at M.O.T on Sat 19 Sept, London. 4 acts on the bill: Bluetoof, LZee, Nancy June and Zed Bias. House and Garage. Preview the line-up and save it on soundcheck.
+DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nancy June, Donsurf, Shoski at M.O.T on Sat 19 Sept, London. 4 acts on the bill: Bluetoof, LZee, Nancy June and Zed Bias. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

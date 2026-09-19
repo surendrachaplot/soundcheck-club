@@ -1,8 +1,8 @@
 # Gallery
 
-Gallery is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "POPUP presents: Lazare (LFW SPECIAL)" on Sat, 19 Sept 2026.
+Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "POPUP presents: Lazare (LFW SPECIAL)" on Sat, 19 Sept 2026.
 
-Gallery is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Anna Tur, Carly Carmen, DEFILE and Dj Cash Only and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Anna Tur, Carly Carmen, DEFILE and Dj Cash Only and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 

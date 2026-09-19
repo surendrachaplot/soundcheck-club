@@ -1,14 +1,13 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fem-All / RAW Techno     [ free entry  for girls & flinta  until 1 AM ]" on Fri, 18 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "r:nøcturn / Hardy Hard & Ship Happens Aftershow" on Sat, 19 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fem-All / RAW Techno     [ free entry  for girls & flinta  until 1 AM ] | Dydaa Forne, Mia Mangata, Miss Unleashed, Nat SuPrise, Schwirri, Sika Akis |
 | Sat, 19 Sept 2026 | r:nøcturn / Hardy Hard & Ship Happens Aftershow | Bisk, Don Tom, Hardy Hard, JayKosy, Marvel Gold, NIKO INCRAVALLE, Paal12, Sam Meier, rndr |
 | Tue, 22 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | TechNovaBader |
 | Thu, 24 Sept 2026 | STRAFF / Thursday Techno | Ari Denaro, Epicx |
@@ -18,6 +17,7 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 17 upcoming nig
 | Sat, 3 Oct 2026 | Dämonenball |  |
 | Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DAZA, Tom Marten |
 | Tue, 13 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | DJ Keyframe, Klangpusch, ZÖ (1) |
+| Tue, 20 Oct 2026 | Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] | August Kind, Deltapeak, bbymeister |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Hyperaktivist is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
-Hyperaktivist is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Südpol, Hamburg on Fri 18 Sept.
+Hyperaktivist is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Auckland and 48 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Südpol, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Südpol | Hamburg |
+| Sun, 20 Sept 2026 | Else | Berlin |
 | Mon, 28 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | RADION | Amsterdam |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |

@@ -9,7 +9,7 @@ M.O.T is a music venue in London listed on soundcheck. 34 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | UVB-76 x MOT: Tim Reaper, Pessimist, Gremlinz, Anina & i-sha, Vega & Outer Heaven - Ethics MC  | Anina, Gremlinz, Outer Heaven, Pessimist, Tim Reaper, i-sha |
-| Sat, 19 Sept 2026 | DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nany June | Bluetoof, LZee, Nancy June, Zed Bias |
+| Sat, 19 Sept 2026 | DEEPAH: day party w/ Zed Bias B2B Richie, Felix CW, Bluetoof, Nancy June, Donsurf, Shoski | Bluetoof, LZee, Nancy June, Zed Bias |
 | Thu, 24 Sept 2026 | JACKZEBRA |  |
 | Fri, 25 Sept 2026 | Skeptic + RTK Tarantino | RTK Tarantino, Skeptic |
 | Fri, 25 Sept 2026 | Jungyals and Gays presents: Back 2 the Club | 3DMA, JuicyJards, NEENZY (UK), PEPPA (2), Princess Elf Bar, chlow333 |

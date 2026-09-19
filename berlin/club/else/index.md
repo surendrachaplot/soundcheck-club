@@ -10,7 +10,7 @@ Else is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | [CANCELLED] Else Season Closing x DJ Koze | DJ Koze |
 | Sat, 19 Sept 2026 | Else Season Closing x Teenage Dreams | BAUGRUPPE90, CMK (DE), DJ Eivissa, DJ Heartstring, JenTen, SWIM (AU), charli/e, lizaliza |
-| Sun, 20 Sept 2026 | Else Season Closing x Triangle Agency 10 Year Anniversary | Chami, DJ Pete, DJ TOOL, Ellen Allien, Elli Acula, Kaiser (K S R), Len Faki, Surgeon |
+| Sun, 20 Sept 2026 | Else Season Closing x Triangle Agency 10 Year Anniversary | Chami, DJ Pete, DJ TOOL, Ellen Allien, Elli Acula, Hyperaktivist, Kaiser (K S R), Laure Croft, Len Faki, Surgeon |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Nora Moon
 
-Nora Moon is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
+Nora Moon is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
 
-Nora Moon is a techno and electro artist tracked on soundcheck, with 14 sets logged across Berlin and Dublin. Often billed alongside Moving Still, DJ Karmawi and Royce Larøca. Next up: Renate, Berlin on Thu 8 Oct.
+Nora Moon is a disco and techno artist tracked on soundcheck, with 15 sets logged across Berlin and Dublin. Often billed alongside Moving Still, DJ Karmawi and Royce Larøca. Next up: Renate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Renate | Berlin |
+| Fri, 27 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
 

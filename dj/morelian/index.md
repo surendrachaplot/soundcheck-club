@@ -1,14 +1,13 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+Mor Elian is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Odonien, Cologne on Sat, 19 Sept 2026.
 
-Mor Elian is a techno and bass artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Belfast and 34 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
+Mor Elian is a techno and bass artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Belfast and 34 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Odonien, Cologne on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 19 Sept 2026 | Odonien | Cologne |
 | Fri, 2 Oct 2026 | Sameheads | Berlin |
 | Mon, 5 Oct 2026 | Auditorium San Fedele | Milan |

@@ -1,8 +1,8 @@
 # saHHar
 
-saHHar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
+saHHar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
 
-saHHar is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Munich and Newyorkcity and 1 more. Often billed alongside Omar.D, Al Aslan and Meriem S. Next up: Import Export, Munich on Sat 19 Sept.
+saHHar is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Munich and Newyorkcity and 1 more. Often billed alongside Omar.D, Al Aslan and Meriem S. Next up: Import Export, Munich on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ saHHar is a techno and house artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Import Export | Munich |
 | Fri, 25 Sept 2026 | Renate | Berlin |
+| Fri, 27 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
 

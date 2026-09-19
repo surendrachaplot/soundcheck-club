@@ -1,14 +1,13 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+MASCHA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Paloma, Berlin on Sat, 10 Oct 2026.
 
-MASCHA is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Crille & Tamalt. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
+MASCHA is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Crille & Tamalt. Next up: Paloma, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | Paloma | Berlin |
 | Fri, 30 Oct 2026 | Renate | Berlin |
 

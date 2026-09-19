@@ -1,6 +1,6 @@
 # Else Season Closing x Triangle Agency 10 Year Anniversary at Else
 
-Else Season Closing x Triangle Agency 10 Year Anniversary on Sun 20 Sept, Berlin. 8 acts on the bill: Chami, DJ Pete, DJ TOOL and Ellen Allien and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Else Season Closing x Triangle Agency 10 Year Anniversary on Sun 20 Sept, Berlin. 10 acts on the bill: Chami, DJ Pete, DJ TOOL and Ellen Allien and 6 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,9 @@ Else Season Closing x Triangle Agency 10 Year Anniversary on Sun 20 Sept, Berlin
 - DJ TOOL
 - Ellen Allien
 - Elli Acula
+- Hyperaktivist
 - Kaiser (K S R)
+- Laure Croft
 - Len Faki
 - Surgeon
 

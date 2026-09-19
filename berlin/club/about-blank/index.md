@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
+| Sat, 19 Sept 2026 | DUALISM with SPEEDBOYS LIVE, CARGO, YOVA | 5euroGoldi, Alex.Do, CARGO (DE), Calcifer, DJ Flink, DJ Zugzwang, Hanna Baertig, M4RY, Mareike Bautz, Nastaran, SPEEDBOYS, YOVA |
 | Sat, 19 Sept 2026 | Daytime department by tam ias (14-22 Uhr) | kluntje |
 | Fri, 25 Sept 2026 | Expeditions | Anna Haleta, Audio Units, BORGBORG, Bobaz Lobster, LISTORIO, maniaclina |
 | Sat, 26 Sept 2026 | ://blank off summer - garden closing 2026 | Alex.Do, Bossy Doll Bina, DJ Purpur, ELIZEN THE EMPEROR, Galaxaura, Hanna Baertig, HiHat, Jessamine, Lena Brumby, Lola Kay, Miss Dance, Murat Önen, Nik Luv, PONY (3), Pony (2), Rodmin, SACID, Sven Weisemann, Tièmoko Koné, a:tok, tamarawrx3 |

@@ -132,7 +132,7 @@
        HIT AREA from an invisible ::after. Apple HIG minimum / WCAG 2.5.8.
 
        :where() has zero specificity, so this can't beat a component that
-       positions itself — .evc-heart stays position:absolute and simply supplies
+       positions itself — a component that is position:absolute simply supplies
        its own containing block, which is all the ::after needs.
 
        A selector has to appear in the :where() list AND in both ::after lists
@@ -146,7 +146,7 @@
            .promo-x, .email-close, .dv-del, .ob-x, .plt-x, .tray-line .rm,
            .maplibregl-ctrl-zoom-in, .maplibregl-ctrl-zoom-out) { position:relative; }
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
-    .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .more-btn::after, .hdr-city::after,
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .logo::after, .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
@@ -160,7 +160,7 @@
     /* The expander must never sit above the control's own content (icons, the
        tab underline), only extend what's touchable beneath it. */
     .heart::after, .share-btn::after, .iconbtn::after, .auth-close::after,
-    .evc-heart::after, .more-btn::after, .hdr-city::after,
+    .more-btn::after, .hdr-city::after,
     .psticky-back::after, .fp-ev-share-ic::after, .slink::after, .fp-ab::after,
     .fp-pb::after, .fp-tab::after, .ds-filt::after, .fp-ev-follow::after,
     .logo::after, .report-cue::after, .fp-sk-act::after, .cb-btn::after, .evc-play::after,
@@ -172,9 +172,9 @@
        responding rather than as an animation. */
     @media (hover:none){
       .heart:active, .share-btn:active, .iconbtn:active,
-      .evc-heart:active, .dt:active, .qchip:active, .btn:active, .evc-chip:active { transform:scale(.94); }
+      .dt:active, .qchip:active, .btn:active, .evc-chip:active { transform:scale(.94); }
     }
-    .heart, .share-btn, .iconbtn, .evc-heart, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
+    .heart, .share-btn, .iconbtn, .dt, .qchip, .evc-chip { transition:transform var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); }
     /* ── Motion ───────────────────────────────────────────────────────────────
        Three jobs, nothing decorative: say new content arrived (list entry), say
        a panel came from somewhere (panel enter), confirm a press (above).
@@ -381,15 +381,17 @@
     .ppl-tx small { color:var(--muted); font-size:var(--fs-sm); line-height:var(--lh-sm);
       white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .ppl-tx:hover b { color:var(--accent); }
-    /* The action is secondary on a list row, so it's the violet — the gradient is
-       reserved for the one primary action per view. */
+    /* Same verb, same two states as the hero Follow: OFF = quiet outline,
+       ON (Following) = violet fill. The action is secondary on a list row, so
+       it's the violet — the gradient is reserved for the one primary per view. */
     .ppl-f { flex:none; height:36px; padding:0 16px; border-radius:var(--radius-pill);
-      background:var(--sel); color:var(--sel-ink); border:1px solid transparent;
+      background:transparent; color:var(--fg); border:1.5px solid var(--line-2);
       font:700 var(--fs-xs)/1 var(--body); letter-spacing:.06em; text-transform:uppercase;
       cursor:pointer; white-space:nowrap;
       transition:background var(--dur-1) var(--ease-standard), border-color var(--dur-1) var(--ease-standard); }
-    .ppl-f.on { background:transparent; color:var(--muted); border-color:var(--border); }
-    .ppl-f.on:hover { border-color:var(--accent); color:var(--accent); }
+    .ppl-f:hover { border-color:var(--sel); background:var(--sel-weak); color:var(--fg); }
+    .ppl-f.on { background:var(--sel); color:var(--sel-ink); border-color:var(--sel); }
+    .ppl-f.on:hover { background:var(--sel); border-color:var(--sel); color:var(--sel-ink); filter:brightness(1.12); }
     .ppl-f[disabled] { opacity:.55; cursor:default; }
     .ppl-you { flex:none; color:var(--faint); font-size:var(--fs-xs); font-weight:600;
       letter-spacing:.06em; text-transform:uppercase; padding-right:4px; }
@@ -657,9 +659,6 @@
     .evc-hero .poster { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:auto; margin:0; border-radius:0; }
     .evc-hero .poster .gen .gt { display:none; }   /* generated-art title is replaced by our overlay title */
     .evc-hero::after { content:''; position:absolute; inset:0; background:linear-gradient(to top, rgba(22,16,42,.94), rgba(22,16,42,.06) 40%, transparent 62%); pointer-events:none; }
-    .evc-heart { position:absolute; top:10px; right:10px; z-index:3; width:38px; height:38px; border-radius:var(--radius-pill); background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border:0; color:#fff; display:inline-flex; align-items:center; justify-content:center; cursor:pointer; }
-    .evc-heart svg { width:18px; height:18px; }
-    .evc-heart.on { background:var(--accent-grad); color:var(--accent-ink); }
     /* genre stamp — top-2 genres, glass pill top-left of the poster */
     .evc-genres { position:absolute; top:10px; left:10px; z-index:3; display:flex; flex-wrap:wrap; gap:5px; max-width:66%; }
     .evc-gtag { font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); text-transform:uppercase; letter-spacing:.05em; color:#fff; background:rgba(0,0,0,.42); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); padding:4px 8px; border-radius:var(--radius-pill); white-space:nowrap; }
@@ -1145,7 +1144,7 @@
     .genre-menu { position:absolute; z-index:80; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); padding:6px; box-shadow:0 14px 36px rgba(0,0,0,0.5); max-height:300px; overflow:auto; min-width:160px; }
     .gm-item { display:block; width:100%; text-align:left; background:none; border:0; color:var(--fg); padding:9px 12px; border-radius:var(--radius-sm); font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; white-space:nowrap; -webkit-tap-highlight-color:transparent; }
     .gm-item:hover { background:rgba(255,255,255,0.06); }
-    .gm-item.on { color:var(--accent); }
+    .gm-item.on { color:var(--sel-text); }   /* selected = violet, like every other selected state */
     .signup-banner { display:flex; align-items:center; gap:14px; flex-wrap:wrap; padding:13px 16px; margin:0 0 14px; border:1px solid var(--accent); border-radius:var(--radius); background:rgba(255,154,61,0.08); font-size:var(--fs-base); }
     .signup-banner[hidden] { display:none; }
     .signup-banner .b-h { font-family:var(--head); font-weight:800; color:var(--accent); letter-spacing:0.02em; }
@@ -1850,17 +1849,6 @@
     .sx-radio-tx b{ font:700 var(--fs-base)/var(--lh-base) var(--head); }
     .sx-radio-tx span{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); }
     .sx-radio-row > svg{ width:16px; height:16px; color:var(--accent); flex:none; }
-    /* Weekend-radio queue page */
-    .rq-list{ display:flex; flex-direction:column; }
-    .rq-row{ display:flex; align-items:center; gap:14px; width:100%; background:none; border:0; border-top:1px solid var(--line); padding:12px 4px; cursor:pointer; text-align:left; color:var(--fg); -webkit-tap-highlight-color:transparent; }
-    .rq-row:first-child{ border-top:0; }
-    .rq-row.on{ color:var(--accent); }
-    .rq-n{ flex:0 0 26px; text-align:center; font:700 var(--fs-sm)/var(--lh-sm) var(--font-mono); color:var(--faint); display:inline-flex; align-items:center; justify-content:center; }
-    .rq-row.on .rq-n{ color:var(--accent); }
-    .rq-n svg{ width:15px; height:15px; }
-    .rq-m{ flex:1; min-width:0; display:flex; flex-direction:column; }
-    .rq-nm{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .rq-sub{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* inner segmented pill switcher inside merged profile tabs (My Artists / My Playlist) */
     /* 2px under the tab underline was cramped and off the spacing scale; the
        pill row is a new section under the tabs and needs the same breathing
@@ -2143,7 +2131,7 @@
        Modifiers (.primary/.go/.on) stay per-family below. ── */
     .pf-btn, .act-btn, .fp-ab { display:inline-flex; align-items:center; justify-content:center; gap:7px; height:42px; padding:0 15px; border-radius:var(--radius-btn); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:0.05em; text-transform:uppercase; cursor:pointer; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); white-space:nowrap; text-decoration:none; transition:border-color var(--dur-1), background var(--dur-1), color var(--dur-1); touch-action:manipulation; -webkit-tap-highlight-color:transparent; }
     .pf-btn:hover { border-color:var(--accent); }
-    .pf-btn.primary { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+    .pf-btn.primary { background:var(--accent-grad); border-color:#16102a; color:var(--accent-ink); }   /* gradient, never flat accent — the BUTTON SYSTEM v2 layer restates this */
     .pf-btn.follow.following { background:transparent; color:var(--accent); border-color:var(--accent); }
     .pf-btn.block { width:100%; }   /* full-width form/CTA button */
     .pf-id-top { display:flex; align-items:center; gap:14px; }
@@ -2320,7 +2308,7 @@
       box-shadow:0 8px 26px rgba(0,0,0,0.38), inset 0 1px 0 rgba(255,255,255,0.22), inset 0 -1px 1px rgba(0,0,0,0.22); }
     @supports not ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))) { .bnav { background:rgba(22,20,28,0.95); } }
     .bnav-tab { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px; background:none; border:none; color:var(--muted); cursor:pointer; padding:7px 0 6px; border-radius:var(--radius-md); transition:color var(--dur-1) var(--ease-standard), background var(--dur-1) var(--ease-standard); -webkit-tap-highlight-color:transparent; touch-action:manipulation; }
-    .bnav-tab.on { background:var(--accent-weak); color:var(--accent); }
+    .bnav-tab.on { background:none; color:var(--accent); }   /* the shipped phone look, at every width: no fill, orange icon + label */
     .bnav-tab svg { width:var(--icon-md); height:var(--icon-md); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .bnav-tab.on svg { stroke-width:2.4; }
     .bnav-l { font:700 var(--fs-2xs)/1 var(--head); letter-spacing:0.01em; }
@@ -3247,10 +3235,8 @@
     .fp-tabs::-webkit-scrollbar{ display:none; }
     .fp-tab{ padding:14px 2px; margin-right:26px; font:700 var(--fs-base)/var(--lh-base) var(--body); color:var(--muted); background:none; border:0; border-bottom:2px solid transparent; margin-bottom:-1px; cursor:pointer; white-space:nowrap; transition:color var(--dur-1); }
     .fp-tab:last-child{ margin-right:0; }
-    .fp-tab.on{ color:var(--fg); border-bottom-color:var(--accent); }
     .fp-tab:hover{ color:var(--fg); }
     .fp-tab .c{ font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--faint); margin-left:6px; }
-    .fp-tab.on .c{ color:var(--accent); }
     .fp-tabpanel .fp-sec{ margin-top:16px; }
     .fp-tabpanel.hide{ display:none; }
     /* venue owner updates ("From the venue") */
@@ -3346,7 +3332,6 @@
     .tk-row:hover{ background:var(--surface-2); }
     .tk-rank{ flex:none; min-width:20px; text-align:left; font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); color:var(--faint); }
     .tk-tt{ flex:1 1 auto; min-width:0; font:600 var(--fs-base)/var(--lh-base) var(--body); color:var(--fg); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-    .tk-ct{ flex:none; font:800 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.03em; color:var(--sel-text); background:var(--sel-weak); border-radius:var(--radius-pill); padding:3px 8px; }
     .tk-play{ flex:none; width:30px; height:30px; border-radius:var(--radius-pill); display:grid; place-items:center; color:var(--accent); }
     .tk-play svg{ width:15px; height:15px; margin-left:1px; }
     .tk-row:hover .tk-play{ color:var(--accent-ink); background:var(--accent-grad); }
@@ -3505,7 +3490,7 @@
     .fp-ab svg{ width:16px; height:16px; flex:none; }
     .fp-ab.go{ background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
     /* toggled ON (wanna-see / seen-live) — unmistakable: solid salmon fill, ink text, a ✓ replaces the outline icon */
-    .fp-ab.on{ background:var(--accent); color:var(--accent-ink); border-color:var(--accent); font-weight:800; }
+    .fp-ab.on{ font-weight:800; }   /* the fill is the violet selected state, in the BUTTON SYSTEM v2 layer */
     .fp-ab.on svg{ display:none; }
     .fp-ab.on span::before{ content:"✓ "; }
     .fp-ab:not(.on):not(.go):hover{ border-color:var(--accent); color:var(--accent); }
@@ -3596,9 +3581,7 @@
     .fp-ev-tickets{ display:inline-flex; align-items:center; gap:6px; margin-top:16px; color:var(--accent); font:700 var(--fs-sm)/var(--lh-sm) var(--body); text-decoration:none; }
     .fp-ev-tickets:hover{ text-decoration:underline; }
     .fp-pb{ min-width:0; border:1px solid var(--border); border-radius:var(--radius-btn); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; text-transform:uppercase; padding:0 14px; height:42px; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; gap:7px; transition:border-color var(--dur-1); }
-    .fp-pb.go{ background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }   /* same size as its siblings — Play is not oversized */
     .fp-pb svg{ width:16px; height:16px; flex:none; }
-    .fp-pb.on{ background:var(--surface-2); color:var(--accent); border-color:var(--accent); }
     .fp-pb:hover{ border-color:var(--accent); }
     .fp-ev-gline{ display:flex; gap:7px; margin-bottom:14px; flex-wrap:wrap; }
     .fp-ev-gtag{ background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius-pill); font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; padding:5px 10px; color:var(--fg); }
@@ -4052,8 +4035,6 @@
     .lvr .lv-r{ display:flex; flex-direction:column; justify-content:center; align-items:center; gap:7px; flex:none; }
     .lvr .evc-play{ position:static; width:38px; height:38px; box-shadow:none; border:1.5px solid #16102a; }
     .lvr .evc-play svg{ width:20px; height:20px; margin-left:2px; }
-    .lvr .heart.evc-heart{ position:static; width:32px; height:26px; display:inline-flex; align-items:center; justify-content:center; background:transparent; border:0; padding:0; color:var(--muted); }
-    .lvr .heart.evc-heart svg{ width:17px; height:17px; }
 
     /* ═══ BUTTON SYSTEM v2 (2026-07-14) — one rule everywhere:
        GRADIENT/ORANGE = "press to play or act" (one primary per view)
@@ -4087,8 +4068,6 @@
     .heart:hover{ color:var(--sel); }
     .heart.on{ color:var(--sel); }
     .heart.on svg{ fill:var(--sel); stroke:var(--sel); }
-    .lvr .heart.evc-heart.on{ color:var(--sel); }
-    .evc-heart.on{ background:var(--sel); color:var(--sel-ink); }
     .dock.expanded .dock-acts .heart.on{
       border-color:var(--sel); color:var(--sel-text); background:var(--sel-weak); }
     .radio-fab .heart.on{ color:var(--sel-text); }
@@ -4106,7 +4085,6 @@
 
     /* 4 · nav location state (desktop underline + mobile bottom nav) */
     .nl.on{ border-bottom-color:var(--sel); }
-    .bnav-tab.on{ background:var(--sel-weak); color:var(--sel-text); }
     .bnav-tab.onair{ color:var(--accent); }   /* live/playing stays orange — it's a play state, not a selection */
 
     /* 5 · tabs → segmented pills (artist + profile). Pills read as buttons — that's
@@ -4246,7 +4224,7 @@
     .ob-rw .tx i.ac{ color:var(--accent); font-weight:600; }
     .ob-rw .pin{ width:28px; height:28px; border-radius:50%; border:1.5px solid var(--line-2); color:var(--muted); display:flex; align-items:center; justify-content:center; font-size:var(--fs-base); flex:0 0 auto; }
     .ob-rw .pin.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
-    .ob-rw .play{ width:30px; height:30px; border-radius:50%; background:var(--accent-grad); color:#fff; display:flex; align-items:center; justify-content:center; font-size:var(--fs-2xs); flex:0 0 auto; }
+    .ob-rw .play{ width:30px; height:30px; border-radius:50%; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-2xs); flex:0 0 auto; }
     .ob-date{ width:40px; flex:0 0 auto; text-align:center; border:1px solid var(--line-2); border-radius:8px; padding:5px 0; }
     .ob-date b{ display:block; font:800 var(--fs-base)/var(--lh-base) var(--head); line-height:1; }
     .ob-date i{ display:block; font-style:normal; font-size:var(--fs-2xs); color:var(--muted); letter-spacing:.08em; margin-top:2px; }
@@ -4454,7 +4432,6 @@
          icon over mono micro-label, active = orange (no selection pill) */
       .bnav{ gap:0; padding:6px 4px 5px; }
       .bnav-tab{ gap:3px; padding:6px 0 5px; }
-      .bnav-tab.on{ background:none; color:var(--accent); }
       .bnav-l{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.12em; text-transform:uppercase; }
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
@@ -4462,7 +4439,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789507228060">
+<meta name="sc-build" content="1789817374541">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4521,7 +4498,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-15/">Tue 15 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-16/">Wed 16 Sept <span class="c">18 events</span></a></li><li><a href="/london/2026-09-17/">Thu 17 Sept <span class="c">38 events</span></a></li><li><a href="/london/2026-09-18/">Fri 18 Sept <span class="c">112 events</span></a></li><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">124 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">27 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">135 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">27 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">117 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -12059,7 +12036,7 @@
       var el=document.getElementById('obv'); if(el) return el;
       el=document.createElement('div'); el.className='obv'; el.id='obv';
       el.innerHTML='<div class="ob-wrap"><div class="ob-top">'+
-        '<div style="font:800 1.05rem var(--head)">sound<span style="color:var(--accent)">check</span></div>'+
+        '<div class="logo-wm" style="font-size:1.05rem">sound<span class="ac">check</span></div>'+
         '<div class="ob-dots" id="ob-dots"></div>'+
         '<button class="ob-skip" id="ob-skip" type="button" hidden>Skip</button>'+
         '</div><div id="ob-body" style="display:flex;flex-direction:column;flex:1"></div></div>';
@@ -12283,7 +12260,7 @@
       setTimeout(function(){ inp.focus(); },80);
     }
     function obStepCity(){
-      var el=obBody('<div class="ob-eyebrow">Step 1 of 4</div>'+
+      var el=obBody('<div class="ob-eyebrow">Step 1 of 3</div>'+
         '<h1 class="ob-h1" id="ob-cityh">Finding your city&hellip;</h1>'+
         '<p class="ob-sub">This is where we&rsquo;ll look for your nights &mdash; you can switch any time.</p>'+
         '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
@@ -13099,7 +13076,6 @@
       var tRange=formatTimeRange(ev.startTime, ev.endTime, ev._time);
       var when=[dayLab,tRange].filter(Boolean).join(' &middot; ');
       var names=arts.slice(0,3).map(function(a){ return esc(a.name); }).join(', ')+(arts.length>3?' +'+(arts.length-3):'');
-      var picked=eid && isEventPicked(eid)?' on':'';
       var eh=evHref(eid, arts[0]&&arts[0].name, ev.venue);   // real link → hover URL + right-click "open in new tab"
       // HIERARCHY: the LINE-UP is the headline, the promoter's title is a footnote.
       // Nobody at 11pm decides on "Paradox Nexus: Warehouse Sessions Pt 4" — they
@@ -13147,7 +13123,6 @@
         chips+='<button class="evc-chip" type="button"'+(slug?' data-slug="'+esc(slug)+'"':'')+'><span class="evc-tri"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span><span class="evc-nm">'+esc(a.name)+'</span></button>';
       });
       if(arts.length>nShow) chips+='<button class="evc-chip more" type="button" data-more><span class="evc-nm">+'+(arts.length-nShow)+' more</span></button>';
-      var picked = eid && isEventPicked(eid) ? ' on' : '';
       var canPlay = eid && arts.length;
       // top-2 genres as a poster stamp (top-left, glass pill) — the two most important
       var gtags=(ev.genres||[]).slice(0,2);

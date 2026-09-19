@@ -1,6 +1,6 @@
 # DUALISM with SPEEDBOYS LIVE, CARGO, YOVA at ://about blank
 
-DUALISM with SPEEDBOYS LIVE, CARGO, YOVA at ://about blank on Sat 19 Sept, Berlin. 11 acts on the bill: 5euroGoldi, Alex.Do, CARGO (DE) and DJ Flink and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM with SPEEDBOYS LIVE, CARGO, YOVA at ://about blank on Sat 19 Sept, Berlin. 12 acts on the bill: 5euroGoldi, Alex.Do, Calcifer and CARGO (DE) and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ DUALISM with SPEEDBOYS LIVE, CARGO, YOVA at ://about blank on Sat 19 Sept, Berli
 
 - 5euroGoldi
 - Alex.Do
+- Calcifer
 - CARGO (DE)
 - DJ Flink
 - DJ Zugzwang
