@@ -2,7 +2,7 @@
 
 DJ DIAMOND (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Exil, Vienna on Fri, 25 Sept 2026.
 
-DJ DIAMOND (2) is a techno and trance artist tracked on soundcheck, with 14 sets logged across Stockholm and Vienna. Often billed alongside MARAws, S.verin and esti.d. Next up: Club Exil, Vienna on Fri 25 Sept.
+DJ DIAMOND (2) is a techno and trance artist tracked on soundcheck, with 14 sets logged across Stockholm and Vienna. Often billed alongside MARAws, S.verin and ephemer (4). Next up: Club Exil, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ DJ DIAMOND (2) is a techno and trance artist tracked on soundcheck, with 14 sets
 
 ## Shares bills with
 
-MARAws, S.verin, esti.d
+MARAws, S.verin, ephemer (4)
 
 *Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiamond-2/)*

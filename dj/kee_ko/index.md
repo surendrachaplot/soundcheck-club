@@ -1,14 +1,15 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 24 Sept 2026.
+Kee_ko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Collect LX Factory, Lisbon on Thu, 24 Sept 2026.
 
-Kee_ko is a house and techno artist tracked on soundcheck, with 185 sets logged across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Collect LX Factory, Lisbon on Thu 24 Sept.
+Kee_ko is a house and techno artist tracked on soundcheck, with 186 sets logged across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Collect LX Factory, Lisbon on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Collect LX Factory | Lisbon |
+| Fri, 25 Sept 2026 | Carmo Rooftop | Lisbon |
 | Sun, 4 Oct 2026 | Carmo Rooftop | Lisbon |
 
 ## Recently played

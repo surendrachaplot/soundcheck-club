@@ -4448,7 +4448,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789824872041">
+<meta name="sc-build" content="1789828943268">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -10060,7 +10060,7 @@
       // ...EXCEPT on back/forward, where the hash IS the record of where you
       // were. Without the pop check, "artist → Past events → an event → back"
       // landed on Sets and the list you were reading was gone.
-      var _fromAnotherEntity=!window._scNavPop && /^(dj|club|e)\//.test(currentRoute()||'');
+      var _fromAnotherEntity=!window._scRestore && /^(dj|club|e)\//.test(currentRoute()||'');
       var _deepTab=_fromAnotherEntity ? '' : (location.hash||'').replace(/^#/,'');   // capture BEFORE setRoute may clear the hash
       setRoute('dj/'+slug);
       trackView('artist', slug);
@@ -11262,11 +11262,15 @@
       // or the one being browsed; corrected to the venue's real city after fetch.
       var city=(cityHint || pathCitySlug() || currentCity || 'london');
       var url=SC_BASE+city+'/club/'+slug+'/';
-      if(location.pathname!==url) history.pushState({sc:1},'',url);
+      // +location.hash: these two rewrites normalise the venue URL (city segment,
+      // then the venue's REAL city after the fetch) and used to drop the fragment,
+      // so a cold /<city>/club/<slug>/#past opened on Past with a bare address bar
+      // — the tab restored, the link no longer shareable from where you stood.
+      if(location.pathname!==url) history.pushState({sc:1},'',url+location.hash);
       openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
-        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'); }
+        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'+location.hash); }
         var dispName=v.name||input;
         // Venue hero — the SAME bespoke fp-hero structure as the artist page:
         // photo block (image or generative) + kick line + big name w/ website + acts row.
@@ -12990,17 +12994,19 @@
         : (SC_BASE + '#' + route);
       history.pushState({sc:1},'',url);
     }
-    // BACK/FORWARD, flagged. The artist page blanks a #tab deep-link when you
+    // BACK/FORWARD, flagged — and the COLD BOOT restore sets the same flag. The artist page blanks a #tab deep-link when you
     // arrive from another entity (see _fromAnotherEntity) so that walking
     // artist → Similar → artist does not strand you on Similar forever. That
     // guard cannot tell a forward hop from a BACK restore — and on back the
     // hash is the only record of the tab you were reading, so "artist → Past
     // events → an event → back" dropped you on Sets with the list gone.
+    // The boot-route restore in the shell sets _scRestore for the same reason:
+    // it is replaying a URL somebody already has, not making a new hop.
     // Cleared on the next tick: openArtist reads it synchronously, before its
     // first await.
     window.addEventListener('popstate', function(){
-      window._scNavPop = 1;
-      try { handleRoute(); } finally { setTimeout(function(){ window._scNavPop = 0; }, 0); }
+      window._scRestore = 1;
+      try { handleRoute(); } finally { setTimeout(function(){ window._scRestore = 0; }, 0); }
     });
 
     // ── incoming-share state (set on boot from URL params) ──
@@ -14040,7 +14046,11 @@
     // we read it — sending every refresh of a page back to the home grid.
     var _bootRoute=currentRoute();
     var _bootIsPath=!!(onScPath() && pathRoute());
-    var _bootUrl=location.pathname+location.search;
+    // location.hash IS part of the deep link: /dj/<slug>/#tracks. Leaving it off
+    // here meant the restore pushState below wiped the fragment before handleRoute
+    // ran, so every shared/bookmarked #tab URL opened on the default tab. One
+    // capture, four readers (artist, profile, venue, promoter _deepTab).
+    var _bootUrl=location.pathname+location.search+location.hash;
 
     if(_qfrom && _qto) loadRange(_qfrom,_qto);
     else if(_qd) load(_qd);
@@ -14059,10 +14069,15 @@
     if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
+      // Same flag the popstate handler uses: this URL is being RESTORED, not
+      // navigated to, so openArtist's _fromAnotherEntity guard must not eat the
+      // #tab. On boot currentRoute() is already the target entity, which is
+      // exactly what that guard treats as "an in-app hop from another artist".
+      window._scRestore = 1;
       // Synchronous (not deferred): the open* handlers add body.page-on before the
       // first paint, so the home grid (#home) is hidden immediately — no flash of
       // home before the page appears. The grid still loads underneath for Back.
-      handleRoute();
+      try { handleRoute(); } finally { setTimeout(function(){ window._scRestore = 0; }, 0); }
     }
   </script>
 <script>

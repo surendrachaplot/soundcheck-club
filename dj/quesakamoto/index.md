@@ -1,6 +1,6 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
+Que Sakamoto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
 
 Que Sakamoto is a house and techno artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 18 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: Dr Banana Club, Saopaulo on Sat 19 Sept.
 
@@ -9,7 +9,6 @@ Que Sakamoto is a house and techno artist tracked on soundcheck, with 59 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Dr Banana Club | Sao Paulo |
-| Sat, 19 Sept 2026 | Dr. Banana Club | Sao Paulo |
 | Fri, 9 Oct 2026 | Green Room NYC | New York City |
 | Fri, 30 Oct 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
