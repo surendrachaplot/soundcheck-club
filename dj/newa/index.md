@@ -1,14 +1,13 @@
 # Newa
 
-Newa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
+Newa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Newa is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: Bassiani, Tbilisi on Fri 18 Sept.
+Newa is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 

@@ -1,14 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
+FJAAK is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flux, Istanbul on Sat, 19 Sept 2026.
 
-FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Bassiani, Tbilisi on Fri 18 Sept.
+FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Flux, Istanbul on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 19 Sept 2026 | Flux | Istanbul |
 | Thu, 24 Sept 2026 | Bsmnt | Boston |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -20,6 +19,7 @@ FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged a
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 31 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Jasna 1 | Warsaw |
+| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 

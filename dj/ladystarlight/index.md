@@ -1,14 +1,13 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
+Lady Starlight is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Zeiss Grossplanetarium, Berlin on Tue, 13 Oct 2026.
 
-Lady Starlight is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
+Lady Starlight is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside STERAC, David Castellani and MAEDON. Next up: Zeiss Grossplanetarium, Berlin on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Tue, 13 Oct 2026 | Zeiss Grossplanetarium | Berlin |
 | Fri, 16 Oct 2026 | smartbar | Chicago |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |

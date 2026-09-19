@@ -1,8 +1,8 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cova Santa, Ibiza on Sat, 19 Sept 2026.
+Simon Kidzoo is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cova Santa, Ibiza on Sat, 19 Sept 2026.
 
-Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Dublin, Ibiza and Paris and 5 more. Often billed alongside AAT (NL), Ammé and Easttown. Next up: Cova Santa, Ibiza on Sat 19 Sept.
+Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Dublin, Ibiza and Paris and 5 more. Often billed alongside AAT (NL), Ammé and Easttown. Next up: Cova Santa, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on s
 | Sat, 19 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 9 Oct 2026 | Taboo Paris | Paris |
 | Sat, 10 Oct 2026 | Paradiso | Amsterdam |
+| Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |

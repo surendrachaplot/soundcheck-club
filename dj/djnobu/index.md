@@ -1,14 +1,13 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
+DJ Nobu is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Lower Level, Boston on Sat, 19 Sept 2026.
 
-DJ Nobu is a techno and house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
+DJ Nobu is a techno and house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: The Lower Level, Boston on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Sat, 19 Sept 2026 | The Lower Level | Boston |
 | Fri, 25 Sept 2026 | essaim | Paris |
 | Sat, 3 Oct 2026 | Tanjong Pagar Distripark | Singapore |

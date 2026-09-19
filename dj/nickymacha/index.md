@@ -1,14 +1,13 @@
 # Nicky Macha
 
-Nicky Macha is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Starlane Pizza Bar, London on Fri, 18 Sept 2026.
+Nicky Macha is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Arts District LA, Los Angeles on Fri, 2 Oct 2026.
 
-Nicky Macha is an electro and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: Starlane Pizza Bar, London on Fri 18 Sept.
+Nicky Macha is an electro and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - Arts District LA, Losangeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Starlane Pizza Bar | London |
 | Fri, 2 Oct 2026 | TBA - Arts District LA | Los Angeles |
 | Sat, 17 Oct 2026 | TBA - 75013 | Paris |
 

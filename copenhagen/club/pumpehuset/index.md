@@ -9,7 +9,7 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | tonser // Pumpehuset | Tonser |
-| Sat, 19 Sept 2026 | ESCAPISM presents: MPH [uk] 360° XP + Guests | ELOQ, Lisa Fosmark, MPH (1), parashoot |
+| Sat, 19 Sept 2026 | ESCAPISM presents: MPH [uk] 360° XP + Guests [SOLD OUT] | ELOQ, Lisa Fosmark, MPH (1), parashoot |
 | Fri, 25 Sept 2026 | Etnica 30 Years Celebration - Origin Of Trance |  |
 | Sat, 3 Oct 2026 | KLØBB Ka2 // Pumpehuset |  |
 | Sun, 4 Oct 2026 | Allie X |  |

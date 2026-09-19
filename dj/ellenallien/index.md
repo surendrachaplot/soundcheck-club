@@ -1,14 +1,13 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Bassiani, Tbilisi on Fri 18 Sept.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Spook Club, Valencia on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Sun, 20 Sept 2026 | Else | Berlin |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -20,6 +19,7 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 255 sets l
 | Fri, 6 Nov 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | TRAUM | Antwerp |
+| Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
 

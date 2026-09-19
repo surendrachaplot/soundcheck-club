@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "SECRET ROOM · SALA 2 - MAJO ALARCÓN" on Sat, 19 Sept 2026.
+City Hall is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "HAPPY TECHNO l Lexlay, Shitake " on Sat, 19 Sept 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including ALTRAX, Civaro, Cristian Varela and Eli Ercolani and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -8,7 +8,7 @@ City Hall is a music venue in Barcelona listed on soundcheck. 10 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SECRET ROOM · SALA 2 - MAJO ALARCÓN |  |
+| Sat, 19 Sept 2026 | HAPPY TECHNO l Lexlay, Shitake  | Lexlay, Shitake |
 | Tue, 22 Sept 2026 | City Hall pres. INSIDE 86 II Tuesday II DOWNLOAD YOUR FREE PASS | Eli Ercolani, Guille Gironde (2) |
 | Wed, 23 Sept 2026 | LA MERCÈ IN TEKNO - TEKNO · ACID · TRIBE · MENTAL - 2 SALAS | Toro |
 | Thu, 24 Sept 2026 | City Hall pres. AGRESSIVE HARD // DOWNLOAD YOUR FREE PASS | ALTRAX, SORIANO |

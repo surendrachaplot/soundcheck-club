@@ -1,8 +1,8 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Silent Studios, Auckland on Sat, 3 Oct 2026.
+Kaufmann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Silent Studios, Auckland on Sat, 3 Oct 2026.
 
-Kaufmann is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Auckland, Barcelona and Basel and 21 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Silent Studios, Auckland on Sat 3 Oct.
+Kaufmann is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Auckland, Barcelona and Basel and 21 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Silent Studios, Auckland on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 143 sets logge
 | Sat, 3 Oct 2026 | Silent Studios | Auckland |
 | Sun, 4 Oct 2026 | Revolver Upstairs | Melbourne |
 | Sat, 17 Oct 2026 | Hoppetosse | Berlin |
+| Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |

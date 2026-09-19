@@ -1,8 +1,8 @@
 # Lobster (NL)
 
-Lobster (NL) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Forge, Bucharest on Sat, 26 Sept 2026.
+Lobster (NL) is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Forge, Bucharest on Sat, 26 Sept 2026.
 
-Lobster (NL) is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: Forge, Bucharest on Sat 26 Sept.
+Lobster (NL) is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: Forge, Bucharest on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Lobster (NL) is a techno and house artist tracked on soundcheck, with 151 sets l
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 | Wed, 21 Oct 2026 | BRET | Amsterdam |
+| Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 
 ## Recently played

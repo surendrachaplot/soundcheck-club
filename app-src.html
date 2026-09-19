@@ -60,6 +60,15 @@
          means "press to play or act", violet means "this is chosen/on" — so a selected
          toggle can never fight the page's Play CTA. */
       --sel:#7c5cff; --sel-weak:rgba(124,92,255,0.16); --sel-ink:#fff; --sel-text:#a78bfa;
+      /* ── SEMANTIC + SURFACE EXTRAS ────────────────────────────────────
+         Not brand hues — jobs. Each replaces a literal an audit found loose
+         in the stylesheet (19 Sep), so there is one place to change them. */
+      --danger:#ff6b6b;          /* error/destructive TEXT. Separate from the accent
+                                    (DESIGN-RULES §2) — an error is not a thing to press. */
+      --surface-sunk:#140b2b;    /* one step BELOW --bg: the event-card ground, so a
+                                    poster card reads as recessed against the page. */
+      --scrim:rgba(0,0,0,0.66); --scrim-blur:blur(4px);   /* THE overlay recipe. One, for
+                                    every modal and sheet — there were four. */
       /* ── CORNER RADIUS ────────────────────────────────────────────────
          THREE real steps, full stop. --r-1 small (chips/inputs/thumbs),
          --r-2 medium (cards/rows/sheets), --r-3 large (modals/heroes).
@@ -554,7 +563,7 @@
     }
 
     /* on-brand calendar modal */
-    .cal-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.6); backdrop-filter:blur(3px); z-index:80; display:flex; align-items:center; justify-content:center; padding:20px; opacity:0; pointer-events:none; transition:opacity var(--dur-2); }
+    .cal-overlay { position:fixed; inset:0; background:var(--scrim); backdrop-filter:var(--scrim-blur); z-index:80; display:flex; align-items:center; justify-content:center; padding:20px; opacity:0; pointer-events:none; transition:opacity var(--dur-2); }
     .cal-overlay.show { opacity:1; pointer-events:auto; }
     .cal { width:100%; max-width:340px; border:1px solid var(--border); border-radius:var(--radius-lg); padding:18px; background:var(--surface); transform:translateY(10px); transition:transform var(--dur-2); }
     .cal-overlay.show .cal { transform:translateY(0); }
@@ -567,7 +576,7 @@
     .cal-dow { text-align:center; font-size:var(--fs-xs); font-weight:700; letter-spacing:0.06em; color:var(--muted); padding:4px 0 8px; }
     .cal-cell { aspect-ratio:1; display:flex; align-items:center; justify-content:center; border-radius:var(--radius-sm); font-size:var(--fs-sm); font-weight:500; cursor:pointer; color:var(--fg); }
     .cal-cell.pad { visibility:hidden; }
-    .cal-cell.past { color:#46464e; cursor:default; }
+    .cal-cell.past { color:var(--faint); opacity:0.42; cursor:default; }
     .cal-cell.we:not(.past):not(.sel) { color:var(--accent); }
     .cal-cell.today { box-shadow:inset 0 0 0 1.5px var(--accent); }
     .cal-cell.sel { background:var(--accent-grad); color:var(--accent-ink); font-weight:800; }
@@ -587,7 +596,7 @@
 
     /* status */
     .status { padding:14px 0; color:var(--muted); font-size:var(--fs-base); font-weight:500; }
-    .status.error { color:#ff6b6b; }
+    .status.error { color:var(--danger); }
     .spinner { display:inline-block; width:14px; height:14px; margin-right:8px; border:2px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:spin 0.8s linear infinite; vertical-align:-3px; }
     @keyframes spin { to { transform:rotate(360deg); } }
 
@@ -595,7 +604,7 @@
     .skel-card .sk-poster { width:100%; aspect-ratio:3/4; border-radius:var(--radius); margin-bottom:13px; }
     .skel-card .sk-line { height:11px; border-radius:var(--radius-xs); margin-top:7px; }
     .skel-card .sk-line.w70 { width:70%; } .skel-card .sk-line.w45 { width:45%; }
-    .sk { background:linear-gradient(100deg, var(--surface) 30%, #24242b 50%, var(--surface) 70%); background-size:200% 100%; animation:sk 1.3s ease-in-out infinite; }
+    .sk { background:linear-gradient(100deg, var(--surface) 30%, var(--surface-3) 50%, var(--surface) 70%); background-size:200% 100%; animation:sk 1.3s ease-in-out infinite; }
     @keyframes sk { to { background-position:-200% 0; } }
     @media (prefers-reduced-motion:reduce){
       .sk { animation:none; }
@@ -653,7 +662,7 @@
        cross it like every other surface — consistency. isolation:isolate keeps the card's own
        children (title straddle, play, heart) stacking locally, and a soft shadow lifts the tile
        off the background so it still reads as a raised panel under the same glass. */
-    .gcard.evc { position:relative; isolation:isolate; background:#140b2b; border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; box-shadow:0 10px 24px -6px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.32); }
+    .gcard.evc { position:relative; isolation:isolate; background:var(--surface-sunk); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; box-shadow:0 10px 24px -6px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.32); }
     .evc-hero { position:relative; aspect-ratio:3/4; }
     .evc-poster { position:absolute; inset:0; width:100%; height:100%; padding:0; border:0; background:none; cursor:pointer; }
     .evc-hero .poster { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:auto; margin:0; border-radius:0; }
@@ -727,7 +736,7 @@
     .signup-success { color:var(--accent); font-weight:600; font-size:var(--fs-base); }
 
     /* email gate modal */
-    .email-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.6); backdrop-filter:blur(3px); display:flex; align-items:center; justify-content:center; z-index:1000; padding:20px; }
+    .email-overlay { position:fixed; inset:0; background:var(--scrim); backdrop-filter:var(--scrim-blur); display:flex; align-items:center; justify-content:center; z-index:1000; padding:20px; }
     .email-modal { background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-md); padding:32px 28px; max-width:420px; width:100%; position:relative; }
     .email-close { position:absolute; top:12px; right:12px; width:30px; height:30px; background:transparent; border:none; color:var(--muted); font-size:var(--fs-lg); cursor:pointer; border-radius:var(--radius-pill); }
     .email-close:hover { background:var(--bg); color:var(--fg); }
@@ -741,7 +750,7 @@
     .email-modal .email-later { display:block; margin:12px auto 0; background:none; border:none;
       color:var(--muted); font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; }
     .email-modal .email-later:hover { color:var(--fg); }
-    .email-err { color:var(--accent); font-size:var(--fs-sm); margin-top:10px; min-height:1.2em; }
+    .email-err { color:var(--danger); font-size:var(--fs-sm); margin-top:10px; min-height:1.2em; }
 
     /* player dock — media bar (video left when expanded, controls + scrubber centered) */
     /* The dock is part of the page, not a foreign panel: it uses the page ground,
@@ -1511,7 +1520,7 @@
     .acc-pop { position:absolute; top:calc(100% + 8px); right:0; width:222px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-md); padding:6px; z-index:40; box-shadow:0 12px 34px rgba(0,0,0,.32); }
     .acc-pop button { width:100%; display:flex; align-items:center; gap:11px; background:none; border:none; color:var(--fg); font:600 var(--fs-sm)/var(--lh-sm) var(--body); text-align:left; padding:10px 11px; border-radius:var(--radius-sm); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .acc-pop button:hover { background:rgba(255,255,255,.06); }
-    .acc-pop button.danger { color:#e8654f; }
+    .acc-pop button.danger { color:var(--danger); }
     .acc-pop button svg { width:var(--icon-sm); height:var(--icon-sm); flex:none; opacity:.85; }
     .acc-pop .sep { height:1px; background:var(--border); margin:5px 6px; }
     .acc-banner { width:100%; display:flex; align-items:center; gap:14px; text-align:left; margin:16px 0 2px; padding:14px 16px; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-md); cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color var(--dur-1), transform var(--dur-1); }
@@ -2256,7 +2265,7 @@
     .menu .div { height:1px; background:var(--border); margin:5px 0; }
 
     /* sign-in modal */
-    .auth-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.66); backdrop-filter:blur(4px); z-index:2000; display:flex; align-items:center; justify-content:center; padding:22px; opacity:0; pointer-events:none; transition:opacity var(--dur-2); }
+    .auth-overlay { position:fixed; inset:0; background:var(--scrim); backdrop-filter:var(--scrim-blur); z-index:2000; display:flex; align-items:center; justify-content:center; padding:22px; opacity:0; pointer-events:none; transition:opacity var(--dur-2); }
     .auth-overlay.show { opacity:1; pointer-events:auto; }
     .auth-box { background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-lg); padding:28px 26px 24px; width:100%; max-width:380px; position:relative; transform:translateY(10px); transition:transform var(--dur-2); }
     .auth-overlay.show .auth-box { transform:translateY(0); }
@@ -2274,7 +2283,7 @@
     .auth-box .go { display:flex; align-items:center; justify-content:center; min-height:48px; width:100%; margin-top:10px; background:var(--accent-grad); color:var(--ink); border:none; border-radius:var(--radius-btn); padding:0 14px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
     .auth-box .go:active { transform:scale(0.98); }
     .auth-box .go:disabled { opacity:0.6; cursor:default; }
-    .auth-box .err { color:var(--accent); font-size:var(--fs-sm); min-height:1.1em; margin-top:8px; }
+    .auth-box .err { color:var(--danger); font-size:var(--fs-sm); min-height:1.1em; margin-top:8px; }
     .auth-box .sent { text-align:center; }
     .auth-box .sent .big { font-size:2.4rem; }
     .auth-close { position:absolute; top:12px; right:12px; width:32px; height:32px; border-radius:var(--radius-pill); background:rgba(255,255,255,0.06); border:none; color:var(--fg); font-size:var(--fs-md); cursor:pointer; }
@@ -2436,7 +2445,7 @@
     .more-venue:hover { text-decoration:underline; }
     .handle-status { font-size:var(--fs-sm); min-height:1.3em; margin-top:9px; color:var(--muted); }
     .handle-status.ok { color:var(--accent); font-weight:600; }
-    .handle-status.bad { color:#ff6b6b; }
+    .handle-status.bad { color:var(--danger); }
 
     /* search page */
     .search-box { position:relative; margin-bottom:10px; }
@@ -3369,7 +3378,7 @@
     .tk-add{ flex:none; width:26px; height:26px; border-radius:50%; border:1px solid var(--border); background:transparent; color:var(--muted); font-size:var(--fs-base); line-height:1; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .tk-add:hover{ border-color:var(--accent); color:var(--accent); }
     /* add-to-playlist chooser + feedback sheet share one overlay look */
-    .sc-ov{ position:fixed; inset:0; z-index:120; background:rgba(6,4,14,.66); display:flex; align-items:flex-end; justify-content:center; }
+    .sc-ov{ position:fixed; inset:0; z-index:120; background:var(--scrim); backdrop-filter:var(--scrim-blur); display:flex; align-items:flex-end; justify-content:center; }
     @media(min-width:560px){ .sc-ov{ align-items:center; } }
     .sc-sheet{ width:100%; max-width:440px; background:var(--surface); border:1px solid var(--border); border-radius:16px 16px 0 0; padding:18px; }
     @media(min-width:560px){ .sc-sheet{ border-radius:16px; } }
@@ -4170,7 +4179,7 @@
     .ob-cta:active{ transform:scale(0.97); }
     .ob-cta:disabled{ opacity:0.45; cursor:default; }
     .ob-alt{ background:none; border:0; color:var(--muted); font-size:var(--fs-sm); cursor:pointer; padding:14px 0 0; text-align:left; align-self:flex-start; text-decoration:underline; text-underline-offset:3px; }
-    .ob-err{ color:var(--accent); font-size:var(--fs-sm); min-height:1.2em; margin-top:10px; }
+    .ob-err{ color:var(--danger); font-size:var(--fs-sm); min-height:1.2em; margin-top:10px; }
     .ob-code{ letter-spacing:0.5em; font-variant-numeric:tabular-nums; text-align:center; font-size:var(--fs-lg) !important; max-width:260px; }
     .ob-city{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
     .ob-city .ob-alt{ align-self:center; padding:0; }
@@ -4367,7 +4376,7 @@
     .atl-row.on .atl-ct { color:var(--accent); }
     .atl-load { color:var(--muted); font:500 var(--fs-sm)/var(--lh-sm) var(--body); padding:8px 0; }
     .ee-danger { margin-top:14px; }
-    .ee-danger:hover { border-color:var(--bad, #ff5e7e); color:var(--bad, #ff5e7e); }
+    .ee-danger:hover { border-color:var(--danger); color:var(--danger); }
 
     /* ── MOBILE "BANDS" container layer ──────────────────────────────────────
        On phones the boxed-card chrome (1px border + radius + double insets)
@@ -4439,7 +4448,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789817374541">
+<meta name="sc-build" content="1789822153157">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>

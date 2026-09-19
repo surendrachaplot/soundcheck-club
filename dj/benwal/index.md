@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
+Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SWG3, Glasgow on Sat, 19 Sept 2026.
 
-Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: SWG3, Glasgow on Sat 19 Sept.
+Benwal is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: SWG3, Glasgow on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Benwal is a techno and house artist tracked on soundcheck, with 176 sets logged 
 | Sat, 17 Oct 2026 | M.O.T | London |
 | Wed, 21 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 1 Nov 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Mondo | Madrid |
 | Fri, 6 Nov 2026 | Club Vinyl | Denver |
-| Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 

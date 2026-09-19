@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "Happy Techno Open Air Sunset Party" on Sat, 19 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sat, 19 Sept 2026; the next is "[LAST 100 TICKETS!] Happy Techno Open Air Sunset Party" on Sat, 19 Sept 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including Alvaro Medina, Baldman, Brieela and Certain People and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -8,7 +8,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 24 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Happy Techno Open Air Sunset Party | Javi Colina, Lexlay, Mandiz, Marco Lys, Shitake |
+| Sat, 19 Sept 2026 | [LAST 100 TICKETS!] Happy Techno Open Air Sunset Party | Javi Colina, Lexlay, Mandiz, Marco Lys, Shitake |
 | Sat, 19 Sept 2026 | Mentha by Sama Yax | Lakuti, Rafa Santos, Sama Yax |
 | Wed, 23 Sept 2026 | PLAYGROUND with Make A Dance | Cisco, Make A Dance, Martin Noise |
 | Thu, 24 Sept 2026 | NEO Open Air Takeover - La Terrrazza Barcelona |  |

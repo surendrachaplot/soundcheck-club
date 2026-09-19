@@ -1,8 +1,8 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
+Serafina is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Son Fusteret, Mallorca on Sat, 19 Sept 2026.
 
-Serafina is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Son Fusteret, Mallorca on Sat 19 Sept.
+Serafina is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Son Fusteret, Mallorca on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Serafina is a techno and trance artist tracked on soundcheck, with 163 sets logg
 | Sat, 26 Sept 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | Schrotty | Cologne |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
+| Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 20 Nov 2026 | Native Beach Club | Buenos Aires |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Fri, 4 Dec 2026 | TBA - Warehouse | Toronto |

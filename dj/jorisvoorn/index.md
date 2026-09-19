@@ -1,8 +1,8 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 49 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 49 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 189 sets lo
 | Sat, 26 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 2 Oct 2026 | The Chocolate Factory | New York City |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 13 Nov 2026 | LAB theCLUB | Madrid |
 | Sat, 14 Nov 2026 | E1 | London |
 | Fri, 4 Dec 2026 | TivoliVredenburg | Utrecht |

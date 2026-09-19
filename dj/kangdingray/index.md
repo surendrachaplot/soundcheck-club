@@ -1,14 +1,13 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 18 Sept 2026.
+Kangding Ray is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Prospect Building, Bristol on Thu, 24 Sept 2026.
 
-Kangding Ray is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: TBA - Brooklyn, Newyorkcity on Fri 18 Sept.
+Kangding Ray is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: The Prospect Building, Bristol on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Thu, 24 Sept 2026 | The Prospect Building | Bristol |
 | Sat, 3 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Sun, 11 Oct 2026 | Le Sucre | Lyon |

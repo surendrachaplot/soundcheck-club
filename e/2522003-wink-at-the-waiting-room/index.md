@@ -1,6 +1,6 @@
 # WINK at The Waiting Room
 
-WINK at The Waiting Room on Sat 17 Oct, London. 2 acts on the bill: DJ-CK and Little Luce. Trance and Club. Preview the line-up and save it on soundcheck.
+WINK at The Waiting Room on Sat 17 Oct, London. 2 acts on the bill: DJ-CK and Little Luce. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

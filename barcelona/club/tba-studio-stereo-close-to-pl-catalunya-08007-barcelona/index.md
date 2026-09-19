@@ -16,7 +16,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 1 Oct 2026 | Studio Stereo x Kumasound pres. Brieela | Brieela, Imanol (2) |
 | Fri, 2 Oct 2026 | Studio Stereo x TiZi pres. Desirée Falessi b2b Monile | Desirée Falessi, Monile, Nate S.U, Sash (BCN) |
 | Sat, 3 Oct 2026 | Studio Stereo x Pineal x La Room pres. JNJS | Angelo Cortines, JNJS, Mario Niain, max brachais |
-| Thu, 8 Oct 2026 | Studio Stereo TBA |  |
+| Thu, 8 Oct 2026 | Studio Stereo x Bonkers Music pres. Milla Campollo | Julia Konor, Ludviq, Milla Campollo |
 | Fri, 9 Oct 2026 | Studio Stereo TBA |  |
 
 *Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

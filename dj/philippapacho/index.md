@@ -1,8 +1,8 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
+Philippa Pacho is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
-Philippa Pacho is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 56 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Circolo Amelia, Milan on Sat 19 Sept.
+Philippa Pacho is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 56 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 224 sets
 | Sat, 3 Oct 2026 | Fuse | Brussels |
 | Sat, 10 Oct 2026 | Liquid Club | Malta |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
+| Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Fri, 30 Oct 2026 | Nowadays | New York City |

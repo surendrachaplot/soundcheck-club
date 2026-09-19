@@ -1,13 +1,14 @@
 # GLIA
 
-GLIA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 26 Sept 2026.
+GLIA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at P61 Gallery, Berlin on Fri, 25 Sept 2026.
 
-GLIA is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Barcelona, Belgrade, Berlin and Copenhagen and 4 more. Often billed alongside Brtinzz, Pamela Svart and Squaric. Next up: Drugstore Beograd, Belgrade on Sat 26 Sept.
+GLIA is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Barcelona, Belgrade, Berlin and Copenhagen and 4 more. Often billed alongside Brtinzz, Pamela Svart and Squaric. Next up: P61 Gallery, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | P61 Gallery | Berlin |
 | Sat, 26 Sept 2026 | Drugstore Beograd | Belgrade |
 | Fri, 2 Oct 2026 | M7 Club | Barcelona |
 

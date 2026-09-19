@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
+DJ Heartstring is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
 
-DJ Heartstring is a techno and trance artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 65 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Else, Berlin on Sat 19 Sept.
+DJ Heartstring is a techno and trance artist tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 65 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Else, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Heartstring is a techno and trance artist tracked on soundcheck, with 220 set
 | Sat, 17 Oct 2026 | Poolen | Copenhagen |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |

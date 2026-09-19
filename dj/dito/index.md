@@ -1,14 +1,13 @@
 # Dito
 
-Dito is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
+Dito is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
-Dito is a house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Copenhagen, Munich and Sanfrancisco and 2 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Fri 18 Sept.
+Dito is a house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Copenhagen, Munich and Sanfrancisco and 2 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Hive Club, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 26 Sept 2026 | Hive Club | Zurich |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
