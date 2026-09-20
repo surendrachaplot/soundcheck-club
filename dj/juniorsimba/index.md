@@ -1,14 +1,15 @@
 # Junior Simba
 
-Junior Simba is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TESTBED, Leeds on Sat, 3 Oct 2026.
+Junior Simba is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TESTBED, Leeds on Sat, 3 Oct 2026.
 
-Junior Simba is a house and club artist based in Zimbabwe, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside KILIMANJARO, Moehecan and Fiaa. Next up: TESTBED, Leeds on Sat 3 Oct.
+Junior Simba is a house and club artist based in Zimbabwe, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside KILIMANJARO, Moehecan and Fiaa. Next up: TESTBED, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TESTBED | Leeds |
+| Fri, 16 Oct 2026 | Hootananny Brixton | London |
 | Fri, 23 Oct 2026 | Papaverweg 46 | Amsterdam |
 
 ## Recently played

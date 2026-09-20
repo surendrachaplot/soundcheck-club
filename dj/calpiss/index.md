@@ -1,8 +1,8 @@
 # CALPISS
 
-CALPISS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
+CALPISS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
 
-CALPISS is a house and techno artist tracked on soundcheck, with 167 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: VENT, Tokyo on Tue 22 Sept.
+CALPISS is a house and techno artist tracked on soundcheck, with 168 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: VENT, Tokyo on Tue 22 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CALPISS is a house and techno artist tracked on soundcheck, with 167 sets logged
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | VENT | Tokyo |
 | Fri, 25 Sept 2026 | Enter Shibuya | Tokyo |
+| Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 
 ## Recently played
 

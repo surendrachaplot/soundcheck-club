@@ -1,13 +1,14 @@
 # Serum (UK)
 
-Serum (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Beehive, Los Angeles on Sat, 12 Dec 2026.
+Serum (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Phoenix Landing, Boston on Thu, 1 Oct 2026.
 
-Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 17 more. Often billed alongside Voltage, Turno and BassLayerz. Next up: The Beehive, Losangeles on Sat 12 Dec.
+Serum (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Birmingham and Boston and 18 more. Often billed alongside Voltage, Turno and BassLayerz. Next up: Phoenix Landing, Boston on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Phoenix Landing | Boston |
 | Sat, 12 Dec 2026 | The Beehive | Los Angeles |
 
 ## Recently played

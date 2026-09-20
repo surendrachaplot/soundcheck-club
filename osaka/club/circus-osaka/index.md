@@ -1,8 +1,8 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "#MADWANT" on Sun, 20 Sept 2026.
+Circus Osaka is a music venue in Osaka with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "#MADWANT" on Sun, 20 Sept 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 10 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, wi
 | Sat, 24 Oct 2026 | MONZA | AOKI takamasa, Kohei |
 | Fri, 30 Oct 2026 | UNDERMALL vol.4 | J Wax, Osmosis Jones |
 | Sat, 14 Nov 2026 | LYNY Osaka show | SAKO |
+| Thu, 19 Nov 2026 | Yo Speed × Awesome 5th Party | Yo Speed |
 
 ## Address
 

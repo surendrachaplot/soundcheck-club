@@ -1,14 +1,14 @@
 # Horror Hi-Fi
 
-Horror Hi-Fi is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Horror Hi-Fi is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Zebulon, Los Angeles on Sat, 24 Oct 2026.
 
-Horror Hi-Fi is an italo disco and ebm artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles and Sanfrancisco. Often billed alongside Roxanne Roll and Alex Oxley. Next up: TBA, Losangeles on Sat 24 Oct.
+Horror Hi-Fi is an italo disco and ebm artist based in United States of America, tracked on soundcheck, with 5 sets logged across Losangeles and Sanfrancisco. Often billed alongside Roxanne Roll and Alex Oxley. Next up: Zebulon, Losangeles on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Los Angeles |
+| Sat, 24 Oct 2026 | Zebulon | Los Angeles |
 
 ## Recently played
 

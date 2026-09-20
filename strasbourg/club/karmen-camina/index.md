@@ -12,7 +12,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming gi
 | Fri, 25 Sept 2026 | Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] | ELLLL, Zoë Mc Pherson |
 | Sat, 26 Sept 2026 | KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo] | Dario Zenker, EUROMAX DJ, Itaho, Marco Zenker, Pacôme Orzi, Zenker Brothers |
 | Fri, 2 Oct 2026 | CONCERT: ZIDANE (live), LA GRÈLE (live) |  |
-| Sat, 3 Oct 2026 | MUSICA x HEAR [Too Cool 2 Schedule • Acouphène éternel • Amor Fati • Roma Bantik &+] |  |
+| Sat, 3 Oct 2026 | MUSICA x HEAR [Acouphène éternel live • Too Cool 2 Schedule live] |  |
 | Sat, 14 Nov 2026 | KC [Nicolas Lutz • Sedef Adasï +TBA] | Nicolas Lutz, Sedef Adasï |
 | Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo & Neurone +TBA] | Arbo, Disguised, Juri Heidemann, Kim She |
 | Fri, 11 Dec 2026 | O FORNO [Rosa Pistola, +TBA] | Rosa Pistola |

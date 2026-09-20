@@ -1,14 +1,13 @@
 # WOCKIE
 
-WOCKIE is a Reggaeton and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Arcana, San Francisco/Oakland on Sun, 20 Sept 2026.
+WOCKIE is a Reggaeton and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-WOCKIE is a reggaeton and club artist tracked on soundcheck, with 22 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside mare.e.fresh, Profesito and Femme Jatale. Next up: Arcana, Sanfrancisco on Sun 20 Sept.
+WOCKIE is a reggaeton and club artist tracked on soundcheck, with 22 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside mare.e.fresh, Profesito and Femme Jatale. Next up: Monarch, Sanfrancisco on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Arcana | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played

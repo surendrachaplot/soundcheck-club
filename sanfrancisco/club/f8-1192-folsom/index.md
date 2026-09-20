@@ -16,7 +16,7 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 | Wed, 30 Sept 2026 | Strut SF and F8 present SAGMO and Matony | Joey Trip, Matony, SAGMO |
 | Thu, 1 Oct 2026 | CONNECT OCT 2026 | JustJovani |
 | Thu, 1 Oct 2026 | CONNECT, SEQUENCE PRESENTS: Selective Response | Axela, JustJovani, Saint Triste, Selective Response, Suanni |
-| Fri, 2 Oct 2026 | NO BIAS x TREKKIE TRAX | Bored Lord, Discnogirl, Mars Kasei, RITCHRD |
+| Fri, 2 Oct 2026 | NO BIAS | Bored Lord, Discnogirl, Mars Kasei, RITCHRD |
 | Sat, 3 Oct 2026 | Defend Our Beauty Ft. Mozghan, Adri, Prerogative, Foor & Ross Milam | Amino, Christopher Foor, M66 (1), Mozhgan, The Baptist, Xolo |
 
 ## Address

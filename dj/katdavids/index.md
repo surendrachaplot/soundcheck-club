@@ -1,14 +1,13 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Ikii, Berlin on Sun, 20 Sept 2026.
+Kat Davids is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at OHM, Berlin on Sat, 7 Nov 2026.
 
-Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Ikii, Berlin on Sun 20 Sept.
+Kat Davids is a house and techno artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: OHM, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Ikii | Berlin |
 | Sat, 7 Nov 2026 | OHM | Berlin |
 
 ## Recently played

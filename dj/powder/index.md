@@ -1,14 +1,15 @@
 # Powder
 
-Powder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Warehouse on Watts, Philadelphia on Sun, 20 Sept 2026.
+Powder is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Warehouse on Watts, Philadelphia on Sun, 20 Sept 2026.
 
-Powder is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Berlin and Boston and 22 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Warehouse on Watts, Philadelphia on Sun 20 Sept.
+Powder is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bangkok, Berlin and Boston and 22 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Warehouse on Watts, Philadelphia on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Warehouse on Watts | Philadelphia |
+| Fri, 25 Sept 2026 | Nyapi | Seoul |
 
 ## Recently played
 

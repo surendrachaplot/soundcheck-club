@@ -1,8 +1,8 @@
 # Yo Speed
 
-Yo Speed is a Breakbeat and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Industrique, Melbourne on Sat, 3 Oct 2026.
+Yo Speed is a Breakbeat and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Industrique, Melbourne on Sat, 3 Oct 2026.
 
-Yo Speed is a breakbeat and bass artist tracked on soundcheck, with 5 sets logged across Brisbane, London, Melbourne and Sydney. Often billed alongside Guau, AC Industries and Evil Nine. Next up: The Industrique, Melbourne on Sat 3 Oct.
+Yo Speed is a breakbeat and bass artist tracked on soundcheck, with 6 sets logged across Brisbane, London, Melbourne and Osaka and 1 more. Often billed alongside Guau, AC Industries and Evil Nine. Next up: The Industrique, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Yo Speed is a breakbeat and bass artist tracked on soundcheck, with 5 sets logge
 | Sun, 4 Oct 2026 | Arq | Sydney |
 | Mon, 5 Oct 2026 | The Brightside | Brisbane |
 | Sat, 31 Oct 2026 | Brixton Jamm | London |
+| Thu, 19 Nov 2026 | Circus Osaka | Osaka |
 
 ## Recently played
 

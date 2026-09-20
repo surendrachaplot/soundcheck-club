@@ -1,8 +1,8 @@
 # Bluecommand
 
-Bluecommand is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Bluecommand is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
-Bluecommand is a techno and electronica artist based in Mexico, tracked on soundcheck, with 129 sets logged across Amsterdam, Berlin, Mexicocity and Tbilisi. Often billed alongside Phanta, Ranma Entero and Octoptic. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
+Bluecommand is a techno and electronica artist based in Mexico, tracked on soundcheck, with 130 sets logged across Amsterdam, Berlin, Mexicocity and Tbilisi. Often billed alongside Phanta, Ranma Entero and Octoptic. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bluecommand is a techno and electronica artist based in Mexico, tracked on sound
 | Sat, 26 Sept 2026 | CCEMx | Mexico City |
 | Fri, 9 Oct 2026 | YuYu Cine Club | Mexico City |
 | Sat, 17 Oct 2026 | Fünk | Mexico City |
+| Sat, 24 Oct 2026 | TBA | Mexico City |
 
 ## Recently played
 

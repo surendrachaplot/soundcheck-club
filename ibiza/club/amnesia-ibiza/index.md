@@ -17,7 +17,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, 
 | Sat, 26 Sept 2026 | Godskitchen | Fergie, Ferry Corsten, Jordan Nocturne, Lisa Lashes, Tall Paul |
 | Sun, 27 Sept 2026 | Pyramid | Burnski, CAAL, DJ Pete, De La Swing, Jeff Mills, Kepler, Nørbak, Obskur, Omar+, Sosa |
 | Mon, 28 Sept 2026 | NRG Closing Party | Ben Hemsley, DART, Kyle Starkey, Paige Tomlinson, Somewhen |
-| Tue, 29 Sept 2026 | Joseph Capriati presents Metamorfosi Closing Party | Chris Stussy, DJ Skizzo, Elisa Bee, Freddy K, Jamie Jones, Joseph Capriati, Marco Faraone, Marco Tropeano, Yanamaste |
+| Tue, 29 Sept 2026 | Joseph Capriati presents Metamorfosi Closing Party | CHRIS STASSY, DJ Skizzo, Elisa Bee, Freddy K, Jamie Jones, Joseph Capriati, Marco Faraone, Marco Tropeano, Yanamaste |
 
 ## Address
 

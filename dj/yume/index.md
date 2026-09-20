@@ -1,14 +1,15 @@
 # Yume
 
-Yume is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Yume is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
-Yume is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
+Yume is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Sun, 11 Oct 2026 | Shibuya OTO | Tokyo |
 
 ## Recently played
 

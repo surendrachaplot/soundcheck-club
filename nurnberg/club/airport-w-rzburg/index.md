@@ -1,8 +1,8 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Airport pres. POLTERGST" on Fri, 25 Sept 2026.
+Airport Würzburg is a music venue in Nürnberg with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Airport pres. POLTERGST" on Fri, 25 Sept 2026.
 
-Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming gigs, with line-ups including Anuuk, Cassa Cristano, Cassie Raptor and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
+Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 9 upcoming gigs, with line-ups including Anuuk, Cassa Cristano, Cassie Raptor and dasstudach and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 8 upcoming 
 | Fri, 30 Oct 2026 | Airport pres. TERMINAL SCHRANZ | Mantraa, Noise Not War, O.B.I. (DE), Obscure Shape, Timm Schirmer |
 | Fri, 20 Nov 2026 | Hyper Dreams x Airport x H33 | Anuuk, Cassa Cristano, Cassie Raptor, Dominique Lamee, DonChoppa, EARGASM GOD, FAROUT, HNAS, Kalte Liebe, LILLIVEE, Mantraa, Neo.official, Tham |
 | Fri, 11 Dec 2026 | AIRPORT X 808 STUDIOS | OGUZ |
+| Sat, 19 Dec 2026 | 17 YEARS ABFAHRT WÜRZBURG |  |
 
 ## Address
 

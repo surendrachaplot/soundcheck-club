@@ -17,7 +17,7 @@
 | Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
-| Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DJ Sterni, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, subcutan |
+| Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DJ Sterni, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, sterni (DE), subcutan |
 
 ## Address
 

@@ -9,7 +9,7 @@ Basing House is a music venue in London listed on soundcheck. 29 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | YOUR MUM'S HOUSE |  |
-| Fri, 25 Sept 2026 | MAJS HOUSE PARTY - 2ND BIRTHDAY SPECIAL - HOUSE//FUNKY//DEEP TECH | Azire, Dominique Danielle, EMLEE, Ricky Sahota |
+| Fri, 25 Sept 2026 | MAJS HOUSE PARTY - 2ND BIRTHDAY SPECIAL -Lance Morgan / Ricky Sahota / HOUSE//FUNKY//DEEP TECH | Azire, Dominique Danielle, EMLEE, Lance Morgan, Ricky Sahota |
 | Thu, 1 Oct 2026 | YOUR MUM'S HOUSE |  |
 | Fri, 2 Oct 2026 | EOTR Launch Party |  |
 | Sat, 3 Oct 2026 | Vinyl Euphoria meets Digital Damage and Launches Psyphoria |  |

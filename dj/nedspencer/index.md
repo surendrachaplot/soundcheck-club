@@ -1,14 +1,15 @@
 # Ned Spencer
 
-Ned Spencer is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Gallery, London on Sat, 26 Sept 2026.
+Ned Spencer is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Gallery, London on Sat, 26 Sept 2026.
 
-Ned Spencer is a house and hip-hop artist tracked on soundcheck, with 30 sets logged across London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Gallery, London on Sat 26 Sept.
+Ned Spencer is a house and hip-hop artist tracked on soundcheck, with 31 sets logged across London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Gallery, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Gallery | London |
+| Thu, 8 Oct 2026 | Phonox | London |
 
 ## Recently played
 

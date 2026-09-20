@@ -1,13 +1,14 @@
 # Dr. Long
 
-Dr. Long is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Salon Palomilla, Mexico City on Sun, 1 Nov 2026.
+Dr. Long is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Mexico City on Sat, 24 Oct 2026.
 
-Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Mexicocity and Stuttgart and 3 more. Often billed alongside Boyá, skyra and Digabuna. Next up: Salon Palomilla, Mexicocity on Sun 1 Nov.
+Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Mexicocity and Stuttgart and 3 more. Often billed alongside Boyá, skyra and Digabuna. Next up: TBA, Mexicocity on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA | Mexico City |
 | Sun, 1 Nov 2026 | Salon Palomilla | Mexico City |
 
 ## Recently played

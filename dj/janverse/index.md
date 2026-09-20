@@ -1,0 +1,28 @@
+# Janverse
+
+Janverse is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 14 Nov 2026.
+
+Janverse is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Edinburgh and Glasgow. Often billed alongside Brynk, Rodent and FOLIE (UK). Next up: The Liquid Room, Edinburgh on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | The Liquid Room | Edinburgh |
+
+## Recently played
+
+- The Bongo Club, Edinburgh — Thu, 10 Sept 2026
+- The Mash House, Edinburgh — Fri, 28 Aug 2026
+- TBA - The Roastery, George Square Lane, EH8 9LD , Edinburgh — Sat, 15 Aug 2026
+- Sneaky Pete's, Edinburgh — Wed, 8 Jul 2026
+- Nice N Sleazy, Glasgow — Tue, 26 May 2026
+- The Bongo Club, Edinburgh — Thu, 14 May 2026
+- The Liquid Room, Edinburgh — Sat, 21 Mar 2026
+- The Liquid Room, Edinburgh — Fri, 20 Feb 2026
+
+## Shares bills with
+
+Brynk, Rodent, FOLIE (UK)
+
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*

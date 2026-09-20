@@ -2254,6 +2254,10 @@
     .account { display:inline-flex; align-items:center; gap:8px; }
     .account .signin-btn { display:inline-flex; align-items:center; height:41px; padding:0 18px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:var(--radius-pill); font:600 var(--fs-sm)/var(--lh-sm) var(--body); letter-spacing:0; text-transform:lowercase; cursor:pointer; white-space:nowrap; }
     .account .signin-btn:hover { border-color:var(--accent); color:var(--accent); }
+    /* The header's one CTA. Board 04: 41 high, 18 inside, 999 radius, no
+       border — the sunset gradient, never the flat accent, and the ink on it. */
+    .account .signup-btn { display:inline-flex; align-items:center; height:41px; padding:0 18px; background:var(--accent-grad); border:0; color:var(--accent-ink); border-radius:var(--radius-pill); font:700 var(--fs-sm)/var(--lh-sm) var(--body); letter-spacing:0; text-transform:lowercase; cursor:pointer; white-space:nowrap; transition:transform var(--dur-1) var(--ease-standard); }
+    .account .signup-btn:active { transform:scale(0.97); }
     .account .who { display:inline-flex; align-items:center; gap:7px; height:41px; padding:0 14px 0 7px; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:var(--radius-pill); font:600 var(--fs-sm)/var(--lh-sm) var(--body); text-transform:lowercase; cursor:pointer; }
     .account .who:hover { border-color:var(--accent); }
     .account .who .av { width:27px; height:27px; border-radius:var(--radius-pill); background:var(--accent); color:var(--ink); display:inline-flex; align-items:center; justify-content:center; font-weight:800; font-size:var(--fs-sm); text-transform:uppercase; }
@@ -4144,7 +4148,6 @@
     .ob-dots{ display:flex; gap:7px; }
     .ob-dots i{ width:7px; height:7px; border-radius:50%; background:var(--surface-2); }
     .ob-dots i.on{ background:var(--accent); }
-    .ob-skip{ background:none; border:0; color:var(--muted); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.08em; text-transform:uppercase; cursor:pointer; padding:6px 0; }
     .ob-eyebrow{ font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; margin-bottom:14px; }
     .ob-h1{ font-family:var(--head); font-weight:800; font-size:clamp(1.9rem, 6.5vw, 2.6rem); letter-spacing:-0.02em; line-height:1.08; margin:0 0 12px; }
     .ob-sub{ color:var(--muted); font-size:var(--fs-base); line-height:1.55; margin:0 0 26px; max-width:44ch; }
@@ -4349,25 +4352,7 @@
     .ob-city{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
     .ob-city .ob-alt{ align-self:center; padding:0; }
     .ob-citypill{ display:inline-flex; align-items:center; gap:8px; background:var(--sel-weak); border:1.5px solid var(--sel); color:var(--fg); border-radius:999px; padding:10px 18px; font:700 var(--fs-base)/var(--lh-base) var(--body); }
-    .ob-results{ margin-top:16px; display:flex; flex-direction:column; }
-    .ob-row{ display:flex; align-items:center; gap:12px; padding:11px 0; border-bottom:1px solid var(--border); background:none; border-left:0; border-right:0; border-top:0; color:var(--fg); text-align:left; cursor:pointer; width:100%; }
-    .ob-row img, .ob-row .ph{ width:52px; height:52px; border-radius:var(--radius); object-fit:cover; background:var(--surface-2); flex:0 0 auto; display:flex; align-items:center; justify-content:center; font:800 var(--fs-md) var(--head); color:var(--muted); }
-    .ob-row .t{ flex:1; min-width:0; }
-    .ob-row .t b{ display:block; font-size:var(--fs-base); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .ob-row .t span{ color:var(--muted); font-size:var(--fs-sm); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; display:block; }
-    .ob-row .add{ flex:0 0 auto; width:34px; height:34px; border-radius:50%; border:1.5px solid var(--line-2); display:flex; align-items:center; justify-content:center; color:var(--muted); font-size:var(--fs-md); }
-    .ob-row.on .add{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
-    .ob-count{ margin-top:18px; color:var(--muted); font:700 var(--fs-sm)/var(--lh-sm) var(--font-mono); letter-spacing:0.08em; text-transform:uppercase; }
-    .ob-count b{ color:var(--accent); }
-    .ob-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:10px; margin-top:6px; }
-    .ob-tile{ position:relative; border:1.5px solid var(--line-2); border-radius:var(--radius-md); overflow:hidden; background:var(--surface); cursor:pointer; padding:0; text-align:left; color:var(--fg); }
-    .ob-tile img, .ob-tile .ph{ width:100%; aspect-ratio:1; object-fit:cover; display:flex; align-items:center; justify-content:center; font:800 var(--fs-xl) var(--head); color:var(--muted); background:var(--surface-2); }
-    .ob-tile .nm{ display:block; padding:9px 10px; font-size:var(--fs-sm); font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .ob-tile .tick{ position:absolute; top:8px; right:8px; width:28px; height:28px; border-radius:50%; background:rgba(22,16,42,0.72); border:1.5px solid rgba(255,255,255,0.25); color:transparent; display:flex; align-items:center; justify-content:center; font-size:var(--fs-base); }
-    .ob-tile.on{ border-color:var(--sel); }
-    .ob-tile.on .tick{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
     .ob-card{ margin:4px 0 6px; max-width:340px; width:100%; border-radius:var(--radius-lg); border:1px solid var(--border); box-shadow:0 24px 60px rgba(0,0,0,0.5); }
-    .ob-ctarow{ display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
     @media (min-width:700px){ .ob-wrap{ padding-top:8vh; } }
     /* A segmented control gets the SAME vertical rhythm whether or not it has a
        Share button beside it. Adding the row wrapper used to zero .pf-seg's
@@ -4571,7 +4556,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789916208458">
+<meta name="sc-build" content="1789940519730">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4630,7 +4615,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">118 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">137 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">22 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">119 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">136 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6832,8 +6817,14 @@
         }); });
       } else {
         if(log) log.style.display='none';
-        el.innerHTML='<button class="signin-btn" id="signin-btn" type="button">Sign in</button>';
-        document.getElementById('signin-btn').addEventListener('click',openAuth);
+        // TWO buttons, and both go to the LANDING — the little auth modal is not
+        // where anybody should be pitched. Sign in opens it already flipped to
+        // the returning-person words; sign up opens it as it is. One CTA in the
+        // view, and it is the sunset pill, per the button rules.
+        el.innerHTML='<button class="signin-btn" id="signin-btn" type="button">Sign in</button>'+
+          '<button class="signup-btn" id="signup-btn" type="button">Sign up</button>';
+        document.getElementById('signin-btn').addEventListener('click',function(){ scOnboard('email','signin'); });
+        document.getElementById('signup-btn').addEventListener('click',function(){ scOnboard('email','join'); });
       }
       paintPromo();
     }
@@ -7108,7 +7099,17 @@
     function maybePromptHandle(){
       if(!currentUser || currentUser.handleClaimed) return;
       if(prefs.handlePrompted) return;
-      setTimeout(function(){ if(currentUser && !currentUser.handleClaimed) openHandleModal(false); }, 800);
+      // The onboarding flow ASKS for the handle as its last step. Firing this
+      // modal while that flow is open would stack a second ask on top of the
+      // first — so it is now only for accounts that never went through it.
+      var ov=document.getElementById('obv');
+      if(ov && ov.classList.contains('show')) return;
+      setTimeout(function(){
+        if(!currentUser || currentUser.handleClaimed) return;
+        var o=document.getElementById('obv');
+        if(o && o.classList.contains('show')) return;   // re-check: the flow may have opened since
+        openHandleModal(false);
+      }, 800);
     }
     // ── home city: asked once in onboarding (after handle), changeable in settings.
     // Stored in prefs.homeCity; surfaced on the taste card as "Based in {city}".
@@ -12213,22 +12214,22 @@
         }).catch(function(){ ov.querySelector('#to-err').textContent='Network error.'; btn.disabled=false; });
       });
     }
-    // ── WELCOME ONBOARDING — email → link → city → log nights → more artists →
-    // scene card. Full-screen, one gradient CTA per step, violet = chosen.
+    // ── WELCOME ONBOARDING — email → link → city → handle.
+    // Full-screen, one gradient CTA per step, violet = chosen.
     // New accounts arrive from the magic link with ?welcome=1 and start at city.
-    var _ob={ email:'', city:null, logged:[], marked:[] };
-    // Aha in three: city (auto, one tap) -> pick artists you've seen -> your
-    // scene card, rendered live. Email is asked for AFTER the value is on
-    // screen, not before it. The old order (email -> city -> log -> suggest ->
-    // card) put the ask first and the payoff around step nine.
-    var OB_STEPS=['city','pick','card'];
+    var _ob={ email:'', city:null };
+    // TWO steps after sign-in. The artist picks and the scene card used to sit
+    // here as steps 2 and 3; both are cut. The card still EXISTS as the profile
+    // share (/api/card) — it is just no longer something you walk through to
+    // sign up. The handle was never a step at all: it was a modal fired 800ms
+    // after sign-in, which is a strange way to ask for the name everyone sees.
+    var OB_STEPS=['city','handle'];
     function obEl(){
       var el=document.getElementById('obv'); if(el) return el;
       el=document.createElement('div'); el.className='obv'; el.id='obv';
       el.innerHTML='<div class="ob-wrap"><div class="ob-top">'+
         '<div class="logo-wm" style="font-size:1.05rem">sound<span class="ac">check</span></div>'+
         '<div class="ob-dots" id="ob-dots"></div>'+
-        '<button class="ob-skip" id="ob-skip" type="button" hidden>Skip</button>'+
         '</div><div id="ob-body" style="display:flex;flex-direction:column;flex:1"></div></div>';
       document.body.appendChild(el);
       return el;
@@ -12238,28 +12239,23 @@
       el.classList.remove('ob-landing'); document.body.classList.add('ob-open');   // every step, not just the landing
       el.querySelector('#ob-body').innerHTML=html; el.scrollTop=0; return el; }
     function obChrome(step){
-      var el=obEl(), dots=el.querySelector('#ob-dots'), skip=el.querySelector('#ob-skip');
+      var el=obEl(), dots=el.querySelector('#ob-dots');
       var i=OB_STEPS.indexOf(step);
+      // Both steps are one tap and neither can be skipped, so there is no Skip.
       dots.innerHTML = i<0 ? '' : OB_STEPS.map(function(_,j){ return '<i'+(j<=i?' class="on"':'')+'></i>'; }).join('');
-      skip.hidden = !(step==='pick'||step==='log'||step==='suggest');
-      skip.onclick = function(){ scOnboard(step==='log'?'suggest':'card'); };
     }
-    function scOnboard(step){
-      // city/pick/card all work signed-out — that's the whole point of the new
-      // order. Picks ride the anonymous cookie identity and migrate on sign-in.
-      var OPEN={intro:1,email:1,inbox:1,city:1,pick:1,card:1};
+    function scOnboard(step, mode){
+      // Only the sign-in steps work signed-out; city and handle need a user.
+      var OPEN={intro:1,email:1,inbox:1,city:1};
       if(!OPEN[step] && !currentUser){ step='email'; }
       // The 6-slide carousel IS the landing now — one fold says the same six
       // things without six swipes. Every old entry point ('intro') lands here.
       if(step==='intro') step='email';
       obChrome(step);
-      if(step==='email') return obStepEmail();
+      if(step==='email') return obStepEmail(mode);
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
-      if(step==='pick') return obStepPick();
-      if(step==='log') return obStepLog();
-      if(step==='suggest') return obStepSuggest();
-      if(step==='card') return obStepCard();
+      if(step==='handle') return obStepHandle();
     }
 
     /**
@@ -12474,7 +12470,7 @@
       setTimeout(function(){ inp.focus(); },80);
     }
     function obStepCity(){
-      var el=obBody('<div class="ob-eyebrow">Step 1 of 3</div>'+
+      var el=obBody('<div class="ob-eyebrow">Step 1 of 2</div>'+
         '<h1 class="ob-h1" id="ob-cityh">Finding your city&hellip;</h1>'+
         '<p class="ob-sub">This is where we&rsquo;ll look for your gigs &mdash; you can switch any time.</p>'+
         '<div class="ob-city"><span class="ob-citypill" id="ob-citypill" hidden></span>'+
@@ -12499,171 +12495,68 @@
         if(!_ob.city) return;
         setPref('homeCity',_ob.city); setPref('homeCityPrompted',1);
         if(currentUser){ currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.homeCity=_ob.city; }
-        scOnboard('pick');
+        scOnboard('handle');
       });
     }
-    function obLoggedRow(g){ return (g.poster_url?'<img src="'+attrEsc(imgUrl(g.poster_url,120))+'" alt="'+attrEsc((g.title||'Gig')+' poster')+'">':'<span class="ph">'+esc((g.title||'?').slice(0,1))+'</span>'); }
-    function obStepLog(){
-      var el=obBody('<div class="ob-eyebrow">Step 2 of 4</div>'+
-        '<h1 class="ob-h1">Which gigs were you at?</h1>'+
-        '<p class="ob-sub">Search an artist, a venue or a gig &mdash; then just tap it. Three to five is plenty; it all lands in your gig diary.</p>'+
-        '<input type="text" id="ob-q" placeholder="Try an artist or a club&hellip;" autocomplete="off" autocapitalize="off">'+
-        '<div class="ob-results" id="ob-res"></div>'+
-        '<div class="ob-count" id="ob-cnt" hidden></div>'+
-        '<button class="ob-cta" id="ob-loggo" type="button" disabled>Next</button>');
-      var res=el.querySelector('#ob-res'), list=[];
-      function paintCount(){
-        var c=el.querySelector('#ob-cnt');
-        c.hidden=!_ob.logged.length;
-        c.innerHTML='<b>'+_ob.logged.length+'</b> logged'+(_ob.logged.length<3?' · keep going':' — nice');
-        el.querySelector('#ob-loggo').disabled=!_ob.logged.length;
-      }
-      function paint(){
-        res.innerHTML=list.map(function(g,i){
-          var on=_ob.logged.some(function(x){ return String(x.id)===String(g.id); });
-          var when=g.event_date?fmtDateLabel(String(g.event_date).slice(0,10)):'';
-          return '<button type="button" class="ob-row'+(on?' on':'')+'" data-i="'+i+'">'+obLoggedRow(g)+
-            '<span class="t"><b>'+esc(g.title||'')+'</b><span>'+esc([g.venue,when].filter(Boolean).join(' · '))+'</span></span>'+
-            '<span class="add">'+(on?'✓':'+')+'</span></button>';
-        }).join('') || (el.querySelector('#ob-q').value.trim().length>=2?'<div class="ob-sub" style="margin-top:14px">Nothing yet — try the artist’s name.</div>':'');
-      }
-      var run=debounce(function(){
-        var q=el.querySelector('#ob-q').value.trim();
-        if(q.length<2){ list=[]; paint(); return; }
-        pubGet('/api/log/search?city='+encodeURIComponent(_ob.city||currentCity||'london')+'&q='+encodeURIComponent(q))
-          .then(function(j){ list=(j&&j.gigs||[]).slice(0,8); paint(); }).catch(function(){});
-      },240);
-      el.querySelector('#ob-q').addEventListener('input',run);
-      res.addEventListener('click',function(e){
-        var b=e.target.closest('[data-i]'); if(!b) return;
-        var g=list[+b.dataset.i]; if(!g) return;
-        var at=_ob.logged.findIndex(function(x){ return String(x.id)===String(g.id); });
-        if(at>=0){ _ob.logged.splice(at,1); paint(); paintCount(); return; }
-        var lineup=(g.lineup||[]).filter(function(a){ return a&&a.slug; }).slice(0,6).map(function(a){ return {slug:a.slug,name:a.name||a.slug}; });
-        _ob.logged.push(g); paint(); paintCount();
-        authedFetch('/api/diary',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({
-          date:g.event_date?String(g.event_date).slice(0,10):null, venue:g.venue||null,
-          event_id:(g.id!=null?String(g.id):null), note:null, artists:lineup }) }).catch(function(){});
-        lineup.forEach(function(a){ if(_ob.marked.indexOf(a.slug)<0) _ob.marked.push(a.slug); picks.artists[a.slug]={name:a.name,status:'seen',t:Date.now()}; });
-        savePicks(); afterPicksChanged();
-      });
-      el.querySelector('#ob-loggo').addEventListener('click',function(){ scOnboard('suggest'); });
-      paintCount();
-      setTimeout(function(){ el.querySelector('#ob-q').focus(); },80);
-    }
-    // ── STEP 2: pick the artists you've seen ──────────────────────────────
-    // The opening question has to be answerable in seconds and has to produce
-    // something. Faces, not a search box: /api/onboard/seed returns the most-
-    // billed artists in the chosen city, photo-only (an unrecognisable face is
-    // worse than no tile). Three is the target — enough for a card that looks
-    // like someone, few enough to finish.
-    var _obPicked = [];
-    function obStepPick(){
-      var el=obBody('<div class="ob-eyebrow">Step 2 of 3</div>'+
-        '<h1 class="ob-h1">Which of these have you seen?</h1>'+
-        '<p class="ob-sub">Tap any you&rsquo;ve caught live. Three is enough to build your card &mdash; you can add the rest later.</p>'+
-        '<div class="ob-grid" id="ob-pick"><div class="ob-sub">Looking&hellip;</div></div>'+
-        '<button class="ob-cta" id="ob-pickgo" type="button" disabled>Pick 3 to continue</button>');
-      var grid=el.querySelector('#ob-pick'), cta=el.querySelector('#ob-pickgo');
-      function sync(){
-        var n=_obPicked.length;
-        cta.disabled = n===0;
-        cta.textContent = n===0 ? 'Pick 3 to continue'
-                        : n<3 ? ('Continue with '+n) : 'See my scene card';
-      }
-      pubGet('/api/onboard/seed?city='+encodeURIComponent(_ob.city||currentCity||'london'))
-        .then(function(j){
-          var arts=(j&&j.artists)||[];
-          if(!arts.length){ scOnboard('card'); return; }
-          grid.innerHTML=arts.map(function(a){
-            return '<button type="button" class="ob-tile" data-slug="'+attrEsc(a.slug)+'" data-name="'+attrEsc(a.name)+'" data-img="'+attrEsc(a.image_url||'')+'">'+
-              '<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="'+attrEsc((a.name||'')+' portrait')+'" loading="lazy">'+
-              '<span class="nm">'+esc(a.name)+'</span><span class="tick">&#10003;</span></button>';
-          }).join('');
-        }).catch(function(){ scOnboard('card'); });
-      grid.addEventListener('click',function(e){
-        var t=e.target.closest('.ob-tile'); if(!t) return;
-        var slug=t.dataset.slug, name=t.dataset.name, img=t.dataset.img;
-        if(t.classList.toggle('on')){
-          _obPicked.push({slug:slug,name:name,image:img}); setArtist(slug,'seen',name);
-        } else {
-          _obPicked=_obPicked.filter(function(x){ return x.slug!==slug; }); setArtist(slug,null,name);
+    /**
+     * STEP 2 OF 2 — the handle, then you are in.
+     *
+     * It used to be a MODAL fired 800ms after sign-in (maybePromptHandle), which
+     * is a strange way to ask for the name the whole app shows you by. It is a
+     * step now, and it is the last one.
+     *
+     * The availability check is the same contract as openHandleModal's, and the
+     * same hard-won rule applies: a request that never LANDED is not a verdict.
+     * The old modal fell through to `j={}` on a network error, so anyone on a
+     * flaky connection was told the handle they wanted was taken. Say the check
+     * could not run and leave the button disabled — claiming an unchecked handle
+     * is the server's call anyway.
+     */
+    function obStepHandle(){
+      var el=obBody('<div class="ob-eyebrow">Step 2 of 2</div>'+
+        '<h1 class="ob-h1">Pick your handle.</h1>'+
+        '<p class="ob-sub">This is how the scene finds you &mdash; lowercase letters, numbers and underscores. You can change it later.</p>'+
+        '<div class="handle-field"><span class="hpre">u/</span>'+
+          '<input type="text" id="ob-h-in" maxlength="20" placeholder="yourname" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></div>'+
+        '<div class="handle-status" id="ob-h-status"></div>'+
+        '<button class="ob-cta" id="ob-h-go" type="button" disabled>Claim it</button>'+
+        '<div class="ob-err" id="ob-h-err"></div>'+
+        // A door. A handle is changeable from the account hub, and the last step
+        // of a sign-up is not the place to trap somebody.
+        '<button class="ob-alt" id="ob-h-later" type="button">Do this later</button>');
+      var input=el.querySelector('#ob-h-in'), status=el.querySelector('#ob-h-status'),
+          go=el.querySelector('#ob-h-go'), err=el.querySelector('#ob-h-err');
+      var okHandle=null;
+      var check=debounce(async function(){
+        var h=input.value.trim().toLowerCase(); okHandle=null; go.disabled=true; err.textContent='';
+        if(h.length<3){ status.className='handle-status'; status.textContent=''; return; }
+        status.className='handle-status'; status.textContent='Checking\u2026';
+        var j, r;
+        try{ r=await authedFetch('/api/handle/available?h='+encodeURIComponent(h)); j=await r.json(); }
+        catch(_){
+          if(input.value.trim().toLowerCase()===h){ status.className='handle-status bad'; status.textContent='Couldn\u2019t check that handle \u2014 try again.'; }
+          return;
         }
-        sync();
+        if(input.value.trim().toLowerCase()!==h) return;   // a newer keystroke is in flight
+        if(j.available){ status.className='handle-status ok'; status.innerHTML='\u2713 u/'+esc(h)+' is free'; okHandle=h; go.disabled=false; }
+        else { status.className='handle-status bad'; status.textContent=j.reason||'Not available.'; }
+      },220);
+      input.addEventListener('input',check);
+      input.addEventListener('keydown',function(e){ if(e.key==='Enter' && !go.disabled) go.click(); });
+      go.addEventListener('click',async function(){
+        if(!okHandle) return; go.disabled=true; err.textContent='';
+        try{
+          var r=await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:okHandle }) });
+          var j=await r.json();
+          if(!r.ok){ err.textContent=j.error||'Could not save.'; go.disabled=false; return; }
+          if(currentUser){ currentUser.handle=j.handle; currentUser.handleClaimed=true; }
+          setPref('handlePrompted',1);
+          try{ renderAccount(); }catch(_){}
+          obClose(); showToast('You\u2019re u/'+j.handle);
+        }catch(_){ err.textContent='Could not save.'; go.disabled=false; }
       });
-      cta.addEventListener('click',function(){ scOnboard('card'); });
-      sync();
-    }
-    // A scene card drawn in the DOM from the picks. The real card is a server
-    // PNG keyed on a handle, which a signed-out user doesn't have yet — and
-    // waiting for an account to show the payoff is what put the ask before the
-    // value in the first place. This renders instantly, offline, from what they
-    // just tapped; the PNG is what the email buys them.
-    function obCardPreview(list){
-      var a=(list||[]).slice(0,3);
-      if(!a.length) return '';
-      return '<div class="ob-card"><div class="ob-card-top">'+
-        '<span class="ob-card-wm">sound<i>check</i></span>'+
-        '<span class="ob-card-lbl">MOST SEEN LIVE</span></div>'+
-        '<div class="ob-card-cols">'+a.map(function(x){
-          return '<div class="ob-card-col">'+(x.image?'<img src="'+attrEsc(imgUrl(x.image,300))+'" alt="'+attrEsc(x.name+' portrait')+'">':'<span class="ph">'+esc((x.name||'?').slice(0,1))+'</span>')+
-                 '<b>'+esc(x.name)+'</b></div>';
-        }).join('')+'</div>'+
-        '<div class="ob-card-wall">'+a.map(function(x){ return esc(x.name); }).join('<span>&middot;</span>')+'</div>'+
-        '<div class="ob-card-bar"></div></div>';
-    }
-    function obStepSuggest(){
-      var seenSlugs=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='seen'; });
-      var el=obBody('<div class="ob-eyebrow">Step 3 of 4</div>'+
-        '<h1 class="ob-h1">Who else have you caught?</h1>'+
-        '<p class="ob-sub">These played the same bills. Tap the ones you&rsquo;ve seen &mdash; soundcheck watches for their next shows and new sets so you don&rsquo;t have to.</p>'+
-        '<div class="ob-grid" id="ob-sug"><div class="ob-sub">Looking&hellip;</div></div>'+
-        '<button class="ob-cta" id="ob-suggo" type="button">Done</button>');
-      var grid=el.querySelector('#ob-sug');
-      pubGet('/api/onboard/suggest?seen='+encodeURIComponent(seenSlugs.slice(0,20).join(',')))
-        .then(function(j){
-          var arts=(j&&j.artists)||[];
-          if(!arts.length){ scOnboard('card'); return; }
-          grid.innerHTML=arts.map(function(a,i){
-            return '<button type="button" class="ob-tile" data-i="'+i+'" data-slug="'+attrEsc(a.slug)+'" data-name="'+attrEsc(a.name)+'">'+
-              (a.image_url?'<img src="'+attrEsc(imgUrl(a.image_url,300))+'" alt="'+attrEsc((a.name||'')+' portrait')+'" loading="lazy">':'<span class="ph">'+esc((a.name||'?').slice(0,1))+'</span>')+
-              '<span class="nm">'+esc(a.name)+'</span><span class="tick">✓</span></button>';
-          }).join('');
-        }).catch(function(){ scOnboard('card'); });
-      grid.addEventListener('click',function(e){
-        var t=e.target.closest('.ob-tile'); if(!t) return;
-        var slug=t.dataset.slug, name=t.dataset.name;
-        if(t.classList.toggle('on')) setArtist(slug,'seen',name);
-        else setArtist(slug,null,name);
-      });
-      el.querySelector('#ob-suggo').addEventListener('click',function(){ scOnboard('card'); });
-    }
-    function obStepCard(){
-      var h=currentUser&&currentUser.handle;
-      // Signed-out: this is the aha, so it has to be on screen NOW. Draw the
-      // card from what they just picked and ask for the email underneath it —
-      // the email buys the real shareable PNG, it is not the price of entry.
-      if(!h){
-        var pv=obBody('<div class="ob-eyebrow">Step 3 of 3</div>'+
-          '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
-          '<p class="ob-sub">You, in artists. Add your email and it&rsquo;s yours to keep &mdash; shareable, and it grows every gig you log.</p>'+
-          obCardPreview(_obPicked)+
-          '<button class="ob-cta" id="ob-keep" type="button">Keep my card</button>'+
-          '<button class="ob-alt" id="ob-later" type="button">Not now</button>');
-        pv.querySelector('#ob-keep').addEventListener('click',function(){ scOnboard('email'); });
-        pv.querySelector('#ob-later').addEventListener('click',function(){ obClose(); });
-        return;
-      }
-      var el=obBody('<div class="ob-eyebrow">Step 3 of 3</div>'+
-        '<h1 class="ob-h1">That&rsquo;s your scene card.</h1>'+
-        '<p class="ob-sub">You, in artists. Post it to your story or the group chat &mdash; soundcheck is better when your people are on it.</p>'+
-        '<img class="ob-card" id="ob-cardimg" alt="Your scene card" src="'+attrEsc(API_BASE+'/api/card?u='+encodeURIComponent(h||'')+'&cb='+Date.now())+'">'+
-        '<div class="ob-ctarow"><button class="ob-cta" id="ob-share" type="button" style="margin-top:0">Share the card</button>'+
-        '<button class="ob-alt" id="ob-saveimg" type="button" style="padding-top:0">Save image</button>'+
-        '<button class="ob-alt" id="ob-toprofile" type="button" style="padding-top:0">Open my profile</button></div>');
-      el.querySelector('#ob-share').addEventListener('click',function(){ shareSceneCard(); });
-      el.querySelector('#ob-saveimg').addEventListener('click',function(){ saveSceneCard(); });
-      el.querySelector('#ob-toprofile').addEventListener('click',function(){ obClose(); if(h) openProfile(h); });
+      el.querySelector('#ob-h-later').addEventListener('click',function(){ setPref('handlePrompted',1); obClose(); });
+      setTimeout(function(){ input.focus(); },80);
     }
     // Save the card PNG to the device (download; the OS drops it in Photos/Files).
     async function saveSceneCard(handle){

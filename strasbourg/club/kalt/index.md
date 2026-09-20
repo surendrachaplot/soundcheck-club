@@ -1,8 +1,8 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Daniel Avery & Massimiliano Pagliara" on Sat, 26 Sept 2026.
+KALT is a music venue in Strasbourg with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Daniel Avery & Massimiliano Pagliara" on Sat, 26 Sept 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming gigs, with line-ups including Adiel, AISHA, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming gigs, with line-ups including Adiel, AISHA, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 

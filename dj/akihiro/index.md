@@ -1,14 +1,15 @@
 # AKIHIRO
 
-AKIHIRO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tamutamucafe, Osaka on Fri, 25 Sept 2026.
+AKIHIRO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tamutamucafe, Osaka on Fri, 25 Sept 2026.
 
-AKIHIRO is a house and techno artist tracked on soundcheck, with 40 sets logged across Osaka, Seoul and Tokyo. Often billed alongside KZA, FFAN and KAITO.. Next up: Tamutamucafe, Osaka on Fri 25 Sept.
+AKIHIRO is a house and techno artist tracked on soundcheck, with 41 sets logged across Osaka, Seoul and Tokyo. Often billed alongside KAITO., KZA and FFAN. Next up: Tamutamucafe, Osaka on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Tamutamucafe | Osaka |
+| Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ AKIHIRO is a house and techno artist tracked on soundcheck, with 40 sets logged 
 
 ## Shares bills with
 
-KZA, FFAN, KAITO.
+KAITO., KZA, FFAN
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akihiro/)*

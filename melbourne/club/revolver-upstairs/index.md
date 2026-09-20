@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Dazed – Hard Dance Therapy" on Sun, 20 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Dazed – Hard Dance Therapy" on Sun, 20 Sept 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 13 upcoming gigs, with line-ups including 1NN3R53LF, Alex Wann, Amity and bbsanii and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including 1NN3R53LF, Alex Wann, Amity and bbsanii and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 

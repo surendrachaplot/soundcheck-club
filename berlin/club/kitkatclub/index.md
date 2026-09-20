@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nachspiel" on Sun, 20 Sept 2026.
+KitKatClub is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Electric Monday@KitKat Club" on Mon, 21 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Nachspiel |  |
 | Mon, 21 Sept 2026 | Electric Monday@KitKat Club | Ale Castro, Frankie Flowerz, Yahaira |
 | Wed, 23 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | Charlotte Lion, DJ Jordan, Gerrit X |
 | Thu, 24 Sept 2026 | UNITY AT KITKAT CLUB |  |
@@ -18,6 +17,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, wi
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
 | Fri, 2 Oct 2026 | Four Play |  |
 | Sun, 4 Oct 2026 | Nachspiel |  |
+| Mon, 5 Oct 2026 | Electric Monday presents Faces of Monday @Kitkat | *Tia*, Frankie Flowerz, Rik Laren, Sylvie Maziarz |
 
 ## Address
 

@@ -1,10 +1,10 @@
 # SECRET LOCATION RAVE VIII at TBA - Will be annouced
 
-SECRET LOCATION RAVE VIII at TBA - Will be annouced on Wed 11 Nov, Bucharest. Techno. Preview the line-up and save it on soundcheck.
+SECRET LOCATION RAVE VIII at TBA - Will be annouced on Fri 13 Nov, Bucharest. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 11 Nov 2026 |
+| Date | Fri, 13 Nov 2026 |
 | Venue | TBA - Will be annouced |
 | City | Bucharest |
 

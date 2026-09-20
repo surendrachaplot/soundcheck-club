@@ -1,13 +1,14 @@
 # JAEL
 
-JAEL is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+JAEL is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
 
-JAEL is a house and bass artist tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
+JAEL is a house and bass artist tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: 314 Scholes, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | 314 Scholes | New York City |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | fabric | London |
 

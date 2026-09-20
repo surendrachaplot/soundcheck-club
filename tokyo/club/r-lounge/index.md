@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LUEUR vol.5" on Mon, 21 Sept 2026.
+R Lounge is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LUEUR vol.5" on Mon, 21 Sept 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including --- mr ---, ASSIGN, DJ Shimamura and edge and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including --- mr ---, ASSIGN, DJ Shimamura and edge and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
@@ -10,6 +10,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with 
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | LUEUR vol.5 |  |
 | Tue, 22 Sept 2026 | HeartsGrow |  |
+| Wed, 23 Sept 2026 | -Suree presents- R de Sf スペシャル | Shuichiro Suzuki |
 | Sat, 26 Sept 2026 | HAPPY DYNAMITE 25th Anniversary | DJ Shimamura, YOSHIMASA |
 | Sat, 26 Sept 2026 | neurosonic | MAYUDEPTH, YAI., edge |
 | Mon, 5 Oct 2026 | VGM Sound Collision | --- mr --- |
@@ -17,7 +18,6 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with 
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
 | Fri, 16 Oct 2026 | Liminal Hour | tech-nas |
 | Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
-| Sat, 24 Oct 2026 | PSY LIFE | PONTA |
 
 ## Address
 

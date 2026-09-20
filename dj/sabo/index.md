@@ -1,14 +1,15 @@
 # Sabo
 
-Sabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+Sabo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
-Sabo is a house and deep house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Austin, Berlin, Chicago and Denver and 14 more. Often billed alongside Goldcap, ELIF and SATICA. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
+Sabo is a house and deep house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Austin, Berlin, Chicago and Denver and 14 more. Often billed alongside Goldcap, ELIF and SATICA. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Dec 2026 | Nectar Lounge | Seattle |
+| Sat, 19 Dec 2026 | Hidden Hall | Seattle |
 
 ## Recently played
 

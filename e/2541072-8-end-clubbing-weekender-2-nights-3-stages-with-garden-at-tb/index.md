@@ -1,6 +1,6 @@
 # [8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - Warschauer Platz 10245 Berlin
 
-[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - Warschauer Platz 10245 Berlin on Fri 2 Oct, Berlin. 28 acts on the bill: Aliar, Anthracene, Arsen and auto_timer and 24 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN] at TBA - Warschauer Platz 10245 Berlin on Fri 2 Oct, Berlin. 34 acts on the bill: Aliar, Angel Cat, Anthracene and Arsen and 30 more. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,11 @@
 ## Line-up
 
 - Aliar
+- Angel Cat
 - Anthracene
 - Arsen
+- arsen (DE)
+- Arthur M
 - auto_timer
 - AXT
 - benzii
@@ -27,14 +30,17 @@
 - griefeater
 - Kohan
 - Konakov
+- lealucifer
 - Locre
 - MARIA MAGDALENA
 - Neva Demure
+- Nyennea
 - Oleg Deluxe
 - Opium Hum
 - Pauli Cakes
 - PAX (2)
 - Reinhaudt
+- Seviliya
 - Sugar Barbie
 - Terikon
 - Warlord®

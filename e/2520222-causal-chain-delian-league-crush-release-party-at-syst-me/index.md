@@ -1,6 +1,6 @@
 # Causal Chain: Delian League 'Crush' Release Party at Système
 
-Causal Chain: Delian League 'Crush' Release Party at Système on Sun 27 Sept, Montreal. 2 acts on the bill: Anabasine and laced. Preview the line-up and save it on soundcheck.
+Causal Chain: Delian League 'Crush' Release Party at Système on Sun 27 Sept, Montreal. 2 acts on the bill: Anabasine and laced. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

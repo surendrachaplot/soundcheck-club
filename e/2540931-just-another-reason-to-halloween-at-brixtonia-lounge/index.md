@@ -1,6 +1,6 @@
 # Just Another Reason To: Halloween at Brixtonia Lounge
 
-Just Another Reason To: Halloween at Brixtonia Lounge on Sat 31 Oct, London. R&B and Afrobeats. Preview the line-up and save it on soundcheck.
+Just Another Reason To: Halloween at Brixtonia Lounge on Sat 31 Oct, London. Dancehall and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

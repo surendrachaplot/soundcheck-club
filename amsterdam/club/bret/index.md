@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "VBX SUMMER CLOSING AFTER" on Sun, 20 Sept 2026.
+BRET is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PILOT - Sidney Charles (5HRS)" on Fri, 25 Sept 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | VBX SUMMER CLOSING AFTER | Frank Haag, Lo Ds, Noach, Victor, Victor (DE) |
 | Fri, 25 Sept 2026 | PILOT - Sidney Charles (5HRS) | Sidney Charles |
 | Sat, 26 Sept 2026 | SLPFNK Summer Closing |  |
 | Fri, 2 Oct 2026 | Arapu, Natalia Roth | Arapu, Natalia Roth |
@@ -18,6 +17,7 @@ BRET is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with 
 | Thu, 22 Oct 2026 | SLACKER x BRET - ADE | Gaiser, Marc Houle, Olive F, Rio Tashan, Seth Troxler, Sindicato Del Baile, Tiga, Tom Trago |
 | Fri, 23 Oct 2026 | Mano Le Tough pres. Maeve x ADE | Carlos Valdes, Cassy, Luke Alessi, Mano Le Tough, The Drifter |
 | Fri, 23 Oct 2026 | Ogazón invites Freddy K & Rene Wise - ADE | Freddy K, Ogazón, Rene Wise |
+| Fri, 23 Oct 2026 | Anz, SHERELLE & MALLAURY x BRET x ADE | Anz, MALLAURY, SHERELLE |
 
 ## Address
 

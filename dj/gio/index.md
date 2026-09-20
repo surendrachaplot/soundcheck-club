@@ -1,13 +1,14 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 14 Oct 2026.
+GI.O is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
 
-GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: Lokschuppen Berlin, Berlin on Wed 14 Oct.
+GI.O is a techno and trance artist based in Brazil, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 14 more. Often billed alongside Cara Elizabeth, The Jakob Sister and A.N.I.. Next up: Westhafen, Leipzig on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Westhafen | Leipzig |
 | Wed, 14 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 

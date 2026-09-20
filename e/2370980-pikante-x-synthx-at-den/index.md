@@ -1,6 +1,6 @@
 # Pikante x SYNTHX at ÆDEN
 
-Pikante x SYNTHX at ÆDEN on Sat 10 Oct, Berlin. 14 acts on the bill: 4NOUK, Amo (IT), Bruno Brero and DDUCATI and 10 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Pikante x SYNTHX at ÆDEN on Sat 10 Oct, Berlin. 15 acts on the bill: 4NOUK, Amo (IT), Bruno Brero and DDUCATI and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Pikante x SYNTHX at ÆDEN on Sat 10 Oct, Berlin. 14 acts on the bill: 4NOUK, Amo
 - JUICY (DE)
 - Listenblondie
 - Pønti
+- sterni (DE)
 - subcutan
 - Vaneska
 - YOVA

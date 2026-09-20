@@ -1,14 +1,13 @@
 # Spread
 
-Spread is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LUVPOLIS presents「TRANSIT 01」" on Sun, 20 Sept 2026.
+Spread is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "entropy" on Sun, 20 Sept 2026.
 
-Spread is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Autogenesis, COLA REN, KCT (1) and LØST and 2 more. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Spread is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Autogenesis, COLA REN, KCT (1) and LØST and 2 more. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | LUVPOLIS presents「TRANSIT 01」 |  |
 | Sun, 20 Sept 2026 | entropy | Autogenesis, KCT (1), LØST, Seta Loto, Yuoto Saito |
 | Thu, 24 Sept 2026 | ToyJoy pre. Sousei Ⅲ |  |
 | Fri, 25 Sept 2026 | 『豆』vol.3 |  |

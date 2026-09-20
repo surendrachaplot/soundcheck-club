@@ -1,14 +1,15 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
+Rick Wade is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Fri, 25 Sept 2026.
 
-Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Barcelona, Buenosaires and Chicago and 9 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Flash, Washingtondc on Fri 25 Sept.
+Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Buenosaires and Chicago and 10 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Flash, Washingtondc on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Flash | Washington DC |
+| Sat, 19 Dec 2026 | Ticcle | Hobart |
 
 ## Recently played
 

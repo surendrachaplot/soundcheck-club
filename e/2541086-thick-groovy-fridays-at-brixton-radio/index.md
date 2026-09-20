@@ -1,10 +1,10 @@
 # Thick Groovy Fridays at Brixton Radio
 
-Thick Groovy Fridays at Brixton Radio on Sat 26 Sept, London. 4 acts on the bill: B-Pushr, FEEL (IT), Groove and Revlow. Techno and House. Preview the line-up and save it on soundcheck.
+Thick Groovy Fridays at Brixton Radio on Fri 2 Oct, London. 4 acts on the bill: B-Pushr, FEEL (IT), Groove and Revlow. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Fri, 2 Oct 2026 |
 | Venue | Brixton Radio |
 | City | London |
 

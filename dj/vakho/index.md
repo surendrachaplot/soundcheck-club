@@ -1,14 +1,15 @@
 # Vakho
 
-Vakho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Vakho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Vakho is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Copenhagen, Hamburg and Oslo and 1 more. Often billed alongside Zurkin, IAMEA and Sandro Jorbenadze. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Vakho is a house and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Hamburg and Newyorkcity and 2 more. Often billed alongside Zurkin, Generali Minerali and IAMEA. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
+| Sat, 17 Oct 2026 | The 1896 | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vakho is a house and techno artist tracked on soundcheck, with 35 sets logged ac
 
 ## Shares bills with
 
-Zurkin, IAMEA, Sandro Jorbenadze
+Zurkin, Generali Minerali, IAMEA
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

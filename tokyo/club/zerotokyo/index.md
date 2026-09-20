@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ESSENCE - Estella Boersma / Rebekah - TECHNO / HARD TECHNO -" on Sun, 20 Sept 2026.
+ZEROTOKYO is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ESSENCE - Estella Boersma / Rebekah - TECHNO / HARD TECHNO -" on Sun, 20 Sept 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including akii, Altemica, ATAMI and AVALON and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including akii, Altemica, ATAMI and AVALON and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 

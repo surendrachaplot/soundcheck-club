@@ -1,13 +1,14 @@
 # Zoe Pea
 
-Zoe Pea is a Dub and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Unter Deck, Munich on Fri, 9 Oct 2026.
+Zoe Pea is a Dub and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Zoe Pea is a dub and downtempo artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Rat Section, babyschön and floor length skirts. Next up: Unter Deck, Munich on Fri 9 Oct.
+Zoe Pea is a dub and downtempo artist tracked on soundcheck, with 21 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Mellowdramatics, Rat Section and babyschön. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 9 Oct 2026 | Unter Deck | Munich |
 
 ## Recently played
@@ -23,6 +24,6 @@ Zoe Pea is a dub and downtempo artist tracked on soundcheck, with 20 sets logged
 
 ## Shares bills with
 
-Rat Section, babyschön, floor length skirts
+Mellowdramatics, Rat Section, babyschön
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*

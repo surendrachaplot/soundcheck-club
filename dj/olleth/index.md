@@ -1,14 +1,15 @@
 # OLLE (TH)
 
-OLLE (TH) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
+OLLE (TH) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
 
-OLLE (TH) is a techno and electro artist tracked on soundcheck, with 38 sets logged across Bangkok, Leipzig, Seoul and Singapore and 1 more. Often billed alongside 5.5MM, Mae Happyair and Winkieb. Next up: Dual, Bangkok on Sat 26 Sept.
+OLLE (TH) is a techno and electro artist tracked on soundcheck, with 39 sets logged across Bangkok, Leipzig, Seoul and Singapore and 1 more. Often billed alongside 5.5MM, Mae Happyair and Winkieb. Next up: Dual, Bangkok on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Dual | Bangkok |
+| Fri, 2 Oct 2026 | Horn | Bangkok |
 | Fri, 16 Oct 2026 | Horn | Bangkok |
 
 ## Recently played

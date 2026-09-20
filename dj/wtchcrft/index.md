@@ -1,13 +1,14 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
+WTCHCRFT is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 24 Sept 2026.
 
-WTCHCRFT is a techno and club artist tracked on soundcheck, with 154 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Mood Ring, Newyorkcity on Thu 1 Oct.
+WTCHCRFT is a techno and club artist tracked on soundcheck, with 155 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 1 Oct 2026 | Mood Ring | New York City |
 | Sat, 24 Oct 2026 | Paragon | New York City |
 

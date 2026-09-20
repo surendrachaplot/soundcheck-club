@@ -1,14 +1,15 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Upsidedown, Osaka on Sat, 26 Sept 2026.
+Tui (1) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Upsidedown, Osaka on Sat, 26 Sept 2026.
 
-Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and Lewo Chyba. Next up: Upsidedown, Osaka on Sat 26 Sept.
+Tui (1) is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and Lewo Chyba. Next up: Upsidedown, Osaka on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Upsidedown | Osaka |
+| Sat, 17 Oct 2026 | Club Metro | Kyoto |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 
 ## Recently played
