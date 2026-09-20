@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses" on Fri, 25 Sept 2026.
+Vespers Club is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Vespers present LCN, Mvcoko, Stolen Velour, Iyesha & ex.sses" on Fri, 25 Sept 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AAKAARA, Cinna Peyghamy, Creep-P and DELARA and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 11 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

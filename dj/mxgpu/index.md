@@ -1,6 +1,6 @@
 # MXGPU
 
-MXGPU is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Lisbon on Sat, 10 Oct 2026.
+MXGPU is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Lisbon on Sat, 10 Oct 2026.
 
 MXGPU is an experimental and electronica artist based in Portugal, tracked on soundcheck, with 14 sets logged across Amsterdam, Lisbon, Porto and Singapore. Often billed alongside GPU Panic, Moullinex and Adriana Ruas. Next up: TBA, Lisbon on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ MXGPU is an experimental and electronica artist based in Portugal, tracked on so
 
 GPU Panic, Moullinex, Adriana Ruas
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgpu/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxgpu/)*

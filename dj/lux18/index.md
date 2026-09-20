@@ -1,6 +1,6 @@
 # Lux18
 
-Lux18 is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+Lux18 is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bike Jesus, Prague on Fri, 30 Oct 2026.
 
 Lux18 is a club and experimental artist tracked on soundcheck, with 6 sets logged across Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: Bike Jesus, Prague on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Lux18 is a club and experimental artist tracked on soundcheck, with 6 sets logge
 
 fetva, notinbed, Assyouti
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

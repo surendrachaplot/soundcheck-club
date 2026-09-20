@@ -1,15 +1,13 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "it's murph" on Sat, 19 Sept 2026.
+Factory Town is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "TURNSTILE: THE NEVER ENOUGH TOUR PT. 2" on Sun, 20 Sept 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | it's murph |  |
-| Sat, 19 Sept 2026 | Snow Strippers | Eera, Snow Strippers |
 | Sun, 20 Sept 2026 | TURNSTILE: THE NEVER ENOUGH TOUR PT. 2 | Mall Grab |
 | Fri, 25 Sept 2026 | Eli Brown Panic Attack Tour | Daizy, Eli Brown, Marie Vaunt, Massano |
 | Sat, 26 Sept 2026 | FISHER | FISHER |
@@ -23,4 +21,4 @@ Factory Town is a music venue in Miami listed on soundcheck. 10 upcoming gigs, w
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

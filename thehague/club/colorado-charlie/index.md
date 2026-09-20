@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Happy Feelings - Colorado Charlie Beach Closing" on Sat, 19 Sept 2026.
+Colorado Charlie is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Colorado Charlie - Season Closing Day 1 (SOLD OUT)" on Fri, 25 Sept 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 3 upcoming gigs, with line-ups including Ammé, Daughter In Law, D Stone and Emma 2000 and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 2 upcoming gigs, with line-ups including Ammé, Daughter In Law, Emma 2000 and Job de Jong and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Happy Feelings - Colorado Charlie Beach Closing | D Stone, Emma Champagne Queen, Happy Feelings, Moxes |
 | Fri, 25 Sept 2026 | Colorado Charlie - Season Closing Day 1 (SOLD OUT) | Ammé, Emma 2000, M-High, Omar+ |
 | Sat, 26 Sept 2026 | Colorado Charlie - Season Closing Day 2 (SOLD OUT) | Daughter In Law, Job de Jong, LI-YU, Michel de Hey, SOSA (UK) |
 
@@ -16,4 +15,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 3 upcoming g
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

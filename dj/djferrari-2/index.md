@@ -1,6 +1,6 @@
 # DJ Ferrari (2)
 
-DJ Ferrari (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
+DJ Ferrari (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 DJ Ferrari (2) is a trance and techno artist tracked on soundcheck, with 29 sets logged across Berlin and Leipzig. Often billed alongside :MUMM, Ostbam and alemiko. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Ferrari (2) is a trance and techno artist tracked on soundcheck, with 29 sets
 
 :MUMM, Ostbam, alemiko
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djferrari-2/)*

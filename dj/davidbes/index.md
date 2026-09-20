@@ -1,6 +1,6 @@
 # David Bes
 
-David Bes is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Malaga Sin City, Milan on Sat, 26 Sept 2026.
+David Bes is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Malaga Sin City, Milan on Sat, 26 Sept 2026.
 
 David Bes is a techno and tech house artist based in Italy, tracked on soundcheck, with 27 sets logged across Milan. Often billed alongside Stefano Riva, Avikal and Simon T. Next up: Malaga Sin City, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ David Bes is a techno and tech house artist based in Italy, tracked on soundchec
 
 Stefano Riva, Avikal, Simon T
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbes/)*

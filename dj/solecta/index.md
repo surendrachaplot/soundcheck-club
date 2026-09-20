@@ -1,6 +1,6 @@
 # SOLECTA
 
-SOLECTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 25 Sept 2026.
+SOLECTA is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 25 Sept 2026.
 
 SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh and Glasgow. Often billed alongside Corran, ArthurDnB and Amber Leith. Next up: La Cheetah Club, Glasgow on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SOLECTA is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Corran, ArthurDnB, Amber Leith
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solecta/)*

@@ -1,6 +1,6 @@
 # Lezza
 
-Lezza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
+Lezza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 6 Oct 2026.
 
 Lezza is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside DJ Spaßgetränk, EZA (DE) and Paul Bauhaus. Next up: Lokschuppen Berlin, Berlin on Tue 6 Oct.
 
@@ -22,4 +22,4 @@ Lezza is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 DJ Spaßgetränk, EZA (DE), Paul Bauhaus
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*

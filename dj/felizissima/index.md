@@ -1,6 +1,6 @@
 # Felizissima
 
-Felizissima is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Felizissima is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 Felizissima is a techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside DJ.KRISE, Rosa Luxemburg and Shifshuf. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Felizissima is a techno artist tracked on soundcheck, with 4 sets logged across 
 
 DJ.KRISE, Rosa Luxemburg, Shifshuf
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felizissima/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felizissima/)*

@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Zermatt - EP Release Show" on Sat, 19 Sept 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Pinkasol release party " on Fri, 25 Sept 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Zermatt - EP Release Show |  |
 | Fri, 25 Sept 2026 | Pinkasol release party  |  |
 | Sat, 26 Sept 2026 | Une Bonne Soirée + Noa Li |  |
 | Thu, 1 Oct 2026 | Uzak Taraf // Qatifa |  |
@@ -20,4 +19,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming gig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

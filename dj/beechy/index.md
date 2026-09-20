@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
+Beechy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
 
 Beechy is a disco and house artist tracked on soundcheck, with 7 sets logged across Liverpool and Manchester. Often billed alongside Izaac Moses, Touch Of Funk and AC Groove. Next up: Frederik's Bar, Liverpool on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Beechy is a disco and house artist tracked on soundcheck, with 7 sets logged acr
 
 Izaac Moses, Touch Of Funk, AC Groove
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

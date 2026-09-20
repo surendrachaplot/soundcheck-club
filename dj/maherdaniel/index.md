@@ -1,14 +1,13 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
+Maher Daniel is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 26 Sept 2026.
 
-Maher Daniel is a house and minimal artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Sophie Festival, Malaga on Sat 19 Sept.
+Maher Daniel is a house and minimal artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
 | Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
@@ -18,6 +17,7 @@ Maher Daniel is a house and minimal artist tracked on soundcheck, with 107 sets 
 
 ## Recently played
 
+- Sophie Festival, Malaga — Sat, 19 Sept 2026
 - Port of Belgrade, Belgrade — Sat, 22 Aug 2026
 - Playa Soleil Ibiza, Ibiza — Wed, 19 Aug 2026
 - Refuge, New York City — Sat, 18 Jul 2026
@@ -25,10 +25,9 @@ Maher Daniel is a house and minimal artist tracked on soundcheck, with 107 sets 
 - Ku Barcelona, Barcelona — Sun, 7 Jun 2026
 - Club Space Miami, Miami — Sat, 23 May 2026
 - Flash, Washington DC — Sun, 17 May 2026
-- Goya Social Club, Madrid — Sat, 9 May 2026
 
 ## Shares bills with
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

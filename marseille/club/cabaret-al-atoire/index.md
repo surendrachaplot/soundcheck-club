@@ -1,6 +1,6 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "UTOPIA FESTIVAL - TOME VI" on Fri, 25 Sept 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "UTOPIA FESTIVAL - TOME VI" on Fri, 25 Sept 2026.
 
 Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 2 upcoming gigs, with line-ups including Justine Perry, Alycia Bezgo, Autechre and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
@@ -15,4 +15,4 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 2 upcomi
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

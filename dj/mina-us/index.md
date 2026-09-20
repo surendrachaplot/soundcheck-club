@@ -1,6 +1,6 @@
 # Mina (US)
 
-Mina (US) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BERHTA, Washington DC on Sat, 28 Nov 2026.
+Mina (US) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at BERHTA, Washington DC on Sat, 28 Nov 2026.
 
 Mina (US) is a tech house and house artist tracked on soundcheck, with 23 sets logged across Lyon, Philadelphia, Sydney and Washingtondc. Often billed alongside NABŪ, Victor Calderone and ojoo. Next up: BERHTA, Washingtondc on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mina (US) is a tech house and house artist tracked on soundcheck, with 23 sets l
 
 NABŪ, Victor Calderone, ojoo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina-us/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina-us/)*

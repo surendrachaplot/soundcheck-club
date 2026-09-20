@@ -1,6 +1,6 @@
 # Katamii
 
-Katamii is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 25 Sept 2026.
+Katamii is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 25 Sept 2026.
 
 Katamii is a techno and trance artist tracked on soundcheck, with 76 sets logged across Belgrade and Budapest. Often billed alongside AGA2L, Mankind and Mirmur. Next up: Aether Club Budapest, Budapest on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Katamii is a techno and trance artist tracked on soundcheck, with 76 sets logged
 
 AGA2L, Mankind, Mirmur
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamii/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamii/)*

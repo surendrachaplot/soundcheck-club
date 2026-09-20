@@ -1,6 +1,6 @@
 # GENE
 
-GENE is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
+GENE is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
 
 GENE is a techno and minimal artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Bucharest and Philadelphia and 2 more. Often billed alongside Alec Dienaar, Aron (CH) and BioN. Next up: Frieda's Büxe, Zurich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ GENE is a techno and minimal artist based in Italy, tracked on soundcheck, with 
 
 Alec Dienaar, Aron (CH), BioN
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*

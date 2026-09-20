@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Indie Sleaze Disco Club" on Sat, 26 Sept 2026.
+The Grand Social is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Indie Sleaze Disco Club" on Sat, 26 Sept 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Nialler9. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -18,4 +18,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming gig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

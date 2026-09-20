@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Third Room: 32H" on Fri, 18 Sept 2026.
+Fvtvr is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "imagine FAMILY: Lamache ALL NIGHT LONG" on Fri, 25 Sept 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Adrien Calvet and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | The Third Room: 32H | .VRIL, Ahmet Sisman, Call Super, Chami, Christian AB, EMAN (FR), Fadi Mohem, Felix Fleer, Fred P, Isabel Soto, Nastia Reigel, ORBE, Oscar Mulero, Psyk, Rami Chami, Tauceti (FR), abs8lute |
 | Fri, 25 Sept 2026 | imagine FAMILY: Lamache ALL NIGHT LONG | Lamache |
 | Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |
 | Wed, 30 Sept 2026 | Rabanne presents Paco Club Paris | BASHKKA, Ben Klock, ISAbella, Jeff Mills |
@@ -22,4 +21,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

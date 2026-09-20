@@ -1,6 +1,6 @@
 # Grant Tyler
 
-Grant Tyler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
+Grant Tyler is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
 
 Grant Tyler is a house and tech house artist tracked on soundcheck, with 10 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside Edward Frame, Ben Wild and Joey with the Mustache. Next up: Boxers HK, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Grant Tyler is a house and tech house artist tracked on soundcheck, with 10 sets
 
 Edward Frame, Ben Wild, Joey with the Mustache
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/granttyler/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/granttyler/)*

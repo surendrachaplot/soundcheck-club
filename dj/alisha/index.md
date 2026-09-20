@@ -1,14 +1,13 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+ALISHA is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
 
-ALISHA is a house and tech house artist tracked on soundcheck, with 180 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+ALISHA is a house and tech house artist tracked on soundcheck, with 180 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Thuishaven, Amsterdam on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
@@ -36,4 +35,4 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 180 sets log
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

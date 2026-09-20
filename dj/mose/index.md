@@ -1,6 +1,6 @@
 # Mose
 
-Mose is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Midline, Miami on Sat, 17 Oct 2026.
+Mose is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Midline, Miami on Sat, 17 Oct 2026.
 
 Mose is an electronica and downtempo artist tracked on soundcheck, with 5 sets logged across Ibiza, Mexicocity, Miami and Newyorkcity. Next up: Midline, Miami on Sat 17 Oct.
 
@@ -17,4 +17,4 @@ Mose is an electronica and downtempo artist tracked on soundcheck, with 5 sets l
 - S de Supremo, Mexico City — Thu, 23 Apr 2026
 - S de Supremo, Mexico City — Thu, 24 Apr 2025
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mose/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mose/)*

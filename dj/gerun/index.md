@@ -1,6 +1,6 @@
 # Gerun
 
-Gerun is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
+Gerun is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
 
 Gerun is a house and tech house artist tracked on soundcheck, with 9 sets logged across Belgrade. Often billed alongside Benjamin., TOMÆ and 7OGI. Next up: KPGT, Belgrade on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gerun is a house and tech house artist tracked on soundcheck, with 9 sets logged
 
 Benjamin., TOMÆ, 7OGI
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerun/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerun/)*

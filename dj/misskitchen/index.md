@@ -1,14 +1,13 @@
 # Miss Kitchen
 
-Miss Kitchen is a Deep House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Birgit, Berlin on Fri, 18 Sept 2026.
+Miss Kitchen is a Deep House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Beate Uwe, Berlin on Sat, 31 Oct 2026.
 
-Miss Kitchen is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Budapest. Often billed alongside Caapi El Mesti, Krassic and Mitsuko. Next up: Birgit, Berlin on Fri 18 Sept.
+Miss Kitchen is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Budapest. Often billed alongside Caapi El Mesti, Krassic and Mitsuko. Next up: Beate Uwe, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Birgit | Berlin |
 | Sat, 31 Oct 2026 | Beate Uwe | Berlin |
 | Sat, 21 Nov 2026 | Beate Uwe | Berlin |
 
@@ -27,4 +26,4 @@ Miss Kitchen is a deep house and downtempo artist based in Germany, tracked on s
 
 Caapi El Mesti, Krassic, Mitsuko
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskitchen/)*

@@ -1,18 +1,18 @@
 # Ruffian
 
-Ruffian is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
+Ruffian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Ruffian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Cologne, Munich and Warsaw. Often billed alongside Pavo, The Darkraver and NoXa. Next up: Klub Progresja, Warsaw on Sat 19 Sept.
+Ruffian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Cologne, Munich and Warsaw. Often billed alongside Pavo, The Darkraver and NoXa. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Klub Progresja | Warsaw |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
 
+- Klub Progresja, Warsaw — Sat, 19 Sept 2026
 - Recreatiegebied Gaasperplas, Amsterdam — Sat, 4 Jul 2026
 - WestWeelde, Amsterdam — Sat, 4 Apr 2026
 - TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam — Sat, 13 Sept 2025
@@ -25,4 +25,4 @@ Ruffian is a hardcore and techno artist based in Netherlands, tracked on soundch
 
 Pavo, The Darkraver, NoXa
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffian/)*

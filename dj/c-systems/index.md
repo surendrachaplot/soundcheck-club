@@ -1,6 +1,6 @@
 # C-systems
 
-C-systems is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
+C-systems is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
 
 C-systems is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Losangeles. Often billed alongside Sago, DJMrB and Thiago Genez. Next up: Café Restaurant De Kroon, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ C-systems is a trance and progressive house artist based in United Kingdom, trac
 
 Sago, DJMrB, Thiago Genez
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*

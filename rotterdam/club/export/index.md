@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Kaikaina, Locus Error, Rosati" on Sat, 19 Sept 2026.
+export is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Conflux Club night" on Fri, 25 Sept 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including 69DB, Afra, Animistic Beliefs and Genyten and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 69DB, Afra, Animistic Beliefs and Genyten and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Kaikaina, Locus Error, Rosati | Kaikaina, Locus Error, Rosati |
 | Fri, 25 Sept 2026 | Conflux Club night | 69DB, Animistic Beliefs, Genyten, Wallis |
 | Sat, 26 Sept 2026 | Kult Funktion - Rotterdam Pride |  |
 | Fri, 2 Oct 2026 | Afra b2b L.F.T. (10 Hours Long) | Afra, L.F.T. |
@@ -19,4 +18,4 @@ export is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

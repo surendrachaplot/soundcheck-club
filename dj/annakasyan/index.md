@@ -1,6 +1,6 @@
 # Anna Kasyan
 
-Anna Kasyan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Anna Kasyan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 Anna Kasyan is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Lifka, Sciarada and The Brvtalist. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Anna Kasyan is a techno and house artist tracked on soundcheck, with 13 sets log
 
 Lifka, Sciarada, The Brvtalist
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annakasyan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annakasyan/)*

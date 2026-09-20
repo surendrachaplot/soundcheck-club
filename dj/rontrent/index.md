@@ -1,6 +1,6 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
+Ron Trent is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
 
 Ron Trent is a house and deep house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, Joe Claussell and MUSCLECARS. Next up: Klymax Discotheque, Bali on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Ron Trent is a house and deep house artist tracked on soundcheck, with 107 sets 
 
 Ben UFO, Joe Claussell, MUSCLECARS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

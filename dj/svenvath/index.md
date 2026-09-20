@@ -1,15 +1,13 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Sven Vath is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
-Sven Vath is a techno and house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: IFEMA, Madrid on Fri 18 Sept.
+Sven Vath is a techno and house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | IFEMA | Madrid |
-| Sat, 19 Sept 2026 | The Bassement | Madrid |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Audio Club | Geneva |
 | Sun, 27 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
@@ -20,9 +18,12 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 219 sets logg
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
+| Fri, 11 Dec 2026 | Pacha | Munich |
+| Sat, 12 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- The Bassement, Madrid — Sat, 19 Sept 2026
 - IFEMA, Madrid — Fri, 18 Sept 2026
 - Sparta Schwimmclub, Frankfurt — Sun, 13 Sept 2026
 - Just Cavalli Milano - Restaurant & Club, Milan — Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 219 sets logg
 - TBA, Sao Paulo — Sat, 29 Aug 2026
 - fabric, London — Fri, 21 Aug 2026
 - The View From The Shard, London — Fri, 21 Aug 2026
-- Cova Santa, Ibiza — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

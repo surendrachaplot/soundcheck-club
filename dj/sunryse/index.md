@@ -1,6 +1,6 @@
 # SunrYse
 
-SunrYse is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
+SunrYse is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
 
 SunrYse is a progressive house and trance artist tracked on soundcheck, with 32 sets logged across Austin, Miami, Newyorkcity and Philadelphia. Often billed alongside TOMMYLOGIK, Asch Pintura and Dan Miles. Next up: Aura Cocina & Bar, Newyorkcity on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ SunrYse is a progressive house and trance artist tracked on soundcheck, with 32 
 
 TOMMYLOGIK, Asch Pintura, Dan Miles
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*

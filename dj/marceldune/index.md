@@ -1,6 +1,6 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cause, London on Sat, 3 Oct 2026.
+MarcelDune is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Cause, London on Sat, 3 Oct 2026.
 
 MarcelDune is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, RayRay and ASHTREY. Next up: The Cause, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 64 sets logg
 
 Amphia, RayRay, ASHTREY
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldune/)*

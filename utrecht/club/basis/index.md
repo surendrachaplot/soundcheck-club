@@ -1,14 +1,13 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky" on Sat, 19 Sept 2026.
+BASIS is a music venue in Utrecht with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BASIS/ Stan Christ all night long" on Fri, 25 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming gigs, with line-ups including 36framez, Aphøtic, AREA ØNE and Ben Techy and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky | DJ Chuckie, Koperblond, Nala, Yucky |
 | Fri, 25 Sept 2026 | BASIS/ Stan Christ all night long | Stan Christ |
 | Sat, 26 Sept 2026 | BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers | Brent Honey, NewTone, fka.m4a |
 | Fri, 2 Oct 2026 | BASIS/ DEF/ Genetica/ LESSSS/ SANTØS | Genetica, LESSSS, SANTØS |
@@ -18,9 +17,10 @@ BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with l
 | Fri, 16 Oct 2026 | BASIS/ AREA ØNE/ BIIANCO/ Hurts/ Nick Selter | AREA ØNE, BIIANCO, Hurts |
 | Sat, 17 Oct 2026 | BASIS/ Rebekah all night long | Rebekah |
 | Sat, 24 Oct 2026 | BASIS/ Ben Techy/ Brtinzz/ Nikki/ Remon Verhoeve | Ben Techy, Brtinzz, Remon Verhoeve |
+| Fri, 30 Oct 2026 | BASIS House Special/ Cici Daze/ Djora/ Prunk/ Stefan Meser | Cici Daze, Prunk, Stefan Meser |
 
 ## Address
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

@@ -1,14 +1,13 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PL4STIC WORLD" on Sat, 19 Sept 2026.
+Haus73 is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Operation Electro" on Sat, 26 Sept 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including ACID B4RBIE, aitch, eira haul and G-Lamour and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including eira haul, G-Lamour, Selin (DE) and Swin and 1 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | PL4STIC WORLD | ACID B4RBIE, PILEA, aitch |
 | Sat, 26 Sept 2026 | Operation Electro | TBA |
 | Sat, 3 Oct 2026 | Torture the Artist pres. eDEMi with Swin (Magic Carpet, Canny Records / UK) | G-Lamour, Swin |
 | Sat, 31 Oct 2026 | Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) | Selin (DE), eira haul |
@@ -17,4 +16,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with l
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

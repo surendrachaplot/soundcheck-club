@@ -1,6 +1,6 @@
 # Cardinal Sin
 
-Cardinal Sin is a Deep House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
+Cardinal Sin is a Deep House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
 
 Cardinal Sin is a deep house and garage artist tracked on soundcheck, with 7 sets logged across Brighton, Edinburgh, London and Manchester and 1 more. Often billed alongside PHJ.WAV, Goose (3) and Josh Wuf. Next up: Cu, London on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Cardinal Sin is a deep house and garage artist tracked on soundcheck, with 7 set
 
 PHJ.WAV, Goose (3), Josh Wuf
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardinalsin/)*

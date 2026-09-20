@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fasme (Live) + Facets + the butcher bird" on Fri, 25 Sept 2026.
+The Waiting Room is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Fasme (Live) + Facets + the butcher bird" on Fri, 25 Sept 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including DJ-CK, Facets, Fasme and Graftak and 2 more. Browse upcoming dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -17,4 +17,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming gig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

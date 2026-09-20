@@ -1,14 +1,13 @@
 # Conducta
 
-Conducta is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Brickworks, Nottingham on Sat, 19 Sept 2026.
+Conducta is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Los Angeles on Fri, 2 Oct 2026.
 
-Conducta is a garage and house artist tracked on soundcheck, with 187 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: The Brickworks, Nottingham on Sat 19 Sept.
+Conducta is a garage and house artist tracked on soundcheck, with 187 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: TBA, Losangeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Brickworks | Nottingham |
 | Fri, 2 Oct 2026 | TBA | Los Angeles |
 | Sat, 3 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | Palais | London |
@@ -18,6 +17,7 @@ Conducta is a garage and house artist tracked on soundcheck, with 187 sets logge
 
 ## Recently played
 
+- The Brickworks, Nottingham — Sat, 19 Sept 2026
 - FS., Tokyo — Fri, 18 Sept 2026
 - Place Noord, Brussels — Sat, 5 Sept 2026
 - FS., Tokyo — Fri, 28 Aug 2026
@@ -25,10 +25,9 @@ Conducta is a garage and house artist tracked on soundcheck, with 187 sets logge
 - Colour Factory, London — Sat, 15 Aug 2026
 - YuYu Cine Club, Mexico City — Sat, 1 Aug 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Badaboum, Paris — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Oppidan, Tim Reaper, Todd Edwards
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

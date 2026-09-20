@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sonica Social: Konx-om-Pax DJ Set" on Fri, 25 Sept 2026.
+The Rum Shack is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sonica Social: Konx-om-Pax DJ Set" on Fri, 25 Sept 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs.
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

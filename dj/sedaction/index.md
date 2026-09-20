@@ -1,6 +1,6 @@
 # Sedaction
 
-Sedaction is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 26 Sept 2026.
+Sedaction is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 26 Sept 2026.
 
 Sedaction is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 6 more. Often billed alongside Savsannah, Anna Cainelli and AMSL. Next up: Golden Pudel Club, Hamburg on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Sedaction is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Savsannah, Anna Cainelli, AMSL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedaction/)*

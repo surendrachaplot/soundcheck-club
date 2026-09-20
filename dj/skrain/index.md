@@ -1,6 +1,6 @@
 # Sk [Rain]
 
-Sk [Rain] is a Pop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
+Sk [Rain] is a Pop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
 
 Sk [Rain] is a pop and baile funk artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Ami Wokloni, yvois and DAEDE. Next up: 90mil, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Sk [Rain] is a pop and baile funk artist tracked on soundcheck, with 7 sets logg
 
 Ami Wokloni, yvois, DAEDE
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skrain/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skrain/)*

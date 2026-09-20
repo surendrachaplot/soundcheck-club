@@ -1,6 +1,6 @@
 # Brisa Open Air
 
-Brisa Open Air is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "SIGHT x MARËA pres. Obskür, Rooléh, Saraga, De La Swing, Abdon" on Sun, 20 Sept 2026.
+Brisa Open Air is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "SIGHT x MARËA pres. Obskür, Rooléh, Saraga, De La Swing, Abdon" on Sun, 20 Sept 2026.
 
 Brisa Open Air is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Abdon, De La Swing, Obskur and Rooléh and 1 more. Browse upcoming dates, start times and who's playing. Carrer de la Forja, 8, 08850 Gavà, Barcelona.
 
@@ -14,4 +14,4 @@ Brisa Open Air is a music venue in Barcelona listed on soundcheck. 1 upcoming gi
 
 Carrer de la Forja, 8, 08850 Gavà, Barcelona, Barcelona
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/brisa-open-air/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/brisa-open-air/)*

@@ -1,6 +1,6 @@
 # Daniel Pereira
 
-Daniel Pereira is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
+Daniel Pereira is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret East London Location, London on Fri, 2 Oct 2026.
 
 Daniel Pereira is a house and electro artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Mr. Freeze, Sparky (AU) and Andy Kas. Next up: TBA - Secret East London Location, London on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Daniel Pereira is a house and electro artist based in United Kingdom, tracked on
 
 Mr. Freeze, Sparky (AU), Andy Kas
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpereira/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpereira/)*

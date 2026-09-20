@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dreamland: Peach (All Night Long)" on Sat, 19 Sept 2026.
+Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Crimewave/ KiosK/ Vera Sacra" on Wed, 23 Sept 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Backseat Driver, Bubbles (UK), Buggery Grips and Danielle and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Backseat Driver, Bubbles (UK), Buggery Grips and Danielle and 2 more. Browse upcoming dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Dreamland: Peach (All Night Long) | Peach |
 | Wed, 23 Sept 2026 | Crimewave/ KiosK/ Vera Sacra |  |
 | Fri, 25 Sept 2026 | Gut Level presents: Shackleton (live), Cellar Dweller & Gut Level DJs | Shackleton |
 | Sat, 26 Sept 2026 | Fast & Bi-Furious Sheffield | Buggery Grips, Yyre |
@@ -23,4 +22,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

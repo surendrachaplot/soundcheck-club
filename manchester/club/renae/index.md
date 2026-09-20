@@ -1,15 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Ashley's fundraiser" on Sat, 19 Sept 2026.
+renae is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "renae: Stereo Master presents Disco Demolition" on Sun, 20 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Anop, April (UK), ASHTYLR and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including April (UK), Chunky, cuci cuci coo and Esmé and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Ashley's fundraiser | ASHTYLR, Anop, FOULMOUTH, Lapalace, Lucky Bunny, Princess Elf Bar, SHERI (2), Willow J |
-| Sat, 19 Sept 2026 | renae: Léna C | Léna C |
 | Sun, 20 Sept 2026 | renae: Stereo Master presents Disco Demolition |  |
 | Fri, 25 Sept 2026 | Chorus Social 007: skywalka // Linnemann // April // Esmé | April (UK), Esmé, Linnemann, cuci cuci coo, skywalka |
 | Sat, 26 Sept 2026 | 𖦹 Sybil (All Night Long) at TOPP 𖦹 | Sybil |
@@ -18,9 +16,10 @@ renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, wit
 | Thu, 8 Oct 2026 | renae x Eat Well Fundraiser feat. Chunky, Il Bosco, Lil' Minx, Metrodome & Sarah Sweeney | Chunky, Il Bosco, Lil' Minx, Metrodome, Sarah Sweeney |
 | Sat, 10 Oct 2026 | Llou's | Jordan Villa, imad:re |
 | Sat, 24 Oct 2026 | Rhizome in t.o.p.p |  |
+| Thu, 29 Oct 2026 | Persona - Raphi & Jude Race (4hr Sets) | Jude Race |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

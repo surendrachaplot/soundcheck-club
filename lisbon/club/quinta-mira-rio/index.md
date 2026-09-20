@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DHB RECORDS POP UP" on Sun, 20 Sept 2026.
+Quinta Mira Rio is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DHB RECORDS POP UP" on Sun, 20 Sept 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Ankhoï, ANYA JAVYBZ, Edd (1) and Luke Alessi and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -16,4 +16,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

@@ -1,6 +1,6 @@
 # LIL RISK
 
-LIL RISK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+LIL RISK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 LIL RISK is a club and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin, Hongkong, Leipzig and Losangeles. Often billed alongside Amowia, Bungalovv and Hyperaktivist. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LIL RISK is a club and techno artist based in United States of America, tracked 
 
 Amowia, Bungalovv, Hyperaktivist
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*

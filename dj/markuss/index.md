@@ -1,6 +1,6 @@
 # Markuss
 
-Markuss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sidecar, Barcelona on Sun, 20 Sept 2026.
+Markuss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sidecar, Barcelona on Sun, 20 Sept 2026.
 
 Markuss is a house and deep house artist based in Spain, tracked on soundcheck, with 45 sets logged across Austin, Barcelona and Montreal. Often billed alongside CHRIS RAZZ, a$ia and Basement Scene. Next up: Sidecar, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Markuss is a house and deep house artist based in Spain, tracked on soundcheck, 
 
 CHRIS RAZZ, a$ia, Basement Scene
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markuss/)*

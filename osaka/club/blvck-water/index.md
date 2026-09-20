@@ -1,6 +1,6 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION" on Tue, 22 Sept 2026.
+Blvck Water is a music venue in Osaka with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION" on Tue, 22 Sept 2026.
 
 Blvck Water is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, with line-ups including _goodbyeforever_, amor (JP), dyn (JP) and EMIRI TSUKUI and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
@@ -21,4 +21,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 8 upcoming gigs, wit
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

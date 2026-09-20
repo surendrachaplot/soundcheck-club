@@ -1,6 +1,6 @@
 # Ilses Erika
 
-Ilses Erika is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Heatwave" on Fri, 25 Sept 2026.
+Ilses Erika is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Heatwave" on Fri, 25 Sept 2026.
 
 Ilses Erika is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including stinia3000. Browse upcoming dates, start times and who's playing. Bernhard-Göringstr.127, 04277 Leipzig.
 
@@ -14,4 +14,4 @@ Ilses Erika is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, wi
 
 Bernhard-Göringstr.127, 04277 Leipzig, Leipzig
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*

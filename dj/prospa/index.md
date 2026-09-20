@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+Prospa is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
 
 Prospa is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Austin, Barcelona and Belfast and 46 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
 
@@ -21,6 +21,7 @@ Prospa is a house and techno artist tracked on soundcheck, with 180 sets logged 
 
 ## Recently played
 
+- Randall's Island, New York City — Sat, 19 Sept 2026
 - [UNVRS], Ibiza — Wed, 16 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 13 Sept 2026
 - NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
@@ -28,10 +29,9 @@ Prospa is a house and techno artist tracked on soundcheck, with 180 sets logged 
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Santanna Mykonos, Mykonos — Mon, 24 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 12 Aug 2026
-- Pacha Ibiza, Ibiza — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

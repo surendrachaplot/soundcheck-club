@@ -1,14 +1,13 @@
 # Macca.
 
-Macca. is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Macca. is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
-Macca. is a house and disco artist tracked on soundcheck, with 53 sets logged across Dublin, Edinburgh, Ibiza and Leeds and 6 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: The Cause, London on Sat 19 Sept.
+Macca. is a house and disco artist tracked on soundcheck, with 53 sets logged across Dublin, Edinburgh, Ibiza and Leeds and 6 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Cause | London |
 | Fri, 16 Oct 2026 | The Golden Lion | Manchester |
 | Sat, 17 Oct 2026 | Movers | Nottingham |
 | Fri, 23 Oct 2026 | Night Tales Loft | London |
@@ -16,6 +15,7 @@ Macca. is a house and disco artist tracked on soundcheck, with 53 sets logged ac
 
 ## Recently played
 
+- The Cause, London — Sat, 19 Sept 2026
 - M.O.T, London — Sat, 5 Sept 2026
 - Freight Island Newcastle, Newcastle — Sat, 1 Aug 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Macca. is a house and disco artist tracked on soundcheck, with 53 sets logged ac
 - The Carpet Shop, London — Sat, 14 Mar 2026
 - 24 Kitchen Street, Liverpool — Sat, 7 Feb 2026
 - Night Tales, London — Sat, 24 Jan 2026
-- Eat Your Greens, Leeds — Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Sofie K, Secretsundaze, Cosmo Sofi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*

@@ -1,6 +1,6 @@
 # Citan -Hostel, cafe, Bar, Dining-
 
-Citan -Hostel, cafe, Bar, Dining- is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Tokyo Crossover Week 2026 at CITAN" on Sat, 26 Sept 2026.
+Citan -Hostel, cafe, Bar, Dining- is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Tokyo Crossover Week 2026 at CITAN" on Sat, 26 Sept 2026.
 
 Citan -Hostel, cafe, Bar, Dining- is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 15-2 Nihonbashi-Odenmacho, Chuo-ku, Tokyo, 103-0011 Japan.
 
@@ -14,4 +14,4 @@ Citan -Hostel, cafe, Bar, Dining- is a music venue in Tokyo listed on soundcheck
 
 15-2 Nihonbashi-Odenmacho, Chuo-ku, Tokyo, 103-0011 Japan, Tokyo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/citan-hostel-cafe-bar-dining/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/citan-hostel-cafe-bar-dining/)*

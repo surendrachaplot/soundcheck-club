@@ -1,6 +1,6 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - alte oper Frankfurt, Frankfurt on Fri, 9 Oct 2026.
+Per Hammar is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - alte oper Frankfurt, Frankfurt on Fri, 9 Oct 2026.
 
 Per Hammar is a minimal and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Olga Korol, And.re and Abbas. Next up: TBA - alte oper Frankfurt, Frankfurt on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 83 sets log
 
 Olga Korol, And.re, Abbas
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

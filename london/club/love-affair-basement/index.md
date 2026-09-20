@@ -1,6 +1,6 @@
 # Love Affair Basement
 
-Love Affair Basement is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Live at Lab: Friends with Benefits" on Wed, 7 Oct 2026.
+Love Affair Basement is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Live at Lab: Friends with Benefits" on Wed, 7 Oct 2026.
 
 Love Affair Basement is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Tiffany Black. Browse upcoming dates, start times and who's playing. 324 Hackney Road E2 7AX.
 
@@ -14,4 +14,4 @@ Love Affair Basement is a music venue in London listed on soundcheck. 1 upcoming
 
 324 Hackney Road E2 7AX, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/love-affair-basement/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/love-affair-basement/)*

@@ -1,6 +1,6 @@
 # HADI
 
-HADI is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
+HADI is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sat, 19 Sept 2026.
 
 HADI is a techno and italo disco artist based in Canada, tracked on soundcheck, with 8 sets logged across Berlin and Toronto. Often billed alongside City Dance Corporation, Alister Johnson and Anastasia Kristensen. Next up: Paradise Grapevine Winery, Toronto on Sat 19 Sept.
 
@@ -12,6 +12,7 @@ HADI is a techno and italo disco artist based in Canada, tracked on soundcheck, 
 
 ## Recently played
 
+- Paradise Grapevine Winery, Toronto — Sat, 19 Sept 2026
 - Ritter Butzke, Berlin — Sun, 21 Jun 2026
 - Standard Time, Toronto — Sat, 10 Jan 2026
 - Standard Time, Toronto — Sat, 16 Nov 2024
@@ -24,4 +25,4 @@ HADI is a techno and italo disco artist based in Canada, tracked on soundcheck, 
 
 City Dance Corporation, Alister Johnson, Anastasia Kristensen
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadi/)*

@@ -1,6 +1,6 @@
 # Mutant Pete
 
-Mutant Pete is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
+Mutant Pete is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
 
 Mutant Pete is a house and disco artist tracked on soundcheck, with 31 sets logged across Houston and Miami. Often billed alongside Terence Tabeau, Artime and Bort. Next up: Zoko Collective, Miami on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mutant Pete is a house and disco artist tracked on soundcheck, with 31 sets logg
 
 Terence Tabeau, Artime, Bort
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*

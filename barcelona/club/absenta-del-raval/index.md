@@ -1,6 +1,6 @@
 # Absenta del Raval
 
-Absenta del Raval is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Quimera — FEM EDITION: SAGAN (BER) & MORE — FREE" on Sun, 27 Sept 2026.
+Absenta del Raval is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Quimera — FEM EDITION: SAGAN (BER) & MORE — FREE" on Sun, 27 Sept 2026.
 
 Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Dön (1), DROP Dance Society and ENZOSLAV. Browse upcoming dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
 
@@ -15,4 +15,4 @@ Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming
 
 Plaça del Pes de la Palla, 5, 08001 Barcelona, España, Barcelona
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*

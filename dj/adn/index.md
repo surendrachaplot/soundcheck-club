@@ -1,6 +1,6 @@
 # ad*n
 
-ad*n is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+ad*n is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
 ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Mylania and Petz. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Impulse Tracker, Mylania, Petz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*

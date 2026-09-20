@@ -1,6 +1,6 @@
 # Pilar Jordan
 
-Pilar Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Pilar Jordan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Pilar Jordan is a house and techno artist tracked on soundcheck, with 75 sets logged across Berlin and Dusseldorf. Often billed alongside Dorsch, MELLA MARA and Lisatrix. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -13,6 +13,7 @@ Pilar Jordan is a house and techno artist tracked on soundcheck, with 75 sets lo
 
 ## Recently played
 
+- Kater, Berlin — Sat, 19 Sept 2026
 - OXI, Berlin — Fri, 21 Aug 2026
 - ://about blank, Berlin — Sat, 4 Jul 2026
 - Ritter Butzke, Berlin — Fri, 19 Jun 2026
@@ -20,10 +21,9 @@ Pilar Jordan is a house and techno artist tracked on soundcheck, with 75 sets lo
 - Beate Uwe, Berlin — Sat, 23 May 2026
 - OXI, Berlin — Fri, 1 May 2026
 - Crack Bellmer, Berlin — Sun, 26 Apr 2026
-- Giselle, Düsseldorf — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Dorsch, MELLA MARA, Lisatrix
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*

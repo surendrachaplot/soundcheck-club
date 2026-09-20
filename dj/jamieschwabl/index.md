@@ -1,6 +1,6 @@
 # Jamie Schwabl
 
-Jamie Schwabl is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+Jamie Schwabl is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
 Jamie Schwabl is a deep house and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Portland and Seattle. Often billed alongside Michael Manahan, Doza and Brian Lyons. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Jamie Schwabl is a deep house and house artist based in United States of America
 
 Michael Manahan, Doza, Brian Lyons
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieschwabl/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieschwabl/)*

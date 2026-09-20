@@ -1,6 +1,6 @@
 # TOXE
 
-TOXE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
+TOXE is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
 
 TOXE is a club and techno artist based in Sweden, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside Mechatok, Fakethias and Oli XL. Next up: St. Bartholomew's Church, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ TOXE is a club and techno artist based in Sweden, tracked on soundcheck, with 30
 
 Mechatok, Fakethias, Oli XL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*

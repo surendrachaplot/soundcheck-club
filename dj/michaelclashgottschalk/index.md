@@ -1,6 +1,6 @@
 # Michael Clash Gottschalk
 
-Michael Clash Gottschalk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Climax-Institutes, Stuttgart on Thu, 24 Sept 2026.
+Michael Clash Gottschalk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Climax-Institutes, Stuttgart on Thu, 24 Sept 2026.
 
 Michael Clash Gottschalk is a house and techno artist based in Germany, tracked on soundcheck, with 129 sets logged across Stuttgart. Often billed alongside Ben Hille, Bang and Cherry and Chamelio 3000. Next up: Climax-Institutes, Stuttgart on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Michael Clash Gottschalk is a house and techno artist based in Germany, tracked 
 
 Ben Hille, Bang and Cherry, Chamelio 3000
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelclashgottschalk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelclashgottschalk/)*

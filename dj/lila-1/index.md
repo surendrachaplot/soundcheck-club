@@ -1,6 +1,6 @@
 # LILA (1)
 
-LILA (1) is a Broken Beat and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
+LILA (1) is a Broken Beat and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
 LILA (1) is a broken beat and uk funky artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, Liverpool and London. Often billed alongside LORA S, blissy e and Beat Detective. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ LILA (1) is a broken beat and uk funky artist based in United Kingdom, tracked o
 
 LORA S, blissy e, Beat Detective
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lila-1/)*

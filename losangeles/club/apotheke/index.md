@@ -1,14 +1,13 @@
 # Apotheke
 
-Apotheke is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Feelin' Rhythm: Dirt Vibes, Beggar" on Sat, 19 Sept 2026.
+Apotheke is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sunday Sessions LA (Vinyl Only) Open Air" on Sun, 20 Sept 2026.
 
-Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Rose, ALKMST, Beggar and Dirtie Blonde and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
+Apotheke is a music venue in Losangeles listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Rose, ALKMST, Dirtie Blonde and Gay Felony and 2 more. Browse upcoming dates, start times and who's playing. 1746 N Spring St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Feelin' Rhythm: Dirt Vibes, Beggar | Beggar, Dirt Vibes |
 | Sun, 20 Sept 2026 | Sunday Sessions LA (Vinyl Only) Open Air | ALKMST, Adam Rose, Mesmé |
 | Sat, 26 Sept 2026 | WobbleArt | Gay Felony, Jen Ferrer |
 | Sun, 27 Sept 2026 | Sunday Sessions LA (Vinyl Only) Open Air | Kana Hishiya |
@@ -18,4 +17,4 @@ Apotheke is a music venue in Losangeles listed on soundcheck. 5 upcoming gigs, w
 
 1746 N Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/apotheke/)*

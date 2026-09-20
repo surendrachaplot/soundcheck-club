@@ -1,14 +1,13 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Phonox, London on Sat, 19 Sept 2026.
+Len Faki is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Else, Berlin on Sun, 20 Sept 2026.
 
-Len Faki is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Phonox, London on Sat 19 Sept.
+Len Faki is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Else, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Phonox | London |
 | Sun, 20 Sept 2026 | Else | Berlin |
 | Sat, 26 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 2 Oct 2026 | Forte Antenne | Rome |
@@ -18,6 +17,7 @@ Len Faki is a techno and house artist tracked on soundcheck, with 137 sets logge
 
 ## Recently played
 
+- Phonox, London — Sat, 19 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Forte Antenne, Rome — Sat, 5 Sept 2026
 - The Liquid Room, Edinburgh — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Len Faki is a techno and house artist tracked on soundcheck, with 137 sets logge
 - Else, Berlin — Sat, 8 Aug 2026
 - EXIL, Zurich — Sat, 8 Aug 2026
 - Lehmann Club, Stuttgart — Sat, 1 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Daria Kolosova, Elli Acula, Beste Hira
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

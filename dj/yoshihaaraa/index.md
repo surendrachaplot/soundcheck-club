@@ -1,6 +1,6 @@
 # YOSHIHAARAA
 
-YOSHIHAARAA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
+YOSHIHAARAA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at VENT, Tokyo on Fri, 23 Oct 2026.
 
 YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 86 sets logged across Seoul and Tokyo. Often billed alongside Monkey Timers, YAMARCHY and KATAINAKA. Next up: VENT, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 86 sets log
 
 Monkey Timers, YAMARCHY, KATAINAKA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshihaaraa/)*

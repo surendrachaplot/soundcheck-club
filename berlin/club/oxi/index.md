@@ -1,14 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours)" on Sat, 19 Sept 2026.
+OXI is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "smile. Festival" on Sun, 20 Sept 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Gio Goltara, Anaté, Anja Schneider and Aria Santillana and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Gio Goltara, Anaté, Anja Schneider and Aténo and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Aria Santillana, Bordello Soundsystem, James Falco, Karolina Bnv, Kidcat, Ricardo Baez, Richelle Soigni, ilbroccolovolante |
 | Sun, 20 Sept 2026 | smile. Festival | Anaté, Anja Schneider, Aténo, Franko Muçaj, Monokultur, Norman Weber, Pascal Fischer, oulcan |
 | Tue, 22 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Berfu, Lawrence Lee, Mohajer, no.name (IT) |
 | Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
@@ -18,9 +17,10 @@ OXI is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line
 | Sat, 3 Oct 2026 | Small Great House 'Garden Closing 2026' (Open Air + Indoor) | Eva Crystaltips, Kat_Es, Lavan, Loves_kills, Luca Olivotto, Meriem S, Nephews, Quadrakey, Retromigration, Shabi, Siggatunez, Small Great Things. Soundsystem, Valeria |
 | Tue, 6 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE |  |
 | Fri, 9 Oct 2026 | ELSI 5 YEARS ッ Patrizia Pellegrino (Live) + Sound Metaphors Djs & More | Franz Scala, Gropina, Leona Jacewska, Luca Elsi, Sister Effect, Sound Metaphors Djs, Tam Tam, Tommiboy, Wutu, ilbroccolovolante |
+| Sat, 10 Oct 2026 | OXI LIVE: MODULAR / SYNTHS - with Paul Ray - Berlin and Amsterdam | GVMEDNA, Jan Ritter, Mattone, Olivia Nebula, Paul Ray, TAKT130, UniKhatu, YETI (3) |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

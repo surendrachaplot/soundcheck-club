@@ -1,6 +1,6 @@
 # Lavan
 
-Lavan is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Lavan is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Lavan is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin and Dusseldorf. Often billed alongside Quadrakey, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Lavan is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Quadrakey, Eva Crystaltips, Luca Olivotto
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavan/)*

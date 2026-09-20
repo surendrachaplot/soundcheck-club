@@ -1,6 +1,6 @@
 # Kuantum
 
-Kuantum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Le Belmont, Montreal on Sun, 11 Oct 2026.
+Kuantum is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Le Belmont, Montreal on Sun, 11 Oct 2026.
 
 Kuantum is a drum & bass and bass artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside Jeska, Lissn and Wally. Next up: Le Belmont, Montreal on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Kuantum is a drum & bass and bass artist based in Canada, tracked on soundcheck,
 
 Jeska, Lissn, Wally
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuantum/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuantum/)*

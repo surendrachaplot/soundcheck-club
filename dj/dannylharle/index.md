@@ -1,6 +1,6 @@
 # Danny L Harle
 
-Danny L Harle is a Dubstep and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
+Danny L Harle is a Dubstep and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
 Danny L Harle is a dubstep and pop artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Crystallmess, Lauren Duffus and Malibu. Next up: BERHTA, Washingtondc on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Danny L Harle is a dubstep and pop artist tracked on soundcheck, with 20 sets lo
 
 Crystallmess, Lauren Duffus, Malibu
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylharle/)*

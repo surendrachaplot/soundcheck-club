@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "1-800 Girls" on Wed, 23 Sept 2026.
+Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "1-800 Girls" on Wed, 23 Sept 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including 1-800 GIRLS, Basswell, Beaux and Dom Townsend and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -20,4 +20,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, w
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

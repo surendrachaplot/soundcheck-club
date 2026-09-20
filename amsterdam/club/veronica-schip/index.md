@@ -1,14 +1,13 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NEXT" on Sat, 19 Sept 2026.
+Veronica Schip is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FEESTGEDRUIS DONDERDANS – Het Veronica Schip – 24.09.2026" on Thu, 24 Sept 2026.
 
-Veronica Schip is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Akira, ArioVistus, Baliology and Belocca and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
+Veronica Schip is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Akira, ArioVistus, Baliology and Belocca and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | NEXT | Denise Lopes, R Ξ Π |
 | Thu, 24 Sept 2026 | FEESTGEDRUIS DONDERDANS – Het Veronica Schip – 24.09.2026 | Akira, Jonathan Kaspar, Matthew Dekay, YokoO |
 | Sat, 26 Sept 2026 | CLANG | Rauschhaus |
 | Fri, 2 Oct 2026 | CROWN HOUSE | MelFerdi |
@@ -22,4 +21,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 9 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

@@ -1,6 +1,6 @@
 # AIS De La Montagne
 
-AIS De La Montagne is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+AIS De La Montagne is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 AIS De La Montagne is a disco and house artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Demi Drabe, David Vunk and Koperblond. Next up: TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ AIS De La Montagne is a disco and house artist based in Netherlands, tracked on 
 
 Demi Drabe, David Vunk, Koperblond
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisdelamontagne/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisdelamontagne/)*

@@ -1,6 +1,6 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
+PANICWORKS is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 20 Sept 2026.
 
 PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside VOX (1), Seimei and roomquake. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ PANICWORKS is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 VOX (1), Seimei, roomquake
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panicworks/)*

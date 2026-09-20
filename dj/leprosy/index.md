@@ -1,6 +1,6 @@
 # Leprosy
 
-Leprosy is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Teritorija, Riga on Sat, 31 Oct 2026.
+Leprosy is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Teritorija, Riga on Sat, 31 Oct 2026.
 
 Leprosy is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 13 sets logged across Riga. Often billed alongside MVKO, oshigakill and hitomori. Next up: Teritorija, Riga on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Leprosy is a hardcore and techno artist based in Latvia, tracked on soundcheck, 
 
 MVKO, oshigakill, hitomori
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leprosy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leprosy/)*

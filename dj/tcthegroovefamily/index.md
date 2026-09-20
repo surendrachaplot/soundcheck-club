@@ -1,6 +1,6 @@
 # TC & The Groove Family
 
-TC & The Groove Family is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
+TC & The Groove Family is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
 
 TC & The Groove Family are a jazz and house duo tracked on soundcheck, with 5 sets logged across Birmingham, London, Newcastle and Sheffield. Often billed alongside Glade Marie, Grove and Hagan. Next up: Peddler Warehouse, Sheffield on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ TC & The Groove Family are a jazz and house duo tracked on soundcheck, with 5 se
 
 Glade Marie, Grove, Hagan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tcthegroovefamily/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tcthegroovefamily/)*

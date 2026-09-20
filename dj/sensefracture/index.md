@@ -1,6 +1,6 @@
 # Sense Fracture
 
-Sense Fracture is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Giardino Nascosto, Milan on Sun, 20 Sept 2026.
+Sense Fracture is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Giardino Nascosto, Milan on Sun, 20 Sept 2026.
 
 Sense Fracture is an experimental and bass artist tracked on soundcheck, with 12 sets logged across Berlin, London, Milan and Montreal and 1 more. Often billed alongside Oxhy, m.nuella and 69DB. Next up: Giardino Nascosto, Milan on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Sense Fracture is an experimental and bass artist tracked on soundcheck, with 12
 
 Oxhy, m.nuella, 69DB
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensefracture/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensefracture/)*

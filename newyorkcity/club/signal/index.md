@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Night & Day Weekender with Konduku, CCL, Buttechno and many more" on Fri, 18 Sept 2026.
+Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nuclear Cinema presents: We Live In Public screening" on Wed, 23 Sept 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Night & Day Weekender with Konduku, CCL, Buttechno and many more | 98dots, Buttechno, CCL, Chloe Battelle, DJ Sundae, Denzel, Ekkel, Joni DJ, Konduku, Kurilo, Naone, Unai Trotti, Zurkin |
 | Wed, 23 Sept 2026 | Nuclear Cinema presents: We Live In Public screening |  |
 | Thu, 24 Sept 2026 | Ignez, Daybreak | Daybreak, Ignez |
 | Fri, 25 Sept 2026 | Earthdog presents: Evan Baggs, Inner Zone, Iggy P, djfix b2b Emkay, Mariposa, + more | Emkay, Emsho, Evan Baggs, Iggy P, Inner Zone, Jek (US), Mariposa, Matas, adobeprincess, djfix |
@@ -18,9 +17,10 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 20 upcoming gigs, w
 | Fri, 2 Oct 2026 | Night & Day: Objekt, Dan Ghenacia, Kiernan Laveaux b2b fleet.dreams, Bambi, deep creep, + more | Dan Ghenacia, Kiernan Laveaux, Objekt, Taylor Shockley, deep creep, fleet.dreams |
 | Sat, 3 Oct 2026 | Moritz von Oswald, Sarah Wreath | Moritz von Oswald, Sarah Wreath |
 | Fri, 9 Oct 2026 | Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen | Agonis, Henry Chow, Mary Yuzovskaya, Sandwell District, Shaleen |
+| Sat, 10 Oct 2026 | Galcher Lustwerk (LIVE), AceMo, Lauren Flax, Devoye  | AceMo, Devoye, Galcher Lustwerk, Lauren Flax |
 
 ## Address
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

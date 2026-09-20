@@ -1,6 +1,6 @@
 # Simon Heyliger
 
-Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 3 Oct 2026.
+Simon Heyliger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 3 Oct 2026.
 
 Simon Heyliger is a house and techno artist tracked on soundcheck, with 65 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Morgan, Kiyoshi and Martín Y Corazón. Next up: Dead Letter No. 9, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Simon Heyliger is a house and techno artist tracked on soundcheck, with 65 sets 
 
 Morgan, Kiyoshi, Martín Y Corazón
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonheyliger/)*

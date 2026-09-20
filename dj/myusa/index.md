@@ -1,6 +1,6 @@
 # myu:sa
 
-myu:sa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+myu:sa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
 myu:sa is a techno and trance artist based in Belgium, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 15 more. Often billed alongside Lolalita, waltur and Lena De Roose. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ myu:sa is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 
 Lolalita, waltur, Lena De Roose
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*

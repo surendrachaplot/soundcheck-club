@@ -1,6 +1,6 @@
 # LYDO
 
-LYDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Signal, New York City on Fri, 16 Oct 2026.
+LYDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Signal, New York City on Fri, 16 Oct 2026.
 
 LYDO is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Berlin, Boston and Brussels and 18 more. Often billed alongside Matas, BASHKKA and D.Dan. Next up: Signal, Newyorkcity on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ LYDO is a techno and house artist tracked on soundcheck, with 124 sets logged ac
 
 Matas, BASHKKA, D.Dan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

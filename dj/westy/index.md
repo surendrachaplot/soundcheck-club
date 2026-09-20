@@ -1,6 +1,6 @@
 # Westy
 
-Westy is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+Westy is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
 Westy is a house and jungle artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Bristol, Budapest and London and 2 more. Often billed alongside Tom Westy, Weston and PIP.. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Westy is a house and jungle artist based in United Kingdom, tracked on soundchec
 
 Tom Westy, Weston, PIP.
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/westy/)*

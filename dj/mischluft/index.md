@@ -1,14 +1,13 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Mischluft is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
-Mischluft is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Mischluft is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Carlswerk Victoria | Cologne |
@@ -31,4 +30,4 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 191 sets log
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

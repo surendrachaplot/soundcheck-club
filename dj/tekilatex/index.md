@@ -1,6 +1,6 @@
 # Teki Latex
 
-Teki Latex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Mia Mao, Paris on Sat, 31 Oct 2026.
+Teki Latex is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mia Mao, Paris on Sat, 31 Oct 2026.
 
 Teki Latex is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Neffa-T, Koboyo and Surusinghe. Next up: Mia Mao, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Teki Latex is a techno and house artist tracked on soundcheck, with 79 sets logg
 
 Neffa-T, Koboyo, Surusinghe
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*

@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
+X CLUB. is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 223 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 63 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: The Cause, London on Sun 20 Sept.
 
@@ -34,4 +34,4 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 223 sets logged
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

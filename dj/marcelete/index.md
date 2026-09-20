@@ -1,6 +1,6 @@
 # Marcel Été
 
-Marcel Été is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kult61, Frankfurt on Sat, 26 Sept 2026.
+Marcel Été is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kult61, Frankfurt on Sat, 26 Sept 2026.
 
 Marcel Été is a techno and progressive house artist based in Germany, tracked on soundcheck, with 4 sets logged across Frankfurt. Often billed alongside Björn Torwellen, Klanglos and Mark Reeve. Next up: Kult61, Frankfurt on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Marcel Été is a techno and progressive house artist based in Germany, tracked 
 
 Björn Torwellen, Klanglos, Mark Reeve
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelete/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelete/)*

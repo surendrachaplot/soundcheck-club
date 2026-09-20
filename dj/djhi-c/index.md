@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
+DJ HI-C is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Hongkong and Kyoto and 6 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: FOLD, London on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ DJ HI-C is a techno and house artist based in Japan, tracked on soundcheck, with
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

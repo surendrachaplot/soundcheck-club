@@ -1,14 +1,13 @@
 # Nastia
 
-Nastia is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
+Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
 
-Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Fiducial Asteria, Lyon on Sat 19 Sept.
+Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: RADION, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
 | Fri, 25 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | OFF-Club | Brussels |
 | Sun, 27 Sept 2026 | The Rooftop at Gianpula Village | Malta |
@@ -20,9 +19,11 @@ Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged 
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Fri, 6 Nov 2026 | Joshua Brooks | Manchester |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 12 Dec 2026 | not/or/ius Club | Turin |
 
 ## Recently played
 
+- Fiducial Asteria, Lyon — Sat, 19 Sept 2026
 - Tresor.West, Dortmund-essen — Sat, 12 Sept 2026
 - essaim, Paris — Fri, 31 Jul 2026
 - Studio Club Malaga, Malaga — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged 
 - RSO.BERLIN, Berlin — Sat, 18 Jul 2026
 - Les Enfants Brillants, Barcelona — Fri, 3 Jul 2026
 - Razzmatazz, Barcelona — Sat, 20 Jun 2026
-- Astron Club, Athens — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

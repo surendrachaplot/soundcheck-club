@@ -1,14 +1,13 @@
 # Secret Location
 
-Secret Location is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Yard x Maze pres. Le Derniere Goût d'Été" on Sat, 19 Sept 2026.
+Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HOTPOT x Cine Apartamento presents TT TAKEMOTO" on Thu, 24 Sept 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Andelet3, darklip.radio, DIME and Gareth Wild and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Andelet3, darklip.radio, DIME and Gareth Wild and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Yard x Maze pres. Le Derniere Goût d'Été | Max Sprauer |
 | Thu, 24 Sept 2026 | HOTPOT x Cine Apartamento presents TT TAKEMOTO | DIME, darklip.radio |
 | Sat, 26 Sept 2026 | COSMIC CODE INVITES Aliens TO SECRET RAVE | Jonny Lust, Omi on Acid, Sylvie Maziarz |
 | Sat, 26 Sept 2026 | ENTER THE REALM | Gareth Wild |
@@ -21,4 +20,4 @@ Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs
 
 To Be Announced, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

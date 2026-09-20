@@ -1,8 +1,8 @@
 # EartH
 
-EartH is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AMPERS&ONE" on Thu, 24 Sept 2026.
+EartH is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "AMPERS&ONE" on Thu, 24 Sept 2026.
 
-EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Croatian Amor, Decibella, Digitalism and DJRon and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Croatian Amor, Decibella, Digitalism and DJ Ron and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
@@ -10,7 +10,7 @@ EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with li
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |
-| Fri, 25 Sept 2026 | London Something: Jungle DnB night in the Heart of Hackney | DJRon, Decibella, Double O, SP:MC, Shabba |
+| Fri, 25 Sept 2026 | London Something: Jungle DnB night in the Heart of Hackney | DJ Ron, Decibella, Double O, SP:MC, Shabba |
 | Sat, 26 Sept 2026 | AVA London X Stay On Sight: Skin On Skin, Evian Christ, Croatian Amor + mi-el | Croatian Amor, Evian Christ, Skin On Skin, mi-el |
 | Sat, 10 Oct 2026 | Digitalism | Digitalism |
 | Sat, 17 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

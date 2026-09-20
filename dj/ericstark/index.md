@@ -1,18 +1,18 @@
 # Eric Stark
 
-Eric Stark is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Milneys, Melbourne on Sat, 19 Sept 2026.
+Eric Stark is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Revolver Upstairs, Melbourne on Wed, 23 Sept 2026.
 
-Eric Stark is a house and disco artist based in Australia, tracked on soundcheck, with 25 sets logged across Brisbane and Melbourne. Often billed alongside Stockholm Syndrome, Traxion and Amber Ferraro. Next up: Milneys, Melbourne on Sat 19 Sept.
+Eric Stark is a house and disco artist based in Australia, tracked on soundcheck, with 25 sets logged across Brisbane and Melbourne. Often billed alongside Stockholm Syndrome, Traxion and Amber Ferraro. Next up: Revolver Upstairs, Melbourne on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Milneys | Melbourne |
 | Wed, 23 Sept 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
+- Milneys, Melbourne — Sat, 19 Sept 2026
 - Dr Morse, Melbourne — Sat, 20 Jun 2026
 - OneSixOne, Melbourne — Fri, 1 May 2026
 - Collingwood Basement, Melbourne — Sat, 13 Dec 2025
@@ -20,10 +20,9 @@ Eric Stark is a house and disco artist based in Australia, tracked on soundcheck
 - Dr Morse, Melbourne — Fri, 24 Oct 2025
 - Dr Morse, Melbourne — Sat, 18 Oct 2025
 - OneSixOne, Melbourne — Fri, 17 Oct 2025
-- Milneys, Melbourne — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Stockholm Syndrome, Traxion, Amber Ferraro
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericstark/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericstark/)*

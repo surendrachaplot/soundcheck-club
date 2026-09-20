@@ -1,6 +1,6 @@
 # alterum
 
-alterum is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Drop inn, Birmingham on Sat, 26 Sept 2026.
+alterum is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Drop inn, Birmingham on Sat, 26 Sept 2026.
 
 alterum is a hardcore and drum & bass artist tracked on soundcheck, with 62 sets logged across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: The Drop inn, Birmingham on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ alterum is a hardcore and drum & bass artist tracked on soundcheck, with 62 sets
 
 3DMA, pissxie, Holly Warcup
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

@@ -1,6 +1,6 @@
 # DIME
 
-DIME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Secret Location, London on Thu, 24 Sept 2026.
+DIME is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Secret Location, London on Thu, 24 Sept 2026.
 
 DIME is a club and techno artist tracked on soundcheck, with 25 sets logged across Copenhagen, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Shyboi, Byrell The Great and LSDXOXO. Next up: Secret Location, London on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DIME is a club and techno artist tracked on soundcheck, with 25 sets logged acro
 
 Shyboi, Byrell The Great, LSDXOXO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dime/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dime/)*

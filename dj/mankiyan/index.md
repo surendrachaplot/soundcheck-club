@@ -1,6 +1,6 @@
 # Mankiyan
 
-Mankiyan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+Mankiyan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 Mankiyan is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 7 more. Often billed alongside AliA, Kafim and Casper. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Mankiyan is a techno and house artist tracked on soundcheck, with 55 sets logged
 
 AliA, Kafim, Casper
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mankiyan/)*

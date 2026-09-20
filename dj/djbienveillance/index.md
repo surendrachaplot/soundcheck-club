@@ -1,6 +1,6 @@
 # DJ Bienveillance
 
-DJ Bienveillance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
+DJ Bienveillance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
 
 DJ Bienveillance is a techno and house artist based in France, tracked on soundcheck, with 25 sets logged across Berlin, Lyon, Milan and Strasbourg. Often billed alongside Arlanoa, Amanita and Mark Gill. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ DJ Bienveillance is a techno and house artist based in France, tracked on soundc
 
 Arlanoa, Amanita, Mark Gill
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbienveillance/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbienveillance/)*

@@ -1,6 +1,6 @@
 # Pretty Pink
 
-Pretty Pink is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Outernet Live, London on Fri, 23 Oct 2026.
+Pretty Pink is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Outernet Live, London on Fri, 23 Oct 2026.
 
 Pretty Pink is a techno and progressive house artist tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Chicago and Cologne and 28 more. Often billed alongside Cosmic Gate, Thomas Lizzara and Armin van Buuren. Next up: Outernet Live, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pretty Pink is a techno and progressive house artist tracked on soundcheck, with
 
 Cosmic Gate, Thomas Lizzara, Armin van Buuren
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*

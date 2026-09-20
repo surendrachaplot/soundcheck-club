@@ -1,6 +1,6 @@
 # D3 Arts Venue
 
-D3 Arts Venue is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "KINK FEST" on Thu, 24 Sept 2026.
+D3 Arts Venue is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "KINK FEST" on Thu, 24 Sept 2026.
 
 D3 Arts Venue is a music venue in Denver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 3632 Morrison Rd Denver, CO  80219 United States.
 
@@ -14,4 +14,4 @@ D3 Arts Venue is a music venue in Denver listed on soundcheck. 1 upcoming gig. B
 
 3632 Morrison Rd Denver, CO  80219 United States, Denver
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/d3-arts-venue/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/d3-arts-venue/)*

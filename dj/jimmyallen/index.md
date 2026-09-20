@@ -1,6 +1,6 @@
 # Jimmy Allen
 
-Jimmy Allen is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Le 211, Paris on Sun, 20 Sept 2026.
+Jimmy Allen is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Le 211, Paris on Sun, 20 Sept 2026.
 
 Jimmy Allen is a house and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh, Lisbon, Liverpool and Manchester and 1 more. Often billed alongside Craig Smith, DJ Spen and Ella Knight. Next up: Le 211, Paris on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Jimmy Allen is a house and disco artist based in United Kingdom, tracked on soun
 
 Craig Smith, DJ Spen, Ella Knight
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyallen/)*

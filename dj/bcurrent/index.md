@@ -1,6 +1,6 @@
 # B Current
 
-B Current is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at murmur, Amsterdam on Sat, 26 Sept 2026.
+B Current is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at murmur, Amsterdam on Sat, 26 Sept 2026.
 
 B Current is an electronic artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam and Berlin. Often billed alongside Anacalypto, House of Optimism and Eja Penelope. Next up: murmur, Amsterdam on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ B Current is an electronic artist based in Netherlands, tracked on soundcheck, w
 
 Anacalypto, House of Optimism, Eja Penelope
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bcurrent/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bcurrent/)*

@@ -1,6 +1,6 @@
 # cara hegarty
 
-cara hegarty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 26 Sept 2026.
+cara hegarty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 26 Sept 2026.
 
 cara hegarty is a house and disco artist tracked on soundcheck, with 11 sets logged across Edinburgh. Often billed alongside OFFGRID, Phoebe Roper and Brad2Mack. Next up: People's Leisure Club, Edinburgh on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ cara hegarty is a house and disco artist tracked on soundcheck, with 11 sets log
 
 OFFGRID, Phoebe Roper, Brad2Mack
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carahegarty/)*

@@ -1,6 +1,6 @@
 # EVYA
 
-EVYA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
+EVYA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
 
 EVYA is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DERICE, Nadia Bel Air and Pamela Svart. Next up: Sensorium, Berlin on Wed 23 Sept.
 
@@ -21,4 +21,4 @@ EVYA is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 DERICE, Nadia Bel Air, Pamela Svart
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evya/)*

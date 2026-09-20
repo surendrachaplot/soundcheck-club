@@ -1,6 +1,6 @@
 # Piolinda Marcela
 
-Piolinda Marcela is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - hehehe, Toronto on Fri, 9 Oct 2026.
+Piolinda Marcela is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - hehehe, Toronto on Fri, 9 Oct 2026.
 
 Piolinda Marcela is a reggaeton and latin bass artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Aleroj, BZZHOUND and Linapary. Next up: TBA - hehehe, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Piolinda Marcela is a reggaeton and latin bass artist tracked on soundcheck, wit
 
 Aleroj, BZZHOUND, Linapary
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piolindamarcela/)*

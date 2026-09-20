@@ -1,6 +1,6 @@
 # Nafe Smallz
 
-Nafe Smallz is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
+Nafe Smallz is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
 Nafe Smallz is a tech house and house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Glasgow, Liverpool and London and 2 more. Often billed alongside FLETCH, Jaden Thompson and Joss Dean. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nafe Smallz is a tech house and house artist tracked on soundcheck, with 9 sets 
 
 FLETCH, Jaden Thompson, Joss Dean
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nafesmallz/)*

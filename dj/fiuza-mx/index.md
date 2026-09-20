@@ -1,18 +1,18 @@
 # FIUZA (MX)
 
-FIUZA (MX) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Supernatural Haus, Miami on Sat, 19 Sept 2026.
+FIUZA (MX) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-FIUZA (MX) is a techno and trance artist tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside Madison Kay, PROLETAR and KUJO (US). Next up: Supernatural Haus, Miami on Sat 19 Sept.
+FIUZA (MX) is a techno and trance artist tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside Madison Kay, PROLETAR and KUJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Supernatural Haus | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Supernatural Haus, Miami — Sat, 19 Sept 2026
 - The Boombox, Miami — Fri, 24 Apr 2026
 - The Ground at Club Space, Miami — Fri, 20 Feb 2026
 - TBA - 16909 NW 4th Ave, Miami Gardens, FL 33169, Miami — Fri, 13 Feb 2026
@@ -25,4 +25,4 @@ FIUZA (MX) is a techno and trance artist tracked on soundcheck, with 9 sets logg
 
 Madison Kay, PROLETAR, KUJO (US)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*

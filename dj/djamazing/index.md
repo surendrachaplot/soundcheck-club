@@ -1,6 +1,6 @@
 # DJ AMAZING
 
-DJ AMAZING is a Hip-Hop and R&B artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Time Out Market Rooftop, Barcelona on Thu, 1 Oct 2026.
+DJ AMAZING is a Hip-Hop and R&B artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Time Out Market Rooftop, Barcelona on Thu, 1 Oct 2026.
 
 DJ AMAZING is a hip-hop and r&b artist tracked on soundcheck, with 107 sets logged across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Denoir, Hector Hope and JAEL. Next up: Time Out Market Rooftop, Barcelona on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ DJ AMAZING is a hip-hop and r&b artist tracked on soundcheck, with 107 sets logg
 
 Denoir, Hector Hope, JAEL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djamazing/)*

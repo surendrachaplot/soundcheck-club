@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 27 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OMNOM + Kamino" on Sat, 19 Sept 2026.
+The Concourse Project is a music venue in Austin with 26 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors)" on Fri, 25 Sept 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 26 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | OMNOM + Kamino | Kamino |
 | Fri, 25 Sept 2026 | Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) | Deorro |
 | Fri, 25 Sept 2026 | Ben Sterling (Open to Close) | Ben Sterling |
 | Sat, 26 Sept 2026 | Eli Brown with Marie Vaunt + KASIA | Eli Brown, Kasia, Kasia (OFC), Marie Vaunt |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 27 upcomi
 | Thu, 8 Oct 2026 | Official 2026 ACL Fest Nights: Yousuke Yukimatsu |  |
 | Fri, 9 Oct 2026 | Official 2026 ACL Fest Nights: BUNT | DJ BAD APPLE |
 | Sat, 10 Oct 2026 | Holy Priest (Night 1) | Holy Priest |
+| Sun, 11 Oct 2026 | Holy Priest (Night 2) | Holy Priest |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

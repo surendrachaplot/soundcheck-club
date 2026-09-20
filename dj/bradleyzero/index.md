@@ -1,14 +1,13 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at public records, New York City on Sat, 19 Sept 2026.
+Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at smartbar, Chicago on Sun, 20 Sept 2026.
 
-Bradley Zero is a house and techno artist tracked on soundcheck, with 221 sets logged across Amsterdam, Austin, Bali and Bangkok and 53 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: public records, Newyorkcity on Sat 19 Sept.
+Bradley Zero is a house and techno artist tracked on soundcheck, with 221 sets logged across Amsterdam, Austin, Bali and Bangkok and 53 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: smartbar, Chicago on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | public records | New York City |
 | Sun, 20 Sept 2026 | smartbar | Chicago |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
@@ -19,6 +18,7 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 221 sets l
 
 ## Recently played
 
+- public records, New York City — Sat, 19 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - Balagan Roma, Rome — Fri, 11 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
@@ -26,10 +26,9 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 221 sets l
 - Fidelity Studio, Dublin — Fri, 21 Aug 2026
 - SAGE, Berlin — Sat, 8 Aug 2026
 - DC-10, Ibiza — Mon, 3 Aug 2026
-- Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

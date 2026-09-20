@@ -1,6 +1,6 @@
 # Tikiman
 
-Tikiman is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Tikiman is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
 Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Richard Akingbehin, Azu Tiwaline and Deadbeat. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tikiman is a dub and house artist based in Dominica, tracked on soundcheck, with
 
 Richard Akingbehin, Azu Tiwaline, Deadbeat
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tikiman/)*

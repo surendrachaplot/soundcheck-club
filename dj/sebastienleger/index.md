@@ -1,14 +1,13 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
+Sebastien Leger is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Sebastien Leger is a house and progressive house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: YoYo - Palais de Tokyo, Paris on Sat 19 Sept.
+Sebastien Leger is a house and progressive house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | YoYo - Palais de Tokyo | Paris |
 | Fri, 2 Oct 2026 | Knockdown Center | New York City |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
@@ -20,6 +19,7 @@ Sebastien Leger is a house and progressive house artist tracked on soundcheck, w
 
 ## Recently played
 
+- YoYo - Palais de Tokyo, Paris — Sat, 19 Sept 2026
 - KOKO, London — Sat, 5 Sept 2026
 - Grand Quai du Port de Montreal, Montreal — Sat, 15 Aug 2026
 - Coda, Toronto — Fri, 14 Aug 2026
@@ -27,10 +27,9 @@ Sebastien Leger is a house and progressive house artist tracked on soundcheck, w
 - Hï Ibiza, Ibiza — Mon, 29 Jun 2026
 - Unveiled, New York City — Fri, 19 Jun 2026
 - Unveiled, New York City — Fri, 19 Jun 2026
-- Ku Barcelona, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

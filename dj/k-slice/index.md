@@ -1,6 +1,6 @@
 # K-SLICE
 
-K-SLICE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Haggerston, London on Fri, 25 Sept 2026.
+K-SLICE is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Haggerston, London on Fri, 25 Sept 2026.
 
 K-SLICE is a house and club artist tracked on soundcheck, with 20 sets logged across Lisbon and London. Often billed alongside Almass Badat, Elsa Dove and JAMESON JAMESON. Next up: The Haggerston, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ K-SLICE is a house and club artist tracked on soundcheck, with 20 sets logged ac
 
 Almass Badat, Elsa Dove, JAMESON JAMESON
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-slice/)*

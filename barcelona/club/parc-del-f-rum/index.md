@@ -1,14 +1,13 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FSTVL B" on Thu, 17 Sept 2026.
+Parc del Fòrum is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
 
-Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, AARON SEVILLA, ANJELIKA SAHAKIAN and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
+Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including 6EJOU, AARON SEVILLA, ANJELIKA SAHAKIAN and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | FSTVL B |  |
 | Fri, 30 Oct 2026 | KINYXX Open Air Halloween [Balla Barcelona Festival] | ANJELIKA SAHAKIAN, DIDIXX, TvMnstr |
 | Fri, 30 Oct 2026 | Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] | 6EJOU, Cristobal Pesce, DYEN, Hades, Rowsi |
 | Fri, 30 Oct 2026 | AFRODISE Barcelona Halloween [Balla Barcelona Festival] | AARON SEVILLA |
@@ -20,4 +19,4 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming g
 
 Rambla Prim, 2-4; 08019 Barcelona; Spain, Barcelona
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-del-f-rum/)*

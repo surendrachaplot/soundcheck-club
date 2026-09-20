@@ -1,14 +1,13 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "[SOLD OUT] PLAYGIRL VOL. 20 - OPENING SEASON AT BABYLON CLUB" on Sat, 19 Sept 2026.
+Club Magno is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Antidoto Club: COUCOU CHLOE + TOCCORORO" on Thu, 24 Sept 2026.
 
-Club Magno is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including DJ Co.kr, Atrâm, COUCOU CHLOE and Danga and 2 more. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
+Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including DJ Co.kr, Atrâm, COUCOU CHLOE and Danga and 2 more. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | [SOLD OUT] PLAYGIRL VOL. 20 - OPENING SEASON AT BABYLON CLUB | Juguete, Nina GGG, TOM CHIESA |
 | Thu, 24 Sept 2026 | Antidoto Club: COUCOU CHLOE + TOCCORORO | COUCOU CHLOE, LA INDIA, TOCCORORO, Yosef (ES) |
 | Thu, 1 Oct 2026 | Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) | Danga, Nori, Ryota (JP), Yosef (ES) |
 | Thu, 15 Oct 2026 | Antidoto Club: Vigro Deep | Diego Armando, Maxvll |
@@ -18,9 +17,10 @@ Club Magno is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, wi
 | Thu, 12 Nov 2026 | Antidoto Club: Hamdi + What So Not | Hamdi (UK), What So Not, Yosef (ES) |
 | Thu, 19 Nov 2026 | Antidoto Club: FS Green | FS Green |
 | Thu, 26 Nov 2026 | Antidoto Club: DJ Seinfeld + Vagabund | DJ Seinfeld, Vagabund, Yosef (ES) |
+| Thu, 3 Dec 2026 | Antidoto Club: Cherry Boys + Fallens |  |
 
 ## Address
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

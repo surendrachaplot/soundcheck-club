@@ -1,18 +1,17 @@
 # Südbrücke Open Air
 
-Südbrücke Open Air is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VERSCHOBEN * -OPEN AIR- Electronic Garden of Love #2 Südbrücke mit EGE 363, Katy Rough, KIRK uv" on Sat, 19 Sept 2026.
+Südbrücke Open Air is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Unreal XXL Open Air Cologne (Sold out)" on Sat, 26 Sept 2026.
 
-Südbrücke Open Air is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including Cera Khin, DJ SODBRENNEN, Flex on Trax and Kalte Liebe and 2 more. Browse upcoming dates, start times and who's playing. Alfred-Schütte-Allee 34, 51105 Köln.
+Südbrücke Open Air is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Cera Khin, Kalte Liebe, KUKO and Nicolas Julian and 2 more. Browse upcoming dates, start times and who's playing. Alfred-Schütte-Allee 34, 51105 Köln.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | VERSCHOBEN * -OPEN AIR- Electronic Garden of Love #2 Südbrücke mit EGE 363, Katy Rough, KIRK uv | DJ SODBRENNEN, Flex on Trax, Katy Rough, LILLIVEE |
 | Sat, 26 Sept 2026 | Unreal XXL Open Air Cologne (Sold out) | Cera Khin, KUKO, Kalte Liebe, Nicolas Julian, TOXIMAMI, Ueberrest |
 
 ## Address
 
 Alfred-Schütte-Allee 34, 51105 Köln, Cologne
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke-open-air/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/s-dbr-cke-open-air/)*

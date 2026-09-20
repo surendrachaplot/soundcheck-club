@@ -1,14 +1,13 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Deep into Soul" on Sat, 19 Sept 2026.
+93 Feet East is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Chevry Showcase: HearThug, Jhobei, KT, Vitess" on Fri, 25 Sept 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including KT, Alexandria, Bertt and Braxton and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including KT, Alexandria, Bertt and Braxton and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Deep into Soul | Neil Pierce, Quentin Harris, Sy Sez |
 | Fri, 25 Sept 2026 | Chevry Showcase: HearThug, Jhobei, KT, Vitess | HearThug, Jhobei, KT, Vitess |
 | Sat, 26 Sept 2026 | MIOAZ Live presents Braxton & Trilucid | Bertt, Braxton, Camilla Sadaghna, Trilucid |
 | Sun, 27 Sept 2026 | PLGRN X Threads & Thrills W/ Terry Francis | KARBONI, Terry Francis, Tony Serban, TrebleMakers |
@@ -18,9 +17,10 @@
 | Sat, 17 Oct 2026 | Melio Records x 93 Feet East |  |
 | Sat, 17 Oct 2026 | TRMNL London | Alexandria, Jordan Masters, Us Two, VITO (UK) |
 | Sat, 31 Oct 2026 | The Halloween Disco |  |
+| Sat, 7 Nov 2026 | Escapada - BACK TO THE GOLDEN ERA - 93 Feet East | Carlos Aries, Jerome Six, Lee Luxe, Mark Radford, RENZO., Rhiavas |
 
 ## Address
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

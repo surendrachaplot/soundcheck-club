@@ -1,6 +1,6 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -18,6 +18,7 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Sat, 19 Sept 2026
 - Bootshaus, Cologne — Fri, 18 Sept 2026
 - Bootshaus, Cologne — Fri, 18 Sept 2026
 - Fabrik, Madrid — Sat, 12 Sept 2026
@@ -25,10 +26,9 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 - TBA, Melbourne — Sat, 5 Sept 2026
 - Home The Venue, Sydney — Fri, 4 Sept 2026
 - Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
-- Schrotty, Cologne — Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

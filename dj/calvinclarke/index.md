@@ -1,6 +1,6 @@
 # Calvin Clarke
 
-Calvin Clarke is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
+Calvin Clarke is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
 
 Calvin Clarke is a tech house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Birmingham and Dusseldorf and 8 more. Often billed alongside Marco Carola, Franky Rizardo and Mason Collective. Next up: [UNVRS], Ibiza on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Calvin Clarke is a tech house and techno artist tracked on soundcheck, with 51 s
 
 Marco Carola, Franky Rizardo, Mason Collective
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinclarke/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinclarke/)*

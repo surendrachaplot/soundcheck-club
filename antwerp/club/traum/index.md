@@ -1,14 +1,13 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Season Opening: Marco Bailey, CJ Bolland, Phemia" on Sat, 19 Sept 2026.
+TRAUM is a music venue in Antwerp with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Traum Nacht: Y U QT, Lauravioli, NC" on Fri, 25 Sept 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Season Opening: Marco Bailey, CJ Bolland, Phemia | CJ Bolland, Marco Bailey, Phemia |
 | Fri, 25 Sept 2026 | Traum Nacht: Y U QT, Lauravioli, NC | Lauravioli, Y U QT |
 | Sat, 26 Sept 2026 | Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte | Steve Cop |
 | Fri, 2 Oct 2026 | Freed with bullet tooth (UK) & PARAMIDA (GER) | Arter, Cameo Blush, DC Noises, PARAMIDA, Prinsezy, bullet tooth |
@@ -18,5 +17,6 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with l
 | Fri, 16 Oct 2026 | 9 Years of Soulful Sessions with Palms Trax | Bevan, EG (1), Lil Lawaw, Palms Trax, Zouzibabe |
 | Sat, 17 Oct 2026 | ENFNTS TERRIBLES Issue 03 - Fais Le Beau, Kasra V, NIKS b2b Nizar Sarakbi, su:zy b2b ttyfal | Fais Le Beau, Kasra V, NIKS, Nizar Sarakbi, su:zy, ttyfal |
 | Fri, 23 Oct 2026 | Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako | Paranoid London |
+| Fri, 30 Oct 2026 | Curated by Phemia: Justine Perry, Pooja B, Phemia | Justine Perry, Phemia, Pooja B |
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

@@ -1,6 +1,6 @@
 # Friendly Fires
 
-Friendly Fires is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Friendly Fires is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Friendly Fires is an electro and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Edinburgh and London. Often billed alongside 2ManyDJs, A Guy Called Gerald and Alan Braxe. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Friendly Fires is an electro and house artist based in United Kingdom, tracked o
 
 2ManyDJs, A Guy Called Gerald, Alan Braxe
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friendlyfires/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friendlyfires/)*

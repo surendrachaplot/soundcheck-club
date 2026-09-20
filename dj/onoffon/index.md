@@ -1,6 +1,6 @@
 # Onoffon
 
-Onoffon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 25 Sept 2026.
+Onoffon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 25 Sept 2026.
 
 Onoffon is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 11 more. Often billed alongside Rufo, Sebastián and Christian Arcila. Next up: Les Enfants Brillants, Barcelona on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Onoffon is a house and techno artist tracked on soundcheck, with 74 sets logged 
 
 Rufo, Sebastián, Christian Arcila
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*

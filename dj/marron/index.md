@@ -1,14 +1,13 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Sat, 19 Sept 2026.
+MARRØN is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
-MARRØN is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: Flash, Washingtondc on Sat 19 Sept.
+MARRØN is a techno and house artist tracked on soundcheck, with 267 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Blasha & Allatt, Rene Wise and Freddy K. Next up: TBA - Los Angeles, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Flash | Washington DC |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 25 Sept 2026 | Smoke & Mirrors | Chicago |
 | Sat, 26 Sept 2026 | TBA - Los Angeles | Los Angeles |
@@ -20,9 +19,11 @@ MARRØN is a techno and house artist tracked on soundcheck, with 267 sets logged
 | Sun, 25 Oct 2026 | De Fik Garden | Amsterdam |
 | Fri, 30 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 7 Nov 2026 | Universe Athens | Athens |
 
 ## Recently played
 
+- Flash, Washington DC — Sat, 19 Sept 2026
 - TBA - Brooklyn, New York City — Fri, 18 Sept 2026
 - Descent, Boston — Thu, 17 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ MARRØN is a techno and house artist tracked on soundcheck, with 267 sets logged
 - Fuchs2, Prague — Fri, 4 Sept 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Tanzhaus West, Frankfurt — Fri, 14 Aug 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Rene Wise, Freddy K
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

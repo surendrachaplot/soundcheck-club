@@ -1,15 +1,13 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Katia Curie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at radial, London on Fri, 25 Sept 2026.
 
-Katia Curie is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Katia Curie is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: radial, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
-| Sat, 19 Sept 2026 | UMI | Brussels |
 | Fri, 25 Sept 2026 | radial | London |
 | Sat, 26 Sept 2026 | Cadavra | Madrid |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
@@ -20,6 +18,7 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 117 sets lo
 
 ## Recently played
 
+- UMI, Brussels — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Virage, Paris — Fri, 11 Sept 2026
 - TBA - North London, London — Sat, 22 Aug 2026
@@ -27,10 +26,9 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 117 sets lo
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Parkcafe, Cologne — Sat, 18 Jul 2026
 - Lehmann Club, Stuttgart — Sat, 18 Jul 2026
-- La Terrrazza, Barcelona — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Nizar Sarakbi, KATIA, Felix Rupprecht
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiacurie/)*

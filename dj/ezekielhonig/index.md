@@ -1,6 +1,6 @@
 # Ezekiel Honig
 
-Ezekiel Honig is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Delight Factory, New York City on Sat, 26 Sept 2026.
+Ezekiel Honig is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Delight Factory, New York City on Sat, 26 Sept 2026.
 
 Ezekiel Honig is an ambient and experimental artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Todd Polenberg, joshue ott and Bearded Twin. Next up: Delight Factory, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ezekiel Honig is an ambient and experimental artist tracked on soundcheck, with 
 
 Todd Polenberg, joshue ott, Bearded Twin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekielhonig/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekielhonig/)*

@@ -1,6 +1,6 @@
 # Remove Me
 
-Remove Me is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The DBA, Manchester on Sat, 14 Nov 2026.
+Remove Me is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The DBA, Manchester on Sat, 14 Nov 2026.
 
 Remove Me is a progressive house and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Brussels, London and Madrid and 1 more. Often billed alongside Carl H, Vass and DJ Masda. Next up: The DBA, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Remove Me is a progressive house and techno artist tracked on soundcheck, with 2
 
 Carl H, Vass, DJ Masda
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*

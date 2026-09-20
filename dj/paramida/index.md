@@ -1,15 +1,13 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 25 Sept 2026.
 
-PARAMIDA is a house and techno artist tracked on soundcheck, with 256 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+PARAMIDA is a house and techno artist tracked on soundcheck, with 256 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: CLUB RAUM, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
-| Sat, 19 Sept 2026 | Azimut Club | Turin |
 | Fri, 25 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 26 Sept 2026 | Club Guesthouse | Bucharest |
 | Fri, 2 Oct 2026 | TRAUM | Antwerp |
@@ -22,6 +20,7 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 256 sets logge
 
 ## Recently played
 
+- Azimut Club, Turin — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
 - Jolene Downtown Miami, Miami — Sat, 12 Sept 2026
@@ -29,10 +28,9 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 256 sets logge
 - Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 28 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 25 Aug 2026
-- Motel Campo, Geneva — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

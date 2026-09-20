@@ -1,18 +1,18 @@
 # Julez (live)
 
-Julez (live) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
+Julez (live) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
 
-Julez (live) is a techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dshanna, Dr. Spree and Frisqo. Next up: Crack Bellmer, Berlin on Sat 19 Sept.
+Julez (live) is a techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dshanna, Dr. Spree and Frisqo. Next up: Void Club, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Crack Bellmer | Berlin |
 | Sat, 10 Oct 2026 | Void Club | Berlin |
 
 ## Recently played
 
+- Crack Bellmer, Berlin — Sat, 19 Sept 2026
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - TBA, Berlin — Fri, 24 Jul 2026
 - Void Club, Berlin — Sat, 7 Mar 2026
@@ -25,4 +25,4 @@ Julez (live) is a techno artist based in Germany, tracked on soundcheck, with 9 
 
 Dshanna, Dr. Spree, Frisqo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julezlive/)*

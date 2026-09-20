@@ -1,6 +1,6 @@
 # Good Tempo
 
-Good Tempo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "TOKYO SPOKEN WORD 2026" on Sun, 15 Nov 2026.
+Good Tempo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "TOKYO SPOKEN WORD 2026" on Sun, 15 Nov 2026.
 
 Good Tempo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Good Tempo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Brows
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | TOKYO SPOKEN WORD 2026 |  |
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/good-tempo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/good-tempo/)*

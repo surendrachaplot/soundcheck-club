@@ -1,18 +1,18 @@
 # Suzana
 
-Suzana is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+Suzana is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Suzana is a techno and industrial artist based in Serbia, tracked on soundcheck, with 7 sets logged across Belgrade. Often billed alongside Stameni, laccotti and Tarens. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
+Suzana is a techno and industrial artist based in Serbia, tracked on soundcheck, with 7 sets logged across Belgrade. Often billed alongside Stameni, laccotti and Tarens. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Drugstore Beograd | Belgrade |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 
 ## Recently played
 
+- Drugstore Beograd, Belgrade — Sat, 19 Sept 2026
 - Kult, Belgrade — Sat, 30 May 2026
 - Kult, Belgrade — Fri, 24 Apr 2026
 - Drugstore Beograd, Belgrade — Sat, 14 Mar 2026
@@ -23,4 +23,4 @@ Suzana is a techno and industrial artist based in Serbia, tracked on soundcheck,
 
 Stameni, laccotti, Tarens
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzana-2/)*

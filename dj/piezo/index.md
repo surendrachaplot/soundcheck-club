@@ -1,6 +1,6 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Giardino Nascosto, Milan on Sun, 20 Sept 2026.
+Piezo is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Giardino Nascosto, Milan on Sun, 20 Sept 2026.
 
 Piezo is a techno and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside upsammy, CCL and mad miran. Next up: Giardino Nascosto, Milan on Sun 20 Sept.
 
@@ -29,4 +29,4 @@ Piezo is a techno and bass artist tracked on soundcheck, with 112 sets logged ac
 
 upsammy, CCL, mad miran
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

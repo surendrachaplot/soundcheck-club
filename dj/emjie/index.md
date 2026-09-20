@@ -1,20 +1,20 @@
 # EMJIE
 
-EMJIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fuse, Brussels on Sat, 19 Sept 2026.
+EMJIE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Refuge, New York City on Sat, 3 Oct 2026.
 
-EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Fuse, Brussels on Sat 19 Sept.
+EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Refuge, Newyorkcity on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Fuse | Brussels |
 | Sat, 3 Oct 2026 | Refuge | New York City |
 | Sat, 3 Oct 2026 | Refuge | New York City |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 
 ## Recently played
 
+- Fuse, Brussels — Sat, 19 Sept 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 15 Aug 2026
 - Cova Santa, Ibiza — Fri, 14 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
@@ -22,10 +22,9 @@ EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with
 - Boomerang Beach, The Hague — Sun, 5 Jul 2026
 - Society, Brussels — Sat, 20 Jun 2026
 - Knockdown Center, New York City — Fri, 5 Jun 2026
-- Park Fort Liezele, Antwerp — Sat, 30 May 2026
 
 ## Shares bills with
 
 Nico Morano, Belben, LP Giobbi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*

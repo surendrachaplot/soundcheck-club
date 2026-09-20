@@ -1,14 +1,13 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 19 Sept 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 51 sets logged across Amsterdam, Brighton, Edinburgh and Leeds and 6 more. Often billed alongside Nicky Blackmarket, Ratpack and Shades Of Rhythm. Next up: People's Leisure Club, Edinburgh on Sat 19 Sept.
+Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 51 sets logged across Amsterdam, Brighton, Edinburgh and Leeds and 6 more. Often billed alongside Nicky Blackmarket, Ratpack and Shades Of Rhythm. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | People's Leisure Club | Edinburgh |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
@@ -16,6 +15,7 @@ Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh — Sat, 19 Sept 2026
 - TBA - Network Sheffield, Sheffield — Sat, 20 Jun 2026
 - Phonox, London — Sat, 13 Jun 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
@@ -23,10 +23,9 @@ Billy Daniel Bunter is a hardcore and jungle artist tracked on soundcheck, with 
 - 93 Feet East, London — Sat, 2 May 2026
 - Electrowerkz, London — Sat, 11 Apr 2026
 - Supperclub, Amsterdam — Sun, 29 Mar 2026
-- TBA, Amsterdam — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Nicky Blackmarket, Ratpack, Shades Of Rhythm
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billydanielbunter/)*

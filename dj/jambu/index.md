@@ -1,6 +1,6 @@
 # Jambu
 
-Jambu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Jambu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Jambu is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Patchy, jeanska and DJ Spaßgetränk. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jambu is a techno and trance artist tracked on soundcheck, with 12 sets logged a
 
 Patchy, jeanska, DJ Spaßgetränk
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu/)*

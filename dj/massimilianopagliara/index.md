@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at BASEMENT, New York City on Sat, 19 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: BASEMENT, Newyorkcity on Sat 19 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Virage, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Fri, 25 Sept 2026 | Virage | Paris |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
@@ -18,6 +17,7 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 ## Recently played
 
+- BASEMENT, New York City — Sat, 19 Sept 2026
 - Jolene Downtown Miami, Miami — Fri, 18 Sept 2026
 - Jolene Downtown Miami, Miami — Thu, 17 Sept 2026
 - Kiku Room, San Diego — Sun, 13 Sept 2026
@@ -25,10 +25,9 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 11 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Drugstore Beograd, Belgrade — Fri, 4 Sept 2026
-- Zwart Goud Record Store, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

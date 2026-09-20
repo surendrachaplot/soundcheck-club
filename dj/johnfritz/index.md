@@ -1,6 +1,6 @@
 # John Fritz
 
-John Fritz is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Space Eat & Dance, Ibiza on Sat, 26 Sept 2026.
+John Fritz is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Space Eat & Dance, Ibiza on Sat, 26 Sept 2026.
 
 John Fritz is a house and electro artist tracked on soundcheck, with 4 sets logged across Ibiza and Marseille. Often billed alongside Bart Ricardo, Justin Harris and Eddie Leader. Next up: Space Eat & Dance, Ibiza on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ John Fritz is a house and electro artist tracked on soundcheck, with 4 sets logg
 
 Bart Ricardo, Justin Harris, Eddie Leader
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfritz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfritz/)*

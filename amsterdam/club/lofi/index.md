@@ -1,14 +1,13 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Patio - Summer Closing" on Sat, 19 Sept 2026.
+Lofi is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen" on Fri, 25 Sept 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Agents Of Time, Amanda Mussi, AMORAL and Antal and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Agents Of Time, Antal, Arp Frique and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Patio - Summer Closing | AMORAL, Amanda Mussi, BIANKA, Ignez, Mary Lake, Nick Moody, Nørbak, Olivia Mendez, Phara, Setaoc Mass, TAFKAMP, Talismann, Toobris, UFO95, VIL (PT), Valody |
 | Fri, 25 Sept 2026 | Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Roger Gerressen | Bart Skils, Oliver Huntemann, Roger Gerressen, Victor Ruiz |
 | Sat, 26 Sept 2026 | Mindscape - Live set experience | Arthur Robert, Barker, Martinou, VNTM, Vera Logdanidi |
 | Sat, 3 Oct 2026 | Multigroove presents: NoXa Invites | Buzz Fuzz, Luna (1), Pavo |
@@ -18,9 +17,10 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with 
 | Sat, 10 Oct 2026 | Pre-ADE market |  |
 | Wed, 21 Oct 2026 | ADE - Patrick Mason pres MASONICS | DJ Rush, Laure Croft, Patrick Mason, Shinedoe, Yasmin Regisford |
 | Thu, 22 Oct 2026 | ADE - Hot Meal | Bad Boombox, Dr. G, Gusted, Janis Zielinski, Jessie Dols, Mija, Mischluft, MrD, Ollie Lishman, lizaliza |
+| Fri, 23 Oct 2026 | ADE - VBX | Christian AB, Dresden, E.LINA, Francesco Del Garda, Frank Haag, Marco Shuttle, Paquita Gordon |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

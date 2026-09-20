@@ -1,6 +1,6 @@
 # Auntie Chanel
 
-Auntie Chanel is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Auntie Chanel is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
 Auntie Chanel is a techno and electro artist based in United States of America, tracked on soundcheck, with 126 sets logged across Detroit and Seattle. Often billed alongside Sapphyre, Cherriel and Gallons. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Auntie Chanel is a techno and electro artist based in United States of America, 
 
 Sapphyre, Cherriel, Gallons
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntiechanel/)*

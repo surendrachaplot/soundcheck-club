@@ -1,6 +1,6 @@
 # Gabor Matty
 
-Gabor Matty is a Disco and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Gabor Matty is a Disco and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
 
 Gabor Matty is a disco and garage artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Edinburgh and Glasgow. Often billed alongside David Barbarossa, Hu-Sane and ButhoTheWarrior. Next up: The Art School, Glasgow on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Gabor Matty is a disco and garage artist based in United Kingdom, tracked on sou
 
 David Barbarossa, Hu-Sane, ButhoTheWarrior
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabormatty/)*

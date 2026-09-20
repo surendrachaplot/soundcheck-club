@@ -1,6 +1,6 @@
 # NAGEE
 
-NAGEE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Koenji Cave, Tokyo on Tue, 22 Sept 2026.
+NAGEE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Koenji Cave, Tokyo on Tue, 22 Sept 2026.
 
 NAGEE is a techno and house artist tracked on soundcheck, with 51 sets logged across Tokyo. Often billed alongside RYOHEI, BERLINER KINDL and HIZAT. Next up: Koenji Cave, Tokyo on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ NAGEE is a techno and house artist tracked on soundcheck, with 51 sets logged ac
 
 RYOHEI, BERLINER KINDL, HIZAT
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nagee/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nagee/)*

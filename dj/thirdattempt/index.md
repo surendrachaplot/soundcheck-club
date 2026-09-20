@@ -1,18 +1,18 @@
 # Third Attempt
 
-Third Attempt is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 19 Sept 2026.
+Third Attempt is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Third Attempt is a house and disco artist tracked on soundcheck, with 9 sets logged across Amsterdam, Copenhagen and Oslo. Often billed alongside Crystal Touch, Bustin' Loose and Monsieur Van Pratt. Next up: Sigurd CPH, Copenhagen on Sat 19 Sept.
+Third Attempt is a house and disco artist tracked on soundcheck, with 9 sets logged across Amsterdam, Copenhagen and Oslo. Often billed alongside Crystal Touch, Bustin' Loose and Monsieur Van Pratt. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Sigurd CPH | Copenhagen |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Sigurd CPH, Copenhagen — Sat, 19 Sept 2026
 - Jaeger, Oslo — Sat, 6 Jun 2026
 - The Villa, Oslo — Sat, 30 May 2026
 - Sigurd CPH, Copenhagen — Sat, 23 May 2026
@@ -25,4 +25,4 @@ Third Attempt is a house and disco artist tracked on soundcheck, with 9 sets log
 
 Crystal Touch, Bustin' Loose, Monsieur Van Pratt
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdattempt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdattempt/)*

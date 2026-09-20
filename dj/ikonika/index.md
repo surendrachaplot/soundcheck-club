@@ -1,6 +1,6 @@
 # Ikonika
 
-Ikonika is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Paloma, Berlin on Sat, 17 Oct 2026.
+Ikonika is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Paloma, Berlin on Sat, 17 Oct 2026.
 
 Ikonika is a techno and bass artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Bok Bok, Karen Nyame KG and State OFFF. Next up: Paloma, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ikonika is a techno and bass artist tracked on soundcheck, with 69 sets logged a
 
 Bok Bok, Karen Nyame KG, State OFFF
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*

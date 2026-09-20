@@ -1,6 +1,6 @@
 # SAVBEA
 
-SAVBEA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
+SAVBEA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
 
 SAVBEA is a techno and house artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Prague. Often billed alongside Katrixia, OKSI and XENEA LUMRA. Next up: Cross Club, Prague on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ SAVBEA is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 
 Katrixia, OKSI, XENEA LUMRA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*

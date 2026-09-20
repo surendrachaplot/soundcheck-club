@@ -1,6 +1,6 @@
 # Theon Bower
 
-Theon Bower is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Colour Factory, London on Sat, 7 Nov 2026.
+Theon Bower is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Colour Factory, London on Sat, 7 Nov 2026.
 
 Theon Bower is a house and disco artist tracked on soundcheck, with 45 sets logged across Berlin, Leeds, London and Manchester. Often billed alongside Madeline (UK), Scarlett O'Malley and Fred Mann. Next up: Colour Factory, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Theon Bower is a house and disco artist tracked on soundcheck, with 45 sets logg
 
 Madeline (UK), Scarlett O'Malley, Fred Mann
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theonbower/)*

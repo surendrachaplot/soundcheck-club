@@ -1,6 +1,6 @@
 # Lancer (2)
 
-Lancer (2) is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Lancer (2) is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
 
 Lancer (2) is an italo disco and disco artist based in Chile, tracked on soundcheck, with 37 sets logged across Berlin and Paris. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Lancer (2) is an italo disco and disco artist based in Chile, tracked on soundch
 
 Robot Girl, Audio Vacanze, Marko König
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lancer-2/)*

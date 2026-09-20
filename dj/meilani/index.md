@@ -1,6 +1,6 @@
 # MEILANI
 
-MEILANI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
+MEILANI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
 
 MEILANI is a house and techno artist tracked on soundcheck, with 5 sets logged across Belgrade. Often billed alongside Bonita, pallifaty and AKIOKI. Next up: Kult, Belgrade on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ MEILANI is a house and techno artist tracked on soundcheck, with 5 sets logged a
 
 Bonita, pallifaty, AKIOKI
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilani/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilani/)*

@@ -1,14 +1,13 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bloom" on Sat, 19 Sept 2026.
+Northcote Theatre is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Guerilla & Dark pres. fumi (extended 4 hour set)" on Sat, 21 Nov 2026.
 
-Northcote Theatre is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including David Penn, FAF (1), fumi (DE) and Kerri Chandler and 2 more. Browse upcoming dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
+Northcote Theatre is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including David Penn, fumi (DE), Kerri Chandler and Sam Divine and 2 more. Browse upcoming dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Bloom | FAF (1), Zjoso |
 | Sat, 21 Nov 2026 | Guerilla & Dark pres. fumi (extended 4 hour set) | fumi (DE) |
 | Fri, 27 Nov 2026 | Novel presents Kerri Chandler | Kerri Chandler |
 | Fri, 11 Dec 2026 | Defected Melbourne 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
@@ -17,4 +16,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 4 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

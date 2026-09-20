@@ -1,6 +1,6 @@
 # Pol K
 
-Pol K is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
+Pol K is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
 
 Pol K is a house and deep house artist tracked on soundcheck, with 55 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Carlos Vila, Nuzzo and Hugo Martinez. Next up: 303 Audiophile Bar, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Pol K is a house and deep house artist tracked on soundcheck, with 55 sets logge
 
 Carlos Vila, Nuzzo, Hugo Martinez
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pol-k/)*

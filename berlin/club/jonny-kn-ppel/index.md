@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Jonny Knüppels Auftakt zum Abschied" on Sat, 19 Sept 2026.
+Jonny Knüppel is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Jonny Knüppels Auftakt zum Abschied" on Sat, 19 Sept 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Carina Posse, Coco (2), diladï and Floco_C and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -15,4 +15,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 2 upcoming gigs,
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

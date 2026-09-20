@@ -1,14 +1,13 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Public House Hifi presents Make A Dance (M.A.D Records)" on Sat, 19 Sept 2026.
+Gingerino's Pizza is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Public House Hifi presents SECRET SPECIAL GUEST" on Sat, 26 Sept 2026.
 
-Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 7 upcoming gigs, with line-ups including Diz Jockey, Make A Dance, Red Rack'em and The Mighty Zaf and 1 more. Browse upcoming dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
+Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Diz Jockey, Red Rack'em, The Mighty Zaf and Vinny Vins. Browse upcoming dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Public House Hifi presents Make A Dance (M.A.D Records) | Diz Jockey, Make A Dance, Vinny Vins |
 | Sat, 26 Sept 2026 | Public House Hifi presents SECRET SPECIAL GUEST |  |
 | Sat, 3 Oct 2026 | Public House Hifi presents Red Rack'em (Bergerac) | Red Rack'em |
 | Sat, 10 Oct 2026 | Public House Hifi presents Diz & Vins (Public House Residents) | Diz Jockey, Vinny Vins |
@@ -20,4 +19,4 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 7 upcoming
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

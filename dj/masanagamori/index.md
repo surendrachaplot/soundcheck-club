@@ -1,6 +1,6 @@
 # MASA NAGAMORI
 
-MASA NAGAMORI is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Shibuya Club Ball, Tokyo on Tue, 22 Sept 2026.
+MASA NAGAMORI is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Shibuya Club Ball, Tokyo on Tue, 22 Sept 2026.
 
 MASA NAGAMORI is a house and club artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Moeko Nagamori, KOGO and Mulahi De Akkitum aka YAN. Next up: Shibuya Club Ball, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ MASA NAGAMORI is a house and club artist based in Japan, tracked on soundcheck, 
 
 Moeko Nagamori, KOGO, Mulahi De Akkitum aka YAN
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masanagamori/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masanagamori/)*

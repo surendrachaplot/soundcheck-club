@@ -1,6 +1,6 @@
 # AB
 
-AB is a Dancehall and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tonal, Mexico City on Tue, 15 Sept 2026.
+AB is a Dancehall and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tonal, Mexico City on Tue, 15 Sept 2026.
 
 AB is a dancehall and classical artist based in United States of America, tracked on soundcheck, with 16 sets logged across Krakow, Kyoto, Mexicocity and Toronto. Often billed alongside Ferraz, Bastian Bell and SAMIA. Next up: Tonal, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ AB is a dancehall and classical artist based in United States of America, tracke
 
 Ferraz, Bastian Bell, SAMIA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ab/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ab/)*

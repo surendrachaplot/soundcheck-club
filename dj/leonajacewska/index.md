@@ -1,6 +1,6 @@
 # Leona Jacewska
 
-Leona Jacewska is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Leona Jacewska is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
 Leona Jacewska is a techno and electro artist based in Poland, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Buchan and Franz Scala. Next up: Sameheads, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Leona Jacewska is a techno and electro artist based in Poland, tracked on soundc
 
 Charlie, Buchan, Franz Scala
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

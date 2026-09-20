@@ -1,6 +1,6 @@
 # MaXXXim
 
-MaXXXim is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kaiki, Tokyo on Fri, 2 Oct 2026.
+MaXXXim is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kaiki, Tokyo on Fri, 2 Oct 2026.
 
 MaXXXim is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Tokyo. Often billed alongside Amor Ante, Anna Morgan and DJ PS2 DESBLOQUEADO. Next up: Kaiki, Tokyo on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ MaXXXim is a bass and experimental artist based in United Kingdom, tracked on so
 
 Amor Ante, Anna Morgan, DJ PS2 DESBLOQUEADO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxxxim/)*

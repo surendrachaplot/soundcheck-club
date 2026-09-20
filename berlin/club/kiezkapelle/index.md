@@ -1,6 +1,6 @@
 # Kiezkapelle
 
-Kiezkapelle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "KAF Live" on Thu, 1 Oct 2026.
+Kiezkapelle is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "KAF Live" on Thu, 1 Oct 2026.
 
 Kiezkapelle is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Hermannstraße 99–105.
 
@@ -14,4 +14,4 @@ Kiezkapelle is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Bro
 
 Hermannstraße 99–105, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kiezkapelle/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kiezkapelle/)*

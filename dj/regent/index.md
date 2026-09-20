@@ -1,6 +1,6 @@
 # Regent
 
-Regent is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
+Regent is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
 Regent is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Bali, Berlin and Dortmund-essen and 15 more. Often billed alongside SHDW, Chontane and Hemka. Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
@@ -17,6 +17,7 @@ Regent is a techno and house artist tracked on soundcheck, with 42 sets logged a
 
 ## Recently played
 
+- Circolo Amelia, Milan — Sat, 19 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - KREUZWERK, Berlin — Sun, 16 Aug 2026
 - KALT, Strasbourg — Sat, 27 Jun 2026
@@ -24,10 +25,9 @@ Regent is a techno and house artist tracked on soundcheck, with 42 sets logged a
 - Else, Berlin — Sat, 25 Apr 2026
 - Masada, Milan — Sat, 14 Feb 2026
 - TBA, Sydney — Wed, 31 Dec 2025
-- TBA - Inner West Location, Sydney — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 SHDW, Chontane, Hemka
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

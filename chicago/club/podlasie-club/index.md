@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mouse in a Flower" on Sat, 19 Sept 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MOTIONSICK PRESENTS: TRANSPORT" on Thu, 24 Sept 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including avas, Bok Bok, Brendan Lemkin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including avas, Bok Bok, Brendan Lemkin and Carré and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Mouse in a Flower | Fergus Jones, My Flower, k.oz |
 | Thu, 24 Sept 2026 | MOTIONSICK PRESENTS: TRANSPORT | KIMBÄ |
 | Fri, 25 Sept 2026 | STRICTLY 90's | Czboogie, Gant-Man, John Simmons |
 | Fri, 25 Sept 2026 | OPEN DECKS | Brendan Lemkin |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

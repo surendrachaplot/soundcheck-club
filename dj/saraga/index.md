@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
+Saraga is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
 
 Saraga is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Brisa Open Air, Barcelona on Sun 20 Sept.
 
@@ -29,4 +29,4 @@ Saraga is a house and tech house artist tracked on soundcheck, with 75 sets logg
 
 Guy Gerber, Bedouin, AGELESS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

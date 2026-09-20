@@ -1,14 +1,13 @@
 # The Lighthouse
 
-The Lighthouse is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Bashment & Afrobeats - Shoreditch Party" on Sat, 19 Sept 2026.
+The Lighthouse is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Bashment & Afrobeats - Shoreditch Party" on Sat, 26 Sept 2026.
 
-The Lighthouse is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Tomahawk Bang. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
+The Lighthouse is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Tomahawk Bang. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 26 Sept 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 3 Oct 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 10 Oct 2026 | Bashment & Afrobeats - Shoreditch Party |  |
@@ -18,9 +17,10 @@ The Lighthouse is a music venue in London listed on soundcheck. 14 upcoming gigs
 | Sat, 31 Oct 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 7 Nov 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 | Sat, 14 Nov 2026 | Bashment & Afrobeats - Shoreditch Party |  |
+| Sat, 21 Nov 2026 | Bashment & Afrobeats - Shoreditch Party |  |
 
 ## Address
 
 62-68 Rivington Street, Shoreditch, London EC2A 3AY, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*

@@ -1,6 +1,6 @@
 # Redemptive
 
-Redemptive is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
+Redemptive is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
 
 Redemptive is a drum & bass and garage artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen and Losangeles. Often billed alongside DBADJO, Dwonji and SPNR. Next up: H15 Scene & Studio, Copenhagen on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Redemptive is a drum & bass and garage artist based in Denmark, tracked on sound
 
 DBADJO, Dwonji, SPNR
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redemptive/)*

@@ -1,14 +1,13 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Concorde 2, Brighton on Sat, 19 Sept 2026.
+SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
-SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Concorde 2, Brighton on Sat 19 Sept.
+SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Concorde 2 | Brighton |
 | Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 10 Oct 2026 | Document | Bristol |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
@@ -17,6 +16,7 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Concorde 2, Brighton — Sat, 19 Sept 2026
 - Flint Street, Baltic Triangle, Liverpool — Sat, 12 Sept 2026
 - Dune Park, Buenos Aires — Sat, 12 Sept 2026
 - Steelyard Kelham, Sheffield — Sat, 22 Aug 2026
@@ -24,10 +24,9 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 - West Street, Glasgow — Sat, 15 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
-- The Bassement, Madrid — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

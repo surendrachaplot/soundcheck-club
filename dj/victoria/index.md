@@ -1,6 +1,6 @@
 # Victoria
 
-Victoria is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
+Victoria is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
 
 Victoria is a techno and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Brussels, Bucharest and Budapest and 11 more. Often billed alongside Simon Morell, Nico Moreno and OMAKS. Next up: Kaiku, Helsinki on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Victoria is a techno and electronica artist based in United States of America, t
 
 Simon Morell, Nico Moreno, OMAKS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoria/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoria/)*

@@ -1,14 +1,13 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hoppala – After Wiesn Special" on Sat, 19 Sept 2026.
+Goldener Reiter is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Hoppala – After Wiesn Special" on Thu, 24 Sept 2026.
 
-Goldener Reiter is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including die_ley, DJ ASS TITS, DJ Business (2) and Lizzle and 1 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
+Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including die_ley, DJ ASS TITS, DJ Business (2) and Lizzle and 1 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Hoppala – After Wiesn Special |  |
 | Thu, 24 Sept 2026 | Hoppala – After Wiesn Special |  |
 | Fri, 25 Sept 2026 | Hoppala – After Wiesn Special |  |
 | Sat, 26 Sept 2026 | Hoppala – After Wiesn Special |  |
@@ -23,4 +22,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 10 upcoming gig
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

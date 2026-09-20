@@ -1,14 +1,13 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KALT, Strasbourg on Sat, 19 Sept 2026.
+FJUSHA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
-FJUSHA is a techno and trance artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside DJ Cringey, CALLUSH and Clara Cuvé. Next up: KALT, Strasbourg on Sat 19 Sept.
+FJUSHA is a techno and trance artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside DJ Cringey, CALLUSH and Clara Cuvé. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | KALT | Strasbourg |
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 | Sat, 17 Oct 2026 | Kilomètre25 | Paris |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
@@ -17,6 +16,7 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 72 sets logged 
 
 ## Recently played
 
+- KALT, Strasbourg — Sat, 19 Sept 2026
 - Bahnwärter Thiel, Munich — Sat, 29 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 28 Aug 2026
 - Edelfettwerk, Hamburg — Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 72 sets logged 
 - Kilomètre25, Paris — Sat, 20 Jun 2026
 - Lokschuppen Berlin, Berlin — Fri, 19 Jun 2026
 - ÆDEN, Berlin — Sat, 30 May 2026
-- Spook Club, Valencia — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ Cringey, CALLUSH, Clara Cuvé
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

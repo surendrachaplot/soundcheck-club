@@ -1,6 +1,6 @@
 # Equus Belli
 
-Equus Belli is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
+Equus Belli is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
 Equus Belli is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Equus Belli is a techno and house artist tracked on soundcheck, with 23 sets log
 
 A.Litique, Litoshka, Maris Shilton
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*

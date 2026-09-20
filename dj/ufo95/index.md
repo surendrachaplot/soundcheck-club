@@ -1,19 +1,19 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+UFO95 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
 
-UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Lofi, Amsterdam on Sat 19 Sept.
+UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Fri, 25 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | Paradiso | Amsterdam |
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 19 Sept 2026
 - Tresor / Globus, Berlin — Fri, 18 Sept 2026
 - Flux, Istanbul — Sat, 5 Sept 2026
 - Macadam, Nantes — Fri, 4 Sept 2026
@@ -21,10 +21,9 @@ UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged a
 - TBA - Los Angeles, Los Angeles — Sat, 1 Aug 2026
 - TBA - Denver, Denver — Fri, 31 Jul 2026
 - BASEMENT, New York City — Sat, 25 Jul 2026
-- The Lower Level, Boston — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

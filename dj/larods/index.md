@@ -1,6 +1,6 @@
 # La Rod's
 
-La Rod's is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 25 Sept 2026.
+La Rod's is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 25 Sept 2026.
 
 La Rod's is a techno and trance artist based in Cyprus, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Quolcat, Alex Pastore and Alien Rain. Next up: TBA - Secret Location, Berlin on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ La Rod's is a techno and trance artist based in Cyprus, tracked on soundcheck, w
 
 Quolcat, Alex Pastore, Alien Rain
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larods/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larods/)*

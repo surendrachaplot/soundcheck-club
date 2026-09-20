@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Paulina Panik & Decadent Jugend" on Sat, 19 Sept 2026.
+Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MissVergnügen presents AUGELEKTRIK - live" on Wed, 23 Sept 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen and 1 more. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Paulina Panik & Decadent Jugend | Paulina Panik |
 | Wed, 23 Sept 2026 | MissVergnügen presents AUGELEKTRIK - live | MissVergnügen |
 | Thu, 24 Sept 2026 | Dj Mr. Cigarette Butt |  |
 | Fri, 25 Sept 2026 | Drop Sessions Berlin | Blame (EC), DAZA, Daniel Jaramillo |
@@ -18,9 +17,10 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 12 upcoming gigs
 | Wed, 7 Oct 2026 | PingPongPremiere | MissVergnügen |
 | Wed, 14 Oct 2026 | MissVergnügen presents FRAUKE 400 - live | MissVergnügen |
 | Wed, 21 Oct 2026 | Strange Songs for Strange People | MissVergnügen |
+| Wed, 28 Oct 2026 | MissVergnügen presents Dingo`s Dream - live | MissVergnügen |
 
 ## Address
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

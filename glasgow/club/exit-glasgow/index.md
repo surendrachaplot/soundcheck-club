@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "EXIT CLUB" on Sat, 19 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "A.D.S.R w/ Somniac One, Kalopsia, DJ Smoker, 3SBAT" on Fri, 25 Sept 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including 3SBAT, Angel Negrin, Autumns and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including 3SBAT, Angel Negrin, Autumns and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | EXIT CLUB | JayJay, RRRKRTA, manu_facturer |
 | Fri, 25 Sept 2026 | A.D.S.R w/ Somniac One, Kalopsia, DJ Smoker, 3SBAT | 3SBAT, DJ Smoker, Kalopsia, Somniac One |
 | Sat, 26 Sept 2026 | UVB-76 x EXIT Glasgow [DNB / Jungle] | Gremlinz, Overlook |
 | Fri, 2 Oct 2026 | Sonica Club - Loma Doom / DEBONAIR | DEBONAIR, Loma Doom |
@@ -18,9 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs,
 | Thu, 15 Oct 2026 | MAGNETIC NORTH - An Evening for Peter Christopherson & COIL |  |
 | Sat, 17 Oct 2026 | EXIT CLUB | Brandon Lee Vear, Daichi Wada |
 | Fri, 30 Oct 2026 | Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) | Angel Negrin, ORBE |
+| Sat, 31 Oct 2026 | EXIT CLUB: Halloween | Headless Horseman, TRSSX |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

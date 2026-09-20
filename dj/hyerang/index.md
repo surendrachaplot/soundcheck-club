@@ -1,6 +1,6 @@
 # Hyerang
 
-Hyerang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
+Hyerang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
 
 Hyerang is a house and techno artist based in South Korea, tracked on soundcheck, with 111 sets logged across Seoul and Tokyo. Often billed alongside Boyoon, Kyper and Juncheol. Next up: Volnost, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Hyerang is a house and techno artist based in South Korea, tracked on soundcheck
 
 Boyoon, Kyper, Juncheol
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyerang/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyerang/)*

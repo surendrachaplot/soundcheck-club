@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Flava D is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -19,6 +19,7 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
 - Circus Tokyo, Tokyo — Sat, 12 Sept 2026
 - Circus Osaka, Osaka — Fri, 11 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
@@ -26,10 +27,9 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 - The Cause, London — Sat, 18 Jul 2026
 - Eden, Ibiza — Wed, 15 Jul 2026
 - Document, Bristol — Sat, 11 Jul 2026
-- The Ground at Club Space, Miami — Sat, 30 May 2026
 
 ## Shares bills with
 
 P Money, Whiney, Andy C
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

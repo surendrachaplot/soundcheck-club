@@ -1,6 +1,6 @@
 # Sea Urchin
 
-Sea Urchin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 22 Sept 2026.
+Sea Urchin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 22 Sept 2026.
 
 Sea Urchin is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Edinburgh. Often billed alongside Casement, DV60 and Wrisk. Next up: The Bongo Club, Edinburgh on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Sea Urchin is a techno and bass artist based in United Kingdom, tracked on sound
 
 Casement, DV60, Wrisk
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seaurchin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seaurchin/)*

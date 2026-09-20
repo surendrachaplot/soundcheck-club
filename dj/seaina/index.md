@@ -1,6 +1,6 @@
 # Seaina
 
-Seaina is a Ambient and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bogen 43, Berlin on Thu, 24 Sept 2026.
+Seaina is a Ambient and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bogen 43, Berlin on Thu, 24 Sept 2026.
 
 Seaina is an ambient and balearic artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin and Madrid. Often billed alongside TRIXYTRICKS, Ghidra and INFRABABY. Next up: Bogen 43, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Seaina is an ambient and balearic artist based in Spain, tracked on soundcheck, 
 
 TRIXYTRICKS, Ghidra, INFRABABY
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seaina/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seaina/)*

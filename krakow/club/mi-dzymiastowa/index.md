@@ -1,18 +1,17 @@
 # Międzymiastowa
 
-Międzymiastowa is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MM: WONDERLAND" on Sat, 19 Sept 2026.
+Międzymiastowa is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "MM: MYKONOS MUSE" on Sat, 26 Sept 2026.
 
-Międzymiastowa is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Sincz. Browse upcoming dates, start times and who's playing. Rynek Główny 34, Kraków, Polska.
+Międzymiastowa is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including Sincz. Browse upcoming dates, start times and who's playing. Rynek Główny 34, Kraków, Polska.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | MM: WONDERLAND |  |
 | Sat, 26 Sept 2026 | MM: MYKONOS MUSE | Sincz |
 
 ## Address
 
 Rynek Główny 34, Kraków, Polska, Krakow
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*

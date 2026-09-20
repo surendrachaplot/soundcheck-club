@@ -1,15 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Âme (Innervisions) Dj & Rodriguez Jr. Hybrid Live by SET, Safra & Konnekted" on Fri, 18 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice" on Sat, 26 Sept 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming gigs, with line-ups including ALMAS, Âme, Ben UFO and Bonita Baby and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming gigs, with line-ups including ALMAS, Ben UFO, Bonita Baby and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Âme (Innervisions) Dj & Rodriguez Jr. Hybrid Live by SET, Safra & Konnekted | Rodriguez Jr., Âme |
-| Sat, 19 Sept 2026 | MGMT DJ SET presented by Goldenvoice | Jeremy Castillo, Mishka |
 | Sat, 26 Sept 2026 | FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice | Chloé Caillet, FCUKERS, Milli Meng |
 | Sun, 27 Sept 2026 | Overmono (DJ Set) + Ben UFO presented by Goldenvoice | Ben UFO, Bonita Baby, Kaytree, Overmono, erika (SF), sfcowboy |
 | Fri, 2 Oct 2026 | SET with Mind Against All Night Long | Mind Against |
@@ -18,9 +16,11 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming 
 | Fri, 16 Oct 2026 | PW 16-Year Anniversary Night One: Detroit Love with Carl Craig & Moodymann | Carl Craig, Moodymann |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DJ Dials, Great Dane, Ivy Lab |
+| Fri, 30 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori | Roy Rosenfeld, Satori, Sebastien Leger |
+| Sat, 31 Oct 2026 | Christian Löffler presented by Public Works & Safra | ALMAS, Christian Löffler, DWSM, Gru.di |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

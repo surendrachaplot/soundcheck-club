@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
 zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
@@ -31,4 +31,4 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 98 sets logg
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

@@ -1,6 +1,6 @@
 # Local Dialect
 
-Local Dialect is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
+Local Dialect is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
 
 Local Dialect is a house and progressive house artist tracked on soundcheck, with 13 sets logged across Berlin, Denver, Newyorkcity and Philadelphia and 1 more. Often billed alongside Rïa Mehta, Shadow Walker and 8KAYS. Next up: Aura Cocina & Bar, Newyorkcity on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Local Dialect is a house and progressive house artist tracked on soundcheck, wit
 
 Rïa Mehta, Shadow Walker, 8KAYS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localdialect/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localdialect/)*

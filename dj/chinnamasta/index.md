@@ -1,19 +1,19 @@
 # Chinnamasta
 
-Chinnamasta is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
+Chinnamasta is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Toronto on Fri, 25 Sept 2026.
 
-Chinnamasta is a house and club artist based in Netherlands, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Rozaly, YoungWoman and Prince Pasensi. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
+Chinnamasta is a house and club artist based in Netherlands, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Rozaly, YoungWoman and Prince Pasensi. Next up: TBA, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Elsewhere | New York City |
 | Fri, 25 Sept 2026 | TBA | Toronto |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
+- Elsewhere, New York City — Sat, 19 Sept 2026
 - Skatecafe, Amsterdam — Fri, 11 Sept 2026
 - La Station - Gare des Mines, Paris — Fri, 31 Jul 2026
 - Worm, Rotterdam — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Chinnamasta is a house and club artist based in Netherlands, tracked on soundche
 - ZENNER, Berlin — Sun, 24 May 2026
 - Skatecafe, Amsterdam — Sat, 9 May 2026
 - Studio Wieman, Amsterdam — Mon, 27 Apr 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
 
 ## Shares bills with
 
 Rozaly, YoungWoman, Prince Pasensi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinnamasta/)*

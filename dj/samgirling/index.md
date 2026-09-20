@@ -1,14 +1,13 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Wee Bar, Belfast on Sat, 19 Sept 2026.
+Sam Girling is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 25 Sept 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: The Wee Bar, Belfast on Sat 19 Sept.
+Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Y U QT and Body Clinic. Next up: KABUL à GoGo, Utrecht on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Wee Bar | Belfast |
 | Fri, 25 Sept 2026 | KABUL à GoGo | Utrecht |
 | Sat, 26 Sept 2026 | Wigwam | Dublin |
 | Fri, 2 Oct 2026 | The Model | Nottingham |
@@ -18,6 +17,7 @@ Sam Girling is a house and garage artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- The Wee Bar, Belfast — Sat, 19 Sept 2026
 - The Villa, Oslo — Sat, 12 Sept 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - Night Tales Loft, London — Sat, 1 Aug 2026
@@ -25,10 +25,9 @@ Sam Girling is a house and garage artist based in United Kingdom, tracked on sou
 - Common Market, Belfast — Fri, 29 May 2026
 - Common Market, Belfast — Fri, 29 May 2026
 - Hidden, Manchester — Sat, 23 May 2026
-- Phonox, London — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 LAMMER, Y U QT, Body Clinic
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*

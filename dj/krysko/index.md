@@ -1,6 +1,6 @@
 # Krysko
 
-Krysko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 3 Oct 2026.
+Krysko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 3 Oct 2026.
 
 Krysko is a house and techno artist tracked on soundcheck, with 39 sets logged across Antwerp, Ibiza, Leeds and Manchester and 3 more. Often billed alongside Joe Motion, Greg Lord and Rich Reason. Next up: Eastern Bloc Records, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Krysko is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 Joe Motion, Greg Lord, Rich Reason
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*

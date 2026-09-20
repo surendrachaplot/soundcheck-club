@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
+Adrien Calvet is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
 
 Adrien Calvet is a house and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 18 more. Often billed alongside Emi Ömar, HearThug and Occibel. Next up: Stalin, Prague on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Adrien Calvet is a house and techno artist tracked on soundcheck, with 48 sets l
 
 Emi Ömar, HearThug, Occibel
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

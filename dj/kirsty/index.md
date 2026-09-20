@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+KIRSTY is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
 
 KIRSTY is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Belfast and Belgrade and 22 more. Often billed alongside Lolalita, KimberlaID and Vieze Asbak. Next up: Kilomètre25, Paris on Sat 19 Sept.
 
@@ -17,12 +17,13 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 70 sets logged a
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Room 2 Glasgow | Glasgow |
 | Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
-| Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Sat, 14 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 18 Dec 2026 | Poolen | Copenhagen |
 
 ## Recently played
 
+- Kilomètre25, Paris — Sat, 19 Sept 2026
 - Boucher Road Fields, Belfast — Sun, 30 Aug 2026
 - Wigwam, Dublin — Fri, 28 Aug 2026
 - MÄX, Zurich — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 70 sets logged a
 - Decadance, Ghent — Sun, 5 Jul 2026
 - Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
 - CCO La Rayonne, Lyon — Sat, 20 Jun 2026
-- IDRA, Manchester — Sat, 30 May 2026
 
 ## Shares bills with
 
 Lolalita, KimberlaID, Vieze Asbak
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

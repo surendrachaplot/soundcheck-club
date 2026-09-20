@@ -1,6 +1,6 @@
 # The Carlton Club
 
-The Carlton Club is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Noodlr presents" on Wed, 11 Nov 2026.
+The Carlton Club is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Noodlr presents" on Wed, 11 Nov 2026.
 
 The Carlton Club is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Musaji and Saytek. Browse upcoming dates, start times and who's playing. Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE.
 
@@ -14,4 +14,4 @@ The Carlton Club is a music venue in Manchester listed on soundcheck. 1 upcoming
 
 Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE, Manchester
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-carlton-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-carlton-club/)*

@@ -1,6 +1,6 @@
 # DJ NOT I
 
-DJ NOT I is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+DJ NOT I is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 DJ NOT I is a bass and dub artist tracked on soundcheck, with 17 sets logged across Athens and Milan. Often billed alongside Andreas Palmer, pink.wav and A. Square. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ NOT I is a bass and dub artist tracked on soundcheck, with 17 sets logged acr
 
 Andreas Palmer, pink.wav, A. Square
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoti/)*

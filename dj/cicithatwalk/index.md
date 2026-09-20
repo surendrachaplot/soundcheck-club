@@ -1,6 +1,6 @@
 # Cici That Walk
 
-Cici That Walk is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
+Cici That Walk is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
 
 Cici That Walk is a club and techno artist tracked on soundcheck, with 13 sets logged across Paris and Strasbourg. Often billed alongside A-440, Aubry and Bjr Alex. Next up: La Prairie du Canal, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cici That Walk is a club and techno artist tracked on soundcheck, with 13 sets l
 
 A-440, Aubry, Bjr Alex
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicithatwalk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicithatwalk/)*

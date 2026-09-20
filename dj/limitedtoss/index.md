@@ -1,6 +1,6 @@
 # Limited Toss
 
-Limited Toss is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Socore Factory, Osaka on Wed, 23 Sept 2026.
+Limited Toss is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Socore Factory, Osaka on Wed, 23 Sept 2026.
 
 Limited Toss is a techno and jungle artist based in Japan, tracked on soundcheck, with 30 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Ascalypso and Lomax. Next up: Socore Factory, Osaka on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ Limited Toss is a techno and jungle artist based in Japan, tracked on soundcheck
 
 KA4U, Ascalypso, Lomax
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limitedtoss/)*

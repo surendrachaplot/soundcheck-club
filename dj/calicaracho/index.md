@@ -1,6 +1,6 @@
 # Cali Caracho
 
-Cali Caracho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Amp, Munster on Fri, 30 Oct 2026.
+Cali Caracho is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Amp, Munster on Fri, 30 Oct 2026.
 
 Cali Caracho is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Dusseldorf, Hamburg and Munster. Often billed alongside Malu, Adam Charaf and Danito. Next up: Amp, Munster on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Cali Caracho is a techno and house artist based in Germany, tracked on soundchec
 
 Malu, Adam Charaf, Danito
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calicaracho/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calicaracho/)*

@@ -1,6 +1,6 @@
 # Christian Bruna
 
-Christian Bruna is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at KEYBAR, New York City on Sun, 20 Sept 2026.
+Christian Bruna is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at KEYBAR, New York City on Sun, 20 Sept 2026.
 
 Christian Bruna is a drum & bass and jungle artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside DJ Paul C, Tommy Etzi and DJ SOUL SLINGER. Next up: KEYBAR, Newyorkcity on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ Christian Bruna is a drum & bass and jungle artist tracked on soundcheck, with 6
 
 DJ Paul C, Tommy Etzi, DJ SOUL SLINGER
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbruna/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbruna/)*

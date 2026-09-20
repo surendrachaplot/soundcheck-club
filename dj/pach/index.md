@@ -1,6 +1,6 @@
 # PACH
 
-PACH is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+PACH is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 PACH is a house and tech house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ PACH is a house and tech house artist tracked on soundcheck, with 67 sets logged
 
 Marlie, ADMNTi, Rossi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

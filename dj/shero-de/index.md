@@ -1,6 +1,6 @@
 # Sherø
 
-Sherø is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Sherø is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 Sherø is a house and techno artist based in Germany, tracked on soundcheck, with 63 sets logged across Antwerp, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside 131bpm, ADAM MUNNINGS and Dj handbag. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -13,6 +13,7 @@ Sherø is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- KREUZWERK, Berlin — Sat, 19 Sept 2026
 - gART.n, Berlin — Sat, 12 Sept 2026
 - Renate, Berlin — Sat, 25 Jul 2026
 - TRAUM, Antwerp — Mon, 20 Jul 2026
@@ -20,10 +21,9 @@ Sherø is a house and techno artist based in Germany, tracked on soundcheck, wit
 - arkaoda Berlin, Berlin — Fri, 1 May 2026
 - Neue Welle, Leipzig — Sat, 25 Apr 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Apr 2026
-- Renate, Berlin — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 131bpm, ADAM MUNNINGS, Dj handbag
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shero-de/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shero-de/)*

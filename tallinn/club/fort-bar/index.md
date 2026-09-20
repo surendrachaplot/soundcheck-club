@@ -1,6 +1,6 @@
 # Fort Bar
 
-Fort Bar is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Aircraft — Tallinn / Fort Bar. 28 November. Support: Gentle Ropes" on Sat, 28 Nov 2026.
+Fort Bar is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Aircraft — Tallinn / Fort Bar. 28 November. Support: Gentle Ropes" on Sat, 28 Nov 2026.
 
 Fort Bar is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including Aircraft. Browse upcoming dates, start times and who's playing. Pikk 43, Tallinn, 10133, Estonia.
 
@@ -14,4 +14,4 @@ Fort Bar is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with 
 
 Pikk 43, Tallinn, 10133, Estonia, Tallinn
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fort-bar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fort-bar/)*

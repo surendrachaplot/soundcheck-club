@@ -1,6 +1,6 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
+Virginia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
 
 Virginia is a house and techno artist tracked on soundcheck, with 252 sets logged across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: TBA, Montreal on Sun 20 Sept.
 
@@ -29,4 +29,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 252 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

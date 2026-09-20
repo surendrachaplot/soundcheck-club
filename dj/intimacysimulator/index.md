@@ -1,6 +1,6 @@
 # Intimacy Simulator
 
-Intimacy Simulator is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
+Intimacy Simulator is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
 
 Intimacy Simulator is a techno and jungle artist based in United States of America, tracked on soundcheck, with 30 sets logged across Austin, Newyorkcity and Philadelphia. Often billed alongside Lucía Beyond, MAJESTYOFDIVINITY and Dazegxd. Next up: TBA, Philadelphia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Intimacy Simulator is a techno and jungle artist based in United States of Ameri
 
 Lucía Beyond, MAJESTYOFDIVINITY, Dazegxd
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intimacysimulator/)*

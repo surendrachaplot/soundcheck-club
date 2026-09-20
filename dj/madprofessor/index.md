@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Quinta Mira Rio, Lisbon on Fri, 25 Sept 2026.
+Mad Professor is a Dub and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Quinta Mira Rio, Lisbon on Fri, 25 Sept 2026.
 
 Mad Professor is a dub and bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside DjRUM, Tash LC and Verraco. Next up: Quinta Mira Rio, Lisbon on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 68 sets logge
 
 DjRUM, Tash LC, Verraco
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

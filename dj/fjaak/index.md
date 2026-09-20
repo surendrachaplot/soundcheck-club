@@ -1,14 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flux, Istanbul on Sat, 19 Sept 2026.
+FJAAK is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
 
-FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Flux, Istanbul on Sat 19 Sept.
+FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Bsmnt, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Flux | Istanbul |
 | Thu, 24 Sept 2026 | Bsmnt | Boston |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | TBA - NYC  | New York City |
@@ -20,9 +19,11 @@ FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged a
 | Sat, 31 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Jasna 1 | Warsaw |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
+- Flux, Istanbul — Sat, 19 Sept 2026
 - Bassiani, Tbilisi — Fri, 18 Sept 2026
 - Odonien, Cologne — Sat, 12 Sept 2026
 - Sub Club, Glasgow — Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ FJAAK is a techno and house artist tracked on soundcheck, with 264 sets logged a
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Lehmann Club, Stuttgart — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

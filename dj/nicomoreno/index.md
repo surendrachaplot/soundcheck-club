@@ -1,14 +1,13 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City on Sat, 19 Sept 2026.
+Nico Moreno is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Poolen, Copenhagen on Fri, 16 Oct 2026.
 
-Nico Moreno is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: TBA - Pabellón Oeste del Palacio de los Deportes, Mexicocity on Sat 19 Sept.
+Nico Moreno is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Poolen, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 | Fri, 16 Oct 2026 | Poolen | Copenhagen |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 6 Nov 2026 | Echostage | Washington DC |
@@ -18,6 +17,7 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 194 sets lo
 
 ## Recently played
 
+- TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City — Sat, 19 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
 - Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
 - TBA, Toronto — Sun, 6 Sept 2026
@@ -25,10 +25,9 @@ Nico Moreno is a techno and house artist tracked on soundcheck, with 194 sets lo
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Forte Antenne, Rome — Sat, 25 Jul 2026
 - Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Wed, 27 May 2026
 
 ## Shares bills with
 
 I Hate Models, DYEN, Trym
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

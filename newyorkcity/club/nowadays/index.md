@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Nonstop: Batu, DJ Masda, JASSS b2b MORENXXX, Mariposa, Roza Terenzi, Vlada b2b Vaahzer" on Sat, 19 Sept 2026.
+Nowadays is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nonstop: Batu, DJ Masda, JASSS b2b MORENXXX, Mariposa, Roza Terenzi, Vlada b2b Vaahzer" on Sat, 19 Sept 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 32 upcoming gigs, with line-ups including 1tbsp, LYDO, MORENXXX and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 32 upcoming gigs,
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

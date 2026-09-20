@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "ReSolute x Disco Tehran" on Sat, 19 Sept 2026.
+H0L0 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sublimina" on Thu, 24 Sept 2026.
 
-H0L0 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Amelia Holt and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming gigs, with line-ups including 999ADJ, Aaron Clark, Amelia Holt and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | ReSolute x Disco Tehran | Armii1n, Eshie, MIRZA, Myyuh, Nickodemus, Salar Ansari, Willy Soul, ራሄል (Rachel) |
 | Thu, 24 Sept 2026 | Sublimina | MOLTØNY, SYTHRA |
 | Fri, 25 Sept 2026 | SHEILA | Jason Kendig, Niyah West, Zeigler, maenad |
 | Sat, 26 Sept 2026 | ReSolute x Yoyaku | Chez Damier, Garrett David, Gulp, Kian OK, Lis Sarroca, Maksim, Mari.te, Mike Servito, Rachel Noon, Satoshi Tomiie, Vincent Lemieux, Yamour, limbic sis |
@@ -18,9 +17,10 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, wit
 | Sun, 18 Oct 2026 | The Ritual with Anané & Louie Vega | Anane, Louie Vega |
 | Fri, 23 Oct 2026 | Effy | Effy |
 | Sat, 24 Oct 2026 | Honcho H0L0 Takeover | 'nohup', 999ADJ, Aaron Clark, Carlos Souffront, Carrie Sours, Carrieondisco, Clark Price, Honcho, Simisea, Sterling Juan Diaz, d'Adhemar, wngdu |
+| Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! |  |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

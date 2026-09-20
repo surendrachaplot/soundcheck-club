@@ -1,6 +1,6 @@
 # Music For A While
 
-Music For A While is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sirocco Sessions: After Dark NYC" on Fri, 25 Sept 2026.
+Music For A While is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sirocco Sessions: After Dark NYC" on Fri, 25 Sept 2026.
 
 Music For A While is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gig, with line-ups including Kice and Violin Girl. Browse upcoming dates, start times and who's playing. 518 W 27th St, New York, NY 10001.
 
@@ -14,4 +14,4 @@ Music For A While is a music venue in Newyorkcity listed on soundcheck. 1 upcomi
 
 518 W 27th St, New York, NY 10001, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/music-for-a-while/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/music-for-a-while/)*

@@ -1,20 +1,20 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
+Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Felix Da Housecat is a house and techno artist tracked on soundcheck, with 70 sets logged across Antwerp, Auckland, Berlin and Bristol and 20 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
+Felix Da Housecat is a house and techno artist tracked on soundcheck, with 70 sets logged across Antwerp, Auckland, Berlin and Bristol and 20 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | House of Yes | New York City |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sat, 19 Sept 2026
 - Refuge, New York City — Sun, 30 Aug 2026
 - 528 Ibiza, Ibiza — Thu, 30 Jul 2026
 - TRAUM, Antwerp — Mon, 20 Jul 2026
@@ -22,10 +22,9 @@ Felix Da Housecat is a house and techno artist tracked on soundcheck, with 70 se
 - Standard Time, Toronto — Sat, 9 May 2026
 - Lion's Den, Miami — Fri, 1 May 2026
 - House of Yes, New York City — Sat, 25 Apr 2026
-- Liberty Hall, Sydney — Sun, 29 Mar 2026
 
 ## Shares bills with
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

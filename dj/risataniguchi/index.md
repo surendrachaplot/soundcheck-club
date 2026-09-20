@@ -1,6 +1,6 @@
 # Risa Taniguchi
 
-Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at WOMB, Tokyo on Sun, 20 Sept 2026.
+Risa Taniguchi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at WOMB, Tokyo on Sun, 20 Sept 2026.
 
 Risa Taniguchi is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 11 more. Often billed alongside YURI VALEN, Drunken Kong and ALEXANDER M. Next up: WOMB, Tokyo on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Risa Taniguchi is a techno and house artist tracked on soundcheck, with 114 sets
 
 YURI VALEN, Drunken Kong, ALEXANDER M
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/risataniguchi/)*

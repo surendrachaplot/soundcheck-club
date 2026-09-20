@@ -1,14 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Aio // ANNERGY // AELVA K // DEMO" on Sat, 19 Sept 2026.
+Fundbureau is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Subios Records Showcase" on Fri, 25 Sept 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including AELVA K, Aio, APHE (2) and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including APHE (2), Charlie Tee, Claudius and DJ Jonne Sins and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Aio // ANNERGY // AELVA K // DEMO | AELVA K, Aio, Invaria |
 | Fri, 25 Sept 2026 | Subios Records Showcase | APHE (2), Muttiah Ashnim, TiM TASTE |
 | Sat, 26 Sept 2026 | Claudius // DANIQ // TECHNIKER ALLSTARS | Claudius |
 | Sat, 26 Sept 2026 | FLINTA* Open Decks hosted by Skkin Velvet |  |
@@ -23,4 +22,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, w
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

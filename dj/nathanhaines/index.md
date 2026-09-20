@@ -1,6 +1,6 @@
 # Nathan Haines
 
-Nathan Haines is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Collingwood Basement, Melbourne on Fri, 23 Oct 2026.
+Nathan Haines is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Collingwood Basement, Melbourne on Fri, 23 Oct 2026.
 
 Nathan Haines is a house and disco artist tracked on soundcheck, with 14 sets logged across Auckland, Ibiza, London and Melbourne. Often billed alongside Frank Booker, Sadar Bahar and Adriana (1). Next up: Collingwood Basement, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nathan Haines is a house and disco artist tracked on soundcheck, with 14 sets lo
 
 Frank Booker, Sadar Bahar, Adriana (1)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhaines/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhaines/)*

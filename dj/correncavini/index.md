@@ -1,6 +1,6 @@
 # Corren Cavini
 
-Corren Cavini is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Corren Cavini is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 Corren Cavini is a progressive house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, London and Montreal and 4 more. Often billed alongside Nora En Pure, Eelke Kleijn and Mees Salomé. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Corren Cavini is a progressive house and deep house artist tracked on soundcheck
 
 Nora En Pure, Eelke Kleijn, Mees Salomé
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*

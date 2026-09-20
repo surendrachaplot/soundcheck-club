@@ -1,6 +1,6 @@
 # Mimi Raza
 
-Mimi Raza is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Quartyard, San Diego on Sun, 4 Oct 2026.
+Mimi Raza is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Quartyard, San Diego on Sun, 4 Oct 2026.
 
 Mimi Raza is a house and disco artist tracked on soundcheck, with 11 sets logged across Sandiego. Often billed alongside Boys Don't Disco, Paul Najera and BRiAN (2). Next up: Quartyard, Sandiego on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mimi Raza is a house and disco artist tracked on soundcheck, with 11 sets logged
 
 Boys Don't Disco, Paul Najera, BRiAN (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiraza/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiraza/)*

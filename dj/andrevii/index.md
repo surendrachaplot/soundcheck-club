@@ -1,6 +1,6 @@
 # Andre VII
 
-Andre VII is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
+Andre VII is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
 
 Andre VII is a techno and house artist based in Mexico, tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Mijo, Cabizbajo and ROCCO DESENTIS. Next up: Bar Oriente, Mexicocity on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Andre VII is a techno and house artist based in Mexico, tracked on soundcheck, w
 
 Mijo, Cabizbajo, ROCCO DESENTIS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrevii/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrevii/)*

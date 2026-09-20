@@ -1,19 +1,19 @@
 # JonnyVicious
 
-JonnyVicious is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - JOLOKO KL , Kuala Lumpur on Sat, 19 Sept 2026.
+JonnyVicious is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
-JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - JOLOKO KL , Kualalumpur on Sat 19 Sept.
+JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 1 more. Often billed alongside LZZY, Alam and Roshan. Next up: TBA - Mantra Rooftop Bar & Lounge, Kualalumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - JOLOKO KL  | Kuala Lumpur |
 | Sat, 3 Oct 2026 | TBA - Mantra Rooftop Bar & Lounge | Kuala Lumpur |
 | Wed, 7 Oct 2026 | TBA - YKO KL - THE FIVE DAMANSARA HEIGHTS | Kuala Lumpur |
 
 ## Recently played
 
+- TBA - JOLOKO KL , Kuala Lumpur — Sat, 19 Sept 2026
 - TBA - BOBO's KL (BANGSAR), Kuala Lumpur — Wed, 16 Sept 2026
 - TBA - Qi Bar, Kuala Lumpur — Sat, 12 Sept 2026
 - TBA - JOLOKO, Kuala Lumpur — Sat, 22 Aug 2026
@@ -21,10 +21,9 @@ JonnyVicious is a house and techno artist tracked on soundcheck, with 91 sets lo
 - TBA - Mantra Rooftop & Bar, Kuala Lumpur — Sat, 1 Aug 2026
 - Lane 23, Kuala Lumpur — Fri, 24 Jul 2026
 - TBA - JOLOKO, Kuala Lumpur — Sat, 18 Jul 2026
-- Klymax Discotheque, Bali — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 LZZY, Alam, Roshan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyvicious/)*

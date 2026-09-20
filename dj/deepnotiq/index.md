@@ -1,6 +1,6 @@
 # deepnotiQ
 
-deepnotiQ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
+deepnotiQ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
 
 deepnotiQ is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Washingtondc. Often billed alongside Edo, A Guy Called Gerald and Adiel. Next up: Flash, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ deepnotiQ is a house and techno artist based in United States of America, tracke
 
 Edo, A Guy Called Gerald, Adiel
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepnotiq/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepnotiq/)*

@@ -1,6 +1,6 @@
 # Peeve
 
-Peeve is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sub Club, Glasgow on Fri, 25 Sept 2026.
+Peeve is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sub Club, Glasgow on Fri, 25 Sept 2026.
 
 Peeve is a house and techno artist tracked on soundcheck, with 24 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside BAYNE, Sonho and eosap. Next up: Sub Club, Glasgow on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Peeve is a house and techno artist tracked on soundcheck, with 24 sets logged ac
 
 BAYNE, Sonho, eosap
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*

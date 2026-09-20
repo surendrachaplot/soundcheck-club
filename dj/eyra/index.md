@@ -1,6 +1,6 @@
 # EYRA
 
-EYRA is a Latin Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sala Apolo, Barcelona on Sat, 26 Sept 2026.
+EYRA is a Latin Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sala Apolo, Barcelona on Sat, 26 Sept 2026.
 
 EYRA is a latin bass and experimental artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin and Lisbon. Often billed alongside MUCK, Just Claudia and Chica Acosta. Next up: Sala Apolo, Barcelona on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ EYRA is a latin bass and experimental artist based in United Kingdom, tracked on
 
 MUCK, Just Claudia, Chica Acosta
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyra/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyra/)*

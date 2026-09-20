@@ -1,6 +1,6 @@
 # Oots
 
-Oots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Oots is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 Oots is a techno and house artist based in Australia, tracked on soundcheck, with 19 sets logged across Hobart, Melbourne and Sydney. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Oots is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 6 SENSE, ABSOLUTE., Bella Claxton
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oots/)*

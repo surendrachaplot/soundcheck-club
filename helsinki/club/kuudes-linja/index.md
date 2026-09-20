@@ -1,6 +1,6 @@
 # Kuudes Linja
 
-Kuudes Linja is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Mykki Blanco (US)" on Thu, 15 Oct 2026.
+Kuudes Linja is a music venue in Helsinki with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Mykki Blanco (US)" on Thu, 15 Oct 2026.
 
 Kuudes Linja is a music venue in Helsinki listed on soundcheck. 3 upcoming gigs, with line-ups including Gigi Masin and Mykki Blanco. Browse upcoming dates, start times and who's playing. Hämeentie 13, 00530 Helsinki, Finland.
 
@@ -16,4 +16,4 @@ Kuudes Linja is a music venue in Helsinki listed on soundcheck. 3 upcoming gigs,
 
 Hämeentie 13, 00530 Helsinki, Finland, Helsinki
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kuudes-linja/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kuudes-linja/)*

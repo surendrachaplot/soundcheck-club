@@ -1,6 +1,6 @@
 # Adam Rose
 
-Adam Rose is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Apotheke, Los Angeles on Sun, 20 Sept 2026.
+Adam Rose is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Apotheke, Los Angeles on Sun, 20 Sept 2026.
 
 Adam Rose is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Dublin, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Krane, Halo Varga and MR GREEEG. Next up: Apotheke, Losangeles on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Adam Rose is a house and techno artist based in United States of America, tracke
 
 Krane, Halo Varga, MR GREEEG
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrose/)*

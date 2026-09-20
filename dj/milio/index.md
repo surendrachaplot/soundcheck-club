@@ -1,6 +1,6 @@
 # Milio
 
-Milio is a Electronica and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+Milio is a Electronica and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
 
 Milio is an electronica and idm artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Lisbon and Porto and 2 more. Often billed alongside French II, Alberta Balsam and Bastian Benjamin. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Milio is an electronica and idm artist tracked on soundcheck, with 18 sets logge
 
 French II, Alberta Balsam, Bastian Benjamin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milio/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milio/)*

@@ -1,6 +1,6 @@
 # Fuocco
 
-Fuocco is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Puticlú, Buenos Aires on Fri, 25 Sept 2026.
+Fuocco is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Puticlú, Buenos Aires on Fri, 25 Sept 2026.
 
 Fuocco is a disco and techno artist tracked on soundcheck, with 249 sets logged across Buenosaires. Often billed alongside Berger Muzik, COMPLEX GROOVE and KCHI HOMELESS. Next up: Puticlú, Buenosaires on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fuocco is a disco and techno artist tracked on soundcheck, with 249 sets logged 
 
 Berger Muzik, COMPLEX GROOVE, KCHI HOMELESS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuocco/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuocco/)*

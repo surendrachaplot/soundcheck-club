@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Document Opening Party: bullet tooth, Cristina Lazic, Kepler " on Fri, 25 Sept 2026.
+Document is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Document Opening Party: bullet tooth, Cristina Lazic, Kepler " on Fri, 25 Sept 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Kepler, Andy C, Anil Aras and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -20,4 +20,4 @@ Document is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

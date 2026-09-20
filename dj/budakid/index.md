@@ -1,6 +1,6 @@
 # Budakid
 
-Budakid is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
+Budakid is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
 
 Budakid is a house and deep house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Bikini Club, Barcelona on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Budakid is a house and deep house artist tracked on soundcheck, with 39 sets log
 
 Matthias Meyer, Guy J, Guy Mantzur
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*

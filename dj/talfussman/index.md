@@ -1,6 +1,6 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Tal Fussman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 Tal Fussman is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -15,6 +15,7 @@ Tal Fussman is a house and techno artist tracked on soundcheck, with 105 sets lo
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
 - Studio Club Malaga, Malaga — Sat, 5 Sept 2026
 - Fvtvr, Paris — Sat, 29 Aug 2026
 - Bassiani, Tbilisi — Fri, 10 Jul 2026
@@ -22,10 +23,9 @@ Tal Fussman is a house and techno artist tracked on soundcheck, with 105 sets lo
 - Else, Berlin — Sun, 28 Jun 2026
 - Kater, Berlin — Fri, 5 Jun 2026
 - DURO, Milan — Fri, 29 May 2026
-- Supermarket, Zurich — Fri, 22 May 2026
 
 ## Shares bills with
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

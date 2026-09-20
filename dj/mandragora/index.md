@@ -1,19 +1,19 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bourke Street Courtyard, Melbourne on Sat, 19 Sept 2026.
+Mandragora is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
-Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Bourke Street Courtyard, Melbourne on Sat 19 Sept.
+Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Bourke Street Courtyard | Melbourne |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 
 ## Recently played
 
+- Bourke Street Courtyard, Melbourne — Sat, 19 Sept 2026
 - Cult Nightclub, Sydney — Fri, 18 Sept 2026
 - Hard Club, Porto — Sat, 5 Sept 2026
 - Those Who Dance, Lisbon — Fri, 4 Sept 2026
@@ -21,10 +21,9 @@ Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets 
 - TBA - DTLA, Los Angeles — Sat, 11 Jul 2026
 - SAGE, Berlin — Sat, 6 Jun 2026
 - Plage De Torcy, Paris — Sun, 24 May 2026
-- Cabaret  Aléatoire, Marseille — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

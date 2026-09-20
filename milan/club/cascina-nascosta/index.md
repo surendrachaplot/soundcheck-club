@@ -1,6 +1,6 @@
 # Cascina nascosta
 
-Cascina nascosta is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sabotage presents Domenica Nascosta" on Sun, 20 Sept 2026.
+Cascina nascosta is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sabotage presents Domenica Nascosta" on Sun, 20 Sept 2026.
 
 Cascina nascosta is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Samuele Pagliai, Lvca, Meriem S and Ryu (2) and 1 more. Browse upcoming dates, start times and who's playing. Viale Emilio Alemagna, 14, 20121 Milano MI.
 
@@ -14,4 +14,4 @@ Cascina nascosta is a music venue in Milan listed on soundcheck. 1 upcoming gig,
 
 Viale Emilio Alemagna, 14, 20121 Milano MI, Milan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cascina-nascosta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cascina-nascosta/)*

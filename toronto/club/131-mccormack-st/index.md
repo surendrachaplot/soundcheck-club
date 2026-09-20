@@ -1,14 +1,13 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TAKEOVER 6IX presents KOBOSIL" on Sat, 19 Sept 2026.
+131 Mccormack St is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SOJOURN FESTIVAL 2026" on Fri, 25 Sept 2026.
 
-131 Mccormack St is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including AADJA, Ahadadream, Alley Kay and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
+131 Mccormack St is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including AADJA, Ahadadream, Bambii and Blkvirgo and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TAKEOVER 6IX presents KOBOSIL | Alley Kay, Darkova, Kobosil |
 | Fri, 25 Sept 2026 | SOJOURN FESTIVAL 2026 | AADJA, Ahadadream, Bambii, Blkvirgo, Chinelo, Chippy Nonstop, Circumscums, DJ SWISHA, Donny Vega, Ellen Allien, FJAAK, Fanndemm, Geezr, Ignez, Jaw Jones, Mac Declos, Manuka Honey, Measure Divide, Milidi, Miss Bible, Neffa-T, Negin, Nino Brown (2), Only Fire, Phillippe, SALOME, Sir Spyro, Steve Marto, TDJ, TOCCORORO, Vadim Khan, Young Teesh, Zellers, me, myself &i, musa |
 | Sat, 3 Oct 2026 | PRECIOUS CARGO x Sniffies (WAREHOUSE) |  |
 | Sat, 28 Nov 2026 | 429: El Mefti All Night Long |  |
@@ -17,4 +16,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

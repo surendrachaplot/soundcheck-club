@@ -1,6 +1,6 @@
 # Fedo (UA)
 
-Fedo (UA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
+Fedo (UA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 16 Oct 2026.
 
 Fedo (UA) is a house and minimal artist based in Ukraine, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Budapest and Lisbon and 4 more. Often billed alongside Bttologic, John Karam and Silat Beksi. Next up: 303 Audiophile Bar, Barcelona on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fedo (UA) is a house and minimal artist based in Ukraine, tracked on soundcheck,
 
 Bttologic, John Karam, Silat Beksi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*

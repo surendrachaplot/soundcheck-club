@@ -1,6 +1,6 @@
 # KYT
 
-KYT is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+KYT is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 KYT is an electronic artist tracked on soundcheck, with 8 sets logged across Berlin and Hamburg. Often billed alongside Aii PS, Jacob Knob and Kyttiara. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ KYT is an electronic artist tracked on soundcheck, with 8 sets logged across Ber
 
 Aii PS, Jacob Knob, Kyttiara
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyt/)*

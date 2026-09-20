@@ -1,15 +1,13 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL" on Sat, 19 Sept 2026.
+Big Pink is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "YOUNG MONEY NIGHT: LIL WAYNE, NICKI MINAJ & MORE (DJ TAY MADE + MORE)" on Fri, 25 Sept 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT (2) and 2 more. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Botez, Dean Turnley, Fullbodydurag and JMT (2) and 2 more. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL |  |
-| Sat, 19 Sept 2026 | HIPHOP NIGHT: DJ KDIRTY + DJ CARTER (HIPHOP CLUB BANGERS) |  |
 | Fri, 25 Sept 2026 | YOUNG MONEY NIGHT: LIL WAYNE, NICKI MINAJ & MORE (DJ TAY MADE + MORE) |  |
 | Sat, 26 Sept 2026 | LATIN NIGHT: DJ IZA & SWDJEY (BAD BUNNY VIBES) |  |
 | Fri, 2 Oct 2026 | HIGH ENERGY BOOTY MUSIC: Nanoos B2B Sheefy McFly, FUL-MT, & Mondai (GHETTOTECH & DANCE MUSIC) | Fullbodydurag, JMT (2), Mondai, Nanoos, Sheefy McFly |
@@ -20,4 +18,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

@@ -1,19 +1,19 @@
 # Brenda Serna (2)
 
-Brenda Serna (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
+Brenda Serna (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
-Brenda Serna (2) is a techno and trance artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
+Brenda Serna (2) is a techno and trance artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Fabrik, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Hotel El Bruc | Barcelona |
 | Sat, 17 Oct 2026 | Fabrik | Madrid |
 | Sat, 24 Oct 2026 | Barraca | Valencia |
 
 ## Recently played
 
+- Hotel El Bruc, Barcelona — Sat, 19 Sept 2026
 - TBA - Playa de Manchamar, Valverde de Júcar, Cuenca, Madrid — Sat, 27 Jun 2026
 - Overclub, Mallorca — Fri, 19 Jun 2026
 - Studio Club Malaga, Malaga — Fri, 17 Apr 2026
@@ -21,10 +21,9 @@ Brenda Serna (2) is a techno and trance artist tracked on soundcheck, with 19 se
 - OST, Berlin — Sat, 10 Jan 2026
 - Fabrik, Madrid — Sat, 15 Nov 2025
 - Studio Club Malaga, Malaga — Fri, 7 Nov 2025
-- Explanada de los Castillos., Madrid — Sat, 30 Aug 2025
 
 ## Shares bills with
 
 CESAR ALMENA, Nuke, Parsa Jafari
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendaserna-2/)*

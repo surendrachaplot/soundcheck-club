@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Disco Bizarre at Kit Kat with Marco Duba, Ric Piccolo, D.J. himsel, Defcon & Bizarre Billy" on Sat, 19 Sept 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nachspiel" on Sun, 20 Sept 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Ale Castro, Alejandro Molinari, Alessio Collina and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Disco Bizarre at Kit Kat with Marco Duba, Ric Piccolo, D.J. himsel, Defcon & Bizarre Billy | Bizarre Billy, DJ himself, Ric Piccolo |
 | Sun, 20 Sept 2026 | Nachspiel |  |
 | Mon, 21 Sept 2026 | Electric Monday@KitKat Club | Ale Castro, Frankie Flowerz, Yahaira |
 | Wed, 23 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | Charlotte Lion, DJ Jordan, Gerrit X |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 | Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Funk D'Void, Pornbugs |
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
 | Fri, 2 Oct 2026 | Four Play |  |
+| Sun, 4 Oct 2026 | Nachspiel |  |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

@@ -1,6 +1,6 @@
 # keiyaA
 
-keiyaA is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Wiltern, Los Angeles on Mon, 21 Sept 2026.
+keiyaA is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Wiltern, Los Angeles on Mon, 21 Sept 2026.
 
 keiyaA is a club and experimental artist tracked on soundcheck, with 31 sets logged across Brussels, Detroit, Hamburg and London and 6 more. Often billed alongside ARCHANGEL (US), Ciel and Smerz. Next up: The Wiltern, Losangeles on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ keiyaA is a club and experimental artist tracked on soundcheck, with 31 sets log
 
 ARCHANGEL (US), Ciel, Smerz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*

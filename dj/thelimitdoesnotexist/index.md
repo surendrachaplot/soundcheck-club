@@ -1,6 +1,6 @@
 # THELIMITDOESNOTEXIST
 
-THELIMITDOESNOTEXIST is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Market Hotel, New York City on Fri, 9 Oct 2026.
+THELIMITDOESNOTEXIST is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Market Hotel, New York City on Fri, 9 Oct 2026.
 
 THELIMITDOESNOTEXIST is a club and pop artist tracked on soundcheck, with 48 sets logged across Barcelona, Chicago, London and Montreal and 3 more. Often billed alongside DJ Thank You, Hannah Diamond and Doss. Next up: Market Hotel, Newyorkcity on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ THELIMITDOESNOTEXIST is a club and pop artist tracked on soundcheck, with 48 set
 
 DJ Thank You, Hannah Diamond, Doss
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelimitdoesnotexist/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelimitdoesnotexist/)*

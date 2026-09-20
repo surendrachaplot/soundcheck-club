@@ -1,6 +1,6 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 25 Sept 2026.
+Ewan McVicar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Barcelona and Belfast and 38 more. Often billed alongside Special Request, Dom Dolla and CamelPhat. Next up: Hï Ibiza, Ibiza on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Ewan McVicar is a house and techno artist tracked on soundcheck, with 173 sets l
 
 Special Request, Dom Dolla, CamelPhat
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

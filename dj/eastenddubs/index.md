@@ -1,14 +1,13 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hï Ibiza, Ibiza on Sat, 19 Sept 2026.
+East End Dubs is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 22 Sept 2026.
 
-East End Dubs is a house and tech house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Hï Ibiza, Ibiza on Sat 19 Sept.
+East End Dubs is a house and tech house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Hï Ibiza, Ibiza on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
@@ -22,6 +21,7 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 277 s
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 15 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 8 Sept 2026
 - BCM, Mallorca — Thu, 3 Sept 2026
@@ -29,10 +29,9 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 277 s
 - Jardins de Joan Brossa, Barcelona — Sun, 30 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 25 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 18 Aug 2026
-- Pacha Ibiza, Ibiza — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 ALISHA, Jamback, Max Dean
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

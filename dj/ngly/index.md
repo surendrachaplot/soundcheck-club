@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
+Ngly is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
 
 Ngly is an electro and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Sameheads, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ngly is an electro and techno artist based in Germany, tracked on soundcheck, wi
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

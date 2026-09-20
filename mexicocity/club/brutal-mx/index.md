@@ -1,6 +1,6 @@
 # Brutal Mx
 
-Brutal Mx is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Dedikted Club x Brutal MX presentan: Level One (Holanda)" on Fri, 2 Oct 2026.
+Brutal Mx is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Dedikted Club x Brutal MX presentan: Level One (Holanda)" on Fri, 2 Oct 2026.
 
 Brutal Mx is a music venue in Mexicocity listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Revillagigedo 20, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico.
 
@@ -15,4 +15,4 @@ Brutal Mx is a music venue in Mexicocity listed on soundcheck. 2 upcoming gigs. 
 
 Revillagigedo 20, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/brutal-mx/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/brutal-mx/)*

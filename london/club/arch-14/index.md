@@ -1,6 +1,6 @@
 # Arch 14
 
-Arch 14 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Palacïal" on Fri, 25 Sept 2026.
+Arch 14 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Palacïal" on Fri, 25 Sept 2026.
 
 Arch 14 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including A ranger, Bengoa, Dyl Payne and Fannoire Ge and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Place, Hackney, London, E8 1DU.
 
@@ -17,4 +17,4 @@ Arch 14 is a music venue in London listed on soundcheck. 4 upcoming gigs, with l
 
 14 Bohemia Place, Hackney, London, E8 1DU, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-14/)*

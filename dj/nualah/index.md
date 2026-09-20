@@ -1,6 +1,6 @@
 # Nualah
 
-Nualah is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 77, London on Fri, 16 Oct 2026.
+Nualah is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 77, London on Fri, 16 Oct 2026.
 
 Nualah is a house and tech house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Brandon Marlo, Bruce Wain and J Dragon. Next up: 77, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nualah is a house and tech house artist tracked on soundcheck, with 15 sets logg
 
 Brandon Marlo, Bruce Wain, J Dragon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nualah/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nualah/)*

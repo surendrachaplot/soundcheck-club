@@ -1,15 +1,13 @@
 # Village Studios
 
-Village Studios is a music venue in Vancouver with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Julian Fijma" on Sat, 19 Sept 2026.
+Village Studios is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Dean Turnley (Vancouver)" on Fri, 25 Sept 2026.
 
-Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming gigs, with line-ups including BINKY, Brendocha, camoufly and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
+Village Studios is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs, with line-ups including BINKY, Brendocha, camoufly and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 1024 Davie Street, Vancouver, BC, V6E 1M, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Julian Fijma | Julian Fijma |
-| Sat, 19 Sept 2026 | Stacked pres. Denham Audio & Rohaan (Vancouver) | Denham Audio, Rohaan |
 | Fri, 25 Sept 2026 | Dean Turnley (Vancouver) | Dean Turnley |
 | Sat, 3 Oct 2026 | Stacked pres. camoufly | camoufly |
 | Sun, 11 Oct 2026 | Jazzy | Jazzy (IRL) |
@@ -21,4 +19,4 @@ Village Studios is a music venue in Vancouver listed on soundcheck. 8 upcoming g
 
 1024 Davie Street, Vancouver, BC, V6E 1M, Canada, Vancouver
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/village-studios/)*

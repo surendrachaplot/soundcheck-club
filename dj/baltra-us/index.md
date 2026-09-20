@@ -1,6 +1,6 @@
 # Baltra
 
-Baltra is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
+Baltra is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
 
 Baltra is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Flash, Washingtondc on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Baltra is a house and techno artist tracked on soundcheck, with 86 sets logged a
 
 dj poolboi, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baltra-us/)*

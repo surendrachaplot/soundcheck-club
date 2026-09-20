@@ -1,14 +1,13 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Matroda" on Sat, 19 Sept 2026.
+LIV Nightclub Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Steve Aoki" on Fri, 25 Sept 2026.
 
-LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 10 upcoming gigs. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
+LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Matroda |  |
 | Fri, 25 Sept 2026 | Steve Aoki |  |
 | Sat, 26 Sept 2026 | Crankdat |  |
 | Sat, 3 Oct 2026 | Karol G Afterparty |  |
@@ -23,4 +22,4 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 10 upcoming 
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

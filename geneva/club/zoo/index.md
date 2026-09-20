@@ -1,14 +1,13 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SCÈNE AUX VICES PRÉSENTE DAWN TO DUSK [ALL NIGHT LONG]" on Sat, 19 Sept 2026.
+Zoo is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LE T-DANSANT SUSPEND L'AIR DES TEMPS" on Sun, 20 Sept 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-ups including Channel One Sound, Charlie P, Djamzer and Dubkasm and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, with line-ups including Channel One Sound, Charlie P, Djamzer and Dubkasm and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SCÈNE AUX VICES PRÉSENTE DAWN TO DUSK [ALL NIGHT LONG] |  |
 | Sun, 20 Sept 2026 | LE T-DANSANT SUSPEND L'AIR DES TEMPS |  |
 | Fri, 25 Sept 2026 | Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel] | Hysteria temple Foundation, Jan Loup |
 | Sat, 26 Sept 2026 | ALWARDA: Kollision • Melato • Render • Rōse | Kollision |
@@ -22,4 +21,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

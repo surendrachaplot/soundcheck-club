@@ -1,6 +1,6 @@
 # MISS VEE
 
-MISS VEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
+MISS VEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
 
 MISS VEE is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Newyorkcity. Often billed alongside DJ Sauci Soni, MAXWELL HöUSE and shirlz. Next up: Hart Bar, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ MISS VEE is a house and techno artist based in United States of America, tracked
 
 DJ Sauci Soni, MAXWELL HöUSE, shirlz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*

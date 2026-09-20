@@ -1,6 +1,6 @@
 # Vitesse
 
-Vitesse is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Vitesse is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Vitesse is a bass and techno artist based in Belgium, tracked on soundcheck, with 6 sets logged across Brussels and Paris. Often billed alongside Alfred Anders, Kafim and Nina Welch. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Vitesse is a bass and techno artist based in Belgium, tracked on soundcheck, wit
 
 Alfred Anders, Kafim, Nina Welch
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitesse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitesse/)*

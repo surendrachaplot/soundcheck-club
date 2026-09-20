@@ -1,6 +1,6 @@
 # QUIVR
 
-QUIVR is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Guava 03: FACE FUNK" on Fri, 25 Sept 2026.
+QUIVR is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Guava 03: FACE FUNK" on Fri, 25 Sept 2026.
 
 QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 5m Winn Lane, Fortitude Valley QLD 4006.
 
@@ -15,4 +15,4 @@ QUIVR is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs. Browse
 
 5m Winn Lane, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/quivr/)*

@@ -1,6 +1,6 @@
 # Thom Leblanc
 
-Thom Leblanc is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+Thom Leblanc is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 Thom Leblanc is a house and acid artist tracked on soundcheck, with 6 sets logged across Brussels. Often billed alongside Spirite, 131bpm and Acid Lily. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Thom Leblanc is a house and acid artist tracked on soundcheck, with 6 sets logge
 
 Spirite, 131bpm, Acid Lily
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomleblanc/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomleblanc/)*

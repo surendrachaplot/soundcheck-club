@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "JØASE All Night Long x OMT Records - FREE INDOOR FESTIVAL" on Fri, 25 Sept 2026.
+Panama is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "JØASE All Night Long x OMT Records - FREE INDOOR FESTIVAL" on Fri, 25 Sept 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including andela, Becking, Ben Techy and Damian Lazarus and 2 more. Browse upcoming dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, wit
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

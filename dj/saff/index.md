@@ -1,6 +1,6 @@
 # SAFF
 
-SAFF is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Crown, Bristol on Tue, 22 Sept 2026.
+SAFF is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Crown, Bristol on Tue, 22 Sept 2026.
 
 SAFF is a house and electro artist tracked on soundcheck, with 8 sets logged across Athens, Bristol, Leeds and Washingtondc. Often billed alongside Sol Brown, Amz and Anil (UK). Next up: The Crown, Bristol on Tue 22 Sept.
 
@@ -24,4 +24,4 @@ SAFF is a house and electro artist tracked on soundcheck, with 8 sets logged acr
 
 Sol Brown, Amz, Anil (UK)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saff/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saff/)*

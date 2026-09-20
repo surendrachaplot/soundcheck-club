@@ -1,6 +1,6 @@
 # Uich
 
-Uich is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+Uich is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
 Uich is a techno and trance artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside YuWa, k0v- and manato. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Uich is a techno and trance artist based in Japan, tracked on soundcheck, with 1
 
 YuWa, k0v-, manato
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uich/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uich/)*

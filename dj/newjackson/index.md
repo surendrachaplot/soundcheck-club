@@ -1,6 +1,6 @@
 # New Jackson
 
-New Jackson is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Fidelity Studio, Dublin on Sat, 7 Nov 2026.
+New Jackson is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Fidelity Studio, Dublin on Sat, 7 Nov 2026.
 
 New Jackson is a house and ambient artist tracked on soundcheck, with 22 sets logged across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Rory Sweeney, Tr One and Aeron. Next up: Fidelity Studio, Dublin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ New Jackson is a house and ambient artist tracked on soundcheck, with 22 sets lo
 
 Rory Sweeney, Tr One, Aeron
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newjackson/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newjackson/)*

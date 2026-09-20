@@ -1,6 +1,6 @@
 # Juan Soto
 
-Juan Soto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Outline, Mexico City on Thu, 17 Sept 2026.
+Juan Soto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Outline, Mexico City on Thu, 17 Sept 2026.
 
 Juan Soto is a house and deep house artist based in Mexico, tracked on soundcheck, with 43 sets logged across Mexicocity and Paris. Often billed alongside Barreto, Monsieur Van Pratt and papa jazz. Next up: Outline, Mexicocity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Juan Soto is a house and deep house artist based in Mexico, tracked on soundchec
 
 Barreto, Monsieur Van Pratt, papa jazz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juansoto/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juansoto/)*

@@ -1,14 +1,13 @@
 # Kamma
 
-Kamma is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Kamma is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
 
-Kamma is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Auckland and 39 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Kamma is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Auckland and 39 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: Kult, Belgrade on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 26 Sept 2026 | Kult | Belgrade |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -34,4 +33,4 @@ Kamma is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 
 Masalo, Antal, DJ Tennis
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

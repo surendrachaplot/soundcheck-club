@@ -1,6 +1,6 @@
 # BJs White Swan
 
-BJs White Swan is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DEATH CAB FOR CUTIE unofficial After Party (Fri)" on Fri, 25 Sept 2026.
+BJs White Swan is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DEATH CAB FOR CUTIE unofficial After Party (Fri)" on Fri, 25 Sept 2026.
 
 BJs White Swan is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Zkeletonz. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, London, E14 7JD.
 
@@ -15,4 +15,4 @@ BJs White Swan is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 556 Commercial Road, Limehouse, London, E14 7JD, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bjs-white-swan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bjs-white-swan/)*

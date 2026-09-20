@@ -1,14 +1,13 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Arzenal, Budapest on Sat, 19 Sept 2026.
+Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Arzenal, Budapest on Sat 19 Sept.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Index, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Fri, 2 Oct 2026 | Index | Dublin |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
@@ -21,6 +20,7 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 80 sets 
 
 ## Recently played
 
+- Arzenal, Budapest — Sat, 19 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
 - Universe Athens, Athens — Fri, 11 Sept 2026
 - 131 Mccormack St, Toronto — Sun, 6 Sept 2026
@@ -28,10 +28,9 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 80 sets 
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
-- Epic Prague, Prague — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 NOVAH, Basswell, Holy Priest
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

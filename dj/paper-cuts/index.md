@@ -1,6 +1,6 @@
 # Paper-Cuts
 
-Paper-Cuts is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Paper-Cuts is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Paper-Cuts is a techno and tech house artist based in Australia, tracked on soundcheck, with 40 sets logged across Berlin, Copenhagen, Helsinki and Melbourne and 2 more. Often billed alongside Mike Midnight, Miscmeg and Venus Flytrap (2). Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Paper-Cuts is a techno and tech house artist based in Australia, tracked on soun
 
 Mike Midnight, Miscmeg, Venus Flytrap (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paper-cuts/)*

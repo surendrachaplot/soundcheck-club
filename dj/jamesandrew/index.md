@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 17 Oct 2026.
+James Andrew is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 17 Oct 2026.
 
 James Andrew is a house and deep house artist tracked on soundcheck, with 41 sets logged across Barcelona, Brussels, Ibiza and Leeds and 9 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: NUMBER 90 LONDON, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ James Andrew is a house and deep house artist tracked on soundcheck, with 41 set
 
 Charley, Heels & Souls, Apple B
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

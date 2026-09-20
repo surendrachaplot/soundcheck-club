@@ -1,6 +1,6 @@
 # Lx Factory
 
-Lx Factory is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More" on Sat, 14 Nov 2026.
+Lx Factory is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Hungry4 with Eris Drew b2b Octo Octa, Ogazón & More" on Sat, 14 Nov 2026.
 
 Lx Factory is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Eris Drew, Miguel Nery, Nicolle Velcro and Octa Push and 2 more. Browse upcoming dates, start times and who's playing. RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON.
 
@@ -14,4 +14,4 @@ Lx Factory is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with
 
 RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON, Lisbon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*

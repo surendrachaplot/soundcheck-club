@@ -1,6 +1,6 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
 
 OMRI. is a house and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Barcelona and Brussels and 16 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
 
@@ -16,6 +16,7 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 69 sets logge
 
 ## Recently played
 
+- Randall's Island, New York City — Sat, 19 Sept 2026
 - BERHTA, Washington DC — Fri, 18 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Loo Loo, Mexico City — Fri, 21 Aug 2026
@@ -23,10 +24,9 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 69 sets logge
 - Hï Ibiza, Ibiza — Sat, 8 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 8 Aug 2026
 - TBA - Club Morocco, Costa Salguero, Buenos Aires — Fri, 24 Jul 2026
-- 77, London — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Damian Lazarus, Jamie Jones, Black Coffee
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

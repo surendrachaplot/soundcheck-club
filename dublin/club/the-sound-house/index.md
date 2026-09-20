@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "APOKRIFA" on Fri, 25 Sept 2026.
+The Sound House is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "APOKRIFA" on Fri, 25 Sept 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Girls of the Internet, Nymed, Sean Johnston and Sémaé and 2 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -22,4 +22,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 9 upcoming gigs
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

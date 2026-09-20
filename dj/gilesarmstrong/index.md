@@ -1,6 +1,6 @@
 # Giles Armstrong
 
-Giles Armstrong is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
+Giles Armstrong is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
 
 Giles Armstrong is a house and dub techno artist tracked on soundcheck, with 10 sets logged across Dublin. Often billed alongside Cailín, Aero (1) and Ayolxi. Next up: Wigwam, Dublin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Giles Armstrong is a house and dub techno artist tracked on soundcheck, with 10 
 
 Cailín, Aero (1), Ayolxi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilesarmstrong/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilesarmstrong/)*

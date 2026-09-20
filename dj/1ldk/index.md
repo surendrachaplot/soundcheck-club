@@ -1,6 +1,6 @@
 # 1LDK
 
-1LDK is a Pop and Noise artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 21 Sept 2026.
+1LDK is a Pop and Noise artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Enter Shibuya, Tokyo on Mon, 21 Sept 2026.
 
 1LDK is a pop and noise artist based in Japan, tracked on soundcheck, with 3 sets logged across London, Paris and Tokyo. Often billed alongside Albino Sound, ChottoKimoi and DJ Love. Next up: Enter Shibuya, Tokyo on Mon 21 Sept.
 
@@ -16,4 +16,4 @@
 
 Albino Sound, ChottoKimoi, DJ Love
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

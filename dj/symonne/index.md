@@ -1,6 +1,6 @@
 # Symonne
 
-Symonne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+Symonne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
 
 Symonne is a house and tech house artist tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside BLANC MAMBA, BAE BAE and Lavenge. Next up: Jupiter Disco, Newyorkcity on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Symonne is a house and tech house artist tracked on soundcheck, with 18 sets log
 
 BLANC MAMBA, BAE BAE, Lavenge
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*

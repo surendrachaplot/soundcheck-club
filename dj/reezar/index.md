@@ -1,6 +1,6 @@
 # Reezar
 
-Reezar is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Macarena Club, Barcelona on Thu, 24 Sept 2026.
+Reezar is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Macarena Club, Barcelona on Thu, 24 Sept 2026.
 
 Reezar is a deep house and house artist tracked on soundcheck, with 62 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Cipy and ERRANT. Next up: Macarena Club, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Reezar is a deep house and house artist tracked on soundcheck, with 62 sets logg
 
 Ivan Pugliares, Cipy, ERRANT
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*

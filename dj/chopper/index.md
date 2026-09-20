@@ -1,6 +1,6 @@
 # Chopper
 
-Chopper is a Tech House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
+Chopper is a Tech House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
 
 Chopper is a tech house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Geneva and Ibiza and 6 more. Often billed alongside FINKY, Ryan Resso and ALISHA. Next up: Thuishaven, Amsterdam on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Chopper is a tech house and minimal techno artist based in United Kingdom, track
 
 FINKY, Ryan Resso, ALISHA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper/)*

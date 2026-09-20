@@ -1,6 +1,6 @@
 # Trinity Bar
 
-Trinity Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Backyard Spinners" on Wed, 7 Oct 2026.
+Trinity Bar is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Backyard Spinners" on Wed, 7 Oct 2026.
 
 Trinity Bar is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 378-380 Station Rd  Harrow, Middlesex HA1 2DE.
 
@@ -14,4 +14,4 @@ Trinity Bar is a music venue in London listed on soundcheck. 1 upcoming gig. Bro
 
 378-380 Station Rd  Harrow, Middlesex HA1 2DE, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/trinity-bar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/trinity-bar/)*

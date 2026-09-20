@@ -1,14 +1,13 @@
 # Space Eat & Dance
 
-Space Eat & Dance is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Space Sunset Rituals feat. Juan Laforga & Secretario" on Sat, 19 Sept 2026.
+Space Eat & Dance is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Space Sunset Rituals feat. Paul Bozak" on Mon, 21 Sept 2026.
 
-Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including dubsea, John Fritz, Paul Bozak Morrissey and Ramon Castells and 2 more. Browse upcoming dates, start times and who's playing.
+Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including dubsea, John Fritz, Paul Bozak Morrissey and Ramon Castells and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Space Sunset Rituals feat. Juan Laforga & Secretario |  |
 | Mon, 21 Sept 2026 | Space Sunset Rituals feat. Paul Bozak | Paul Bozak Morrissey |
 | Tue, 22 Sept 2026 | Space Sunset Rituals feat. Ramon Castells | Ramon Castells |
 | Wed, 23 Sept 2026 | Space Sunset Rituals feat. Roberto Lodola | Roberto Lodola |
@@ -18,5 +17,6 @@ Space Eat & Dance is a music venue in Ibiza listed on soundcheck. 11 upcoming gi
 | Mon, 28 Sept 2026 | Space Sunset Rituals feat. Karlos Sense |  |
 | Tue, 29 Sept 2026 | Space Sunset Rituals feat. Ramon Castells | Ramon Castells |
 | Wed, 30 Sept 2026 | Space Sunset Rituals feat. Roberto Lodola | Roberto Lodola |
+| Fri, 2 Oct 2026 | Space Sunset Rituals feat. Darren Martin |  |
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/space-eat-dance/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/space-eat-dance/)*

@@ -1,20 +1,20 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Beaumont Studios, Vancouver on Sat, 19 Sept 2026.
+LADYMONIX is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 26 Sept 2026.
 
-LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: The Beaumont Studios, Vancouver on Sat 19 Sept.
+LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Northern Lights Lounge, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Beaumont Studios | Vancouver |
 | Sat, 26 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 10 Oct 2026 | BAR Inc | Osaka |
 | Fri, 30 Oct 2026 | TV Lounge | Detroit |
 
 ## Recently played
 
+- The Beaumont Studios, Vancouver — Sat, 19 Sept 2026
 - MotorCity Wine, Detroit — Sun, 6 Sept 2026
 - Marble Bar, Detroit — Sat, 29 Aug 2026
 - Nowadays, New York City — Sat, 22 Aug 2026
@@ -22,10 +22,9 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logg
 - TV Lounge, Detroit — Sun, 16 Aug 2026
 - Northern Lights Lounge, Detroit — Sat, 15 Aug 2026
 - TV Lounge, Detroit — Thu, 13 Aug 2026
-- Tangent Gallery, Detroit — Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

@@ -1,6 +1,6 @@
 # 5ive
 
-5ive is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
+5ive is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Noon + Cafe, Osaka on Sat, 10 Oct 2026.
 
 5ive is a house and deep house artist tracked on soundcheck, with 22 sets logged across Bristol, Denver, London and Newyorkcity and 4 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Noon + Cafe, Osaka on Sat 10 Oct.
 
@@ -26,4 +26,4 @@
 
 Powder, CHIDA, KOOLMFL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*

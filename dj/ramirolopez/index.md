@@ -1,6 +1,6 @@
 # Ramiro Lopez
 
-Ramiro Lopez is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Cloud, Berlin on Sat, 24 Oct 2026.
+Ramiro Lopez is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Cloud, Berlin on Sat, 24 Oct 2026.
 
 Ramiro Lopez is a techno and industrial artist tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Spartaque, Cristian Varela and Anna Tur. Next up: The Cloud, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ramiro Lopez is a techno and industrial artist tracked on soundcheck, with 40 se
 
 Spartaque, Cristian Varela, Anna Tur
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramirolopez/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramirolopez/)*

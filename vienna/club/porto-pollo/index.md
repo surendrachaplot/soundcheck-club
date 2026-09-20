@@ -1,6 +1,6 @@
 # Porto Pollo
 
-Porto Pollo is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "MERKWÜRDIG / BADESCHLUSS" on Sat, 19 Sept 2026.
+Porto Pollo is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MERKWÜRDIG / BADESCHLUSS" on Sat, 19 Sept 2026.
 
 Porto Pollo is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Fabiano José and Maximilian Grün. Browse upcoming dates, start times and who's playing. Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria.
 
@@ -15,4 +15,4 @@ Porto Pollo is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, wi
 
 Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria, Vienna
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*

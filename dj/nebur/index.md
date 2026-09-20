@@ -1,6 +1,6 @@
 # Nebur
 
-Nebur is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
+Nebur is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
 
 Nebur is a tech house and downtempo artist tracked on soundcheck, with 8 sets logged across Barcelona and Mexicocity. Often billed alongside Bluecommand, Devicious and Klency. Next up: CCEMx, Mexicocity on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Nebur is a tech house and downtempo artist tracked on soundcheck, with 8 sets lo
 
 Bluecommand, Devicious, Klency
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebur/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nebur/)*

@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 58 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "DJ Nelo vs DJ Mikos" on Sat, 19 Sept 2026.
+Wax Music Lounge is a music venue in Melbourne with 57 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "G.S.M (Wax Museum Records)" on Sun, 20 Sept 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 58 upcoming gigs, with line-ups including Beatski and Savage The Girl. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 57 upcoming gigs, with line-ups including Beatski and Savage The Girl. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | DJ Nelo vs DJ Mikos |  |
 | Sun, 20 Sept 2026 | G.S.M (Wax Museum Records) |  |
 | Mon, 21 Sept 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 22 Sept 2026 | BRAZLOMBIA |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 58 upcoming
 | Mon, 28 Sept 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 29 Sept 2026 | BRAZLOMBIA |  |
 | Wed, 30 Sept 2026 | MELLOWDÍAS THUMP |  |
+| Mon, 5 Oct 2026 | CIRCADIAN RHYTHMS |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

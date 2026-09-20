@@ -1,6 +1,6 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cross Club, Prague on Sun, 25 Oct 2026.
+BBBBBBB is a Hardcore and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cross Club, Prague on Sun, 25 Oct 2026.
 
 BBBBBBB is a hardcore and club artist tracked on soundcheck, with 21 sets logged across Berlin, Kyoto, Lisbon and Newyorkcity and 4 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: Cross Club, Prague on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ BBBBBBB is a hardcore and club artist tracked on soundcheck, with 21 sets logged
 
 moreru, deadfish eyes, iida Reo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*

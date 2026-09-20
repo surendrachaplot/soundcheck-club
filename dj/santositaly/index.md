@@ -1,6 +1,6 @@
 # Santos
 
-Santos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Socore Factory, Osaka on Mon, 7 Dec 2026.
+Santos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Socore Factory, Osaka on Mon, 7 Dec 2026.
 
 Santos is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Glasgow and Istanbul and 8 more. Often billed alongside Aiden (DE), Ale Acosta and Amo (IT). Next up: Socore Factory, Osaka on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Santos is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Aiden (DE), Ale Acosta, Amo (IT)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santositaly/)*

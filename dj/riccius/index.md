@@ -1,6 +1,6 @@
 # RICCI (US)
 
-RICCI (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+RICCI (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 RICCI (US) is a house and tech house artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Armii1n, Auphoria and Bella Mutino. Next up: Green Room NYC, Newyorkcity on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ RICCI (US) is a house and tech house artist tracked on soundcheck, with 5 sets l
 
 Armii1n, Auphoria, Bella Mutino
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riccius/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riccius/)*

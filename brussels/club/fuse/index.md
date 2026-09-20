@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho)" on Sat, 19 Sept 2026.
+Fuse is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Fuse presents: Polar Inertia (live) & Luigi Tozzi (live)" on Sat, 26 Sept 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Fuse presents: PACT (Joachim Pastor, Joris Delacroix & Teho) | EMJIE, JUWLZ, Joachim Pastor, Joris Delacroix, Romain Garcia, Teho |
 | Sat, 26 Sept 2026 | Fuse presents: Polar Inertia (live) & Luigi Tozzi (live) | Luigi Tozzi, Polar Inertia, T.A.M.22, Yogg, Zara |
 | Fri, 2 Oct 2026 | Fuse presents: The Ghost & Gonno | Gonno, Nefeli, Penelope (2), The Ghost |
 | Sat, 3 Oct 2026 | Fuse presents: Primal Instinct | CRYME, Chlär, DC Salas, Jennifer Loveless, Kameliia, Phara, Philippa Pacho, Temudo |
@@ -18,9 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 17 Oct 2026 | 24HRS of Fuse | A. Brehme, Altinbas, Blasha & Allatt, Cirkle, Clara D, DC Salas, DJ Hell, Freddy K, Ignez, Innershades, Joline Scheffler, Paty Vapor, Phara, Stef Mendesidis, Tasha |
 | Fri, 23 Oct 2026 | Fuse presents: Joyhauser (all night long) | Joyhauser |
 | Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Catalina, DJ Cosworth, Jhobei, Silva Bumpa |
+| Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

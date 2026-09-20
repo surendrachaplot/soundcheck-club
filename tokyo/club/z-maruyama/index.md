@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AMN" on Sat, 19 Sept 2026.
+Z Maruyama is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "WHOLE (TECHNO)" on Sun, 20 Sept 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including 80KIDZ, AHREUM, ALEXANDER M and Amps and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including 80KIDZ, AHREUM, ALEXANDER M and Amps and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | AMN | Genick, MASAYASU |
 | Sun, 20 Sept 2026 | WHOLE (TECHNO) | 80KIDZ, Shinichi Osawa, Terax |
 | Mon, 21 Sept 2026 | Play Of Color presents 'The Swirl' vol.6 feat.YOUniverse (DEEP TECH/HOUSE/TECH HOUSE) | Amps, GooPer, ISPA, Saeri, YOUniverse |
 | Tue, 22 Sept 2026 | TECLIPSE: LUSU × Ken Ishii — ONE NIGHT IN TOKYO(TECHNO) | Ken Ishii, Kulage |
@@ -23,4 +22,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

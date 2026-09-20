@@ -1,15 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE" on Sat, 19 Sept 2026.
+Jupiter Disco is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Gigi Rio b2b KEiKO" on Sun, 20 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 22 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Music Is The Ki: Sevyn + VARSHA, Colored Craig, FOR FUTURE'S SAKE | Colored Craig, For Future's Sake, Sevyn, VARSHA |
-| Sat, 19 Sept 2026 | Happy Hour: DJ girlcrush | DJ girlcrush |
 | Sun, 20 Sept 2026 | Gigi Rio b2b KEiKO | Gigi Rio, KEiKO |
 | Wed, 23 Sept 2026 | Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice | DJ Fat Frog, LILLA, chicas over rice, dj 5spice, satandoll |
 | Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon George, Reyer, Sibley | Reyer |
@@ -18,9 +16,11 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming 
 | Sun, 27 Sept 2026 | Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire | Caire, KIMKILLA, Lily Ardalan, Remniqe, Symonne, yNOTi |
 | Tue, 29 Sept 2026 | Music City: Neil Macc, Jay Boogie, Jon Elliott | Neil Macc |
 | Thu, 1 Oct 2026 | People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY | Han G, Jake From State Pharm, RICK E, emme (2) |
+| Sat, 3 Oct 2026 | Office Hours: GIANNA, Arjun Shah, Inés | Arjun Shah, GIANNA, Inés |
+| Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses, Kata (1) |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

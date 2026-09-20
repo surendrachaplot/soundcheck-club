@@ -1,6 +1,6 @@
 # tamarawrx3
 
-tamarawrx3 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
+tamarawrx3 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
 
 tamarawrx3 is a techno and trance artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Leipzig and Stuttgart. Often billed alongside Multifun, Lenny Fuck and Pavelo Promillo. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ tamarawrx3 is a techno and trance artist based in Germany, tracked on soundcheck
 
 Multifun, Lenny Fuck, Pavelo Promillo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawrx3/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarawrx3/)*

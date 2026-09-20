@@ -1,14 +1,13 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "陰翳礼讃 In'ei Raisan" on Sat, 19 Sept 2026.
+Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BAR TIME BGM" on Tue, 22 Sept 2026.
 
-Area_osaka is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including ALUCA, DJ KAZUMA, EICHIMEN and Grimwig and 2 more. Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
+Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including DJ KAZUMA, EICHIMEN, Grimwig and YAMA(JP/OSK). Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | 陰翳礼讃 In'ei Raisan | ALUCA, Yudai Sugiyama |
 | Tue, 22 Sept 2026 | BAR TIME BGM |  |
 | Mon, 28 Sept 2026 | BAR TIME BGM | EICHIMEN |
 | Tue, 29 Sept 2026 | BAR TIME BGM |  |
@@ -18,4 +17,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

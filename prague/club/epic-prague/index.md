@@ -1,14 +1,13 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Find Your Harmony 500 - Prague" on Sat, 19 Sept 2026.
+Epic Prague is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Deborah De Luca" on Fri, 25 Sept 2026.
 
-Epic Prague is a music venue in Prague listed on soundcheck. 5 upcoming gigs, with line-ups including Andrew Rayel, Deborah De Luca, Dimitri K and Odium and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
+Epic Prague is a music venue in Prague listed on soundcheck. 4 upcoming gigs, with line-ups including Deborah De Luca, Dimitri K, Odium and Sickmode and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Find Your Harmony 500 - Prague | Andrew Rayel, Ruben de Ronde |
 | Fri, 25 Sept 2026 | Deborah De Luca | Deborah De Luca |
 | Sat, 7 Nov 2026 | Sickmode | Odium, Sickmode |
 | Fri, 20 Nov 2026 | SLVL | SLVL |
@@ -18,4 +17,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 5 upcoming gigs, wi
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

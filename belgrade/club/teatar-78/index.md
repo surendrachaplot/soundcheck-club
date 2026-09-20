@@ -1,6 +1,6 @@
 # Teatar 78
 
-Teatar 78 is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "William Basinski" on Sat, 19 Sept 2026.
+Teatar 78 is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "William Basinski" on Sat, 19 Sept 2026.
 
 Teatar 78 is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including William Basinski. Browse upcoming dates, start times and who's playing. 78 Resavska, Belgrade, 11000, Serbia.
 
@@ -14,4 +14,4 @@ Teatar 78 is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, wit
 
 78 Resavska, Belgrade, 11000, Serbia, Belgrade
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/teatar-78/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/teatar-78/)*

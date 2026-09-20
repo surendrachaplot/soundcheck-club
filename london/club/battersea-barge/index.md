@@ -1,6 +1,6 @@
 # Battersea Barge
 
-Battersea Barge is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "+friends. - Halloween on the Thames" on Sat, 31 Oct 2026.
+Battersea Barge is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "+friends. - Halloween on the Thames" on Sat, 31 Oct 2026.
 
 Battersea Barge is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom.
 
@@ -14,4 +14,4 @@ Battersea Barge is a music venue in London listed on soundcheck. 1 upcoming gig.
 
 Nine Elms Lane; South Lambeth; London SW8 5BP; United Kingdom, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/battersea-barge/)*

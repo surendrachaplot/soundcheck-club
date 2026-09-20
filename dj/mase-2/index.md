@@ -1,6 +1,6 @@
 # Mase (2)
 
-Mase (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
+Mase (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
 
 Mase (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Leeds, London and Manchester. Often billed alongside Emile, Dylan Whicher and Blason. Next up: XLR, Manchester on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Mase (2) is a house and garage artist based in United Kingdom, tracked on soundc
 
 Emile, Dylan Whicher, Blason
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mase-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mase-2/)*

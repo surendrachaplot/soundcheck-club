@@ -1,6 +1,6 @@
 # Yyre
 
-Yyre is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gut Level, Sheffield on Sat, 26 Sept 2026.
+Yyre is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Gut Level, Sheffield on Sat, 26 Sept 2026.
 
 Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, FOULMOUTH and Princess Elf Bar. Next up: Gut Level, Sheffield on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundch
 
 FKA Hardcore, FOULMOUTH, Princess Elf Bar
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*

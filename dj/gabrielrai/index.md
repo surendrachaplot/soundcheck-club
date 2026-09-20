@@ -1,6 +1,6 @@
 # Gabriel Rai
 
-Gabriel Rai is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
+Gabriel Rai is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Starlane Pizza Bar, London on Sat, 19 Sept 2026.
 
 Gabriel Rai is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin, Ibiza, Leeds and Lisbon and 6 more. Often billed alongside Craig Richards, Bobby. and Olita (UK). Next up: Starlane Pizza Bar, London on Sat 19 Sept.
 
@@ -14,6 +14,7 @@ Gabriel Rai is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Starlane Pizza Bar, London — Sat, 19 Sept 2026
 - H0L0, New York City — Sat, 5 Sept 2026
 - Outer Heaven, New York City — Fri, 4 Sept 2026
 - Colour Factory, London — Mon, 31 Aug 2026
@@ -21,10 +22,9 @@ Gabriel Rai is a house and techno artist based in United Kingdom, tracked on sou
 - LDN East, London — Sun, 24 May 2026
 - Gaffe, London — Sun, 3 May 2026
 - Mansions, New York City — Sun, 19 Apr 2026
-- Outer Heaven, New York City — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 Craig Richards, Bobby., Olita (UK)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*

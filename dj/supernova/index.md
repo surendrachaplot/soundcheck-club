@@ -1,6 +1,6 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Quinta Mira Rio, Lisbon on Sun, 20 Sept 2026.
+Supernova is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Quinta Mira Rio, Lisbon on Sun, 20 Sept 2026.
 
 Supernova is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 12 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Quinta Mira Rio, Lisbon on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Supernova is a house and tech house artist tracked on soundcheck, with 36 sets l
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

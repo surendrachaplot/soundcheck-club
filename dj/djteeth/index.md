@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
+DJ TEETH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
 DJ TEETH is a techno and trance artist tracked on soundcheck, with 45 sets logged across Berlin, Bristol, London and Madrid and 6 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ TEETH is a techno and trance artist tracked on soundcheck, with 45 sets logge
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

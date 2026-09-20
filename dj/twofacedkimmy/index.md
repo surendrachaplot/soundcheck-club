@@ -1,6 +1,6 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Cova, Hamburg on Sat, 19 Sept 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Cova, Hamburg on Sat, 19 Sept 2026.
 
 TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin and Hamburg. Often billed alongside Unromantic, TRYPTAJ and Cherries040. Next up: La Cova, Hamburg on Sat 19 Sept.
 
@@ -9,22 +9,21 @@ TWOFACEDKIMMY is a techno and trance artist tracked on soundcheck, with 21 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | La Cova | Hamburg |
-| Sat, 19 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 9 Oct 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 
+- La Cova, Hamburg — Sat, 19 Sept 2026
+- Uebel & Gefährlich, Hamburg — Sat, 19 Sept 2026
 - Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
 - Thomas Read Pub, Hamburg — Sat, 12 Sept 2026
 - Fundbureau, Hamburg — Fri, 11 Sept 2026
 - Fundbureau, Hamburg — Sat, 5 Sept 2026
 - Uebel & Gefährlich, Hamburg — Fri, 4 Sept 2026
 - Karoline 45, Hamburg — Sat, 8 Aug 2026
-- Thomas Read Pub, Hamburg — Sat, 18 Jul 2026
-- Fundbureau, Hamburg — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Unromantic, TRYPTAJ, Cherries040
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twofacedkimmy/)*

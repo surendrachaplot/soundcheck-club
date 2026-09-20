@@ -1,6 +1,6 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+Nadia Struiwigh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
 Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside DJ MELL G, MAEDON and quest?onmarq. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 80 sets
 
 DJ MELL G, MAEDON, quest?onmarq
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

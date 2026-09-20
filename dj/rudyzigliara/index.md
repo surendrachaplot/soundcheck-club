@@ -1,6 +1,6 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+Rudy Zigliara is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
 
 Rudy Zigliara is a house and electronica artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside dOctOr doms, Caldii and Dr. Sud. Next up: Madame Claude, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rudy Zigliara is a house and electronica artist based in France, tracked on soun
 
 dOctOr doms, Caldii, Dr. Sud
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

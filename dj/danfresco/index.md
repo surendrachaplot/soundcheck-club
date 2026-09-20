@@ -1,6 +1,6 @@
 # Dan Fresco
 
-Dan Fresco is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 26 Sept 2026.
+Dan Fresco is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 26 Sept 2026.
 
 Dan Fresco is a house and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 6 more. Often billed alongside FINKY, Ryan Resso and Stef Davidse. Next up: Parco Industria Alfa Romeo, Milan on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Dan Fresco is a house and tech house artist tracked on soundcheck, with 34 sets 
 
 FINKY, Ryan Resso, Stef Davidse
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*

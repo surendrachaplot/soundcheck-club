@@ -1,6 +1,6 @@
 # Nachine
 
-Nachine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Subcero Club, Madrid on Sat, 10 Oct 2026.
+Nachine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Subcero Club, Madrid on Sat, 10 Oct 2026.
 
 Nachine is an electronica and house artist based in Spain, tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside SexNachine, Deceit and SENDA FATAL. Next up: Subcero Club, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Nachine is an electronica and house artist based in Spain, tracked on soundcheck
 
 SexNachine, Deceit, SENDA FATAL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*

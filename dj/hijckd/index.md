@@ -1,18 +1,18 @@
 # HIJCKD
 
-HIJCKD is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at White Bay Power Station, Sydney on Sat, 19 Sept 2026.
+HIJCKD is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
-HIJCKD is a techno and tech house artist based in Australia, tracked on soundcheck, with 45 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside mara (AU), Maison Ware and STAFFY. Next up: White Bay Power Station, Sydney on Sat 19 Sept.
+HIJCKD is a techno and tech house artist based in Australia, tracked on soundcheck, with 45 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside mara (AU), Maison Ware and STAFFY. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
 ## Recently played
 
+- White Bay Power Station, Sydney — Sat, 19 Sept 2026
 - Superordinary, Brisbane — Fri, 18 Sept 2026
 - Plaza Hotel Sydney, Sydney — Sat, 23 May 2026
 - Plaza Hotel Sydney, Sydney — Sat, 21 Feb 2026
@@ -20,10 +20,9 @@ HIJCKD is a techno and tech house artist based in Australia, tracked on soundche
 - Plaza Hotel Sydney, Sydney — Fri, 26 Dec 2025
 - Bella Live, Sydney — Sat, 1 Nov 2025
 - Plaza Hotel Sydney, Sydney — Sat, 27 Sept 2025
-- Home The Venue, Sydney — Fri, 27 Jun 2025
 
 ## Shares bills with
 
 mara (AU), Maison Ware, STAFFY
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*

@@ -1,6 +1,6 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Quarters, Brighton on Sat, 31 Oct 2026.
+DJ Rolando is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Quarters, Brighton on Sat, 31 Oct 2026.
 
 DJ Rolando is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Belfast, Berlin and Brighton and 12 more. Often billed alongside Gerd Janson, Lakuti and Tama Sumo. Next up: Quarters, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Rolando is a techno and house artist tracked on soundcheck, with 31 sets logg
 
 Gerd Janson, Lakuti, Tama Sumo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

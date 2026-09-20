@@ -1,6 +1,6 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Bitter Babe is a Techno and Latin Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Verraco, Nick León and Kia (AU). Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 173 se
 
 Verraco, Nick León, Kia (AU)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

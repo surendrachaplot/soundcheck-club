@@ -1,6 +1,6 @@
 # A. Garcia
 
-A. Garcia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Spkrbox, Detroit on Wed, 7 Oct 2026.
+A. Garcia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Spkrbox, Detroit on Wed, 7 Oct 2026.
 
 A. Garcia is a techno and electro artist tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside Dutch Mike, Brent Shay and Bob Marino. Next up: Spkrbox, Detroit on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ A. Garcia is a techno and electro artist tracked on soundcheck, with 12 sets log
 
 Dutch Mike, Brent Shay, Bob Marino
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.garcia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.garcia/)*

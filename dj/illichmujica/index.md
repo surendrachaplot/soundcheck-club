@@ -1,6 +1,6 @@
 # Illich Mujica
 
-Illich Mujica is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 30 Oct 2026.
+Illich Mujica is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 Illich Mujica is a deep house and house artist tracked on soundcheck, with 8 sets logged across Miami, Newyorkcity and Sanfrancisco. Often billed alongside 2melo, Armen Miran and CEEJ. Next up: Napa Music Hall, Sanfrancisco on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Illich Mujica is a deep house and house artist tracked on soundcheck, with 8 set
 
 2melo, Armen Miran, CEEJ
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illichmujica/)*

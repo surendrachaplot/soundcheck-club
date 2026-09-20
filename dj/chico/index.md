@@ -1,6 +1,6 @@
 # Chico
 
-Chico is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Chico is a Hip-Hop and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
 Chico is a hip-hop and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Chicago, Dundee and Glasgow and 3 more. Often billed alongside Lbert, Nova Caza and Aetha. Next up: TBA, Amsterdam on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Chico is a hip-hop and techno artist based in Germany, tracked on soundcheck, wi
 
 Lbert, Nova Caza, Aetha
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chico/)*

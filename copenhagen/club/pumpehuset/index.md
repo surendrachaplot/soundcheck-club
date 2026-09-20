@@ -1,15 +1,13 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "tonser // Pumpehuset" on Sat, 19 Sept 2026.
+Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Etnica 30 Years Celebration - Origin Of Trance" on Fri, 25 Sept 2026.
 
-Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs, with line-ups including Cassius, Conway, ELOQ and Lisa Fosmark and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
+Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Cassius, Conway, nimino and Nyboe. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | tonser // Pumpehuset | Tonser |
-| Sat, 19 Sept 2026 | ESCAPISM presents: MPH [uk] 360° XP + Guests [SOLD OUT] | ELOQ, Lisa Fosmark, MPH (1), parashoot |
 | Fri, 25 Sept 2026 | Etnica 30 Years Celebration - Origin Of Trance |  |
 | Sat, 3 Oct 2026 | KLØBB Ka2 // Pumpehuset |  |
 | Sun, 4 Oct 2026 | Allie X |  |
@@ -21,4 +19,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs,
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

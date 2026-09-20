@@ -1,6 +1,6 @@
 # Dusty Ohms
 
-Dusty Ohms is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
+Dusty Ohms is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
 
 Dusty Ohms is a bass and jungle artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Dexta, Pressa and Uncle G. Next up: Aaja Basement, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dusty Ohms is a bass and jungle artist based in United Kingdom, tracked on sound
 
 Dexta, Pressa, Uncle G
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyohms/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyohms/)*

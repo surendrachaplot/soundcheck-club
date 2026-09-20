@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
+IZZY (UK) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
 
 IZZY (UK) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: The Glove That Fits, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ IZZY (UK) is a house and minimal artist based in United Kingdom, tracked on soun
 
 Lola So, Armând, ASHOJU
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

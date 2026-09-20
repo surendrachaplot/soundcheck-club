@@ -1,15 +1,13 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 26 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "OPEN-AIR: DJ MANDY" on Sat, 19 Sept 2026.
+BERHTA is a music venue in Washington DC with 24 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Cassian w. Linska, shilimili" on Fri, 25 Sept 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 26 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, bradeazy and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 24 upcoming gigs, with line-ups including 100 gecs, Anfisa Letyago, bradeazy and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | OPEN-AIR: DJ MANDY | DJ MANDY |
-| Sat, 19 Sept 2026 | EAT IT UP | Ty Sunderland |
 | Fri, 25 Sept 2026 | Cassian w. Linska, shilimili | Cassian, Linska, shilimili |
 | Sat, 26 Sept 2026 | Sasha & John Digweed | John Digweed, Sasha |
 | Sat, 26 Sept 2026 | R&B and Ribs: D.C. Edition |  |
@@ -18,9 +16,11 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 26 upcoming gigs, 
 | Sun, 4 Oct 2026 | BIG BAD SOCA PARTY |  |
 | Sat, 10 Oct 2026 | TEMPO: Joe Kay, Mobu, Lelynd Darkes [OPEN-AIR] | Joe Kay |
 | Fri, 16 Oct 2026 | Anfisa Letyago | Anfisa Letyago |
+| Fri, 23 Oct 2026 | TroyBoi | TroyBoi |
+| Sat, 24 Oct 2026 | horsegiirL, Ren G | horsegiirL |
 
 ## Address
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

@@ -1,6 +1,6 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Liquid Club, Malta on Sat, 26 Sept 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Liquid Club, Malta on Sat, 26 Sept 2026.
 
 Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, tracked on soundcheck, with 43 sets logged across Amsterdam, Ibiza, Istanbul and Malta. Often billed alongside Abdy, Marixia and OBLX. Next up: Liquid Club, Malta on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, Marixia, OBLX
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

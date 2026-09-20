@@ -1,6 +1,6 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 21 Nov 2026.
+Bianca Oblivion is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 21 Nov 2026.
 
 Bianca Oblivion is a bass and club artist tracked on soundcheck, with 164 sets logged across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Star Eyes, Sam Binga and Cquestt. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Bianca Oblivion is a bass and club artist tracked on soundcheck, with 164 sets l
 
 Star Eyes, Sam Binga, Cquestt
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

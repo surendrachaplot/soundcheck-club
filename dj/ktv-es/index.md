@@ -1,6 +1,6 @@
 # KTV (ES)
 
-KTV (ES) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 19 Sept 2026.
+KTV (ES) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 19 Sept 2026.
 
 KTV (ES) is a techno and electronica artist tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside C.R.Y.D, Crissis and Isgang. Next up: TBA - Secret Location (Madrid), Madrid on Sat 19 Sept.
 
@@ -13,6 +13,7 @@ KTV (ES) is a techno and electronica artist tracked on soundcheck, with 8 sets l
 
 ## Recently played
 
+- TBA - Secret Location (Madrid), Madrid — Sat, 19 Sept 2026
 - Specka, Madrid — Fri, 22 May 2026
 - Lasociaciøn, Madrid — Fri, 15 May 2026
 - Specka, Madrid — Fri, 6 Mar 2026
@@ -24,4 +25,4 @@ KTV (ES) is a techno and electronica artist tracked on soundcheck, with 8 sets l
 
 C.R.Y.D, Crissis, Isgang
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktv-es/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ktv-es/)*

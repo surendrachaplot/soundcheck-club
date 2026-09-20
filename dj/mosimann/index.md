@@ -1,6 +1,6 @@
 # Mosimann
 
-Mosimann is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at T7 Paris, Paris on Sat, 17 Oct 2026.
+Mosimann is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at T7 Paris, Paris on Sat, 17 Oct 2026.
 
 Mosimann is an electro and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Acid Arab and Agoria. Next up: T7 Paris, Paris on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Mosimann is an electro and techno artist tracked on soundcheck, with 21 sets log
 
 Vladimir Cauchemar, Acid Arab, Agoria
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosimann/)*

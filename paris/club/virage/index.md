@@ -1,14 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame" on Sat, 19 Sept 2026.
+Virage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA" on Fri, 25 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Blaame and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Ceyda Yagiz and DJ Cringey and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Virage Présente: Cassie Raptor, Enham, Emma Ollivary, Blaame | Blaame, Cassie Raptor, Emma Ollivary, Enham |
 | Fri, 25 Sept 2026 | SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA | Massimiliano Pagliara, PAURRO, PEPIITA, ketia, trevor.f |
 | Sat, 26 Sept 2026 | Transgenik : Juicy Romance, DJ Cringey, CH4i, Manil | DJ Cringey, Juicy Romance |
 | Fri, 2 Oct 2026 | Hard Fist x La Culottée: Erol Alkan, Alex Wilcox  | Alex Wilcox, Ceyda Yagiz, Erol Alkan, Warum |
@@ -19,4 +18,4 @@ Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with lin
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

@@ -1,6 +1,6 @@
 # Jones May
 
-Jones May is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
+Jones May is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
 
 Jones May is a tech house and house artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona. Often billed alongside Pau Guilera, Hitch and Alex Pott. Next up: Sunseabar Beach Club, Barcelona on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Jones May is a tech house and house artist based in Spain, tracked on soundcheck
 
 Pau Guilera, Hitch, Alex Pott
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*

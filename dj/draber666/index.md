@@ -1,6 +1,6 @@
 # DRABER666
 
-DRABER666 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+DRABER666 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
 DRABER666 is a house and techno artist based in Denmark, tracked on soundcheck, with 19 sets logged across Copenhagen and Oslo. Often billed alongside DJ Spice, Halfdan Sandquist and Ryan Dank (2). Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ DRABER666 is a house and techno artist based in Denmark, tracked on soundcheck, 
 
 DJ Spice, Halfdan Sandquist, Ryan Dank (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draber666/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draber666/)*

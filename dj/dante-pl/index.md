@@ -1,6 +1,6 @@
 # Danté
 
-Danté is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
+Danté is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
 
 Danté is a techno and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Budapest and Krakow and 5 more. Often billed alongside Sept, CRANZ and AOIFE. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Danté is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Sept, CRANZ, AOIFE
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dante-pl/)*

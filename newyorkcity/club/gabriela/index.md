@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Justin Strauss // ALL NIGHT LONG" on Sat, 19 Sept 2026.
+Gabriela is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ROMANCE w Andi + Eli Escobar" on Thu, 24 Sept 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Andi, Eli Escobar, HD (US) and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including Andi, Eli Escobar, HD (US) and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Justin Strauss // ALL NIGHT LONG | Justin Strauss |
 | Thu, 24 Sept 2026 | ROMANCE w Andi + Eli Escobar | Andi, Eli Escobar |
 | Fri, 25 Sept 2026 | CHERRY POP w Nadine & Rider | Rider |
 | Sat, 26 Sept 2026 | Stiff Dance // ALL NIGHT LONG | Stiffdance |
@@ -19,4 +18,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, 
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Guesthouse Season Opening" on Sat, 19 Sept 2026.
+Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Guesthouse Season Opening" on Sat, 19 Sept 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including Autechre, Charlie, Gojnea76 and Isaac Carter and 2 more. Browse upcoming dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -17,4 +17,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

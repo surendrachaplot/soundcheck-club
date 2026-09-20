@@ -1,6 +1,6 @@
 # Vons (FR)
 
-Vons (FR) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at La Java, Paris on Sat, 10 Oct 2026.
+Vons (FR) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Java, Paris on Sat, 10 Oct 2026.
 
 Vons (FR) is a house and minimal artist tracked on soundcheck, with 25 sets logged across London and Paris. Often billed alongside Yahzi, Hottwins and Lïche. Next up: La Java, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vons (FR) is a house and minimal artist tracked on soundcheck, with 25 sets logg
 
 Yahzi, Hottwins, Lïche
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vons-fr/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vons-fr/)*

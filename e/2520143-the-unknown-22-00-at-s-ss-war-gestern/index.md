@@ -1,11 +1,17 @@
 # THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern
 
-THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 7 Nov, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚) at Süss War Gestern on Sat 7 Nov, Berlin. 3 acts on the bill: Better Call Paul, Nikklaas and oulcan. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 7 Nov 2026 |
 | Venue | Süss War Gestern |
 | City | Berlin |
+
+## Line-up
+
+- Better Call Paul
+- Nikklaas
+- oulcan
 
 *Source: [soundcheck](https://soundcheck.club/e/2520143-the-unknown-22-00-at-s-ss-war-gestern/)*

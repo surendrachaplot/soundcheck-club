@@ -1,6 +1,6 @@
 # Alexandria (MX)
 
-Alexandria (MX) is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Abrazarnos, Mexico City on Thu, 1 Oct 2026.
+Alexandria (MX) is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Abrazarnos, Mexico City on Thu, 1 Oct 2026.
 
 Alexandria (MX) is a guaracha and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Amapola Rose, Choi and Santa Bina. Next up: Abrazarnos, Mexicocity on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Alexandria (MX) is a guaracha and techno artist based in Mexico, tracked on soun
 
 Amapola Rose, Choi, Santa Bina
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria-2/)*

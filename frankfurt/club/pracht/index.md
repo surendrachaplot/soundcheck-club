@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex" on Sat, 19 Sept 2026.
+Pracht is a music venue in Frankfurt with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "feierabend. x ONGRND with Monsieur Vide & Shahab" on Thu, 24 Sept 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Castells, Benja Asima, BIANCA BLANCO and Claudius (DE) and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Castells, Benja Asima, BIANCA BLANCO and Claudius (DE) and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | PrachtNACHT with Mike Gannu, Claudius b2b stefan mueller, Maex | Claudius (DE), Maex, Mike Gannu, stefan mueller |
 | Thu, 24 Sept 2026 | feierabend. x ONGRND with Monsieur Vide & Shahab |  |
 | Fri, 25 Sept 2026 | Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie | EFÍMERO, JOLIE (DE) |
 | Sat, 26 Sept 2026 | PrachtNACHT with Malandra JR, THYS, Benja Asima | Benja Asima, Malandra JR, THYS (2) |
@@ -18,9 +17,10 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 10 Oct 2026 | PrachtNACHT with Lexer, Clavia., Yan Deno | Lexer |
 | Fri, 16 Oct 2026 | Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH | Daughter In Law |
 | Sat, 17 Oct 2026 | PrachtNACHT with Einmusik, Claudius, stefan mueller | Claudius (DE), Einmusik, stefan mueller |
+| Fri, 30 Oct 2026 | SPEECHLESS x Pracht with Pascale Voltaire | Andrea Castells, Pascale Voltaire |
 
 ## Address
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

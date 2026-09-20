@@ -1,15 +1,13 @@
 # THELMA
 
-THELMA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+THELMA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
-THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Skin On Skin, Faster Horses and Helena Lauwaert. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Skin On Skin, Faster Horses and Helena Lauwaert. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
-| Sat, 19 Sept 2026 | Club Vaag | Antwerp |
 | Sat, 26 Sept 2026 | Le Sucre | Lyon |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
@@ -17,6 +15,7 @@ THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged a
 
 ## Recently played
 
+- Club Vaag, Antwerp — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Badaboum, Paris — Fri, 4 Sept 2026
@@ -24,10 +23,9 @@ THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged a
 - Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
 - Index, Dublin — Sun, 2 Aug 2026
 - Soup, Manchester — Fri, 24 Jul 2026
-- La Terrrazza, Barcelona — Thu, 23 Jul 2026
 
 ## Shares bills with
 
 Skin On Skin, Faster Horses, Helena Lauwaert
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

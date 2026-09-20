@@ -1,15 +1,13 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SCRIPT" on Sat, 19 Sept 2026.
+Loo Loo is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "19:26" on Sat, 26 Sept 2026.
 
-Loo Loo is a music venue in Mexicocity listed on soundcheck. 6 upcoming gigs, with line-ups including Alexandthere, Dennis Cruz, Script (GE) and Soloiist and 1 more. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
+Loo Loo is a music venue in Mexicocity listed on soundcheck. 4 upcoming gigs, with line-ups including Alexandthere, Dennis Cruz and Swimming Paul. Browse upcoming dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SCRIPT | Script (GE), Soloiist |
-| Sat, 19 Sept 2026 | Script | Script (GE), Soloiist |
 | Sat, 26 Sept 2026 | 19:26 |  |
 | Sat, 3 Oct 2026 | Swimming Paul | Swimming Paul |
 | Sat, 3 Oct 2026 | Swimming Paul | Swimming Paul |
@@ -19,4 +17,4 @@ Loo Loo is a music venue in Mexicocity listed on soundcheck. 6 upcoming gigs, wi
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

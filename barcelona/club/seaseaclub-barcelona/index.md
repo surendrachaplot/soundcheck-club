@@ -1,15 +1,13 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "TSOA: Fritz Kalkbrenner & Einmusik (Open Air)" on Sat, 19 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SWING pres. Nic Fanciulli" on Sun, 20 Sept 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TSOA: Fritz Kalkbrenner & Einmusik (Open Air) | Agatha Pher, Einmusik, Envel, Fritz Kalkbrenner |
-| Sat, 19 Sept 2026 | Onirica |  |
 | Sun, 20 Sept 2026 | SWING pres. Nic Fanciulli | BizZa, DIROS, Nic Fanciulli, Rendher |
 | Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Fedele + Bob Tosh | Bob Tosh, Fedele, Joris Voorn |
 | Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros, Tom Banner |
@@ -18,9 +16,11 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 19 upco
 | Sat, 10 Oct 2026 | Alta Fidelidad 3D x Diggin' x Mirador x 24seven - 3 stages experience - 17:30-03:00 | Camion Bazar, Diesco, Lamache, Nancy (3), Vallde, Varan (2), Vilalta, Vince Void, Voodoos and Taboos, Yamour, arnald |
 | Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |
 | Sat, 17 Oct 2026 | INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko | Max Haas, Patrick Topping, Richy Ahmed, Rossko |
+| Sat, 17 Oct 2026 | PEOPLE | Couce |
+| Sat, 17 Oct 2026 | People | Couce |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

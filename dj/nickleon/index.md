@@ -1,6 +1,6 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
+Nick León is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
 
 Nick León is a techno and club artist tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Barcelona and Belfast and 51 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Good Room, Newyorkcity on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Nick León is a techno and club artist tracked on soundcheck, with 205 sets logg
 
 DJ Python, Bitter Babe, Jonny From Space
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickleon/)*

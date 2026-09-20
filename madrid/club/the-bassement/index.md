@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "BASSMNT CLUB presents SVEN VÄTH - V ANNIVERSARY I" on Sat, 19 Sept 2026.
+The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sintetic Club: The Opening" on Thu, 24 Sept 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including DJ AMAZING, DVS1, DXPE (ES) and Feral and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including DJ AMAZING, DVS1, DXPE (ES) and Feral and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | BASSMNT CLUB presents SVEN VÄTH - V ANNIVERSARY I | Sven Vath |
 | Thu, 24 Sept 2026 | Sintetic Club: The Opening | @n3opapi, Legiøn, Sora Éke |
 | Sat, 26 Sept 2026 | Laster Club presents DVS1 invites | DVS1, Lindsey Herbert, Metapattern |
 | Thu, 1 Oct 2026 | NITRO: DXPE B2B GNS + Tasuik + PÜCH B2B JRG + MVPDJ | DXPE (ES), GNS (1), JRG, MVPDJ, PÜCH, Tasuik |
@@ -23,4 +22,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs,
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

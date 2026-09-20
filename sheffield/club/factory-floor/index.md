@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sounds for Sudan X Don't Fret the Sweat" on Wed, 23 Sept 2026.
+Factory Floor is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sounds for Sudan X Don't Fret the Sweat" on Wed, 23 Sept 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Wax Thief. Browse upcoming dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -16,4 +16,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming gig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

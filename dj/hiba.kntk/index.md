@@ -1,6 +1,6 @@
 # HIBA.KNTK
 
-HIBA.KNTK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Department 184, Milan on Sun, 18 Oct 2026.
+HIBA.KNTK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Department 184, Milan on Sun, 18 Oct 2026.
 
 HIBA.KNTK is a techno artist tracked on soundcheck, with 22 sets logged across Milan. Often billed alongside KUZE.KNTK, DRYWAND.KNTK and Diamantha. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ HIBA.KNTK is a techno artist tracked on soundcheck, with 22 sets logged across M
 
 KUZE.KNTK, DRYWAND.KNTK, Diamantha
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiba.kntk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiba.kntk/)*

@@ -1,6 +1,6 @@
 # Not A Lex
 
-Not A Lex is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Subcero Club, Madrid on Sat, 24 Oct 2026.
+Not A Lex is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Subcero Club, Madrid on Sat, 24 Oct 2026.
 
 Not A Lex is a tech house and electronica artist based in Peru, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Héctor Pericet, Julio Machicado and Adrian Mart. Next up: Subcero Club, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Not A Lex is a tech house and electronica artist based in Peru, tracked on sound
 
 Héctor Pericet, Julio Machicado, Adrian Mart
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notalex/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notalex/)*

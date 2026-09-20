@@ -1,6 +1,6 @@
 # Oliva
 
-Oliva is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Rumours Only x Lotus Labs ADE Showcase" on Thu, 22 Oct 2026.
+Oliva is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Rumours Only x Lotus Labs ADE Showcase" on Thu, 22 Oct 2026.
 
 Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including AATMA, Ae:ther, Amethy and ANSWER (IN) and 2 more. Browse upcoming dates, start times and who's playing. Rembrantplein 17.
 
@@ -17,4 +17,4 @@ Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with 
 
 Rembrantplein 17, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oliva/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oliva/)*

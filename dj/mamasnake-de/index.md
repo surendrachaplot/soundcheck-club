@@ -1,6 +1,6 @@
 # Mama Snake
 
-Mama Snake is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
+Mama Snake is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
 
 Mama Snake is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: CLUB RAUM, Amsterdam on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Mama Snake is a techno and trance artist tracked on soundcheck, with 202 sets lo
 
 Spekki Webu, BASHKKA, DJ TOOL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*

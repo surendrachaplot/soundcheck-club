@@ -1,6 +1,6 @@
 # Broken English Club
 
-Broken English Club is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Club Cheek, London on Sat, 17 Oct 2026.
+Broken English Club is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Club Cheek, London on Sat, 17 Oct 2026.
 
 Broken English Club is a techno and ebm artist tracked on soundcheck, with 18 sets logged across Amsterdam, Athens, Berlin and London and 6 more. Often billed alongside An-i, Esther Dune and Faux Naif. Next up: Club Cheek, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Broken English Club is a techno and ebm artist tracked on soundcheck, with 18 se
 
 An-i, Esther Dune, Faux Naif
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenenglishclub/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenenglishclub/)*

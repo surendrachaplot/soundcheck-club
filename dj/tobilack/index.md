@@ -1,6 +1,6 @@
 # Tobi Lack
 
-Tobi Lack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
+Tobi Lack is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 9 Oct 2026.
 
 Tobi Lack is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Frankfurt and Madrid and 1 more. Often billed alongside Mara Menace, BA’AL and Juri Heidemann. Next up: Tokonoma Club, Frankfurt on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tobi Lack is a techno and house artist tracked on soundcheck, with 29 sets logge
 
 Mara Menace, BA’AL, Juri Heidemann
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobilack/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobilack/)*

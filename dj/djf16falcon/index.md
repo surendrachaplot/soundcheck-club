@@ -1,18 +1,18 @@
 # DJ F16 Falcon
 
-DJ F16 Falcon is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+DJ F16 Falcon is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-DJ F16 Falcon is a house and progressive house artist based in France, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Geneva and London and 4 more. Often billed alongside Alan Braxe, Boston Bun and Busy P. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
+DJ F16 Falcon is a house and progressive house artist based in France, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Geneva and London and 4 more. Often billed alongside Alan Braxe, Boston Bun and Busy P. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Nitsa Club, Barcelona — Sat, 19 Sept 2026
 - Nitsa Club, Barcelona — Sat, 17 Jan 2026
 - Ritter Butzke, Berlin — Fri, 19 Sept 2025
 - Nitsa Club, Barcelona — Fri, 13 Jun 2025
@@ -20,10 +20,9 @@ DJ F16 Falcon is a house and progressive house artist based in France, tracked o
 - Audio SF, San Francisco/Oakland — Fri, 29 Mar 2024
 - Sidney Myer Music Bowl, Melbourne — Sat, 2 Mar 2024
 - Sidney Myer Music Bowl, Melbourne — Sat, 2 Mar 2024
-- TBA - Paris, Paris — Fri, 1 Dec 2023
 
 ## Shares bills with
 
 Alan Braxe, Boston Bun, Busy P
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djf16falcon/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djf16falcon/)*

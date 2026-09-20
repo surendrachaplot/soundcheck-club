@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Gravagerz is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Boston, Copenhagen and London and 7 more. Often billed alongside James Hype (UK), Joshwa and TroyBoi. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -16,6 +16,7 @@ Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
+- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
 - Fortune Sound Club, Vancouver — Sat, 12 Sept 2026
 - Boat Cruise Summer Series, Boston — Sat, 29 Aug 2026
 - fabric, London — Fri, 10 Jul 2026
@@ -27,4 +28,4 @@ Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, wi
 
 James Hype (UK), Joshwa, TroyBoi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

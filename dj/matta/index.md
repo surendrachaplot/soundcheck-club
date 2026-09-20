@@ -1,6 +1,6 @@
 # Matta
 
-Matta is a Breakbeat and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
+Matta is a Breakbeat and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lula Club, Madrid on Thu, 24 Sept 2026.
 
 Matta is a breakbeat and tech house artist tracked on soundcheck, with 7 sets logged across Madrid, Mexicocity, Miami and Paris and 1 more. Often billed alongside Alexis mayer, DLV and Djon. Next up: Lula Club, Madrid on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Matta is a breakbeat and tech house artist tracked on soundcheck, with 7 sets lo
 
 Alexis mayer, DLV, Djon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matta/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matta/)*

@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Wall&wall, Tokyo on Mon, 21 Sept 2026.
+Minna-no-Kimochi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Wall&wall, Tokyo on Mon, 21 Sept 2026.
 
 Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Wall&wall, Tokyo on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked o
 
 AKIRAM EN, Bambounou, Clouds
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

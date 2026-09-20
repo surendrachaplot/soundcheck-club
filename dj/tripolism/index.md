@@ -1,14 +1,13 @@
 # Tripolism
 
-Tripolism is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Tripolism is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Tripolism is a house and afro house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside WhoMadeWho, Bedouin and Franky Wah. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Tripolism is a house and afro house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside WhoMadeWho, Bedouin and Franky Wah. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Sat, 3 Oct 2026 | Vera Cocina & بار | Washington DC |
 | Wed, 21 Oct 2026 | Westerkerk | Amsterdam |
@@ -29,4 +28,4 @@ Tripolism is a house and afro house artist tracked on soundcheck, with 77 sets l
 
 WhoMadeWho, Bedouin, Franky Wah
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

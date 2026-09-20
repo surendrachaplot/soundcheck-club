@@ -1,6 +1,6 @@
 # Soichi Terada
 
-Soichi Terada is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+Soichi Terada is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
 
 Soichi Terada is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Antal, SAMO (JP) and 50Minimals. Next up: Odaiba, Tokyo on Tue 22 Sept.
 
@@ -28,4 +28,4 @@ Soichi Terada is a house and techno artist tracked on soundcheck, with 114 sets 
 
 Antal, SAMO (JP), 50Minimals
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*

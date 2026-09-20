@@ -1,6 +1,6 @@
 # Harley (US)
 
-Harley (US) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Vagabond, Washington DC on Sun, 27 Sept 2026.
+Harley (US) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Vagabond, Washington DC on Sun, 27 Sept 2026.
 
 Harley (US) is a house and club artist based in United States of America, tracked on soundcheck, with 22 sets logged across Washingtondc. Often billed alongside xXabiXx, Gabberbitch69 and Girlypop Princess. Next up: Vagabond, Washingtondc on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Harley (US) is a house and club artist based in United States of America, tracke
 
 xXabiXx, Gabberbitch69, Girlypop Princess
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harley-2/)*

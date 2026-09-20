@@ -1,6 +1,6 @@
 # Daltons Brighton
 
-Daltons Brighton is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Meet Your Heroes EP Launch + Year of the Bear" on Sun, 27 Sept 2026.
+Daltons Brighton is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Meet Your Heroes EP Launch + Year of the Bear" on Sun, 27 Sept 2026.
 
 Daltons Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming gigs, with line-ups including Creep-P. Browse upcoming dates, start times and who's playing. Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB.
 
@@ -15,4 +15,4 @@ Daltons Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming g
 
 Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB, Brighton
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*

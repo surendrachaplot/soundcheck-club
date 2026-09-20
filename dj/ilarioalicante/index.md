@@ -1,14 +1,13 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 19 Sept 2026.
+Ilario Alicante is a Tech House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 25 Sept 2026.
 
-Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Ushuaïa Ibiza, Ibiza on Sat 19 Sept.
+Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Pacha Ibiza, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Bolivar Beach Bar | Athens |
 | Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
@@ -18,6 +17,7 @@ Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sat, 19 Sept 2026
 - [UNVRS], Ibiza — Sat, 12 Sept 2026
 - Fabrik, Madrid — Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 25 Aug 2026
@@ -25,10 +25,9 @@ Ilario Alicante is a tech house and techno artist tracked on soundcheck, with 19
 - Brooklyn Army Terminal, New York City — Sat, 15 Aug 2026
 - Cavo Paradiso, Mykonos — Tue, 11 Aug 2026
 - [UNVRS], Ibiza — Sun, 9 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Marco Carola, Paco Osuna, Franky Rizardo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*

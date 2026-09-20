@@ -1,6 +1,6 @@
 # WVRM POOL
 
-WVRM POOL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
+WVRM POOL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
 
 WVRM POOL is a techno and trance artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Varanasi, Desiree' and Nina Pixina. Next up: The Island, Bristol on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ WVRM POOL is a techno and trance artist tracked on soundcheck, with 28 sets logg
 
 Varanasi, Desiree', Nina Pixina
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*

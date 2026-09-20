@@ -1,6 +1,6 @@
 # Revlow
 
-Revlow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Brixton Radio, London on Sat, 26 Sept 2026.
+Revlow is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Brixton Radio, London on Sat, 26 Sept 2026.
 
 Revlow is a house and disco artist tracked on soundcheck, with 38 sets logged across London. Often billed alongside Ardishko, LuSay and AJ Moreno. Next up: Brixton Radio, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Revlow is a house and disco artist tracked on soundcheck, with 38 sets logged ac
 
 Ardishko, LuSay, AJ Moreno
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/revlow/)*

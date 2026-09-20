@@ -1,14 +1,13 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice" on Sat, 19 Sept 2026.
+Club Vaag is a music venue in Antwerp with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Club Vaag invites Ueberrest, TASSERY & THISO" on Fri, 25 Sept 2026.
 
-Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with line-ups including BISOUX, BØĘRY, CeeJay and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
+Club Vaag is a music venue in Antwerp listed on soundcheck. 12 upcoming gigs, with line-ups including BISOUX, BØĘRY, CeeJay and Eran Aviner and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | 11 Years Club Vaag with DJ IP, Entasia, THELMA & Jef Nice | DJ IP, Entasia, Jef Nice, THELMA |
 | Fri, 25 Sept 2026 | Club Vaag invites Ueberrest, TASSERY & THISO | JIPSEY, TASSERY, THISO, Ueberrest |
 | Sat, 26 Sept 2026 | Club Vaag invites ANOLUXX & CeeJay | CeeJay |
 | Fri, 2 Oct 2026 | Club Vaag invites Faster Horses, Milion & Unregular | Faster Horses, Milion, Unregular |
@@ -18,9 +17,10 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 16 Oct 2026 | Club Vaag invites DROS & GO$PEL |  |
 | Sat, 17 Oct 2026 | Club Vaag invites LAMMER (Extended Set) | BISOUX, Jef Nice, LAMMER |
 | Fri, 23 Oct 2026 | Club Vaag invites BØĘRY & Raxeller | BØĘRY, Raxeller |
+| Sun, 25 Oct 2026 | Club Vaag invites Ueberrest, TASSERY & THISO | JIPSEY, TASSERY, THISO, Ueberrest |
 
 ## Address
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

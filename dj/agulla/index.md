@@ -1,6 +1,6 @@
 # Agulla
 
-Agulla is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
+Agulla is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
 
 Agulla is a techno artist tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Vitreoux, DJ SO and INTK (ES). Next up: Cadavra, Madrid on Thu 24 Sept.
 
@@ -24,4 +24,4 @@ Agulla is a techno artist tracked on soundcheck, with 8 sets logged across Madri
 
 Vitreoux, DJ SO, INTK (ES)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agulla/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agulla/)*

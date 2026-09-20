@@ -1,14 +1,13 @@
 # Xinobi
 
-Xinobi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Xinobi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
-Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 25 Sept 2026 | Teatro Bellini | Naples |
 | Sun, 4 Oct 2026 | Flash | Washington DC |
 | Sun, 11 Oct 2026 | Circus Tokyo | Tokyo |
@@ -30,4 +29,4 @@ Xinobi is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

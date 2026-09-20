@@ -1,18 +1,18 @@
 # Shirlee
 
-Shirlee is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Newspeak, Montreal on Sat, 19 Sept 2026.
+Shirlee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
 
-Shirlee is a house and deep house artist tracked on soundcheck, with 29 sets logged across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and Linska. Next up: Newspeak, Montreal on Sat 19 Sept.
+Shirlee is a house and deep house artist tracked on soundcheck, with 29 sets logged across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and Linska. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Newspeak | Montreal |
 | Fri, 9 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
 
+- Newspeak, Montreal — Sat, 19 Sept 2026
 - StereoBar, Montreal — Sat, 5 Sept 2026
 - StereoBar, Montreal — Fri, 12 Jun 2026
 - L'Olympia, Montreal — Fri, 3 Apr 2026
@@ -20,10 +20,9 @@ Shirlee is a house and deep house artist tracked on soundcheck, with 29 sets log
 - Igloofest, Montreal — Sat, 31 Jan 2026
 - StereoBar, Montreal — Sat, 13 Dec 2025
 - Newspeak, Montreal — Sat, 29 Nov 2025
-- MTELUS, Montreal — Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Guillaume Michaud, Ben Sterling, Linska
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*

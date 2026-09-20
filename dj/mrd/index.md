@@ -1,6 +1,6 @@
 # MrD
 
-MrD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+MrD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
 MrD is a techno and trance artist based in Qatar, tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside MRD (NO), MCR-T and DJ Gigola. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MrD is a techno and trance artist based in Qatar, tracked on soundcheck, with 97
 
 MRD (NO), MCR-T, DJ Gigola
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd/)*

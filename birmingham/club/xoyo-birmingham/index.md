@@ -1,6 +1,6 @@
 # XOYO Birmingham
 
-XOYO Birmingham is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "CANCELLED  - The Birmingham Freshers Moving In Rave - HOSTED BY Milkshake" on Sun, 20 Sept 2026.
+XOYO Birmingham is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "CANCELLED  - The Birmingham Freshers Moving In Rave - HOSTED BY Milkshake" on Sun, 20 Sept 2026.
 
 XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Lens (2). Browse upcoming dates, start times and who's playing. B9 4AG.
 
@@ -15,4 +15,4 @@ XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 2 upcoming 
 
 B9 4AG, Birmingham
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*

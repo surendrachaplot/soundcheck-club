@@ -1,14 +1,15 @@
 # oulcan
 
-oulcan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at OXI, Berlin on Sun, 20 Sept 2026.
+oulcan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OXI, Berlin on Sun, 20 Sept 2026.
 
-oulcan is a house and techno artist tracked on soundcheck, with 35 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: OXI, Berlin on Sun 20 Sept.
+oulcan is a house and disco artist tracked on soundcheck, with 36 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: OXI, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | OXI | Berlin |
+| Sat, 7 Nov 2026 | Süss War Gestern | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ oulcan is a house and techno artist tracked on soundcheck, with 35 sets logged a
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

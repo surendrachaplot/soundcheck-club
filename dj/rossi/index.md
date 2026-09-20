@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Rossi is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -9,7 +9,6 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
-| Sat, 19 Sept 2026 | TBA - Ives Rd, London E16 4Sh | London |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 3 Oct 2026 | Amnesia Milano | Milan |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 | Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
+| Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- TBA - Ives Rd, London E16 4Sh, London — Sat, 19 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 28 Aug 2026
 - Expo Lawn West, Los Angeles — Sat, 22 Aug 2026
-- Brooklyn Storehouse, New York City — Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Traumer
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

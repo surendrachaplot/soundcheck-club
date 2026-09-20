@@ -1,6 +1,6 @@
 # Bijon
 
-Bijon is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
+Bijon is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
 Bijon is a house and balearic artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, London and Manchester. Often billed alongside Bobby Thorpe, Cardi-O and Olsvangèr. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bijon is a house and balearic artist based in Germany, tracked on soundcheck, wi
 
 Bobby Thorpe, Cardi-O, Olsvangèr
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bijon/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bijon/)*

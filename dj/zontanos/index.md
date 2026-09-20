@@ -1,6 +1,6 @@
 # zøntanos
 
-zøntanos is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at IT Athens, Athens on Sat, 26 Sept 2026.
+zøntanos is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at IT Athens, Athens on Sat, 26 Sept 2026.
 
 zøntanos is a techno and minimal techno artist tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Brazi, Alma Libre and DOMINO (2). Next up: IT Athens, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ zøntanos is a techno and minimal techno artist tracked on soundcheck, with 9 se
 
 Brazi, Alma Libre, DOMINO (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zontanos/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zontanos/)*

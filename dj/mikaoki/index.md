@@ -1,6 +1,6 @@
 # Mika Oki
 
-Mika Oki is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Mika Oki is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Mika Oki is a techno and bass artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mika Oki is a techno and bass artist tracked on soundcheck, with 66 sets logged 
 
 Sara Persico, ojoo, NVST
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*

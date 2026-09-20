@@ -1,14 +1,13 @@
 # SHUFFA
 
-SHUFFA is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Wintercircus, Ghent on Fri, 18 Sept 2026.
+SHUFFA is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Night Tales, London on Fri, 2 Oct 2026.
 
-SHUFFA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Belfast and 15 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: Club Wintercircus, Ghent on Fri 18 Sept.
+SHUFFA is a garage and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Belfast and 15 more. Often billed alongside Diffrent, Rich Reason and T-Man (UK). Next up: Night Tales, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Club Wintercircus | Ghent |
 | Fri, 2 Oct 2026 | Night Tales | London |
 | Fri, 9 Oct 2026 | SWG3 | Glasgow |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
@@ -31,4 +30,4 @@ SHUFFA is a garage and house artist based in United Kingdom, tracked on soundche
 
 Diffrent, Rich Reason, T-Man (UK)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuffa/)*

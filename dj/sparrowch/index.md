@@ -1,6 +1,6 @@
 # Sparrow (CH)
 
-Sparrow (CH) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
+Sparrow (CH) is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Savaya Bali, Bali on Sat, 19 Sept 2026.
 
 Sparrow (CH) is an afro house and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Amsterdam, Bali, Chicago and Ibiza and 1 more. Often billed alongside Betical, CISUMMI and Henrik Schwarz. Next up: Savaya Bali, Bali on Sat 19 Sept.
 
@@ -13,6 +13,7 @@ Sparrow (CH) is an afro house and house artist based in Spain, tracked on soundc
 
 ## Recently played
 
+- Savaya Bali, Bali — Sat, 19 Sept 2026
 - Elsewhere, New York City — Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza — Fri, 21 Aug 2026
 - Spybar, Chicago — Fri, 12 Jun 2026
@@ -22,4 +23,4 @@ Sparrow (CH) is an afro house and house artist based in Spain, tracked on soundc
 
 Betical, CISUMMI, Henrik Schwarz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*

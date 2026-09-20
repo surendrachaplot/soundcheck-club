@@ -1,15 +1,13 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brick Street, Liverpool on Sat, 19 Sept 2026.
+Crazy P is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Brick Street, Liverpool on Sat 19 Sept.
+Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Brick Street | Liverpool |
-| Sat, 19 Sept 2026 | The Hifi Club | Leeds |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Charlies Loft | Glasgow |
 | Sat, 10 Oct 2026 | Sala Villanos | Madrid |
@@ -18,17 +16,17 @@ Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged 
 
 ## Recently played
 
+- Brick Street, Liverpool — Sat, 19 Sept 2026
+- The Hifi Club, Leeds — Sat, 19 Sept 2026
 - Cabaret Voltaire, Edinburgh — Wed, 16 Sept 2026
 - LDN East, London — Sat, 5 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - Frankhan Selectist, Istanbul — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Thu, 9 Jul 2026
-- Quarters, Brighton — Sat, 4 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 DJ Paulette, Luke Una, MiNNA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

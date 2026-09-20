@@ -1,6 +1,6 @@
 # Opuntia
 
-Opuntia is a Electronica and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Opuntia is a Electronica and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Opuntia is an electronica and classical artist tracked on soundcheck, with 12 sets logged across Mexicocity and Milan. Often billed alongside Buena Tarde, Ejival and Julia Toporek. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Opuntia is an electronica and classical artist tracked on soundcheck, with 12 se
 
 Buena Tarde, Ejival, Julia Toporek
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*

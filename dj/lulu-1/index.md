@@ -1,6 +1,6 @@
 # LULU (1)
 
-LULU (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bike Jesus, Prague on Fri, 2 Oct 2026.
+LULU (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bike Jesus, Prague on Fri, 2 Oct 2026.
 
 LULU (1) is a techno and trance artist based in Japan, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Bristol and Paris and 3 more. Often billed alongside Dash (CZ), 999999999 and ARTISAN. Next up: Bike Jesus, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ LULU (1) is a techno and trance artist based in Japan, tracked on soundcheck, wi
 
 Dash (CZ), 999999999, ARTISAN
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*

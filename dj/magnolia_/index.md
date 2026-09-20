@@ -1,6 +1,6 @@
 # Magnolia_
 
-Magnolia_ is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Magnolia_ is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Magnolia_ is a disco and house artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 7 more. Often billed alongside Bustin' Loose, Tatiana and Crystal Touch. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Magnolia_ is a disco and house artist based in France, tracked on soundcheck, wi
 
 Bustin' Loose, Tatiana, Crystal Touch
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia_/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia_/)*

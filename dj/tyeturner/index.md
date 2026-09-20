@@ -1,6 +1,6 @@
 # Tye Turner
 
-Tye Turner is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
+Tye Turner is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
 Tye Turner is a baile funk and club artist tracked on soundcheck, with 9 sets logged across Austin, Bristol, Kualalumpur and London and 5 more. Often billed alongside Baby J (2), LARISHKA (UK) and IN PARALLEL. Next up: Elsewhere, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tye Turner is a baile funk and club artist tracked on soundcheck, with 9 sets lo
 
 Baby J (2), LARISHKA (UK), IN PARALLEL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*

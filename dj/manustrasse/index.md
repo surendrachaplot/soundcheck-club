@@ -1,6 +1,6 @@
 # Manu Strasse
 
-Manu Strasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
+Manu Strasse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
 
 Manu Strasse is a techno and house artist tracked on soundcheck, with 71 sets logged across Berlin, Hamburg, Madrid and Malaga and 3 more. Often billed alongside Adron_, Leah Marie and magic.made.by.r. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Manu Strasse is a techno and house artist tracked on soundcheck, with 71 sets lo
 
 Adron_, Leah Marie, magic.made.by.r
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manustrasse/)*

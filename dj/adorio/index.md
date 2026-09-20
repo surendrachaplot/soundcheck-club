@@ -1,6 +1,6 @@
 # Adorio
 
-Adorio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
+Adorio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
 
 Adorio is a house and deep house artist based in United States of America, tracked on soundcheck, with 103 sets logged across Chicago and Sanfrancisco. Often billed alongside Gene Hunt, Mike Dunn and Terry Hunter. Next up: Navy Pier, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Adorio is a house and deep house artist based in United States of America, track
 
 Gene Hunt, Mike Dunn, Terry Hunter
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adorio/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adorio/)*

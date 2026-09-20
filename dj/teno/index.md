@@ -1,18 +1,18 @@
 # TENO
 
-TENO is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Noon + Cafe, Osaka on Sat, 19 Sept 2026.
+TENO is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at rake?raka?, Osaka on Mon, 21 Sept 2026.
 
-TENO is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 66 sets logged across Berlin, Kyoto, Madrid and Osaka and 2 more. Often billed alongside DJ HI-C, OSHALEY and Toru Ikemoto. Next up: Noon + Cafe, Osaka on Sat 19 Sept.
+TENO is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 66 sets logged across Berlin, Kyoto, Madrid and Osaka and 2 more. Often billed alongside DJ HI-C, OSHALEY and Toru Ikemoto. Next up: rake?raka?, Osaka on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Noon + Cafe | Osaka |
 | Mon, 21 Sept 2026 | rake?raka? | Osaka |
 
 ## Recently played
 
+- Noon + Cafe, Osaka — Sat, 19 Sept 2026
 - Upsidedown, Osaka — Fri, 18 Sept 2026
 - Upsidedown, Osaka — Sat, 12 Sept 2026
 - rake?raka?, Osaka — Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ TENO is a techno and minimal techno artist based in Japan, tracked on soundcheck
 - Area_osaka, Osaka — Fri, 5 Jun 2026
 - Upsidedown, Osaka — Sat, 18 Apr 2026
 - Atdge Seoul, Seoul — Sun, 5 Apr 2026
-- Area_osaka, Osaka — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 DJ HI-C, OSHALEY, Toru Ikemoto
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teno/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teno/)*

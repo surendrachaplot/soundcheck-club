@@ -1,15 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HALOGEN" on Wed, 16 Sept 2026.
+Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Rad" on Sun, 20 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AAGUU, An toi, Carl H and Celter and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AAGUU, Carl H, Celter and Dan Andrei and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | HALOGEN | HIMAWARI, KOPY, Ko Umehara, nano odorine |
-| Sat, 19 Sept 2026 | QUERICO x CREATURES OF THE NIGHT: Zombies in Miami, DSKE & Manaha | An toi, DSKE, Manaha, Zombies In Miami |
 | Sun, 20 Sept 2026 | Rad | AAGUU, Gonno, K.E.G |
 | Tue, 22 Sept 2026 | RENKEN |  |
 | Thu, 24 Sept 2026 | Remmy 'When The Dawn Breaks' EP Release Party | DNG (1) |
@@ -18,9 +16,11 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with l
 | Wed, 7 Oct 2026 | Invites:Yonti | Shinsuke Goto, YUI (JP.), Yonti, Zorba |
 | Fri, 9 Oct 2026 | Carl H / DJ MARIA. / K.E.G | Carl H, DJ MARIA., K.E.G |
 | Sat, 10 Oct 2026 | .nisoo | Dan Andrei, Junki Inoue |
+| Mon, 12 Oct 2026 | DOTT/levolant | DOTT, levolant |
+| Sat, 24 Oct 2026 | Bar Temp Take Over | Jirus (MELA), Kova O' Sarin, Sarayu, Wada Yosuke, levolant |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

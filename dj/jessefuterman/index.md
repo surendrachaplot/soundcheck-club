@@ -1,6 +1,6 @@
 # Jesse Futerman
 
-Jesse Futerman is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Bar Datcha, Montreal on Sat, 3 Oct 2026.
+Jesse Futerman is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Datcha, Montreal on Sat, 3 Oct 2026.
 
 Jesse Futerman is a tech house and club artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal and Toronto. Often billed alongside 2ManyDJs, Cal C (Modern Art) and DJ Snape. Next up: Bar Datcha, Montreal on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Jesse Futerman is a tech house and club artist based in Canada, tracked on sound
 
 2ManyDJs, Cal C (Modern Art), DJ Snape
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessefuterman/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessefuterman/)*

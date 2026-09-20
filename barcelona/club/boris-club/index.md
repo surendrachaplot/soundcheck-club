@@ -1,14 +1,13 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Boris pres. Damian Lazarus" on Sat, 19 Sept 2026.
+BORIS CLUB is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Pax Arabiana - Boris III" on Thu, 24 Sept 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including AJNA, Ander Race, BizZa and Catz 'N Dogz and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including AJNA, Ander Race, BizZa and Catz 'N Dogz and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Boris pres. Damian Lazarus | Damian Lazarus, JANSE, Marcel BS |
 | Thu, 24 Sept 2026 | Pax Arabiana - Boris III | Pax Arabiana |
 | Thu, 24 Sept 2026 | Boris - Pax Arabiana | Pax Arabiana |
 | Fri, 25 Sept 2026 | Boris Friday - FREE TICKETS | Ander Race, HeAndMe |
@@ -18,9 +17,10 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 | Fri, 9 Oct 2026 | Boris Club | Marcel BS, Odrik |
 | Sat, 10 Oct 2026 | Boris pres. Dimitri From Paris | Dimitri From Paris, K:ROL |
 | Fri, 16 Oct 2026 | Boris pres. Catz 'N Dogz | Catz 'N Dogz |
+| Sat, 31 Oct 2026 | Funkey (Halloween) | Jordi Carreras |
 
 ## Address
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

@@ -1,14 +1,13 @@
 # Morphine Raum
 
-Morphine Raum is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Meccanismo" on Sat, 19 Sept 2026.
+Morphine Raum is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Black Communion 3rd Edition 2026 1st evening" on Thu, 24 Sept 2026.
 
-Morphine Raum is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including AFRORACK, Fire At Work, Gareth Psaltis and Jacob Stoy and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Straße 147, Hinterhof 1. Etage, 10997 Berlin.
+Morphine Raum is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including AFRORACK, Gareth Psaltis, Jacob Stoy and Opoku and 1 more. Browse upcoming dates, start times and who's playing. Köpenicker Straße 147, Hinterhof 1. Etage, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Meccanismo | Fire At Work, Menion, Odra Ode |
 | Thu, 24 Sept 2026 | Black Communion 3rd Edition 2026 1st evening | AFRORACK, Opoku |
 | Fri, 25 Sept 2026 | Black Communion 3rd Edition 2026 2nd Evening | AFRORACK, Opoku |
 | Sun, 27 Sept 2026 | Jakob Vasak - Kobophon Live |  |
@@ -20,4 +19,4 @@ Morphine Raum is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 
 Köpenicker Straße 147, Hinterhof 1. Etage, 10997 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/morphine-raum/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/morphine-raum/)*

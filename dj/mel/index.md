@@ -1,6 +1,6 @@
 # Mel
 
-Mel is a Progressive House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Badaboum, Paris on Fri, 16 Oct 2026.
+Mel is a Progressive House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Badaboum, Paris on Fri, 16 Oct 2026.
 
 Mel is a progressive house and drum & bass artist tracked on soundcheck, with 11 sets logged across Barcelona, Bristol, London and Marseille and 3 more. Often billed alongside Disrupta, 1991 and A.M.C.. Next up: Badaboum, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Mel is a progressive house and drum & bass artist tracked on soundcheck, with 11
 
 Disrupta, 1991, A.M.C.
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mel/)*

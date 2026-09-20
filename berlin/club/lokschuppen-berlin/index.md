@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 71 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NEER Eve & Night + Art Exhibition" on Sat, 19 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 70 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "wieder: No Gravity x Eternity Showcase" on Sun, 20 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | NEER Eve & Night + Art Exhibition | BAUTZ, BUTZ, Hekato, Josiane, Jynki, KIKE Friday, Oskar Knickelbein, Philena, Smoothie Operator, krawallwitz |
 | Sun, 20 Sept 2026 | wieder: No Gravity x Eternity Showcase | Callado, Obelisk030, SALCHIKILLER, mølly (on molly) |
 | Tue, 22 Sept 2026 | PHASE:ONE | Megaira |
 | Wed, 23 Sept 2026 | SIGNALS |  |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming 
 | Sat, 26 Sept 2026 | GOAT BALL SUMMER CLOSING  | DJ 069, DJ Bax, EDNA, Katy Rough, Krash Cora, MIMI404, ROÜGE, SOHOE, Stinny Stone, TERRA TWIINS, cravings320, suki, vizionn |
 | Sun, 27 Sept 2026 | LOKSCHUPPEN SUMMER CLOSING |  |
 | Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | EGE363, Jacky Ickx |
+| Tue, 29 Sept 2026 | PHASE:ONE | Levandream, Shilo |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

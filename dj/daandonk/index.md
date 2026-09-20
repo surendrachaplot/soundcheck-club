@@ -1,6 +1,6 @@
 # Daan Donk
 
-Daan Donk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
+Daan Donk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
 
 Daan Donk is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Desyn, Mia Cecille and Idilay. Next up: Benelux BAR, Amsterdam on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Daan Donk is a house and techno artist tracked on soundcheck, with 68 sets logge
 
 Desyn, Mia Cecille, Idilay
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daandonk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daandonk/)*

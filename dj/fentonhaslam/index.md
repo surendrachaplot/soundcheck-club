@@ -1,6 +1,6 @@
 # Fenton Haslam
 
-Fenton Haslam is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Soup, Manchester on Fri, 18 Dec 2026.
+Fenton Haslam is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Soup, Manchester on Fri, 18 Dec 2026.
 
 Fenton Haslam is a tech house and techno artist tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Bobby Scallop, Something Good (UK) and Adam Shelton. Next up: Soup, Manchester on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Fenton Haslam is a tech house and techno artist tracked on soundcheck, with 10 s
 
 Bobby Scallop, Something Good (UK), Adam Shelton
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonhaslam/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonhaslam/)*

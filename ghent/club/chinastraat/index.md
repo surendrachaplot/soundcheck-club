@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Piknik Elektronik Closing Open Air Season" on Sun, 20 Sept 2026.
+Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Piknik Elektronik Closing Open Air Season" on Sun, 20 Sept 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Alycia Bezgo, BIIANCO, DURDENHAUER and JEKKAMAÏ and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -18,4 +18,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

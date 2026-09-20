@@ -1,6 +1,6 @@
 # KINDA
 
-KINDA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
+KINDA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 KINDA is a techno and acid artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Brussels and Madrid and 2 more. Often billed alongside Acidnena, EMIR-B and no.masc. Next up: El Pumarejo Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ KINDA is a techno and acid artist tracked on soundcheck, with 30 sets logged acr
 
 Acidnena, EMIR-B, no.masc
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinda-ar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinda-ar/)*

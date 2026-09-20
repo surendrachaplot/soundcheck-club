@@ -1,6 +1,6 @@
 # Canine Cracks
 
-Canine Cracks is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Nido Marseille, Marseille on Thu, 15 Oct 2026.
+Canine Cracks is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nido Marseille, Marseille on Thu, 15 Oct 2026.
 
 Canine Cracks is an electronic artist tracked on soundcheck, with 5 sets logged across Brussels, Marseille and Paris. Often billed alongside Joshua Murphy, Nova Materia and Abajour. Next up: Nido Marseille, Marseille on Thu 15 Oct.
 
@@ -21,4 +21,4 @@ Canine Cracks is an electronic artist tracked on soundcheck, with 5 sets logged 
 
 Joshua Murphy, Nova Materia, Abajour
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caninecracks/)*

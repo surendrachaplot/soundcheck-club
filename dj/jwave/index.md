@@ -1,14 +1,13 @@
 # jWave
 
-jWave is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
+jWave is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-jWave is a tech house and house artist tracked on soundcheck, with 52 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Toffler, Rotterdam on Sat 19 Sept.
+jWave is a tech house and house artist tracked on soundcheck, with 52 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 16 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Toffler | Rotterdam |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 1 Nov 2026 | The Cause | London |
@@ -16,6 +15,7 @@ jWave is a tech house and house artist tracked on soundcheck, with 52 sets logge
 
 ## Recently played
 
+- Toffler, Rotterdam — Sat, 19 Sept 2026
 - ark (Melb), Melbourne — Sat, 12 Sept 2026
 - Room 22, Sydney — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
@@ -23,10 +23,9 @@ jWave is a tech house and house artist tracked on soundcheck, with 52 sets logge
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
 - Amnesia Ibiza, Ibiza — Thu, 4 Jun 2026
-- Unit 51, Aberdeen — Sun, 3 May 2026
 
 ## Shares bills with
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

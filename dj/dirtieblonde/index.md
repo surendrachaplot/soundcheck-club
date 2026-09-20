@@ -1,6 +1,6 @@
 # Dirtie Blonde
 
-Dirtie Blonde is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bar Franca, Los Angeles on Wed, 16 Sept 2026.
+Dirtie Blonde is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Franca, Los Angeles on Wed, 16 Sept 2026.
 
 Dirtie Blonde is a house and disco artist based in United States of America, tracked on soundcheck, with 31 sets logged across Birmingham, Brighton, Chicago and London and 3 more. Often billed alongside H.U.D.L, ZØRAYA and FridaY (DE). Next up: Bar Franca, Losangeles on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Dirtie Blonde is a house and disco artist based in United States of America, tra
 
 H.U.D.L, ZØRAYA, FridaY (DE)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtieblonde/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtieblonde/)*

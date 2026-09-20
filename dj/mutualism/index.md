@@ -1,6 +1,6 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Jama, Toronto on Fri, 16 Oct 2026.
+Mutualism is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Jama, Toronto on Fri, 16 Oct 2026.
 
 Mutualism is a house and techno artist based in United States of America, tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Berlin and Boston and 10 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: The Jama, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mutualism is a house and techno artist based in United States of America, tracke
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

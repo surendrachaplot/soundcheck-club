@@ -1,6 +1,6 @@
 # Rina Katen
 
-Rina Katen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Rina Katen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
 Rina Katen is a house and disco artist tracked on soundcheck, with 53 sets logged across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: OXI, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Rina Katen is a house and disco artist tracked on soundcheck, with 53 sets logge
 
 justcallmesergio, Loves_kills, Slow PSTL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*

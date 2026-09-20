@@ -1,6 +1,6 @@
 # Denis Horvat
 
-Denis Horvat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+Denis Horvat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
 Denis Horvat is a techno and house artist based in Denmark, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Austin and Barcelona and 27 more. Often billed alongside Colyn, Lehar and Auggië. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Denis Horvat is a techno and house artist based in Denmark, tracked on soundchec
 
 Colyn, Lehar, Auggië
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*

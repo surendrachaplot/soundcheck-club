@@ -1,6 +1,6 @@
 # Oyubi
 
-Oyubi is a Bass and Footwork artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
+Oyubi is a Bass and Footwork artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
 
 Oyubi is a bass and footwork artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Kyoto and London and 4 more. Often billed alongside Fetus, Seimei and Dayzero. Next up: Aoyama Hachi, Tokyo on Mon 21 Sept.
 
@@ -28,4 +28,4 @@ Oyubi is a bass and footwork artist tracked on soundcheck, with 86 sets logged a
 
 Fetus, Seimei, Dayzero
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oyubi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oyubi/)*

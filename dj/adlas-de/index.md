@@ -1,6 +1,6 @@
 # Adlas
 
-Adlas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
+Adlas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Adlas is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Cologne and Mexicocity and 3 more. Often billed alongside Victor (DE), OPH and AGY3NA. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Adlas is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Victor (DE), OPH, AGY3NA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adlas-de/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adlas-de/)*

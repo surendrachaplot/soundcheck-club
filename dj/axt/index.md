@@ -1,6 +1,6 @@
 # AXT
 
-AXT is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 20 Sept 2026.
+AXT is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 20 Sept 2026.
 
 AXT is a techno and bass artist based in Ukraine, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 5 more. Often billed alongside Andriy K., Andrey Kostyukov and NEW MAGIC MEDIA. Next up: TBA - Secret Location, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ AXT is a techno and bass artist based in Ukraine, tracked on soundcheck, with 67
 
 Andriy K., Andrey Kostyukov, NEW MAGIC MEDIA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axt/)*

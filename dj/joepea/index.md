@@ -1,6 +1,6 @@
 # Joe Pea
 
-Joe Pea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Spin, San Diego on Sat, 17 Oct 2026.
+Joe Pea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Spin, San Diego on Sat, 17 Oct 2026.
 
 Joe Pea is a house and techno artist tracked on soundcheck, with 13 sets logged across Portland and Sandiego. Often billed alongside Mr Wright, Terry Jasinto and Anthony Attalla. Next up: Spin, Sandiego on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joe Pea is a house and techno artist tracked on soundcheck, with 13 sets logged 
 
 Mr Wright, Terry Jasinto, Anthony Attalla
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joepea/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joepea/)*

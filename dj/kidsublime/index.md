@@ -1,6 +1,6 @@
 # Kid Sublime
 
-Kid Sublime is a Funk / Soul and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Black Gold, Amsterdam on Thu, 22 Oct 2026.
+Kid Sublime is a Funk / Soul and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Black Gold, Amsterdam on Thu, 22 Oct 2026.
 
 Kid Sublime is a funk / soul and broken beat artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Rob Coley, Chris Wheatley and DJ Emma (2). Next up: Black Gold, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Kid Sublime is a funk / soul and broken beat artist tracked on soundcheck, with 
 
 Rob Coley, Chris Wheatley, DJ Emma (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsublime/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsublime/)*

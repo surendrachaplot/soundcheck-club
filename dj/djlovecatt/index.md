@@ -1,6 +1,6 @@
 # DJ LoveCatt
 
-DJ LoveCatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
+DJ LoveCatt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
 
 DJ LoveCatt is a house and techno artist based in Denmark, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Cologne and Copenhagen. Often billed alongside Robin Flux, CAYOOTEE and Ghosten. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ LoveCatt is a house and techno artist based in Denmark, tracked on soundcheck
 
 Robin Flux, CAYOOTEE, Ghosten
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlovecatt/)*

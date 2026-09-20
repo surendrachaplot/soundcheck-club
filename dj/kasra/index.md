@@ -1,14 +1,13 @@
 # Kasra
 
-Kasra is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Grelle Forelle, Vienna on Sat, 19 Sept 2026.
+Kasra is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
-Kasra is a drum & bass and bass artist tracked on soundcheck, with 58 sets logged across Basel, Berlin, Brighton and Bristol and 18 more. Often billed alongside Enei, Jakes and Mantmast. Next up: Grelle Forelle, Vienna on Sat 19 Sept.
+Kasra is a drum & bass and bass artist tracked on soundcheck, with 58 sets logged across Basel, Berlin, Brighton and Bristol and 18 more. Often billed alongside Enei, Jakes and Mantmast. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 3 Oct 2026 | The Red Room | Vancouver |
 | Sat, 3 Oct 2026 | The Red Room | Vancouver |
 | Fri, 23 Oct 2026 | fabric | London |
@@ -17,6 +16,7 @@ Kasra is a drum & bass and bass artist tracked on soundcheck, with 58 sets logge
 
 ## Recently played
 
+- Grelle Forelle, Vienna — Sat, 19 Sept 2026
 - Garbe Holešovice, Prague — Fri, 24 Apr 2026
 - VIERNULVIER, Ghent — Sat, 21 Mar 2026
 - Circolo Magnolia, Milan — Fri, 13 Mar 2026
@@ -24,10 +24,9 @@ Kasra is a drum & bass and bass artist tracked on soundcheck, with 58 sets logge
 - Maassilo, Rotterdam — Fri, 30 Jan 2026
 - Gretchen, Berlin — Sat, 17 Jan 2026
 - Sala Roka, Malaga — Fri, 12 Dec 2025
-- Volks, Brighton — Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Enei, Jakes, Mantmast
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*

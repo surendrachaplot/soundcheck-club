@@ -1,6 +1,6 @@
 # Le Motel
 
-Le Motel is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Le Motel is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Le Motel is a techno and bass artist based in Belgium, tracked on soundcheck, with 44 sets logged across Antwerp, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Magugu, ojoo and AliA. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Le Motel is a techno and bass artist based in Belgium, tracked on soundcheck, wi
 
 Magugu, ojoo, AliA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemotel/)*

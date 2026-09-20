@@ -1,6 +1,6 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at White Owl Social Club, Portland on Sun, 20 Sept 2026.
+Coco Maria is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at White Owl Social Club, Portland on Sun, 20 Sept 2026.
 
 Coco Maria is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: White Owl Social Club, Portland on Sun 20 Sept.
 
@@ -31,4 +31,4 @@ Coco Maria is a house and disco artist tracked on soundcheck, with 124 sets logg
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

@@ -1,14 +1,13 @@
 # La Nube
 
-La Nube is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "0800-LINEA-CALIENTE & La Nube pres. Festival de Primavera" on Sat, 19 Sept 2026.
+La Nube is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "999 x Nada pres. David Löhlein" on Fri, 16 Oct 2026.
 
-La Nube is a music venue in Buenosaires listed on soundcheck. 2 upcoming gigs, with line-ups including ALOT, David Löhlein, Harari and juna (2) and 2 more. Browse upcoming dates, start times and who's playing.
+La Nube is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, with line-ups including David Löhlein. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | 0800-LINEA-CALIENTE & La Nube pres. Festival de Primavera | ALOT, Harari, KSSLR, Nebula Estudio, Pabels, Stump Valley, juna (2) |
 | Fri, 16 Oct 2026 | 999 x Nada pres. David Löhlein | David Löhlein |
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*

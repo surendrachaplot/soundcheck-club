@@ -1,14 +1,13 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
+Estiva is a Progressive House and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at E1, London on Sat, 10 Oct 2026.
 
-Estiva is a progressive house and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: The Midway, Sanfrancisco on Sat 19 Sept.
+Estiva is a progressive house and trance artist tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: E1, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Midway | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | E1 | London |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
@@ -16,6 +15,7 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 38 s
 
 ## Recently played
 
+- The Midway, San Francisco/Oakland — Sat, 19 Sept 2026
 - The Mothership, Auckland — Sat, 5 Sept 2026
 - TBA - Eve Whitehouse Scheveningen, The Hague — Fri, 28 Aug 2026
 - Westlight Rooftop at The William Vale, New York City — Fri, 17 Jul 2026
@@ -23,10 +23,9 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 38 s
 - Het Sieraad, Amsterdam — Fri, 26 Jun 2026
 - Riverside East, London — Sat, 16 May 2026
 - La Otra Wynwood, Miami — Thu, 26 Mar 2026
-- The Cuff Complex, Seattle — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

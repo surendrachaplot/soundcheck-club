@@ -1,6 +1,6 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 20 Sept 2026.
+Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 20 Sept 2026.
 
 Sevyn Love is a techno and house artist tracked on soundcheck, with 75 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, DJ DEADNAME and Dr. Fruit. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Sevyn Love is a techno and house artist tracked on soundcheck, with 75 sets logg
 
 DJPT, DJ DEADNAME, Dr. Fruit
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

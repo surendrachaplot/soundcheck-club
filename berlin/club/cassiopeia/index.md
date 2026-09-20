@@ -1,14 +1,13 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Twisted Trees Festival" on Sat, 19 Sept 2026.
+Cassiopeia is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Bambule (Underground, All Time Favourites, Urban)" on Sat, 26 Sept 2026.
 
-Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Megaira, PADERKID, Patchy and TANZBAER and 1 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Cassiopeia is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Megaira, PADERKID, Patchy and TANZBAER and 1 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Twisted Trees Festival |  |
 | Sat, 26 Sept 2026 | Bambule (Underground, All Time Favourites, Urban) | PADERKID, TraumaMia |
 | Sun, 11 Oct 2026 | Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw |  |
 | Fri, 20 Nov 2026 | CHB COLLECTIVE - FEVER DREAM | Megaira, Patchy, TANZBAER |
@@ -18,4 +17,4 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wit
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

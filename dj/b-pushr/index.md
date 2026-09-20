@@ -1,6 +1,6 @@
 # B-Pushr
 
-B-Pushr is a Ambient and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brixton Radio, London on Sat, 26 Sept 2026.
+B-Pushr is a Ambient and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Brixton Radio, London on Sat, 26 Sept 2026.
 
 B-Pushr is an ambient and acid artist tracked on soundcheck, with 6 sets logged across Chicago and London. Often billed alongside Scape One, m50 and Benebe. Next up: Brixton Radio, London on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ B-Pushr is an ambient and acid artist tracked on soundcheck, with 6 sets logged 
 
 Scape One, m50, Benebe
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-pushr/)*

@@ -1,6 +1,6 @@
 # Matrix Club Berlin (Techno Stage)
 
-Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "RE:TURN presents: KORE" on Fri, 25 Sept 2026.
+Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "RE:TURN presents: KORE" on Fri, 25 Sept 2026.
 
 Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including FREEGO, KORE, Ornery and Zutri. Browse upcoming dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundchec
 
 Warschauer Platz 18, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*

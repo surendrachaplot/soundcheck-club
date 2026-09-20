@@ -1,18 +1,17 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Anyss, Jeremy Cheung & Vence" on Sat, 19 Sept 2026.
+OMA is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15" on Thu, 22 Oct 2026.
 
-OMA is a music venue in Hongkong listed on soundcheck. 2 upcoming gigs, with line-ups including Anyss, Jeremy Cheung, kimmy6.6.6 and Vence. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
+OMA is a music venue in Hongkong listed on soundcheck. 1 upcoming gig, with line-ups including kimmy6.6.6. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Anyss, Jeremy Cheung & Vence | Anyss, Jeremy Cheung, Vence |
 | Thu, 22 Oct 2026 | Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15 | kimmy6.6.6 |
 
 ## Address
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

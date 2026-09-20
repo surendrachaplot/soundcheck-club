@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Marcel Dettmann, Sol Ortega, Perel, John Bryars" on Sat, 19 Sept 2026.
+Academy LA is a music venue in Los Angeles with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Cosmic Gate" on Sat, 26 Sept 2026.
 
-Academy LA is a music venue in Losangeles listed on soundcheck. 10 upcoming gigs, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and John Bryars and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Losangeles listed on soundcheck. 9 upcoming gigs, with line-ups including AC Slater, Cosmic Gate, Desert Hearts and Justin Martin and 2 more. Browse upcoming dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Marcel Dettmann, Sol Ortega, Perel, John Bryars | John Bryars, Marcel Dettmann, Perel, Sol Ortega |
 | Sat, 26 Sept 2026 | Cosmic Gate | Cosmic Gate |
 | Sat, 3 Oct 2026 | Rebūke |  |
 | Sat, 10 Oct 2026 | Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw | TOBEHONEST |
@@ -23,4 +22,4 @@ Academy LA is a music venue in Losangeles listed on soundcheck. 10 upcoming gigs
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

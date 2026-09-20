@@ -1,14 +1,13 @@
 # Hart Bar
 
-Hart Bar is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FOOTWORK FALL" on Sat, 19 Sept 2026.
+Hart Bar is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Disco Derby - Hart Bar" on Fri, 25 Sept 2026.
 
-Hart Bar is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including Actual Angel, ALEX PAN, boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
+Hart Bar is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including Actual Angel, ALEX PAN, boy_c0ded and Brutal Twink and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | FOOTWORK FALL | LeCamille, Love Higher, SELEKTRA, WADDLE, satandoll |
 | Fri, 25 Sept 2026 | Disco Derby - Hart Bar | ALEX PAN, MISS VEE, NDRS.wav, Scribble |
 | Sat, 26 Sept 2026 | Club Mustang: FREAKQUENCIES | Actual Angel, Brutal Twink, boy_c0ded, esme2k |
 
@@ -16,4 +15,4 @@ Hart Bar is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, 
 
 538 Hart Street, Brooklyn, NY 11221 USA, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*

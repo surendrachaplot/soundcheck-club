@@ -1,6 +1,6 @@
 # De La Maso
 
-De La Maso is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
+De La Maso is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
 De La Maso is a house and electronica artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Basel, Berlin, Frankfurt and Zurich. Often billed alongside And Hazel, Daughter In Law and ARWIN AZIZ. Next up: Hive Club, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ De La Maso is a house and electronica artist based in Switzerland, tracked on so
 
 And Hazel, Daughter In Law, ARWIN AZIZ
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delamaso/)*

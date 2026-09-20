@@ -1,14 +1,13 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Royale, Boston on Sat, 19 Sept 2026.
+Space 92 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bauhaus, Houston on Fri, 25 Sept 2026.
 
-Space 92 is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Bangkok and 48 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Royale, Boston on Sat 19 Sept.
+Space 92 is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Bangkok and 48 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus, Houston on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Royale | Boston |
 | Fri, 25 Sept 2026 | Bauhaus | Houston |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -17,6 +16,7 @@ Space 92 is a techno and house artist tracked on soundcheck, with 126 sets logge
 
 ## Recently played
 
+- Royale, Boston — Sat, 19 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - Westhafen, Leipzig — Sat, 18 Jul 2026
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
@@ -24,10 +24,9 @@ Space 92 is a techno and house artist tracked on soundcheck, with 126 sets logge
 - Suvilahti Power Plant, Helsinki — Fri, 22 May 2026
 - Uebel & Gefährlich, Hamburg — Fri, 22 May 2026
 - SEL OCTAGON TOKYO, Tokyo — Sat, 9 May 2026
-- Joule, Osaka — Fri, 8 May 2026
 
 ## Shares bills with
 
 Popof, Lilly Palmer, HI-LO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

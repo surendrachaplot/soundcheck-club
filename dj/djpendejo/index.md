@@ -1,6 +1,6 @@
 # DJ Pendejo
 
-DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+DJ Pendejo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 DJ Pendejo is a techno and reggaeton artist tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Leipzig and Mexicocity. Often billed alongside IRONBOARD, Isa GT and kopo. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ DJ Pendejo is a techno and reggaeton artist tracked on soundcheck, with 20 sets 
 
 IRONBOARD, Isa GT, kopo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpendejo/)*

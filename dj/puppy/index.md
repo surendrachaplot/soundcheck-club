@@ -1,6 +1,6 @@
 # puppy
 
-puppy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
+puppy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
 
 puppy is a techno and house artist based in Poland, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Leipzig and Mexicocity and 2 more. Often billed alongside Aaron Blau, Jessica Nightlife and DJ AYA. Next up: AMT, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ puppy is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 Aaron Blau, Jessica Nightlife, DJ AYA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puppy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puppy/)*

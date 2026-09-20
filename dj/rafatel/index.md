@@ -1,6 +1,6 @@
 # Rafatel
 
-Rafatel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
+Rafatel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
 Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Buenosaires and Hamburg and 5 more. Often billed alongside papa jazz, Valeriana and Dehesa. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Rafatel is a house and deep house artist tracked on soundcheck, with 99 sets log
 
 papa jazz, Valeriana, Dehesa
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafatel/)*

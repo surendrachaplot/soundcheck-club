@@ -1,6 +1,6 @@
 # FERB
 
-FERB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
+FERB is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
 
 FERB is a techno and house artist tracked on soundcheck, with 17 sets logged across Bristol, Edinburgh, Glasgow and Liverpool and 3 more. Often billed alongside Lau.tastic, Aly Berry and LIEKS. Next up: HWK Garden / Terrace, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ FERB is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Lau.tastic, Aly Berry, LIEKS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferb/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferb/)*

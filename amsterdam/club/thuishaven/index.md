@@ -1,14 +1,13 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Gardens of Babylon: The Light of The Equinox (SOLD OUT)" on Sat, 19 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT" on Sun, 20 Sept 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Kepler, AAT (NL), Abstract Division and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Kepler, AAT (NL), Abstract Division and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Gardens of Babylon: The Light of The Equinox (SOLD OUT) | AMÉMÉ, Argia, Be Svendsen, Beard2Beard, Benja, Jose Noventa, Mona Pirzad, Nadav Dagon, Philou Louzolo, RICHE, Romy Janssen, Yamagucci |
 | Sun, 20 Sept 2026 | 20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT | ALISHA, Alexandria, Chopper, Jesse Maas, Riley, Ryan Resso |
 | Sun, 27 Sept 2026 | 27 SEP - Thuishaven Zomerclosing SOLD OUT | Benny Rodrigues, Boss Priester, CARISTA, Daughter In Law, Marsolo, Merel Helderman, Michel de Hey, Midas Field |
 | Sun, 4 Oct 2026 | 04 OKT - IOSIO 10HRS SOLD OUT | Arman John, IOSIO, Nyra, Tell Moore |
@@ -18,9 +17,10 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs,
 | Fri, 23 Oct 2026 | 23 OCT - Friday Night with Daria Kolosova invites | Alec Dienaar, Daria Kolosova, Supergloss, Tommy Holohan |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax | AAT (NL), Anil Aras, Archie Hamilton, Ben Diggins, Benny Rodrigues, Burnski, Cromby, DJ Tennis, Dennis Quin, Kepler, LORI (NL), LYLO (NL), Litmus, M-High, Matisa, Michel de Hey, Papa Nugs, Philou Louzolo, Prunk, Riva Starr, Rooléh, Shakèd |
 | Sat, 24 Oct 2026 | 24 OCT - Thuishaven ADE Saturday Nightshow with Afterjam | Jamback, Jhobei, Laura De Greef, Marlie, Michel de Hey, Raresh |
+| Sun, 25 Oct 2026 | 25 OCT - Thuishaven ADE Sunday with Polyamor presents: davyboi invites SOLD OUT | davyboi |
 
 ## Address
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

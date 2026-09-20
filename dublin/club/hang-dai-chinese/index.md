@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Strictly Wax presents: Noizar" on Fri, 25 Sept 2026.
+Hang Dai Chinese is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Strictly Wax presents: Noizar" on Fri, 25 Sept 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Aidan, Billy Scurry, Don Carlos and Lupini and 2 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -20,4 +20,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 7 upcoming gig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

@@ -1,6 +1,6 @@
 # Anthony Middleton
 
-Anthony Middleton is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
+Anthony Middleton is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
 
 Anthony Middleton is a house and deep house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bali, Ibiza and Kyoto and 10 more. Often billed alongside Damian Lazarus, Audiofly and Matt Caines. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Anthony Middleton is a house and deep house artist tracked on soundcheck, with 4
 
 Damian Lazarus, Audiofly, Matt Caines
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*

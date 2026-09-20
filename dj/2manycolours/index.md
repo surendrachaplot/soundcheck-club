@@ -1,6 +1,6 @@
 # 2manycolours
 
-2manycolours is a Breakcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 1 Oct 2026.
+2manycolours is a Breakcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 1 Oct 2026.
 
 2manycolours is a breakcore and experimental artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin and Glasgow. Often billed alongside DJ Kuroneko, Dazegxd and Frost Children. Next up: Yamamori Tengu, Dublin on Thu 1 Oct.
 
@@ -20,4 +20,4 @@
 
 DJ Kuroneko, Dazegxd, Frost Children
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manycolours/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manycolours/)*

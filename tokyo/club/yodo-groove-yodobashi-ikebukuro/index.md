@@ -1,14 +1,13 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SKY MUSIC JOURNEY × EN:JOIN / WEEK:EN at YODO GROOVE" on Sat, 19 Sept 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BUNKER AT YODO GROOVE - TECHNO / HARD GROOVE / HARD HOUSE" on Sun, 20 Sept 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including Calavera, CHIKA, DJ 34 and Ëmbyrblume and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Calavera, DJ 34, Ëmbyrblume and Emilio and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SKY MUSIC JOURNEY × EN:JOIN / WEEK:EN at YODO GROOVE | CHIKA, PUSTER, Rena |
 | Sun, 20 Sept 2026 | BUNKER AT YODO GROOVE - TECHNO / HARD GROOVE / HARD HOUSE | Calavera, EMILIO (3), LOUNA (2), PANICWORKS, RICKY, SONATA, Soluna |
 | Mon, 21 Sept 2026 | TOKYO ROOFTOP DAY PARTY – SKY MUSIC JOURNEY feat. Remo-con - YODO GROOVE | DJ 34, Remo-con, YOSHIMASA |
 | Tue, 22 Sept 2026 | SKY MUSIC JOURNEY — HOUSE MUSIC ROOFTOP DAY PARTY / TOKYO HOLIDAY SPECIAL | Kijta, Masaki, Yamariki, Ëmbyrblume |
@@ -21,4 +20,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

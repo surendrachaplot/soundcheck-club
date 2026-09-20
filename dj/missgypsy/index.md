@@ -1,6 +1,6 @@
 # Miss Gypsy
 
-Miss Gypsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Miss Gypsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at public records, New York City on Thu, 15 Oct 2026.
 
 Miss Gypsy is a house and techno artist tracked on soundcheck, with 43 sets logged across Detroit and Newyorkcity. Often billed alongside JKriv, Mario Polanco and Aaron Dae. Next up: public records, Newyorkcity on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Miss Gypsy is a house and techno artist tracked on soundcheck, with 43 sets logg
 
 JKriv, Mario Polanco, Aaron Dae
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*

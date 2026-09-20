@@ -1,6 +1,6 @@
 # DAVENPORT
 
-DAVENPORT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sole.lo, Belfast on Fri, 18 Sept 2026.
+DAVENPORT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sole.lo, Belfast on Fri, 18 Sept 2026.
 
 DAVENPORT is a house and techno artist tracked on soundcheck, with 4 sets logged across Belfast. Often billed alongside Divergence, Joe Funk and Aika Mal. Next up: Sole.lo, Belfast on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ DAVENPORT is a house and techno artist tracked on soundcheck, with 4 sets logged
 
 Divergence, Joe Funk, Aika Mal
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davenport/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davenport/)*

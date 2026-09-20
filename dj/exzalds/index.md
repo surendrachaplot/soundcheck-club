@@ -1,6 +1,6 @@
 # Exzald S
 
-Exzald S is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Usine C, Montreal on Wed, 21 Oct 2026.
+Exzald S is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Usine C, Montreal on Wed, 21 Oct 2026.
 
 Exzald S is a drone and experimental artist tracked on soundcheck, with 4 sets logged across Montreal and Paris. Often billed alongside Evita Manji, Joanna OJ and Ka Baird. Next up: Usine C, Montreal on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Exzald S is a drone and experimental artist tracked on soundcheck, with 4 sets l
 
 Evita Manji, Joanna OJ, Ka Baird
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exzalds/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exzalds/)*

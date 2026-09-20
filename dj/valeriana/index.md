@@ -1,6 +1,6 @@
 # Valeriana
 
-Valeriana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
+Valeriana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
 Valeriana is a house and techno artist based in Mexico, tracked on soundcheck, with 152 sets logged across Barcelona, Berlin, Buenosaires and London and 5 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Valeriana is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 Julia Toporek, Rafatel, Remille
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*

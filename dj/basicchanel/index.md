@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+basic chanel is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 basic chanel is a techno and bass artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and London and 5 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ basic chanel is a techno and bass artist tracked on soundcheck, with 44 sets log
 
 Paquita Gordon, Allecto, Cam Joon
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

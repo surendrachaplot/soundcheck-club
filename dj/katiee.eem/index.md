@@ -1,6 +1,6 @@
 # Katiee.eem
 
-Katiee.eem is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
+Katiee.eem is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
 
 Katiee.eem is a house and trance artist tracked on soundcheck, with 15 sets logged across Belfast, Berlin and Glasgow. Often billed alongside Popper Cherry, T4T B2B and Bonzai Bonner. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Katiee.eem is a house and trance artist tracked on soundcheck, with 15 sets logg
 
 Popper Cherry, T4T B2B, Bonzai Bonner
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiee.eem/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiee.eem/)*

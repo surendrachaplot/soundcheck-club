@@ -1,6 +1,6 @@
 # Ziggy Stardubb
 
-Ziggy Stardubb is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Jolene, Copenhagen on Thu, 24 Sept 2026.
+Ziggy Stardubb is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Jolene, Copenhagen on Thu, 24 Sept 2026.
 
 Ziggy Stardubb is a house and garage artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside B From E, avoN and ASTA MARI. Next up: Jolene, Copenhagen on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Ziggy Stardubb is a house and garage artist based in Denmark, tracked on soundch
 
 B From E, avoN, ASTA MARI
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*

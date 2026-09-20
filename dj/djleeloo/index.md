@@ -1,6 +1,6 @@
 # DJ Leeloo
 
-DJ Leeloo is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Munster Munch, London on Fri, 25 Sept 2026.
+DJ Leeloo is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Munster Munch, London on Fri, 25 Sept 2026.
 
 DJ Leeloo is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside BIDOIS, Grog and Jawrs. Next up: Munster Munch, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ DJ Leeloo is a drum & bass and house artist based in United Kingdom, tracked on 
 
 BIDOIS, Grog, Jawrs
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djleeloo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djleeloo/)*

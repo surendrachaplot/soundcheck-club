@@ -1,6 +1,6 @@
 # Klein
 
-Klein is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Nowa Miodowa, Warsaw on Sun, 4 Oct 2026.
+Klein is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Nowa Miodowa, Warsaw on Sun, 4 Oct 2026.
 
 Klein is an experimental and club artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside upsammy, Buttechno and Crystallmess. Next up: Nowa Miodowa, Warsaw on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Klein is an experimental and club artist tracked on soundcheck, with 36 sets log
 
 upsammy, Buttechno, Crystallmess
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klein/)*

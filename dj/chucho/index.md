@@ -1,6 +1,6 @@
 # Chucho
 
-Chucho is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Chucho is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
 Chucho is a techno and baile funk artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Thehague. Often billed alongside Candy Coup, Rozaly and DIORA. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Chucho is a techno and baile funk artist based in Netherlands, tracked on soundc
 
 Candy Coup, Rozaly, DIORA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chucho/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chucho/)*

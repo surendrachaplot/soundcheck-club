@@ -1,6 +1,6 @@
 # Gune 909
 
-Gune 909 is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sigma, Ibiza on Sun, 20 Sept 2026.
+Gune 909 is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sigma, Ibiza on Sun, 20 Sept 2026.
 
 Gune 909 is a techno artist tracked on soundcheck, with 9 sets logged across Ibiza and Madrid. Often billed alongside SEMREH, Julo and AntZ (2). Next up: Sigma, Ibiza on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Gune 909 is a techno artist tracked on soundcheck, with 9 sets logged across Ibi
 
 SEMREH, Julo, AntZ (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gune909/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gune909/)*

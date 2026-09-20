@@ -1,6 +1,6 @@
 # Cat Caesura
 
-Cat Caesura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
+Cat Caesura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Take Five Cafe, Bristol on Fri, 23 Oct 2026.
 
 Cat Caesura is a house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Bristol and London. Often billed alongside Tribal, Larnie and Luchik. Next up: Take Five Cafe, Bristol on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ Cat Caesura is a house and techno artist based in United Kingdom, tracked on sou
 
 Tribal, Larnie, Luchik
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catcaesura/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catcaesura/)*

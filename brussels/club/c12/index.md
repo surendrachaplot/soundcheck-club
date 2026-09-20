@@ -1,14 +1,13 @@
 # C12
 
-C12 is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "C12 x PRNCPTL with LOLSNAKE, VINVAR, Egna" on Sat, 19 Sept 2026.
+C12 is a music venue in Brussels with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN" on Fri, 25 Sept 2026.
 
-C12 is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including AAguilAA, Altinbas, Basic Feelings (2) and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
+C12 is a music venue in Brussels listed on soundcheck. 9 upcoming gigs, with line-ups including AAguilAA, Altinbas, Basic Feelings (2) and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | C12 x PRNCPTL with LOLSNAKE, VINVAR, Egna | Egna, LOLSNAKE, VINVAR |
 | Fri, 25 Sept 2026 | UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN | ECZODIA, Heavora, Jacidorex, Protokseed, VILAIN |
 | Sat, 26 Sept 2026 | Raw Code 1 Year Anniversary x VORTEX: C11 Takeover | Basic Feelings (2), Nastya Dikikh, Wim Wixx., gucccifer |
 | Sat, 26 Sept 2026 | C12 Nite with DJ Fuckoff & Helena Lauwaert JEKKAMAÏ | DJ Fuckoff, Helena Lauwaert, JEKKAMAÏ |
@@ -23,4 +22,4 @@ C12 is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with li
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

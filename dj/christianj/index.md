@@ -1,6 +1,6 @@
 # Christian J
 
-Christian J is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
+Christian J is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 25 Sept 2026.
 
 Christian J is a house and disco artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Tris (UK), XSPEC and Will Flint. Next up: Two Tribes CAMPFIRE, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Christian J is a house and disco artist tracked on soundcheck, with 18 sets logg
 
 Tris (UK), XSPEC, Will Flint
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianj/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianj/)*

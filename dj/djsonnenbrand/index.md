@@ -1,6 +1,6 @@
 # DJ Sonnenbrand
 
-DJ Sonnenbrand is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
+DJ Sonnenbrand is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
 DJ Sonnenbrand is a trance and techno artist tracked on soundcheck, with 96 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 8 more. Often billed alongside DJ WASSERFALL, Paraçek and KLING&KLANG. Next up: Schrotty, Cologne on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ Sonnenbrand is a trance and techno artist tracked on soundcheck, with 96 sets
 
 DJ WASSERFALL, Paraçek, KLING&KLANG
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonnenbrand/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonnenbrand/)*

@@ -1,6 +1,6 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Layton Giordani is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Adam Beyer, Green Velvet and John Summit. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Layton Giordani is a techno and house artist tracked on soundcheck, with 120 set
 
 Adam Beyer, Green Velvet, John Summit
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

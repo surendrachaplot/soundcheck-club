@@ -1,6 +1,6 @@
 # Kodemul
 
-Kodemul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
+Kodemul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 20 Sept 2026.
 
 Kodemul is a techno and house artist tracked on soundcheck, with 134 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 9 more. Often billed alongside Eliel Capa, PAURRO and Villaseñor. Next up: Vittoria Wharf Studio, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Kodemul is a techno and house artist tracked on soundcheck, with 134 sets logged
 
 Eliel Capa, PAURRO, Villaseñor
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

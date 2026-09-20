@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Madam by Night invites: The Disco Express" on Sat, 19 Sept 2026.
+Madam is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ" on Fri, 25 Sept 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Madam by Night invites: The Disco Express | Crystal Touch, Drabes, Nablijven Soundsystem |
 | Fri, 25 Sept 2026 | Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ | Isa Roos, KARKÂDÉ |
 | Sat, 26 Sept 2026 | Madam by Night invites: Guerrilla | Nitefield |
 | Fri, 2 Oct 2026 | Madam by Night invites: LABELS. presents: Unnamed & Unknown | Gino Da Koda, Sanne Dammers |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with
 | Fri, 16 Oct 2026 | Madam by Night invites: OMT Records x Life On Mars | Artslaves, Stephen William, Wilder, andela |
 | Sat, 17 Oct 2026 | Madam by Night invites: Janick S b2b Raíz b2b Luca Brandse | Luca Brandse |
 | Wed, 21 Oct 2026 | Madam invites: David Penn & friends | Aline Rocha, David Penn, Drabes, Ferreck Dawn, Low Steppa, Mousse T., ROOG |
+| Thu, 22 Oct 2026 | Madam invites: PIV | Dan Shake, Demi Riquisimo, Ella Knight, Ian Pooley, Isaac Carter |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

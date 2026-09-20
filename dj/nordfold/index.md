@@ -1,6 +1,6 @@
 # Nordfold
 
-Nordfold is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
+Nordfold is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Cause, London on Sat, 12 Dec 2026.
 
 Nordfold is a progressive house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, London and Manchester and 1 more. Often billed alongside Because of Art, Nicky Elisabeth and Jody Wisternoff. Next up: The Cause, London on Sat 12 Dec.
 
@@ -23,4 +23,4 @@ Nordfold is a progressive house artist tracked on soundcheck, with 7 sets logged
 
 Because of Art, Nicky Elisabeth, Jody Wisternoff
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordfold/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordfold/)*

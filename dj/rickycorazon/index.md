@@ -1,6 +1,6 @@
 # Ricky Corazón
 
-Ricky Corazón is a Latin Bass and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
+Ricky Corazón is a Latin Bass and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
 
 Ricky Corazón is a latin bass and reggaeton artist tracked on soundcheck, with 28 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Vera Moro, NMSS and VTT (BE). Next up: Circle Park, Brussels on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Ricky Corazón is a latin bass and reggaeton artist tracked on soundcheck, with 
 
 Vera Moro, NMSS, VTT (BE)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*

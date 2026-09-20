@@ -1,14 +1,13 @@
 # Cu
 
-Cu is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "21 years of keysound" on Sat, 19 Sept 2026.
+Cu is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "UNDERGROUND SOUND: London" on Fri, 25 Sept 2026.
 
-Cu is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including babybear (2), BIG REG, Bisect and Blackdown and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
+Cu is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including babybear (2), BIG REG, Bisect and Cardinal Sin and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | 21 years of keysound | Blackdown, Elijah and Skilliam, Logos, MC Koast, Mumdance |
 | Fri, 25 Sept 2026 | UNDERGROUND SOUND: London | Cardinal Sin, Josh Wuf, PHJ.WAV |
 | Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yumi |
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
@@ -22,4 +21,4 @@ Cu is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-u
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

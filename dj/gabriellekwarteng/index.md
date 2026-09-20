@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Sun, 20 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Sun, 20 Sept 2026.
 
 Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 245 sets logged across Amsterdam, Antwerp, Auckland and Bali and 58 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Flash, Washingtondc on Sun 20 Sept.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 245 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

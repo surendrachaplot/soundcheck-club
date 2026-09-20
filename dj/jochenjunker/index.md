@@ -1,6 +1,6 @@
 # Jochen Junker
 
-Jochen Junker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Romantica, Stuttgart on Sat, 31 Oct 2026.
+Jochen Junker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Romantica, Stuttgart on Sat, 31 Oct 2026.
 
 Jochen Junker is a house and techno artist tracked on soundcheck, with 53 sets logged across Stuttgart. Often billed alongside Alexander Maier, Pauls Artists and Marco Bastone. Next up: Romantica, Stuttgart on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jochen Junker is a house and techno artist tracked on soundcheck, with 53 sets l
 
 Alexander Maier, Pauls Artists, Marco Bastone
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenjunker/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenjunker/)*

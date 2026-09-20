@@ -1,14 +1,13 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at BCM, Mallorca on Sat, 19 Sept 2026.
+ARODES is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-ARODES is a house and afro house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Marten Lou. Next up: BCM, Mallorca on Sat 19 Sept.
+ARODES is a house and afro house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Marten Lou. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | BCM | Mallorca |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 9 Oct 2026 | 99 Scott Ave | New York City |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
@@ -20,6 +19,7 @@ ARODES is a house and afro house artist tracked on soundcheck, with 126 sets log
 
 ## Recently played
 
+- BCM, Mallorca — Sat, 19 Sept 2026
 - Void Mykonos, Mykonos — Wed, 26 Aug 2026
 - Jardins de Joan Brossa, Barcelona — Sun, 23 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
@@ -27,10 +27,9 @@ ARODES is a house and afro house artist tracked on soundcheck, with 126 sets log
 - Void Club, Berlin — Wed, 19 Aug 2026
 - Void Mykonos, Mykonos — Wed, 12 Aug 2026
 - Wolkezwei, Leipzig — Sat, 11 Jul 2026
-- Kaufleuten, Zurich — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Andrea Oliva, Shimza, Marten Lou
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

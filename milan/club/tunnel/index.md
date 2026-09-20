@@ -1,15 +1,13 @@
 # Tunnel
 
-Tunnel is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "UNDER THE Tunnel" on Sat, 19 Sept 2026.
+Tunnel is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DELIRIO - Samm - MFW" on Thu, 24 Sept 2026.
 
-Tunnel is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Alci, Andrew Rayel, Arapu and Candelaria and 2 more. Browse upcoming dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
+Tunnel is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alci, Andrew Rayel, Arapu and Candelaria and 2 more. Browse upcoming dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | UNDER THE Tunnel | Sofia T |
-| Sat, 19 Sept 2026 | UNDER THE TUNNEL | Sofia T |
 | Thu, 24 Sept 2026 | DELIRIO - Samm - MFW | Samm, Still.i |
 | Fri, 25 Sept 2026 | PICTURA MFW 2026 - Tunnel CLUB MILAN | Alci, Arapu, Candelaria, Nuel |
 | Sat, 3 Oct 2026 | TRANCE GATE – OPENING PARTY | Andrew Rayel |
@@ -19,4 +17,4 @@ Tunnel is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with lin
 
 Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy, Milan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*

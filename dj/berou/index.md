@@ -1,6 +1,6 @@
 # Bérou
 
-Bérou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+Bérou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
 Bérou is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Geneva and Lyon and 2 more. Often billed alongside Zaratustra, Colapso and DURDENHAUER. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Bérou is a techno and house artist tracked on soundcheck, with 54 sets logged a
 
 Zaratustra, Colapso, DURDENHAUER
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*

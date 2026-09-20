@@ -1,6 +1,6 @@
 # Gaia (2)
 
-Gaia (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Skull Bar, Athens on Sun, 20 Sept 2026.
+Gaia (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Skull Bar, Athens on Sun, 20 Sept 2026.
 
 Gaia (2) is a house and techno artist based in Greece, tracked on soundcheck, with 5 sets logged across Athens. Often billed alongside Reign Of Time, FRECUENCIA and Stratos (2). Next up: Skull Bar, Athens on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Gaia (2) is a house and techno artist based in Greece, tracked on soundcheck, wi
 
 Reign Of Time, FRECUENCIA, Stratos (2)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia-2/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaia-2/)*

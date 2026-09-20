@@ -1,30 +1,28 @@
 # Lexlay
 
-Lexlay is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
+Lexlay is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
 
-Lexlay is a tech house and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Buenosaires, Ibiza and London and 6 more. Often billed alongside Shitake, Alvaro Smart and Carlo Lio. Next up: La Terrrazza, Barcelona on Sat 19 Sept.
+Lexlay is a tech house and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Buenosaires, Ibiza and London and 6 more. Often billed alongside Shitake, Alvaro Smart and Carlo Lio. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | La Terrrazza | Barcelona |
-| Sat, 19 Sept 2026 | City Hall | Barcelona |
 | Sat, 17 Oct 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
 
+- La Terrrazza, Barcelona — Sat, 19 Sept 2026
+- City Hall, Barcelona — Sat, 19 Sept 2026
 - Waranga, Stuttgart — Sat, 5 Sept 2026
 - La Terrrazza, Barcelona — Sat, 29 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 22 Aug 2026
 - La Terrrazza, Barcelona — Sat, 1 Aug 2026
 - La Terrrazza, Barcelona — Sat, 4 Jul 2026
 - La Terrrazza, Barcelona — Sat, 13 Jun 2026
-- La Terrrazza, Barcelona — Sat, 16 May 2026
-- La Terrrazza, Barcelona — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Shitake, Alvaro Smart, Carlo Lio
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*

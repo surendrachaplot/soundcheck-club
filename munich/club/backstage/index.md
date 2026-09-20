@@ -1,6 +1,6 @@
 # Backstage
 
-Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "AIGEL — Live" on Sun, 27 Sept 2026.
+Backstage is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "AIGEL — Live" on Sun, 27 Sept 2026.
 
 Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including antyo. Browse upcoming dates, start times and who's playing. Reitknechtstr. 6, 80639 Munich, Germany.
 
@@ -15,4 +15,4 @@ Backstage is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with
 
 Reitknechtstr. 6, 80639 Munich, Germany, Munich
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/backstage/)*

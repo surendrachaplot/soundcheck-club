@@ -1,6 +1,6 @@
 # Brtinzz
 
-Brtinzz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
+Brtinzz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
 
 Brtinzz is a techno and trance artist based in Slovenia, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside GLIA, Manrick Stapez and PHLOXO. Next up: Melkweg, Amsterdam on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Brtinzz is a techno and trance artist based in Slovenia, tracked on soundcheck, 
 
 GLIA, Manrick Stapez, PHLOXO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brtinzz/)*

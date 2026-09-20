@@ -1,6 +1,6 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "[POSTURE CLUB] -> Nyapi • Chuseok Local Night" on Wed, 23 Sept 2026.
+Nyapi is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "[POSTURE CLUB] -> Nyapi • Chuseok Local Night" on Wed, 23 Sept 2026.
 
 Nyapi is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including A.Attack, CHIDA, Cozyhoon and dguru and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
@@ -16,4 +16,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

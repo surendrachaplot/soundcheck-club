@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
+Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Brisa Open Air, Barcelona on Sun 20 Sept.
 
@@ -32,4 +32,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets log
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

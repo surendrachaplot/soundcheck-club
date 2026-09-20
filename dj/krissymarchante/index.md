@@ -1,6 +1,6 @@
 # Krissy Marchante
 
-Krissy Marchante is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at 3oz Dive Club, San Diego on Thu, 24 Sept 2026.
+Krissy Marchante is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 3oz Dive Club, San Diego on Thu, 24 Sept 2026.
 
 Krissy Marchante is a club and baile funk artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles and Sandiego. Often billed alongside baby.com, BL4ZE and Banoffee. Next up: 3oz Dive Club, Sandiego on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Krissy Marchante is a club and baile funk artist based in United States of Ameri
 
 baby.com, BL4ZE, Banoffee
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krissymarchante/)*

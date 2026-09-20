@@ -1,6 +1,6 @@
 # Pat Hyland
 
-Pat Hyland is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 10 Oct 2026.
+Pat Hyland is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 10 Oct 2026.
 
 Pat Hyland is a house and minimal artist based in Ireland, tracked on soundcheck, with 42 sets logged across Belfast and Dublin. Often billed alongside Marion Hawkes, Conor Schmtz and Glenn Davis. Next up: The Bernard Shaw, Dublin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Pat Hyland is a house and minimal artist based in Ireland, tracked on soundcheck
 
 Marion Hawkes, Conor Schmtz, Glenn Davis
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pathyland/)*

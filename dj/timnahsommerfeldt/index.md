@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Timnah is a Techno and Ambient artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
 
 Timnah is a techno and ambient artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Shunter, Rotterdam on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 54 sets logged
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

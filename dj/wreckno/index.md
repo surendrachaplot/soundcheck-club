@@ -1,6 +1,6 @@
 # Wreckno
 
-Wreckno is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
+Wreckno is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
 
 Wreckno is a bass and dubstep artist tracked on soundcheck, with 16 sets logged across Austin, Chicago, Denver and Detroit and 6 more. Often billed alongside Baby Wolf, Eli Escobar and LSDXOXO. Next up: Industry City, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Wreckno is a bass and dubstep artist tracked on soundcheck, with 16 sets logged 
 
 Baby Wolf, Eli Escobar, LSDXOXO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckno/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckno/)*

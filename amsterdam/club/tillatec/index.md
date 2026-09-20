@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "VBX SUMMER CLOSING " on Sat, 19 Sept 2026.
+TILLATEC is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "sSSsSensationsSs: CLOWN DIVA DOWN" on Fri, 25 Sept 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Justine Perry, Andy Garvey, Andy Martin and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Justine Perry, Andy Garvey, Andy Martin and angelboy and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | VBX SUMMER CLOSING  | DJ Split, Nosedrip, PHIA, Ploy, THC, Tommy Chikara, Velasco, dj sweet6teen |
 | Fri, 25 Sept 2026 | sSSsSensationsSs: CLOWN DIVA DOWN | angelboy |
 | Sat, 26 Sept 2026 | 2DEHUIS X ANTIDOTE | Connor Wall, Kameliia, Luigi Madonna, Mystral, PHARRISM, Rebecca Delle Piane, THEBODYKNOWS, VSSR, Vilchezz |
 | Fri, 9 Oct 2026 | Horse Meat Disco |  |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 | Thu, 22 Oct 2026 | Vault Sessions ADE - TILLATEC | Blasha & Allatt, D.Dan, DJ Nobu, Ecilo, FILTRACK, Hemka, Jelena, Justine Perry, Lea Occhi, Paula Koski, Pink Concrete, Sandrien, Stef Mendesidis |
 | Thu, 22 Oct 2026 | Vault Sessions x Mutual Rytm ADE | ANNĒ, Disguised, Human Safari, Hyden, I-RO, KiNK, Mara Menace, Phil Berg, SHDW, Sera J |
 | Fri, 23 Oct 2026 | Disturbia x Soundcora - ADE 2026 | Andy Garvey, Andy Martin, Anika Kunst, Cassy, Clarisa Kimskii, Eduardo de la Calle, Efdemin, HERMETICA, John Talabot, Judy (ES), Konduku, Makam, Mario Picosso, Mystral, Nacho, Raquel Cruz, Shoal, Valody |
+| Fri, 23 Oct 2026 | Vinylism x ADE |  |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

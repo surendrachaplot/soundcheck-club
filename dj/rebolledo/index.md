@@ -1,18 +1,18 @@
 # Rebolledo
 
-Rebolledo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Fünk, Mexico City on Sat, 19 Sept 2026.
+Rebolledo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Rebolledo is a house and techno artist tracked on soundcheck, with 71 sets logged across Austin, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Fünk, Mexicocity on Sat 19 Sept.
+Rebolledo is a house and techno artist tracked on soundcheck, with 71 sets logged across Austin, Barcelona, Berlin and Ibiza and 13 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Fünk | Mexico City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Fünk, Mexico City — Sat, 19 Sept 2026
 - Praia Irmão, Lisbon — Sat, 8 Aug 2026
 - Praia Irmão, Lisbon — Sat, 1 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ Rebolledo is a house and techno artist tracked on soundcheck, with 71 sets logge
 - Fünk, Mexico City — Fri, 17 Apr 2026
 - MiMi Discoteque, Mexico City — Wed, 1 Apr 2026
 - House of Yes, New York City — Fri, 27 Mar 2026
-- Lion's Den, Miami — Thu, 26 Mar 2026
 
 ## Shares bills with
 
 Daniel Weil, Metrika, Paulor
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*

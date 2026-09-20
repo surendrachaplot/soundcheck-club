@@ -1,6 +1,6 @@
 # Maccari
 
-Maccari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
+Maccari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Maccari is a techno and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Buenosaires and Saopaulo and 1 more. Often billed alongside KaioBarssalos, MASCHA and ASKE. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maccari is a techno and house artist tracked on soundcheck, with 11 sets logged 
 
 KaioBarssalos, MASCHA, ASKE
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maccari/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maccari/)*

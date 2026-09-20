@@ -1,6 +1,6 @@
 # Crystal Lounge
 
-Crystal Lounge is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "10/2 Otoconia House Music Social Ft. Sho Nuph, Jon Lemmon, & Julie Herrera" on Fri, 2 Oct 2026.
+Crystal Lounge is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "10/2 Otoconia House Music Social Ft. Sho Nuph, Jon Lemmon, & Julie Herrera" on Fri, 2 Oct 2026.
 
 Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, with line-ups including Christine Michelle, Julie Herrera, Leira and Vagabond Superstar. Browse upcoming dates, start times and who's playing. 2008 1st Ave.
 
@@ -18,4 +18,4 @@ Crystal Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming gigs
 
 2008 1st Ave, Seattle
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/crystal-lounge/)*

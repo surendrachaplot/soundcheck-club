@@ -1,14 +1,13 @@
 # Laia
 
-Laia is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at IFEMA, Madrid on Fri, 18 Sept 2026.
+Laia is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
 
-Laia is a techno and electro artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: IFEMA, Madrid on Fri 18 Sept.
+Laia is a techno and electro artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Nitsa Club, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 25 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 9 Oct 2026 | KREUZWERK | Berlin |
@@ -31,4 +30,4 @@ Laia is a techno and electro artist tracked on soundcheck, with 122 sets logged 
 
 Roll Dann, Shadow Hrym (ES), Alexandre Laeddis
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

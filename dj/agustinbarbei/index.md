@@ -1,19 +1,19 @@
 # AGUSTIN BARBEI
 
-AGUSTIN BARBEI is a Electronica and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TCQ, Buenos Aires on Sat, 19 Sept 2026.
+AGUSTIN BARBEI is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 42 Marches, Paris on Sun, 4 Oct 2026.
 
-AGUSTIN BARBEI is an electronica and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires, Lisbon and London and 1 more. Often billed alongside Alessandro Miranda, Alyhas and Barée Masse. Next up: TCQ, Buenosaires on Sat 19 Sept.
+AGUSTIN BARBEI is an electronica and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires, Lisbon and London and 1 more. Often billed alongside Alessandro Miranda, Alyhas and Barée Masse. Next up: 42 Marches, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TCQ | Buenos Aires |
 | Sun, 4 Oct 2026 | 42 Marches | Paris |
 | Fri, 16 Oct 2026 | 42 Marches | Paris |
 
 ## Recently played
 
+- TCQ, Buenos Aires — Sat, 19 Sept 2026
 - Melt Underground, Buenos Aires — Fri, 24 Apr 2026
 - Crobar - Buenos Aires, Buenos Aires — Fri, 6 Feb 2026
 - Under Club, Buenos Aires — Fri, 23 Jan 2026
@@ -21,10 +21,9 @@ AGUSTIN BARBEI is an electronica and electro artist tracked on soundcheck, with 
 - Melt Underground, Buenos Aires — Thu, 23 Oct 2025
 - Pampa Café, Buenos Aires — Sat, 26 Apr 2025
 - Club de Pescadores Buenos Aires, Buenos Aires — Fri, 20 Dec 2024
-- Dune Park, Buenos Aires — Sat, 30 Nov 2024
 
 ## Shares bills with
 
 Alessandro Miranda, Alyhas, Barée Masse
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*

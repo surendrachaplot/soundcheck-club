@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Parable: KAS:ST at UNLOCKED" on Fri, 2 Oct 2026.
+UNLOCKED is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Parable: KAS:ST at UNLOCKED" on Fri, 2 Oct 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alythia Kwan, Andhim, Carlita and Dosem and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -23,4 +23,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

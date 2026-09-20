@@ -1,6 +1,6 @@
 # AKIOKI
 
-AKIOKI is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
+AKIOKI is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
 
 AKIOKI is a downtempo and experimental artist tracked on soundcheck, with 4 sets logged across Belgrade and Berlin. Often billed alongside Andrija, Claudio PRC and Clovis. Next up: Kult, Belgrade on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ AKIOKI is a downtempo and experimental artist tracked on soundcheck, with 4 sets
 
 Andrija, Claudio PRC, Clovis
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akioki/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akioki/)*

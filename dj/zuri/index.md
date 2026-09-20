@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Badaboum, Paris on Fri, 2 Oct 2026.
+Zuri is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Badaboum, Paris on Fri, 2 Oct 2026.
 
 Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 75 sets logged across Amsterdam, Hongkong, Leeds and London and 3 more. Often billed alongside Aletha, Korzi and Atiké. Next up: Badaboum, Paris on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Zuri is a techno and house artist based in Spain, tracked on soundcheck, with 75
 
 Aletha, Korzi, Atiké
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

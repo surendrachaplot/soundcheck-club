@@ -1,19 +1,19 @@
 # Junkie Kid
 
-Junkie Kid is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at White Bay Power Station, Sydney on Sat, 19 Sept 2026.
+Junkie Kid is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
-Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 14 sets logged across Brisbane, Chicago, Houston and Losangeles and 8 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: White Bay Power Station, Sydney on Sat 19 Sept.
+Junkie Kid is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 14 sets logged across Brisbane, Chicago, Houston and Losangeles and 8 more. Often billed alongside DJ GUESTLIST, HIJCKD and Mark Blair. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | White Bay Power Station | Sydney |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 
 ## Recently played
 
+- White Bay Power Station, Sydney — Sat, 19 Sept 2026
 - Superordinary, Brisbane — Fri, 18 Sept 2026
 - Mia Mao, Paris — Fri, 7 Aug 2026
 - BERHTA, Washington DC — Sat, 11 Jul 2026
@@ -21,10 +21,9 @@ Junkie Kid is a techno and hardcore artist based in United States of America, tr
 - Airport Würzburg, Nürnberg — Fri, 26 Jun 2026
 - Academy LA, Los Angeles — Fri, 29 May 2026
 - The Meadows, New York City — Fri, 14 Nov 2025
-- Salamander, Miami — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 DJ GUESTLIST, HIJCKD, Mark Blair
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiekid/)*

@@ -1,6 +1,6 @@
 # Mateusz Grzybowski
 
-Mateusz Grzybowski is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at NO TAM, Warsaw on Sat, 19 Sept 2026.
+Mateusz Grzybowski is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at NO TAM, Warsaw on Sat, 19 Sept 2026.
 
 Mateusz Grzybowski is a techno and electronica artist based in Poland, tracked on soundcheck, with 9 sets logged across Krakow, Oslo and Warsaw. Often billed alongside Pean, Gabi Bury and Violent. Next up: NO TAM, Warsaw on Sat 19 Sept.
 
@@ -13,6 +13,7 @@ Mateusz Grzybowski is a techno and electronica artist based in Poland, tracked o
 
 ## Recently played
 
+- NO TAM, Warsaw — Sat, 19 Sept 2026
 - Mastak, Warsaw — Sat, 25 Jul 2026
 - Noce KRK, Krakow — Fri, 19 Jun 2026
 - Smolna, Warsaw — Sun, 17 May 2026
@@ -25,4 +26,4 @@ Mateusz Grzybowski is a techno and electronica artist based in Poland, tracked o
 
 Pean, Gabi Bury, Violent
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateuszgrzybowski/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateuszgrzybowski/)*

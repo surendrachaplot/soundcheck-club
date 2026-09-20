@@ -1,15 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Sachsentrance" on Sat, 19 Sept 2026.
+ÆDEN is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "[CANCELLED] Sunday Service by schnellschwimmer" on Sun, 20 Sept 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Sachsentrance |  |
-| Sat, 19 Sept 2026 | Puticlub presents La Guachafita with Rosa Pistola | Calamidades Lola, Isa GT, Lazy Rosario, Rosa Pistola |
 | Sun, 20 Sept 2026 | [CANCELLED] Sunday Service by schnellschwimmer |  |
 | Wed, 23 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE |  |
 | Thu, 24 Sept 2026 | Fornax Collective at ÆDEN | BLØEM, Cosmic, E2NMN, Kashpitzky, MINNIEMEN, Mathys Lenne |
@@ -18,9 +16,11 @@
 | Wed, 30 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE |  |
 | Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
+| Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
+| Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DJ Sterni, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, subcutan |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

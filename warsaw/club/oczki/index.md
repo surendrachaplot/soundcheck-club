@@ -1,15 +1,13 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "III Urodziny OCZKI | DAY II" on Sat, 19 Sept 2026.
+OCZKI is a music venue in Warsaw with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ARK: Tiga" on Sat, 3 Oct 2026.
 
-OCZKI is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Blackhaine, BOBAIO, Bronka and Debit and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
+OCZKI is a music venue in Warsaw listed on soundcheck. 8 upcoming gigs, with line-ups including Blackhaine, BOBAIO, Bronka and Debit and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | III Urodziny OCZKI / DAY II | Duszne Granie, GiGi (PL), Glasse, Korenberg, Mazi (PL), Pysh, Sincz, WEIKUM |
-| Sat, 19 Sept 2026 | ZA STARZY NA TECHNO |  |
 | Sat, 3 Oct 2026 | ARK: Tiga | Tiga |
 | Sun, 4 Oct 2026 | Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker / Pink Siifu / Hekt + more | Blackhaine, Debit, Hekt, Taan, Tim Hecker, gummi, szkoda |
 | Sun, 4 Oct 2026 | Unsound Warszawa 2026: FLEX - Debit / gummi b2b Taan / Hekt / Pink Siifu | Debit, Hekt, Taan, gummi |
@@ -23,4 +21,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with li
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

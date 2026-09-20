@@ -1,6 +1,6 @@
 # Medallion Man
 
-Medallion Man is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
+Medallion Man is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
 
 Medallion Man is a techno and electro artist tracked on soundcheck, with 40 sets logged across Berlin, Birmingham, Detroit and Edinburgh and 9 more. Often billed alongside Sunden, Charlie Boy Manson and L KAE F. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Medallion Man is a techno and electro artist tracked on soundcheck, with 40 sets
 
 Sunden, Charlie Boy Manson, L KAE F
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medallionman/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medallionman/)*

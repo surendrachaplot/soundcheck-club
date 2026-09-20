@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Sala Apolo, Barcelona on Sun, 20 Sept 2026.
+Alma Negrot is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sala Apolo, Barcelona on Sun, 20 Sept 2026.
 
 Alma Negrot is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Sala Apolo, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 43 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

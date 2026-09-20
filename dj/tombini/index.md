@@ -1,6 +1,6 @@
 # Tom Bini
 
-Tom Bini is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at TBA, Lyon on Sat, 31 Oct 2026.
+Tom Bini is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Lyon on Sat, 31 Oct 2026.
 
 Tom Bini is a house and balearic artist tracked on soundcheck, with 7 sets logged across Lyon, Marseille, Naples and Paris. Often billed alongside Camion Bazar, Cess (2) and Cristobal. Next up: TBA, Lyon on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Tom Bini is a house and balearic artist tracked on soundcheck, with 7 sets logge
 
 Camion Bazar, Cess (2), Cristobal
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombini/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombini/)*

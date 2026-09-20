@@ -1,6 +1,6 @@
 # Erika
 
-Erika is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Erika is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Erika is a techno and acid artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Bristol and Brussels and 18 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Erika is a techno and acid artist tracked on soundcheck, with 111 sets logged ac
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

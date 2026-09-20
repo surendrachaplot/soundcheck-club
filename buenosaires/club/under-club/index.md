@@ -1,14 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PULSO INVITA" on Sat, 19 Sept 2026.
+Under Club is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Faustø - JULIETA LAKE - MYLAH - SAP LIVE" on Fri, 25 Sept 2026.
 
-Under Club is a music venue in Buenosaires listed on soundcheck. 9 upcoming gigs, with line-ups including Ana Hagen, ANNĒ, Ben Klock and Bondarük and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenosaires listed on soundcheck. 8 upcoming gigs, with line-ups including Ana Hagen, ANNĒ, Ben Klock and Bondarük and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | PULSO INVITA | Pulso (2) |
 | Fri, 25 Sept 2026 | Faustø - JULIETA LAKE - MYLAH - SAP LIVE | Faustø, JULIETA LAKE, MYLAH, SAP (Live) |
 | Sat, 26 Sept 2026 | ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ | Bondarük, SMT (2) |
 | Sun, 27 Sept 2026 | ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) 90 %  SOLD OUT | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
@@ -22,4 +21,4 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 9 upcoming gigs
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

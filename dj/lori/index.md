@@ -1,6 +1,6 @@
 # Lori (1)
 
-Lori (1) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Lori (1) is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Lori (1) is a house and dub artist based in Australia, tracked on soundcheck, with 20 sets logged across Amsterdam, Melbourne, Riga and Sydney and 1 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lori (1) is a house and dub artist based in Australia, tracked on soundcheck, wi
 
 Boris Coelman, Cynthia Spiering, DJ JNETT
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*

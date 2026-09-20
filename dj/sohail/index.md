@@ -1,6 +1,6 @@
 # SOHAIL
 
-SOHAIL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
+SOHAIL is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
 
 SOHAIL is a house and tech house artist based in Australia, tracked on soundcheck, with 14 sets logged across Bali and Sydney. Often billed alongside BRAD WATTS, Ashlea Milinkovic and André Müller. Next up: The Island, Sydney on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ SOHAIL is a house and tech house artist based in Australia, tracked on soundchec
 
 BRAD WATTS, Ashlea Milinkovic, André Müller
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*

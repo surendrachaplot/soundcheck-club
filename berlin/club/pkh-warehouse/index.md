@@ -1,6 +1,6 @@
 # PKH Warehouse
 
-PKH Warehouse is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, BerlinPoisonedMe, uvm" on Fri, 2 Oct 2026.
+PKH Warehouse is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PKH Warehouse Opening Event with Trancecore, Sachsentrance, Tragedie, BerlinPoisonedMe, uvm" on Fri, 2 Oct 2026.
 
 PKH Warehouse is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including A.D.H.S., Amøn, Anechoic and Asem Shama and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, 
 | Thu, 15 Oct 2026 | Festival of Lights Afterpary with A.D.H.S, Mehr is Mehr, Maurice Mino, ZweiE, Manu Strasse | A.D.H.S., Manu Strasse, Maurice Mino, Mehr is Mehr, ZweiE |
 | Sat, 31 Oct 2026 | Halloween by Wurzelfestival x Praerie Festival |  |
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

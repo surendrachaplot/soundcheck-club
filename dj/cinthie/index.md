@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Cinthie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 Cinthie is a house and techno artist tracked on soundcheck, with 285 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Dan Shake and Gabrielle Kwarteng. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -22,6 +22,7 @@ Cinthie is a house and techno artist tracked on soundcheck, with 285 sets logged
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
 - Fidelity Studio, Dublin — Fri, 18 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 17 Sept 2026
 - Lofi, Amsterdam — Sat, 12 Sept 2026
@@ -29,10 +30,9 @@ Cinthie is a house and techno artist tracked on soundcheck, with 285 sets logged
 - Cova Santa, Ibiza — Tue, 8 Sept 2026
 - Tempelhof Airport, Berlin — Sat, 22 Aug 2026
 - Hï Ibiza, Ibiza — Fri, 21 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Meat, Dan Shake, Gabrielle Kwarteng
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

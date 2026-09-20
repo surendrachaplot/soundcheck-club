@@ -1,6 +1,6 @@
 # Toff Youth
 
-Toff Youth is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+Toff Youth is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 Toff Youth is a dub and dancehall artist tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Rotterdam and Thehague. Often billed alongside Jo FLM, Rozaly and Chinnamasta. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Toff Youth is a dub and dancehall artist tracked on soundcheck, with 20 sets log
 
 Jo FLM, Rozaly, Chinnamasta
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toffyouth/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toffyouth/)*

@@ -1,18 +1,18 @@
 # Martin Heimann
 
-Martin Heimann is a House and New Wave artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Salon des Amateurs, Düsseldorf on Sat, 19 Sept 2026.
+Martin Heimann is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at saasfee*pavillon, Frankfurt on Fri, 25 Sept 2026.
 
-Martin Heimann is a house and new wave artist tracked on soundcheck, with 10 sets logged across Dusseldorf and Frankfurt. Often billed alongside Aprill, Modo Alto and INKASSO. Next up: Salon des Amateurs, Dusseldorf on Sat 19 Sept.
+Martin Heimann is a house and new wave artist tracked on soundcheck, with 10 sets logged across Dusseldorf and Frankfurt. Often billed alongside Aprill, Modo Alto and INKASSO. Next up: saasfee*pavillon, Frankfurt on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Salon des Amateurs | Düsseldorf |
 | Fri, 25 Sept 2026 | saasfee*pavillon | Frankfurt |
 
 ## Recently played
 
+- Salon des Amateurs, Düsseldorf — Sat, 19 Sept 2026
 - Silbergold, Frankfurt — Fri, 23 Jan 2026
 - Silbergold, Frankfurt — Thu, 28 Nov 2024
 - saasfee*pavillon, Frankfurt — Thu, 4 Jul 2024
@@ -20,10 +20,9 @@ Martin Heimann is a house and new wave artist tracked on soundcheck, with 10 set
 - Dreikönigskeller, Frankfurt — Mon, 2 Oct 2023
 - saasfee*pavillon, Frankfurt — Sat, 1 Jul 2023
 - Silbergold, Frankfurt — Sat, 10 Jun 2023
-- saasfee*pavillon, Frankfurt — Fri, 10 Mar 2023
 
 ## Shares bills with
 
 Aprill, Modo Alto, INKASSO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinheimann/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinheimann/)*

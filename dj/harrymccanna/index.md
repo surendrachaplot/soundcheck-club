@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
+Harry McCanna is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
 
 Harry McCanna is a house and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Arc Space, Nottingham on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 135 s
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

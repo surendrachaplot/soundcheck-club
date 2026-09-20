@@ -1,15 +1,13 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+DJ Cringey is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mondo Open Air, Madrid on Sat, 26 Sept 2026.
 
-DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Mondo Open Air, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
-| Sat, 19 Sept 2026 | KALT | Strasbourg |
 | Sat, 26 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 26 Sept 2026 | Virage | Paris |
 | Fri, 9 Oct 2026 | Edelfettwerk | Hamburg |
@@ -19,6 +17,7 @@ DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets lo
 
 ## Recently played
 
+- KALT, Strasbourg — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - OXI, Berlin — Sat, 12 Sept 2026
 - Else, Berlin — Fri, 11 Sept 2026
@@ -26,10 +25,9 @@ DJ Cringey is a techno and trance artist tracked on soundcheck, with 100 sets lo
 - Edelfettwerk, Hamburg — Sat, 8 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - BASIS, Utrecht — Sat, 25 Jul 2026
-- Kilomètre25, Paris — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 TOXIMAMI, DJ Hyperdrive, ANTHRAZIT
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcringey/)*

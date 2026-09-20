@@ -1,6 +1,6 @@
 # The Apollo Theater
 
-The Apollo Theater is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Apollo Music Cafe: TheARTI$T" on Fri, 9 Oct 2026.
+The Apollo Theater is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Apollo Music Cafe: TheARTI$T" on Fri, 9 Oct 2026.
 
 The Apollo Theater is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 253 W 125th St, New York, NY 10027, USA.
 
@@ -17,4 +17,4 @@ The Apollo Theater is a music venue in Newyorkcity listed on soundcheck. 4 upcom
 
 253 W 125th St, New York, NY 10027, USA, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-apollo-theater/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-apollo-theater/)*

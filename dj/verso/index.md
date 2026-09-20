@@ -1,6 +1,6 @@
 # Verso
 
-Verso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at fabric, London on Sun, 4 Oct 2026.
+Verso is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at fabric, London on Sun, 4 Oct 2026.
 
 Verso is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside BRADII, Savio Testa and BECKIE ADAMS. Next up: fabric, London on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Verso is a house and tech house artist based in United Kingdom, tracked on sound
 
 BRADII, Savio Testa, BECKIE ADAMS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verso/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verso/)*

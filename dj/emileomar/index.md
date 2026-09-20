@@ -1,6 +1,6 @@
 # Emile Omar
 
-Emile Omar is a Afrobeats and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
+Emile Omar is a Afrobeats and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
 
 Emile Omar is an afrobeats and funk / soul artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne, Newyorkcity and Paris. Often billed alongside Another Taste, Coco Maria and DJ Nomad. Next up: La Bellevilloise, Paris on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Emile Omar is an afrobeats and funk / soul artist tracked on soundcheck, with 4 
 
 Another Taste, Coco Maria, DJ Nomad
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emileomar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emileomar/)*

@@ -1,6 +1,6 @@
 # Matteo Gatti
 
-Matteo Gatti is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+Matteo Gatti is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 Matteo Gatti is a minimal and tech house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, London and Milan and 1 more. Often billed alongside Gabriele Peveri, Jacob Husley and Neverdogs. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Matteo Gatti is a minimal and tech house artist tracked on soundcheck, with 10 s
 
 Gabriele Peveri, Jacob Husley, Neverdogs
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogatti/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogatti/)*

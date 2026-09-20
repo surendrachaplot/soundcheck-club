@@ -1,6 +1,6 @@
 # Shira Kela
 
-Shira Kela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club der Visionaere, Berlin on Sun, 20 Sept 2026.
+Shira Kela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Club der Visionaere, Berlin on Sun, 20 Sept 2026.
 
 Shira Kela is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Munich and Thehague. Often billed alongside Handmade, Bailey Ibbs and Jacob Meehan. Next up: Club der Visionaere, Berlin on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Shira Kela is a techno and house artist tracked on soundcheck, with 47 sets logg
 
 Handmade, Bailey Ibbs, Jacob Meehan
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirakela/)*

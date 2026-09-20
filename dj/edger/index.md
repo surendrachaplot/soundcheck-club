@@ -1,6 +1,6 @@
 # Edger
 
-Edger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
+Edger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 2 Oct 2026.
 
 Edger is a techno and house artist based in Australia, tracked on soundcheck, with 10 sets logged across Bali, Melbourne and Sydney. Often billed alongside BRAD WATTS, Rowen Clark and Aidan Bega. Next up: Revolver Upstairs, Melbourne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Edger is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 BRAD WATTS, Rowen Clark, Aidan Bega
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edger/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edger/)*

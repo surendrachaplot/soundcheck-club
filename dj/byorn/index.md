@@ -1,6 +1,6 @@
 # BYØRN
 
-BYØRN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+BYØRN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
 BYØRN is a techno and trance artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 37 more. Often billed alongside NOVAH, SIKOTI and Basswell. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ BYØRN is a techno and trance artist tracked on soundcheck, with 94 sets logged 
 
 NOVAH, SIKOTI, Basswell
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byorn/)*

@@ -1,6 +1,6 @@
 # Andree Bohlin
 
-Andree Bohlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Under Bron, Stockholm on Fri, 9 Oct 2026.
+Andree Bohlin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Under Bron, Stockholm on Fri, 9 Oct 2026.
 
 Andree Bohlin is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Leipzig and Stockholm. Often billed alongside Adam Ekman, Billie Jo and Harami. Next up: Under Bron, Stockholm on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Andree Bohlin is a house and techno artist tracked on soundcheck, with 20 sets l
 
 Adam Ekman, Billie Jo, Harami
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreebohlin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreebohlin/)*

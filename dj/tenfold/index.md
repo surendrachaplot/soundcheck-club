@@ -1,6 +1,6 @@
 # TENFOLD
 
-TENFOLD is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at SOBs, New York City on Sun, 27 Sept 2026.
+TENFOLD is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at SOBs, New York City on Sun, 27 Sept 2026.
 
 TENFOLD is a trance and techno artist based in Australia, tracked on soundcheck, with 2 sets logged across London and Newyorkcity. Often billed alongside Gwen, Maso and N1L. Next up: SOBs, Newyorkcity on Sun 27 Sept.
 
@@ -15,4 +15,4 @@ TENFOLD is a trance and techno artist based in Australia, tracked on soundcheck,
 
 Gwen, Maso, N1L
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tenfold/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tenfold/)*

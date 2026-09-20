@@ -1,6 +1,6 @@
 # Mysliwska
 
-Mysliwska is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Radiate with Lz MC Can" on Fri, 25 Sept 2026.
+Mysliwska is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Radiate with Lz MC Can" on Fri, 25 Sept 2026.
 
 Mysliwska is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Lz MC Can. Browse upcoming dates, start times and who's playing. Schlesische Str. 35, 10997 Berlin.
 
@@ -14,4 +14,4 @@ Mysliwska is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with 
 
 Schlesische Str. 35, 10997 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mysliwska/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mysliwska/)*

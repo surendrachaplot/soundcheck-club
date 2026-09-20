@@ -1,6 +1,6 @@
 # Max Dewavrin
 
-Max Dewavrin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
+Max Dewavrin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Renate, Berlin on Fri, 30 Oct 2026.
 
 Max Dewavrin is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Nurnberg and Paris. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: Renate, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Max Dewavrin is a house and techno artist tracked on soundcheck, with 16 sets lo
 
 Ogazón, OPH, VICE/VERSA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*

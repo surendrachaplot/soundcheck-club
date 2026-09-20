@@ -1,14 +1,13 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "WHP26 /// Rampa  &ME (Keinemusik)" on Sat, 19 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "WHP presents: Solomun" on Fri, 25 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | WHP26 /// Rampa  &ME (Keinemusik) | &ME, Rampa |
 | Fri, 25 Sept 2026 | WHP presents: Solomun | Solomun |
 | Sat, 26 Sept 2026 | HOMOBLOC | ALCATRAZ, ARMANA KHAN, Aiden Francis, BASHKKA, Banksie, COBRAH, DJ Gigola, DJ Paulette, Dandy, Danny Tenaglia, Derrick Carter, Erol Alkan, Fat Tony, Fattony, Gina Breeze, Girls Don't Sync, Guy Williams, Hannah Holland, Honey Dijon, Horse Meat Disco, I. JORDAN, ISAbella, Jamie Bull, Job Jobse, LSDXOXO, Lady Shaka, Lill, Luca Eck, MCR-T, Meg10, Miss Bashful, Moxie, Palms Trax, Peach, Perra Inmunda, Ponyboy, Saoirse, Shanti Celeste, Shimrise, T4T B2B |
 | Sat, 3 Oct 2026 | You & Me x WHP | ADR (US), Alex Culross, Alexandria, Amy Os, Benji King, Chloé Caillet, Dennis Cruz, Dennis Quin, Enzo Siragusa, Hidde van Wee, J6 (UK), Jacob Matthews, Jamback, Jamie Fielding, Jelsen, Jentzen, Job de Jong, Josh Baker, Julian Fijma, Kepler, L.P. Rhythm, Laura De Greef, Lily C-D, Local Dub, Luuk van Dijk, M-High, Marlie, Marsolo, Matt Littman, Natalia Roth, Phill de Janeiro, Prospa, RTK Tarantino, Sally C, Seth Troxler, Shanti Celeste, Sidney Charles, Stef Davidse, The Trip, Traumer, jWave, simmo |
@@ -18,9 +17,10 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 21 upcoming 
 | Sat, 17 Oct 2026 | WHP26 /// Eric Prydz [Concourse Only] | Eric Prydz |
 | Sat, 24 Oct 2026 | Duke Dumont, Manchester | Duke Dumont |
 | Fri, 30 Oct 2026 | Overmono presents Pure Devotion - World Tour, Manchester | Andy C, Ash Lauryn, Aurora Halal, Blackhaine, Blawan, Cersy, DJ Bone, DJ SET (Uk), DR MYSTERY, Helena Hauff, James Blake, Joy Orbison, KAVARI, Lee Gamble, Moodymann, Nkisi, Overmono, Rainy Miller, Space Afrika, Special Guest (US) |
+| Sat, 31 Oct 2026 | NeXup, Manchester |  |
 
 ## Address
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

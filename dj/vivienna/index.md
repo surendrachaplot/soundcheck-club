@@ -1,6 +1,6 @@
 # Vivienna
 
-Vivienna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+Vivienna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
 Vivienna is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Leipzig, Munich and Vienna. Often billed alongside ELOISA, Armin Hermann and Bitschu Batschu. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Vivienna is a techno and trance artist tracked on soundcheck, with 27 sets logge
 
 ELOISA, Armin Hermann, Bitschu Batschu
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*

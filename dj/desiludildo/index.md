@@ -1,6 +1,6 @@
 # Desiludildo
 
-Desiludildo is a Gabber and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+Desiludildo is a Gabber and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
 Desiludildo is a gabber and hardcore artist based in Portugal, tracked on soundcheck, with 14 sets logged across Glasgow and London. Often billed alongside AC (dot robot), Becky Stroke and Compulsive Leia. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Desiludildo is a gabber and hardcore artist based in Portugal, tracked on soundc
 
 AC (dot robot), Becky Stroke, Compulsive Leia
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*

@@ -1,6 +1,6 @@
 # Pianos
 
-Pianos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NIGHT SHIFT: AJACENT / KAYSHIMMY / 2MANNYMOVES / SINZ" on Thu, 24 Sept 2026.
+Pianos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "NIGHT SHIFT: AJACENT / KAYSHIMMY / 2MANNYMOVES / SINZ" on Thu, 24 Sept 2026.
 
 Pianos is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including AJACENT, Lil Zé and Papi Weli. Browse upcoming dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
@@ -15,4 +15,4 @@ Pianos is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, wi
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

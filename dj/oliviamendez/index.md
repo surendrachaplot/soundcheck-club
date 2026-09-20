@@ -1,14 +1,13 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+Olivia Mendez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Lofi, Amsterdam on Sat 19 Sept.
+Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
@@ -18,6 +17,7 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 
 ## Recently played
 
+- Lofi, Amsterdam — Sat, 19 Sept 2026
 - Tresor.West, Dortmund-essen — Sat, 5 Sept 2026
 - De Fik Garden, Amsterdam — Sun, 30 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Fuse, Brussels — Sat, 25 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
-- TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

@@ -1,6 +1,6 @@
 # Orpheu The Wizard
 
-Orpheu The Wizard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Doka, Amsterdam on Fri, 2 Oct 2026.
+Orpheu The Wizard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Doka, Amsterdam on Fri, 2 Oct 2026.
 
 Orpheu The Wizard is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 14 more. Often billed alongside Nosedrip, Young Marco and Hunee. Next up: Doka, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Orpheu The Wizard is a house and techno artist tracked on soundcheck, with 71 se
 
 Nosedrip, Young Marco, Hunee
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orpheuthewizard/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orpheuthewizard/)*

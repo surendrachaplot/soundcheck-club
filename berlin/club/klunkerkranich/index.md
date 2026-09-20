@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "HOT MAUS ERA w. Ciao 3lla, Francis FF, Kon Faber, AP Solis, Furia Lavanda, Lamara, Adrija" on Sat, 19 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MONDAY ROAST w. P.Toile" on Mon, 21 Sept 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Adrija, aqwapi, CATAWR and cee_ohh and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including aqwapi, CATAWR, cee_ohh and Dela Nesto and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | HOT MAUS ERA w. Ciao 3lla, Francis FF, Kon Faber, AP Solis, Furia Lavanda, Lamara, Adrija | Adrija, Ciao 3lla, Francis FF, Furia Lavanda, Kon Faber, Merle |
 | Mon, 21 Sept 2026 | MONDAY ROAST w. P.Toile | P.Toile |
 | Tue, 22 Sept 2026 | Tanzen3000 x Klunkerkranich: Mina (UK) | Mina |
 | Tue, 22 Sept 2026 | BLAUES STÜNDCHEN w. Quinten McKee | Quinten McKee |
@@ -20,4 +19,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

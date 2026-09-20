@@ -1,6 +1,6 @@
 # Ekcent
 
-Ekcent is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Ekcent is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Ekcent is a bass and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside Neukila, Vinil Motion and Lyo XS. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Ekcent is a bass and electronica artist based in Mexico, tracked on soundcheck, 
 
 Neukila, Vinil Motion, Lyo XS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekcent/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekcent/)*

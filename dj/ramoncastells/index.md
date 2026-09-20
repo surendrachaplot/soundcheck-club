@@ -1,6 +1,6 @@
 # Ramon Castells
 
-Ramon Castells is a Afro House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Space Eat & Dance, Ibiza on Tue, 22 Sept 2026.
+Ramon Castells is a Afro House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Space Eat & Dance, Ibiza on Tue, 22 Sept 2026.
 
 Ramon Castells is an afro house and balearic artist tracked on soundcheck, with 4 sets logged across Ibiza. Often billed alongside Clara Da Costa. Next up: Space Eat & Dance, Ibiza on Tue 22 Sept.
 
@@ -20,4 +20,4 @@ Ramon Castells is an afro house and balearic artist tracked on soundcheck, with 
 
 Clara Da Costa
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoncastells/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoncastells/)*

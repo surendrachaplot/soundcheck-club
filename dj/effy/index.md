@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
+Effy is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
 
 Effy is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 51 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: The Warehouse, Leeds on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Effy is a techno and house artist tracked on soundcheck, with 132 sets logged ac
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

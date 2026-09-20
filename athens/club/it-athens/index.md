@@ -1,14 +1,13 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "KINETICA: SEASON OPENING" on Sat, 19 Sept 2026.
+IT Athens is a music venue in Athens with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "atomwerk 01" on Fri, 25 Sept 2026.
 
-IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Jacopo Sb, LEFTYT, Nico Kass and Paluma Sound and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
+IT Athens is a music venue in Athens listed on soundcheck. 7 upcoming gigs, with line-ups including Jacopo Sb, Nico Kass, Paluma Sound and pink.wav and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | KINETICA: SEASON OPENING | LEFTYT, R4ST |
 | Fri, 25 Sept 2026 | atomwerk 01 | Nico Kass |
 | Sat, 26 Sept 2026 | Phasma Collective Return | zøntanos |
 | Sat, 3 Oct 2026 | Showcase Tropical Nomads Athens |  |
@@ -21,4 +20,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

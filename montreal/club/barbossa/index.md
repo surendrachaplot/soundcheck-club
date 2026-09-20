@@ -1,6 +1,6 @@
 # Barbossa
 
-Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "KAJÚ: BADJUDA, Juju le Moko, Naoussa" on Thu, 24 Sept 2026.
+Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "KAJÚ: BADJUDA, Juju le Moko, Naoussa" on Thu, 24 Sept 2026.
 
 Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Anatohl, BADJUDA, Bwi-Bwi and Inside Blur and 1 more. Browse upcoming dates, start times and who's playing. 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada.
 
@@ -15,4 +15,4 @@ Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, wit
 
 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada, Montreal
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*

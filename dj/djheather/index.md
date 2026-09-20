@@ -1,14 +1,13 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Masada, Chicago on Sat, 19 Sept 2026.
+DJ Heather is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
 
-DJ Heather is a house and deep house artist tracked on soundcheck, with 133 sets logged across Austin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Masada, Chicago on Sat 19 Sept.
+DJ Heather is a house and deep house artist tracked on soundcheck, with 133 sets logged across Austin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Navy Pier, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Masada | Chicago |
 | Sat, 26 Sept 2026 | Navy Pier | Chicago |
 | Sun, 27 Sept 2026 | Le Nocturne | Chicago |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
@@ -19,6 +18,7 @@ DJ Heather is a house and deep house artist tracked on soundcheck, with 133 sets
 
 ## Recently played
 
+- Masada, Chicago — Sat, 19 Sept 2026
 - smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Podlasie Club, Chicago — Fri, 28 Aug 2026
@@ -26,10 +26,9 @@ DJ Heather is a house and deep house artist tracked on soundcheck, with 133 sets
 - smartbar, Chicago — Sat, 1 Aug 2026
 - Masada, Chicago — Sat, 1 Aug 2026
 - TBA - City Centre Artist Lodge, Vancouver — Sat, 18 Jul 2026
-- TBA - West Town, Chicago — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

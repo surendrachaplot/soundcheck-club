@@ -1,6 +1,6 @@
 # JDH
 
-JDH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
+JDH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
 
 JDH is a techno and house artist tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Berlin and Munich and 3 more. Often billed alongside Gee Dee, Budino and Avalon Emerson. Next up: Good Room, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ JDH is a techno and house artist tracked on soundcheck, with 35 sets logged acro
 
 Gee Dee, Budino, Avalon Emerson
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*

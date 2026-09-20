@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Angel presents LA RAMADA" on Sat, 19 Sept 2026.
+Angel Music Bar is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Slow Grind Fever" on Wed, 23 Sept 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including bbsanii, CLAIR (BAI), Dashé and Ham (5) and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including CLAIR (BAI), Dashé, Ham (5) and Haus of Ralph and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Angel presents LA RAMADA | JUPiTA, SOPHI (4), bbsanii |
 | Wed, 23 Sept 2026 | Slow Grind Fever |  |
 | Fri, 25 Sept 2026 | Headhunters - All night long [Guy Contact & Solar Suite] + friends | Headhunters |
 | Sat, 26 Sept 2026 | Angel presents Luna, Ruby Lou, Ewan Sutardy | Ham (5), Luna (1), Ruby Lou |
@@ -18,4 +17,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 5 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

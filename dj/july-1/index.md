@@ -1,6 +1,6 @@
 # July (1)
 
-July (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Kockiri, Seoul on Sun, 20 Sept 2026.
+July (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kockiri, Seoul on Sun, 20 Sept 2026.
 
 July (1) is a house and club artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Seoul, Tokyo and Zurich. Often billed alongside range vak, Hyungmin and Bolm. Next up: Kockiri, Seoul on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ July (1) is a house and club artist based in Germany, tracked on soundcheck, wit
 
 range vak, Hyungmin, Bolm
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/july-1/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/july-1/)*

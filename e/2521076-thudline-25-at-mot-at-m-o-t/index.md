@@ -1,6 +1,6 @@
 # ThudLine 25 at MOT at M.O.T
 
-ThudLine 25 at MOT at M.O.T on Fri 9 Oct, London. 3 acts on the bill: Bryan Kessler, Ellie Anderson and Roy Don. House and Electro. Preview the line-up and save it on soundcheck.
+ThudLine 25 at MOT at M.O.T on Fri 9 Oct, London. 4 acts on the bill: Bryan Kessler, Ellie Anderson, Roy Don and Tai Lokun. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ ThudLine 25 at MOT at M.O.T on Fri 9 Oct, London. 3 acts on the bill: Bryan Kess
 - Bryan Kessler
 - Ellie Anderson
 - Roy Don
+- Tai Lokun
 
 *Source: [soundcheck](https://soundcheck.club/e/2521076-thudline-25-at-mot-at-m-o-t/)*

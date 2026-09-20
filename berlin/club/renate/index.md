@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club" on Sat, 19 Sept 2026.
+Renate is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Renate Klubnacht x Haram Night" on Fri, 25 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 16 Faces, 80HDJ, Abibi and Adlas and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 16 Faces, Abibi, Adlas and Adri Tüde and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club | 80HDJ, CSILLA, Camilla Rae, DJ Sterni, Elvin, IDA, Juana Valeria, Lenz, Lily Haz, Npoint_O, Octoptic, Reinartz, Retter (DE), Robot Girlfriend, Vaccaro, Vitling, WD40 |
 | Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |
 | Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch | BBYG, Chaques, Cowper, D'Nice, DJ CHICHI, Hanna Baertig, Infamous Ali, Luke Blunton, Natalia Martinovna, elliephunk, sleeptwitch, young oldmann |
 | Thu, 1 Oct 2026 | Renate LIVE: Face Value & Propellar  |  |
@@ -18,9 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with l
 | Fri, 9 Oct 2026 | Renate Klubnacht with Lux, Horkheimer, karete bu, Rosa Red | CHUKWU, Horkheimer, Lulu & Nell, Lux., Pschukk, Rosa Red, karete bu |
 | Sat, 10 Oct 2026 | Renate Klubnacht / Libras United | DJ CHICHI, JM Moser, Kang, Nadia Wise, Tom Kutsche, Triqi |
 | Thu, 15 Oct 2026 | Renate LIVE: tba |  |
+| Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* | Adri Tüde, Andreas Rauscher, Apolonia, Borella, Boskopp, Ciao 3lla, Corios, DJ Flink, DJ https, Daniel Neuland, Dela Nesto, EMJIE, Ele Luz, Elias Goldmund, FLAVE, GI.O, Haensen&Gretel, Hannes Turm, Horst Haller, J.WOCKENFUSS, Julio Paradise, Konfusia, Kos:mo, Kotelett, LAXBERGER, Lanka, Luko, MOOGLI (DE), Mareike Bautz, Maria Theresia von Eberg, Maurice Mino, Mira, Naicet, Powel, Rad.Lez, Sabura, Sahra Bass, Sandrino, Sarah Wild, Sin:port, Sinamin, The Bille, The Jakob Sister, Tobi Dei (DE), Viper, Wanda Wild, Yola Rennt, diladï, fraumuhlin, inda Flo, kluntje, lisa luka, nøvae, wilson.solidarity |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

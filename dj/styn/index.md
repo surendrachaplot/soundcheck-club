@@ -1,14 +1,13 @@
 # Styn
 
-Styn is a House and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Styn is a House and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 1 Oct 2026.
 
-Styn is a house and latin bass artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Edinburgh, London and Manchester and 2 more. Often billed alongside T.NO, Kurashi Soundsystem and SAIDAH. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Styn is a house and latin bass artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Edinburgh, London and Manchester and 2 more. Often billed alongside T.NO, Kurashi Soundsystem and SAIDAH. Next up: Sneaky Pete's, Edinburgh on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Thu, 1 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 9 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
@@ -27,4 +26,4 @@ Styn is a house and latin bass artist based in Netherlands, tracked on soundchec
 
 T.NO, Kurashi Soundsystem, SAIDAH
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*

@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Red Axes is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Tennis, Bakke and KI/KI. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -17,6 +17,7 @@ Red Axes is a techno and house artist tracked on soundcheck, with 78 sets logged
 
 ## Recently played
 
+- Kater, Berlin — Sat, 19 Sept 2026
 - Les Enfants Brillants, Barcelona — Sat, 29 Aug 2026
 - Playa Soleil Ibiza, Ibiza — Fri, 31 Jul 2026
 - Bolivar Beach Bar, Athens — Thu, 23 Jul 2026
@@ -24,10 +25,9 @@ Red Axes is a techno and house artist tracked on soundcheck, with 78 sets logged
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Azimut Club, Turin — Fri, 3 Jul 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 27 Jun 2026
-- control, Bucharest — Fri, 29 May 2026
 
 ## Shares bills with
 
 DJ Tennis, Bakke, KI/KI
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

@@ -1,6 +1,6 @@
 # Lazystep
 
-Lazystep is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
+Lazystep is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
 
 Lazystep is a deep house and tech house artist based in Dominican Republic, tracked on soundcheck, with 9 sets logged across Amsterdam, Madrid and Valencia. Often billed alongside Hannecart, Tommaso Pizzelli and 4Pleasure. Next up: Het Salon, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Lazystep is a deep house and tech house artist based in Dominican Republic, trac
 
 Hannecart, Tommaso Pizzelli, 4Pleasure
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazystep/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazystep/)*

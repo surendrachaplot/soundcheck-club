@@ -1,20 +1,20 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Electric Studios, Sheffield on Sat, 19 Sept 2026.
+BassLayerz is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 12 more. Often billed alongside Hedex, IC3 and Carasel. Next up: Electric Studios, Sheffield on Sat 19 Sept.
+BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 12 more. Often billed alongside Hedex, IC3 and Carasel. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Electric Studios | Sheffield |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 
 ## Recently played
 
+- Electric Studios, Sheffield — Sat, 19 Sept 2026
 - Eutopia Whs, London — Sat, 5 Sept 2026
 - Antwerp Expo, Antwerp — Sat, 22 Aug 2026
 - Tank, Sheffield — Sun, 19 Jul 2026
@@ -22,10 +22,9 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked o
 - Antwerp Expo, Antwerp — Fri, 17 Apr 2026
 - Tank, Sheffield — Sat, 4 Apr 2026
 - IDRA, Manchester — Sat, 7 Feb 2026
-- Bootshaus, Cologne — Fri, 9 Jan 2026
 
 ## Shares bills with
 
 Hedex, IC3, Carasel
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

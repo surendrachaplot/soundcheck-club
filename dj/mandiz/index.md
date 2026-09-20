@@ -1,18 +1,18 @@
 # Mandiz
 
-Mandiz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
+Mandiz is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Salon Daomé, Montreal on Fri, 16 Oct 2026.
 
-Mandiz is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Ibiza and Miami and 2 more. Often billed alongside Manzone & Strong, Barroness and Mike Nervous. Next up: La Terrrazza, Barcelona on Sat 19 Sept.
+Mandiz is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Ibiza and Miami and 2 more. Often billed alongside Manzone & Strong, Barroness and Mike Nervous. Next up: Salon Daomé, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | La Terrrazza | Barcelona |
 | Fri, 16 Oct 2026 | Salon Daomé | Montreal |
 
 ## Recently played
 
+- La Terrrazza, Barcelona — Sat, 19 Sept 2026
 - Negroni Bistro & Sushi Bar, Miami — Thu, 20 Aug 2026
 - Negroni Bistro & Sushi Bar, Miami — Thu, 16 Jul 2026
 - Wiggle Room, Toronto — Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ Mandiz is a tech house and house artist tracked on soundcheck, with 48 sets logg
 - 1-800-Lucky, Miami — Fri, 5 Jun 2026
 - Newspeak, Montreal — Fri, 22 May 2026
 - Sainte-Catherine Hall, Montreal — Sat, 16 May 2026
-- StereoBar, Montreal — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Manzone & Strong, Barroness, Mike Nervous
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*

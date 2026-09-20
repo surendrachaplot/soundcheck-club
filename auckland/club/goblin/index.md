@@ -1,6 +1,6 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Joe Kaptein / Benjamin J. Shepherd / Julien Dyne - Upside Down Lounge" on Wed, 23 Sept 2026.
+Goblin is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Joe Kaptein / Benjamin J. Shepherd / Julien Dyne - Upside Down Lounge" on Wed, 23 Sept 2026.
 
 Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
@@ -15,4 +15,4 @@ Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming gigs. Brows
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

@@ -1,15 +1,13 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Patrick Mason is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Gare Porto, Porto on Sun, 20 Sept 2026.
 
-Patrick Mason is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Austin and 74 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Patrick Mason is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Austin and 74 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Gare Porto, Porto on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
-| Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sun, 20 Sept 2026 | Gare Porto | Porto |
 | Thu, 24 Sept 2026 | Sub Club | Glasgow |
 | Fri, 25 Sept 2026 | Slaktkyrkan | Stockholm |
@@ -20,9 +18,11 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 274 sets 
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | Savaya Bali | Bali |
 | Fri, 27 Nov 2026 | Flux | Istanbul |
+| Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
 
 ## Recently played
 
+- Mondo Open Air, Madrid — Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 14 Sept 2026
 - Nitsa Club, Barcelona — Sat, 12 Sept 2026
@@ -30,10 +30,9 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 274 sets 
 - Audio Club, Geneva — Sat, 5 Sept 2026
 - Runnymede Hall, Toronto — Sat, 22 Aug 2026
 - Stereo, Montreal — Fri, 21 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

@@ -1,6 +1,6 @@
 # MIGO
 
-MIGO is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Subcero Club, Madrid on Thu, 1 Oct 2026.
+MIGO is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Subcero Club, Madrid on Thu, 1 Oct 2026.
 
 MIGO is a house artist tracked on soundcheck, with 19 sets logged across Hamburg, Madrid and Milan. Often billed alongside Hugo Carter, Hugo Fontaine and Spyrow. Next up: Subcero Club, Madrid on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ MIGO is a house artist tracked on soundcheck, with 19 sets logged across Hamburg
 
 Hugo Carter, Hugo Fontaine, Spyrow
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*

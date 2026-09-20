@@ -1,6 +1,6 @@
 # Terax
 
-Terax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Z Maruyama, Tokyo on Sun, 20 Sept 2026.
+Terax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Z Maruyama, Tokyo on Sun, 20 Sept 2026.
 
 Terax is a house and techno artist tracked on soundcheck, with 185 sets logged across Tokyo. Often billed alongside hiroto yano, Onométro and kagurun. Next up: Z Maruyama, Tokyo on Sun 20 Sept.
 
@@ -29,4 +29,4 @@ Terax is a house and techno artist tracked on soundcheck, with 185 sets logged a
 
 hiroto yano, Onométro, kagurun
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*

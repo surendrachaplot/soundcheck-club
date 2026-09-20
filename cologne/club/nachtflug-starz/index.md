@@ -1,6 +1,6 @@
 # Nachtflug & Starz
 
-Nachtflug & Starz is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "GreenKomm Autumn Palace" on Sun, 4 Oct 2026.
+Nachtflug & Starz is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "GreenKomm Autumn Palace" on Sun, 4 Oct 2026.
 
 Nachtflug & Starz is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Bekker, Farius, Pagano and Skippo and 1 more. Browse upcoming dates, start times and who's playing. Hohenzollernring 89-93; 50672 Cologne; Germany.
 
@@ -16,4 +16,4 @@ Nachtflug & Starz is a music venue in Cologne listed on soundcheck. 3 upcoming g
 
 Hohenzollernring 89-93; 50672 Cologne; Germany, Cologne
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtflug-starz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtflug-starz/)*

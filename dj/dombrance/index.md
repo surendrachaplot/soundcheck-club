@@ -1,18 +1,18 @@
 # Dombrance
 
-Dombrance is a Disco and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Dombrance is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 5 Dec 2026.
 
-Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brighton and Bucharest and 10 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: Loft Studios, London on Sat 19 Sept.
+Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brighton and Bucharest and 10 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: The Bongo Club, Edinburgh on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Loft Studios | London |
 | Sat, 5 Dec 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
+- Loft Studios, London — Sat, 19 Sept 2026
 - Kater, Berlin — Fri, 11 Sept 2026
 - Praia Irmão, Lisbon — Fri, 17 Jul 2026
 - Jean’s, New York City — Thu, 25 Jun 2026
@@ -20,10 +20,9 @@ Dombrance is a disco and electronica artist tracked on soundcheck, with 39 sets 
 - Jean’s, New York City — Thu, 6 Nov 2025
 - Virage, Paris — Sat, 27 Sept 2025
 - TBA - KABAROUF, Marseille — Thu, 17 Jul 2025
-- KOKO, London — Sat, 24 May 2025
 
 ## Shares bills with
 
 Discolypso Crew, Isaac Ferry, Freudenthal
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*

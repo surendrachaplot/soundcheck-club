@@ -1,6 +1,6 @@
 # Aino DJ
 
-Aino DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Gewölbe, Cologne on Sun, 20 Sept 2026.
+Aino DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Gewölbe, Cologne on Sun, 20 Sept 2026.
 
 Aino DJ is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Leipzig and Stuttgart. Often billed alongside Philo_, Sedaction and no:elia. Next up: Gewölbe, Cologne on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Aino DJ is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Philo_, Sedaction, no:elia
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ainodj/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ainodj/)*

@@ -1,14 +1,13 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Refracted, Tiago, Amulador" on Sat, 19 Sept 2026.
+Gare Porto is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Patrick Mason, Meibi, Küiã" on Sun, 20 Sept 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Amulador, Anika Kunst, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with line-ups including Amulador, Anika Kunst, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Refracted, Tiago, Amulador | Amulador, Refracted, Tiago |
 | Sun, 20 Sept 2026 | Patrick Mason, Meibi, Küiã | KÜIÃ, Meibi, Patrick Mason |
 | Fri, 25 Sept 2026 | dtekk b2b Lake Haze, Quantum Eraser | Lake Haze, dtekk |
 | Sat, 26 Sept 2026 | Forest Drive West, André Cascais, Amulador | Amulador, Forest Drive West |
@@ -20,4 +19,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

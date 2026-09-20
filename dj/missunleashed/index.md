@@ -1,6 +1,6 @@
 # Miss Unleashed
 
-Miss Unleashed is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Insomnia, Berlin on Fri, 2 Oct 2026.
+Miss Unleashed is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Insomnia, Berlin on Fri, 2 Oct 2026.
 
 Miss Unleashed is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside BOHO, Jakob Lesch and DJ Sweedee. Next up: Insomnia, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Miss Unleashed is a techno and trance artist based in Germany, tracked on soundc
 
 BOHO, Jakob Lesch, DJ Sweedee
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missunleashed/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missunleashed/)*

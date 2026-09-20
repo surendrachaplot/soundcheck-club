@@ -1,6 +1,6 @@
 # Queixal
 
-Queixal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Queixal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Queixal is a techno and house artist tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Mod.1, Linkan Ray and AEREA. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Queixal is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 Mod.1, Linkan Ray, AEREA
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queixal/)*

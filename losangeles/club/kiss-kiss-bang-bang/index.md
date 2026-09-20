@@ -1,14 +1,13 @@
 # Kiss Kiss Bang Bang
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Paradisco" on Sat, 19 Sept 2026.
+Kiss Kiss Bang Bang is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Paradisco" on Sat, 3 Oct 2026.
 
-Kiss Kiss Bang Bang is a music venue in Losangeles listed on soundcheck. 7 upcoming gigs, with line-ups including Scotty Boy. Browse upcoming dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
+Kiss Kiss Bang Bang is a music venue in Losangeles listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Paradisco | Scotty Boy |
 | Sat, 3 Oct 2026 | Paradisco |  |
 | Sat, 17 Oct 2026 | Paradisco |  |
 | Thu, 22 Oct 2026 | Stereo Punks presents Flamingosis |  |
@@ -20,4 +19,4 @@ Kiss Kiss Bang Bang is a music venue in Losangeles listed on soundcheck. 7 upcom
 
 3531 Wilshire Blvd, Los Angeles, CA 90010, USA, Los Angeles
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*

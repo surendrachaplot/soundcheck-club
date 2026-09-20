@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Reframe Studios Indoors, Los Angeles on Sat, 19 Sept 2026.
+Francis Mercier is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 21 Sept 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Reframe Studios Indoors, Losangeles on Sat 19 Sept.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Reframe Studios Indoors | Los Angeles |
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Bloody Louis | Brussels |
 | Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 ## Recently played
 
+- Reframe Studios Indoors, Los Angeles — Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 14 Sept 2026
 - Lula Club, Madrid — Sun, 13 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 7 Sept 2026
@@ -25,10 +25,9 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 - TBA - The Port Lands, Toronto — Sun, 6 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 31 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 24 Aug 2026
-- Santanna Mykonos, Mykonos — Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

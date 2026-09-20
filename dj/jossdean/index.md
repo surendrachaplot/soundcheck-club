@@ -1,14 +1,13 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Bronze Beach, Amsterdam on Sat, 19 Sept 2026.
+Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mint Warehouse, Leeds on Mon, 21 Sept 2026.
 
-Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Bronze Beach, Amsterdam on Sat 19 Sept.
+Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Mint Warehouse, Leeds on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Bronze Beach | Amsterdam |
 | Mon, 21 Sept 2026 | Mint Warehouse | Leeds |
 | Fri, 2 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
@@ -23,6 +22,7 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets l
 
 ## Recently played
 
+- Bronze Beach, Amsterdam — Sat, 19 Sept 2026
 - The Loft, Manchester — Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 13 Sept 2026
 - Revolver Upstairs, Melbourne — Sun, 6 Sept 2026
@@ -30,10 +30,9 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets l
 - XOYO, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Dullingham Polo Club, London — Sat, 22 Aug 2026
-- Ouseburn Garden, Newcastle — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

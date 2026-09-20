@@ -1,14 +1,13 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at ALICE, Copenhagen on Sat, 19 Sept 2026.
+Safety Trance is a Techno and Reggaeton artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
-Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: ALICE, Copenhagen on Sat 19 Sept.
+Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | ALICE | Copenhagen |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Wed, 14 Oct 2026 | Substation | Seattle |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -18,6 +17,7 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 112 s
 
 ## Recently played
 
+- ALICE, Copenhagen — Sat, 19 Sept 2026
 - Nitsa Club, Barcelona — Fri, 4 Sept 2026
 - MIDNIGHT EAST, Tokyo — Fri, 21 Aug 2026
 - Cakeshop, Seoul — Fri, 14 Aug 2026
@@ -25,10 +25,9 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 112 s
 - Teatro Mars, Sao Paulo — Fri, 24 Jul 2026
 - OXI, Berlin — Fri, 10 Jul 2026
 - Silent Green, Berlin — Tue, 30 Jun 2026
-- Colour Factory, London — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

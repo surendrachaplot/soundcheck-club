@@ -1,6 +1,6 @@
 # Fred Linger
 
-Fred Linger is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Das Viertel, Basel on Sat, 10 Oct 2026.
+Fred Linger is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Das Viertel, Basel on Sat, 10 Oct 2026.
 
 Fred Linger is a house and minimal artist tracked on soundcheck, with 20 sets logged across Basel and Zurich. Often billed alongside Guy Brûlé, Cristian Tamborrini and Oliver Aden & Luis Cruz. Next up: Das Viertel, Basel on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fred Linger is a house and minimal artist tracked on soundcheck, with 20 sets lo
 
 Guy Brûlé, Cristian Tamborrini, Oliver Aden & Luis Cruz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredlinger/)*

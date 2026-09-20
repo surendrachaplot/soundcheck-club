@@ -1,6 +1,6 @@
 # Han Litz
 
-Han Litz is a Afrobeat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
+Han Litz is a Afrobeat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
 
 Han Litz is an afrobeat and funk / soul artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Kid Sublime, MoMeWi and Rob Coley. Next up: Black Gold, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Han Litz is an afrobeat and funk / soul artist tracked on soundcheck, with 4 set
 
 Kid Sublime, MoMeWi, Rob Coley
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanlitz/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanlitz/)*

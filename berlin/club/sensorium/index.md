@@ -1,14 +1,13 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 22 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "SENSO NACHT" on Sat, 19 Sept 2026.
+Sensorium is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "TRIG I 23:00- XXX" on Sun, 20 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Abdallah and I, Andeel, Bee Lincoln and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | SENSO NACHT | H7 (3), James Cherry, Matthieu Benjamin, Milky Way, Person X, Polter, So detroit, UniKhatu |
 | Sun, 20 Sept 2026 | TRIG I 23:00- XXX | Stallo |
 | Wed, 23 Sept 2026 | TECHNO MITTWOCH | Bee Lincoln, EVYA, J4NNICH, Pamela Svart, jaynetics, pink-panther |
 | Fri, 25 Sept 2026 | ETHER | Blck-Swan, Viktor Kampf, ØVERLOAD |
@@ -18,9 +17,10 @@ Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming gigs, wit
 | Wed, 7 Oct 2026 | TECHNO MITTWOCH | Eleonor Bianchi, Fugist, k.meower, peak2soon |
 | Fri, 9 Oct 2026 | ABANDONED FACTORY RESIDENTS VINYL-ONLY NIGHT | ESSMEE, KLEYN, NYCTO, SAAMO, Viktor Kampf, menicx |
 | Wed, 14 Oct 2026 | TECHNO MITTWOCH | Blck-Swan, Manrick Stapez, Uninvited |
+| Fri, 16 Oct 2026 | ETHER |  |
 
 ## Address
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

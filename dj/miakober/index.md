@@ -1,6 +1,6 @@
 # Mia Kober
 
-Mia Kober is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Klunkerkranich, Berlin on Thu, 24 Sept 2026.
+Mia Kober is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Klunkerkranich, Berlin on Thu, 24 Sept 2026.
 
 Mia Kober is a house and techno artist tracked on soundcheck, with 35 sets logged across Auckland, Berlin, Copenhagen and Munich. Often billed alongside DirdyGerdi, Dylan C and Sanoi. Next up: Klunkerkranich, Berlin on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Mia Kober is a house and techno artist tracked on soundcheck, with 35 sets logge
 
 DirdyGerdi, Dylan C, Sanoi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*

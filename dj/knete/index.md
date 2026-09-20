@@ -1,6 +1,6 @@
 # knete
 
-knete is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
+knete is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
 
 knete is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Rodèk, Rn86 and Simon Phil.ter. Next up: Kulturlounge, Leipzig on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ knete is a techno and trance artist tracked on soundcheck, with 23 sets logged a
 
 Rodèk, Rn86, Simon Phil.ter
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knete/)*

@@ -1,14 +1,13 @@
 # paaradoxx
 
-paaradoxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Gewölbe, Cologne on Fri, 18 Sept 2026.
+paaradoxx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
 
-paaradoxx is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Cologne. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: Gewölbe, Cologne on Fri 18 Sept.
+paaradoxx is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Cologne. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: Renate, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Gewölbe | Cologne |
 | Fri, 2 Oct 2026 | Renate | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ paaradoxx is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Maruhni, DJ Frank, DJ ASS TITS
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*

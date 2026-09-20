@@ -1,6 +1,6 @@
 # Aoto
 
-Aoto is a Garage and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Odaiba, Tokyo on Wed, 23 Sept 2026.
+Aoto is a Garage and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Odaiba, Tokyo on Wed, 23 Sept 2026.
 
 Aoto is a garage and hip-hop artist based in Canada, tracked on soundcheck, with 3 sets logged across Tokyo and Toronto. Often billed alongside Fanndemm, Mizuki and Peterparker69. Next up: Odaiba, Tokyo on Wed 23 Sept.
 
@@ -19,4 +19,4 @@ Aoto is a garage and hip-hop artist based in Canada, tracked on soundcheck, with
 
 Fanndemm, Mizuki, Peterparker69
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoto/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aoto/)*

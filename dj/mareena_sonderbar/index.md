@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Mareena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
 Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Hive Club, Zurich on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

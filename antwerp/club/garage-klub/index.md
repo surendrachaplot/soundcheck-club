@@ -1,6 +1,6 @@
 # Garage Klub
 
-Garage Klub is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "NOVAH at Garage" on Sat, 3 Oct 2026.
+Garage Klub is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "NOVAH at Garage" on Sat, 3 Oct 2026.
 
 Garage Klub is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, with line-ups including 2ManyDJs, Cassius, CC:DISCO! and Diffrent and 2 more. Browse upcoming dates, start times and who's playing. Noorderlaan 72, 2030 Antwerpen, Belgium.
 
@@ -16,4 +16,4 @@ Garage Klub is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs, w
 
 Noorderlaan 72, 2030 Antwerpen, Belgium, Antwerp
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*

@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 9 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "16 Y WSS feat. Avocado x Dirty Doering x" on Sat, 19 Sept 2026.
+Die Rakete is a music venue in Nürnberg with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "16 Y WSS feat. Avocado x Dirty Doering x" on Sat, 19 Sept 2026.
 
 Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Stein, Annie O, Arp and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -22,4 +22,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 9 upcoming gigs, w
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

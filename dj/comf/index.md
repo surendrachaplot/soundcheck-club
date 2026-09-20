@@ -1,6 +1,6 @@
 # Comf
 
-Comf is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Studiodb, Berlin on Sat, 26 Sept 2026.
+Comf is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Studiodb, Berlin on Sat, 26 Sept 2026.
 
 Comf is a bass and ambient artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Prague. Often billed alongside Genoe, CHILDISH BAMBINO and Formella. Next up: Studiodb, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Comf is a bass and ambient artist based in Germany, tracked on soundcheck, with 
 
 Genoe, CHILDISH BAMBINO, Formella
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*

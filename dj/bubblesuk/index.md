@@ -1,6 +1,6 @@
 # Bubbles (UK)
 
-Bubbles (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Gut Level, Sheffield on Sat, 12 Dec 2026.
+Bubbles (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Gut Level, Sheffield on Sat, 12 Dec 2026.
 
 Bubbles (UK) is a house and techno artist tracked on soundcheck, with 11 sets logged across Mexicocity, Sanfrancisco, Sheffield and Tokyo. Often billed alongside Backseat Driver, Paniolo and Host (CA). Next up: Gut Level, Sheffield on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Bubbles (UK) is a house and techno artist tracked on soundcheck, with 11 sets lo
 
 Backseat Driver, Paniolo, Host (CA)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*

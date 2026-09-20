@@ -1,6 +1,6 @@
 # Club Penguin
 
-Club Penguin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
+Club Penguin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
 
 Club Penguin is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Leeds, Manchester and Newcastle. Often billed alongside blo rida, SUS-R and teepee h. Next up: Stage and Radio, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Club Penguin is a techno and trance artist based in United Kingdom, tracked on s
 
 blo rida, SUS-R, teepee h
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubpenguin/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubpenguin/)*

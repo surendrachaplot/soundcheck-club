@@ -1,6 +1,6 @@
 # Tracey
 
-Tracey is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+Tracey is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
 Tracey is a house and electronica artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, London and Madrid and 1 more. Often billed alongside Blawan, Malibu and Ahadadream. Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Tracey is a house and electronica artist tracked on soundcheck, with 15 sets log
 
 Blawan, Malibu, Ahadadream
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tracey/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tracey/)*

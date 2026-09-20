@@ -1,6 +1,6 @@
 # unbound
 
-unbound is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Flash, Washington DC on Sat, 3 Oct 2026.
+unbound is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Sat, 3 Oct 2026.
 
 unbound is a house and deep house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Washingtondc. Often billed alongside MAXIMILIANO (US), G.E.N.E. and Mikey J. Next up: Flash, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ unbound is a house and deep house artist based in United States of America, trac
 
 MAXIMILIANO (US), G.E.N.E., Mikey J
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unbound/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unbound/)*

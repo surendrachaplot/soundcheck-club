@@ -1,6 +1,6 @@
 # KI-HOLE at Bossa Nova Civic Club
 
-KI-HOLE at Bossa Nova Civic Club on Tue 20 Oct, Newyorkcity. 4 acts on the bill: bounce kisses, Kilbourne, L4RV4 and SELENE (3). Club and Industrial. Preview the line-up and save it on soundcheck.
+KI-HOLE at Bossa Nova Civic Club on Tue 20 Oct, Newyorkcity. 5 acts on the bill: bounce kisses, Kilbourne, L4RV4 and SELENE (3) and 1 more. Club and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ KI-HOLE at Bossa Nova Civic Club on Tue 20 Oct, Newyorkcity. 4 acts on the bill:
 - Kilbourne
 - L4RV4
 - SELENE (3)
+- Yaz Lancaster
 
 *Source: [soundcheck](https://soundcheck.club/e/2532666-ki-hole-at-bossa-nova-civic-club/)*

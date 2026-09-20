@@ -1,6 +1,6 @@
 # Yentl.
 
-Yentl. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Jalousy, Brussels on Fri, 25 Sept 2026.
+Yentl. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Jalousy, Brussels on Fri, 25 Sept 2026.
 
 Yentl. is a house and electro artist based in Belgium, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Ampe, Ben Kamal and DJ Rino. Next up: Jalousy, Brussels on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Yentl. is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 Ampe, Ben Kamal, DJ Rino
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yentl./)*

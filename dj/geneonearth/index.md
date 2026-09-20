@@ -1,14 +1,13 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 19 Sept 2026.
+Gene On Earth is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
-Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: TBA - East Williamsburg, Newyorkcity on Sat 19 Sept.
+Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - East Williamsburg | New York City |
 | Fri, 25 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 26 Sept 2026 | Fünk | Mexico City |
 | Sun, 27 Sept 2026 | Flash | Washington DC |
@@ -20,9 +19,11 @@ Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 s
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
+| Fri, 13 Nov 2026 | The Loft | Manchester |
 
 ## Recently played
 
+- TBA - East Williamsburg, New York City — Sat, 19 Sept 2026
 - Floyd, Miami — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - The Love Inn, Bristol — Sun, 26 Jul 2026
@@ -30,10 +31,9 @@ Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 s
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Yamamori Tengu, Dublin — Fri, 3 Jul 2026
 - Pikes Ibiza, Ibiza — Sun, 28 Jun 2026
-- Sophie Festival, Malaga — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

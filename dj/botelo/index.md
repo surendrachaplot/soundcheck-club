@@ -1,6 +1,6 @@
 # Botelo
 
-Botelo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
+Botelo is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Drama Radio Bar, Mexico City on Tue, 15 Sept 2026.
 
 Botelo is a techno and reggaeton artist based in Mexico, tracked on soundcheck, with 26 sets logged across Mexicocity. Often billed alongside Eliel Capa, Cruz de Cal and MKRUL. Next up: Drama Radio Bar, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Botelo is a techno and reggaeton artist based in Mexico, tracked on soundcheck, 
 
 Eliel Capa, Cruz de Cal, MKRUL
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/botelo/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/botelo/)*

@@ -1,6 +1,6 @@
 # Kat Bendis
 
-Kat Bendis is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
+Kat Bendis is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
 
 Kat Bendis is a garage and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DAMPY, Steve Brown and ADMNTi. Next up: Parallel 45, London on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Kat Bendis is a garage and house artist based in United Kingdom, tracked on soun
 
 DAMPY, Steve Brown, ADMNTi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katbendis/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katbendis/)*

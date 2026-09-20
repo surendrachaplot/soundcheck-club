@@ -1,6 +1,6 @@
 # Kara (UK)
 
-Kara (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Planet Wax, London on Thu, 24 Sept 2026.
+Kara (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Planet Wax, London on Thu, 24 Sept 2026.
 
 Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 22 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: Planet Wax, London on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 64 sets
 
 Dillinja, IC3, K Motionz
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karauk/)*

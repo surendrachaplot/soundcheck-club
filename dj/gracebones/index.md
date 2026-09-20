@@ -1,6 +1,6 @@
 # GraceBones
 
-GraceBones is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+GraceBones is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 GraceBones is a house and garage artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, London and Losangeles. Often billed alongside Raw Underground, Dante Tom and Albert Marzinotto. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ GraceBones is a house and garage artist based in United Kingdom, tracked on soun
 
 Raw Underground, Dante Tom, Albert Marzinotto
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracebones/)*

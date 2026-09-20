@@ -1,6 +1,6 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
+Anika Kunst is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
 
 Anika Kunst is a techno and acid artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Cadavra, Madrid on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ Anika Kunst is a techno and acid artist tracked on soundcheck, with 131 sets log
 
 Stojche, Ben Sims, Montero
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

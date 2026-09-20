@@ -1,6 +1,6 @@
 # Erin Page
 
-Erin Page is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Ground at Club Space, Miami on Thu, 3 Dec 2026.
+Erin Page is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Ground at Club Space, Miami on Thu, 3 Dec 2026.
 
 Erin Page is a house and techno artist tracked on soundcheck, with 18 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: The Ground at Club Space, Miami on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Erin Page is a house and techno artist tracked on soundcheck, with 18 sets logge
 
 Cobrastrk, DJ AstroNat, j:drive
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*

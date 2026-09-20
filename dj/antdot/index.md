@@ -1,14 +1,13 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Antdot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 25 Sept 2026.
 
-Antdot is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Buenosaires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Antdot is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Buenosaires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: Chinois Ibiza, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 25 Sept 2026 | Chinois Ibiza | Ibiza |
 | Thu, 15 Oct 2026 | Bazart | Montreal |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
@@ -28,4 +27,4 @@ Antdot is a house and afro house artist tracked on soundcheck, with 59 sets logg
 
 Maz (BR), Argy, Artbat
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

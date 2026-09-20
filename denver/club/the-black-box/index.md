@@ -1,14 +1,13 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "The Black Box presents: DJ Paypal" on Sat, 19 Sept 2026.
+The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "The Black Box presents: Mefjus" on Thu, 24 Sept 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Daedelus, Daxta, DJ Paypal and Eichenbaum and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Daedelus, Daxta, Eichenbaum and Etch and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | The Black Box presents: DJ Paypal | DJ Paypal |
 | Thu, 24 Sept 2026 | The Black Box presents: Mefjus | Daxta, Mefjus |
 | Fri, 25 Sept 2026 | @adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise | Daedelus, Mux Mool, Sinistarr |
 | Sat, 26 Sept 2026 | Spektral Groove: Underground Live Forever | Eichenbaum, Paul Thomas |
@@ -16,6 +15,7 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs,
 | Fri, 2 Oct 2026 | Sub.mission presents: Sir Spyro | Sir Spyro |
 | Fri, 9 Oct 2026 | Sub.mission presents: Numa Crew X Plastician | Plastician |
 | Sat, 10 Oct 2026 | Recon 23 Year Anniversary | Etch, Poisonfrog, Quartz (2), Sinistarr |
+| Fri, 23 Oct 2026 | The Black Box presents: Villem | Villem |
 | Sat, 31 Oct 2026 | Sub.mission presents: Monty & Apparition | Monty |
 | Fri, 20 Nov 2026 | The Black Box: 10 Years (Night One) |  |
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs,
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

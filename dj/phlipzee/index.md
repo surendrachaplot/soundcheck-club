@@ -1,6 +1,6 @@
 # phlipzee
 
-phlipzee is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+phlipzee is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 phlipzee is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside EZA (DE), OLED and Paul Bauhaus. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ phlipzee is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 EZA (DE), OLED, Paul Bauhaus
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phlipzee/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phlipzee/)*

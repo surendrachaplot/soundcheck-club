@@ -1,6 +1,6 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Fumiya Tanaka is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -9,7 +9,6 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 127 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
-| Sat, 19 Sept 2026 | essaim | Paris |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Sat, 26 Sept 2026 | The Loft | Manchester |
 | Sat, 21 Nov 2026 | Moon Club | Bristol |
@@ -19,6 +18,7 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 127 sets 
 
 ## Recently played
 
+- essaim, Paris — Sat, 19 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Phonox, London — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 23 Aug 2026
@@ -26,10 +26,9 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 127 sets 
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - WWW X, Tokyo — Sat, 18 Jul 2026
 - Circus Osaka, Osaka — Fri, 17 Jul 2026
-- Fvtvr, Paris — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Samuel Deep, Doudou MD, Laidlaw
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

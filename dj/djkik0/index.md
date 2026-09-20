@@ -1,6 +1,6 @@
 # DJ KIK0
 
-DJ KIK0 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
+DJ KIK0 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
 
 DJ KIK0 is an experimental and bass artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Joutema, bloodonmybalmains and flippedcrosses. Next up: Colour Factory, London on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ DJ KIK0 is an experimental and bass artist tracked on soundcheck, with 4 sets lo
 
 Joutema, bloodonmybalmains, flippedcrosses
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkik0/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkik0/)*

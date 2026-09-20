@@ -1,6 +1,6 @@
 # mamba.exe
 
-mamba.exe is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
+mamba.exe is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
 
 mamba.exe is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: The Bag Factory, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ mamba.exe is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 FOULMOUTH, Plan T, Korzi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamba.exe/)*

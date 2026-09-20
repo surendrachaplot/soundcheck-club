@@ -1,6 +1,6 @@
 # SUI 13
 
-SUI 13 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
+SUI 13 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
 
 SUI 13 is a house and garage artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Manchester. Often billed alongside SHADEV, Chanel Carmichael and DJ POLLY. Next up: Ramona, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SUI 13 is a house and garage artist based in United Kingdom, tracked on soundche
 
 SHADEV, Chanel Carmichael, DJ POLLY
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sui13/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sui13/)*

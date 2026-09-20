@@ -1,6 +1,6 @@
 # EUREKA
 
-EUREKA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at West Harlem, Kyoto on Mon, 21 Sept 2026.
+EUREKA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at West Harlem, Kyoto on Mon, 21 Sept 2026.
 
 EUREKA is a house and disco artist based in Japan, tracked on soundcheck, with 94 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside SOTA, Kross Section and KOTSU. Next up: West Harlem, Kyoto on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ EUREKA is a house and disco artist based in Japan, tracked on soundcheck, with 9
 
 SOTA, Kross Section, KOTSU
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eureka/)*

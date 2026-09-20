@@ -1,6 +1,6 @@
 # KAITO.
 
-KAITO. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
+KAITO. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
 
 KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 40 sets logged across Kyoto, Osaka, Seoul and Tokyo and 1 more. Often billed alongside TETSUO (2), Lomax and AKIHIRO. Next up: Club Metro, Kyoto on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ KAITO. is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 TETSUO (2), Lomax, AKIHIRO
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito-jp/)*

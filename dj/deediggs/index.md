@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
+Dee Diggs is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
 
 Dee Diggs is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Suze Ijó. Next up: Knockdown Center, Newyorkcity on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Dee Diggs is a house and techno artist tracked on soundcheck, with 213 sets logg
 
 Kilopatrah Jones, Avalon Emerson, Suze Ijó
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

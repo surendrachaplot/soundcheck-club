@@ -1,14 +1,13 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Top Floor, Newcastle on Sat, 19 Sept 2026.
+Objekt is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at St. Bartholomew's Church, New York City on Sat, 26 Sept 2026.
 
-Objekt is a techno and bass artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Top Floor, Newcastle on Sat 19 Sept.
+Objekt is a techno and bass artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside CCL, DjRUM and Call Super. Next up: St. Bartholomew's Church, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Top Floor | Newcastle |
 | Sat, 26 Sept 2026 | St. Bartholomew's Church | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Signal | New York City |
@@ -21,6 +20,7 @@ Objekt is a techno and bass artist tracked on soundcheck, with 179 sets logged a
 
 ## Recently played
 
+- Top Floor, Newcastle — Sat, 19 Sept 2026
 - The Villa, Oslo — Fri, 18 Sept 2026
 - The Cause, London — Sat, 12 Sept 2026
 - Karmakoma, Belgrade — Fri, 11 Sept 2026
@@ -28,10 +28,9 @@ Objekt is a techno and bass artist tracked on soundcheck, with 179 sets logged a
 - Sonnenraum, Berlin — Sun, 30 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 CCL, DjRUM, Call Super
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

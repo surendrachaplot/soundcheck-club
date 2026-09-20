@@ -1,6 +1,6 @@
 # Dogwoods
 
-Dogwoods is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Thu, 24 Sept 2026.
+Dogwoods is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Thu, 24 Sept 2026.
 
 Dogwoods is a hip-hop and bass artist tracked on soundcheck, with 15 sets logged across Osaka and Tokyo. Often billed alongside OKBOY, MonoGoi and comm. Next up: Nakano Heavysick Zero, Tokyo on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Dogwoods is a hip-hop and bass artist tracked on soundcheck, with 15 sets logged
 
 OKBOY, MonoGoi, comm
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dogwoods/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dogwoods/)*

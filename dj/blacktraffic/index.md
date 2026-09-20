@@ -1,6 +1,6 @@
 # Black Traffic
 
-Black Traffic is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+Black Traffic is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
 Black Traffic is a techno and hardcore artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Black Traffic is a techno and hardcore artist tracked on soundcheck, with 77 set
 
 blk., Jezza & Jod, Jason Cluff
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*

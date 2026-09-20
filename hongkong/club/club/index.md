@@ -1,14 +1,13 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long]" on Sat, 19 Sept 2026.
+宀 Club is a music venue in Hong Kong with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Poly*Technic 003" on Thu, 24 Sept 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming gigs, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming gigs, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Host with Nat Wendell (Depths of My Soul, Berlin) [All Night Long] | Nat Wendell |
 | Thu, 24 Sept 2026 | Poly*Technic 003 | Shelf-Index |
 | Fri, 25 Sept 2026 | House of Ho with Xiaolin (宀, Hong Kong) b2b Mr. Ho (Klasse Wrecks, Hong Kong) | Mr. Ho, Xiaolin |
 | Sat, 26 Sept 2026 | VG+ 3rd Anniversary with S.O.N.S. (Junction Forest, Seoul) [All Night Long Vinyl Set) | S.O.N.S |
@@ -18,9 +17,10 @@
 | Sat, 10 Oct 2026 | VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) | Carl H, maxi.milian |
 | Fri, 16 Oct 2026 | The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) | Sunsiaré, Yadin Moha |
 | Sat, 17 Oct 2026 | HOST with DJ CVLT (Discos Capablanca, Lisbon) [All Night Long] | CVLT |
+| Fri, 23 Oct 2026 | Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) | Nanogram, Ottoman Grüw |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

@@ -1,6 +1,6 @@
 # Ali RQ
 
-Ali RQ is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
+Ali RQ is a Club and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
 
 Ali RQ is a club and techno artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Losangeles and 7 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: Newspeak, Montreal on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Ali RQ is a club and techno artist tracked on soundcheck, with 45 sets logged ac
 
 10cust, Cannelle, Frost Children
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

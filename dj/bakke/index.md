@@ -1,6 +1,6 @@
 # Bakke
 
-Bakke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Bakke is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Bakke is a house and tech house artist tracked on soundcheck, with 153 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Bakke is a house and tech house artist tracked on soundcheck, with 153 sets logg
 
 Danyelino, Thunderpony, Ms. Mada
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakke/)*

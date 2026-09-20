@@ -1,14 +1,13 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Badaboum, Paris on Sat, 19 Sept 2026.
+re:ni is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
 
-re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Badaboum, Paris on Sat 19 Sept.
+re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Badaboum | Paris |
 | Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
 | Sat, 26 Sept 2026 | Ormside Projects | London |
 | Fri, 2 Oct 2026 | BASEMENT | New York City |
@@ -20,6 +19,7 @@ re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged ac
 
 ## Recently played
 
+- Badaboum, Paris — Sat, 19 Sept 2026
 - Badaboum, Paris — Fri, 18 Sept 2026
 - Tresor / Globus, Berlin — Sat, 12 Sept 2026
 - Ormside Projects, London — Sat, 1 Aug 2026
@@ -27,10 +27,9 @@ re:ni is a techno and bass artist tracked on soundcheck, with 151 sets logged ac
 - OXI, Berlin — Thu, 9 Jul 2026
 - Randall Street, Sheffield, S2 4SJ, Sheffield — Sat, 27 Jun 2026
 - The Old Blue Last, London — Fri, 19 Jun 2026
-- Palais, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

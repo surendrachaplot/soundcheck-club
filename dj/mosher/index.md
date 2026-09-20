@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
+Mosher is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at elipamanoke, Leipzig on Sat, 19 Sept 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Buenosaires and Leipzig and 2 more. Often billed alongside Sebastian Mora, Diana May and Patrick Scuro. Next up: elipamanoke, Leipzig on Sat 19 Sept.
 
@@ -17,6 +17,7 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 ## Recently played
 
+- elipamanoke, Leipzig — Sat, 19 Sept 2026
 - Fridas Pier, Stuttgart — Fri, 18 Sept 2026
 - Birgit, Berlin — Fri, 11 Sept 2026
 - John Doe, Amsterdam — Fri, 4 Sept 2026
@@ -24,10 +25,9 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - M-BIA, Berlin — Sat, 15 Aug 2026
 - Birgit, Berlin — Sat, 8 Aug 2026
-- Departamento, Mexico City — Tue, 30 Jun 2026
 
 ## Shares bills with
 
 Sebastian Mora, Diana May, Patrick Scuro
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

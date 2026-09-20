@@ -1,6 +1,6 @@
 # Fluxbau
 
-Fluxbau is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 19 Sept 2026; the next is "FOMO x FeelAustria x Albert&Tina — Coffee Rave" on Sun, 20 Sept 2026.
+Fluxbau is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FOMO x FeelAustria x Albert&Tina — Coffee Rave" on Sun, 20 Sept 2026.
 
 Fluxbau is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Annett Gapstream and Janus Rasmussen. Browse upcoming dates, start times and who's playing. Pfuelstraße 5, 10997 Berlin.
 
@@ -15,4 +15,4 @@ Fluxbau is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with l
 
 Pfuelstraße 5, 10997 Berlin, Berlin
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fluxbau/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fluxbau/)*

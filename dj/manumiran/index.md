@@ -1,6 +1,6 @@
 # Manu Miran
 
-Manu Miran is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
+Manu Miran is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
 
 Manu Miran is a techno and house artist based in Venezuela, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Boston and Chicago and 6 more. Often billed alongside Josh Steers, Junior M (US) and x3butterfly. Next up: Qncc, Newyorkcity on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Manu Miran is a techno and house artist based in Venezuela, tracked on soundchec
 
 Josh Steers, Junior M (US), x3butterfly
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*

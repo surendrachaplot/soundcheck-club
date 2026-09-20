@@ -1,6 +1,6 @@
 # Kurea
 
-Kurea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
+Kurea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
 
 Kurea is a techno and house artist based in Japan, tracked on soundcheck, with 42 sets logged across Tokyo. Often billed alongside tnseei, Yui (JP) and Lynta. Next up: VENT, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kurea is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 tnseei, Yui (JP), Lynta
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurea/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurea/)*

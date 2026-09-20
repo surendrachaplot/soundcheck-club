@@ -1,6 +1,6 @@
 # Cali
 
-Cali is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Catch One, Los Angeles on Sat, 31 Oct 2026.
+Cali is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Catch One, Los Angeles on Sat, 31 Oct 2026.
 
 Cali is a house and disco artist tracked on soundcheck, with 10 sets logged across Losangeles, Naples, Paris and Sanfrancisco and 2 more. Often billed alongside Cecil Carthen, Brina Knauss and DJ ISE. Next up: Catch One, Losangeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cali is a house and disco artist tracked on soundcheck, with 10 sets logged acro
 
 Cecil Carthen, Brina Knauss, DJ ISE
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*

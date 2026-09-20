@@ -1,6 +1,6 @@
 # Malzof
 
-Malzof is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 26 Sept 2026.
+Malzof is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 26 Sept 2026.
 
 Malzof is a techno and experimental artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit, Losangeles, Newyorkcity and Philadelphia and 3 more. Often billed alongside Kiernan Laveaux, Yessi and Security Dog. Next up: Val’s Lesbian Bar, Philadelphia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Malzof is a techno and experimental artist based in United States of America, tr
 
 Kiernan Laveaux, Yessi, Security Dog
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

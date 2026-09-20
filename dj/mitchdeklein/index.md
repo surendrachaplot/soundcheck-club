@@ -1,6 +1,6 @@
 # Mitch de Klein
 
-Mitch de Klein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Mitch de Klein is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 Mitch de Klein is a techno and house artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Istanbul, Rotterdam and Utrecht. Often billed alongside Hollt, Deeparture and Olivier Weiter. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mitch de Klein is a techno and house artist based in Netherlands, tracked on sou
 
 Hollt, Deeparture, Olivier Weiter
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchdeklein/)*

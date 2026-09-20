@@ -1,6 +1,6 @@
 # A G E
 
-A G E is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 19 Sept 2026, next at Violetta, Tokyo on Sat, 19 Sept 2026.
+A G E is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Violetta, Tokyo on Sat, 19 Sept 2026.
 
 A G E is a techno and electro artist tracked on soundcheck, with 6 sets logged across Dublin, Losangeles, Melbourne and Tokyo. Often billed alongside Oska, AMG SAIMURA (TECHVANE) and Andrea Guadalupi. Next up: Violetta, Tokyo on Sat 19 Sept.
 
@@ -12,6 +12,7 @@ A G E is a techno and electro artist tracked on soundcheck, with 6 sets logged a
 
 ## Recently played
 
+- Violetta, Tokyo — Sat, 19 Sept 2026
 - TBA, Dublin — Sat, 12 Apr 2025
 - New Guernica, Melbourne — Sat, 31 Aug 2024
 - Howler, Melbourne — Sat, 17 Aug 2024
@@ -22,4 +23,4 @@ A G E is a techno and electro artist tracked on soundcheck, with 6 sets logged a
 
 Oska, AMG SAIMURA (TECHVANE), Andrea Guadalupi
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/age/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/age/)*

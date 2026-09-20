@@ -1,15 +1,13 @@
 # Ignez
 
-Ignez is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Amp, Munster on Sat, 19 Sept 2026.
+Ignez is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Signal, New York City on Thu, 24 Sept 2026.
 
-Ignez is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Amp, Munster on Sat 19 Sept.
+Ignez is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Signal, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Amp | Munster |
-| Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Thu, 24 Sept 2026 | Signal | New York City |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | Stereo | Montreal |
@@ -20,20 +18,22 @@ Ignez is a techno and house artist tracked on soundcheck, with 197 sets logged a
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | Den Anden Side | Copenhagen |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
+| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Amp, Munster — Sat, 19 Sept 2026
+- Lofi, Amsterdam — Sat, 19 Sept 2026
 - BASIS, Utrecht — Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
 - KHIDI, Tbilisi — Fri, 11 Sept 2026
 - Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - essaim, Paris — Fri, 28 Aug 2026
 - Prince Charles, Berlin — Sat, 22 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

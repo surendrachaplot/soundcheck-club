@@ -1,6 +1,6 @@
 # MS Koi
 
-MS Koi is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sat, 19 Sept 2026; the next is "Techno Bootsparty by Jerome" on Sun, 20 Sept 2026.
+MS Koi is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Techno Bootsparty by Jerome" on Sun, 20 Sept 2026.
 
 MS Koi is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Landungsbrücken, 20359 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ MS Koi is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. Browse 
 
 Landungsbrücken, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-koi/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-koi/)*

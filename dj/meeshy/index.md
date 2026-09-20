@@ -1,6 +1,6 @@
 # Meeshy
 
-Meeshy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 23 Sept 2026.
+Meeshy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 23 Sept 2026.
 
 Meeshy is a tech house and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside hitty, Djammin and Shenin Amara. Next up: Do Not Sit On The Furniture, Miami on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ Meeshy is a tech house and house artist tracked on soundcheck, with 46 sets logg
 
 hitty, Djammin, Shenin Amara
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeshy/)*

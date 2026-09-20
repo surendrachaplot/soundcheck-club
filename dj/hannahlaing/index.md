@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Sub Club, Glasgow on Sun, 20 Sept 2026.
+Hannah Laing is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sub Club, Glasgow on Sun, 20 Sept 2026.
 
 Hannah Laing is a techno and house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Sub Club, Glasgow on Sun 20 Sept.
 
@@ -31,4 +31,4 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 171 sets l
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

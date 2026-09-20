@@ -1,6 +1,6 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 19 Sept 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+BIXBITA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
 BIXBITA is a techno and trance artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ BIXBITA is a techno and trance artist tracked on soundcheck, with 75 sets logged
 
 Zomkrad, Juan Cernadas, Krash Cora
 
-*Updated Sat, 19 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
