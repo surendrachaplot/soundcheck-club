@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "RED LINE: Eskha - Techno, Hard Bounce & Hard Trance in Dublin" on Fri, 25 Sept 2026.
+Wigwam is a music venue in Dublin with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "RED LINE: Eskha - Techno, Hard Bounce & Hard Trance in Dublin" on Fri, 25 Sept 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including Aero (1), ALPER SKR, Angel D'lite and Ayolxi and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming gigs, with line-ups including Aero (1), ALPER SKR, Angel D'lite and Ayolxi and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 

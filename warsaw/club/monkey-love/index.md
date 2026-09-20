@@ -1,14 +1,13 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MONKEY LOVE pres. DAYSHIFT" on Sun, 20 Sept 2026.
+MONKEY LOVE is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MONKEY LOVE pres. KLIMAT" on Fri, 25 Sept 2026.
 
-MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including espoff, Fideshi, MROZ and NuCasa and 1 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
+MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including espoff, Fideshi, MROZ and NuCasa and 1 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | MONKEY LOVE pres. DAYSHIFT |  |
 | Fri, 25 Sept 2026 | MONKEY LOVE pres. KLIMAT | Fideshi, NuCasa |
 | Sat, 26 Sept 2026 | MONKEY LOVE PRES. Schmeltzer x espoff | Schmeltzer, espoff |
 | Sun, 27 Sept 2026 | MONKEY LOVE pres. DAYSHIFT |  |

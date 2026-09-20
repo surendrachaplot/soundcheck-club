@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "25 years of NOVEK" on Fri, 25 Sept 2026.
+SWG3 is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "25 years of NOVEK" on Fri, 25 Sept 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 

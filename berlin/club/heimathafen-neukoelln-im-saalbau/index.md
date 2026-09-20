@@ -1,0 +1,17 @@
+# Heimathafen Neukoelln Im Saalbau
+
+Heimathafen Neukoelln Im Saalbau is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Elder Island" on Thu, 19 Nov 2026.
+
+Heimathafen Neukoelln Im Saalbau is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 141, 12043 Berlin.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Elder Island |  |
+
+## Address
+
+Karl-Marx-Straße 141, 12043 Berlin, Berlin
+
+*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/heimathafen-neukoelln-im-saalbau/)*

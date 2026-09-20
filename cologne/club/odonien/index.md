@@ -2,14 +2,14 @@
 
 Odonien is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Odonien x KLUENGEL - Dayfestival" on Sun, 20 Sept 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including Aio, An On Bast, Chris Schwarzwälder and DJ SODBRENNEN and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including Aio, An On Bast, Aura and C H A Y A and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Odonien x KLUENGEL - Dayfestival | DJ SODBRENNEN, FLACCO, SERA (2), mae.ly |
-| Wed, 23 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
+| Wed, 23 Sept 2026 | #MITTWOCHENENDE in Odonien | Aura, C H A Y A, DJ SODBRENNEN, Jester, Rosilicious, SERA (2), Trauma (CZ) |
 | Fri, 25 Sept 2026 | Systematic Cologne | An On Bast, Drumcomplex, Frank Sonic, Marc Romboy, Robert Babicz |
 | Sat, 26 Sept 2026 | Lichtblick in Odonien - 3 Clubs 1 Rave |  |
 | Sat, 26 Sept 2026 | Odonien Open Air x Dominik Eulberg & Jonathan Kaspar | Dominik Eulberg, Jonathan Kaspar |

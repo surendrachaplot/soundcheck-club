@@ -4214,7 +4214,14 @@
     /* The wall is a POOL of 60 shuffled to 30 client-side (/api/onboard/wall is
        cached 10 min on purpose). 5 across at phone width, 6 at desktop; a face
        must never repeat in one view. .62 under the veil — .3 was invisible. */
-    .ob-wall{ position:absolute; top:0; left:0; right:0; height:55%; z-index:0; pointer-events:none; overflow:hidden; }
+    /* 55vh, not 55%: the page may now be taller than the screen, and a percentage
+       of a taller container would drag the wall down past the headline. */
+    /* The board's wall is 483 tall and reaches just past the CTA, so the air
+       above the form sits ON faces rather than on flat dusk. Capped at 62vh
+       so a short screen does not hand the whole fold to the wall. Tied to the
+       SCREEN, never a percentage of the content — the page scrolls now, and a
+       percentage of a taller container drags the wall down past the headline. */
+    .ob-wall{ position:absolute; top:0; left:0; right:0; height:min(483px, 62vh); z-index:0; pointer-events:none; overflow:hidden; }
     .ob-wall .w{ position:absolute; inset:0; display:grid; grid-template-columns:repeat(5,1fr); grid-auto-rows:1fr; opacity:.62; filter:saturate(.85); }
     .ob-wall .w i{ background-size:cover; background-position:50% 30%; background-color:var(--surface-2); }
     /* The veil, exactly as measured on the Paper board. The old run started at
@@ -4227,7 +4234,7 @@
        and the whole fold read lower than the design. The tab bar fills the
        bottom, so there is no void to centre away from. */
     .ob-land .ob-in{ position:relative; z-index:1; flex:1; display:flex; flex-direction:column;
-      max-width:560px; width:100%; margin:0 auto; padding:100px 20px calc(96px + env(safe-area-inset-bottom)); }
+      max-width:560px; width:100%; margin:0 auto; padding:120px 20px calc(120px + env(safe-area-inset-bottom)); }
     .ob-brand{ display:none; }
     /* Two lines' worth, reserved. "Welcome back." is one line and the join
        headline is two, so without this the whole fold jumps 11px every time
@@ -4243,11 +4250,11 @@
     .ob-land h1{ font-family:var(--head); font-weight:800; font-size:30px; line-height:1.2; letter-spacing:-0.03em;
       color:var(--fg); margin:0; text-align:center; text-wrap:balance;
       min-height:2.4em; display:flex; align-items:flex-end; justify-content:center; }
-    .ob-land .ob-lsub{ color:var(--muted); font-size:14px; line-height:20px; text-align:center; margin:12px 0 0; }
+    .ob-land .ob-lsub{ color:var(--muted); font-size:14px; line-height:20px; text-align:center; margin:16px 0 0; }
     .ob-eyebrow2{ display:none; }
     /* Phone: the field stacks over the button. Desktop turns .ob-frow into a
        row (below) — same markup, so the swap never re-renders the form. */
-    .ob-land .ob-form{ display:flex; flex-direction:column; align-items:center; padding-top:62px; }
+    .ob-land .ob-form{ display:flex; flex-direction:column; align-items:center; padding-top:82px; }
     .ob-land .ob-frow{ display:contents; }
     /* The FIELD is not a button, so it is not a pill: 6px and the lighter
        line-2 border, per the board. It had inherited --radius-btn and read as a
@@ -4264,7 +4271,7 @@
     .obv .ob-land .ob-field input[type=email]::placeholder{ color:var(--faint); }
     /* One button shape, and the brand's own name is never the flat orange —
        the pill is the sunset gradient, with the logo mark drawn in the ink. */
-    .ob-lcta{ display:inline-flex; align-items:center; justify-content:center; gap:10px; height:48px; padding:0 26px; margin-top:16px;
+    .ob-lcta{ display:inline-flex; align-items:center; justify-content:center; gap:10px; height:48px; padding:0 26px; margin-top:24px;
       background:var(--accent-grad); color:var(--accent-ink); border:0; border-radius:var(--radius-btn);
       box-shadow:0 8px 30px rgba(0,0,0,0.45);   /* the board's lift — it sits over the wall, not on flat ground */
       font:700 17px/1 var(--head); cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
@@ -4276,21 +4283,21 @@
        line is just a hole under the CTA. Collapse it until it has something. */
     .ob-land .ob-err{ min-height:0; margin-top:0; }
     .ob-land .ob-err:not(:empty){ margin-top:10px; }
-    .ob-fine{ color:var(--muted); font-size:12px; line-height:16px; text-align:center; margin-top:16px; }
+    .ob-fine{ color:var(--muted); font-size:12px; line-height:16px; text-align:center; margin-top:24px; }
     /* The way back in. Removing the phone header removed the only "sign in" on
        the whole screen — and /api/auth/start already signs returning people in
        (findOrCreateUser), so this is a WORD problem, not a back-end one. */
-    .ob-route{ display:flex; align-items:center; justify-content:center; gap:6px; margin-top:12px; font-size:13px; line-height:18px; }
+    .ob-route{ display:flex; align-items:center; justify-content:center; gap:6px; margin-top:24px; font-size:13px; line-height:18px; }
     .ob-route span{ color:var(--faint); }
     .ob-route button{ background:none; border:0; padding:0; color:var(--muted); font:inherit; cursor:pointer;
       text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px; }
     /* White at 7%, not --border: over the wall's fade a solid plum line reads
        as a seam, and the board's hairline is a lift, not a rule. */
-    .ob-hair{ height:1px; background:rgba(255,255,255,0.07); margin:10px 0 0; }
+    .ob-hair{ height:1px; background:rgba(255,255,255,0.07); margin:26px 0 0; }
     /* The list FOLLOWS the hairline — it is the rest of the sentence the form
        started, not a footer. margin-top:auto pinned it to the bottom edge and
        left a void through the middle of the fold. */
-    .ob-feat{ display:flex; flex-direction:column; gap:22px; padding:22px 0 0; }
+    .ob-feat{ display:flex; flex-direction:column; gap:32px; padding:32px 0 0; }
     .ob-fline{ display:flex; align-items:center; gap:14px; font-size:17px; line-height:23px; }
     .ob-fline svg{ flex:0 0 auto; color:var(--faint); }
     .ob-fline b{ font-weight:700; color:var(--fg); }
@@ -4317,7 +4324,7 @@
       .ob-land h1{ font-size:clamp(2.4rem, 3.9vw, 3.5rem); line-height:1.143; min-height:2.286em;
         width:100vw; max-width:1376px; margin-left:50%; transform:translateX(-50%); }
       .ob-land .ob-lsub{ font-size:18px; line-height:26px; margin-top:14px; }
-      .ob-land .ob-form{ padding-top:40px; }
+      .ob-land .ob-form{ padding-top:56px; }
       .ob-land .ob-frow{ display:flex; align-items:center; gap:12px; width:100%; max-width:580px; }
       .ob-land .ob-frow .ob-field{ flex:1; min-width:0; }
       .ob-land .ob-frow .ob-lcta{ margin-top:0; flex:0 0 auto; height:52px; padding:0 28px; gap:9px; }
@@ -4328,10 +4335,10 @@
       .ob-wall .v{ background:linear-gradient(180deg,
         rgba(22,16,42,.88) 0%, rgba(22,16,42,.42) 16%, rgba(22,16,42,.58) 48%, rgba(22,16,42,.90) 78%, var(--bg) 100%); }
       .ob-eyebrow2{ display:block; margin:0 0 14px; font:700 11px/1 var(--font-mono); letter-spacing:0.22em; text-transform:uppercase; color:var(--faint); }
-      .ob-hair{ margin-top:56px; background:rgba(255,255,255,0.08); }
+      .ob-hair{ margin-top:72px; background:rgba(255,255,255,0.08); }
       /* 15/22, not the phone's 17/23 — at 17 the longer web lines wrap to two
          and the 2x3 grid stops being a grid. */
-      .ob-feat{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px 30px; padding-top:26px; width:100%; }
+      .ob-feat{ display:grid; grid-template-columns:repeat(3,1fr); gap:32px 30px; padding-top:36px; width:100%; }
       .ob-fline{ font-size:15px; line-height:22px; align-items:flex-start; }
       .ob-fline svg{ margin-top:1px; }
       .ob-fline span{ color:var(--muted); }
@@ -4564,7 +4571,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789911474532">
+<meta name="sc-build" content="1789916208458">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>

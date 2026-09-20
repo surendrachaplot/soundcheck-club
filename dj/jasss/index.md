@@ -1,6 +1,6 @@
 # JASSS
 
-JASSS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+JASSS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -9,7 +9,6 @@ JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 1
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Sat, 19 Sept 2026 | Nowadays | New York City |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 7 Nov 2026 | Palais | London |

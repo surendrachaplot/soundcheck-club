@@ -1,8 +1,8 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FAENIX with TANJA MIJU & Bae Blade" on Fri, 25 Sept 2026.
+MÄX is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FAENIX with TANJA MIJU & Bae Blade" on Fri, 25 Sept 2026.
 
-MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including Ahmet Sisman, Aiden (DE), ALT8 and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
+MÄX is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including Ahmet Sisman, Aiden (DE), ALT8 and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
 ## What's on
 

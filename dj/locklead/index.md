@@ -2,7 +2,7 @@
 
 Locklead is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Locklead is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Locklead is a house and tech house artist tracked on soundcheck, with 195 sets l
 
 ## Shares bills with
 
-Marsolo, CHRIS STASSY, East End Dubs
+Marsolo, Chris Stussy, East End Dubs
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

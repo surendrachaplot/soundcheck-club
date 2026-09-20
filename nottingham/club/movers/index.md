@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 25 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS]" on Thu, 24 Sept 2026.
+Movers is a music venue in Nottingham with 26 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS]" on Thu, 24 Sept 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 25 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, with line-ups including Aaron Dynamic, Alex Traska, Alien Communications and Brawther and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 

@@ -10,7 +10,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, wit
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | TRIG I 23:00- XXX: TAKE YOUR FREE TICKETS  | Stallo |
 | Wed, 23 Sept 2026 | TECHNO MITTWOCH | April the pink, Bee Lincoln, EVYA, J4NNICH, Pamela Svart, jaynetics, pink-panther |
-| Fri, 25 Sept 2026 | ETHER | Blck-Swan, Viktor Kampf, ØVERLOAD |
+| Fri, 25 Sept 2026 | ETHER | Blck-Swan, Overload, Viktor Kampf |
 | Sat, 26 Sept 2026 | Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music | Abdallah and I, Andeel, Jemski., Lara Elfara |
 | Sun, 27 Sept 2026 | TRIG | Mute |
 | Wed, 30 Sept 2026 | TECHNO MITTWOCH | Gabrielle (DE), KunstTechnologe, Michael Marchi, nixmoon |

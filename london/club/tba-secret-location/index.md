@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - (Secret Location)
 
-TBA - Secret Location is a music venue in London with 47 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ECLIPSE FEST PRESENTS: DARK MATTER 2026" on Sun, 20 Sept 2026.
+TBA - (Secret Location) is a music venue in London with 47 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ECLIPSE FEST PRESENTS: DARK MATTER 2026" on Sun, 20 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 47 upcoming gigs, with line-ups including .cosm, DJ JUANNY, Alena Vox and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - (Secret Location) is a music venue in London listed on soundcheck. 47 upcoming gigs, with line-ups including .cosm, DJ JUANNY, Alena Vox and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

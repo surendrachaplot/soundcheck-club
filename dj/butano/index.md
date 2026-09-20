@@ -1,14 +1,15 @@
 # André Butano
 
-André Butano is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 20 Sept 2026.
+André Butano is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
-André Butano is a tech house and house artist based in Chile, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Karla Amaro, ATMEN and Paco Osuna. Next up: Sunseabar Beach Club, Barcelona on Sun 20 Sept.
+André Butano is a tech house and house artist based in Chile, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Karla Amaro, ATMEN and Paco Osuna. Next up: Sunseabar Beach Club, Barcelona on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 26 Sept 2026 | Frieda's Büxe | Zurich |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

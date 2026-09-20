@@ -1,13 +1,14 @@
 # Phil Bass
 
-Phil Bass is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at block., Dublin on Fri, 23 Oct 2026.
+Phil Bass is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pawn Shop, Dublin on Sun, 20 Sept 2026.
 
-Phil Bass is a techno and afro house artist based in Mauritius, tracked on soundcheck, with 70 sets logged across Barcelona and Dublin. Often billed alongside Romanetto, NILAAA and Ascalon. Next up: block., Dublin on Fri 23 Oct.
+Phil Bass is a techno and afro house artist based in Mauritius, tracked on soundcheck, with 71 sets logged across Barcelona and Dublin. Often billed alongside Romanetto, NILAAA and Ascalon. Next up: Pawn Shop, Dublin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Pawn Shop | Dublin |
 | Fri, 23 Oct 2026 | block. | Dublin |
 
 ## Recently played

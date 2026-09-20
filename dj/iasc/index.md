@@ -1,14 +1,15 @@
 # iasc
 
-iasc is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Greyhound, London on Fri, 25 Sept 2026.
+iasc is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Greyhound, London on Fri, 25 Sept 2026.
 
-iasc is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dylan Forbes, Peggs and Tyvion Valentine. Next up: The Greyhound, London on Fri 25 Sept.
+iasc is a house and disco artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Dublin and London. Often billed alongside Tyvion Valentine, DJ-CK and Dylan Forbes. Next up: The Greyhound, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Greyhound | London |
+| Sat, 19 Dec 2026 | Hen's Teeth | Dublin |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ iasc is a house and disco artist based in United Kingdom, tracked on soundcheck,
 
 ## Shares bills with
 
-Dylan Forbes, Peggs, Tyvion Valentine
+Tyvion Valentine, DJ-CK, Dylan Forbes
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iasc/)*

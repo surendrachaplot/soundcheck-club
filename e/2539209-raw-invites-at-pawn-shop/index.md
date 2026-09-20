@@ -1,6 +1,6 @@
 # RAW Invites at Pawn Shop
 
-RAW Invites at Pawn Shop on Sun 20 Sept, Dublin. 1 act on the bill: F.HOLLOW. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+RAW Invites at Pawn Shop on Sun 20 Sept, Dublin. 3 acts on the bill: F.HOLLOW, NILAAA and Phil Bass. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ RAW Invites at Pawn Shop on Sun 20 Sept, Dublin. 1 act on the bill: F.HOLLOW. Te
 ## Line-up
 
 - F.HOLLOW
+- NILAAA
+- Phil Bass
 
 *Source: [soundcheck](https://soundcheck.club/e/2539209-raw-invites-at-pawn-shop/)*

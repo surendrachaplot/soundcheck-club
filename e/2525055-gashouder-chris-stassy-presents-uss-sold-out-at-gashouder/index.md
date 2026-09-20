@@ -1,6 +1,6 @@
 # GASHOUDER: Chris Stassy presents USS [Sold Out] at GASHOUDER
 
-GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 1 act on the bill: CHRIS STASSY. House. Preview the line-up and save it on soundcheck.
+GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 1 act on the bill: Chris Stussy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ GASHOUDER: Chris Stassy presents USS [Sold Out] on Sat 28 Nov, Amsterdam. 1 act 
 
 ## Line-up
 
-- CHRIS STASSY
+- Chris Stussy
 
 *Source: [soundcheck](https://soundcheck.club/e/2525055-gashouder-chris-stassy-presents-uss-sold-out-at-gashouder/)*

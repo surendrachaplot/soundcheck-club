@@ -2,13 +2,13 @@
 
 Fabrique is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi" on Fri, 25 Sept 2026.
 
-Fabrique is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including CHRIS STASSY and Lolla Fedolfi. Browse upcoming dates, start times and who's playing. Via Fantoli 9, Milano.
+Fabrique is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Chris Stussy and Lolla Fedolfi. Browse upcoming dates, start times and who's playing. Via Fantoli 9, Milano.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi | CHRIS STASSY, Lolla Fedolfi |
+| Fri, 25 Sept 2026 | VISION MFW @ Fabrique Milano w/t Chris Stassy & Lolla Fedolfi | Chris Stussy, Lolla Fedolfi |
 
 ## Address
 
