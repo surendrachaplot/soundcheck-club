@@ -1,6 +1,6 @@
-# Burlesque Inferno at KitKat 'Burlesque Halloween Ball 2026' (Start 8) at KitKatClub
+# Burlesque Inferno at KitKat 'Burlesque Halloween Ball 2026' (Start 7 pm) at KitKatClub
 
-Burlesque Inferno at KitKat 'Burlesque Halloween Ball 2026' (Start 8) at KitKatClub on Thu 29 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Burlesque Inferno at KitKat 'Burlesque Halloween Ball 2026' (Start 7 pm) at KitKatClub on Thu 29 Oct, Berlin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

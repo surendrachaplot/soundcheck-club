@@ -1,14 +1,15 @@
 # auto_timer
 
-auto_timer is a Latin Bass and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Maaya, Berlin on Fri, 25 Sept 2026.
+auto_timer is a Latin Bass and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Maaya, Berlin on Fri, 25 Sept 2026.
 
-auto_timer is a latin bass and baile funk artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: Maaya, Berlin on Fri 25 Sept.
+auto_timer is a latin bass and baile funk artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside Maque, N3LYSTAR and DJ LOUI FROM JUPITER4. Next up: Maaya, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Maaya | Berlin |
+| Fri, 2 Oct 2026 | TBA - Warschauer Platz 10245 Berlin | Berlin |
 | Fri, 9 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

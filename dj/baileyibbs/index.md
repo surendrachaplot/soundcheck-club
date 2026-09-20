@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tresor / Globus, Berlin on Sat, 19 Sept 2026.
+Bailey Ibbs is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
-Bailey Ibbs is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Tresor / Globus, Berlin on Sat 19 Sept.
+Bailey Ibbs is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 45 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |

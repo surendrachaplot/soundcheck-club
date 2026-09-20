@@ -1,13 +1,14 @@
 # Pitaya Soundsystem
 
-Pitaya Soundsystem is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OHM Town, Nantes on Sat, 26 Sept 2026.
+Pitaya Soundsystem is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Flat HiFi Bar, Madrid on Fri, 25 Sept 2026.
 
-Pitaya Soundsystem is a house and disco artist tracked on soundcheck, with 90 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Dirty Channels, Eternal Love and Gaspar Antuña. Next up: OHM Town, Nantes on Sat 26 Sept.
+Pitaya Soundsystem is a house and disco artist tracked on soundcheck, with 91 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Dirty Channels, Eternal Love and Gaspar Antuña. Next up: Flat HiFi Bar, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Flat HiFi Bar | Madrid |
 | Sat, 26 Sept 2026 | OHM Town | Nantes |
 | Sat, 10 Oct 2026 | Plantation | Paris |
 

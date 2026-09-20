@@ -1,8 +1,8 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
+Jay Duncan is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
 
-Jay Duncan is a techno and bass artist tracked on soundcheck, with 68 sets logged across Berlin, Bristol, Brussels and Copenhagen and 11 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: The Carpet Shop, London on Sat 3 Oct.
+Jay Duncan is a techno and bass artist tracked on soundcheck, with 69 sets logged across Berlin, Bristol, Brussels and Copenhagen and 11 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: The Carpet Shop, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jay Duncan is a techno and bass artist tracked on soundcheck, with 68 sets logge
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Carpet Shop | London |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
+| Fri, 13 Nov 2026 | The Greyhound | London |
 
 ## Recently played
 

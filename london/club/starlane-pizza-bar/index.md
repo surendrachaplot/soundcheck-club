@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Starlane presents: Enrenou w/ Raphael Carrau, Olita & Gabriel Rai" on Sat, 19 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Starlane presents: Enrenou w/ Raphael Carrau, Olita & Gabriel Rai" on Sat, 19 Sept 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 3 Minds, ADMNTi, Aerofunk and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 3 Minds, ADMNTi, Aerofunk and Alfie and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 

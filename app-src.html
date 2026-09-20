@@ -4187,7 +4187,27 @@
        because "just look around" has to remain one tap away. The overlay is
        z-index 900 and .bnav is 70, so the nav is lifted over it while the
        landing is up, and the fold reserves its height so nothing hides under it. */
-    body.ob-landing-open .bnav{ z-index:901; }
+    /* The tab bar sits ABOVE the overlay on EVERY onboarding step, not just the
+       landing, and tapping a tab always dismisses it (see the capture listener
+       in wireNav). Three ways this was broken when it only applied to the
+       landing:
+         · the tab bar was drawn over the landing but nothing closed it, so a
+           tab lit up and the landing stayed — "stuck on the You tab";
+         · on the code step the class was gone, so the bar dropped back under
+           the overlay and became untappable;
+         · that step has no other door, so a mistyped address trapped you
+           completely until you reloaded the page.
+       One class, set for the whole overlay, fixes all three. */
+    body.ob-open .bnav{ z-index:901; }
+    /* The landing's close button: PHONE hides it (the tab bar is the door),
+       desktop shows it (there is no tab bar there, so it is the only door).
+       z-index 2 because .ob-in is z-index 1 and covers the corner — without
+       this the button renders and cannot be clicked. */
+    .ob-xd{ display:none; z-index:2; }
+    @media (min-width:900px){ .ob-xd{ display:block; } }
+    /* …and the steps that scroll must not run under the bar now that it floats
+       on top of them. The landing sets its own bottom padding. */
+    body.ob-open .obv:not(.ob-landing) .ob-wrap{ padding-bottom:calc(112px + env(safe-area-inset-bottom)); }
     /* flex:1, not min-height:100% — .ob-wrap is a flex column, so a percentage
        min-height resolves against an auto height and the fold stops short. */
     .ob-land{ position:relative; flex:1; min-height:100%; display:flex; flex-direction:column; }
@@ -4544,7 +4564,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789852480627">
+<meta name="sc-build" content="1789911474532">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4603,7 +4623,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-19/">Sat 19 Sept <span class="c">132 events</span></a></li><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">27 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">117 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">118 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">137 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6366,10 +6386,15 @@
     function syncTabs(){
       var onPage=document.body.classList.contains('page-on'), route=currentRoute();
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
-      setTab('bnav-home', !onPage);
-      setTab('bnav-search', route==='search');
-      setTab('bnav-scenes', route==='scenes' || /^[a-z0-9-]+\/scene$/.test(route||''));
-      setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
+      // The signed-out landing IS the You tab's page, so light You while it is
+      // up. It sits over whatever was underneath, so without this you tap You,
+      // get the landing, and watch Home stay lit — which is precisely the
+      // "this is covering a page rather than being one" feeling.
+      var onLanding = !!document.querySelector('#obv.show .ob-land');
+      setTab('bnav-home', !onPage && !onLanding);
+      setTab('bnav-search', route==='search' && !onLanding);
+      setTab('bnav-scenes', (route==='scenes' || /^[a-z0-9-]+\/scene$/.test(route||'')) && !onLanding);
+      setTab('bnav-profile', onLanding || route==='account' || (currentUser && route==='u/'+currentUser.handle));
       var br=document.getElementById('bnav-scenes'); if(br) br.classList.toggle('onair', !!radio.on);
       // web header named-nav active states
       function setNav(name,on){ document.querySelectorAll('.nl[data-nav="'+name+'"]').forEach(function(t){ t.classList.toggle('on',!!on); }); }
@@ -6394,13 +6419,45 @@
     // written the day the page was archived, so boot code must tolerate any
     // vintage of markup. One missing button must never cost the whole app.
     function onEl(id, ev, fn){ var el=document.getElementById(id); if(el) el.addEventListener(ev, fn); }
+    /**
+     * THE TAB BAR ALWAYS WINS over the onboarding overlay.
+     *
+     * Capture phase, on the bar itself, so this runs BEFORE whichever tab
+     * handler was tapped — every one of them navigates the page UNDERNEATH the
+     * overlay, so without this the tab lights up, the page changes, and the
+     * overlay stays parked on top. Reported as "I tap another tab and it stays
+     * stuck on the You tab", and it was exactly that.
+     *
+     * One listener rather than a call in each of the four handlers: a fifth tab
+     * added later would otherwise re-introduce the trap silently.
+     */
+    (function(){
+      var bar = document.querySelector('.bnav');
+      if (bar) bar.addEventListener('click', function(){
+        obClose();
+        // The little auth modal too. The + tab opens it when signed out, and it
+        // then intercepts pointer events across the whole screen — so after one
+        // tap on +, NO tab worked. Same trap, different overlay.
+        var au = document.getElementById('auth-overlay');
+        if (au) au.classList.remove('show');
+      }, true);
+      /* Escape always closes the overlay, on every step and every width. A
+         belt to the tab bar's braces: this overlay has now shipped twice with
+         a step somebody could not get out of, and a key that always works
+         costs one line and cannot be undone by a layout change. */
+      document.addEventListener('keydown', function(e){
+        if (e.key !== 'Escape') return;
+        var el = document.getElementById('obv');
+        if (el && el.classList.contains('show')) obClose();
+      });
+    })();
     onEl('bnav-home','click',function(){
       if(document.body.classList.contains('page-on')) goGrid();
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     onEl('bnav-search','click',function(){ openSearch(); });
     onEl('bnav-scenes','click',function(){ openScenes(); });
-    onEl('bnav-log','click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
+    onEl('bnav-log','click',function(){ if(!currentUser){ scOnboard('email'); return; } openLog(); });   // signed out, + goes to the landing — the same door as the banner and You
     // Signed out, "You" is the pitch, not the wizard's city step — that step
     // belongs AFTER the link is clicked, and landing on it cold asked a stranger
     // to pick a city before anything had explained what soundcheck is.
@@ -12169,9 +12226,9 @@
       document.body.appendChild(el);
       return el;
     }
-    function obClose(){ var el=document.getElementById('obv'); if(el) el.classList.remove('show'); document.documentElement.style.overflow=''; document.body.classList.remove('ob-landing-open'); }
+    function obClose(){ var el=document.getElementById('obv'); if(el) el.classList.remove('show'); document.documentElement.style.overflow=''; document.body.classList.remove('ob-open'); try{ syncTabs(); }catch(_){} }
     function obBody(html){ var el=obEl(); el.classList.add('show'); document.documentElement.style.overflow='hidden';
-      el.classList.remove('ob-landing'); document.body.classList.remove('ob-landing-open');
+      el.classList.remove('ob-landing'); document.body.classList.add('ob-open');   // every step, not just the landing
       el.querySelector('#ob-body').innerHTML=html; el.scrollTop=0; return el; }
     function obChrome(step){
       var el=obEl(), dots=el.querySelector('#ob-dots'), skip=el.querySelector('#ob-skip');
@@ -12289,9 +12346,16 @@
     function obStepEmail(mode){
       var m=OB_MODE[mode]||OB_MODE.join;
       var el=obBody('<div class="ob-land">'+
-        // Every full-screen step needs a door — a mistyped address must never
-        // leave somebody stuck on it with no way back to the page.
-        '<button class="ob-x" id="ob-close1" type="button" aria-label="Close">&times;</button>'+
+        // The door. On a PHONE this is hidden and the tab bar is the door —
+        // it floats above the landing and every tap dismisses it, which is what
+        // makes this read as a page rather than something covering one. On
+        // DESKTOP there is no tab bar (.bnav is display:none), so without this
+        // the landing has no exit at all; .ob-xd shows it only there.
+        //
+        // It also has to sit ABOVE .ob-in. The previous X was painted straight
+        // under it — .ob-in is positioned, comes later, and covers the corner —
+        // so it was unclickable, which is exactly how it was reported.
+        '<button class="ob-x ob-xd" id="ob-close1" type="button" aria-label="Close">&times;</button>'+
         '<div class="ob-in">'+
           '<div class="ob-brand logo-wm" style="font-size:1.15rem">sound<span class="ac">check</span></div>'+
           '<h1 id="ob-lh">'+m.h+'</h1>'+
@@ -12313,7 +12377,8 @@
           obFeatHTML()+
         '</div>'+
       '</div>');
-      el.classList.add('ob-landing'); document.body.classList.add('ob-landing-open');
+      el.classList.add('ob-landing');
+      try{ syncTabs(); }catch(_){}   // light the You tab: this is its page
       obFaceWall();
       var inp=el.querySelector('#ob-email');
       // The swap rewrites the four strings IN PLACE. Re-rendering the step would
@@ -12345,7 +12410,12 @@
       if(window.matchMedia && window.matchMedia('(min-width:900px)').matches) setTimeout(function(){ inp.focus(); },80);
     }
     function obStepInbox(){
-      var el=obBody('<div class="ob-eyebrow">Check your inbox</div>'+
+      // A DOOR. This step had none: on a phone the tab bar is now the way out,
+      // but on desktop there is no tab bar, so a mistyped address left you here
+      // with only "Sign me in" and "Send it again" and no way back to the site.
+      // .ob-xd shows it on desktop only, matching the landing.
+      var el=obBody('<button class="ob-x ob-xd" id="ob-closei" type="button" aria-label="Close">&times;</button>'+
+        '<div class="ob-eyebrow">Check your inbox</div>'+
         '<h1 class="ob-h1">The link&rsquo;s on its way.</h1>'+
         '<p class="ob-sub">We sent it to <b>'+esc(_ob.email)+'</b>. Tap it on this device &mdash; or type the 6-character code from the email here.</p>'+
         // type=text and NO numeric inputmode: the codes are letters AND digits
@@ -12389,6 +12459,7 @@
       inp.addEventListener('input',function(){
         if(inp.value.replace(/[^a-z0-9]/gi,'').length===6) obVerify();   // paste-and-go
       });
+      el.querySelector('#ob-closei').addEventListener('click',obClose);
       el.querySelector('#ob-resend').addEventListener('click',function(){
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_ob.email }) })
           .then(function(){ showToast('Sent again — give it a minute'); }).catch(function(){});

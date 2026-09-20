@@ -1,8 +1,8 @@
 # Livid (UK)
 
-Livid (UK) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at E1, London on Sat, 3 Oct 2026.
+Livid (UK) is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at E1, London on Sat, 3 Oct 2026.
 
-Livid (UK) is a techno and electro artist tracked on soundcheck, with 39 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Slumber, Sofi. and Desiree'. Next up: E1, London on Sat 3 Oct.
+Livid (UK) is a techno and electro artist tracked on soundcheck, with 40 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Slumber, Sofi. and Desiree'. Next up: E1, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Livid (UK) is a techno and electro artist tracked on soundcheck, with 39 sets lo
 | Sat, 3 Oct 2026 | E1 | London |
 | Sun, 1 Nov 2026 | NUMBER 90 LONDON | London |
 | Sat, 7 Nov 2026 | E1 | London |
+| Sat, 7 Nov 2026 | M.O.T | London |
 
 ## Recently played
 

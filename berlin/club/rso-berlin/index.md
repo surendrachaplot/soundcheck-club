@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "11 Years Selected" on Sat, 19 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "11 Years Selected" on Sat, 19 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 

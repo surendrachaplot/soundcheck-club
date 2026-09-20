@@ -1,14 +1,15 @@
 # Dowden
 
-Dowden is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Dowden is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
-Dowden is a progressive house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Marco (UK), Lavie Au Soleil and Anthony Rhino. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
+Dowden is a progressive house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Marco (UK), Lavie Au Soleil and Not Demure. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Akhnaton | Amsterdam |
+| Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dowden is a progressive house and techno artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-Marco (UK), Lavie Au Soleil, Anthony Rhino
+Marco (UK), Lavie Au Soleil, Not Demure
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dowden/)*

@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ HALLOWEEN at ://about blank
 
-★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 26 acts on the bill: Andara Nox, Anna Hoeber, antyo and Bambii and 22 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 27 acts on the bill: Andara Nox, Anna Hoeber, antyo and April the pink and 23 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Andara Nox
 - Anna Hoeber
 - antyo
+- April the pink
 - Bambii
 - Bélavie
 - clubm8

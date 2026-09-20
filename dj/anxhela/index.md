@@ -1,8 +1,8 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+ANXHELA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-ANXHELA is a techno and trance artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside KØZLØV, Alignment and DIØN. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
+ANXHELA is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside KØZLØV, Alignment and DIØN. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 122 sets logge
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
+| Sat, 19 Dec 2026 | Parc Des Expositions | Paris |
 
 ## Recently played
 

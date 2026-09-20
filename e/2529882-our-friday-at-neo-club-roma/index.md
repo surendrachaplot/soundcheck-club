@@ -1,6 +1,6 @@
 # OUR FRIDAY at NEO CLUB ROMA
 
-OUR FRIDAY at NEO CLUB ROMA on Fri 2 Oct, Rome. 1 act on the bill: Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
+OUR FRIDAY at NEO CLUB ROMA on Fri 2 Oct, Rome. 2 acts on the bill: Flavio Rago and Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OUR FRIDAY at NEO CLUB ROMA on Fri 2 Oct, Rome. 1 act on the bill: Marco Rea. Ho
 
 ## Line-up
 
+- Flavio Rago
 - Marco Rea
 
 *Source: [soundcheck](https://soundcheck.club/e/2529882-our-friday-at-neo-club-roma/)*

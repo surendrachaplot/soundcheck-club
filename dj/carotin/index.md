@@ -1,14 +1,13 @@
 # Carotin
 
-Carotin is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Cova, Hamburg on Sat, 19 Sept 2026.
+Carotin is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
-Carotin is a trance and techno artist tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside ELOISA, Melanchromie and Paraçek. Next up: La Cova, Hamburg on Sat 19 Sept.
+Carotin is a trance and techno artist tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Geneva and Hamburg and 1 more. Often billed alongside ELOISA, Melanchromie and Paraçek. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | La Cova | Hamburg |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

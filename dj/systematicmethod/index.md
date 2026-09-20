@@ -1,14 +1,14 @@
 # Systematic Method
 
-Systematic Method is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Studio76 Club, Madrid on Sat, 10 Oct 2026.
+Systematic Method is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
-Systematic Method is a techno and dub techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Madrid. Often billed alongside Kevin Matto, Ali-Az and Hakkon. Next up: Studio76 Club, Madrid on Sat 10 Oct.
+Systematic Method is a techno and dub techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Madrid. Often billed alongside Kevin Matto, Ali-Az and Hakkon. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Studio76 Club | Madrid |
+| Sat, 10 Oct 2026 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played
 

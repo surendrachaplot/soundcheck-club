@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
+Samantha Togni is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 151 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Patterns, Brighton on Sat 26 Sept.
+Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Patterns, Brighton on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Patterns | Brighton |
 | Sat, 3 Oct 2026 | Fuchs2 | Prague |
+| Sat, 14 Nov 2026 | ROSA | Berlin |
 
 ## Recently played
 

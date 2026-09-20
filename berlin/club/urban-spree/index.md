@@ -1,8 +1,8 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "GB" on Wed, 23 Sept 2026.
+Urban Spree is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "GB" on Wed, 23 Sept 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Albert Kraft, Architect, Bam Bam's Boogie and Daniel Myer and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Albert Kraft, Architect, B. Clarke and Bam Bam's Boogie and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, w
 | Sat, 10 Oct 2026 | MU/SICK MINI FESTIVAL II |  |
 | Tue, 20 Oct 2026 | MAQUINA. (Fuzz Club / live) |  |
 | Sat, 24 Oct 2026 | Nathan Fake | Nathan Fake |
-| Wed, 28 Oct 2026 | LIP CRITIC |  |
+| Sat, 24 Oct 2026 | Not Stereo Invites | B. Clarke, Cristaless, DASH (SLO), Gonzalo Lavin (Chile), Rez Alberto Rettore, dgbt |
 
 ## Address
 

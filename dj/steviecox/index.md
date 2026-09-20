@@ -1,14 +1,13 @@
 # Stevie Cox
 
-Stevie Cox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tresor / Globus, Berlin on Sat, 19 Sept 2026.
+Stevie Cox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at FOLD, London on Fri, 2 Oct 2026.
 
-Stevie Cox is a techno and house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Domenic Cappello. Next up: Tresor / Globus, Berlin on Sat 19 Sept.
+Stevie Cox is a techno and house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Domenic Cappello. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | Sub Club | Glasgow |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |

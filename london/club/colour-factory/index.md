@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Soul System meets Broadway Sound - Raregroove, Street Soul ALL DAYER" on Sun, 20 Sept 2026.
+Colour Factory is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Soul System meets Broadway Sound - Raregroove, Street Soul ALL DAYER" on Sun, 20 Sept 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 

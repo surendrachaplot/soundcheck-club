@@ -1,14 +1,15 @@
 # Trenzark
 
-Trenzark is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sigma, Ibiza on Sun, 20 Sept 2026.
+Trenzark is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sigma, Ibiza on Sun, 20 Sept 2026.
 
-Trenzark is a techno and acid artist tracked on soundcheck, with 89 sets logged across Ibiza, Madrid and Nantes. Often billed alongside Pulpix, Nixy and Syperx. Next up: Sigma, Ibiza on Sun 20 Sept.
+Trenzark is a techno and acid artist tracked on soundcheck, with 90 sets logged across Ibiza, Madrid and Nantes. Often billed alongside Pulpix, Nixy and Syperx. Next up: Sigma, Ibiza on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Sigma | Ibiza |
+| Wed, 23 Sept 2026 | Sala El Sol | Madrid |
 
 ## Recently played
 

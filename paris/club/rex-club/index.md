@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Atria x Cluster: Crd, Eskø, Infeed, Soraä" on Wed, 23 Sept 2026.
+Rex Club is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Atria x Cluster: Crd, Eskø, Infeed, Soraä" on Wed, 23 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including 2ManyDJs, Anja Sugar, Antal and Bours? and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including 2ManyDJs, Anja Sugar, Antal and Bours? and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 

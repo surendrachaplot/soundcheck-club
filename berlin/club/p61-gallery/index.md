@@ -9,7 +9,7 @@ P61 Gallery is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Reflected Radio [REC005] | GLIA, Iguana (2), Impulsive Behaviour, KLEA, Schicktanz |
-| Fri, 6 Nov 2026 | Reflected Radio [REC006] |  |
+| Fri, 30 Oct 2026 | Reflected Radio [REC006] |  |
 | Fri, 18 Dec 2026 | Reflected Radio [REC007] |  |
 
 ## Address

@@ -1,8 +1,8 @@
 # Blossmbae
 
-Blossmbae is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
+Blossmbae is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
 
-Blossmbae is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Hamburg. Often billed alongside bbymeister, jeanska and subga. Next up: OST, Berlin on Fri 9 Oct.
+Blossmbae is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Hamburg. Often billed alongside bbymeister, jeanska and subga. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Blossmbae is a techno and trance artist based in Germany, tracked on soundcheck,
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Sat, 17 Oct 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 19 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 

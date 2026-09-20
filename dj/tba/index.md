@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
+TBA is a Techno and House artist with 24 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Koenji Cave, Tokyo on Mon 21 Sept.
+TBA is a techno and house artist tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Koenji Cave, Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 

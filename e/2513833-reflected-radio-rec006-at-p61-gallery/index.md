@@ -1,10 +1,10 @@
 # Reflected Radio [REC006] at P61 Gallery
 
-Reflected Radio [REC006] at P61 Gallery on Fri 6 Nov, Berlin. Techno and Acid. Preview the line-up and save it on soundcheck.
+Reflected Radio [REC006] at P61 Gallery on Fri 30 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 6 Nov 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | P61 Gallery |
 | City | Berlin |
 

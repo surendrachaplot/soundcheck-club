@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More" on Sat, 19 Sept 2026.
+Kilomètre25 is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ACCIDENT THEORY: Young Marco, Bambounou, Belaria" on Fri, 25 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir (2) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
 | Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Belaria | Axel Blanc, Bambounou, Belaria, VANROOSE, Young Marco |
 | Sat, 26 Sept 2026 | TIMIT: HAAi, Josh Caffé, Clarisa Kimskii, TEDESCO | Clarisa Kimskii, HAAi, Josh Caffé, TEDESCO |
 | Fri, 2 Oct 2026 | GODDESS RAVE: Urumi, A5KM, Esilise, PAULINE D7 & NOIZA | Esilise, NOIZA, Urumi |
@@ -18,6 +17,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming gigs, w
 | Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, STO_DJ, Vitaline |
 | Fri, 16 Oct 2026 | ORKA X SAKRAL: BIIA, Dica, BOTICKA, SKOLLARIS, PAULINE D7 | BIIA, BOTICKA, Dica |
 | Sat, 17 Oct 2026 | MIND: ASLØ, DAISY, FJUSHA, TOM CARROLL, NYCO, DJ RATZ | ASLO, Avenir (2), DAISY, FJUSHA, NYCO (NL) |
+| Fri, 23 Oct 2026 | FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag | DVAID, Eva Vrijdag, GIØ (1), snoritz |
 
 ## Address
 

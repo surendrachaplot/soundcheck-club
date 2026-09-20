@@ -1,8 +1,8 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MEGABRESH" on Sat, 26 Sept 2026.
+Fabrik is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MEGABRESH" on Sat, 26 Sept 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Clap, Alex T (UK), Anthony Godfather (2) and Arnaud Le Texier and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Clap, Alex T (UK), Anthony Godfather (2) and Arnaud Le Texier and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 

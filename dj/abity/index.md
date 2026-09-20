@@ -1,14 +1,15 @@
 # Abity
 
-Abity is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Abity is a Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
-Abity is a progressive house artist tracked on soundcheck, with 5 sets logged across Amsterdam and Buenosaires. Often billed alongside Paula OS, ALISHA and Chloé Caillet. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
+Abity is a progressive house artist tracked on soundcheck, with 6 sets logged across Amsterdam and Buenosaires. Often billed alongside ALISHA, Kostya Outta and Paula OS. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
+| Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Abity is a progressive house artist tracked on soundcheck, with 5 sets logged ac
 
 ## Shares bills with
 
-Paula OS, ALISHA, Chloé Caillet
+ALISHA, Kostya Outta, Paula OS
 
 *Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abity/)*

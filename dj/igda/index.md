@@ -1,14 +1,13 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+IGDA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mystic Skatepark, Prague on Sat, 26 Sept 2026.
 
-IGDA is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 17 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: Kilomètre25, Paris on Sat 19 Sept.
+IGDA is a techno and trance artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 17 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: Mystic Skatepark, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 26 Sept 2026 | Mystic Skatepark | Prague |
 | Fri, 2 Oct 2026 | MÄX | Zurich |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |

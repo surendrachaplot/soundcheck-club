@@ -1,14 +1,13 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
+DJ TOOL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Else, Berlin on Sun, 20 Sept 2026.
 
-DJ TOOL is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Circolo Amelia, Milan on Sat 19 Sept.
+DJ TOOL is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Else, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Circolo Amelia | Milan |
 | Sun, 20 Sept 2026 | Else | Berlin |
 | Sat, 3 Oct 2026 | TBA - Warehouse Location  | Boston |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |

@@ -1,6 +1,6 @@
 # FREQUENCY XL at Fire
 
-FREQUENCY XL at Fire on Sat 26 Sept, London. 8 acts on the bill: DJ Millz, Fatman D, Harry Shotta and Majistrate and 4 more. Preview the line-up and save it on soundcheck.
+FREQUENCY XL at Fire on Sat 26 Sept, London. 8 acts on the bill: DJ Millz, Fatman D, Harry Shotta and Majistrate and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

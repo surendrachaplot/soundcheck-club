@@ -1,13 +1,14 @@
 # A-Sides
 
-A-Sides is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+A-Sides is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Basing House, London on Sat, 31 Oct 2026.
 
-A-Sides is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Amsterdam, Brighton, Budapest and London. Often billed alongside Bryan Gee, Dillinja and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+A-Sides is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logged across Amsterdam, Brighton, Budapest and London. Often billed alongside Bryan Gee, Dillinja and IC3. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Basing House | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 

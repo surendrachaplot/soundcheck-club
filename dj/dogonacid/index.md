@@ -1,14 +1,13 @@
 # Dog on Acid
 
-Dog on Acid is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 19 Sept 2026.
+Dog on Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at BAR15, Stockholm on Sat, 26 Sept 2026.
 
-Dog on Acid is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Dublin and Stockholm. Often billed alongside Psykoterapi, Jessie Granqvist and Ayham. Next up: TBA - Secret Location, Berlin on Sat 19 Sept.
+Dog on Acid is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Dublin and Stockholm. Often billed alongside Psykoterapi, Jessie Granqvist and Ayham. Next up: BAR15, Stockholm on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - Secret Location | Berlin |
 | Sat, 26 Sept 2026 | BAR15 | Stockholm |
 
 ## Recently played

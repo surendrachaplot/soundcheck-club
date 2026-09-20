@@ -1,13 +1,14 @@
 # Kelly Moran
 
-Kelly Moran is a Ambient and Classical artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Sun, 4 Oct 2026.
+Kelly Moran is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Matadero Madrid, Madrid on Sun, 20 Sept 2026.
 
-Kelly Moran is an ambient and classical artist based in United States of America, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Dublin and Hobart and 7 more. Often billed alongside Akazie, DJ Gigola and Dj Fucci. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Sun 4 Oct.
+Kelly Moran is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Dublin and Hobart and 8 more. Often billed alongside Akazie, DJ Gigola and Dj Fucci. Next up: Matadero Madrid, Madrid on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Matadero Madrid | Madrid |
 | Sun, 4 Oct 2026 | SFU Goldcorp Centre for the Arts | Vancouver |
 
 ## Recently played

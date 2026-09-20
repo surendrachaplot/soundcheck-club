@@ -1,8 +1,8 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Studio Stereo La Mercè pres. Los Roques x Prblm" on Wed, 23 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 32 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Studio Stereo La Mercè pres. Los Roques x Prblm" on Wed, 23 Sept 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Angelo Cortines, Billi, Brieela and Camps (1) and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 32 upcoming gigs, with line-ups including Angelo Cortines, Billi, Brieela and Camps (1) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
