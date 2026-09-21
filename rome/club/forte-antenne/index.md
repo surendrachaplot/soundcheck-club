@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Adiel B2B Marcel Dettmann - Rebel Rebel Closing party" on Fri, 25 Sept 2026.
+Forte Antenne is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Adiel B2B Marcel Dettmann - Rebel Rebel Closing party" on Fri, 25 Sept 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Adiel, Len Faki and Marcel Dettmann. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -15,4 +15,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wi
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

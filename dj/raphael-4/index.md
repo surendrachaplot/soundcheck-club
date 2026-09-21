@@ -1,6 +1,6 @@
 # Raphael (UK)
 
-Raphael (UK) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Orange Room, London on Sat, 10 Oct 2026.
+Raphael (UK) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Orange Room, London on Sat, 10 Oct 2026.
 
 Raphael (UK) is a house and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside LEV (UK), Brother James and Chenzo. Next up: Orange Room, London on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Raphael (UK) is a house and club artist based in United Kingdom, tracked on soun
 
 LEV (UK), Brother James, Chenzo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-4/)*

@@ -1,6 +1,6 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KOKO, London on Fri, 25 Sept 2026.
+Lee Burridge is a Deep House and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at KOKO, London on Fri, 25 Sept 2026.
 
 Lee Burridge is a deep house and house artist tracked on soundcheck, with 144 sets logged across Austin, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: KOKO, London on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Lee Burridge is a deep house and house artist tracked on soundcheck, with 144 se
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

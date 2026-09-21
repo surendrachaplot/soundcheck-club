@@ -1,6 +1,6 @@
 # Djebali
 
-Djebali is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
+Djebali is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 27 Sept 2026.
 
 Djebali is a house and minimal artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Brussels and 23 more. Often billed alongside Guti, Hitch and Alex (ES). Next up: Sunseabar Beach Club, Barcelona on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Djebali is a house and minimal artist based in France, tracked on soundcheck, wi
 
 Guti, Hitch, Alex (ES)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djebali/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djebali/)*

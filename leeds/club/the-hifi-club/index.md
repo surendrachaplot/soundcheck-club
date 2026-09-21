@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Dancehall Science - Iration Steppas, Charlie P & Exodus " on Thu, 24 Sept 2026.
+The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Dancehall Science - Iration Steppas, Charlie P & Exodus " on Thu, 24 Sept 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Anatta Sound, Charlie P, G-Spot and Iration Steppas and 2 more. Browse upcoming dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -15,4 +15,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, w
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

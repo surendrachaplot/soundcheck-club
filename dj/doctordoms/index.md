@@ -1,6 +1,6 @@
 # dOctOr doms
 
-dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
 
 dOctOr doms is a techno and trance artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin and Marseille. Often billed alongside OM (COL), VO227 and Rudy Zigliara. Next up: Madame Claude, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ dOctOr doms is a techno and trance artist based in Germany, tracked on soundchec
 
 OM (COL), VO227, Rudy Zigliara
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

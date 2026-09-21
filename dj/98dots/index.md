@@ -1,6 +1,6 @@
 # 98dots
 
-98dots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+98dots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 98dots is a techno and house artist tracked on soundcheck, with 73 sets logged across Antwerp, Belgrade, Berlin and Boston and 12 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -27,4 +27,4 @@
 
 Amelia Holt, Zitto, Kancheli
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/98dots/)*

@@ -1,6 +1,6 @@
 # JOSH FB
 
-JOSH FB is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Arch 14, London on Fri, 2 Oct 2026.
+JOSH FB is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Arch 14, London on Fri, 2 Oct 2026.
 
 JOSH FB is a disco and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Sunni D, Léna C and Boboxa. Next up: Arch 14, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ JOSH FB is a disco and house artist based in United Kingdom, tracked on soundche
 
 Sunni D, Léna C, Boboxa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshfb/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshfb/)*

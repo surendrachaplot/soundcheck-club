@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Haemi Park, Kim Gangmin" on Wed, 23 Sept 2026.
+Atdge Seoul is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Haemi Park, Kim Gangmin" on Wed, 23 Sept 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Asllan, Gangmin Kim, GUMGO and Haemi Park and 2 more. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, wit
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

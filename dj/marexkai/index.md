@@ -1,6 +1,6 @@
 # Marex Kai
 
-Marex Kai is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Teritorija, Riga on Sat, 31 Oct 2026.
+Marex Kai is a House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Teritorija, Riga on Sat, 31 Oct 2026.
 
 Marex Kai is a house and hardcore artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside A$PHYXXXÏA, DENOVA and DEP (LV). Next up: Teritorija, Riga on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Marex Kai is a house and hardcore artist based in United Kingdom, tracked on sou
 
 A$PHYXXXÏA, DENOVA, DEP (LV)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marexkai/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marexkai/)*

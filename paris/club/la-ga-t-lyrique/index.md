@@ -1,6 +1,6 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Wolfgang Voigt présente GAS Live" on Wed, 23 Sept 2026.
+La Gaîté Lyrique is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Wolfgang Voigt présente GAS Live" on Wed, 23 Sept 2026.
 
 La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Actress and Wolfgang Voigt. Browse upcoming dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
@@ -19,4 +19,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 6 upcoming gi
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

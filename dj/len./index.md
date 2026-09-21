@@ -1,6 +1,6 @@
 # LEN.
 
-LEN. is a Minimal and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
+LEN. is a Minimal and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
 
 LEN. is a minimal and electro artist tracked on soundcheck, with 18 sets logged across Berlin, Leeds, Liverpool and London and 2 more. Often billed alongside Alisdair, JYE. and Aris (Ldn). Next up: Warehouse 34, Newcastle on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ LEN. is a minimal and electro artist tracked on soundcheck, with 18 sets logged 
 
 Alisdair, JYE., Aris (Ldn)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*

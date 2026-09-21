@@ -1,6 +1,6 @@
 # Flug
 
-Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
+Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 26 Sept 2026.
 
 Flug is a techno and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 16 more. Often billed alongside Linkan Ray, Coyu and Lino Fuso. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Flug is a techno and tech house artist tracked on soundcheck, with 81 sets logge
 
 Linkan Ray, Coyu, Lino Fuso
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*

@@ -1,6 +1,6 @@
 # Robertitx
 
-Robertitx is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Robertitx is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Robertitx is a latin bass and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Boston, Losangeles and Sanfrancisco. Often billed alongside Diablito, Pondi Map and Oscat (2). Next up: Monarch, Sanfrancisco on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Robertitx is a latin bass and club artist based in United States of America, tra
 
 Diablito, Pondi Map, Oscat (2)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertitx/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertitx/)*

@@ -1,6 +1,6 @@
 # MANOLO (CA)
 
-MANOLO (CA) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
+MANOLO (CA) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
 
 MANOLO (CA) is a house and tech house artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Manzone & Strong, Barroness and TAKiN. Next up: Wiggle Room, Toronto on Sun 4 Oct.
 
@@ -23,4 +23,4 @@ MANOLO (CA) is a house and tech house artist based in Canada, tracked on soundch
 
 Manzone & Strong, Barroness, TAKiN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-ca/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-ca/)*

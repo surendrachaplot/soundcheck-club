@@ -1,6 +1,6 @@
 # Le Bulla
 
-Le Bulla is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hangar48 Club, Madrid on Sat, 26 Sept 2026.
+Le Bulla is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hangar48 Club, Madrid on Sat, 26 Sept 2026.
 
 Le Bulla is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Barcelona and Madrid. Often billed alongside COSUS CLUB, Charlins and DJ Mats. Next up: Hangar48 Club, Madrid on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Le Bulla is a techno and tech house artist tracked on soundcheck, with 3 sets lo
 
 COSUS CLUB, Charlins, DJ Mats
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebulla/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebulla/)*

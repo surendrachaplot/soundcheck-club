@@ -1,6 +1,6 @@
 # Palau Dalmases
 
-Palau Dalmases is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Palau Sessions Season II Re:Create" on Thu, 24 Sept 2026.
+Palau Dalmases is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Palau Sessions Season II Re:Create" on Thu, 24 Sept 2026.
 
 Palau Dalmases is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including emme (2). Browse upcoming dates, start times and who's playing. C/ de Montcada, 20, 08003 Barcelona.
 
@@ -14,4 +14,4 @@ Palau Dalmases is a music venue in Barcelona listed on soundcheck. 1 upcoming gi
 
 C/ de Montcada, 20, 08003 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/palau-dalmases/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/palau-dalmases/)*

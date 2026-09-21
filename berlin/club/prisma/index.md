@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Klubkneipe x Dance Salon" on Sun, 20 Sept 2026.
+Prisma is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Move Like No One Is Watching – Workshop" on Tue, 22 Sept 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Domovnika, Emilion Dollar Baby, k.meower and Kazuki Takahashi and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Domovnika, Emilion Dollar Baby, k.meower and Kazuki Takahashi and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Klubkneipe x Dance Salon |  |
 | Tue, 22 Sept 2026 | Klubkneipe x Tuesday Ritual - Move Like No One Is Watching – Workshop | k.meower, peak2soon |
 | Thu, 24 Sept 2026 | Sssmile Afterhour | KÜRÜF, The Shredder |
 | Sun, 27 Sept 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
@@ -18,4 +17,4 @@ Prisma is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with li
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

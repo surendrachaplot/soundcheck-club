@@ -1,14 +1,13 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 20 Sept 2026.
+MËSTIZA is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-MËSTIZA is an afro house and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Hï Ibiza, Ibiza on Sun 20 Sept.
+MËSTIZA is an afro house and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
@@ -16,6 +15,7 @@ MËSTIZA is an afro house and house artist tracked on soundcheck, with 112 sets 
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 20 Sept 2026
 - Creekside - Under The K Bridge, New York City — Fri, 18 Sept 2026
 - Hï Ibiza, Ibiza — Sun, 13 Sept 2026
 - Hï Ibiza, Ibiza — Sun, 6 Sept 2026
@@ -23,10 +23,9 @@ MËSTIZA is an afro house and house artist tracked on soundcheck, with 112 sets 
 - Café del Mar Malta, Malta — Sat, 18 Jul 2026
 - Santanna Mykonos, Mykonos — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 28 Jun 2026
-- Sophie Festival, Malaga — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Pomboklap, Indira Paganotto, Mrgoodalf
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*

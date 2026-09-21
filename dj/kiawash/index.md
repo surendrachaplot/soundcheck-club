@@ -1,6 +1,6 @@
 # Kiawash
 
-Kiawash is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
+Kiawash is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
 
 Kiawash is a bass and electro artist based in Germany, tracked on soundcheck, with 25 sets logged across Cologne, Munich, Stuttgart and Vienna. Often billed alongside Sarmabot, tbhase and Kareem El Morr. Next up: Otto Wagner Areal, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kiawash is a bass and electro artist based in Germany, tracked on soundcheck, wi
 
 Sarmabot, tbhase, Kareem El Morr
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiawash/)*

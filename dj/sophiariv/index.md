@@ -1,6 +1,6 @@
 # Sophia Riv
 
-Sophia Riv is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
+Sophia Riv is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 21 Sept 2026.
 
 Sophia Riv is a techno and electro artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside y2aura, Castillonaire and NIJEII. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Sophia Riv is a techno and electro artist based in United States of America, tra
 
 y2aura, Castillonaire, NIJEII
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*

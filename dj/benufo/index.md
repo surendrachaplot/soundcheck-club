@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Art Club, Houston on Fri, 25 Sept 2026.
+Ben UFO is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Art Club, Houston on Fri, 25 Sept 2026.
 
 Ben UFO is a techno and house artist tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Auckland and Austin and 59 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Art Club, Houston on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 236 sets logged
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

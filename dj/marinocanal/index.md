@@ -1,6 +1,6 @@
 # Marino Canal
 
-Marino Canal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
+Marino Canal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Marino Canal is a techno and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Basel and Budapest and 23 more. Often billed alongside Adriatique, Tale Of Us and Recondite. Next up: Seaseaclub Barcelona, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Marino Canal is a techno and house artist based in Spain, tracked on soundcheck,
 
 Adriatique, Tale Of Us, Recondite
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinocanal/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinocanal/)*

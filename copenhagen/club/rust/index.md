@@ -1,6 +1,6 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Yawning Portal (UK) // RUST" on Sat, 26 Sept 2026.
+RUST is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Yawning Portal (UK) // RUST" on Sat, 26 Sept 2026.
 
 RUST is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Krush. Browse upcoming dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
@@ -17,4 +17,4 @@ RUST is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with 
 
 Guldbergsgade 8, 2200 København N, Copenhagen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*

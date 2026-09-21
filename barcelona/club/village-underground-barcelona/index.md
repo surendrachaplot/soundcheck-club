@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Haus of Welcome Invites:" on Sat, 26 Sept 2026.
+Village Underground Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Haus of Welcome Invites:" on Sat, 26 Sept 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Anabel Arroyo, Aristides, Baldman and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -17,4 +17,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

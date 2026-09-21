@@ -1,14 +1,13 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Groove Lab // DAY PARTY" on Sun, 20 Sept 2026.
+Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GROOVE  LAB  //  TAKE OVER" on Fri, 25 Sept 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, with line-ups including ATARAXY, bemira, Blazin' Bomzai and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including ATARAXY, bemira, Blazin' Bomzai and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Groove Lab // DAY PARTY |  |
 | Fri, 25 Sept 2026 | GROOVE  LAB  //  TAKE OVER | ATARAXY, FatherFlow (hybrid live), Holiness, Hysope, bemira |
 | Sat, 26 Sept 2026 | Zieke Crapule Show 3 |  |
 | Sat, 3 Oct 2026 | ✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ | Godero, Kathleen C, Malo Z, Melissa Juice, TORI ANN, ttyfal |
@@ -21,4 +20,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

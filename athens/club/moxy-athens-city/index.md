@@ -1,6 +1,6 @@
 # Moxy Athens City
 
-Moxy Athens City is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Amusica Rooftop Experience Vol.2" on Sun, 4 Oct 2026.
+Moxy Athens City is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Amusica Rooftop Experience Vol.2" on Sun, 4 Oct 2026.
 
 Moxy Athens City is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Re.You. Browse upcoming dates, start times and who's playing. Stadiou 65, Athina 105 51, Greece.
 
@@ -14,4 +14,4 @@ Moxy Athens City is a music venue in Athens listed on soundcheck. 1 upcoming gig
 
 Stadiou 65, Athina 105 51, Greece, Athens
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/moxy-athens-city/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/moxy-athens-city/)*

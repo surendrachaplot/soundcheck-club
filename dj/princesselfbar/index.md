@@ -1,8 +1,8 @@
 # Princess Elf Bar
 
-Princess Elf Bar is a Trance and Club artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
+Princess Elf Bar is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
-Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on soundcheck, with 159 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: M.O.T, London on Fri 25 Sept.
+Princess Elf Bar is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 159 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 8 more. Often billed alongside AYDJ, Anop and ASHTYLR. Next up: M.O.T, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Princess Elf Bar is a trance and club artist based in United Kingdom, tracked on
 
 AYDJ, Anop, ASHTYLR
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princesselfbar/)*

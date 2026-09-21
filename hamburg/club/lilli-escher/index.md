@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SIduationship" on Tue, 22 Sept 2026.
+Lilli Escher is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SIduationship" on Tue, 22 Sept 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Ludwig Mausberg, MANU OWUSU, Tana (2) and TTX (GER). Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, 
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

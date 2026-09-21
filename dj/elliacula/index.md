@@ -1,14 +1,13 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Else, Berlin on Sun, 20 Sept 2026.
+Elli Acula is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Elli Acula is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Else, Berlin on Sun 20 Sept.
+Elli Acula is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Else | Berlin |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
@@ -17,6 +16,7 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 216 sets log
 
 ## Recently played
 
+- Else, Berlin — Sun, 20 Sept 2026
 - Jaeger, Oslo — Fri, 18 Sept 2026
 - TBA - Brussels, Brussels — Fri, 11 Sept 2026
 - Laska V21, Riga — Fri, 11 Sept 2026
@@ -24,10 +24,9 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 216 sets log
 - Hï Ibiza, Ibiza — Sun, 30 Aug 2026
 - Kilomètre25, Paris — Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
 
 ## Shares bills with
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

@@ -1,6 +1,6 @@
 # Dardenne
 
-Dardenne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at feedbk, New York City on Sun, 27 Sept 2026.
+Dardenne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at feedbk, New York City on Sun, 27 Sept 2026.
 
 Dardenne is a techno and house artist tracked on soundcheck, with 20 sets logged across Brussels, Ghent, Helsinki and Lisbon and 3 more. Often billed alongside A. Brehme, Carlina Carpelan and Alibi (2). Next up: feedbk, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Dardenne is a techno and house artist tracked on soundcheck, with 20 sets logged
 
 A. Brehme, Carlina Carpelan, Alibi (2)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dardenne/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dardenne/)*

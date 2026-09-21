@@ -1,14 +1,13 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA -  The Ditch, Valletta, Malta on Sun, 20 Sept 2026.
+Adriatique is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at [UNVRS], Ibiza on Thu, 24 Sept 2026.
 
-Adriatique is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: TBA -  The Ditch, Valletta, Malta on Sun 20 Sept.
+Adriatique is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: [UNVRS], Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | TBA -  The Ditch, Valletta | Malta |
 | Thu, 24 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Vale do Anhangabaú | Sao Paulo |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
@@ -18,6 +17,7 @@ Adriatique is a techno and house artist tracked on soundcheck, with 155 sets log
 
 ## Recently played
 
+- TBA -  The Ditch, Valletta, Malta — Sun, 20 Sept 2026
 - IFEMA, Madrid — Fri, 18 Sept 2026
 - IFEMA, Madrid — Fri, 18 Sept 2026
 - [UNVRS], Ibiza — Thu, 17 Sept 2026
@@ -25,10 +25,9 @@ Adriatique is a techno and house artist tracked on soundcheck, with 155 sets log
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 28 Aug 2026
 - Old Royal Naval College, London — Sat, 8 Aug 2026
 - fabric, London — Sat, 8 Aug 2026
-- Brooklyn Army Terminal, New York City — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Mind Against, Colyn, Âme
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

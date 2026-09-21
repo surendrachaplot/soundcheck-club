@@ -1,6 +1,6 @@
 # ENSIDER (2)
 
-ENSIDER (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Handlebar, Toronto on Sat, 10 Oct 2026.
+ENSIDER (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Handlebar, Toronto on Sat, 10 Oct 2026.
 
 ENSIDER (2) is a club and bass artist based in Canada, tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside MS.MYLES, moodyjooly and Coco de Mol. Next up: Handlebar, Toronto on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ENSIDER (2) is a club and bass artist based in Canada, tracked on soundcheck, wi
 
 MS.MYLES, moodyjooly, Coco de Mol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ensider-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ensider-2/)*

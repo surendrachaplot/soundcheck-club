@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 16 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+RIRIA is a Bass and Techno artist with 16 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
 
 RIRIA is a bass and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 34 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: Odaiba, Tokyo on Tue 22 Sept.
 
@@ -36,4 +36,4 @@ RIRIA is a bass and techno artist tracked on soundcheck, with 96 sets logged acr
 
 Diffrent, ryota dj, KETTAMA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

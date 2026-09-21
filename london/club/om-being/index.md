@@ -1,6 +1,6 @@
 # Om Being
 
-Om Being is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Space Club" on Fri, 25 Sept 2026.
+Om Being is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Space Club" on Fri, 25 Sept 2026.
 
 Om Being is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Avsluta, Hewan Aman, jeet (UK) and Om Dream. Browse upcoming dates, start times and who's playing. Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT.
 
@@ -14,4 +14,4 @@ Om Being is a music venue in London listed on soundcheck. 1 upcoming gig, with l
 
 Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*

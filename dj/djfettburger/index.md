@@ -1,6 +1,6 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
+DJ Fett Burger is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
 
 DJ Fett Burger is a house and disco artist tracked on soundcheck, with 94 sets logged across Antwerp, Bangkok, Barcelona and Belgrade and 17 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Paloma, Berlin on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ DJ Fett Burger is a house and disco artist tracked on soundcheck, with 94 sets l
 
 Telephones, DJ Sotofett, Jana Falcon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*

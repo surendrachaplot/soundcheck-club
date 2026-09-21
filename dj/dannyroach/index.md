@@ -1,6 +1,6 @@
 # Danny Roach
 
-Danny Roach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
+Danny Roach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
 
 Danny Roach is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and jardabpm. Next up: AMT, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Danny Roach is a techno and house artist tracked on soundcheck, with 42 sets log
 
 Deventi, INLIMEN, jardabpm
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*

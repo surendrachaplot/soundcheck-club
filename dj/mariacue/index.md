@@ -1,6 +1,6 @@
 # Maria Cue
 
-Maria Cue is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 26 Sept 2026.
+Maria Cue is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 26 Sept 2026.
 
 Maria Cue is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Lisbon and Madrid and 2 more. Often billed alongside Valody, BIANKA and Julia Maria. Next up: CLUB RAUM, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Maria Cue is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 Valody, BIANKA, Julia Maria
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariacue/)*

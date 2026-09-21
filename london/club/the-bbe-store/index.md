@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Pete BBE All Night Long" on Thu, 24 Sept 2026.
+The BBE Store is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Pete BBE All Night Long" on Thu, 24 Sept 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Manish and Zaki. Browse upcoming dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -15,4 +15,4 @@ The BBE Store is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "■ Checkpoint special La Mercè pres. Reptant live" on Wed, 23 Sept 2026.
+Les Enfants Brillants is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "■ Checkpoint special La Mercè pres. Reptant live" on Wed, 23 Sept 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 21 upcoming gigs, with line-ups including Adi, Alexander Skancke, Alex Dima and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 21 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

@@ -1,6 +1,6 @@
 # Mike Stevens
 
-Mike Stevens is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Club Sam's, Bielefeld on Sat, 17 Oct 2026.
+Mike Stevens is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club Sam's, Bielefeld on Sat, 17 Oct 2026.
 
 Mike Stevens is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Bielefeld, Cologne and Prague. Often billed alongside Ghool, carlo kalu and AMBAM. Next up: Club Sam's, Bielefeld on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Mike Stevens is a techno and trance artist based in Germany, tracked on soundche
 
 Ghool, carlo kalu, AMBAM
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestevens/)*

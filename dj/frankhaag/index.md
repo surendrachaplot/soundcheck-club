@@ -1,6 +1,6 @@
 # Frank Haag
 
-Frank Haag is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Frank Haag is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Frank Haag is a house and minimal artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside E.LINA, Christian AB and Voss. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -15,6 +15,7 @@ Frank Haag is a house and minimal artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
+- BRET, Amsterdam — Sun, 20 Sept 2026
 - Sala Upload Barcelona, Barcelona — Sat, 20 Jun 2026
 - Starlane Pizza Bar, London — Sat, 28 Feb 2026
 - Toekomstmuziek, Amsterdam — Sat, 31 Jan 2026
@@ -22,10 +23,9 @@ Frank Haag is a house and minimal artist based in Netherlands, tracked on soundc
 - Yellow House, Amsterdam — Sat, 22 Nov 2025
 - BRET, Amsterdam — Sat, 20 Sept 2025
 - Madam, Amsterdam — Sat, 21 Jun 2025
-- Doka, Amsterdam — Sat, 17 May 2025
 
 ## Shares bills with
 
 E.LINA, Christian AB, Voss
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankhaag/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankhaag/)*

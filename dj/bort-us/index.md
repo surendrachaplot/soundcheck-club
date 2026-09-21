@@ -1,6 +1,6 @@
 # Bort
 
-Bort is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
+Bort is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
 
 Bort is a house and techno artist tracked on soundcheck, with 57 sets logged across Birmingham, Melbourne and Miami. Often billed alongside True Vine, Sister System and Milo Ziro. Next up: Floyd, Miami on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Bort is a house and techno artist tracked on soundcheck, with 57 sets logged acr
 
 True Vine, Sister System, Milo Ziro
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bort-us/)*

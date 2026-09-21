@@ -1,6 +1,6 @@
 # Pascal Rudert
 
-Pascal Rudert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
+Pascal Rudert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
 
 Pascal Rudert is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin, Leipzig and Munich. Often billed alongside fuxia, Stefan Muchte and Aaron Kubel. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Pascal Rudert is a techno and house artist tracked on soundcheck, with 8 sets lo
 
 fuxia, Stefan Muchte, Aaron Kubel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalrudert/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalrudert/)*

@@ -1,10 +1,10 @@
 # BABY ANNIVERSARY 16 YEARS: Marco Faraone + Lennyy at Baby Club
 
-BABY ANNIVERSARY 16 YEARS: Marco Faraone + Lennyy at Baby Club on Fri 25 Sept, Marseille. 1 act on the bill: Marco Faraone. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BABY ANNIVERSARY 16 YEARS: Marco Faraone + Lennyy at Baby Club on Sat 26 Sept, Marseille. 1 act on the bill: Marco Faraone. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 25 Sept 2026 |
+| Date | Sat, 26 Sept 2026 |
 | Venue | Baby Club |
 | City | Marseille |
 

@@ -1,18 +1,17 @@
 # Vrachon Theater
 
-Vrachon Theater is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PLISSKËN presents Jeff Mills' TOMORROW COMES THE HARVEST" on Sun, 20 Sept 2026.
+Vrachon Theater is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "EDEN LIVE presents Parra for Cuva" on Thu, 24 Sept 2026.
 
-Vrachon Theater is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Jeff Mills, Max Cooper and Parra for Cuva. Browse upcoming dates, start times and who's playing. 26 Evagglikis Scholis Str, 16232 Vyronas, Greece.
+Vrachon Theater is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Parra for Cuva. Browse upcoming dates, start times and who's playing. 26 Evagglikis Scholis Str, 16232 Vyronas, Greece.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | PLISSKËN presents Jeff Mills' TOMORROW COMES THE HARVEST | Jeff Mills, Max Cooper |
 | Thu, 24 Sept 2026 | EDEN LIVE presents Parra for Cuva | Parra for Cuva |
 
 ## Address
 
 26 Evagglikis Scholis Str, 16232 Vyronas, Greece, Athens
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/vrachon-theater/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/vrachon-theater/)*

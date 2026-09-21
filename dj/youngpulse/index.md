@@ -1,6 +1,6 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Canvas, Amsterdam on Sat, 24 Oct 2026.
+Young Pulse is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Canvas, Amsterdam on Sat, 24 Oct 2026.
 
 Young Pulse is a disco and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 13 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Canvas, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Young Pulse is a disco and house artist tracked on soundcheck, with 96 sets logg
 
 Melvo Baptiste, Tonno Disko, Dave Lee
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

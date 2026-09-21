@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MAFIATONE from Birmingham + Tapes [LIVE] + Richard Fearless + SHAUWDII" on Sun, 20 Sept 2026.
+Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Deli Girls" on Wed, 23 Sept 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | MAFIATONE from Birmingham + Tapes [LIVE] + Richard Fearless + SHAUWDII | Richard Fearless, Tapes |
 | Wed, 23 Sept 2026 | Deli Girls | Deli Girls, En Creux |
 | Thu, 24 Sept 2026 | SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Conrad Pack [live] | Conrad Pack, Years of Denial |
 | Fri, 25 Sept 2026 | FLOORJAM 008 with MoMA Ready, LORA S, Ellaweeez, Ki Pharaoh & Damsel | Ellaweeez, LORA S, MoMA Ready |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gi
 | Sat, 3 Oct 2026 | People Drift presents DJ Pete (extended set) | DJ Pete |
 | Sat, 3 Oct 2026 | TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade |  |
 | Sat, 10 Oct 2026 | Shannen SP presents: Bobby Beethoven / TAYHANA / Bambi / Shannen SP | Shannen SP, TAYHANA, Total Freedom |
+| Fri, 16 Oct 2026 | CLUB YEKE: Tash LC – All Night Long | Tash LC |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

@@ -1,16 +1,13 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+DJ MARIA. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
-DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
-| Sun, 20 Sept 2026 | TBA | Montreal |
 | Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 | Fri, 2 Oct 2026 | WOMB | Tokyo |
 | Sat, 3 Oct 2026 | HVEN | Tokyo |
@@ -19,6 +16,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets log
 
 ## Recently played
 
+- TBA, Montreal — Sun, 20 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
 - Signal, New York City — Fri, 11 Sept 2026
@@ -26,10 +24,9 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets log
 - ZEROTOKYO, Tokyo — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
 - Lux Fragil, Lisbon — Fri, 21 Aug 2026
-- WOMB, Tokyo — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

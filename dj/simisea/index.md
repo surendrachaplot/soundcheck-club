@@ -1,6 +1,6 @@
 # Simisea
 
-Simisea is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Nowadays, New York City on Sat, 10 Oct 2026.
+Simisea is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Sat, 10 Oct 2026.
 
 Simisea is a techno and club artist tracked on soundcheck, with 20 sets logged across Montreal and Newyorkcity. Often billed alongside rrao, Enayet and K Wata. Next up: Nowadays, Newyorkcity on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Simisea is a techno and club artist tracked on soundcheck, with 20 sets logged a
 
 rrao, Enayet, K Wata
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simisea/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simisea/)*

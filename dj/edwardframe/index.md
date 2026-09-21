@@ -1,6 +1,6 @@
 # Edward Frame
 
-Edward Frame is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
+Edward Frame is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
 
 Edward Frame is a tech house and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Le FIU, Jaesyun and Ryan McClure. Next up: Boxers HK, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Edward Frame is a tech house and house artist based in United States of America,
 
 Le FIU, Jaesyun, Ryan McClure
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardframe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardframe/)*

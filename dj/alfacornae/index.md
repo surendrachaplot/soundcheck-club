@@ -1,6 +1,6 @@
 # Alfa Cornae
 
-Alfa Cornae is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 22 Oct 2026.
+Alfa Cornae is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tempio del Futuro Perduto, Milan on Thu, 22 Oct 2026.
 
 Alfa Cornae is a techno and electronica artist based in Italy, tracked on soundcheck, with 4 sets logged across Berlin, Milan and Turin. Often billed alongside Alex Wilcox, Amo (IT) and BENZA. Next up: Tempio del Futuro Perduto, Milan on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Alfa Cornae is a techno and electronica artist based in Italy, tracked on soundc
 
 Alex Wilcox, Amo (IT), BENZA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfacornae/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfacornae/)*

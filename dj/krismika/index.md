@@ -1,6 +1,6 @@
 # Krismika
 
-Krismika is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+Krismika is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 Krismika is a house and electro artist tracked on soundcheck, with 32 sets logged across Amsterdam, Belgrade, Istanbul and Prague and 3 more. Often billed alongside Mowgli (NL), Ofra and Marsman. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Krismika is a house and electro artist tracked on soundcheck, with 32 sets logge
 
 Mowgli (NL), Ofra, Marsman
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krismika/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krismika/)*

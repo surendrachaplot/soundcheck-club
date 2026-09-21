@@ -1,6 +1,6 @@
 # TBA - Bláthy Ottó u. 3-5Budapest, 1089
 
-TBA - Bláthy Ottó u. 3-5Budapest, 1089 is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Népligeti Hajsza" on Sat, 26 Sept 2026.
+TBA - Bláthy Ottó u. 3-5Budapest, 1089 is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Népligeti Hajsza" on Sat, 26 Sept 2026.
 
 TBA - Bláthy Ottó u. 3-5Budapest, 1089 is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Andrija Jäger and JAGER (HU). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bláthy Ottó u. 3-5Budapest, 1089 is a music venue in Budapest listed on 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Népligeti Hajsza | Andrija Jäger, JAGER (HU) |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-bl-thy-ott-u-3-5budapest-1089/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-bl-thy-ott-u-3-5budapest-1089/)*

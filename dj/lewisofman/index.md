@@ -1,6 +1,6 @@
 # Lewis OfMan
 
-Lewis OfMan is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ZeyZey, Miami on Sat, 24 Oct 2026.
+Lewis OfMan is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ZeyZey, Miami on Sat, 24 Oct 2026.
 
 Lewis OfMan is an electro and electronica artist tracked on soundcheck, with 24 sets logged across Berlin, Geneva, Hamburg and London and 10 more. Often billed alongside Anetha, CeeDeeGee and Laurent Garnier. Next up: ZeyZey, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lewis OfMan is an electro and electronica artist tracked on soundcheck, with 24 
 
 Anetha, CeeDeeGee, Laurent Garnier
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*

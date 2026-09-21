@@ -1,6 +1,6 @@
 # xlucid
 
-xlucid is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Fri, 25 Sept 2026.
+xlucid is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Fri, 25 Sept 2026.
 
 xlucid is a techno and italo disco artist tracked on soundcheck, with 4 sets logged across Philadelphia. Often billed alongside Vicenta, Biproduct and DJ Reezey. Next up: Val’s Lesbian Bar, Philadelphia on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ xlucid is a techno and italo disco artist tracked on soundcheck, with 4 sets log
 
 Vicenta, Biproduct, DJ Reezey
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xlucid/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xlucid/)*

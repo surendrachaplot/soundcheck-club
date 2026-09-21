@@ -1,6 +1,6 @@
 # LSG
 
-LSG is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Schrotty, Cologne on Wed, 23 Sept 2026.
+LSG is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Schrotty, Cologne on Wed, 23 Sept 2026.
 
 LSG is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Aberdeen, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside nordcorreia.mp3, MAURO and Gourski. Next up: Schrotty, Cologne on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ LSG is a techno and trance artist based in United Kingdom, tracked on soundcheck
 
 nordcorreia.mp3, MAURO, Gourski
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*

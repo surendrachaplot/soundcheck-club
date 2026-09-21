@@ -1,6 +1,6 @@
 # Marthial
 
-Marthial is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 10 Oct 2026.
+Marthial is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 10 Oct 2026.
 
 Marthial is a techno and house artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 6 more. Often billed alongside Iacopo Carli, Industrial Romantico and Kora Lyssa. Next up: Tempio del Futuro Perduto, Milan on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Marthial is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 Iacopo Carli, Industrial Romantico, Kora Lyssa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthial/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthial/)*

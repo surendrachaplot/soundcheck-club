@@ -1,6 +1,6 @@
 # Sylvie Maziarz
 
-Sylvie Maziarz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
+Sylvie Maziarz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
 
 Sylvie Maziarz is a techno and trance artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside KLING&KLANG, Alex.Do and DJ Traytex. Next up: Secret Location, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Sylvie Maziarz is a techno and trance artist based in Germany, tracked on soundc
 
 KLING&KLANG, Alex.Do, DJ Traytex
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemaziarz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemaziarz/)*

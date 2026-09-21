@@ -1,6 +1,6 @@
 # NZIRIA
 
-NZIRIA is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
+NZIRIA is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
 
 NZIRIA is an electronica and experimental artist based in Italy, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Copenhagen and Lyon and 6 more. Often billed alongside Gabber Eleganza, Apparat and Monibi. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ NZIRIA is an electronica and experimental artist based in Italy, tracked on soun
 
 Gabber Eleganza, Apparat, Monibi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*

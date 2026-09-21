@@ -1,6 +1,6 @@
 # Simon Phil.ter
 
-Simon Phil.ter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
+Simon Phil.ter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
 
 Simon Phil.ter is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin and Leipzig. Often billed alongside Rn86, nøvae and Ri0D.. Next up: Kulturlounge, Leipzig on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Simon Phil.ter is a techno and house artist tracked on soundcheck, with 26 sets 
 
 Rn86, nøvae, Ri0D.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonphil.ter/)*

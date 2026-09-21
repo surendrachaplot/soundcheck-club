@@ -1,6 +1,6 @@
 # Yogibo Meta Valley
 
-Yogibo Meta Valley is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "TECH DANCE ALLNIGHTER" on Fri, 9 Oct 2026.
+Yogibo Meta Valley is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "TECH DANCE ALLNIGHTER" on Fri, 9 Oct 2026.
 
 Yogibo Meta Valley is a music venue in Osaka listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 2 Chome-11-1 Nanbanaka, Naniwa Ward, Osaka, 556-0011.
 
@@ -14,4 +14,4 @@ Yogibo Meta Valley is a music venue in Osaka listed on soundcheck. 1 upcoming gi
 
 2 Chome-11-1 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Osaka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/yogibo-meta-valley/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/yogibo-meta-valley/)*

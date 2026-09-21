@@ -1,6 +1,6 @@
 # Doll.Redacted
 
-Doll.Redacted is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
+Doll.Redacted is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Dolphin, Philadelphia on Sun, 11 Oct 2026.
 
 Doll.Redacted is a house and pop artist based in United States of America, tracked on soundcheck, with 3 sets logged across Philadelphia. Often billed alongside DJ Xtina, G I N A and Jeffrey Sfire. Next up: The Dolphin, Philadelphia on Sun 11 Oct.
 
@@ -19,4 +19,4 @@ Doll.Redacted is a house and pop artist based in United States of America, track
 
 DJ Xtina, G I N A, Jeffrey Sfire
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*

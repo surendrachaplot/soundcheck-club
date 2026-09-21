@@ -1,6 +1,6 @@
 # Loop51
 
-Loop51 is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Playhaus Studio ADE" on Fri, 23 Oct 2026.
+Loop51 is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Playhaus Studio ADE" on Fri, 23 Oct 2026.
 
 Loop51 is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Bridontknow, Chudix, Emma Champagne Queen and Heritage Listed and 2 more. Browse upcoming dates, start times and who's playing. Dusartstraat 51.
 
@@ -15,4 +15,4 @@ Loop51 is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with
 
 Dusartstraat 51, Amsterdam
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loop51/)*

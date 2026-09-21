@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Freshly Baked - Basement Rave" on Fri, 25 Sept 2026.
+Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Freshly Baked - Basement Rave" on Fri, 25 Sept 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, wi
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

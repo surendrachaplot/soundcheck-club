@@ -1,6 +1,6 @@
 # ex.sses
 
-ex.sses is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
+ex.sses is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
 
 ex.sses is a bass and experimental artist tracked on soundcheck, with 49 sets logged across Amsterdam, Bristol, Brussels and London and 4 more. Often billed alongside Anjali (2), Grady Steele and Alo3. Next up: Vespers Club, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ex.sses is a bass and experimental artist tracked on soundcheck, with 49 sets lo
 
 Anjali (2), Grady Steele, Alo3
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*

@@ -1,6 +1,6 @@
 # AGUSTIN BARBEI
 
-AGUSTIN BARBEI is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at 42 Marches, Paris on Sun, 4 Oct 2026.
+AGUSTIN BARBEI is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 42 Marches, Paris on Sun, 4 Oct 2026.
 
 AGUSTIN BARBEI is an electronica and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Buenosaires, Lisbon and London and 1 more. Often billed alongside Alessandro Miranda, Alyhas and Barée Masse. Next up: 42 Marches, Paris on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ AGUSTIN BARBEI is an electronica and electro artist tracked on soundcheck, with 
 
 Alessandro Miranda, Alyhas, Barée Masse
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*

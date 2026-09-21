@@ -1,6 +1,6 @@
 # Cris Kai
 
-Cris Kai is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sigma, Ibiza on Fri, 2 Oct 2026.
+Cris Kai is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sigma, Ibiza on Fri, 2 Oct 2026.
 
 Cris Kai is a deep house and house artist tracked on soundcheck, with 5 sets logged across Berlin, Ibiza and Mexicocity. Often billed alongside AndShe, BUSSI and Barreto. Next up: Sigma, Ibiza on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Cris Kai is a deep house and house artist tracked on soundcheck, with 5 sets log
 
 AndShe, BUSSI, Barreto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/criskai/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/criskai/)*

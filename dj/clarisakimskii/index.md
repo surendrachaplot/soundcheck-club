@@ -1,14 +1,13 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Clarisa Kimskii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
-Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Good Room, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Good Room | New York City |
 | Sat, 26 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
@@ -30,4 +29,4 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 162 set
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

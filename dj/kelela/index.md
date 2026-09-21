@@ -1,6 +1,6 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Wiltern, Los Angeles on Mon, 21 Sept 2026.
+Kelela is a R&B and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Wiltern, Los Angeles on Mon, 21 Sept 2026.
 
 Kelela is a r&b and electronica artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Chicago, Copenhagen and London and 10 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: The Wiltern, Losangeles on Mon 21 Sept.
 
@@ -30,4 +30,4 @@ Kelela is a r&b and electronica artist based in United States of America, tracke
 
 Arca, Bassvictim, Beltran
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

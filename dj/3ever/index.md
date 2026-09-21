@@ -1,6 +1,6 @@
 # 3ever
 
-3ever is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 26 Sept 2026.
+3ever is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 26 Sept 2026.
 
 3ever is a techno and electro artist based in Slovakia, tracked on soundcheck, with 58 sets logged across Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Ankali & Planeta Za, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 Nina Farrina, SJ Yellow, yo haan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*

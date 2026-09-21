@@ -1,6 +1,6 @@
 # Viktor Roshu
 
-Viktor Roshu is a Deep House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 25 Sept 2026.
+Viktor Roshu is a Deep House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 25 Sept 2026.
 
 Viktor Roshu is a deep house and jazz artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Paulita, Ken Okuda and Acidfinky. Next up: TBA - Secret Location, Berlin on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Viktor Roshu is a deep house and jazz artist tracked on soundcheck, with 7 sets 
 
 Paulita, Ken Okuda, Acidfinky
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorroshu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viktorroshu/)*

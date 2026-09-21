@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Mist, Nottingham on Mon, 21 Sept 2026.
+LUNAx3 is a Gabber and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Mist, Nottingham on Mon, 21 Sept 2026.
 
 LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 21 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: The Mist, Nottingham on Mon 21 Sept.
 
@@ -28,4 +28,4 @@ LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 21 sets logge
 
 RUBY RAWR, beansclub, Purity Filter
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

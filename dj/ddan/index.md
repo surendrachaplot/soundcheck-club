@@ -1,14 +1,13 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
+D.Dan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TBA, Montreal on Sun 20 Sept.
+D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
@@ -20,6 +19,7 @@ D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged a
 
 ## Recently played
 
+- TBA, Montreal — Sun, 20 Sept 2026
 - BASEMENT, New York City — Sat, 19 Sept 2026
 - Domicile, Miami — Fri, 18 Sept 2026
 - TBA - Los Angeles, Los Angeles — Fri, 11 Sept 2026
@@ -27,10 +27,9 @@ D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged a
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 4 Sept 2026
 - Karmakoma, Belgrade — Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Lofi, Amsterdam — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

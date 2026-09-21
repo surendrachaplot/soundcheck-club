@@ -1,6 +1,6 @@
 # Jackson Englund
 
-Jackson Englund is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Franca, Los Angeles on Fri, 25 Sept 2026.
+Jackson Englund is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Franca, Los Angeles on Fri, 25 Sept 2026.
 
 Jackson Englund is a house and electronica artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Tokyo. Often billed alongside Ayako, DJ Zenta and Dance Spirit. Next up: Bar Franca, Losangeles on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Jackson Englund is a house and electronica artist based in United States of Amer
 
 Ayako, DJ Zenta, Dance Spirit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonenglund/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonenglund/)*

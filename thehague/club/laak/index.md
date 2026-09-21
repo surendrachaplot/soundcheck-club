@@ -1,6 +1,6 @@
 # Laak
 
-Laak is a music venue in The Hague with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HETERDAAD" on Fri, 25 Sept 2026.
+Laak is a music venue in The Hague with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HETERDAAD" on Fri, 25 Sept 2026.
 
 Laak is a music venue in Thehague listed on soundcheck. 7 upcoming gigs, with line-ups including Bella Hall, Bruno Pronsato, DEVREE and jojoj and 2 more. Browse upcoming dates, start times and who's playing. Lulofstraat 59, 2521 AL Den Haag.
 
@@ -20,4 +20,4 @@ Laak is a music venue in Thehague listed on soundcheck. 7 upcoming gigs, with li
 
 Lulofstraat 59, 2521 AL Den Haag, The Hague
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*

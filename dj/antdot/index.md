@@ -1,6 +1,6 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 25 Sept 2026.
+Antdot is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Antdot is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Buenosaires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: Chinois Ibiza, Ibiza on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Antdot is a house and afro house artist tracked on soundcheck, with 59 sets logg
 
 Maz (BR), Argy, Artbat
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

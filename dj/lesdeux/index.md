@@ -1,6 +1,6 @@
 # Les Deux
 
-Les Deux is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Studio Zürich, Zurich on Sat, 26 Sept 2026.
+Les Deux is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Studio Zürich, Zurich on Sat, 26 Sept 2026.
 
 Les Deux is a house and tech house artist tracked on soundcheck, with 13 sets logged across Basel and Zurich. Often billed alongside Dejan, Ronny Grauer and PAULI (3). Next up: Studio Zürich, Zurich on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Les Deux is a house and tech house artist tracked on soundcheck, with 13 sets lo
 
 Dejan, Ronny Grauer, PAULI (3)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesdeux/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lesdeux/)*

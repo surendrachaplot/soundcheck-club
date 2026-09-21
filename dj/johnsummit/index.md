@@ -1,14 +1,13 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+John Summit is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Capital One Arena, Washington DC on Sat, 31 Oct 2026.
 
-John Summit is a house and tech house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Bali and Barcelona and 22 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
+John Summit is a house and tech house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Bali and Barcelona and 22 more. Often billed alongside Eli Brown, Layton Giordani and Loco Dice. Next up: TBA - Capital One Arena, Washingtondc on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Randall's Island | New York City |
 | Sat, 31 Oct 2026 | TBA - Capital One Arena | Washington DC |
 | Tue, 24 Nov 2026 | United Center | Chicago |
 | Wed, 25 Nov 2026 | United Center | Chicago |
@@ -28,4 +27,4 @@ John Summit is a house and tech house artist tracked on soundcheck, with 113 set
 
 Eli Brown, Layton Giordani, Loco Dice
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnsummit/)*

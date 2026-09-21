@@ -1,6 +1,6 @@
 # SVS (1)
 
-SVS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at UMI, Brussels on Sat, 31 Oct 2026.
+SVS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at UMI, Brussels on Sat, 31 Oct 2026.
 
 SVS (1) is a house and electro artist based in Belgium, tracked on soundcheck, with 27 sets logged across Amsterdam, Brussels, Ghent and Madrid. Often billed alongside Nikita, Adi and Ava Eva. Next up: UMI, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SVS (1) is a house and electro artist based in Belgium, tracked on soundcheck, w
 
 Nikita, Adi, Ava Eva
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svs-1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svs-1/)*

@@ -1,6 +1,6 @@
 # Pondi Map
 
-Pondi Map is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Pondi Map is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Pondi Map is a baile funk and latin bass artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles and Sanfrancisco. Often billed alongside Robertitx, Diablito and 2AT. Next up: Monarch, Sanfrancisco on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Pondi Map is a baile funk and latin bass artist based in United States of Americ
 
 Robertitx, Diablito, 2AT
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pondimap/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pondimap/)*

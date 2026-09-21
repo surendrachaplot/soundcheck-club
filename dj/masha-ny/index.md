@@ -1,14 +1,13 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Ma Sha is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Clock Factory, Bristol on Sat, 26 Sept 2026.
 
-Ma Sha is a techno and bass artist tracked on soundcheck, with 97 sets logged across Bangkok, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Ma Sha is a techno and bass artist tracked on soundcheck, with 97 sets logged across Bangkok, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: The Clock Factory, Bristol on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | The Clock Factory | Bristol |
 | Fri, 2 Oct 2026 | fabric | London |
 | Sat, 3 Oct 2026 | Bal Chavaux | Paris |
@@ -29,4 +28,4 @@ Ma Sha is a techno and bass artist tracked on soundcheck, with 97 sets logged ac
 
 Sobolik, Sheepshead, Ayesha
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*

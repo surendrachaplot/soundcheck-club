@@ -1,14 +1,13 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+RTK Tarantino is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
-RTK Tarantino is a house and garage artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 10 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: UNO MALTA, Malta on Fri 18 Sept.
+RTK Tarantino is a house and garage artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 10 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: M.O.T, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | M.O.T | London |
 | Fri, 2 Oct 2026 | The Brickworks | Nottingham |
 | Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
@@ -33,4 +32,4 @@ RTK Tarantino is a house and garage artist tracked on soundcheck, with 32 sets l
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

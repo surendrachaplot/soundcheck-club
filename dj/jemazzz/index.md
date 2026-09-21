@@ -1,6 +1,6 @@
 # Jemazzz
 
-Jemazzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
+Jemazzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bike Jesus, Prague on Sat, 26 Sept 2026.
 
 Jemazzz is a techno and house artist based in Czech Republic, tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside Misha Jaru, Dj Ojojo and S.Tian. Next up: Bike Jesus, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jemazzz is a techno and house artist based in Czech Republic, tracked on soundch
 
 Misha Jaru, Dj Ojojo, S.Tian
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jemazzz/)*

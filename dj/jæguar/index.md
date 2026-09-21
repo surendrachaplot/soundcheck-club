@@ -1,6 +1,6 @@
 # J Æ G Ü A R
 
-J Æ G Ü A R is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
+J Æ G Ü A R is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
 
 J Æ G Ü A R is a techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside 88 MPH, Austin Buck and Instead of Seven. Next up: TBA, Detroit on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ J Æ G Ü A R is a techno artist based in United States of America, tracked on s
 
 88 MPH, Austin Buck, Instead of Seven
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jæguar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jæguar/)*

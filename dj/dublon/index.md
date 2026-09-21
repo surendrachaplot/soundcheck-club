@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tigres de la Noche, Washington DC on Thu, 24 Sept 2026.
+Dublon is a House and Jazz artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tigres de la Noche, Washington DC on Thu, 24 Sept 2026.
 
 Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Tigres de la Noche, Washingtondc on Thu 24 Sept.
 
@@ -33,4 +33,4 @@ Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

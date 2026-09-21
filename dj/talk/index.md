@@ -1,6 +1,6 @@
 # Talk
 
-Talk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Moezeum, Rotterdam on Sun, 27 Sept 2026.
+Talk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Moezeum, Rotterdam on Sun, 27 Sept 2026.
 
 Talk is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin, Naples, Paris and Rotterdam. Often billed alongside Alias Shay, Amowia and BabyB. Next up: Moezeum, Rotterdam on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Talk is a techno and house artist tracked on soundcheck, with 4 sets logged acro
 
 Alias Shay, Amowia, BabyB
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talk/)*

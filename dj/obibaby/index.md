@@ -1,6 +1,6 @@
 # Obi Baby
 
-Obi Baby is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lime Milano, Milan on Sat, 3 Oct 2026.
+Obi Baby is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lime Milano, Milan on Sat, 3 Oct 2026.
 
 Obi Baby is a techno and hardcore artist based in Italy, tracked on soundcheck, with 18 sets logged across Milan. Often billed alongside Franz Bush, PACKAPUNCH909 and Y-DAPT. Next up: Lime Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Obi Baby is a techno and hardcore artist based in Italy, tracked on soundcheck, 
 
 Franz Bush, PACKAPUNCH909, Y-DAPT
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obibaby/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obibaby/)*

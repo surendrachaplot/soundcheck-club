@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #24 || SUGARMAMA x No:mad x Zaza" on Wed, 23 Sept 2026.
+Smolna is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HIDEOUT SOCIAL CLUB #24 || SUGARMAMA x No:mad x Zaza" on Wed, 23 Sept 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Ane, Claude Degas, Drumaddition and EARGASM GOD and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -17,4 +17,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with li
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

@@ -1,6 +1,6 @@
 # OUST
 
-OUST is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
+OUST is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
 
 OUST is an electronic artist tracked on soundcheck, with 2 sets logged across Amsterdam and Athens. Often billed alongside DJ Bone, MATEA and PALØ. Next up: Garage Noord, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ OUST is an electronic artist tracked on soundcheck, with 2 sets logged across Am
 
 DJ Bone, MATEA, PALØ
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*

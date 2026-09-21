@@ -1,14 +1,13 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Ben Klock is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
 
-Ben Klock is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
+Ben Klock is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Amnesia Ibiza, Ibiza on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Under Club | Buenos Aires |
 | Wed, 30 Sept 2026 | Fvtvr | Paris |
@@ -20,6 +19,7 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 260 sets logg
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 5 Dec 2026 | fabric | London |
+| Sat, 12 Dec 2026 | Phantom, Paris | Paris |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 260 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

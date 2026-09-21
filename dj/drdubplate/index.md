@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Dr Dubplate is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
 Dr Dubplate is a garage and bass artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Dr Dubplate is a garage and bass artist tracked on soundcheck, with 144 sets log
 
 Bakey, Yemz, Soul Mass Transit System
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

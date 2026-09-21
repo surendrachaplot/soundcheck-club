@@ -1,6 +1,6 @@
 # Colombian Hotel
 
-Colombian Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Cactus Club at The Colombian" on Fri, 9 Oct 2026.
+Colombian Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Cactus Club at The Colombian" on Fri, 9 Oct 2026.
 
 Colombian Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 117-123 Oxford St; Surry Hills, NSW 2010; Australia.
 
@@ -14,4 +14,4 @@ Colombian Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig.
 
 117-123 Oxford St; Surry Hills, NSW 2010; Australia, Sydney
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/colombian-hotel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/colombian-hotel/)*

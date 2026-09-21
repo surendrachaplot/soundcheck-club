@@ -1,6 +1,6 @@
 # Silven
 
-Silven is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 28 Sept 2026.
+Silven is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 28 Sept 2026.
 
 Silven is a tech house and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam and Ibiza. Often billed alongside Luca Brandse, DonTom and Affani. Next up: Chinois Ibiza, Ibiza on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Silven is a tech house and house artist based in Netherlands, tracked on soundch
 
 Luca Brandse, DonTom, Affani
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silven/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silven/)*

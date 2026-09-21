@@ -1,6 +1,6 @@
 # Quantic
 
-Quantic is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Dahlia Stereo, Manchester on Thu, 1 Oct 2026.
+Quantic is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Dahlia Stereo, Manchester on Thu, 1 Oct 2026.
 
 Quantic is a jazz and funk / soul artist tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Alejandra Sabillón, Jamz Supernova and Mafalda. Next up: Dahlia Stereo, Manchester on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Quantic is a jazz and funk / soul artist tracked on soundcheck, with 38 sets log
 
 Alejandra Sabillón, Jamz Supernova, Mafalda
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quantic/)*

@@ -1,6 +1,6 @@
 # HotLap
 
-HotLap is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
+HotLap is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
 
 HotLap is an afro house and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Barcelona and Copenhagen and 6 more. Often billed alongside Cima, ADAPT (DK) and ARKADYAN. Next up: Bikini Club, Barcelona on Sat 3 Oct.
 
@@ -13,6 +13,7 @@ HotLap is an afro house and house artist based in United States of America, trac
 
 ## Recently played
 
+- TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul — Sun, 20 Sept 2026
 - BORIS CLUB, Barcelona — Sat, 27 Jun 2026
 - La Clairière, Paris — Fri, 26 Jun 2026
 - Gallery, London — Fri, 1 May 2026
@@ -20,10 +21,9 @@ HotLap is an afro house and house artist based in United States of America, trac
 - Hive Club, Zurich — Fri, 6 Mar 2026
 - Juwel Wien, Vienna — Fri, 30 Jan 2026
 - Culture Box, Copenhagen — Sat, 10 Jan 2026
-- Crane Hotel Faralda, Amsterdam — Wed, 22 Oct 2025
 
 ## Shares bills with
 
 Cima, ADAPT (DK), ARKADYAN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

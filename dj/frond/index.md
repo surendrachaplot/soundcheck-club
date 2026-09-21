@@ -1,14 +1,15 @@
 # FROND
 
-FROND is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 1520, Manchester on Fri, 30 Oct 2026.
+FROND is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 1520, Manchester on Fri, 30 Oct 2026.
 
-FROND is a techno and trance artist tracked on soundcheck, with 54 sets logged across Bristol, Copenhagen, Leeds and London and 2 more. Often billed alongside Adam Pits, Yasmine (UK) and Lisene. Next up: 1520, Manchester on Fri 30 Oct.
+FROND is a techno and trance artist tracked on soundcheck, with 55 sets logged across Bristol, Copenhagen, Leeds and London and 2 more. Often billed alongside Adam Pits, Yasmine (UK) and Lisene. Next up: 1520, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
+| Sun, 1 Nov 2026 | Outlaws Yacht Club | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FROND is a techno and trance artist tracked on soundcheck, with 54 sets logged a
 
 Adam Pits, Yasmine (UK), Lisene
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*

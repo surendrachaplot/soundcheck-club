@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
+Oliver Heldens is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 Oliver Heldens is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Boston and Buenosaires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Oliver Heldens is a house and techno artist tracked on soundcheck, with 53 sets 
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

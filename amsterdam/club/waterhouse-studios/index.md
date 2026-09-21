@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PEEL Community Gathering" on Sat, 3 Oct 2026.
+Waterhouse Studios is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PEEL Community Gathering" on Sat, 3 Oct 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including After Affair, Alex Pi, André Galluzzi and BOOGIE96 and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -21,4 +21,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

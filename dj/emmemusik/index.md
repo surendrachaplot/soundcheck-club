@@ -1,6 +1,6 @@
 # Emme Musik
 
-Emme Musik is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
+Emme Musik is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
 
 Emme Musik is a progressive house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Jody Wisternoff, MEMBRILLA and Matteo Bigliardi. Next up: Bridge 48, Barcelona on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Emme Musik is a progressive house artist tracked on soundcheck, with 3 sets logg
 
 Jody Wisternoff, MEMBRILLA, Matteo Bigliardi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmemusik/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmemusik/)*

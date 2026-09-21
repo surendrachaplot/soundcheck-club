@@ -1,6 +1,6 @@
 # EP!C
 
-EP!C is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Korpuss, Riga on Fri, 25 Sept 2026.
+EP!C is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Korpuss, Riga on Fri, 25 Sept 2026.
 
 EP!C is a drum & bass and techno artist based in Latvia, tracked on soundcheck, with 17 sets logged across Riga. Often billed alongside ZapWo, nummurs and Dispoze. Next up: Korpuss, Riga on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ EP!C is a drum & bass and techno artist based in Latvia, tracked on soundcheck, 
 
 ZapWo, nummurs, Dispoze
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ep!c/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ep!c/)*

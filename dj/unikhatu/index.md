@@ -1,6 +1,6 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The B Side Berlin, Berlin on Wed, 30 Sept 2026.
+UniKhatu is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The B Side Berlin, Berlin on Wed, 30 Sept 2026.
 
 UniKhatu is a techno and tech house artist tracked on soundcheck, with 59 sets logged across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: The B Side Berlin, Berlin on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ UniKhatu is a techno and tech house artist tracked on soundcheck, with 59 sets l
 
 pink-panther, James Cherry, Ayham
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*

@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "MESTIZA" on Sun, 20 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Francis Mercier presents Solèy" on Mon, 21 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | MESTIZA | DJ Dali, Indira Paganotto, Lee Ann Roberts, MËSTIZA, Pole Position, THEMBA |
 | Mon, 21 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Francis Mercier, Michael Mayer, Nick Castle, Nitefreak, Raxon |
 | Tue, 22 Sept 2026 | East End Dubs presents Eastenderz | East End Dubs, Iglesias, Laidlaw, Luciano, Paco Osuna, Reeshy, bullet tooth |
 | Tue, 22 Sept 2026 | Eastenderz at HI IBIZA |  |
@@ -18,9 +17,10 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with
 | Sat, 26 Sept 2026 | Black Coffee | AMÉMÉ, Black Coffee, DJ EZ, Marco Carola |
 | Sun, 27 Sept 2026 | MESTIZA | Anna Unusyan, DAX J, Elli Acula, Indira Paganotto, Knowhat, Marten Lou, MËSTIZA, Peppe Citarella |
 | Mon, 28 Sept 2026 | Francis Mercier presents Solèy | Andrea Oliva, Ashibah, Bontan, Francis Mercier, Jade, Mahmut Orhan, Major League Djz, Rolbac |
+| Tue, 29 Sept 2026 | East End Dubs presents Eastenderz | Ariel Rodz, East End Dubs, Fatzo, Gallya, Hot Since 82, Nick Curly, Oden, Paco Osuna |
 
 ## Address
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

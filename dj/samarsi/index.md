@@ -1,6 +1,6 @@
 # samarsi
 
-samarsi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+samarsi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
 samarsi is a house and techno artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Basel and Zurich. Often billed alongside Animal Trainer, Marcus Meinhardt and Ruben Coslada. Next up: Hive Club, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ samarsi is a house and techno artist based in Switzerland, tracked on soundcheck
 
 Animal Trainer, Marcus Meinhardt, Ruben Coslada
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samarsi/)*

@@ -1,6 +1,6 @@
 # Electricano
 
-Electricano is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at B2 Rīga, Riga on Fri, 9 Oct 2026.
+Electricano is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at B2 Rīga, Riga on Fri, 9 Oct 2026.
 
 Electricano is a house and minimal artist tracked on soundcheck, with 16 sets logged across Barcelona, Madrid and Riga. Often billed alongside Adroit, PUPA and D I N. Next up: B2 Rīga, Riga on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Electricano is a house and minimal artist tracked on soundcheck, with 16 sets lo
 
 Adroit, PUPA, D I N
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricano/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricano/)*

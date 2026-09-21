@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
+Innellea is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
 
 Innellea is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Innellea is a techno and house artist tracked on soundcheck, with 144 sets logge
 
 Colyn, Mind Against, 8KAYS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

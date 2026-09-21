@@ -1,6 +1,6 @@
 # En Creux
 
-En Creux is a Noise and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ormside Projects, London on Wed, 23 Sept 2026.
+En Creux is a Noise and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ormside Projects, London on Wed, 23 Sept 2026.
 
 En Creux is a noise and industrial artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Container, Deli Girls and Kozma. Next up: Ormside Projects, London on Wed 23 Sept.
 
@@ -19,4 +19,4 @@ En Creux is a noise and industrial artist tracked on soundcheck, with 3 sets log
 
 Container, Deli Girls, Kozma
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encreux/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encreux/)*

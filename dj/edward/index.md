@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+Edward is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 28 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Distrikt, Leeds on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 133 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

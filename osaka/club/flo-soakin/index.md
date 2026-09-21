@@ -1,6 +1,6 @@
 # flo Soakin
 
-flo Soakin is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "nyank" on Mon, 21 Sept 2026.
+flo Soakin is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "nyank" on Mon, 21 Sept 2026.
 
 flo Soakin is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including CHISE, CityBoyLounge, Koji Nakamura and Ko Yang (JP) and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1.
 
@@ -16,4 +16,4 @@ flo Soakin is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with
 
 Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1, Osaka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/flo-soakin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/flo-soakin/)*

@@ -1,6 +1,6 @@
 # DJ Achim Feuervogel
 
-DJ Achim Feuervogel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+DJ Achim Feuervogel is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
 
 DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 11 more. Often billed alongside zwilling., DETOXX and Feta Felice. Next up: Artheater, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ Achim Feuervogel is a trance and techno artist based in Germany, tracked on s
 
 zwilling., DETOXX, Feta Felice
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*

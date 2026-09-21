@@ -1,14 +1,13 @@
 # Introspekt
 
-Introspekt is a Garage and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Introspekt is a Garage and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
 
-Introspekt is a garage and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Introspekt is a garage and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | The Ground at Club Space | Miami |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | Palais | London |
@@ -35,4 +34,4 @@ Introspekt is a garage and techno artist tracked on soundcheck, with 187 sets lo
 
 Octo Octa, CCL, Angel D'lite
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

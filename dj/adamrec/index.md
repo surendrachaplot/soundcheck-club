@@ -1,6 +1,6 @@
 # ADAM REC.
 
-ADAM REC. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 1 Oct 2026.
+ADAM REC. is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 1 Oct 2026.
 
 ADAM REC. is a house and club artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside MagDita, Nikklaas and Better Call Paul. Next up: Bulbul Berlin, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ ADAM REC. is a house and club artist based in Germany, tracked on soundcheck, wi
 
 MagDita, Nikklaas, Better Call Paul
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrec/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamrec/)*

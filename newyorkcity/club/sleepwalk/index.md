@@ -1,14 +1,13 @@
 # Sleepwalk
 
-Sleepwalk is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Artifact - An Experimental Music Series" on Sun, 20 Sept 2026.
+Sleepwalk is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris" on Wed, 21 Oct 2026.
 
-Sleepwalk is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including alter.world and Oscil. Browse upcoming dates, start times and who's playing. 251 Bushwick Avenue, Brooklyn, NY, 11211.
+Sleepwalk is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including alter.world and Oscil. Browse upcoming dates, start times and who's playing. 251 Bushwick Avenue, Brooklyn, NY, 11211.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Artifact - An Experimental Music Series |  |
 | Wed, 21 Oct 2026 | Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris |  |
 | Wed, 4 Nov 2026 | Qtea (Live) with support from AUTUMNATIC / John-Lewis Anderson | Oscil, alter.world |
 
@@ -16,4 +15,4 @@ Sleepwalk is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs,
 
 251 Bushwick Avenue, Brooklyn, NY, 11211, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sleepwalk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sleepwalk/)*

@@ -1,14 +1,13 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Paula Tape is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
-Paula Tape is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Athens, Bali and Bangkok and 49 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Paula Tape is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Athens, Bali and Bangkok and 49 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sun, 27 Sept 2026 | Circolo Amelia | Milan |
 | Fri, 16 Oct 2026 | Night Tales | London |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
@@ -29,4 +28,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 162 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

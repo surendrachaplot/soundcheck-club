@@ -1,6 +1,6 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
+Helena Lauwaert is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
 Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: C12, Brussels on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 137 se
 
 Pegassi, EMILIJA, Faster Horses
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

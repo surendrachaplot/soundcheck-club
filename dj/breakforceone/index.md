@@ -1,6 +1,6 @@
 # Breakforce One
 
-Breakforce One is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
+Breakforce One is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
 
 Breakforce One is a breakcore and hardcore artist based in Germany, tracked on soundcheck, with 4 sets logged across Bristol, Budapest, Leeds and London. Often billed alongside Demetzy, Krista Bourgeois and Mollie Rush. Next up: The Trinity Centre, Bristol on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Breakforce One is a breakcore and hardcore artist based in Germany, tracked on s
 
 Demetzy, Krista Bourgeois, Mollie Rush
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakforceone/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakforceone/)*

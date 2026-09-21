@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
+SAIDAH is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Escala25, Lisbon on Sat, 10 Oct 2026.
 
 SAIDAH is a house and garage artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: Escala25, Lisbon on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 116 sets logged 
 
 Diffrent, Sam Alfred, Silva Bumpa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

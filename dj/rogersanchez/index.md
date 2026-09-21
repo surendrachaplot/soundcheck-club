@@ -1,6 +1,6 @@
 # Roger Sanchez
 
-Roger Sanchez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 21 Sept 2026.
+Roger Sanchez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 21 Sept 2026.
 
 Roger Sanchez is a house and tech house artist tracked on soundcheck, with 127 sets logged across Auckland, Barcelona, Birmingham and Bristol and 28 more. Often billed alongside The Shapeshifters, Inner City and Carl Craig. Next up: Pacha Ibiza, Ibiza on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Roger Sanchez is a house and tech house artist tracked on soundcheck, with 127 s
 
 The Shapeshifters, Inner City, Carl Craig
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogersanchez/)*

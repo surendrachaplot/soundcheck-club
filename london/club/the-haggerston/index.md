@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "JUST BECAUSE" on Fri, 25 Sept 2026.
+The Haggerston is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "JUST BECAUSE" on Fri, 25 Sept 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Elsa Dove, K-SLICE and PHIZ. Browse upcoming dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -18,4 +18,4 @@ The Haggerston is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

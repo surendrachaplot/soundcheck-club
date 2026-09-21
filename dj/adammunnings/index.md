@@ -1,14 +1,13 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Studiodb, Berlin on Thu, 24 Sept 2026.
 
-ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Bangkok and Berlin and 8 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: KREUZWERK, Berlin on Sat 19 Sept.
+ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Bangkok and Berlin and 8 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: Studiodb, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 | Thu, 24 Sept 2026 | Studiodb | Berlin |
 | Sat, 26 Sept 2026 | Studiodb | Berlin |
 
@@ -27,4 +26,4 @@ ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 74 sets l
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

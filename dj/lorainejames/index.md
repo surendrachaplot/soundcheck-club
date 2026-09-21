@@ -1,6 +1,6 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Loraine James is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
 
 Loraine James is an experimental and ambient artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Loraine James is an experimental and ambient artist tracked on soundcheck, with 
 
 Valentina Magaletti, Kelman Duran, Lee Gamble
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*

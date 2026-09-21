@@ -1,14 +1,13 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mess Hall, Washington DC on Sun, 20 Sept 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
-Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside JADALAREIGN, The AM/AMX and Ben UFO. Next up: Mess Hall, Washingtondc on Sun 20 Sept.
+Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside JADALAREIGN, The AM/AMX and Ben UFO. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Mess Hall | Washington DC |
 | Sat, 26 Sept 2026 | TBA - Near Villeray | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
@@ -17,6 +16,7 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets log
 
 ## Recently played
 
+- Mess Hall, Washington DC — Sun, 20 Sept 2026
 - Signal, New York City — Fri, 21 Aug 2026
 - Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
 - Night Tales Loft, London — Fri, 31 Jul 2026
@@ -24,10 +24,9 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets log
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 28 Jun 2026
 - Cannons, Detroit — Sat, 20 Jun 2026
 - The Loading Dock, Austin — Fri, 19 Jun 2026
-- TBA - East Williamsburg, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 JADALAREIGN, The AM/AMX, Ben UFO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

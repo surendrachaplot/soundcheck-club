@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Rollene pt. III" on Thu, 24 Sept 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Rollene pt. III" on Thu, 24 Sept 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including avoN, B From E, Exilee and HAKEEM (2) and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

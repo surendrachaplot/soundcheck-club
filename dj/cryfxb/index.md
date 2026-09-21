@@ -1,6 +1,6 @@
 # CRYFXB
 
-CRYFXB is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Eden NYC, New York City on Fri, 23 Oct 2026.
+CRYFXB is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Eden NYC, New York City on Fri, 23 Oct 2026.
 
 CRYFXB is a techno and trance artist based in Venezuela, tracked on soundcheck, with 44 sets logged across Newyorkcity and Philadelphia. Often billed alongside Rapture, Purdy and CATA (1). Next up: Eden NYC, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ CRYFXB is a techno and trance artist based in Venezuela, tracked on soundcheck, 
 
 Rapture, Purdy, CATA (1)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryfxb/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryfxb/)*

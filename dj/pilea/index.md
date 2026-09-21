@@ -1,6 +1,6 @@
 # PILEA
 
-PILEA is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tresor / Globus, Berlin on Wed, 23 Sept 2026.
+PILEA is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tresor / Globus, Berlin on Wed, 23 Sept 2026.
 
 PILEA is a house and minimal artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Finona Rider, aitch and ACID B4RBIE. Next up: Tresor / Globus, Berlin on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ PILEA is a house and minimal artist based in Germany, tracked on soundcheck, wit
 
 Finona Rider, aitch, ACID B4RBIE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilea/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pilea/)*

@@ -1,6 +1,6 @@
 # Dr. Long
 
-Dr. Long is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Mexico City on Sat, 24 Oct 2026.
+Dr. Long is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Mexico City on Sat, 24 Oct 2026.
 
 Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Mexicocity and Stuttgart and 3 more. Often billed alongside Boyá, skyra and Digabuna. Next up: TBA, Mexicocity on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, w
 
 Boyá, skyra, Digabuna
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*

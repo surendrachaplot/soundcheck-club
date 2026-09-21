@@ -1,6 +1,6 @@
 # Agatha Pher
 
-Agatha Pher is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
+Agatha Pher is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 Agatha Pher is a progressive house and techno artist tracked on soundcheck, with 45 sets logged across Barcelona. Often billed alongside MøønkiZa, Lupe Republic and Einmusik. Next up: Seaseaclub Barcelona, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Agatha Pher is a progressive house and techno artist tracked on soundcheck, with
 
 MøønkiZa, Lupe Republic, Einmusik
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agathapher/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agathapher/)*

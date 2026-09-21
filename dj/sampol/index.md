@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Les Enfants Brillants, Barcelona on Wed, 23 Sept 2026.
+Sampol is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Les Enfants Brillants, Barcelona on Wed, 23 Sept 2026.
 
 Sampol is an electro and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Les Enfants Brillants, Barcelona on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Sampol is an electro and house artist tracked on soundcheck, with 112 sets logge
 
 Alex (ES), Hitch, MARYO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Paquita Gordon + Mena G + Estrella OR" on Fri, 25 Sept 2026.
+Sala Villanos is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Paquita Gordon + Mena G + Estrella OR" on Fri, 25 Sept 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 16 upcoming gigs,
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

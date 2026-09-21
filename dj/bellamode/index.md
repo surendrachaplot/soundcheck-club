@@ -1,6 +1,6 @@
 # Bella Mode
 
-Bella Mode is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Private Location, New York City on Sun, 25 Oct 2026.
+Bella Mode is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Private Location, New York City on Sun, 25 Oct 2026.
 
 Bella Mode is a techno and electro artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside CMD+JAZMINE, actuator and Alex Hell-n. Next up: TBA - Private Location, Newyorkcity on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Bella Mode is a techno and electro artist based in United States of America, tra
 
 CMD+JAZMINE, actuator, Alex Hell-n
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*

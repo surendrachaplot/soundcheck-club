@@ -1,6 +1,6 @@
 # Pretty Privilege
 
-Pretty Privilege is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
+Pretty Privilege is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Jupiter Disco, New York City on Fri, 9 Oct 2026.
 
 Pretty Privilege is a techno and house artist based in Canada, tracked on soundcheck, with 82 sets logged across Berlin, Boston, Chicago and Dublin and 9 more. Often billed alongside CrisseMarqueur, mayalabae and Badgalquirit. Next up: Jupiter Disco, Newyorkcity on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Pretty Privilege is a techno and house artist based in Canada, tracked on soundc
 
 CrisseMarqueur, mayalabae, Badgalquirit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prettyprivilege/)*

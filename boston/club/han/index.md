@@ -1,6 +1,6 @@
 # HAN
 
-HAN is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "HAN: Fusion Fridays" on Fri, 25 Sept 2026.
+HAN is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "HAN: Fusion Fridays" on Fri, 25 Sept 2026.
 
 HAN is a music venue in Boston listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 186 Harvard Ave, Allston, MA 02134.
 
@@ -14,4 +14,4 @@ HAN is a music venue in Boston listed on soundcheck. 1 upcoming gig. Browse upco
 
 186 Harvard Ave, Allston, MA 02134, Boston
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/han/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/han/)*

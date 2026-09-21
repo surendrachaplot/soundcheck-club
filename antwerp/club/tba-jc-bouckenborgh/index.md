@@ -1,6 +1,6 @@
 # TBA - JC Bouckenborgh
 
-TBA - JC Bouckenborgh is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Not Surrender meets Jah Heavy Load" on Sat, 10 Oct 2026.
+TBA - JC Bouckenborgh is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Not Surrender meets Jah Heavy Load" on Sat, 10 Oct 2026.
 
 TBA - JC Bouckenborgh is a music venue in Antwerp listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - JC Bouckenborgh is a music venue in Antwerp listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Not Surrender meets Jah Heavy Load |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/tba-jc-bouckenborgh/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/tba-jc-bouckenborgh/)*

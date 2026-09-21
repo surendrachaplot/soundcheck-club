@@ -1,6 +1,6 @@
 # Laughing Man
 
-Laughing Man is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 10 Oct 2026.
+Laughing Man is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 10 Oct 2026.
 
 Laughing Man is a minimal and house artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside Accomplice, L.ivory and Pat Hyland. Next up: The Bernard Shaw, Dublin on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Laughing Man is a minimal and house artist based in Ireland, tracked on soundche
 
 Accomplice, L.ivory, Pat Hyland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laughingman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laughingman/)*

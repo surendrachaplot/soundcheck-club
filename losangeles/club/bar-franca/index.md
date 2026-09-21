@@ -1,18 +1,17 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "This Week at Bar Franca" on Wed, 16 Sept 2026.
+Bar Franca is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Dance Spirit pres. 'LUNATIC' Album Launch" on Fri, 25 Sept 2026.
 
-Bar Franca is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, with line-ups including Dance Spirit, Dirtie Blonde, Jackson Englund and Lisbona Sisters and 2 more. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
+Bar Franca is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Dance Spirit, Jackson Englund and Robotek Reagan. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | This Week at Bar Franca | Dirtie Blonde, Lisbona Sisters, Michelle Leshem, Papa Lu |
 | Fri, 25 Sept 2026 | Dance Spirit pres. 'LUNATIC' Album Launch | Dance Spirit, Jackson Englund, Robotek Reagan |
 
 ## Address
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

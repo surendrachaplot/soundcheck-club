@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Autograf" on Fri, 25 Sept 2026.
+Future Nightlife is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Autograf" on Fri, 25 Sept 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including Autograf, Dillon Francis, Quintino and Wuki. Browse upcoming dates, start times and who's playing. 570 Queen Street West.
 
@@ -18,4 +18,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

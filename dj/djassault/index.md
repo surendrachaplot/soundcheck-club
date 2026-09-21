@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Market Hotel, New York City on Sat, 26 Sept 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Market Hotel, New York City on Sat, 26 Sept 2026.
 
 DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: Market Hotel, Newyorkcity on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 170 se
 
 Fullbodydurag, Sheefy McFly, DJ AYA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

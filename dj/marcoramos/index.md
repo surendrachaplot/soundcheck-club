@@ -1,6 +1,6 @@
 # Marco Ramos
 
-Marco Ramos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at John Doe, Amsterdam on Thu, 24 Sept 2026.
+Marco Ramos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at John Doe, Amsterdam on Thu, 24 Sept 2026.
 
 Marco Ramos is a techno and house artist tracked on soundcheck, with 284 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Yunhee, Industrialyzer and Chich. Next up: John Doe, Amsterdam on Thu 24 Sept.
 
@@ -32,4 +32,4 @@ Marco Ramos is a techno and house artist tracked on soundcheck, with 284 sets lo
 
 Yunhee, Industrialyzer, Chich
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoramos/)*

@@ -1,6 +1,6 @@
 # Hello From Ben
 
-Hello From Ben is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Proud Place, Manchester on Sat, 3 Oct 2026.
+Hello From Ben is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Proud Place, Manchester on Sat, 3 Oct 2026.
 
 Hello From Ben is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside DJ Scissher, D-LIA and HSTN. Next up: The Proud Place, Manchester on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Hello From Ben is a house and disco artist based in United Kingdom, tracked on s
 
 DJ Scissher, D-LIA, HSTN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*

@@ -1,6 +1,6 @@
 # Vulkanski
 
-Vulkanski is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Vulkanski is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Vulkanski is a techno and ebm artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Frequency Shifter, Boyd Schidt and OTHR. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Vulkanski is a techno and ebm artist tracked on soundcheck, with 80 sets logged 
 
 Frequency Shifter, Boyd Schidt, OTHR
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vulkanski/)*

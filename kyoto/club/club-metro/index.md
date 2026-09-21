@@ -1,15 +1,13 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 37 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HOME presents YUNG MEN IN THE CAR TOUR 2026" on Sat, 19 Sept 2026.
+Club Metro is a music venue in Kyoto with 35 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Counter Culture Side Club" on Mon, 21 Sept 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 37 upcoming gigs, with line-ups including AOKI takamasa, CH.0, DJ KAZUMA and DJ Krush and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 35 upcoming gigs, with line-ups including CH.0, DJ Krush, DJ Mitsu The Beats and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | HOME presents YUNG MEN IN THE CAR TOUR 2026 |  |
-| Sun, 20 Sept 2026 | platform | AOKI takamasa, DJ KAZUMA |
 | Mon, 21 Sept 2026 | Counter Culture Side Club | KAITO., Kaito, YELLOWUHURU |
 | Tue, 22 Sept 2026 | GREENS & SECOND ROYAL presents 「優游涵泳 5」 |  |
 | Tue, 22 Sept 2026 | LONDON CALLING |  |
@@ -18,9 +16,11 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 37 upcoming gigs, wit
 | Sat, 26 Sept 2026 | BABALÚ presents Osunlade (Yoruba Records) | DMITRI ABSINTHE, MAX PELA, Osunlade, Yukari BB |
 | Sun, 27 Sept 2026 | SECOND ROYAL |  |
 | Thu, 1 Oct 2026 | CROSS CELLAR |  |
+| Fri, 2 Oct 2026 | WAIWAI WANAME | HOBOBRAZIL |
+| Sat, 3 Oct 2026 | wav.yo -5th dish-【1st Anniversary】 |  |
 
 ## Address
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

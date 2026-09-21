@@ -1,15 +1,13 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+Partiboi69 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
+Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Randall's Island | New York City |
-| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -34,4 +32,4 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 
 KETTAMA, Juicy Romance, DJ Heartstring
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partiboi69/)*

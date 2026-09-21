@@ -1,18 +1,18 @@
 # Marea Marea
 
-Marea Marea is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
+Marea Marea is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 17 Oct 2026.
 
-Marea Marea is a house and deep house artist based in Mexico, tracked on soundcheck, with 36 sets logged across Mexicocity and Montreal. Often billed alongside Valeriana, Barreto and Lupone. Next up: TBA, Montreal on Sun 20 Sept.
+Marea Marea is a house and deep house artist based in Mexico, tracked on soundcheck, with 36 sets logged across Mexicocity and Montreal. Often billed alongside Valeriana, Barreto and Lupone. Next up: YuYu Cine Club, Mexicocity on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | TBA | Montreal |
 | Sat, 17 Oct 2026 | YuYu Cine Club | Mexico City |
 
 ## Recently played
 
+- TBA, Montreal — Sun, 20 Sept 2026
 - Drama Radio Bar, Mexico City — Tue, 11 Aug 2026
 - Departamento, Mexico City — Wed, 15 Jul 2026
 - Drama Radio Bar, Mexico City — Tue, 26 May 2026
@@ -20,10 +20,9 @@ Marea Marea is a house and deep house artist based in Mexico, tracked on soundch
 - Fünk, Mexico City — Sat, 21 Mar 2026
 - CHICO, Mexico City — Sat, 14 Mar 2026
 - Departamento, Mexico City — Wed, 25 Feb 2026
-- TBA - Central Granada 67 , Mexico City — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Valeriana, Barreto, Lupone
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareamarea/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareamarea/)*

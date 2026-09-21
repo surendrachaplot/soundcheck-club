@@ -1,6 +1,6 @@
 # Diana May
 
-Diana May is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KitKatClub, Berlin on Wed, 30 Sept 2026.
+Diana May is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at KitKatClub, Berlin on Wed, 30 Sept 2026.
 
 Diana May is a techno and psytrance artist tracked on soundcheck, with 69 sets logged across Berlin and Lisbon. Often billed alongside Frankie Flowerz, Daniel Boon and Basstronauten. Next up: KitKatClub, Berlin on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Diana May is a techno and psytrance artist tracked on soundcheck, with 69 sets l
 
 Frankie Flowerz, Daniel Boon, Basstronauten
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*

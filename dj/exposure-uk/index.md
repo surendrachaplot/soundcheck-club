@@ -1,6 +1,6 @@
 # Exposure (UK)
 
-Exposure (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Four Quarters, London on Fri, 30 Oct 2026.
+Exposure (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Four Quarters, London on Fri, 30 Oct 2026.
 
 Exposure (UK) is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logged across Ibiza, Lisbon, London and Porto. Often billed alongside Mark System, Bassment PT and Tianna Franxx. Next up: Four Quarters, London on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Exposure (UK) is a drum & bass and jungle artist tracked on soundcheck, with 5 s
 
 Mark System, Bassment PT, Tianna Franxx
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exposure-uk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exposure-uk/)*

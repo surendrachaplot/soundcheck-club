@@ -1,6 +1,6 @@
 # FrezZ
 
-FrezZ is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
+FrezZ is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
 
 FrezZ is a tech house and minimal artist tracked on soundcheck, with 44 sets logged across London. Often billed alongside Giovanni Savoca, Simon Carr and George Morteanu. Next up: The Glove That Fits, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FrezZ is a tech house and minimal artist tracked on soundcheck, with 44 sets log
 
 Giovanni Savoca, Simon Carr, George Morteanu
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frezz/)*

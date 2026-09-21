@@ -1,14 +1,13 @@
 # ONLYLU
 
-ONLYLU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+ONLYLU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
-ONLYLU is a house and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Hamburg and Leipzig. Often billed alongside Roses OD, DJ SOURCE and dj fako. Next up: Südpol, Hamburg on Fri 18 Sept.
+ONLYLU is a house and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Hamburg and Leipzig. Often billed alongside Roses OD, DJ SOURCE and dj fako. Next up: Mojo, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Südpol | Hamburg |
 | Sat, 31 Oct 2026 | Mojo | Hamburg |
 
 ## Recently played
@@ -26,4 +25,4 @@ ONLYLU is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Roses OD, DJ SOURCE, dj fako
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*

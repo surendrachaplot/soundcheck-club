@@ -1,6 +1,6 @@
 # Pug.
 
-Pug. is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Brancaleone, Rome on Sat, 26 Sept 2026.
+Pug. is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Brancaleone, Rome on Sat, 26 Sept 2026.
 
 Pug. is a techno and hip-hop artist tracked on soundcheck, with 3 sets logged across Rome. Often billed alongside Alessandro Cocco, Dario Mass and SVARIO. Next up: Brancaleone, Rome on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Pug. is a techno and hip-hop artist tracked on soundcheck, with 3 sets logged ac
 
 Alessandro Cocco, Dario Mass, SVARIO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pug./)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pug./)*

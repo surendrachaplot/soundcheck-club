@@ -1,14 +1,13 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SP#002" on Sun, 20 Sept 2026.
+The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Side Two - B2B Special W/ Kaya & Izzy + more" on Fri, 25 Sept 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | SP#002 | Desiree', HARLØW, Reformist, SBBS, Spinks |
 | Fri, 25 Sept 2026 | Side Two - B2B Special W/ Kaya & Izzy + more | IZZY (UK), KaYa (UK), Layson, Marlon Baleci, Nick Clev, Sam Beach |
 | Sat, 26 Sept 2026 | JFF vol.5 INVITES Nocte | FrezZ, Monterosso, Yūgen |
 | Sat, 26 Sept 2026 | Scouts X Peaches FC Day Party |  |
@@ -18,9 +17,10 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 | Sun, 4 Oct 2026 | Fossil Archive presents: Alan Fitzpatrick, R.M.K, Aniaef | Alan Fitzpatrick, Aniaef, R.M.K |
 | Thu, 15 Oct 2026 | Fragment: Open Decks | Amor Ante, ENFY, Lau.tastic, YOYO (UK) |
 | Thu, 15 Oct 2026 | HAiiNES presents We Are Strangers |  |
+| Fri, 16 Oct 2026 | Ashvale W/ Heartbreak Hombres (Baby Rollén & Wilba) | Baby Rollén, Wilba |
 
 ## Address
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

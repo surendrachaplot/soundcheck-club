@@ -1,6 +1,6 @@
 # Civaro
 
-Civaro is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
+Civaro is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at City Hall, Barcelona on Thu, 24 Sept 2026.
 
 Civaro is a techno and electronica artist based in Chile, tracked on soundcheck, with 35 sets logged across Barcelona. Often billed alongside Miguel Silva, Popsky and Saulo Pisa. Next up: City Hall, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Civaro is a techno and electronica artist based in Chile, tracked on soundcheck,
 
 Miguel Silva, Popsky, Saulo Pisa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civaro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civaro/)*

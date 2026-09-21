@@ -1,6 +1,6 @@
 # DJ CARO
 
-DJ CARO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Moonglow Oakland, San Francisco/Oakland on Thu, 24 Sept 2026.
+DJ CARO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Moonglow Oakland, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 DJ CARO is a club and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Discnogirl, Tom Marsi and RITCHRD. Next up: Moonglow Oakland, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DJ CARO is a club and techno artist based in United States of America, tracked o
 
 Discnogirl, Tom Marsi, RITCHRD
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaro/)*

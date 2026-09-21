@@ -1,6 +1,6 @@
 # Ikss
 
-Ikss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+Ikss is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 Ikss is a techno and house artist tracked on soundcheck, with 93 sets logged across Riga. Often billed alongside HP-82, Ksenia Kamikaza and Freiya March. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Ikss is a techno and house artist tracked on soundcheck, with 93 sets logged acr
 
 HP-82, Ksenia Kamikaza, Freiya March
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikss/)*

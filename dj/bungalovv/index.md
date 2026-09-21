@@ -1,6 +1,6 @@
 # Bungalovv
 
-Bungalovv is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Bungalovv is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 Bungalovv is an experimental and club artist tracked on soundcheck, with 53 sets logged across Athens, Bali, Bangkok and Barcelona and 11 more. Often billed alongside TUFI, Isaka and CÁRPATOS. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -12,6 +12,7 @@ Bungalovv is an experimental and club artist tracked on soundcheck, with 53 sets
 
 ## Recently played
 
+- TBA - Secret Location, Berlin — Sun, 20 Sept 2026
 - TBA - Private Location, Berlin — Sat, 5 Sept 2026
 - TBA - Warschauer Pl. 18, 10245 Berlin, Berlin — Sat, 15 Aug 2026
 - Silent Green, Berlin — Tue, 30 Jun 2026
@@ -19,10 +20,9 @@ Bungalovv is an experimental and club artist tracked on soundcheck, with 53 sets
 - Alte Münze, Berlin — Sat, 25 Apr 2026
 - ., Berlin — Wed, 11 Feb 2026
 - Panke, Berlin — Fri, 14 Nov 2025
-- Meteoro, Barcelona — Thu, 18 Sept 2025
 
 ## Shares bills with
 
 TUFI, Isaka, CÁRPATOS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bungalovv/)*

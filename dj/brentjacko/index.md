@@ -1,6 +1,6 @@
 # Brent Jacko
 
-Brent Jacko is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Brent Jacko is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
 Brent Jacko is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Seoul and Tokyo. Often billed alongside Loek Frey, Spekki Webu and Woody92. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Brent Jacko is a techno and ambient artist based in Netherlands, tracked on soun
 
 Loek Frey, Spekki Webu, Woody92
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brentjacko/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brentjacko/)*

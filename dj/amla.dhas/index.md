@@ -1,6 +1,6 @@
 # AMLA.DHAS
 
-AMLA.DHAS is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
+AMLA.DHAS is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
 
 AMLA.DHAS is a house and electro artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside SONRISA, Wareshevik and XAYN. Next up: Mood Ring, Newyorkcity on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ AMLA.DHAS is a house and electro artist tracked on soundcheck, with 6 sets logge
 
 SONRISA, Wareshevik, XAYN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amla.dhas/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amla.dhas/)*

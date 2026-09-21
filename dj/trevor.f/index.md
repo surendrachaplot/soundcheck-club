@@ -1,6 +1,6 @@
 # trevor.f
 
-trevor.f is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
+trevor.f is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
 trevor.f is a techno and house artist tracked on soundcheck, with 2 sets logged across Detroit and Paris. Often billed alongside Massimiliano Pagliara, Chris Cruse and PAURRO. Next up: Virage, Paris on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ trevor.f is a techno and house artist tracked on soundcheck, with 2 sets logged 
 
 Massimiliano Pagliara, Chris Cruse, PAURRO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trevor.f/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trevor.f/)*

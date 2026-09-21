@@ -1,8 +1,8 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
+Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 26 Sept 2026.
 
-Alex (ES) is a minimal and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
+Alex (ES) is a minimal and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Sunseabar Beach Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 99 sets logg
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sun, 27 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 99 sets logg
 
 Hitch, Sampol, De La Swing
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*

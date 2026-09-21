@@ -1,6 +1,6 @@
 # M. Dagdug
 
-M. Dagdug is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
+M. Dagdug is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at CCEMx, Mexico City on Sat, 26 Sept 2026.
 
 M. Dagdug is a techno and bass artist based in Mexico, tracked on soundcheck, with 18 sets logged across Mexicocity. Often billed alongside Cybebe, Primal Sound and Astroboii. Next up: CCEMx, Mexicocity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ M. Dagdug is a techno and bass artist based in Mexico, tracked on soundcheck, wi
 
 Cybebe, Primal Sound, Astroboii
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.dagdug/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.dagdug/)*

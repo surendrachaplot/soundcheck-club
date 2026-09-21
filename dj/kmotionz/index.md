@@ -1,6 +1,6 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+K Motionz is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 K Motionz is a drum & bass and bass artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 27 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ K Motionz is a drum & bass and bass artist tracked on soundcheck, with 86 sets l
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

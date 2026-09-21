@@ -1,6 +1,6 @@
 # Westlight Rooftop at The William Vale
 
-Westlight Rooftop at The William Vale is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Friends In High Places feat. SPECIAL GUESTS" on Fri, 25 Sept 2026.
+Westlight Rooftop at The William Vale is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Friends In High Places feat. SPECIAL GUESTS" on Fri, 25 Sept 2026.
 
 Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 111 North 12th Street, Brooklyn, New York 11249, United States.
 
@@ -17,4 +17,4 @@ Westlight Rooftop at The William Vale is a music venue in Newyorkcity listed on 
 
 111 North 12th Street, Brooklyn, New York 11249, United States, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/westlight-rooftop-at-the-william-vale/)*

@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+Nosedrip is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
 Nosedrip is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside OKO DJ, CJ Bolland and Vlada. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 129 sets logge
 
 OKO DJ, CJ Bolland, Vlada
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

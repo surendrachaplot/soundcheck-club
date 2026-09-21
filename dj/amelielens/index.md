@@ -1,6 +1,6 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
+Amelie Lens is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Grand Park, Los Angeles on Sat, 26 Sept 2026.
 
 Amelie Lens is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Grand Park, Losangeles on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 142 sets lo
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

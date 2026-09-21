@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Tropicana Records" on Thu, 24 Sept 2026.
+Lux Fragil is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Tropicana Records" on Thu, 24 Sept 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Beno, Cormac, Cuba (PT) and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

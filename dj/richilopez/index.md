@@ -1,6 +1,6 @@
 # Richi Lopez
 
-Richi Lopez is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 25 Sept 2026.
+Richi Lopez is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 25 Sept 2026.
 
 Richi Lopez is a house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Dj Khu, Toni Morales and Fina. Next up: Sunseabar Beach Club, Barcelona on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Richi Lopez is a house artist tracked on soundcheck, with 3 sets logged across B
 
 Dj Khu, Toni Morales, Fina
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richilopez/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richilopez/)*

@@ -1,6 +1,6 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz" on Fri, 25 Sept 2026.
+Kapsule is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Paul Street Sounds with tINI, Cadence, Kayleigh Maria, & Mudz" on Fri, 25 Sept 2026.
 
 Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
@@ -23,4 +23,4 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, wi
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Kastel wt/ LET'S PROJECT PRESENTS :+ FAITH + MADE OF SOUND + BERAT HALLAÇ & YUJI SOSA many more" on Fri, 25 Sept 2026.
+Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Kastel wt/ LET'S PROJECT PRESENTS :+ FAITH + MADE OF SOUND + BERAT HALLAÇ & YUJI SOSA many more" on Fri, 25 Sept 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Benny Benassi, FAITH, Manendria and Merve Baykal and 1 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -21,4 +21,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

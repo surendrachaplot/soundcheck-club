@@ -1,6 +1,6 @@
 # Dorian Electra
 
-Dorian Electra is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
+Dorian Electra is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
 
 Dorian Electra is a pop and experimental artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Brussels and Chicago and 18 more. Often billed alongside Count Baldor, Frost Children and COUCOU CHLOE. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Dorian Electra is a pop and experimental artist based in Czech Republic, tracked
 
 Count Baldor, Frost Children, COUCOU CHLOE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*

@@ -1,6 +1,6 @@
 # Monalisa Michaelis
 
-Monalisa Michaelis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Monalisa Michaelis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Monalisa Michaelis is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Andara Nox, Anna Hoeber and April the pink. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ Monalisa Michaelis is a techno and trance artist based in Germany, tracked on so
 
 Andara Nox, Anna Hoeber, April the pink
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monalisamichaelis/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monalisamichaelis/)*

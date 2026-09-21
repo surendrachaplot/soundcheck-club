@@ -1,6 +1,6 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Socore Factory, Osaka on Mon, 21 Sept 2026.
+Kohei is a Minimal and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Socore Factory, Osaka on Mon, 21 Sept 2026.
 
 Kohei is a minimal and techno artist tracked on soundcheck, with 79 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ALUCA. Next up: Socore Factory, Osaka on Mon 21 Sept.
 
@@ -28,4 +28,4 @@ Kohei is a minimal and techno artist tracked on soundcheck, with 79 sets logged 
 
 AOKI takamasa, Shingo, ALUCA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

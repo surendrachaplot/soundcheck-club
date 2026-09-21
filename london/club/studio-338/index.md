@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026" on Sun, 20 Sept 2026.
+Studio 338 is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "THE PROJECT X HOUSE PARTY" on Fri, 25 Sept 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026 |  |
 | Fri, 25 Sept 2026 | THE PROJECT X HOUSE PARTY |  |
 | Sat, 26 Sept 2026 | Moondance 31: Summer Session | Alex P, Billy Daniel Bunter, DJ Hype, DJ Rap, DJ SS, DJ Storm, Devious D, Five Alive, Flux, Funky Flirt, GQ, Grant Nelson, IC3, JamieG, Krust, Lanav, MC Express, MC Fearless, Matt Jam Lamont, Mrs Magoo, Nicky Blackmarket, Ratpack, Ray Keith, Richie Fingers, Shimon, Simon Bassline Smith, Slipmatt |
 | Sun, 27 Sept 2026 | Party Hard UK - Day Party |  |
@@ -22,4 +21,4 @@ Studio 338 is a music venue in London listed on soundcheck. 9 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

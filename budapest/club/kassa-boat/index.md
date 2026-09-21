@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Paul Traeumer" on Thu, 24 Sept 2026.
+Kassa Boat is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Paul Traeumer" on Thu, 24 Sept 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Akác, Bug (1), DJ Budai and Dj Cvntface and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -21,4 +21,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

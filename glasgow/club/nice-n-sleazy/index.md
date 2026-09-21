@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "OLD SCHOOL JUNGLE / DNB RAVE - FRESHERS" on Sun, 20 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Possibly Jamie: Did It All For You" on Mon, 21 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Angel Negrin, Casual Look, elcammgguod and ITEM9 and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Angel Negrin, Casual Look, elcammgguod and ITEM9 and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | OLD SCHOOL JUNGLE / DNB RAVE - FRESHERS | Maskka, Mellin |
 | Mon, 21 Sept 2026 | Possibly Jamie: Did It All For You |  |
 | Thu, 24 Sept 2026 | Great Grooves Better People |  |
 | Fri, 25 Sept 2026 | DUURTY TECHNO |  |
@@ -18,9 +17,10 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs
 | Sat, 3 Oct 2026 | Techno Culture |  |
 | Sun, 4 Oct 2026 | CTC x 333: Elcammgguod | elcammgguod |
 | Wed, 7 Oct 2026 | LOLITE x TECHNO CULTURE |  |
+| Sat, 10 Oct 2026 | Finesse: Ángel Negrín | Angel Negrin, ITEM9, SunēX, TiLA |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

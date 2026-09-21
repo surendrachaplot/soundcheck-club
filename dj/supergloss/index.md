@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Cité Fertile, Paris on Sun, 20 Sept 2026.
+Supergloss is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
 
-Supergloss is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: La Cité Fertile, Paris on Sun 20 Sept.
+Supergloss is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | La Cité Fertile | Paris |
 | Sat, 26 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 2 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 4 Oct 2026 | Kømplex Lisbon | Lisbon |
@@ -23,6 +22,7 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 213 sets lo
 
 ## Recently played
 
+- La Cité Fertile, Paris — Sun, 20 Sept 2026
 - FOLD, London — Sat, 19 Sept 2026
 - 888 Garage, San Francisco/Oakland — Sun, 13 Sept 2026
 - Avalon Hollywood, Los Angeles — Sat, 12 Sept 2026
@@ -30,10 +30,9 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 213 sets lo
 - Industry City, New York City — Sat, 5 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - fi, Cologne — Sat, 15 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

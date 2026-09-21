@@ -1,6 +1,6 @@
 # Antwerp Expo
 
-Antwerp Expo is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Andromedik Invites - The Final Edition" on Fri, 30 Oct 2026.
+Antwerp Expo is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Andromedik Invites - The Final Edition" on Fri, 30 Oct 2026.
 
 Antwerp Expo is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Andromedik, CHRIS STASSY, Koven and Licia and 2 more. Browse upcoming dates, start times and who's playing. Jan van Rijswijcklaan 191, 2020 Antwerpen, Belgium.
 
@@ -15,4 +15,4 @@ Antwerp Expo is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, 
 
 Jan van Rijswijcklaan 191, 2020 Antwerpen, Belgium, Antwerp
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/antwerp-expo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/antwerp-expo/)*

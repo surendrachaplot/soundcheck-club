@@ -1,6 +1,6 @@
 # Columbiahalle
 
-Columbiahalle is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Verschoben: KitschKrieg" on Fri, 25 Sept 2026.
+Columbiahalle is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Verschoben: KitschKrieg" on Fri, 25 Sept 2026.
 
 Columbiahalle is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Columbiadamm 13-21, 10965 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Columbiahalle is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. 
 
 Columbiadamm 13-21, 10965 Berlin, Germany, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbiahalle/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/columbiahalle/)*

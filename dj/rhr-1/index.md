@@ -1,14 +1,13 @@
 # RHR
 
-RHR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+RHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Milkys, Los Angeles on Fri, 25 Sept 2026.
 
-RHR is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 34 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+RHR is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 34 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Milkys, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | Milkys | Los Angeles |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
@@ -28,4 +27,4 @@ RHR is a techno and house artist tracked on soundcheck, with 113 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

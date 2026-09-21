@@ -1,6 +1,6 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "TonyDeepDisco" on Wed, 23 Sept 2026.
+MAD Radio NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "TonyDeepDisco" on Wed, 23 Sept 2026.
 
 MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including Benny Soto, Elie, LegenDari and Nickodemus and 2 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
@@ -18,4 +18,4 @@ MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 5 upcoming g
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

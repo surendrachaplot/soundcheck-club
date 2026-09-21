@@ -1,6 +1,6 @@
 # Eizu 映図
 
-Eizu 映図 is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Temp., Bangkok on Thu, 24 Sept 2026.
+Eizu 映図 is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Temp., Bangkok on Thu, 24 Sept 2026.
 
 Eizu 映図 is a techno and electronica artist based in Thailand, tracked on soundcheck, with 13 sets logged across Bangkok. Often billed alongside Mayuu, DJ Krit Morton and SOR.. Next up: Bar Temp., Bangkok on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Eizu 映図 is a techno and electronica artist based in Thailand, tracked on sou
 
 Mayuu, DJ Krit Morton, SOR.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eizu-th/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eizu-th/)*

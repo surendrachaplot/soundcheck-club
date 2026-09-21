@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Studio Club Invites: Funk Tribu" on Fri, 25 Sept 2026.
+Studio Club Malaga is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Studio Club Invites: Funk Tribu" on Fri, 25 Sept 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, Alinka, Âme and Axel Boman and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -20,4 +20,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming g
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

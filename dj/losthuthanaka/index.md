@@ -1,14 +1,13 @@
 # Los Thuthanaka
 
-Los Thuthanaka is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Los Thuthanaka is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Pearl, Vancouver on Mon, 5 Oct 2026.
 
-Los Thuthanaka is an experimental and electronica artist tracked on soundcheck, with 5 sets logged across Austin, Oslo, Philadelphia and Utrecht and 1 more. Often billed alongside Eris Drew, Hervé and Introspekt. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Los Thuthanaka is an experimental and electronica artist tracked on soundcheck, with 5 sets logged across Austin, Oslo, Philadelphia and Utrecht and 1 more. Often billed alongside Eris Drew, Hervé and Introspekt. Next up: The Pearl, Vancouver on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Mon, 5 Oct 2026 | The Pearl | Vancouver |
 | Fri, 30 Oct 2026 | Blå | Oslo |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
@@ -22,4 +21,4 @@ Los Thuthanaka is an experimental and electronica artist tracked on soundcheck, 
 
 Eris Drew, Hervé, Introspekt
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losthuthanaka/)*

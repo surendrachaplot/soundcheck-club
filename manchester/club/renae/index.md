@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "renae: Stereo Master presents Disco Demolition" on Sun, 20 Sept 2026.
+renae is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Chorus Social 007: skywalka // Linnemann // April // Esmé" on Fri, 25 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including April (UK), Chunky, cuci cuci coo and Esmé and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including April (UK), Chunky, cuci cuci coo and Esmé and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | renae: Stereo Master presents Disco Demolition |  |
 | Fri, 25 Sept 2026 | Chorus Social 007: skywalka // Linnemann // April // Esmé | April (UK), Esmé, Linnemann, cuci cuci coo, skywalka |
 | Sat, 26 Sept 2026 | 𖦹 Sybil (All Night Long) at TOPP 𖦹 | Sybil |
 | Sun, 27 Sept 2026 | renae x Saturama presents room to: bathe | Werkha |
@@ -22,4 +21,4 @@ renae is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

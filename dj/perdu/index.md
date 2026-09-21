@@ -1,6 +1,6 @@
 # Perdu
 
-Perdu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Panic Room, Paris on Fri, 25 Sept 2026.
+Perdu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Panic Room, Paris on Fri, 25 Sept 2026.
 
 Perdu is a house and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam, London, Madrid and Paris and 2 more. Often billed alongside BELLA (NL), Benny Rodrigues and De Sluwe Vos. Next up: Panic Room, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Perdu is a house and techno artist tracked on soundcheck, with 24 sets logged ac
 
 BELLA (NL), Benny Rodrigues, De Sluwe Vos
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perdu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perdu/)*

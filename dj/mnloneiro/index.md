@@ -1,14 +1,13 @@
 # Mnl Oneiro
 
-Mnl Oneiro is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+Mnl Oneiro is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Masada, Milan on Sat, 3 Oct 2026.
 
-Mnl Oneiro is an experimental and ambient artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Basel, Milan and Zurich. Often billed alongside Arutani, Atrice and BLUME. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+Mnl Oneiro is an experimental and ambient artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Basel, Milan and Zurich. Often billed alongside Arutani, Atrice and BLUME. Next up: Masada, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Sat, 3 Oct 2026 | Masada | Milan |
 
 ## Recently played
@@ -21,4 +20,4 @@ Mnl Oneiro is an experimental and ambient artist based in Switzerland, tracked o
 
 Arutani, Atrice, BLUME
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnloneiro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnloneiro/)*

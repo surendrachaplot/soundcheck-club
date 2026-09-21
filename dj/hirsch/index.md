@@ -1,6 +1,6 @@
 # HIRSCH
 
-HIRSCH is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Black Lacquer, London on Sat, 26 Sept 2026.
+HIRSCH is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Black Lacquer, London on Sat, 26 Sept 2026.
 
 HIRSCH is an afro house and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside D.X.D, D1 x Samir (DVS) and Hendrix. Next up: Black Lacquer, London on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ HIRSCH is an afro house and tech house artist based in United Kingdom, tracked o
 
 D.X.D, D1 x Samir (DVS), Hendrix
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirsch/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirsch/)*

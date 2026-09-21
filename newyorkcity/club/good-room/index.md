@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund" on Thu, 24 Sept 2026.
+Good Room is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund" on Thu, 24 Sept 2026.
 
 Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming gigs, with line-ups including adobeprincess, Adrian Hex, A lana and Arina Krondeva and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 13 upcoming gigs
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

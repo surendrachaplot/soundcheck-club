@@ -1,6 +1,6 @@
 # *asuro
 
-*asuro is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 10 Oct 2026.
+*asuro is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Chika-Ikkai, Osaka on Sat, 10 Oct 2026.
 
 *asuro is a techno and bass artist tracked on soundcheck, with 2 sets logged across Osaka. Often billed alongside Ling Yao, Kombé and Lisa Mizuno. Next up: Chika-Ikkai, Osaka on Sat 10 Oct.
 
@@ -18,4 +18,4 @@
 
 Ling Yao, Kombé, Lisa Mizuno
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asuro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asuro/)*

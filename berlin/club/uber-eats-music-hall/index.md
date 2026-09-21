@@ -1,6 +1,6 @@
 # Uber Eats Music Hall
 
-Uber Eats Music Hall is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Amelie Lens presents AURA " on Fri, 2 Oct 2026.
+Uber Eats Music Hall is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Amelie Lens presents AURA " on Fri, 2 Oct 2026.
 
 Uber Eats Music Hall is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Akua, Amelie Lens, Arlo Parks and Nia Archives and 2 more. Browse upcoming dates, start times and who's playing. Uber Platz 2, 10243 Berlin.
 
@@ -18,4 +18,4 @@ Uber Eats Music Hall is a music venue in Berlin listed on soundcheck. 5 upcoming
 
 Uber Platz 2, 10243 Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/uber-eats-music-hall/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/uber-eats-music-hall/)*

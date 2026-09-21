@@ -1,6 +1,6 @@
 # whatever51
 
-whatever51 is a Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
+whatever51 is a Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
 
 whatever51 is a bass artist tracked on soundcheck, with 3 sets logged across Paris and Strasbourg. Often billed alongside Brodinski, 0neo and 1LDK. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ whatever51 is a bass artist tracked on soundcheck, with 3 sets logged across Par
 
 Brodinski, 0neo, 1LDK
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatever51/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatever51/)*

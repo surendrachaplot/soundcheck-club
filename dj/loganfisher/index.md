@@ -1,6 +1,6 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Omeara, London on Sat, 10 Oct 2026.
+Logan Fisher is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Omeara, London on Sat, 10 Oct 2026.
 
 Logan Fisher is a house and acid artist tracked on soundcheck, with 26 sets logged across Athens, Birmingham, Brighton and Bucharest and 6 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: Omeara, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Logan Fisher is a house and acid artist tracked on soundcheck, with 26 sets logg
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

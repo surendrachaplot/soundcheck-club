@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ZEPTER" on Thu, 24 Sept 2026.
+Sameheads is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ZEPTER" on Thu, 24 Sept 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including ALF CHAMPION, André Pahl, Anna Wall and Caillou and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -22,4 +22,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

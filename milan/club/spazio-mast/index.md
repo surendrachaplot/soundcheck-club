@@ -1,6 +1,6 @@
 # Spazio Mast
 
-Spazio Mast is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "CALL FOR DECKS" on Fri, 25 Sept 2026.
+Spazio Mast is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "CALL FOR DECKS" on Fri, 25 Sept 2026.
 
 Spazio Mast is a music venue in Milan listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Via S. Martino, 22, 20017 Rho MI, Italy.
 
@@ -14,4 +14,4 @@ Spazio Mast is a music venue in Milan listed on soundcheck. 1 upcoming gig. Brow
 
 Via S. Martino, 22, 20017 Rho MI, Italy, Milan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-mast/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-mast/)*

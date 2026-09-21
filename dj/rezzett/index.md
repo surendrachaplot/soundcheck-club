@@ -1,6 +1,6 @@
 # Rezzett
 
-Rezzett is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Rezzett is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
 Rezzett is an experimental and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside John T. Gast, Josey Rebelle and Grady Steele. Next up: Ormside Projects, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Rezzett is an experimental and house artist based in United Kingdom, tracked on 
 
 John T. Gast, Josey Rebelle, Grady Steele
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezzett/)*

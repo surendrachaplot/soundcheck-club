@@ -1,6 +1,6 @@
 # DJ Aleksi
 
-DJ Aleksi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
+DJ Aleksi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kaiku, Helsinki on Sat, 26 Sept 2026.
 
 DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, with 56 sets logged across Amsterdam, Copenhagen, Helsinki and Prague and 2 more. Often billed alongside Handshaking, HiToshi and Humanoid Target Practice. Next up: Kaiku, Helsinki on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, 
 
 Handshaking, HiToshi, Humanoid Target Practice
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*

@@ -1,6 +1,6 @@
 # EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines
 
-EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Sat 26 Sept, Paris. 8 acts on the bill: Bambii, Broodoo Ramses, Crystallmess and Jay Mitta and 4 more. Preview the line-up and save it on soundcheck.
+EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Sat 26 Sept, Paris. 9 acts on the bill: Bambii, Broodoo Ramses, Crystallmess and Feadz and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ EDGING (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare 
 - Bambii
 - Broodoo Ramses
 - Crystallmess
+- Feadz
 - Jay Mitta
 - Lancer (2)
 - Loraine James

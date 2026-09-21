@@ -1,14 +1,13 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vrachon Theater, Athens on Sun, 20 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Button Factory, Dublin on Sat, 26 Sept 2026.
 
-Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Actress, Logic1000 and Nicola Cruz. Next up: Vrachon Theater, Athens on Sun 20 Sept.
+Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Actress, Logic1000 and Nicola Cruz. Next up: Button Factory, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Vrachon Theater | Athens |
 | Sat, 26 Sept 2026 | Button Factory | Dublin |
 | Sat, 3 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
@@ -18,6 +17,7 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 se
 
 ## Recently played
 
+- Vrachon Theater, Athens — Sun, 20 Sept 2026
 - Rex Club, Paris — Fri, 18 Sept 2026
 - Else, Berlin — Fri, 4 Sept 2026
 - Haus der Visionäre, Berlin — Fri, 24 Jul 2026
@@ -25,10 +25,9 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 se
 - Belasco Theater, Los Angeles — Sat, 18 Jul 2026
 - Gray Area, San Francisco/Oakland — Fri, 17 Jul 2026
 - Gray Area, San Francisco/Oakland — Thu, 16 Jul 2026
-- BERHTA, Washington DC — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Actress, Logic1000, Nicola Cruz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

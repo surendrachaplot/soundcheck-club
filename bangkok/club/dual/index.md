@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DUAL 25.09" on Fri, 25 Sept 2026.
+Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DUAL 25.09" on Fri, 25 Sept 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including DJ TADA, DOTT, DZ GAS and Gaspray and 2 more. Browse upcoming dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -20,4 +20,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with lin
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

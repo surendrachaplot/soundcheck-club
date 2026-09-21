@@ -1,6 +1,6 @@
 # Gabriel Belabbas
 
-Gabriel Belabbas is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Gabriel Belabbas is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Charlotte (FR). Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 64 se
 
 Poggio, Massaï, Charlotte (FR)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*

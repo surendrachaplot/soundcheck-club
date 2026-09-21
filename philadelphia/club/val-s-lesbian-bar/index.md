@@ -1,6 +1,6 @@
 # Val’s Lesbian Bar
 
-Val’s Lesbian Bar is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "GUSH" on Fri, 25 Sept 2026.
+Val’s Lesbian Bar is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GUSH" on Fri, 25 Sept 2026.
 
 Val’s Lesbian Bar is a music venue in Philadelphia listed on soundcheck. 4 upcoming gigs, with line-ups including America Loves Me, Callaia, diy.ffs and Malzof and 2 more. Browse upcoming dates, start times and who's playing. 605 S 3rd Street, Philadelphia, PA 19147, USA.
 
@@ -17,4 +17,4 @@ Val’s Lesbian Bar is a music venue in Philadelphia listed on soundcheck. 4 upc
 
 605 S 3rd Street, Philadelphia, PA 19147, USA, Philadelphia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/val-s-lesbian-bar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/val-s-lesbian-bar/)*

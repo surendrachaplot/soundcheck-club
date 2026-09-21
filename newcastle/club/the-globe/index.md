@@ -1,6 +1,6 @@
 # The Globe
 
-The Globe is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Seriously Uplifting 8" on Sat, 31 Oct 2026.
+The Globe is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Seriously Uplifting 8" on Sat, 31 Oct 2026.
 
 The Globe is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, with line-ups including Amos and James Cottle. Browse upcoming dates, start times and who's playing. 11 Railway Street; Newcastle Upon Tyne; Tyne And Wear; NE4 7AD; United Kingdom.
 
@@ -14,4 +14,4 @@ The Globe is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, wi
 
 11 Railway Street; Newcastle Upon Tyne; Tyne And Wear; NE4 7AD; United Kingdom, Newcastle
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-globe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-globe/)*

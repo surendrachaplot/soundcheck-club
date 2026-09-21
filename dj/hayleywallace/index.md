@@ -1,6 +1,6 @@
 # Hayley Wallace
 
-Hayley Wallace is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
+Hayley Wallace is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Two More Years, London on Sat, 10 Oct 2026.
 
 Hayley Wallace is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Ibiza and London. Often billed alongside S_STEELE, Bongo Ben and Darrell Privett. Next up: Two More Years, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hayley Wallace is a house and tech house artist based in United Kingdom, tracked
 
 S_STEELE, Bongo Ben, Darrell Privett
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleywallace/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleywallace/)*

@@ -1,6 +1,6 @@
 # Rico Casazza
 
-Rico Casazza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+Rico Casazza is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 Rico Casazza is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, London and Prague. Often billed alongside Thomas Tesla, Täino and Icarian PB1. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Rico Casazza is a techno and house artist based in United Kingdom, tracked on so
 
 Thomas Tesla, Täino, Icarian PB1
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricocasazza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricocasazza/)*

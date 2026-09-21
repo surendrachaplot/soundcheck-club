@@ -1,14 +1,13 @@
 # Socrates
 
-Socrates is a music venue in Kyoto with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "しげてつナイト 京都出張編 -THE COMEBACK STORY UZI -" on Sun, 20 Sept 2026.
+Socrates is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "KARASU KILLER INFERNO Vol.91" on Wed, 30 Sept 2026.
 
-Socrates is a music venue in Kyoto listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 447-14 Kajiicho, Kamigyo-ku, Kyoto-shi, Kyoto, 602-0841 Japan.
+Socrates is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 447-14 Kajiicho, Kamigyo-ku, Kyoto-shi, Kyoto, 602-0841 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | しげてつナイト 京都出張編 -THE COMEBACK STORY UZI - |  |
 | Wed, 30 Sept 2026 | KARASU KILLER INFERNO Vol.91 |  |
 | Wed, 14 Oct 2026 | 暴動#16 |  |
 | Fri, 11 Dec 2026 | 新年会GIG 2026 |  |
@@ -17,4 +16,4 @@ Socrates is a music venue in Kyoto listed on soundcheck. 4 upcoming gigs. Browse
 
 447-14 Kajiicho, Kamigyo-ku, Kyoto-shi, Kyoto, 602-0841 Japan, Kyoto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/socrates/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/socrates/)*

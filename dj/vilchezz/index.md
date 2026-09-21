@@ -1,6 +1,6 @@
 # Vilchezz
 
-Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+Vilchezz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
 
 Vilchezz is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside BENZA, Grace Dahl and NDSTPS. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Vilchezz is a techno and house artist tracked on soundcheck, with 42 sets logged
 
 BENZA, Grace Dahl, NDSTPS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilchezz/)*

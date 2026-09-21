@@ -1,6 +1,6 @@
 # ifax!
 
-ifax! is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
+ifax! is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
 
 ifax! is a house and techno artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside Sunga, COGEE and kengotaki. Next up: Aoyama Hachi, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ ifax! is a house and techno artist based in Japan, tracked on soundcheck, with 2
 
 Sunga, COGEE, kengotaki
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ifax/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ifax/)*

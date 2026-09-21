@@ -1,6 +1,6 @@
 # Glob
 
-Glob is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Carl Stone (JP) / Pablo Arrangoiz (FL) / Free Music (MN) / DJ Ladybug" on Wed, 14 Oct 2026.
+Glob is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Carl Stone (JP) / Pablo Arrangoiz (FL) / Free Music (MN) / DJ Ladybug" on Wed, 14 Oct 2026.
 
 Glob is a music venue in Denver listed on soundcheck. 3 upcoming gigs, with line-ups including A1C3, Carl Stone, DJ Strawberry and Libuše. Browse upcoming dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
 
@@ -16,4 +16,4 @@ Glob is a music venue in Denver listed on soundcheck. 3 upcoming gigs, with line
 
 3551 Brighton Blvd, Denver, CO 80216, United States, Denver
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*

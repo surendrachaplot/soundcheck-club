@@ -1,6 +1,6 @@
 # Cas Tang
 
-Cas Tang is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
+Cas Tang is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
 Cas Tang is a house and tech house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Lasse Top, A'DAM and Gabriel Muñoz. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Cas Tang is a house and tech house artist based in Netherlands, tracked on sound
 
 Lasse Top, A'DAM, Gabriel Muñoz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/castang/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/castang/)*

@@ -1,14 +1,13 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SWING pres. Nic Fanciulli" on Sun, 20 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MUTE pres Joris Voorn + Fedele + Bob Tosh" on Sat, 26 Sept 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | SWING pres. Nic Fanciulli | BizZa, DIROS, Nic Fanciulli, Rendher |
 | Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Fedele + Bob Tosh | Bob Tosh, Fedele, Joris Voorn |
 | Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros, Tom Banner |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
@@ -18,9 +17,10 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upco
 | Sat, 17 Oct 2026 | INPUT x HOT CREATIONS w/ Patrick Topping + Richy Ahmed + Rossko | Max Haas, Patrick Topping, Richy Ahmed, Rossko |
 | Sat, 17 Oct 2026 | PEOPLE | Couce |
 | Sat, 17 Oct 2026 | People | Couce |
+| Sun, 18 Oct 2026 | HUMANOS x NOM pres. Mariano Mellino | Belu Rodriguez, Mariano Mellino, Noncitizens |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

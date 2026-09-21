@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS ☆ KINKY DISCO ☆ T.B.A" on Sat, 26 Sept 2026.
+Eventhuset is a music venue in Stockholm with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS WOOD ☆ KINKY DISCO ☆ T.B.A" on Sat, 26 Sept 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Godfather, DJ KILLING, DJ Hell and LOLSNAKE and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -8,7 +8,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS ☆ KINKY DISCO ☆ T.B.A | DJ Hell, DJ KILLING, MERILIN, Nina Michelle, Skankstasy |
+| Sat, 26 Sept 2026 | DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS WOOD ☆ KINKY DISCO ☆ T.B.A | DJ Hell, DJ KILLING, MERILIN, Nina Michelle, Skankstasy |
 | Sat, 3 Oct 2026 | Skankstasy ☆ MAKODE LINDE ☆ DJ KILLING ☆ BASEMENT BOYS | DJ KILLING, Skankstasy |
 | Sat, 10 Oct 2026 | DJ Godfather >> Psykoterapi at BRONX Stockholm - 10 OCT 2026 | DJ Godfather, Psykoterapi |
 | Sat, 24 Oct 2026 | x3butterfly a Mexican/American DJ and producer from Detroit | x3butterfly |
@@ -18,4 +18,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming gigs, 
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

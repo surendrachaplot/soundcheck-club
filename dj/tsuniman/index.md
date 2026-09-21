@@ -1,14 +1,13 @@
 # TSUNIMAN
 
-TSUNIMAN is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+TSUNIMAN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Autumn Three, London on Thu, 8 Oct 2026.
 
-TSUNIMAN is a techno and trance artist tracked on soundcheck, with 108 sets logged across Basel, Berlin, Bristol and Brussels and 13 more. Often billed alongside Tash LC, Avsluta and HAAi. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+TSUNIMAN is a techno and trance artist tracked on soundcheck, with 108 sets logged across Basel, Berlin, Bristol and Brussels and 13 more. Often billed alongside Tash LC, Avsluta and HAAi. Next up: Autumn Three, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Thu, 8 Oct 2026 | Autumn Three | London |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 16 Oct 2026 | Tresor / Globus | Berlin |
@@ -28,4 +27,4 @@ TSUNIMAN is a techno and trance artist tracked on soundcheck, with 108 sets logg
 
 Tash LC, Avsluta, HAAi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*

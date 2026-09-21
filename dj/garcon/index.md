@@ -1,14 +1,13 @@
 # Garçon
 
-Garçon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Garçon is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
 
-Garçon is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Garçon is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Ankali & Planeta Za, Prague on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sun, 11 Oct 2026 | LAUT | Barcelona |
 | Sat, 17 Oct 2026 | essaim | Paris |
@@ -30,4 +29,4 @@ Garçon is a techno and house artist tracked on soundcheck, with 86 sets logged 
 
 Agonis, Timnah, Konduku
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

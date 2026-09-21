@@ -1,18 +1,18 @@
 # Giovannii
 
-Giovannii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 20 Sept 2026.
+Giovannii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at telos.haus, New York City on Sun, 11 Oct 2026.
 
-Giovannii is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Will Jack, Sevyn Love and DJ DEADNAME. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 20 Sept.
+Giovannii is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Will Jack, Sevyn Love and DJ DEADNAME. Next up: telos.haus, Newyorkcity on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Sun, 11 Oct 2026 | telos.haus | New York City |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City — Sun, 20 Sept 2026
 - Bossa Nova Civic Club, New York City — Sun, 9 Aug 2026
 - Paragon, New York City — Thu, 23 Jul 2026
 - Happyfun Hideaway, New York City — Wed, 24 Jun 2026
@@ -20,10 +20,9 @@ Giovannii is a techno and house artist based in United States of America, tracke
 - Bossa Nova Civic Club, New York City — Sun, 31 May 2026
 - TBA - REIN Studios, New York City — Sun, 18 Jan 2026
 - Bossa Nova Civic Club, New York City — Mon, 5 Jan 2026
-- Paragon, New York City — Fri, 2 Jan 2026
 
 ## Shares bills with
 
 Will Jack, Sevyn Love, DJ DEADNAME
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannii/)*

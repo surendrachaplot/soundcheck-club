@@ -1,6 +1,6 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
+Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
 
 Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Good Room, Newyorkcity on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 150 se
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

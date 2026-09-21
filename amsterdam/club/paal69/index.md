@@ -1,6 +1,6 @@
 # Paal69
 
-Paal69 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Paal69 Closing Weekend (Friday)" on Fri, 25 Sept 2026.
+Paal69 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Paal69 Closing Weekend (Friday)" on Fri, 25 Sept 2026.
 
 Paal69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Alexander Koning, Lucien Foort, Marcello (2) and ROOG and 1 more. Browse upcoming dates, start times and who's playing. South Beach, Zandvoort, Netherlands.
 
@@ -16,4 +16,4 @@ Paal69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with
 
 South Beach, Zandvoort, Netherlands, Amsterdam
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paal69/)*

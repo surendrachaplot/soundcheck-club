@@ -1,6 +1,6 @@
 # Unpin
 
-Unpin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
+Unpin is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
 
 Unpin is a techno and bass artist tracked on soundcheck, with 15 sets logged across Sydney. Often billed alongside D-Grade, anusha and Alilia. Next up: TBA, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Unpin is a techno and bass artist tracked on soundcheck, with 15 sets logged acr
 
 D-Grade, anusha, Alilia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unpin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unpin/)*

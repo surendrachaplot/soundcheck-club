@@ -1,14 +1,13 @@
 # Afriqua
 
-Afriqua is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Apophis Club, Milan on Fri, 2 Oct 2026.
 
-Afriqua is a house and techno artist tracked on soundcheck, with 52 sets logged across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Afriqua is a house and techno artist tracked on soundcheck, with 52 sets logged across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: Apophis Club, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Apophis Club | Milan |
 | Sat, 21 Nov 2026 | Palazzo Permanens | Budapest |
 
@@ -27,4 +26,4 @@ Afriqua is a house and techno artist tracked on soundcheck, with 52 sets logged 
 
 Lubelski, Ardalan, Club Tularosa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*

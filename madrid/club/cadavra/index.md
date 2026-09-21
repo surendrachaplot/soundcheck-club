@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Anika Kunst at ANFANG / 1 YEAR" on Thu, 24 Sept 2026.
+Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Anika Kunst at ANFANG / 1 YEAR" on Thu, 24 Sept 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including 2garlics, Agulla, Alvaro Cabana and Andy Martin and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

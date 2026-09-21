@@ -1,6 +1,6 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Drumcode Athens  I Sat Sep 26" on Sat, 26 Sept 2026.
+Bolivar Beach Bar is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Drumcode Athens  I Sat Sep 26" on Sat, 26 Sept 2026.
 
 Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Adam Beyer, Ajja, Brina Knauss and Ilario Alicante and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
@@ -16,4 +16,4 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 3 upcoming gi
 
 Posidonos Avenue, Alimos, Athens, Athens
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*

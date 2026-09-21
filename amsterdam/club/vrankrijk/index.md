@@ -1,6 +1,6 @@
 # Vrankrijk
 
-Vrankrijk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "DARK EXPRESSIONS" on Sat, 24 Oct 2026.
+Vrankrijk is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "DARK EXPRESSIONS" on Sat, 24 Oct 2026.
 
 Vrankrijk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Feralia Planitia and Unpronounceable. Browse upcoming dates, start times and who's playing. Spuistraat 216, Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Vrankrijk is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wi
 
 Spuistraat 216, Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vrankrijk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vrankrijk/)*

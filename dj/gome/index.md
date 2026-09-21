@@ -1,6 +1,6 @@
 # GOME
 
-GOME is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
+GOME is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sacré, Paris on Fri, 16 Oct 2026.
 
 GOME is a house and disco artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside LOVEFOXY, Cinthie and Jean Mauj. Next up: Sacré, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ GOME is a house and disco artist tracked on soundcheck, with 86 sets logged acro
 
 LOVEFOXY, Cinthie, Jean Mauj
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gome/)*

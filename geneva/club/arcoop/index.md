@@ -1,6 +1,6 @@
 # Arcoop
 
-Arcoop is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Blue Electricity" on Sat, 26 Sept 2026.
+Arcoop is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Blue Electricity" on Sat, 26 Sept 2026.
 
 Arcoop is a music venue in Geneva listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Arcoop is a music venue in Geneva listed on soundcheck. 1 upcoming gig. Browse u
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Blue Electricity |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/arcoop/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/arcoop/)*

@@ -1,6 +1,6 @@
 # Big Animal Theory
 
-Big Animal Theory is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
+Big Animal Theory is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Forestlimit, Tokyo on Sat, 10 Oct 2026.
 
 Big Animal Theory is a bass and house artist tracked on soundcheck, with 36 sets logged across London, Osaka and Tokyo. Often billed alongside okadada, Gen Yamada and George Bolton. Next up: Forestlimit, Tokyo on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Big Animal Theory is a bass and house artist tracked on soundcheck, with 36 sets
 
 okadada, Gen Yamada, George Bolton
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*

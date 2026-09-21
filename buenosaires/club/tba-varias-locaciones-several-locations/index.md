@@ -1,6 +1,6 @@
 # TBA - Varias Locaciones / Several Locations
 
-TBA - Varias Locaciones / Several Locations is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "MUTEK.AR EDICIÓN 8" on Wed, 7 Oct 2026.
+TBA - Varias Locaciones / Several Locations is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "MUTEK.AR EDICIÓN 8" on Wed, 7 Oct 2026.
 
 TBA - Varias Locaciones / Several Locations is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Varias Locaciones / Several Locations is a music venue in Buenosaires list
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | MUTEK.AR EDICIÓN 8 |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-varias-locaciones-several-locations/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-varias-locaciones-several-locations/)*

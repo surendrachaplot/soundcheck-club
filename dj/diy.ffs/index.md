@@ -1,6 +1,6 @@
 # diy.ffs
 
-diy.ffs is a Breakcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
+diy.ffs is a Breakcore and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
 
 diy.ffs is a breakcore and electronica artist based in United States of America, tracked on soundcheck, with 3 sets logged across Philadelphia. Often billed alongside America Loves Me, Callaia and DJ Delish. Next up: Val’s Lesbian Bar, Philadelphia on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ diy.ffs is a breakcore and electronica artist based in United States of America,
 
 America Loves Me, Callaia, DJ Delish
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*

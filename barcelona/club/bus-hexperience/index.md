@@ -1,14 +1,13 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "OPEN AIR // Bus Hexperience" on Sun, 20 Sept 2026.
+BUS Hexperience is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "OPEN AIR // Lenn B" on Thu, 24 Sept 2026.
 
-BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including PINI and Victor Hugo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
+BUS Hexperience is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including PINI and Victor Hugo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | OPEN AIR // Bus Hexperience |  |
 | Thu, 24 Sept 2026 | OPEN AIR // Lenn B |  |
 | Sun, 27 Sept 2026 | Electrostad: FREE OPEN AIR PARTY with PINI, Victor Hugo & friends | PINI, Victor Hugo |
 | Sat, 10 Oct 2026 | BPM RUSH - Workout x Techno Open Air |  |
@@ -17,4 +16,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 4 upcoming g
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Old Blue Last, London on Thu, 24 Sept 2026.
+Craig Richards is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Old Blue Last, London on Thu, 24 Sept 2026.
 
 Craig Richards is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: The Old Blue Last, London on Thu 24 Sept.
 
@@ -30,4 +30,4 @@ Craig Richards is a house and techno artist tracked on soundcheck, with 156 sets
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

@@ -1,6 +1,6 @@
 # JONE OF ARX
 
-JONE OF ARX is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+JONE OF ARX is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 JONE OF ARX is a techno and latin bass artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 2 more. Often billed alongside TEDESCO, Ivicore and LOVECAT. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ JONE OF ARX is a techno and latin bass artist tracked on soundcheck, with 49 set
 
 TEDESCO, Ivicore, LOVECAT
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joneofarx/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joneofarx/)*

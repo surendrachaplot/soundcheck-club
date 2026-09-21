@@ -1,6 +1,6 @@
 # Maelita
 
-Maelita is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Poly, Lyon on Sat, 24 Oct 2026.
+Maelita is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Poly, Lyon on Sat, 24 Oct 2026.
 
 Maelita is a techno and bass artist based in France, tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Glasgow and Lyon and 4 more. Often billed alongside Subsism, Lumbago and Hyas. Next up: Poly, Lyon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Maelita is a techno and bass artist based in France, tracked on soundcheck, with
 
 Subsism, Lumbago, Hyas
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelita/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelita/)*

@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "JASNA 4 ALL OPEN DECKS - FREE ENTRY" on Thu, 24 Sept 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "JASNA 4 ALL OPEN DECKS - FREE ENTRY" on Thu, 24 Sept 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with line-ups including 999999999, Aii PS, Akua and Altinbas and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

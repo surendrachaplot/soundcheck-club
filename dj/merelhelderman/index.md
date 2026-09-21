@@ -1,6 +1,6 @@
 # Merel Helderman
 
-Merel Helderman is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
+Merel Helderman is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
 
 Merel Helderman is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Melbourne and Thehague and 1 more. Often billed alongside Benny Rodrigues, Boris Coelman and Moody Mehran. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
 
@@ -33,4 +33,4 @@ Merel Helderman is a house and techno artist tracked on soundcheck, with 74 sets
 
 Benny Rodrigues, Boris Coelman, Moody Mehran
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merelhelderman/)*

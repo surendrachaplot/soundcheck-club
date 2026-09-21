@@ -1,8 +1,8 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
+Mochakk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
 
-Mochakk is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Gallagher Square, Sandiego on Thu 24 Sept.
+Mochakk is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Gallagher Square, Sandiego on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mochakk is a house and tech house artist tracked on soundcheck, with 156 sets lo
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

@@ -1,6 +1,6 @@
 # Rhiz
 
-Rhiz is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LICCHT w/ PHAL:ANGST (A) - Album Präsentation Minor Tremors, GEBENEDEIT (A)" on Fri, 25 Sept 2026.
+Rhiz is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LICCHT w/ PHAL:ANGST (A) - Album Präsentation Minor Tremors, GEBENEDEIT (A)" on Fri, 25 Sept 2026.
 
 Rhiz is a music venue in Vienna listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
 
@@ -16,4 +16,4 @@ Rhiz is a music venue in Vienna listed on soundcheck. 3 upcoming gigs. Browse up
 
 U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080, Vienna
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*

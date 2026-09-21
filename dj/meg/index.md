@@ -1,6 +1,6 @@
 # Meg
 
-Meg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Socore Factory, Osaka on Sat, 3 Oct 2026.
+Meg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Socore Factory, Osaka on Sat, 3 Oct 2026.
 
 Meg is a techno and house artist tracked on soundcheck, with 3 sets logged across Krakow, Osaka and Warsaw. Often billed alongside Angelo Mike, Catz 'N Dogz and Junki Akutagawa. Next up: Socore Factory, Osaka on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Meg is a techno and house artist tracked on soundcheck, with 3 sets logged acros
 
 Angelo Mike, Catz 'N Dogz, Junki Akutagawa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meg/)*

@@ -1,14 +1,13 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Mia Cecille is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Loods 12, Amsterdam on Fri, 25 Sept 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K (1), Daan Donk and 42nd Avenue. Next up: Shunter, Rotterdam on Fri 18 Sept.
+Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K (1), Daan Donk and 42nd Avenue. Next up: Loods 12, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Shunter | Rotterdam |
 | Fri, 25 Sept 2026 | Loods 12 | Amsterdam |
 | Sat, 3 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
@@ -28,4 +27,4 @@ Mia Cecille is a house and techno artist based in Netherlands, tracked on soundc
 
 Marie K (1), Daan Donk, 42nd Avenue
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*

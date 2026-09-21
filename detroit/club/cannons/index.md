@@ -1,6 +1,6 @@
 # Cannons
 
-Cannons is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sunset Sessions w/Andre Terrell" on Sat, 26 Sept 2026.
+Cannons is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Sunset Sessions w/Andre Terrell" on Sat, 26 Sept 2026.
 
 Cannons is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Andre Terrell. Browse upcoming dates, start times and who's playing. 15421 Mack Ave.
 
@@ -14,4 +14,4 @@ Cannons is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with l
 
 15421 Mack Ave, Detroit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/cannons/)*

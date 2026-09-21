@@ -1,6 +1,6 @@
 # IULIATSKI
 
-IULIATSKI is a Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Club Cello, Basel on Fri, 25 Sept 2026.
+IULIATSKI is a Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Cello, Basel on Fri, 25 Sept 2026.
 
 IULIATSKI is a trance artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Basel. Often billed alongside VXBZ, Bouncy Bongi and Swagchief. Next up: Club Cello, Basel on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ IULIATSKI is a trance artist based in Switzerland, tracked on soundcheck, with 3
 
 VXBZ, Bouncy Bongi, Swagchief
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*

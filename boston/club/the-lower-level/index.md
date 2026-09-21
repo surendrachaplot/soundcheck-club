@@ -1,6 +1,6 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Social Studies presents: Scott Zacharias (Detroit)" on Fri, 25 Sept 2026.
+The Lower Level is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Social Studies presents: Scott Zacharias (Detroit)" on Fri, 25 Sept 2026.
 
 The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Anthony Rother, Isi Audi, Scott Zacharias and ViV:On. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
@@ -16,4 +16,4 @@ The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming gigs
 
 55 Bishop Allen Dr, Cambridge, MA 02139, USA, Boston
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*

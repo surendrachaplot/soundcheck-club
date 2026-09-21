@@ -1,6 +1,6 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
+Emma 2000 is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
 
 Emma 2000 is a house and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Julian Fijma. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Emma 2000 is a house and tech house artist tracked on soundcheck, with 27 sets l
 
 Joss Dean, Obskur, Julian Fijma
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

@@ -1,6 +1,6 @@
 # Stretch & Fold
 
-Stretch & Fold is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Hellogoodbye Studio Session" on Sat, 10 Oct 2026.
+Stretch & Fold is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hellogoodbye Studio Session" on Sat, 10 Oct 2026.
 
 Stretch & Fold is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stretch & Fold is a music venue in Amsterdam listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Hellogoodbye Studio Session |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/stretch-fold/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/stretch-fold/)*

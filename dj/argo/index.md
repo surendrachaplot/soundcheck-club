@@ -1,6 +1,6 @@
 # ARGO
 
-ARGO is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+ARGO is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
 ARGO is a techno and afro house artist based in Italy, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Seoul. Often billed alongside 6RAJ, Adrija and Bäggy. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ ARGO is a techno and afro house artist based in Italy, tracked on soundcheck, wi
 
 6RAJ, Adrija, Bäggy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argo/)*

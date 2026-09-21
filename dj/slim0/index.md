@@ -1,6 +1,6 @@
 # Slim0
 
-Slim0 is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ny Bastion, Copenhagen on Fri, 2 Oct 2026.
+Slim0 is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ny Bastion, Copenhagen on Fri, 2 Oct 2026.
 
 Slim0 is an ambient and experimental artist tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Afskum, DJ Nah Care and Erika de Casier. Next up: Ny Bastion, Copenhagen on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Slim0 is an ambient and experimental artist tracked on soundcheck, with 3 sets l
 
 Afskum, DJ Nah Care, Erika de Casier
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slim0/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slim0/)*

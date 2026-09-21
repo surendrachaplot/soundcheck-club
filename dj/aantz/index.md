@@ -1,14 +1,13 @@
 # aantz
 
-aantz is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+aantz is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
 
-aantz is an ambient and experimental artist based in Argentina, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Buenosaires and Dortmund-essen and 1 more. Often billed alongside O/Y, 2THEMAX and ADAM MUNNINGS. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+aantz is an ambient and experimental artist based in Argentina, tracked on soundcheck, with 12 sets logged across Basel, Berlin, Buenosaires and Dortmund-essen and 1 more. Often billed alongside O/Y, 2THEMAX and ADAM MUNNINGS. Next up: La Cúpula del Palacio Libertad, Buenosaires on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Fri, 27 Nov 2026 | La Cúpula del Palacio Libertad | Buenos Aires |
 
 ## Recently played
@@ -26,4 +25,4 @@ aantz is an ambient and experimental artist based in Argentina, tracked on sound
 
 O/Y, 2THEMAX, ADAM MUNNINGS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aantz/)*

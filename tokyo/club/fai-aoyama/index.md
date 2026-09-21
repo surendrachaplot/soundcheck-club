@@ -1,6 +1,6 @@
 # Fai Aoyama
 
-Fai Aoyama is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "【蛇舞道(DUBDO) The 41st DUB REGGAE ORIGINAL SOUND SYSTEM DANCE】" on Sat, 10 Oct 2026.
+Fai Aoyama is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "【蛇舞道(DUBDO) The 41st DUB REGGAE ORIGINAL SOUND SYSTEM DANCE】" on Sat, 10 Oct 2026.
 
 Fai Aoyama is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Kotatsu, Nono THING, Sonic Smile and tuzuRa and 1 more. Browse upcoming dates, start times and who's playing. 5-10-1 B1/B2 H2 Aoyama Building B1-B2, Minami Aoyama, Minato-ku, Tokyo 107-0062.
 
@@ -16,4 +16,4 @@ Fai Aoyama is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with
 
 5-10-1 B1/B2 H2 Aoyama Building B1-B2, Minami Aoyama, Minato-ku, Tokyo 107-0062, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fai-aoyama/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fai-aoyama/)*

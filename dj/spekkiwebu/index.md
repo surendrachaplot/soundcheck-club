@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sub Club Melbourne, Melbourne on Sat, 26 Sept 2026.
+Spekki Webu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sub Club Melbourne, Melbourne on Sat, 26 Sept 2026.
 
 Spekki Webu is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Auckland and Bangkok and 43 more. Often billed alongside Mama Snake, OCCA and Kia (AU). Next up: Sub Club Melbourne, Melbourne on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 204 sets lo
 
 Mama Snake, OCCA, Kia (AU)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

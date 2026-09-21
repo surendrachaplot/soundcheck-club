@@ -1,6 +1,6 @@
 # Pipi De Frèche
 
-Pipi De Frèche is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Le Trabendo, Paris on Sat, 3 Oct 2026.
+Pipi De Frèche is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Trabendo, Paris on Sat, 3 Oct 2026.
 
 Pipi De Frèche is an electro and techno artist based in France, tracked on soundcheck, with 33 sets logged across Paris. Often billed alongside Dactylo, LYDO and Aubry. Next up: Le Trabendo, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Pipi De Frèche is an electro and techno artist based in France, tracked on soun
 
 Dactylo, LYDO, Aubry
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pipidefreche/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pipidefreche/)*

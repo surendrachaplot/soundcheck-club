@@ -1,6 +1,6 @@
 # Samsara
 
-Samsara is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at SOBs, New York City on Sun, 27 Sept 2026.
+Samsara is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at SOBs, New York City on Sun, 27 Sept 2026.
 
 Samsara is a techno and jungle artist tracked on soundcheck, with 4 sets logged across Berlin, Detroit and Newyorkcity. Often billed alongside ATŌMI, DJ DARIA and Gwen. Next up: SOBs, Newyorkcity on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Samsara is a techno and jungle artist tracked on soundcheck, with 4 sets logged 
 
 ATŌMI, DJ DARIA, Gwen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samsara/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samsara/)*

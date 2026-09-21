@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Say Yes pres. Steven Shade (Berlin) / STK" on Fri, 25 Sept 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Say Yes pres. Steven Shade (Berlin) / STK" on Fri, 25 Sept 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 4 upcoming gigs, with line-ups including 4\4, Forest (PL), Kola (PL) and Kowa and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -17,4 +17,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 4 upcoming gig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

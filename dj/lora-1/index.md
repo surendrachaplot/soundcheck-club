@@ -1,6 +1,6 @@
 # Lora (1)
 
-Lora (1) is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
+Lora (1) is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
 
 Lora (1) is a drum & bass artist tracked on soundcheck, with 2 sets logged across Frankfurt. Often billed alongside Enaly and OKO (1). Next up: Adam Riese, Frankfurt on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ Lora (1) is a drum & bass artist tracked on soundcheck, with 2 sets logged acros
 
 Enaly, OKO (1)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-1/)*

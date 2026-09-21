@@ -1,6 +1,6 @@
 # Roman Adam
 
-Roman Adam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+Roman Adam is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
 
 Roman Adam is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Kaufmann, Ele Luz and Fab Massimo. Next up: Hoppetosse, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Roman Adam is a techno and house artist based in Germany, tracked on soundcheck,
 
 Kaufmann, Ele Luz, Fab Massimo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*

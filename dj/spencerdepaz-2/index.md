@@ -1,6 +1,6 @@
 # SPENCER DE PAZ (2)
 
-SPENCER DE PAZ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
+SPENCER DE PAZ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Culture Lab LIC, New York City on Sat, 26 Sept 2026.
 
 SPENCER DE PAZ (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Astor Lux, BEARCAT and Jubilee. Next up: Culture Lab LIC, Newyorkcity on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ SPENCER DE PAZ (2) is a techno and house artist based in United States of Americ
 
 Astor Lux, BEARCAT, Jubilee
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerdepaz-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerdepaz-2/)*

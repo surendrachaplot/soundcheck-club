@@ -1,6 +1,6 @@
 # Selassie TBC
 
-Selassie TBC is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
+Selassie TBC is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
 
 Selassie TBC is a house and club artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, London and Malaga. Often billed alongside Mr. Redley, Donut and blissy e. Next up: Jumbi, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Selassie TBC is a house and club artist based in United Kingdom, tracked on soun
 
 Mr. Redley, Donut, blissy e
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

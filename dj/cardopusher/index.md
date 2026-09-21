@@ -1,6 +1,6 @@
 # Cardopusher
 
-Cardopusher is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Le Trabendo, Paris on Sat, 3 Oct 2026.
+Cardopusher is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Trabendo, Paris on Sat, 3 Oct 2026.
 
 Cardopusher is a reggaeton and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Safety Trance, BL4ZE and Manuka Honey. Next up: Le Trabendo, Paris on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Cardopusher is a reggaeton and techno artist tracked on soundcheck, with 69 sets
 
 Safety Trance, BL4ZE, Manuka Honey
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*

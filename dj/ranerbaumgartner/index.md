@@ -1,6 +1,6 @@
 # Raner Baumgartner
 
-Raner Baumgartner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
+Raner Baumgartner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
 
 Raner Baumgartner is a techno and trance artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside KITAE, Køni and MOI6. Next up: Sala Cocó, Madrid on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Raner Baumgartner is a techno and trance artist based in Spain, tracked on sound
 
 KITAE, Køni, MOI6
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerbaumgartner/)*

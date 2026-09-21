@@ -1,6 +1,6 @@
 # Camilla Rae
 
-Camilla Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+Camilla Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 Camilla Rae is a house and techno artist tracked on soundcheck, with 83 sets logged across Berlin, Brussels, Bucharest and Glasgow and 5 more. Often billed alongside 131bpm, Stella Zekri and ābnamā. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Camilla Rae is a house and techno artist tracked on soundcheck, with 83 sets log
 
 131bpm, Stella Zekri, ābnamā
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*

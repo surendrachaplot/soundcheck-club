@@ -1,6 +1,6 @@
 # HEZEN
 
-HEZEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+HEZEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
 HEZEN is a house and techno artist based in France, tracked on soundcheck, with 19 sets logged across Bristol and London. Often billed alongside Gloria Rose, THEMPRESS and Hannah Holland. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ HEZEN is a house and techno artist based in France, tracked on soundcheck, with 
 
 Gloria Rose, THEMPRESS, Hannah Holland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hezen/)*

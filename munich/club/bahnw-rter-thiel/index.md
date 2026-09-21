@@ -1,6 +1,6 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "135+ mit Klangfarben Kollektiv & Secret Trance Frequencies" on Thu, 24 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "135+ mit Klangfarben Kollektiv & Secret Trance Frequencies" on Thu, 24 Sept 2026.
 
 Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including 9LALEY, Alicea, antyo and Arkinice and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
@@ -20,4 +20,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 7 upcoming gi
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

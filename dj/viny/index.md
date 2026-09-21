@@ -1,6 +1,6 @@
 # VINY
 
-VINY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Sat, 3 Oct 2026.
+VINY is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Flash, Washington DC on Sat, 3 Oct 2026.
 
 VINY is a house and minimal artist tracked on soundcheck, with 37 sets logged across Newyorkcity and Washingtondc. Often billed alongside Jandro, Hirama and Bajro. Next up: Flash, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ VINY is a house and minimal artist tracked on soundcheck, with 37 sets logged ac
 
 Jandro, Hirama, Bajro
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viny/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viny/)*

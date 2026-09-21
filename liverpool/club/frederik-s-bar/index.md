@@ -1,6 +1,6 @@
 # Frederik's Bar
 
-Frederik's Bar is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "On The Level: A Nightmare On Hope Street" on Sat, 31 Oct 2026.
+Frederik's Bar is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "On The Level: A Nightmare On Hope Street" on Sat, 31 Oct 2026.
 
 Frederik's Bar is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including Beechy and Izaac Moses. Browse upcoming dates, start times and who's playing. 32 Hope St, Liverpool L1 9BX, United Kingdom.
 
@@ -14,4 +14,4 @@ Frederik's Bar is a music venue in Liverpool listed on soundcheck. 1 upcoming gi
 
 32 Hope St, Liverpool L1 9BX, United Kingdom, Liverpool
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/frederik-s-bar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/frederik-s-bar/)*

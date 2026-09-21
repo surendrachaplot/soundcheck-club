@@ -1,14 +1,13 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FREE OPEN AIR BEACH CLOSING PARTY: Lost invites Posay" on Sun, 20 Sept 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "(FREE BEACH PARTY) SIDEWAYS w// Borja S" on Wed, 23 Sept 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | FREE OPEN AIR BEACH CLOSING PARTY: Lost invites Posay | ATMEN, André Butano, Cesar Martino, Jean Pierre, Karla Amaro |
 | Wed, 23 Sept 2026 | (FREE BEACH PARTY) SIDEWAYS w// Borja S | Borja S, Breezywav, Farres, Jean Bressan |
 | Thu, 24 Sept 2026 | La Mercè Festa a la Platja del Forum Pres Hassler aka Coyu [FREE ACCESS] | ATMEN, Breezy S, Cesar Martino, Eli Kapowski, Franz (AR), Günther Robles, Hassler |
 | Fri, 25 Sept 2026 | FREE PARTY ON THE BEACH - BRIDGE_48 - THE LAST SUMMER SESSION | Gersound, Lancaster, Richi Lopez, WINTER (3) |
@@ -21,4 +20,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 8 upcom
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

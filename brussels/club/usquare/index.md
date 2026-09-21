@@ -1,6 +1,6 @@
 # Usquare
 
-Usquare is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Mana with Alex Kassian, Eclectic Elektra & Vitamine 15H-00H" on Sat, 26 Sept 2026.
+Usquare is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Mana with Alex Kassian, Eclectic Elektra & Vitamine 15H-00H" on Sat, 26 Sept 2026.
 
 Usquare is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Alex Kassian and Eclectic Elektra. Browse upcoming dates, start times and who's playing. Av. de la Couronne 227, 1050 Bruxelles.
 
@@ -14,4 +14,4 @@ Usquare is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with 
 
 Av. de la Couronne 227, 1050 Bruxelles, Brussels
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*

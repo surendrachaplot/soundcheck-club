@@ -1,6 +1,6 @@
 # DB's Studio
 
-DB's Studio is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Donker Dansen - Darker levels" on Sat, 14 Nov 2026.
+DB's Studio is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Donker Dansen - Darker levels" on Sat, 14 Nov 2026.
 
 DB's Studio is a music venue in Utrecht listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. dB's CAB-Rondom 100, 3534 BE, Utrecht, Netherlands.
 
@@ -14,4 +14,4 @@ DB's Studio is a music venue in Utrecht listed on soundcheck. 1 upcoming gig. Br
 
 dB's CAB-Rondom 100, 3534 BE, Utrecht, Netherlands, Utrecht
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/db-s-studio/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/db-s-studio/)*

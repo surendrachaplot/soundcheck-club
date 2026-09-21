@@ -1,6 +1,6 @@
 # Pjenné
 
-Pjenné is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Club 77, Sydney on Sat, 5 Dec 2026.
+Pjenné is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club 77, Sydney on Sat, 5 Dec 2026.
 
 Pjenné is a techno and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Berlin and London and 5 more. Often billed alongside Millú, Andy Hart and Hybrid Man. Next up: Club 77, Sydney on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Pjenné is a techno and tech house artist tracked on soundcheck, with 76 sets lo
 
 Millú, Andy Hart, Hybrid Man
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pjenne-au/)*

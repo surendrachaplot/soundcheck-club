@@ -1,6 +1,6 @@
 # Przystań Kawiarnia
 
-Przystań Kawiarnia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Love & Rave Bday CzesLove Edition" on Sat, 3 Oct 2026.
+Przystań Kawiarnia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Love & Rave Bday CzesLove Edition" on Sat, 3 Oct 2026.
 
 Przystań Kawiarnia is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Przystań Kawiarnia is a music venue in Warsaw listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Love & Rave Bday CzesLove Edition |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/przysta-kawiarnia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/przysta-kawiarnia/)*

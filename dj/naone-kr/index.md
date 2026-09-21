@@ -1,14 +1,13 @@
 # Naone
 
-Naone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Naone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
 
-Naone is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Naone is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 31 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: La Cité Fertile, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | La Cité Fertile | Paris |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | public records | New York City |
@@ -29,4 +28,4 @@ Naone is a techno and house artist tracked on soundcheck, with 180 sets logged a
 
 Iggy P, Sansibar, mad miran
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

@@ -1,14 +1,13 @@
 # EMILIJA
 
-EMILIJA is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+EMILIJA is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-EMILIJA is a techno and trance artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
+EMILIJA is a techno and trance artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
@@ -34,4 +33,4 @@ EMILIJA is a techno and trance artist tracked on soundcheck, with 142 sets logge
 
 Fenrick, Helena Lauwaert, Odymel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilija/)*

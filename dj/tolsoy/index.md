@@ -1,6 +1,6 @@
 # tolsoy
 
-tolsoy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Engelnest, Berlin on Sat, 10 Oct 2026.
+tolsoy is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Engelnest, Berlin on Sat, 10 Oct 2026.
 
 tolsoy is a house and garage artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Czech Strings and R2-RO. Next up: Engelnest, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ tolsoy is a house and garage artist tracked on soundcheck, with 2 sets logged ac
 
 Czech Strings, R2-RO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolsoy/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolsoy/)*

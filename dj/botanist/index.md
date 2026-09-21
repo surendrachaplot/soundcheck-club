@@ -1,6 +1,6 @@
 # Botanist
 
-Botanist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Empire Stage, New York City on Fri, 30 Oct 2026.
+Botanist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Empire Stage, New York City on Fri, 30 Oct 2026.
 
 Botanist is a house and techno artist tracked on soundcheck, with 10 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside Jasper Zeray, Racket Club and Aleska. Next up: Empire Stage, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Botanist is a house and techno artist tracked on soundcheck, with 10 sets logged
 
 Jasper Zeray, Racket Club, Aleska
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*

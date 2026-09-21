@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PARAMIDA, Simone de Kunovich, Gojnea76" on Sat, 26 Sept 2026.
+Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PARAMIDA, Simone de Kunovich, Gojnea76" on Sat, 26 Sept 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming gigs, with line-ups including Autechre, Gojnea76, PARAMIDA and Shy FX and 1 more. Browse upcoming dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -16,4 +16,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

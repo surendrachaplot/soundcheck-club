@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
+DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
 
 DJ Bax is a techno and trance artist tracked on soundcheck, with 20 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside Stinny Stone, 2FEL and 4000 Hz. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ DJ Bax is a techno and trance artist tracked on soundcheck, with 20 sets logged 
 
 Stinny Stone, 2FEL, 4000 Hz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

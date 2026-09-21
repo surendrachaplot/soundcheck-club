@@ -1,6 +1,6 @@
 # Phreaker Fighter
 
-Phreaker Fighter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Process PDX, Portland on Sat, 3 Oct 2026.
+Phreaker Fighter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Process PDX, Portland on Sat, 3 Oct 2026.
 
 Phreaker Fighter is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Portland. Often billed alongside leeonn, Aaron Davis and Akanbi. Next up: Process PDX, Portland on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Phreaker Fighter is a house and techno artist based in United States of America,
 
 leeonn, Aaron Davis, Akanbi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phreakerfighter/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phreakerfighter/)*

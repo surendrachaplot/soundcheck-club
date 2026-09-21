@@ -1,6 +1,6 @@
 # Visionnaire Rome
 
-Visionnaire Rome is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "RUM pres. THE CAVE - Drum'n'Bass & Dubstep Party" on Sat, 26 Sept 2026.
+Visionnaire Rome is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RUM pres. THE CAVE - Drum'n'Bass & Dubstep Party" on Sat, 26 Sept 2026.
 
 Visionnaire Rome is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Alessio Deluxe and URBANKIDZ. Browse upcoming dates, start times and who's playing. Via di Monte Testaccio, 67, 00153 Roma RM, Italy.
 
@@ -15,4 +15,4 @@ Visionnaire Rome is a music venue in Rome listed on soundcheck. 2 upcoming gigs,
 
 Via di Monte Testaccio, 67, 00153 Roma RM, Italy, Rome
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/visionnaire-rome/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/visionnaire-rome/)*

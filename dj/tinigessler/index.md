@@ -1,14 +1,13 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Tini Gessler is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at [UNVRS], Ibiza on Sat, 26 Sept 2026.
 
-Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 sets logged across Bali, Barcelona, Berlin and Boston and 26 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
+Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 sets logged across Bali, Barcelona, Berlin and Boston and 26 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: [UNVRS], Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Sat, 26 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
 
@@ -27,4 +26,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

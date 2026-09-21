@@ -1,6 +1,6 @@
 # Eve Tera
 
-Eve Tera is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Berlin on Fri, 2 Oct 2026.
+Eve Tera is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Berlin on Fri, 2 Oct 2026.
 
 Eve Tera is an ambient and experimental artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside ANAMORPH_ and INVERNO. Next up: TBA, Berlin on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Eve Tera is an ambient and experimental artist tracked on soundcheck, with 2 set
 
 ANAMORPH_, INVERNO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evetera/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evetera/)*

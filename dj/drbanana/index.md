@@ -1,15 +1,13 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Dr Banana is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Dr Banana is a house and garage artist tracked on soundcheck, with 250 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: UNO MALTA, Malta on Thu 17 Sept.
+Dr Banana is a house and garage artist tracked on soundcheck, with 250 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | UNO MALTA | Malta |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | FORGE | Sheffield |
@@ -33,4 +31,4 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 250 sets logg
 
 Laidlaw, Melody RA+RE, Enzo Siragusa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

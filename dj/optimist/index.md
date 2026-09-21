@@ -1,6 +1,6 @@
 # OPTIMIST
 
-OPTIMIST is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Royal Lounge, Tokyo on Sat, 26 Sept 2026.
+OPTIMIST is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Royal Lounge, Tokyo on Sat, 26 Sept 2026.
 
 OPTIMIST is a garage and house artist based in Japan, tracked on soundcheck, with 61 sets logged across Tokyo. Often billed alongside ATAMI, MOOTOE and VECSILLE. Next up: Royal Lounge, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ OPTIMIST is a garage and house artist based in Japan, tracked on soundcheck, wit
 
 ATAMI, MOOTOE, VECSILLE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimist/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/optimist/)*

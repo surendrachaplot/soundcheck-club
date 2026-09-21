@@ -1,18 +1,18 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Berlin on Sun, 20 Sept 2026.
+Miss T Delight is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
 
-Miss T Delight is a techno and club artist tracked on soundcheck, with 23 sets logged across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and 4M4R. Next up: TBA, Berlin on Sun 20 Sept.
+Miss T Delight is a techno and club artist tracked on soundcheck, with 23 sets logged across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and 4M4R. Next up: Point Ephémère, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | TBA | Berlin |
 | Fri, 2 Oct 2026 | Point Ephémère | Paris |
 
 ## Recently played
 
+- TBA, Berlin — Sun, 20 Sept 2026
 - Else, Berlin — Sat, 22 Aug 2026
 - OXI, Berlin — Fri, 31 Jul 2026
 - Badehaus Berlin, Berlin — Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Miss T Delight is a techno and club artist tracked on soundcheck, with 23 sets l
 - OXI, Berlin — Sun, 14 Jun 2026
 - Crack Bellmer, Berlin — Thu, 21 May 2026
 - Renate, Berlin — Fri, 24 Apr 2026
-- OXI, Berlin — Sat, 11 Apr 2026
 
 ## Shares bills with
 
 hi.fí, Kiar Oscuro, 4M4R
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misstdelight/)*

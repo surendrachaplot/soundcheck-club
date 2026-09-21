@@ -1,6 +1,6 @@
 # XLR
 
-XLR is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Move Too x XLR [B.Y.O.B]" on Mon, 21 Sept 2026.
+XLR is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Move Too x XLR [B.Y.O.B]" on Mon, 21 Sept 2026.
 
 XLR is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including 0akley, abejizaza, AZEH and Azrel and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
@@ -23,4 +23,4 @@ XLR is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with 
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

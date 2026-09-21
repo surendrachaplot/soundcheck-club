@@ -1,6 +1,6 @@
 # Nizar Sarakbi
 
-Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
+Nizar Sarakbi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
 
 Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Katia Curie, KATIA and vince. Next up: Cadavra, Madrid on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Nizar Sarakbi is a house and techno artist tracked on soundcheck, with 75 sets l
 
 Katia Curie, KATIA, vince
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nizarsarakbi/)*

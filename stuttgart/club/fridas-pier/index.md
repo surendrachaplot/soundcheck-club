@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 15 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FCKNG SERIOUS DAY & NIGHT RAVE" on Fri, 25 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FCKNG SERIOUS DAY & NIGHT RAVE" on Fri, 25 Sept 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming gigs, with line-ups including Anna Reusch, Ann Clue, BabaBass3000 and Bjørnson and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

@@ -1,6 +1,6 @@
 # KOI (MX)
 
-KOI (MX) is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 26 Sept 2026.
+KOI (MX) is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 26 Sept 2026.
 
 KOI (MX) is an electronica and bass artist tracked on soundcheck, with 28 sets logged across Chicago and Mexicocity. Often billed alongside DNZA, rodman and Sotolo. Next up: Japan Monterrey, Mexicocity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KOI (MX) is an electronica and bass artist tracked on soundcheck, with 28 sets l
 
 DNZA, rodman, Sotolo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koi-mx/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koi-mx/)*

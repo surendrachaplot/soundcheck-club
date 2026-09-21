@@ -1,6 +1,6 @@
 # TBA - west end 
 
-TBA - west end  is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "{ c o a l e s c e n c e } :: Lonefront [live] " on Fri, 2 Oct 2026.
+TBA - west end  is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "{ c o a l e s c e n c e } :: Lonefront [live] " on Fri, 2 Oct 2026.
 
 TBA - west end  is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Amrkv, Esther Côté, Lonefront and Michael Krochak and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - west end  is a music venue in Toronto listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | { c o a l e s c e n c e } :: Lonefront [live]  | Amrkv, Esther Côté, Lonefront, Michael Krochak, Sure Yeah |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-west-end/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-west-end/)*

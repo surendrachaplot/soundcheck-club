@@ -1,6 +1,6 @@
 # Christian Smith
 
-Christian Smith is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Christian Smith is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Christian Smith is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Bali and Bangkok and 25 more. Often billed alongside ADRIANNA, Lino Fuso and Cambric. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Christian Smith is a techno and house artist tracked on soundcheck, with 54 sets
 
 ADRIANNA, Lino Fuso, Cambric
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christiansmith/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christiansmith/)*

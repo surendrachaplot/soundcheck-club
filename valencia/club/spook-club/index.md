@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DAX J + VIL + invitados" on Sat, 26 Sept 2026.
+Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DAX J + VIL + invitados" on Sat, 26 Sept 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including Angelinanyulí, alvar., A.N.I. and Ariezzz and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

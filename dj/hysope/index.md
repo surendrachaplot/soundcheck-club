@@ -1,6 +1,6 @@
 # Hysope
 
-Hysope is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
+Hysope is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
 
 Hysope is a techno and house artist based in Belgium, tracked on soundcheck, with 31 sets logged across Brussels. Often billed alongside JEKKAMAÏ, Chris Youké and NMSS. Next up: Illegaal, Brussels on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Hysope is a techno and house artist based in Belgium, tracked on soundcheck, wit
 
 JEKKAMAÏ, Chris Youké, NMSS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hysope/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hysope/)*

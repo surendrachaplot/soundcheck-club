@@ -1,6 +1,6 @@
 # we1sman
 
-we1sman is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+we1sman is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 we1sman is a techno and club artist tracked on soundcheck, with 140 sets logged across Denver, Detroit and Newyorkcity. Often billed alongside Wax Assassin, jamea. and LATEX GIRL. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ we1sman is a techno and club artist tracked on soundcheck, with 140 sets logged 
 
 Wax Assassin, jamea., LATEX GIRL
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we1sman/)*

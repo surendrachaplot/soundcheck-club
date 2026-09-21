@@ -1,6 +1,6 @@
 # Antonio De Angelis
 
-Antonio De Angelis is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Cause, London on Sat, 17 Oct 2026.
+Antonio De Angelis is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Cause, London on Sat, 17 Oct 2026.
 
 Antonio De Angelis is a techno and industrial artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Pre Silent, Polanski and Indira Paganotto. Next up: The Cause, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Antonio De Angelis is a techno and industrial artist tracked on soundcheck, with
 
 Pre Silent, Polanski, Indira Paganotto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniodeangelis/)*

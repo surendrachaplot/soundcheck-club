@@ -1,6 +1,6 @@
 # Sebastian Paiza
 
-Sebastian Paiza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
+Sebastian Paiza is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
 
 Sebastian Paiza is a house and tech house artist tracked on soundcheck, with 49 sets logged across Berlin and Prague. Often billed alongside Sam Gittis, Chad Andrew and Lucas Hulan. Next up: Stalin, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sebastian Paiza is a house and tech house artist tracked on soundcheck, with 49 
 
 Sam Gittis, Chad Andrew, Lucas Hulan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpaiza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianpaiza/)*

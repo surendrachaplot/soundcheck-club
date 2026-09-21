@@ -1,6 +1,6 @@
 # Kolophane
 
-Kolophane is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
+Kolophane is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
 
 Kolophane is a progressive house and techno artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside AYEENB, Underthebed and Berkaï. Next up: Blue Room, Montreal on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Kolophane is a progressive house and techno artist tracked on soundcheck, with 8
 
 AYEENB, Underthebed, Berkaï
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*

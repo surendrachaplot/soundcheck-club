@@ -1,14 +1,13 @@
 # ARWEN
 
-ARWEN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+ARWEN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Revo Rooftop, Mexico City on Fri, 2 Oct 2026.
 
-ARWEN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh, Hamburg, Manchester and Mexicocity and 1 more. Often billed alongside PASO, TOOKAST and BORLEY. Next up: Südpol, Hamburg on Fri 18 Sept.
+ARWEN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Edinburgh, Hamburg, Manchester and Mexicocity and 1 more. Often billed alongside PASO, TOOKAST and BORLEY. Next up: Revo Rooftop, Mexicocity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Südpol | Hamburg |
 | Fri, 2 Oct 2026 | Revo Rooftop | Mexico City |
 
 ## Recently played
@@ -26,4 +25,4 @@ ARWEN is a house and techno artist based in United Kingdom, tracked on soundchec
 
 PASO, TOOKAST, BORLEY
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arwen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arwen/)*

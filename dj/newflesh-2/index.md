@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
+New Flesh (2) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
 
 New Flesh (2) is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Toni S, AAKAARA and NakedAggressionDJ. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ New Flesh (2) is an experimental and techno artist based in United Kingdom, trac
 
 Toni S, AAKAARA, NakedAggressionDJ
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

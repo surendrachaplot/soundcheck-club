@@ -1,6 +1,6 @@
 # D'Nice
 
-D'Nice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+D'Nice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 D'Nice is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside Manta, Qualia Trax and materia hache. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ D'Nice is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Manta, Qualia Trax, materia hache
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnice/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnice/)*

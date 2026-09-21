@@ -1,6 +1,6 @@
 # Petre Inspirescu
 
-Petre Inspirescu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 26 Sept 2026.
+Petre Inspirescu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 26 Sept 2026.
 
 Petre Inspirescu is a house and minimal artist based in Romania, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Rhadoo, Raresh and RPR Soundsystem. Next up: Platforma Wolff, Bucharest on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Petre Inspirescu is a house and minimal artist based in Romania, tracked on soun
 
 Rhadoo, Raresh, RPR Soundsystem
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petreinspirescu/)*

@@ -1,6 +1,6 @@
 # eeeaeeeeaee
 
-eeeaeeeeaee is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Cripta747, Turin on Sat, 3 Oct 2026.
+eeeaeeeeaee is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cripta747, Turin on Sat, 3 Oct 2026.
 
 eeeaeeeeaee is an experimental and hardcore artist tracked on soundcheck, with 2 sets logged across Brussels and Turin. Often billed alongside Carrageenan, LUNA LIAS and VIBRISSE. Next up: Cripta747, Turin on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ eeeaeeeeaee is an experimental and hardcore artist tracked on soundcheck, with 2
 
 Carrageenan, LUNA LIAS, VIBRISSE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eeeaeeeeaee/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eeeaeeeeaee/)*

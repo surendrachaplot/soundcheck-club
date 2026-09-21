@@ -1,6 +1,6 @@
 # Rayzir
 
-Rayzir is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Rayzir is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
 Rayzir is a house and tech house artist based in Netherlands, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 4 more. Often billed alongside Benny Rodrigues, Karim Soliman and MENESIX. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Rayzir is a house and tech house artist based in Netherlands, tracked on soundch
 
 Benny Rodrigues, Karim Soliman, MENESIX
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzir/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayzir/)*

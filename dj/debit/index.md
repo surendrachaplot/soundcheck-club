@@ -1,14 +1,13 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Debit is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
-Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside APP, AMEX (UK) and Alaska (2). Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside APP, AMEX (UK) and Alaska (2). Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Sat, 26 Sept 2026 | Ormside Projects | London |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
@@ -31,4 +30,4 @@ Debit is a techno and experimental artist based in United States of America, tra
 
 APP, AMEX (UK), Alaska (2)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

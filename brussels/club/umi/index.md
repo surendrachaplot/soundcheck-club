@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BLUR with Paquita Gordon, Pridi, Ben Kamal, Casper" on Sat, 26 Sept 2026.
+UMI is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "BLUR with Paquita Gordon, Pridi, Ben Kamal, Casper" on Sat, 26 Sept 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Ava Eva, Ben Kamal, Boudewijn Ericx and Brassac and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -20,4 +20,4 @@ UMI is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with lin
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

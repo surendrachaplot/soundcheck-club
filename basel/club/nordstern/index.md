@@ -1,6 +1,6 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Klubnacht" on Sat, 26 Sept 2026.
+Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Klubnacht" on Sat, 26 Sept 2026.
 
 Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Pauli, Agape Kid, Agonis and Alay and 2 more. Browse upcoming dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
@@ -22,4 +22,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with 
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

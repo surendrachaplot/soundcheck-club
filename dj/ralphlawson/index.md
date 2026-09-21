@@ -1,6 +1,6 @@
 # Ralph Lawson
 
-Ralph Lawson is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at berlinClub, Madrid on Sat, 26 Sept 2026.
+Ralph Lawson is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at berlinClub, Madrid on Sat, 26 Sept 2026.
 
 Ralph Lawson is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Birmingham, Bristol and Buenosaires and 9 more. Often billed alongside Graeme Park, Alex Wolfenden and B.Love. Next up: berlinClub, Madrid on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ralph Lawson is a house and deep house artist based in United Kingdom, tracked o
 
 Graeme Park, Alex Wolfenden, B.Love
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*

@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "6speed Ft. Miley Serious & Pura Pura" on Fri, 25 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "6speed Ft. Miley Serious & Pura Pura" on Fri, 25 Sept 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcoming gigs, with line-ups including 1tbsp, Cadeem LaMarr, CalvoMusic and Carrier and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

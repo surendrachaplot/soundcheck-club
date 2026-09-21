@@ -1,14 +1,13 @@
 # Move D
 
-Move D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat, 19 Sept 2026.
+Move D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Night Tales, London on Sat, 26 Sept 2026.
 
-Move D is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: TBA - CAFÉ BAR JARDIN BENSHEIM, Frankfurt on Sat 19 Sept.
+Move D is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Robert Drewek, Discrete Circuit and Prosumer. Next up: Night Tales, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA - CAFÉ BAR JARDIN BENSHEIM | Frankfurt |
 | Sat, 26 Sept 2026 | Night Tales | London |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 
@@ -27,4 +26,4 @@ Move D is a house and techno artist tracked on soundcheck, with 147 sets logged 
 
 Robert Drewek, Discrete Circuit, Prosumer
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

@@ -1,6 +1,6 @@
 # Alex Kosta
 
-Alex Kosta is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
+Alex Kosta is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
 
 Alex Kosta is a techno artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Often billed alongside AilinDeSha*, FM (PL) and Gagarin. Next up: Mastak, Warsaw on Fri 25 Sept.
 
@@ -14,4 +14,4 @@ Alex Kosta is a techno artist based in Poland, tracked on soundcheck, with 1 set
 
 AilinDeSha*, FM (PL), Gagarin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkosta/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkosta/)*

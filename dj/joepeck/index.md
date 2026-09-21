@@ -1,6 +1,6 @@
 # Joe Peck
 
-Joe Peck is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
+Joe Peck is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Madame Claude, Berlin on Sat, 3 Oct 2026.
 
 Joe Peck is a house and italo disco artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside 7ommes, Etiennette and Seemless. Next up: Madame Claude, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Joe Peck is a house and italo disco artist based in United Kingdom, tracked on s
 
 7ommes, Etiennette, Seemless
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joepeck/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joepeck/)*

@@ -1,6 +1,6 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Piccadilly Premium, Osaka on Sat, 3 Oct 2026.
+Kayzo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Piccadilly Premium, Osaka on Sat, 3 Oct 2026.
 
 Kayzo is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Boston and Chicago and 15 more. Often billed alongside hhunter, Luude and Alesso. Next up: Piccadilly Premium, Osaka on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Kayzo is a techno and house artist based in United States of America, tracked on
 
 hhunter, Luude, Alesso
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

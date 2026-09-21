@@ -1,6 +1,6 @@
 # Elkind
 
-Elkind is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Elkind is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Elkind is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Austin, Losangeles and Newyorkcity. Often billed alongside Latas, 1morning and Akin Paksoy. Next up: TBA - East Williamsburg, Newyorkcity on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Elkind is a house and deep house artist based in United States of America, track
 
 Latas, 1morning, Akin Paksoy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elkind/)*

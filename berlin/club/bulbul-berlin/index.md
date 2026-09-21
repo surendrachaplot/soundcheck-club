@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache, Manu Barcelo" on Thu, 24 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "mita records showcase: Flor Coto b2b PILAR MOLINERO, materia hache, Manu Barcelo" on Thu, 24 Sept 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including ADAM REC., Almost Famous, Barée Masse and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, 
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

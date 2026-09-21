@@ -1,6 +1,6 @@
 # Subterrannean
 
-Subterrannean is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Daft Disko Halloween: Chicago" on Sat, 31 Oct 2026.
+Subterrannean is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Daft Disko Halloween: Chicago" on Sat, 31 Oct 2026.
 
 Subterrannean is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Takuya Nakamura. Browse upcoming dates, start times and who's playing. 2011 W North Ave, Chicago, IL 60622, USA.
 
@@ -15,4 +15,4 @@ Subterrannean is a music venue in Chicago listed on soundcheck. 2 upcoming gigs,
 
 2011 W North Ave, Chicago, IL 60622, USA, Chicago
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subterrannean/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subterrannean/)*

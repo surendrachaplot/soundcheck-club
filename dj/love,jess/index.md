@@ -1,6 +1,6 @@
 # Love, Jess
 
-Love, Jess is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Solace, Melbourne on Sat, 17 Oct 2026.
+Love, Jess is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Solace, Melbourne on Sat, 17 Oct 2026.
 
 Love, Jess are a techno and house duo based in Australia, tracked on soundcheck, with 40 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Black Dave, House Mum and Josh Heywood. Next up: Solace, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Love, Jess are a techno and house duo based in Australia, tracked on soundcheck,
 
 Black Dave, House Mum, Josh Heywood
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*

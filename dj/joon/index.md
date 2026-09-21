@@ -1,6 +1,6 @@
 # Joon
 
-Joon is a R&B and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Joon is a R&B and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Joon is a r&b and pop artist based in United States of America, tracked on soundcheck, with 2 sets logged across Glasgow and Newyorkcity. Often billed alongside Alex Smoke, Alif Hilal and Alliyah Enyo. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -15,4 +15,4 @@ Joon is a r&b and pop artist based in United States of America, tracked on sound
 
 Alex Smoke, Alif Hilal, Alliyah Enyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joon/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joon/)*

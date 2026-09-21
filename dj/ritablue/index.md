@@ -1,6 +1,6 @@
 # Rita Blue
 
-Rita Blue is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
+Rita Blue is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
 
 Rita Blue is an electronic artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Gavnlig, dragongirl and DJ Woo Girl. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Rita Blue is an electronic artist tracked on soundcheck, with 5 sets logged acro
 
 Gavnlig, dragongirl, DJ Woo Girl
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritablue/)*

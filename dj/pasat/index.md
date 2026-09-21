@@ -1,6 +1,6 @@
 # Pasat
 
-Pasat is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
+Pasat is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 30 Oct 2026.
 
 Pasat is a house and uk funky artist tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Alas (2), DJ Babyblade and DJ Spit. Next up: Tokonoma Club, Frankfurt on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Pasat is a house and uk funky artist tracked on soundcheck, with 7 sets logged a
 
 Alas (2), DJ Babyblade, DJ Spit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasat/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasat/)*

@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "La Clairière: Feder, FAUL & WAD, LE RORO" on Fri, 25 Sept 2026.
+La Clairière is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "La Clairière: Feder, FAUL & WAD, LE RORO" on Fri, 25 Sept 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Darco, Feder, LABENCH and Sasson. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -15,4 +15,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 2 upcoming gigs, w
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

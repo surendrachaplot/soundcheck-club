@@ -1,6 +1,6 @@
 # Pezlo MD
 
-Pezlo MD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Pezlo MD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Pezlo MD is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside AABEL, Cami di Marzo and Layla Benitez. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pezlo MD is a house and techno artist based in United States of America, tracked
 
 AABEL, Cami di Marzo, Layla Benitez
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*

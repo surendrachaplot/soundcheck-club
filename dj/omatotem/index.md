@@ -1,15 +1,13 @@
 # oma totem
 
-oma totem is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+oma totem is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
 
-oma totem is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+oma totem is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: TBA, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
-| Sun, 20 Sept 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 26 Sept 2026 | TBA | Chicago |
 | Fri, 9 Oct 2026 | LAUT | Barcelona |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
@@ -17,6 +15,7 @@ oma totem is a techno and house artist tracked on soundcheck, with 66 sets logge
 
 ## Recently played
 
+- Warehouse on Watts, Philadelphia — Sun, 20 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - feedbk, New York City — Fri, 18 Sept 2026
 - Nouveau Parc des Berges, Lyon — Sat, 12 Sept 2026
@@ -24,10 +23,9 @@ oma totem is a techno and house artist tracked on soundcheck, with 66 sets logge
 - RSO.BERLIN, Berlin — Sat, 4 Jul 2026
 - Nué Seoul, Seoul — Fri, 29 May 2026
 - Amfiteatre del Parc Catalunya, Barcelona — Thu, 14 May 2026
-- Cadavra, Madrid — Sat, 9 May 2026
 
 ## Shares bills with
 
 mad miran, Lena Willikens, Phran
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*

@@ -1,6 +1,6 @@
 # TIIA
 
-TIIA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
+TIIA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
 
 TIIA is a techno and electro artist tracked on soundcheck, with 4 sets logged across Brussels and Helsinki. Often billed alongside PØZA, AceMo and Arucal. Next up: OFF-Club, Brussels on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ TIIA is a techno and electro artist tracked on soundcheck, with 4 sets logged ac
 
 PØZA, AceMo, Arucal
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiia/)*

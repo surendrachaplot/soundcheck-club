@@ -1,6 +1,6 @@
 # Lorely Mur
 
-Lorely Mur is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Location With Ticket, Denver on Sat, 26 Sept 2026.
+Lorely Mur is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Location With Ticket, Denver on Sat, 26 Sept 2026.
 
 Lorely Mur is a techno and industrial artist tracked on soundcheck, with 37 sets logged across Boston, Chicago, Denver and Detroit and 2 more. Often billed alongside Alex Casillas, Alex Wilcox and Annika Wolfe. Next up: TBA - Location With Ticket, Denver on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Lorely Mur is a techno and industrial artist tracked on soundcheck, with 37 sets
 
 Alex Casillas, Alex Wilcox, Annika Wolfe
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorelymur/)*

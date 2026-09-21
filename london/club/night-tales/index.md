@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 32 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Night Tales: Fabio & Grooverider [All Night Long]" on Fri, 25 Sept 2026.
+Night Tales is a music venue in London with 32 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Night Tales: Fabio & Grooverider [All Night Long]" on Fri, 25 Sept 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 1-800 GIRLS, 90 (1), Paula Tape and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 32 upcoming gigs, w
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

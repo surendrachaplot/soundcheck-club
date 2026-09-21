@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Astral Industries x Bonobo" on Sat, 3 Oct 2026.
+Bonobo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Astral Industries x Bonobo" on Sat, 3 Oct 2026.
 
 Bonobo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Ario, Chee Shimizu, DJ Morita and DOC (2) and 2 more. Browse upcoming dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -15,4 +15,4 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with lin
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

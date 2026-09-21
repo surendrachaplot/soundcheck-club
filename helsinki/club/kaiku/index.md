@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Kaiku presents: Freddy K" on Fri, 25 Sept 2026.
+Kaiku is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Kaiku presents: Freddy K" on Fri, 25 Sept 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with line-ups including Beau Didier, C4KE, CEB (FI) and DJ Aleksi and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -17,4 +17,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

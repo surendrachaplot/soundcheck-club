@@ -1,6 +1,6 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+Doppelgang is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 Doppelgang is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Shelter Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Doppelgang is a house and techno artist tracked on soundcheck, with 115 sets log
 
 TWIENA, Lola Edo, Elias Mazian
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*

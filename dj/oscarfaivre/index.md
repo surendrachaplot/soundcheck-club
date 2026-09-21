@@ -1,6 +1,6 @@
 # Oscar Faivre
 
-Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
+Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Nido Marseille, Marseille on Sat, 21 Nov 2026.
 
 Oscar Faivre is a house and electronica artist based in France, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Frankfurt and Leeds and 7 more. Often billed alongside Quim Clausell, Walrus and Alex Picone. Next up: Nido Marseille, Marseille on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Oscar Faivre is a house and electronica artist based in France, tracked on sound
 
 Quim Clausell, Walrus, Alex Picone
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*

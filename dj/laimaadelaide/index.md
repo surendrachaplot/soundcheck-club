@@ -1,6 +1,6 @@
 # Laima Adelaide
 
-Laima Adelaide is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
+Laima Adelaide is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 Laima Adelaide is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Nils Edte, Woody92 and Aa Sudd. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Laima Adelaide is a techno and minimal techno artist based in Germany, tracked o
 
 Nils Edte, Woody92, Aa Sudd
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laimaadelaide/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laimaadelaide/)*

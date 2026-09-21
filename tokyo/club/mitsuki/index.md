@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Rad" on Sun, 20 Sept 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RENKEN" on Tue, 22 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including AAGUU, Carl H, Celter and Dan Andrei and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Carl H, Celter, Dan Andrei and DJ MARIA. and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Rad | AAGUU, Gonno, K.E.G |
 | Tue, 22 Sept 2026 | RENKEN |  |
 | Thu, 24 Sept 2026 | Remmy 'When The Dawn Breaks' EP Release Party | DNG (1) |
 | Sat, 26 Sept 2026 | Noods Radio: Tokyo | Element (3), Lil Mofo, Mamazu, Mars89 |
@@ -23,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

@@ -1,6 +1,6 @@
 # dj.eesy
 
-dj.eesy is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at SASS Music Club, Vienna on Fri, 25 Sept 2026.
+dj.eesy is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at SASS Music Club, Vienna on Fri, 25 Sept 2026.
 
 dj.eesy is a house artist tracked on soundcheck, with 8 sets logged across Vienna. Often billed alongside Maximilian Foit, ANDREA SALVAGGIO and Aida Arko. Next up: SASS Music Club, Vienna on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ dj.eesy is a house artist tracked on soundcheck, with 8 sets logged across Vienn
 
 Maximilian Foit, ANDREA SALVAGGIO, Aida Arko
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.eesy/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.eesy/)*

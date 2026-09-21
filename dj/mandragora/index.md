@@ -1,6 +1,6 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
 Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets 
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

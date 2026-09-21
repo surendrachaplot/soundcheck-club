@@ -1,6 +1,6 @@
 # 888 Garage
 
-888 Garage is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Neil Frances (DJ Set)" on Fri, 25 Sept 2026.
+888 Garage is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Neil Frances (DJ Set)" on Fri, 25 Sept 2026.
 
 888 Garage is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming gigs, with line-ups including ANDYLAND, Boys Noize, DJ SEXSTASY and Fatboy Slim and 2 more. Browse upcoming dates, start times and who's playing. 888 Marin St, San Francisco, CA 94124.
 
@@ -17,4 +17,4 @@
 
 888 Marin St, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/888-garage/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/888-garage/)*

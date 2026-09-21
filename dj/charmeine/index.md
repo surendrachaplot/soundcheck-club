@@ -1,6 +1,6 @@
 # Charmeine
 
-Charmeine is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Westerkerk, Amsterdam on Wed, 21 Oct 2026.
+Charmeine is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Westerkerk, Amsterdam on Wed, 21 Oct 2026.
 
 Charmeine is a house and tech house artist based in Turkey, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 5 more. Often billed alongside People Like Us (3), BLOND:ISH and Denis Sulta. Next up: Westerkerk, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Charmeine is a house and tech house artist based in Turkey, tracked on soundchec
 
 People Like Us (3), BLOND:ISH, Denis Sulta
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*

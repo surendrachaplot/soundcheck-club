@@ -1,6 +1,6 @@
 # Not From Concentrate
 
-Not From Concentrate is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tola, London on Sat, 31 Oct 2026.
+Not From Concentrate is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tola, London on Sat, 31 Oct 2026.
 
 Not From Concentrate is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Sophia Nicole and Slipstream. Next up: Tola, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Not From Concentrate is a house and techno artist based in United Kingdom, track
 
 Sophia Nicole, Slipstream
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notfromconcentrate/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notfromconcentrate/)*

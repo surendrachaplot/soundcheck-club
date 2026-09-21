@@ -1,6 +1,6 @@
 # Immuno
 
-Immuno is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
+Immuno is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Social Room, Hong Kong on Fri, 25 Sept 2026.
 
 Immuno is a drum & bass and bass artist tracked on soundcheck, with 42 sets logged across Bangkok, Hongkong, Melbourne and Shenzhen. Often billed alongside Just Bee, Daniel Power and Foambb. Next up: Social Room, Hongkong on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Immuno is a drum & bass and bass artist tracked on soundcheck, with 42 sets logg
 
 Just Bee, Daniel Power, Foambb
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/immuno-nz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/immuno-nz/)*

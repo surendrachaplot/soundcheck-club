@@ -1,6 +1,6 @@
 # EFÍMERO
 
-EFÍMERO is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pracht, Frankfurt on Fri, 25 Sept 2026.
+EFÍMERO is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pracht, Frankfurt on Fri, 25 Sept 2026.
 
 EFÍMERO is a house and electronica artist based in Mexico, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Frankfurt and Mexicocity and 1 more. Often billed alongside Diego Montiel, Frankie Flowerz and Gem Wallow. Next up: Pracht, Frankfurt on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ EFÍMERO is a house and electronica artist based in Mexico, tracked on soundchec
 
 Diego Montiel, Frankie Flowerz, Gem Wallow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*

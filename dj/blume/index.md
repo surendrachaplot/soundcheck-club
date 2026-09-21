@@ -1,14 +1,13 @@
 # BLUME
 
-BLUME is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+BLUME is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fitzroy, Berlin on Thu, 24 Sept 2026.
 
-BLUME is a techno and ambient artist tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Berlin and Dublin and 4 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+BLUME is a techno and ambient artist tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Berlin and Dublin and 4 more. Often billed alongside Sa Pa, Andriy K. and King Softy. Next up: Fitzroy, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Thu, 24 Sept 2026 | Fitzroy | Berlin |
 | Fri, 9 Oct 2026 | RSO.BERLIN | Berlin |
 
@@ -27,4 +26,4 @@ BLUME is a techno and ambient artist tracked on soundcheck, with 54 sets logged 
 
 Sa Pa, Andriy K., King Softy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blume/)*

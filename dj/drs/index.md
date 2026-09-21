@@ -1,6 +1,6 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
+DRS is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
 
 DRS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Phonox, London on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ DRS is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 LSB, dogger, LSB (UK)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*

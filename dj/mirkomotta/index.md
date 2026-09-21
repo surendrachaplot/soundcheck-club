@@ -1,6 +1,6 @@
 # Mirko Motta
 
-Mirko Motta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
+Mirko Motta is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
 
 Mirko Motta is a techno and house artist based in Italy, tracked on soundcheck, with 9 sets logged across Geneva and Turin. Often billed alongside sizing, Gandalf and 2HOT2PLAY. Next up: Audiodrome, Turin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mirko Motta is a techno and house artist based in Italy, tracked on soundcheck, 
 
 sizing, Gandalf, 2HOT2PLAY
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkomotta/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirkomotta/)*

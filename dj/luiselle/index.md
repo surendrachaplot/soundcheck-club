@@ -1,6 +1,6 @@
 # LUISELLE
 
-LUISELLE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
+LUISELLE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
 
 LUISELLE is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Flight Mode (DE), Kobzev and CHOREOPHILA. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LUISELLE is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Flight Mode (DE), Kobzev, CHOREOPHILA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luiselle/)*

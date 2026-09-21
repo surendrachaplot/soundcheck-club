@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PARAMIDA (All Night Long)" on Fri, 25 Sept 2026.
+CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PARAMIDA (All Night Long)" on Fri, 25 Sept 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Afra, Alex Kassian, annalogue and BASHKKA and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, 
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

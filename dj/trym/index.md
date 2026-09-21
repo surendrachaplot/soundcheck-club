@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Trym is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 Trym is a techno and trance artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -31,4 +31,4 @@ Trym is a techno and trance artist tracked on soundcheck, with 179 sets logged a
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

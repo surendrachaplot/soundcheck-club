@@ -1,6 +1,6 @@
 # Mady
 
-Mady is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
+Mady is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
 
 Mady is a techno and house artist based in Egypt, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Anela, Drumaddition and HELLIS. Next up: Smolna, Warsaw on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Mady is a techno and house artist based in Egypt, tracked on soundcheck, with 2 
 
 Anela, Drumaddition, HELLIS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mady/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mady/)*

@@ -1,6 +1,6 @@
 # Miami Beach Bandshell
 
-Miami Beach Bandshell is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Silvana Estrada" on Sun, 27 Sept 2026.
+Miami Beach Bandshell is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Silvana Estrada" on Sun, 27 Sept 2026.
 
 Miami Beach Bandshell is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Mr. Pauer. Browse upcoming dates, start times and who's playing. 7275 Collins Ave, Miami Beach, FL 33141, USA.
 
@@ -15,4 +15,4 @@ Miami Beach Bandshell is a music venue in Miami listed on soundcheck. 2 upcoming
 
 7275 Collins Ave, Miami Beach, FL 33141, USA, Miami
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/miami-beach-bandshell/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/miami-beach-bandshell/)*

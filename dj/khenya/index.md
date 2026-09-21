@@ -1,6 +1,6 @@
 # Khenya
 
-Khenya is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at KOKO, London on Fri, 30 Oct 2026.
+Khenya is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at KOKO, London on Fri, 30 Oct 2026.
 
 Khenya is an afro house and house artist based in Cuba, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 2 more. Often billed alongside ANOTR, ARODES and Alexandre Laeddis. Next up: KOKO, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Khenya is an afro house and house artist based in Cuba, tracked on soundcheck, w
 
 ANOTR, ARODES, Alexandre Laeddis
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khenya/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khenya/)*

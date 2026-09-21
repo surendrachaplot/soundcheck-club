@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 26 Sept 2026.
+Antal is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 26 Sept 2026.
 
 Antal is a house and disco artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Bali and 44 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: La Cheetah Club, Glasgow on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Antal is a house and disco artist tracked on soundcheck, with 155 sets logged ac
 
 Hunee, Kléo, Coco Maria
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

@@ -1,14 +1,15 @@
 # Deli Girls
 
-Deli Girls is a Experimental and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Ormside Projects, London on Wed, 23 Sept 2026.
+Deli Girls is a Experimental and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Ormside Projects, London on Wed, 23 Sept 2026.
 
-Deli Girls is an experimental and hardcore artist tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Chicago and Detroit and 17 more. Often billed alongside Baby Leo, Nídia and Pauli Cakes. Next up: Ormside Projects, London on Wed 23 Sept.
+Deli Girls is an experimental and hardcore artist tracked on soundcheck, with 34 sets logged across Berlin, Brussels, Chicago and Detroit and 18 more. Often billed alongside Baby Leo, Nídia and Pauli Cakes. Next up: Ormside Projects, London on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Ormside Projects | London |
+| Tue, 6 Oct 2026 | FLUCC | Vienna |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 10 Oct 2026 | Chausseestrasse 131 | Berlin |
 
@@ -27,4 +28,4 @@ Deli Girls is an experimental and hardcore artist tracked on soundcheck, with 33
 
 Baby Leo, Nídia, Pauli Cakes
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deligirls/)*

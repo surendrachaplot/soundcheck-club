@@ -1,6 +1,6 @@
 # The Lighthouse Bar & Club
 
-The Lighthouse Bar & Club is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Bashment & Afrobeats Shoreditch Party" on Fri, 25 Sept 2026.
+The Lighthouse Bar & Club is a music venue in London with 39 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Bashment & Afrobeats Shoreditch Party" on Fri, 25 Sept 2026.
 
 The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 39 upcoming gigs. Browse upcoming dates, start times and who's playing. 62-68 Rivington St, London EC2A 3AY.
 
@@ -23,4 +23,4 @@ The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 39 up
 
 62-68 Rivington St, London EC2A 3AY, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*

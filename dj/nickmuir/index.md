@@ -1,6 +1,6 @@
 # Nick Muir
 
-Nick Muir is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Nick Muir is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 Nick Muir is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Buenosaires and Glasgow and 2 more. Often billed alongside Industry Standard, Grant McKay and Elliot Moriarty. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nick Muir is a progressive house and techno artist based in United Kingdom, trac
 
 Industry Standard, Grant McKay, Elliot Moriarty
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*

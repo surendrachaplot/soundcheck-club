@@ -1,6 +1,6 @@
 # CLO (2)
 
-CLO (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Stereo, Glasgow on Fri, 16 Oct 2026.
+CLO (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Stereo, Glasgow on Fri, 16 Oct 2026.
 
 CLO (2) is a house and club artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Edinburgh, Glasgow and Paris. Often billed alongside strawb.bby, Babyjaii and Casement. Next up: Stereo, Glasgow on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ CLO (2) is a house and club artist based in United Kingdom, tracked on soundchec
 
 strawb.bby, Babyjaii, Casement
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clo-2/)*

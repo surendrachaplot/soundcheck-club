@@ -1,14 +1,13 @@
 # Function
 
-Function is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Function is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
-Function is a techno and house artist based in United States of America, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Function is a techno and house artist based in United States of America, tracked on soundcheck, with 128 sets logged across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Sat, 7 Nov 2026 | E1 | London |
@@ -28,4 +27,4 @@ Function is a techno and house artist based in United States of America, tracked
 
 Regis, Sandwell District, Sarah Wreath
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/function/)*

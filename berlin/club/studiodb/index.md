@@ -1,6 +1,6 @@
 # Studiodb
 
-Studiodb is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Emotional Intelligence Ep. 01 with ADAM MUNNINGS" on Thu, 24 Sept 2026.
+Studiodb is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Emotional Intelligence Ep. 01 with ADAM MUNNINGS" on Thu, 24 Sept 2026.
 
 Studiodb is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including ADAM MUNNINGS, Comf and Thor Rixon. Browse upcoming dates, start times and who's playing. Uferstrasse 8-11 ,Tor A, Studio A14 13357 Berlin.
 
@@ -16,4 +16,4 @@ Studiodb is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 
 Uferstrasse 8-11 ,Tor A, Studio A14 13357 Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studiodb/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studiodb/)*

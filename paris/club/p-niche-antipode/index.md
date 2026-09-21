@@ -1,6 +1,6 @@
 # Péniche Antipode
 
-Péniche Antipode is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "SEXYDELIC RELEASE PARTY" on Mon, 19 Oct 2026.
+Péniche Antipode is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "SEXYDELIC RELEASE PARTY" on Mon, 19 Oct 2026.
 
 Péniche Antipode is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Péniche Antipode, 55 Quai de la Seine, 75019 Paris.
 
@@ -14,4 +14,4 @@ Péniche Antipode is a music venue in Paris listed on soundcheck. 1 upcoming gig
 
 Péniche Antipode, 55 Quai de la Seine, 75019 Paris, Paris
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/p-niche-antipode/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/p-niche-antipode/)*

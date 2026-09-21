@@ -1,6 +1,6 @@
 # Collingwood Children's Farm
 
-Collingwood Children's Farm is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Echo Beach VI" on Sat, 31 Oct 2026.
+Collingwood Children's Farm is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Echo Beach VI" on Sat, 31 Oct 2026.
 
 Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Adriana (1), Babycino, BASHKKA and Darcy Justice and 2 more. Browse upcoming dates, start times and who's playing. 18 St Heliers St, Abbotsford.
 
@@ -15,4 +15,4 @@ Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 
 
 18 St Heliers St, Abbotsford, Melbourne
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-children-s-farm/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-children-s-farm/)*

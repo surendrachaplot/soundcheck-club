@@ -1,6 +1,6 @@
 # Avision
 
-Avision is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Concourse Project, Austin on Fri, 27 Nov 2026.
+Avision is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Concourse Project, Austin on Fri, 27 Nov 2026.
 
 Avision is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Maceo Plex, Victor Calderone and Alan Fitzpatrick. Next up: The Concourse Project, Austin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Avision is a house and techno artist based in United States of America, tracked 
 
 Maceo Plex, Victor Calderone, Alan Fitzpatrick
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avision/)*

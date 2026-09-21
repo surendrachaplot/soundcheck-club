@@ -1,6 +1,6 @@
 # dj vau
 
-dj vau is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
+dj vau is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
 dj vau is a techno and tech house artist tracked on soundcheck, with 4 sets logged across Berlin, London and Madrid. Often billed alongside Colin Chiddle, Wendy Bkz and sohrab.. Next up: FOLD, London on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ dj vau is a techno and tech house artist tracked on soundcheck, with 4 sets logg
 
 Colin Chiddle, Wendy Bkz, sohrab.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvau/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvau/)*

@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 37 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sunday Club - Shy One, Chunky, Finn, BFTT & Esqueezy" on Sun, 20 Sept 2026.
+The White Hotel is a music venue in Manchester with 36 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz" on Wed, 23 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming gigs, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming gigs, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Sunday Club - Shy One, Chunky, Finn, BFTT & Esqueezy | BFTT, Chunky, Esqueezy, Finn, Shy One |
 | Wed, 23 Sept 2026 | SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz | Conrad Pack, DJ Gonz, Esmé, Years of Denial |
 | Fri, 25 Sept 2026 | KOMAoto: jackzebra | Kekeneko, Kop-Z, Unit YoRHa, roop |
 | Fri, 25 Sept 2026 | SVBKVLT: Slikback (live) / Ziur / ABADIR (live) / Mun Sing / Hyph11E / Swimful | ABADIR, Hyph11E, Mun Sing, Slikback, Swimful, Ziúr |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming
 | Thu, 1 Oct 2026 | FILTH: BLANC | Connor (UK), Deventi, Egui, Franco Rossi, quarter ohm |
 | Fri, 2 Oct 2026 | Grey Lantern presents: GB [AD93] / Organ Tapes | Organ Tapes |
 | Fri, 2 Oct 2026 | Helena Hauff {extended} / DJ MELL G | DJ MELL G, Helena Hauff |
+| Sat, 3 Oct 2026 | YOUTH: Duster Valentine / Grace Sands / Lyster | DJ Lyster, Grace Sands |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

@@ -1,6 +1,6 @@
 # Under The Arches
 
-Under The Arches is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nothing Stays The Same - Mella Dee & Shanti Celeste" on Sat, 3 Oct 2026.
+Under The Arches is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Nothing Stays The Same - Mella Dee & Shanti Celeste" on Sat, 3 Oct 2026.
 
 Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including dj sweet6teen, Mella Dee, Saoirse and Shanti Celeste. Browse upcoming dates, start times and who's playing. Lower Briggate, LS1 6LY.
 
@@ -15,4 +15,4 @@ Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 Lower Briggate, LS1 6LY, Leeds
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*

@@ -1,6 +1,6 @@
 # Kamui Wada
 
-Kamui Wada is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
+Kamui Wada is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
 
 Kamui Wada is a garage and house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside DJ Flexure, yumes and Ogasawara. Next up: TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Kamui Wada is a garage and house artist based in Japan, tracked on soundcheck, w
 
 DJ Flexure, yumes, Ogasawara
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamuiwada/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamuiwada/)*

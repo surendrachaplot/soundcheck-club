@@ -1,6 +1,6 @@
 # FIFI FORTE
 
-FIFI FORTE is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+FIFI FORTE is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
 
 FIFI FORTE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Dublin, Ibiza and Liverpool and 5 more. Often billed alongside Jamie Jones, Manda Moor and Mike Morrisey. Next up: [UNVRS], Ibiza on Wed 23 Sept.
 
@@ -29,4 +29,4 @@ FIFI FORTE is a house and tech house artist based in United Kingdom, tracked on 
 
 Jamie Jones, Manda Moor, Mike Morrisey
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fififorte/)*

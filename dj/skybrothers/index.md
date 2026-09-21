@@ -1,6 +1,6 @@
 # SkyBrothers
 
-SkyBrothers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+SkyBrothers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
 SkyBrothers is a house and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam and Munich. Often billed alongside Pura Pachanga, Alice DiMar and Amber (NL). Next up: Park Café München, Munich on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ SkyBrothers is a house and tech house artist tracked on soundcheck, with 4 sets 
 
 Pura Pachanga, Alice DiMar, Amber (NL)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skybrothers/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skybrothers/)*

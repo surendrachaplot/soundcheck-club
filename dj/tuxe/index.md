@@ -1,18 +1,18 @@
 # Tuxe
 
-Tuxe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Circle Park, Brussels on Sun, 20 Sept 2026.
+Tuxe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at El Pumarejo Barcelona, Barcelona on Sat, 10 Oct 2026.
 
-Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Alírio, Ananda (BR) and Guza. Next up: Circle Park, Brussels on Sun 20 Sept.
+Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Alírio, Ananda (BR) and Guza. Next up: El Pumarejo Barcelona, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Circle Park | Brussels |
 | Sat, 10 Oct 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 
+- Circle Park, Brussels — Sun, 20 Sept 2026
 - radial, London — Sun, 13 Sept 2026
 - Distillery N17, London — Fri, 31 Jul 2026
 - Otto Wagner Areal, Vienna — Sun, 26 Jul 2026
@@ -20,10 +20,9 @@ Tuxe is a house and techno artist based in Brazil, tracked on soundcheck, with 3
 - Barraco SP /CO, Sao Paulo — Sat, 11 Apr 2026
 - Bar Carmem, Sao Paulo — Fri, 27 Feb 2026
 - TBA - R. QUINZE DE NOVEMBRO, 317 CENTRO — SÃO PAULO/SP, Sao Paulo — Sat, 17 Jan 2026
-- Zig Studio, Sao Paulo — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Alírio, Ananda (BR), Guza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuxe/)*

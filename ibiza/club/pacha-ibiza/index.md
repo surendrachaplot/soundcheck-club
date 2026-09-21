@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Solomun+1" on Sun, 20 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Sonny Fodera" on Mon, 21 Sept 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Solomun+1 | KETTAMA, Solomun |
 | Mon, 21 Sept 2026 | Sonny Fodera | Danny Howard, Roger Sanchez, Sonny Fodera |
 | Tue, 22 Sept 2026 | Gordo - TARAKA - CLOSING PARTY | Gordo |
 | Wed, 23 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
@@ -18,9 +17,10 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, wi
 | Sun, 27 Sept 2026 | Solomun+1 | Solomun, Âme |
 | Mon, 28 Sept 2026 | Sonny Fodera | JAZZY (2), Marten Lou, Sonny Fodera |
 | Wed, 30 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
+| Thu, 1 Oct 2026 | Purple Disco Machine - PURE PACHA - CLOSING PARTY | Breakbot, Busy P, Gerd Janson, Purple Disco Machine, david bay |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

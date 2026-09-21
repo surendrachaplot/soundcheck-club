@@ -1,6 +1,6 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Techno Thursday: 313 Trenches" on Thu, 24 Sept 2026.
+Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Techno Thursday: 313 Trenches" on Thu, 24 Sept 2026.
 
 Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including BRALLE, Craze, DJ Ace and Green River Haze and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
@@ -20,4 +20,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

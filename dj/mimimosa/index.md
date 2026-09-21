@@ -1,6 +1,6 @@
 # Mimimosa
 
-Mimimosa is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at frachtkante, Berlin on Sat, 26 Sept 2026.
+Mimimosa is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at frachtkante, Berlin on Sat, 26 Sept 2026.
 
 Mimimosa is a house and pop artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Christa K, AGILY and Beqqi. Next up: frachtkante, Berlin on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Mimimosa is a house and pop artist based in Germany, tracked on soundcheck, with
 
 Christa K, AGILY, Beqqi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimosa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimimosa/)*

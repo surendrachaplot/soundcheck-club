@@ -1,6 +1,6 @@
 # Sam PV
 
-Sam PV is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+Sam PV is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
 
 Sam PV is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Leeds, Lisbon, London and Manchester and 4 more. Often billed alongside Sofie K, Gwenan and Joe Delon. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Sam PV is a house and techno artist based in United Kingdom, tracked on soundche
 
 Sofie K, Gwenan, Joe Delon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampv/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampv/)*

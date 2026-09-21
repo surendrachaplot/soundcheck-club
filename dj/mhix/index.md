@@ -1,6 +1,6 @@
 # M HIX
 
-M HIX is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Upper East, London on Fri, 20 Nov 2026.
+M HIX is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Upper East, London on Fri, 20 Nov 2026.
 
 M HIX is a deep house and tech house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Joe Anthony. Next up: Upper East, London on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ M HIX is a deep house and tech house artist tracked on soundcheck, with 3 sets l
 
 Joe Anthony
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhix/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhix/)*

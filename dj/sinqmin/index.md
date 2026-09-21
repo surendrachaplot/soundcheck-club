@@ -1,6 +1,6 @@
 # Sinqmin
 
-Sinqmin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Compufunk Records, Osaka on Fri, 25 Sept 2026.
+Sinqmin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Compufunk Records, Osaka on Fri, 25 Sept 2026.
 
 Sinqmin is a house and techno artist tracked on soundcheck, with 73 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lonho, Sekitova and Pine. Next up: Compufunk Records, Osaka on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sinqmin is a house and techno artist tracked on soundcheck, with 73 sets logged 
 
 Lonho, Sekitova, Pine
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinqmin/)*

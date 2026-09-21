@@ -1,6 +1,6 @@
 # DJ Davidé
 
-DJ Davidé is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Cabaret Berlin, Montreal on Sun, 11 Oct 2026.
+DJ Davidé is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cabaret Berlin, Montreal on Sun, 11 Oct 2026.
 
 DJ Davidé is a techno and electro artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal and Tokyo. Often billed alongside DJ Mushin, Mushin and Omni. Next up: Cabaret Berlin, Montreal on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ DJ Davidé is a techno and electro artist based in Canada, tracked on soundcheck
 
 DJ Mushin, Mushin, Omni
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdavide/)*

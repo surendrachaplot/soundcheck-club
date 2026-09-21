@@ -1,14 +1,13 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "S.society: Dave Clarke, Maïa Neel, Yasmin Regisford" on Sun, 20 Sept 2026.
+Le Sucre is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Techno Body Music" on Fri, 25 Sept 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with line-ups including Airod, Alex Wilcox, BOYCA and CallBackSami and 2 more. Browse upcoming dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 9 upcoming gigs, with line-ups including Airod, Alex Wilcox, BOYCA and CallBackSami and 2 more. Browse upcoming dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | S.society: Dave Clarke, Maïa Neel, Yasmin Regisford | Dave Clarke, Yasmin Regisford |
 | Fri, 25 Sept 2026 | Techno Body Music | BOYCA, David Asko, Hugo Prime |
 | Sat, 26 Sept 2026 | Le Sucre, 24 heures | Airod, CallBackSami, DJ Physical, Jacidorex, KIRARA, LEGRAM VG, RIGO, Skin On Skin, Surusinghe, THELMA, Tony Romera |
 | Fri, 2 Oct 2026 | Blob Party: Watch Me | notinbed, sanderscore |
@@ -23,4 +22,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 10 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

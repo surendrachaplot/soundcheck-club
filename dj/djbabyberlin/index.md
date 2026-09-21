@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Upstairs at the 700, Philadelphia on Fri, 25 Sept 2026.
+DJ Baby Berlin is a New Wave and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Upstairs at the 700, Philadelphia on Fri, 25 Sept 2026.
 
 DJ Baby Berlin is a new wave and post-punk artist based in United States of America, tracked on soundcheck, with 82 sets logged across Newyorkcity and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Mark Cage. Next up: Upstairs at the 700, Philadelphia on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ DJ Baby Berlin is a new wave and post-punk artist based in United States of Amer
 
 Brad Scott, DJ Nightwitch, Mark Cage
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

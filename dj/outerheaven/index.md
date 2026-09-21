@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Outer Heaven is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Outer Heaven is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Birmingham and London. Often billed alongside Gremlinz, Anina and Choronzon. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Outer Heaven is a techno and drum & bass artist based in United Kingdom, tracked
 
 Gremlinz, Anina, Choronzon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/outerheaven/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/outerheaven/)*

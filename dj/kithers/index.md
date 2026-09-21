@@ -1,6 +1,6 @@
 # Kithers
 
-Kithers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Kithers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
 Kithers is a house and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Hobart and London and 1 more. Often billed alongside Bex, Amphi and Andy Luff. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kithers is a house and tech house artist tracked on soundcheck, with 27 sets log
 
 Bex, Amphi, Andy Luff
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kithers/)*

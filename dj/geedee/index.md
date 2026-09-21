@@ -1,6 +1,6 @@
 # Gee Dee
 
-Gee Dee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Green Room NYC, New York City on Fri, 16 Oct 2026.
+Gee Dee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Green Room NYC, New York City on Fri, 16 Oct 2026.
 
 Gee Dee is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Boston and Brisbane and 10 more. Often billed alongside Earth Beat, Extra Andrew and JDH. Next up: Green Room NYC, Newyorkcity on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Gee Dee is a house and techno artist based in United States of America, tracked 
 
 Earth Beat, Extra Andrew, JDH
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geedee/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geedee/)*

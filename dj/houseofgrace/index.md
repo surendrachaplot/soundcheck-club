@@ -1,14 +1,13 @@
 # House Of Grace
 
-House Of Grace is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+House Of Grace is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at So36, Berlin on Fri, 2 Oct 2026.
 
-House Of Grace is a house and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Cyranotaurus Cortex, Don Rogall and Emma Keks. Next up: KREUZWERK, Berlin on Sat 19 Sept.
+House Of Grace is a house and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Cyranotaurus Cortex, Don Rogall and Emma Keks. Next up: So36, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 | Fri, 2 Oct 2026 | So36 | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ House Of Grace is a house and tech house artist based in Germany, tracked on sou
 
 Cyranotaurus Cortex, Don Rogall, Emma Keks
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofgrace/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/houseofgrace/)*

@@ -1,6 +1,6 @@
 # Elnur
 
-Elnur is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Elnur is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 Elnur is a house and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Krakow and Prague and 2 more. Often billed alongside Andrii., Eric (UA) and Olga Korol. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Elnur is a house and techno artist tracked on soundcheck, with 20 sets logged ac
 
 Andrii., Eric (UA), Olga Korol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*

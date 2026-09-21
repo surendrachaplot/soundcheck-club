@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Shed Records: Switchezz, Weava, Marco Cargo, Saff B2B Astralis + more" on Tue, 22 Sept 2026.
+The Crown is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Shed Records: Switchezz, Weava, Marco Cargo, Saff B2B Astralis + more" on Tue, 22 Sept 2026.
 
 The Crown is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including mixtress and SAFF. Browse upcoming dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
@@ -16,4 +16,4 @@ The Crown is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, wit
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

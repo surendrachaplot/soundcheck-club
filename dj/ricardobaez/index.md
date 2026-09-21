@@ -1,6 +1,6 @@
 # Ricardo Baez
 
-Ricardo Baez is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Jolene, Copenhagen on Fri, 16 Oct 2026.
+Ricardo Baez is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Jolene, Copenhagen on Fri, 16 Oct 2026.
 
 Ricardo Baez is a house and electro artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Marc Anthony Bowen, Nunzio Borino and Volantis. Next up: Jolene, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ricardo Baez is a house and electro artist tracked on soundcheck, with 38 sets l
 
 Marc Anthony Bowen, Nunzio Borino, Volantis
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardobaez/)*

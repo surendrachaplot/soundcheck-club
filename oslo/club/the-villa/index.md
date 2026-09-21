@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Fragments pres. Decoder (US)" on Fri, 25 Sept 2026.
+The Villa is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Fragments pres. Decoder (US)" on Fri, 25 Sept 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line-ups including Aydin Imani, Bjørn Torske, Daichi Wada and Decoder and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -20,4 +20,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with l
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

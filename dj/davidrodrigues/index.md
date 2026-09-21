@@ -1,6 +1,6 @@
 # David Rodrigues
 
-David Rodrigues is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
+David Rodrigues is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 3 Oct 2026.
 
 David Rodrigues is a techno and acid artist based in Portugal, tracked on soundcheck, with 19 sets logged across Lisbon and Porto. Often billed alongside Enkō, Adonis and AlFaer. Next up: Village Underground Lisboa, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ David Rodrigues is a techno and acid artist based in Portugal, tracked on soundc
 
 Enkō, Adonis, AlFaer
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodrigues/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodrigues/)*

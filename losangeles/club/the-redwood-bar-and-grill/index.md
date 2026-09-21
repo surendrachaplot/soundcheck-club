@@ -1,6 +1,6 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 28 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Stax Johnson & Company" on Fri, 25 Sept 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 28 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Stax Johnson & Company" on Fri, 25 Sept 2026.
 
 The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 28 upcoming gigs. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
@@ -23,4 +23,4 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 2
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

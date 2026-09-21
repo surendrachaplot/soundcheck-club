@@ -1,6 +1,6 @@
 # dj volta (2)
 
-dj volta (2) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
+dj volta (2) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
 
 dj volta (2) is a drum & bass and bass artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside DJ Jee, Oxyd and Dillinja. Next up: La Cité Fertile, Paris on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ dj volta (2) is a drum & bass and bass artist tracked on soundcheck, with 2 sets
 
 DJ Jee, Oxyd, Dillinja
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvolta-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvolta-2/)*

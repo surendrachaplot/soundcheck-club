@@ -1,6 +1,6 @@
 # Bobby Myseh
 
-Bobby Myseh is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Meo, Vancouver on Sat, 26 Sept 2026.
+Bobby Myseh is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Meo, Vancouver on Sat, 26 Sept 2026.
 
 Bobby Myseh is a downtempo and ambient artist based in Canada, tracked on soundcheck, with 25 sets logged across London and Vancouver. Often billed alongside Body Double, Show of Hands and EDD1E B00P. Next up: Meo, Vancouver on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bobby Myseh is a downtempo and ambient artist based in Canada, tracked on soundc
 
 Body Double, Show of Hands, EDD1E B00P
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymyseh/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymyseh/)*

@@ -1,6 +1,6 @@
 # The Chan Centre for the Performing Arts
 
-The Chan Centre for the Performing Arts is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Jazz Is Dead featuring Cortex, Adrian Younge, and J.Rocc" on Tue, 22 Sept 2026.
+The Chan Centre for the Performing Arts is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Jazz Is Dead featuring Cortex, Adrian Younge, and J.Rocc" on Tue, 22 Sept 2026.
 
 The Chan Centre for the Performing Arts is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including J.Rocc. Browse upcoming dates, start times and who's playing. 6265 Crescent Rd, Vancouver, BC V6T 1Z1.
 
@@ -14,4 +14,4 @@ The Chan Centre for the Performing Arts is a music venue in Vancouver listed on 
 
 6265 Crescent Rd, Vancouver, BC V6T 1Z1, Vancouver
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-chan-centre-for-the-performing-arts/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-chan-centre-for-the-performing-arts/)*

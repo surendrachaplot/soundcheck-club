@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Ekkel + Jhort" on Fri, 25 Sept 2026.
+LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Ekkel + Jhort" on Fri, 25 Sept 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Binomi, BLNDFLD, Delta Funktionen and Ekkel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with 
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

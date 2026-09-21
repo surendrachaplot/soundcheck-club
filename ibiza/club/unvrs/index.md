@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Carl Cox" on Sun, 20 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Armin Van Buuren presents A State Of Trance" on Mon, 21 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 19 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Carl Cox | Carl Cox, Dennis Cruz, Karretero, Loco Dice, Melon Bomb, Mita Gami, PAUZA |
 | Mon, 21 Sept 2026 | Armin Van Buuren presents A State Of Trance | Argy, Armin van Buuren |
 | Tue, 22 Sept 2026 | Black Coffee | Black Coffee |
 | Wed, 23 Sept 2026 | Jamie Jones Paradise | Cam Stockman, DXNBY, FIFI FORTE, Franky Rizardo, Gaskin, Jamie Jones, Max Dean, Natalia Roth, Ozzie Guven, Wheats |
@@ -18,9 +17,10 @@
 | Sun, 27 Sept 2026 | Carl Cox | Alan Fitzpatrick, Carl Cox, Melon Bomb, Nicole Moudaber, PAUZA |
 | Mon, 28 Sept 2026 | Armin Van Buuren presents A State Of Trance | Armin van Buuren, Funk Tribu |
 | Tue, 29 Sept 2026 | No Art | ANOTR |
+| Wed, 30 Sept 2026 | Jamie Jones Paradise | Calvin Clarke, Ciclo, Damian Lazarus, Jamie Jones, Josh Dean, Loco Dice, SYREETA |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

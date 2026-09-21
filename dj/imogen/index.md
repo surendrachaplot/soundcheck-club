@@ -1,8 +1,8 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
+IMOGEN is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
 
-IMOGEN is a techno and electro artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
+IMOGEN is a techno and electro artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ IMOGEN is a techno and electro artist tracked on soundcheck, with 146 sets logge
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 16 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | Cadavra | Madrid |
+| Fri, 23 Oct 2026 | Yamamori Tengu | Dublin |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -29,4 +30,4 @@ IMOGEN is a techno and electro artist tracked on soundcheck, with 146 sets logge
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

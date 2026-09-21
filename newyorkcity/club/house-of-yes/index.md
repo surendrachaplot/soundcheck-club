@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Midnight Groove: Kellie Allen, Madota & More" on Fri, 25 Sept 2026.
+House of Yes is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Midnight Groove: Kellie Allen, Madota & More" on Fri, 25 Sept 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, with line-ups including Alistair, Aluna, Bella Mutino and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -23,4 +23,4 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 12 upcoming g
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

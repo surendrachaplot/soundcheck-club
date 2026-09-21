@@ -1,6 +1,6 @@
 # Bon (13)
 
-Bon (13) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
+Bon (13) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
 
 Bon (13) is a techno and minimal artist tracked on soundcheck, with 5 sets logged across Osaka and Vienna. Often billed alongside KUWAMAN, ai (16) and Bloody Cheeki $odz. Next up: BAR Inc, Osaka on Tue 22 Sept.
 
@@ -21,4 +21,4 @@ Bon (13) is a techno and minimal artist tracked on soundcheck, with 5 sets logge
 
 KUWAMAN, ai (16), Bloody Cheeki $odz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bon-13/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bon-13/)*

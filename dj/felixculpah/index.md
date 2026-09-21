@@ -1,6 +1,6 @@
 # Felixculpah
 
-Felixculpah is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
+Felixculpah is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
 
 Felixculpah is a dubstep and dub artist tracked on soundcheck, with 34 sets logged across Antwerp, Barcelona, Bucharest and Leeds and 3 more. Often billed alongside Breakfake, SGT Pokes and Krotone. Next up: The Golden Lion, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Felixculpah is a dubstep and dub artist tracked on soundcheck, with 34 sets logg
 
 Breakfake, SGT Pokes, Krotone
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*

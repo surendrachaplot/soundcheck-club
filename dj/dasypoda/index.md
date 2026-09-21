@@ -1,6 +1,6 @@
 # da:sypoda
 
-da:sypoda is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at JAKI, Cologne on Fri, 16 Oct 2026.
+da:sypoda is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at JAKI, Cologne on Fri, 16 Oct 2026.
 
 da:sypoda is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Cologne and Frankfurt. Often billed alongside Dom Waits, Slippy G. and karete bu. Next up: JAKI, Cologne on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ da:sypoda is a techno and tech house artist tracked on soundcheck, with 3 sets l
 
 Dom Waits, Slippy G., karete bu
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasypoda/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasypoda/)*

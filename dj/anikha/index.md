@@ -1,6 +1,6 @@
 # Anikha
 
-Anikha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Forum Station, Barcelona on Thu, 24 Sept 2026.
+Anikha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Forum Station, Barcelona on Thu, 24 Sept 2026.
 
 Anikha is a techno and house artist tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside Jazz K, NIIXII and in:control. Next up: Forum Station, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Anikha is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 Jazz K, NIIXII, in:control
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*

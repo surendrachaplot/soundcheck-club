@@ -1,6 +1,6 @@
 # Gilles de la Mare
 
-Gilles de la Mare is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Nagomix, Tokyo on Fri, 25 Sept 2026.
+Gilles de la Mare is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Nagomix, Tokyo on Fri, 25 Sept 2026.
 
 Gilles de la Mare is a trance and progressive house artist based in Japan, tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside Jay Turio, Nono THING and BEPPU. Next up: Nagomix, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Gilles de la Mare is a trance and progressive house artist based in Japan, track
 
 Jay Turio, Nono THING, BEPPU
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesdelamare/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesdelamare/)*

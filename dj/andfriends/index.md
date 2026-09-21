@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at EQ San Diego, San Diego on Fri, 9 Oct 2026.
+&friends is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at EQ San Diego, San Diego on Fri, 9 Oct 2026.
 
 &friends is a house and afro house artist tracked on soundcheck, with 6 sets logged across Barcelona, London, Losangeles and Miami and 2 more. Often billed alongside Apache, Channel Tres and Goom Gum. Next up: EQ San Diego, Sandiego on Fri 9 Oct.
 
@@ -22,4 +22,4 @@
 
 Apache, Channel Tres, Goom Gum
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

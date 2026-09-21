@@ -1,6 +1,6 @@
 # Stevie Wonder
 
-Stevie Wonder is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Stevie Wonder is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
 Stevie Wonder is a r&b and funk / soul artist tracked on soundcheck, with 4 sets logged across London, Newyorkcity and Sheffield. Often billed alongside Bass, Cardiac and Charlene. Next up: Lccm, London on Mon 28 Sept.
 
@@ -20,4 +20,4 @@ Stevie Wonder is a r&b and funk / soul artist tracked on soundcheck, with 4 sets
 
 Bass, Cardiac, Charlene
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewonder/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewonder/)*

@@ -1,16 +1,16 @@
 # Marcal
 
-Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Stereo, Montreal on Fri, 25 Sept 2026.
 
-Marcal is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Ignez, Zisko and Amotik. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Marcal is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Zisko and Amotik. Next up: Stereo, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | Stereo | Montreal |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
+| Fri, 30 Oct 2026 | Wigwam | Dublin |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -28,4 +28,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 96 sets logged a
 
 Ignez, Zisko, Amotik
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

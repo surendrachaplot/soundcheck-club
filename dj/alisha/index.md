@@ -1,14 +1,13 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Thuishaven, Amsterdam on Sun, 20 Sept 2026.
+ALISHA is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
 
-ALISHA is a house and tech house artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Thuishaven, Amsterdam on Sun 20 Sept.
+ALISHA is a house and tech house artist tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Amnesia Ibiza, Ibiza on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
@@ -23,6 +22,7 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 181 sets log
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 20 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
 - Cova Santa, Ibiza — Mon, 7 Sept 2026
 - Madrid Caja Mágica, Madrid — Sat, 5 Sept 2026
@@ -30,10 +30,9 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 181 sets log
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
-- Tigres de la Noche, Washington DC — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

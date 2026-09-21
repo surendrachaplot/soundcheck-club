@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Volt Club Milano, Milan on Fri, 25 Sept 2026.
+ANOTR is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Volt Club Milano, Milan on Fri, 25 Sept 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Volt Club Milano, Milan on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 157 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

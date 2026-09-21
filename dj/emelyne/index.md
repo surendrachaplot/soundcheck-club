@@ -1,13 +1,14 @@
 # Emelyne
 
-Emelyne is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
+Emelyne is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tendance, Prague on Tue, 22 Sept 2026.
 
-Emelyne is a bass and techno artist tracked on soundcheck, with 77 sets logged across Istanbul, Melbourne and Sydney. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Arkaoda, Istanbul on Sat 26 Sept.
+Emelyne is a bass and techno artist tracked on soundcheck, with 78 sets logged across Istanbul, Melbourne, Prague and Sydney. Often billed alongside Kate Miller, Moopie and Darcy Justice. Next up: Tendance, Prague on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 22 Sept 2026 | Tendance | Prague |
 | Sat, 26 Sept 2026 | Arkaoda | Istanbul |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
@@ -26,4 +27,4 @@ Emelyne is a bass and techno artist tracked on soundcheck, with 77 sets logged a
 
 Kate Miller, Moopie, Darcy Justice
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelyne/)*

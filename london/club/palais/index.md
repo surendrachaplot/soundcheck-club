@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Palais: Lou Nour (fka SICARIA) ft Lady Lykez, Naina, Carré & JAZ IMSKY" on Fri, 25 Sept 2026.
+Palais is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Palais: Lou Nour (fka SICARIA) ft Lady Lykez, Naina, Carré & JAZ IMSKY" on Fri, 25 Sept 2026.
 
 Palais is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Adi (CO), Alex Kassian, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 17 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

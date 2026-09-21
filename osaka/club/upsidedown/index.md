@@ -1,6 +1,6 @@
 # Upsidedown
 
-Upsidedown is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "TREPAmotion" on Fri, 25 Sept 2026.
+Upsidedown is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "TREPAmotion" on Fri, 25 Sept 2026.
 
 Upsidedown is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with line-ups including HSC (1), Kim.Qna and Tui (1). Browse upcoming dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -15,4 +15,4 @@ Upsidedown is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with
 
 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*

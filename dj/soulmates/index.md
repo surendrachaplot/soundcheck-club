@@ -1,6 +1,6 @@
 # Soulmates
 
-Soulmates is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Basic Club, Naples on Sat, 3 Oct 2026.
+Soulmates is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Basic Club, Naples on Sat, 3 Oct 2026.
 
 Soulmates is a house and tech house artist based in Italy, tracked on soundcheck, with 12 sets logged across Naples. Often billed alongside Masy (IT), Darius Syrossian and Alex Vibes. Next up: Basic Club, Naples on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Soulmates is a house and tech house artist based in Italy, tracked on soundcheck
 
 Masy (IT), Darius Syrossian, Alex Vibes
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmates/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmates/)*

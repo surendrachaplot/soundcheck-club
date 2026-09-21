@@ -1,6 +1,6 @@
 # Oscar Thous
 
-Oscar Thous is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lastriko, Krakow on Sat, 17 Oct 2026.
+Oscar Thous is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lastriko, Krakow on Sat, 17 Oct 2026.
 
 Oscar Thous is a techno and house artist tracked on soundcheck, with 20 sets logged across Krakow. Often billed alongside Matthew Ka, Aetha and Meg (PL). Next up: Lastriko, Krakow on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Oscar Thous is a techno and house artist tracked on soundcheck, with 20 sets log
 
 Matthew Ka, Aetha, Meg (PL)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarthous/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarthous/)*

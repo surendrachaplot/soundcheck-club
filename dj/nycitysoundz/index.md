@@ -1,6 +1,6 @@
 # NYCity Soundz
 
-NYCity Soundz is a House and Club artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Crown Pier, London on Sat, 26 Sept 2026.
+NYCity Soundz is a House and Club artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Crown Pier, London on Sat, 26 Sept 2026.
 
 NYCity Soundz is a house and club artist tracked on soundcheck, with 197 sets logged across London. Often billed alongside VanRock, Mr Fresh Official and Eddie Van Poppel. Next up: Crown Pier, London on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ NYCity Soundz is a house and club artist tracked on soundcheck, with 197 sets lo
 
 VanRock, Mr Fresh Official, Eddie Van Poppel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nycitysoundz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nycitysoundz/)*

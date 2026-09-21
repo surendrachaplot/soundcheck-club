@@ -1,14 +1,13 @@
 # Alex Zhang Hungtai
 
-Alex Zhang Hungtai is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Alex Zhang Hungtai is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
-Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | TBA - Rotterdam Various Locations | Rotterdam |
 | Thu, 1 Oct 2026 | Pilar - VUB | Brussels |
 
@@ -27,4 +26,4 @@ Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked
 
 Aba Shanti-I, Arooj Aftab, BRINGAS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*

@@ -1,6 +1,6 @@
 # BIG-T
 
-BIG-T is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
+BIG-T is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
 
 BIG-T is a house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Lisbon. Often billed alongside BIG-T (NL), Midas Field and Satyr. Next up: Madam, Amsterdam on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ BIG-T is a house artist tracked on soundcheck, with 2 sets logged across Amsterd
 
 BIG-T (NL), Midas Field, Satyr
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/big-t/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/big-t/)*

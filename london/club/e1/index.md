@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 42 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ALIVE: DYEN (ALL NIGHT LONG) + LeStrange" on Fri, 25 Sept 2026.
+E1 is a music venue in London with 42 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ALIVE: DYEN (ALL NIGHT LONG) + LeStrange" on Fri, 25 Sept 2026.
 
 E1 is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and ABEL (UK) and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 42 upcoming gigs, with line-
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

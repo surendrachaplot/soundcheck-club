@@ -1,6 +1,6 @@
 # Reduks
 
-Reduks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
+Reduks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
 
 Reduks is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Munich and Nurnberg and 2 more. Often billed alongside VSSL, Kareem El Morr and Muallem. Next up: Gewölbe, Cologne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Reduks is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 VSSL, Kareem El Morr, Muallem
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reduks/)*

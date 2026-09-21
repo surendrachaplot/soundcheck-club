@@ -1,6 +1,6 @@
 # The Trinity Centre
 
-The Trinity Centre is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "EXRCISM: Chapter One" on Sat, 26 Sept 2026.
+The Trinity Centre is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "EXRCISM: Chapter One" on Sat, 26 Sept 2026.
 
 The Trinity Centre is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Breakforce One, Coki, Darcy and Flowdan and 2 more. Browse upcoming dates, start times and who's playing. Trinity Road; Bristol BS2 0NW; United Kingdom.
 
@@ -17,4 +17,4 @@ The Trinity Centre is a music venue in Bristol listed on soundcheck. 4 upcoming 
 
 Trinity Road; Bristol BS2 0NW; United Kingdom, Bristol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-trinity-centre/)*

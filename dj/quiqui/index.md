@@ -1,6 +1,6 @@
 # QuiQui
 
-QuiQui is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+QuiQui is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 QuiQui is a progressive house and house artist tracked on soundcheck, with 2 sets logged across Amsterdam and Tokyo. Often billed alongside Around Us, BODAI and Camiel Villa. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ QuiQui is a progressive house and house artist tracked on soundcheck, with 2 set
 
 Around Us, BODAI, Camiel Villa
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quiqui/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quiqui/)*

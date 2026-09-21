@@ -1,6 +1,6 @@
 # MARIA MAGDALENA
 
-MARIA MAGDALENA is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Warschauer Platz 10245 Berlin, Berlin on Fri, 2 Oct 2026.
+MARIA MAGDALENA is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Warschauer Platz 10245 Berlin, Berlin on Fri, 2 Oct 2026.
 
 MARIA MAGDALENA is a club and experimental artist tracked on soundcheck, with 5 sets logged across Berlin and Warsaw. Often billed alongside Anthracene, Nyennea and bod [包家巷]. Next up: TBA - Warschauer Platz 10245 Berlin, Berlin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ MARIA MAGDALENA is a club and experimental artist tracked on soundcheck, with 5 
 
 Anthracene, Nyennea, bod [包家巷]
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamagdalena/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamagdalena/)*

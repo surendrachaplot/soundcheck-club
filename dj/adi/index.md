@@ -1,6 +1,6 @@
 # Adi
 
-Adi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
+Adi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
 
 Adi is a house and electro artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ Rino, Fais Le Beau and SVS (1). Next up: Les Enfants Brillants, Barcelona on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Adi is a house and electro artist tracked on soundcheck, with 39 sets logged acr
 
 DJ Rino, Fais Le Beau, SVS (1)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*

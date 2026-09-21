@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "GARAGE NATION Closing Party" on Wed, 23 Sept 2026.
+Eden is a music venue in Ibiza with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GARAGE NATION Closing Party" on Wed, 23 Sept 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with line-ups including Markus Schulz. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -18,4 +18,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 5 upcoming gigs, with line-
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

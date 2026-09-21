@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sunday Skate Club: The Disco Express feat. Bustin' Loose, Roland & Brother Rich (skate)" on Sun, 20 Sept 2026.
+Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Twin Shadow (concert)" on Thu, 24 Sept 2026.
 
-Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming gigs, with line-ups including Bustin' Loose, Dangerous Rose, Andi and Makadsi and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs, with line-ups including Dangerous Rose, Andi, Makadsi and Marie Davidson and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Sunday Skate Club: The Disco Express feat. Bustin' Loose, Roland & Brother Rich (skate) | Bustin' Loose, Roland & Brother Rich |
 | Thu, 24 Sept 2026 | Twin Shadow (concert) |  |
 | Sun, 27 Sept 2026 | Sunday Skate Club: DJ Big Bob vs 4AM NYC - Club Flush: Smurfo Udirty | SMURFOUDIRTY |
 | Thu, 8 Oct 2026 | Lettuce Cook Tour (concert) |  |
@@ -20,4 +19,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 7 upcoming gigs, wi
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

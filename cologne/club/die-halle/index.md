@@ -1,6 +1,6 @@
 # Die Halle
 
-Die Halle is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Schrotthagen Neue Welt Tour @Halle Tor 2" on Sat, 7 Nov 2026.
+Die Halle is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Schrotthagen Neue Welt Tour @Halle Tor 2" on Sat, 7 Nov 2026.
 
 Die Halle is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Schrotthagen. Browse upcoming dates, start times and who's playing. Girlitzweg 30; 50829 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Die Halle is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with
 
 Girlitzweg 30; 50829 Cologne; Germany, Cologne
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/die-halle/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/die-halle/)*

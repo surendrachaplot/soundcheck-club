@@ -1,14 +1,13 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Luxi Villar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
 
-Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
+Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and Adiel. Next up: Spook Club, Valencia on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 3 Oct 2026 | Spook Club | Valencia |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 7 Nov 2026 | París 15 | Malaga |
@@ -28,4 +27,4 @@ Luxi Villar is a techno and house artist based in Spain, tracked on soundcheck, 
 
 Andres Campo, Fatima Hajji, Adiel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*

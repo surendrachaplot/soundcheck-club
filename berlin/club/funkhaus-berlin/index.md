@@ -1,6 +1,6 @@
 # Funkhaus Berlin
 
-Funkhaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Ryuichi Sakamoto Opus (Audiophile Screening)" on Sat, 26 Sept 2026.
+Funkhaus Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Ryuichi Sakamoto Opus (Audiophile Screening)" on Sat, 26 Sept 2026.
 
 Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alva Noto, Bendik Giske, Dustin Zahn and Efterklang and 2 more. Browse upcoming dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
 
@@ -16,4 +16,4 @@ Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs
 
 Nalepastraße 18, 12459 Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/funkhaus-berlin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/funkhaus-berlin/)*

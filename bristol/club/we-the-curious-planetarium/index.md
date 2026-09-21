@@ -1,6 +1,6 @@
 # We The Curious Planetarium
 
-We The Curious Planetarium is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary)" on Tue, 13 Oct 2026.
+We The Curious Planetarium is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary)" on Tue, 13 Oct 2026.
 
 We The Curious Planetarium is a music venue in Bristol listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 1 Millennium Square, One Millennium Square, Anchor Rd, Bristol BS1 5DB.
 
@@ -15,4 +15,4 @@ We The Curious Planetarium is a music venue in Bristol listed on soundcheck. 2 u
 
 1 Millennium Square, One Millennium Square, Anchor Rd, Bristol BS1 5DB, Bristol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/we-the-curious-planetarium/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/we-the-curious-planetarium/)*

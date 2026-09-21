@@ -1,6 +1,6 @@
 # Rebel
 
-Rebel is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Fahlberg (360 Set)" on Sat, 10 Oct 2026.
+Rebel is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Fahlberg (360 Set)" on Sat, 10 Oct 2026.
 
 Rebel is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Carl Cox, Fahlberg and R8YZ. Browse upcoming dates, start times and who's playing. 11 Polson Street; Toronto, ON M5A 1A4; Canada.
 
@@ -15,4 +15,4 @@ Rebel is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with li
 
 11 Polson Street; Toronto, ON M5A 1A4; Canada, Toronto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*

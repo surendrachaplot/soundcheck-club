@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
+BADSISTA is a House and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Razzmatazz, Barcelona on Fri, 25 Sept 2026.
 
 BADSISTA is a house and baile funk artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 38 more. Often billed alongside Cashu, Paulete Lindacelva and EVEHIVE. Next up: Razzmatazz, Barcelona on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ BADSISTA is a house and baile funk artist tracked on soundcheck, with 129 sets l
 
 Cashu, Paulete Lindacelva, EVEHIVE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

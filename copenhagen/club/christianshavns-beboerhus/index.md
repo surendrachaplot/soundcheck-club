@@ -1,6 +1,6 @@
 # Christianshavns Beboerhus
 
-Christianshavns Beboerhus is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Boarder Breaks: Linnea Awad (SE) / ZERO BATS (NO) / Spawner (DK)" on Fri, 2 Oct 2026.
+Christianshavns Beboerhus is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Boarder Breaks: Linnea Awad (SE) / ZERO BATS (NO) / Spawner (DK)" on Fri, 2 Oct 2026.
 
 Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including KUCHULU and Suzie The Cockroach. Browse upcoming dates, start times and who's playing. Dronningensgade 34, 1420 Copenhagen K.
 
@@ -16,4 +16,4 @@ Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 3
 
 Dronningensgade 34, 1420 Copenhagen K, Copenhagen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*

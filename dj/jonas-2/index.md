@@ -1,6 +1,6 @@
 # Jonas (2)
 
-Jonas (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 31 Oct 2026.
+Jonas (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 31 Oct 2026.
 
 Jonas (2) is a house and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Antwerp, London and Prague. Often billed alongside A For Alpha, A.Wild and Acid Sally. Next up: Shelter Amsterdam, Amsterdam on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Jonas (2) is a house and tech house artist tracked on soundcheck, with 4 sets lo
 
 A For Alpha, A.Wild, Acid Sally
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonas-2/)*

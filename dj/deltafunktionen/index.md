@@ -1,6 +1,6 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
+Delta Funktionen is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
 
 Delta Funktionen is a techno and downtempo artist tracked on soundcheck, with 6 sets logged across Amsterdam, Athens, Barcelona and Berlin and 1 more. Often billed alongside .VRIL, 3.14 and Adiel. Next up: LAUT, Barcelona on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Delta Funktionen is a techno and downtempo artist tracked on soundcheck, with 6 
 
 .VRIL, 3.14, Adiel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*

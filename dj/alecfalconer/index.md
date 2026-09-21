@@ -1,14 +1,13 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Alec Falconer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
-Alec Falconer is a house and garage artist tracked on soundcheck, with 114 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Alec Falconer is a house and garage artist tracked on soundcheck, with 114 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
 | Fri, 16 Oct 2026 | People's Leisure Club | Edinburgh |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
@@ -28,4 +27,4 @@ Alec Falconer is a house and garage artist tracked on soundcheck, with 114 sets 
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

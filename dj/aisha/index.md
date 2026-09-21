@@ -1,6 +1,6 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Chitei 地底, Tokyo on Sun, 4 Oct 2026.
+AISHA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Chitei 地底, Tokyo on Sun, 4 Oct 2026.
 
 AISHA is a techno and trance artist tracked on soundcheck, with 148 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside franck, Azyr and Faster Horses. Next up: Chitei 地底, Tokyo on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ AISHA is a techno and trance artist tracked on soundcheck, with 148 sets logged 
 
 franck, Azyr, Faster Horses
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*

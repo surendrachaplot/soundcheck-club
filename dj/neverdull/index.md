@@ -1,6 +1,6 @@
 # Never Dull
 
-Never Dull is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - 6th St Bridge, Los Angeles on Fri, 25 Sept 2026.
+Never Dull is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - 6th St Bridge, Los Angeles on Fri, 25 Sept 2026.
 
 Never Dull is a house and disco artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside Rich Reason, Acid Jacks and Boogietraxx. Next up: TBA - 6th St Bridge, Losangeles on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Never Dull is a house and disco artist based in United States of America, tracke
 
 Rich Reason, Acid Jacks, Boogietraxx
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*

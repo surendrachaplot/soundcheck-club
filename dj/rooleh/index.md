@@ -1,14 +1,13 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Brisa Open Air, Barcelona on Sun, 20 Sept 2026.
+Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
-Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Brisa Open Air, Barcelona on Sun 20 Sept.
+Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Brisa Open Air | Barcelona |
 | Sat, 3 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |
@@ -19,6 +18,7 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets log
 
 ## Recently played
 
+- Brisa Open Air, Barcelona — Sun, 20 Sept 2026
 - TBA, Lisbon — Fri, 18 Sept 2026
 - Night Tales, London — Fri, 11 Sept 2026
 - TivoliVredenburg, Utrecht — Sat, 29 Aug 2026
@@ -26,10 +26,9 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets log
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Sportpark Riekerhaven, Amsterdam — Sat, 18 Jul 2026
 - Blue Marlin Ibiza, Ibiza — Wed, 15 Jul 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

@@ -1,6 +1,6 @@
 # SOSANDLOW
 
-SOSANDLOW is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at High Club Room, Madrid on Sat, 17 Oct 2026.
+SOSANDLOW is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at High Club Room, Madrid on Sat, 17 Oct 2026.
 
 SOSANDLOW is a house and techno artist tracked on soundcheck, with 26 sets logged across Madrid and Malaga. Often billed alongside I AM JAS, David Ponziano and TEEMON&POOMBA. Next up: High Club Room, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SOSANDLOW is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 I AM JAS, David Ponziano, TEEMON&POOMBA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosandlow/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosandlow/)*

@@ -1,6 +1,6 @@
 # Nathan Homan
 
-Nathan Homan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Nathan Homan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Nathan Homan is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Paris, Rotterdam and Thehague. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Nathan Homan is a house and techno artist tracked on soundcheck, with 46 sets lo
 
 Tsepo, Merel Helderman, SOLIT
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*

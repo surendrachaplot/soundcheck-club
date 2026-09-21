@@ -1,6 +1,6 @@
 # Brasserie de la Mule
 
-Brasserie de la Mule is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SNKLS live + dj sets: EliseThere / Knurx / Mixsoup + VJ: Jeune Sorcier" on Fri, 25 Sept 2026.
+Brasserie de la Mule is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SNKLS live + dj sets: EliseThere / Knurx / Mixsoup + VJ: Jeune Sorcier" on Fri, 25 Sept 2026.
 
 Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including EliseThere, Knurx and SNKLS. Browse upcoming dates, start times and who's playing. Rue Rubens 95, 1030 Schaerbeek.
 
@@ -15,4 +15,4 @@ Brasserie de la Mule is a music venue in Brussels listed on soundcheck. 2 upcomi
 
 Rue Rubens 95, 1030 Schaerbeek, Brussels
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-mule/)*

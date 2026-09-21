@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
+Josh Caffé is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
 
 Josh Caffé is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 38 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Kilomètre25, Paris on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Josh Caffé is a house and techno artist tracked on soundcheck, with 153 sets lo
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

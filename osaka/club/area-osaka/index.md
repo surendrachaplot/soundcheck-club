@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BAR TIME BGM" on Tue, 22 Sept 2026.
+Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "BAR TIME BGM" on Tue, 22 Sept 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including DJ KAZUMA, EICHIMEN, Grimwig and YAMA(JP/OSK). Browse upcoming dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -17,4 +17,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

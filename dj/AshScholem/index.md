@@ -1,6 +1,6 @@
 # Ash Scholem
 
-Ash Scholem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
+Ash Scholem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
 
 Ash Scholem is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Gacha, Kraumur and Giorgi Pipia. Next up: Left Bank, Tbilisi on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ash Scholem is a techno and house artist tracked on soundcheck, with 87 sets log
 
 Gacha, Kraumur, Giorgi Pipia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/AshScholem/)*

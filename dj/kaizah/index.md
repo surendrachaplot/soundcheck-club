@@ -1,6 +1,6 @@
 # Kaizah
 
-Kaizah is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
+Kaizah is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
 
 Kaizah is a drum & bass and house artist tracked on soundcheck, with 15 sets logged across Bristol, London, Manchester and Tokyo. Often billed alongside Anny (UK), Mojay and AC13. Next up: Onyx (E1), London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kaizah is a drum & bass and house artist tracked on soundcheck, with 15 sets log
 
 Anny (UK), Mojay, AC13
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizah/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizah/)*

@@ -1,6 +1,6 @@
 # Xwnia Wölf
 
-Xwnia Wölf is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fünk, Mexico City on Fri, 25 Sept 2026.
+Xwnia Wölf is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fünk, Mexico City on Fri, 25 Sept 2026.
 
 Xwnia Wölf is a house and minimal artist based in Mexico, tracked on soundcheck, with 34 sets logged across London, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside WÖLF, Mejia and Barreto. Next up: Fünk, Mexicocity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Xwnia Wölf is a house and minimal artist based in Mexico, tracked on soundcheck
 
 WÖLF, Mejia, Barreto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xwniawolf/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xwniawolf/)*

@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Cabaret Perché : La Cour Des Miracles" on Sat, 26 Sept 2026.
+Cabaret Sauvage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Cabaret Perché : La Cour Des Miracles" on Sat, 26 Sept 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including ARKID, Boston Bun, Darwin and Eliza Rose and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -18,4 +18,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 5 upcoming gigs,
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

@@ -1,14 +1,13 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PYRAMID PARTY: YIN AND YANG" on Sun, 20 Sept 2026.
+MaHalla is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SANCTUM OF SOUND - OCTOBER EDITION" on Sun, 4 Oct 2026.
 
-MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
+MaHalla is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | PYRAMID PARTY: YIN AND YANG |  |
 | Sun, 4 Oct 2026 | SANCTUM OF SOUND - OCTOBER EDITION |  |
 | Sat, 28 Nov 2026 | Sam Gendel & Sam Wilkes Live |  |
 
@@ -16,4 +15,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. Browse
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

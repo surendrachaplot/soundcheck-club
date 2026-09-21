@@ -1,6 +1,6 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LUCKY DIP - QUEER HOUSE AND GARAGE" on Thu, 24 Sept 2026.
+Dalston Superstore is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LUCKY DIP - QUEER HOUSE AND GARAGE" on Thu, 24 Sept 2026.
 
 Dalston Superstore is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Split, Macy See, Mica Coca and Michelle Manetti and 2 more. Browse upcoming dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
@@ -15,4 +15,4 @@ Dalston Superstore is a music venue in London listed on soundcheck. 2 upcoming g
 
 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

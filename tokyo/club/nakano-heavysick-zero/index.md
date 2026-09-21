@@ -1,6 +1,6 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LARiX vol.15" on Mon, 21 Sept 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LARiX vol.15" on Mon, 21 Sept 2026.
 
 Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Dogwoods, Hirosson, iida Reo and Isidor and 1 more. Browse upcoming dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
@@ -17,4 +17,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 4 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

@@ -1,6 +1,6 @@
 # ASCENDER
 
-ASCENDER is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Radost FX, Prague on Sat, 7 Nov 2026.
+ASCENDER is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Radost FX, Prague on Sat, 7 Nov 2026.
 
 ASCENDER is a deep house and techno artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague. Often billed alongside Jan Nedved, Hiro and thats.me.andrew. Next up: Radost FX, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ASCENDER is a deep house and techno artist based in Czech Republic, tracked on s
 
 Jan Nedved, Hiro, thats.me.andrew
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ascender/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ascender/)*

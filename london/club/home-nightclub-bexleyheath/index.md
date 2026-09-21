@@ -1,6 +1,6 @@
 # Home Nightclub Bexleyheath
 
-Home Nightclub Bexleyheath is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "JORDAN PEAK, BEAVE, LOTTIE J - Lost Culture presents: Regulate" on Fri, 25 Sept 2026.
+Home Nightclub Bexleyheath is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "JORDAN PEAK, BEAVE, LOTTIE J - Lost Culture presents: Regulate" on Fri, 25 Sept 2026.
 
 Home Nightclub Bexleyheath is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Jimi Latifi, jjmorris4, Jordan Peak and Max Volume (UK) and 2 more. Browse upcoming dates, start times and who's playing. 239 Broadway, Bexleyheath DA6 8DB.
 
@@ -14,4 +14,4 @@ Home Nightclub Bexleyheath is a music venue in London listed on soundcheck. 1 up
 
 239 Broadway, Bexleyheath DA6 8DB, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/home-nightclub-bexleyheath/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/home-nightclub-bexleyheath/)*

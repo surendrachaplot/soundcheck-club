@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "IMTRUDER W/ GOBAXX" on Fri, 25 Sept 2026.
+X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "IMTRUDER W/ GOBAXX" on Fri, 25 Sept 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Fran Lobato, Mario Mendoza, Ruben Luna and Vico Deep. Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

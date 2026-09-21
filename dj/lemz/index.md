@@ -1,6 +1,6 @@
 # Lemz
 
-Lemz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Flash, Washington DC on Fri, 23 Oct 2026.
+Lemz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Flash, Washington DC on Fri, 23 Oct 2026.
 
 Lemz is a house and deep house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside MAXIMILIANO (US), Keenan Orr and DJ Lisa Frank. Next up: Flash, Washingtondc on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lemz is a house and deep house artist based in United States of America, tracked
 
 MAXIMILIANO (US), Keenan Orr, DJ Lisa Frank
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemz/)*

@@ -1,6 +1,6 @@
 # Fletchy Boy
 
-Fletchy Boy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Fletchy Boy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 Fletchy Boy is a house and deep house artist tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Mu dB, Unmarried Woman and Coloray. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fletchy Boy is a house and deep house artist tracked on soundcheck, with 26 sets
 
 Mu dB, Unmarried Woman, Coloray
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*

@@ -1,6 +1,6 @@
 # Blossom Hill
 
-Blossom Hill is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
+Blossom Hill is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
 
 Blossom Hill is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 5 more. Often billed alongside Seb Wildblood, schulze and ||||||||||||||||||||. Next up: Volta, Amsterdam on Thu 22 Oct.
 
@@ -12,6 +12,7 @@ Blossom Hill is a house and electronica artist based in United Kingdom, tracked 
 
 ## Recently played
 
+- sum.Wine, Berlin — Sun, 20 Sept 2026
 - The Greyhound, London — Sat, 5 Sept 2026
 - Liquidrom, Berlin — Fri, 31 Jul 2026
 - arkaoda Berlin, Berlin — Sat, 16 May 2026
@@ -19,10 +20,9 @@ Blossom Hill is a house and electronica artist based in United Kingdom, tracked 
 - Orangerie Neukölln, Berlin — Sat, 18 Apr 2026
 - Jolene, Copenhagen — Sat, 11 Apr 2026
 - M.O.T, London — Sat, 4 Apr 2026
-- Geist im Glas, Berlin — Thu, 26 Mar 2026
 
 ## Shares bills with
 
 Seb Wildblood, schulze, ||||||||||||||||||||
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*

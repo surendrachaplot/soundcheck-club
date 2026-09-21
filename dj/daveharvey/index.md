@@ -1,6 +1,6 @@
 # Dave Harvey
 
-Dave Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
+Dave Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The White Hotel, Manchester on Sat, 31 Oct 2026.
 
 Dave Harvey is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Belgrade, Bristol and Bucharest and 10 more. Often billed alongside Ellie Stokes, Chez de Milo and Felix Dickinson. Next up: The White Hotel, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dave Harvey is a house and techno artist tracked on soundcheck, with 70 sets log
 
 Ellie Stokes, Chez de Milo, Felix Dickinson
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*

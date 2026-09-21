@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Stretch Collective w/Mathew Jonson (live), Ellie Stokes" on Fri, 25 Sept 2026.
+Strange Brew is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Stretch Collective w/Mathew Jonson (live), Ellie Stokes" on Fri, 25 Sept 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including Addsound, Anina, Burly Chassis and Carla dal Forno and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 13 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

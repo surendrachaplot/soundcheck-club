@@ -1,6 +1,6 @@
 # MINJA
 
-MINJA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Insomnia, Berlin on Sat, 12 Dec 2026.
+MINJA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Insomnia, Berlin on Sat, 12 Dec 2026.
 
 MINJA is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 2 more. Often billed alongside Horst Haller, Amed Nheiro and Blame the Booker. Next up: Insomnia, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MINJA is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Horst Haller, Amed Nheiro, Blame the Booker
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minja/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minja/)*

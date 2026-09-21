@@ -1,6 +1,6 @@
 # BOY&GIRL
 
-BOY&GIRL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+BOY&GIRL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, with 4 sets logged across Amsterdam, Antwerp and Brussels. Often billed alongside L.zwo, 2HOT2PLAY and Dj Schnake. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ BOY&GIRL is a techno and trance artist based in Belgium, tracked on soundcheck, 
 
 L.zwo, 2HOT2PLAY, Dj Schnake
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*

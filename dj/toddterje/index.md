@@ -1,6 +1,6 @@
 # Todd Terje
 
-Todd Terje is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 24 Sept 2026.
+Todd Terje is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 24 Sept 2026.
 
 Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside Jayda G, Skatebård and Underworld. Next up: Pacha Ibiza, Ibiza on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logge
 
 Jayda G, Skatebård, Underworld
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*

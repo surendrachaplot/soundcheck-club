@@ -1,6 +1,6 @@
 # yingtuitive
 
-yingtuitive is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
+yingtuitive is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ormside Projects, London on Sat, 17 Oct 2026.
 
 yingtuitive is an experimental and ambient artist based in Singapore, tracked on soundcheck, with 7 sets logged across Bristol and London. Often billed alongside Tristan Arp, Alexis and Blue Ringed Baby. Next up: Ormside Projects, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ yingtuitive is an experimental and ambient artist based in Singapore, tracked on
 
 Tristan Arp, Alexis, Blue Ringed Baby
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yingtuitive/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yingtuitive/)*

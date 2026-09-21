@@ -1,6 +1,6 @@
 # Blueverbs
 
-Blueverbs is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+Blueverbs is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
 Blueverbs is a techno and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Philadelphia. Often billed alongside Caiya, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Blueverbs is a techno and footwork artist based in United States of America, tra
 
 Caiya, GorpoPap, Alien Body
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blueverbs/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blueverbs/)*

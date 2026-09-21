@@ -1,6 +1,6 @@
 # Liho
 
-Liho is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at New Guernica, Melbourne on Thu, 24 Sept 2026.
+Liho is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at New Guernica, Melbourne on Thu, 24 Sept 2026.
 
 Liho is a techno and deep house artist based in Germany, tracked on soundcheck, with 40 sets logged across Cologne and Melbourne. Often billed alongside Max Blumen, Gutkind and Juan Del Chambo. Next up: New Guernica, Melbourne on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Liho is a techno and deep house artist based in Germany, tracked on soundcheck, 
 
 Max Blumen, Gutkind, Juan Del Chambo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liho/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liho/)*

@@ -1,6 +1,6 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
 
 Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 43 sets logged across Birmingham, Bristol, Denver and Glasgow and 9 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: Wharf Chambers, Leeds on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundche
 
 Jesta, Rumbleton, Rhythmo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*

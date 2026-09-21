@@ -1,6 +1,6 @@
 # Lexurus
 
-Lexurus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
+Lexurus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 25 Sept 2026.
 
 Lexurus is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Maduk, MOTA and Telomic. Next up: Uebel & Gefährlich, Hamburg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Lexurus is a drum & bass and bass artist based in Netherlands, tracked on soundc
 
 Maduk, MOTA, Telomic
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexurus/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexurus/)*

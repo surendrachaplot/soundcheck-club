@@ -1,6 +1,6 @@
 # Dale Hart
 
-Dale Hart is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Dale Hart is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Dale Hart is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Bristol, Ibiza and London. Often billed alongside Darius Syrossian, ACA (YU) and Ryan Connolly. Next up: The Cause, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dale Hart is a house and tech house artist based in United Kingdom, tracked on s
 
 Darius Syrossian, ACA (YU), Ryan Connolly
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehart/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dalehart/)*

@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE]" on Thu, 24 Sept 2026.
+control is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ctrl x aim+wall present: A Guy Called Gerald [UK][LIVE]" on Thu, 24 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Arab, AEREA, A Guy Called Gerald and aim+wall and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -20,4 +20,4 @@ control is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, wit
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

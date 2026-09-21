@@ -1,6 +1,6 @@
 # Sakena Ali
 
-Sakena Ali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+Sakena Ali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
 Sakena Ali is a techno and house artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside G.HO, Prom Night and Sofie Jacobi. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sakena Ali is a techno and house artist based in Denmark, tracked on soundcheck,
 
 G.HO, Prom Night, Sofie Jacobi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakenaali/)*

@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 21 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SUNDEJ SE SUNDAY" on Sun, 20 Sept 2026.
+Cross Club is a music venue in Prague with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LOS TEKKENOS - ROR AFTER" on Mon, 21 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 21 upcoming gigs, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 20 upcoming gigs, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 21 Sept 2026 | LOS TEKKENOS - ROR AFTER |  |
 | Tue, 22 Sept 2026 | TECHNO NIGHT |  |
 | Wed, 23 Sept 2026 | KŘIŽOVATKA |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 21 upcoming gigs, wi
 | Sun, 27 Sept 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 28 Sept 2026 | LOS TEKKENOS |  |
 | Tue, 29 Sept 2026 | POEZIE VOLE |  |
+| Wed, 30 Sept 2026 | BIOCROSS |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

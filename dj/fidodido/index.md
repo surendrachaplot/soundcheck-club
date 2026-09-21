@@ -1,6 +1,6 @@
 # Fido Dido
 
-Fido Dido is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 75 Pelham, Toronto on Sun, 11 Oct 2026.
+Fido Dido is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 75 Pelham, Toronto on Sun, 11 Oct 2026.
 
 Fido Dido is an afro house and house artist tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside Valeria Wardini, Akkai (2) and Razaq El Toro. Next up: 75 Pelham, Toronto on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Fido Dido is an afro house and house artist tracked on soundcheck, with 12 sets 
 
 Valeria Wardini, Akkai (2), Razaq El Toro
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fidodido/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fidodido/)*

@@ -1,6 +1,6 @@
 # Liza Rivs
 
-Liza Rivs is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
+Liza Rivs is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at KHIDI, Tbilisi on Fri, 25 Sept 2026.
 
 Liza Rivs is a techno and experimental artist tracked on soundcheck, with 62 sets logged across Berlin, London, Losangeles and Lyon and 8 more. Often billed alongside Boyd Schidt, Frequency Shifter and Puritan. Next up: KHIDI, Tbilisi on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Liza Rivs is a techno and experimental artist tracked on soundcheck, with 62 set
 
 Boyd Schidt, Frequency Shifter, Puritan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizarivs/)*

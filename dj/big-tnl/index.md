@@ -1,6 +1,6 @@
 # BIG-T (NL)
 
-BIG-T (NL) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
+BIG-T (NL) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
 
 BIG-T (NL) is a house and deep house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside TA AM, Yoffi and Laurent (3). Next up: Madam, Amsterdam on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ BIG-T (NL) is a house and deep house artist tracked on soundcheck, with 3 sets l
 
 TA AM, Yoffi, Laurent (3)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/big-tnl/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/big-tnl/)*

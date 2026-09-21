@@ -1,6 +1,6 @@
 # Pfirter
 
-Pfirter is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Teritorija, Riga on Fri, 20 Nov 2026.
+Pfirter is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Teritorija, Riga on Fri, 20 Nov 2026.
 
 Pfirter is a techno and club artist tracked on soundcheck, with 30 sets logged across Amsterdam, Belgrade, Berlin and Boston and 11 more. Often billed alongside Jonas Kopp, Truncate and Ben Sims. Next up: Teritorija, Riga on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Pfirter is a techno and club artist tracked on soundcheck, with 30 sets logged a
 
 Jonas Kopp, Truncate, Ben Sims
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pfirter/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pfirter/)*

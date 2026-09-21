@@ -1,20 +1,20 @@
 # Erykah
 
-Erykah is a Breakbeat and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
+Erykah is a Breakbeat and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Recyclart, Brussels on Fri, 2 Oct 2026.
 
-Erykah is a breakbeat and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, AliA and Vers. Next up: Vaux-Hall, Brussels on Sun 20 Sept.
+Erykah is a breakbeat and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Bristol and Brussels and 5 more. Often billed alongside gguusstt, AliA and Vers. Next up: Recyclart, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Vaux-Hall | Brussels |
 | Fri, 2 Oct 2026 | Recyclart | Brussels |
 | Fri, 16 Oct 2026 | Amigo | Ghent |
 | Sat, 31 Oct 2026 | UMI | Brussels |
 
 ## Recently played
 
+- Vaux-Hall, Brussels — Sun, 20 Sept 2026
 - Hexagon Brussels, Brussels — Sat, 5 Sept 2026
 - Ijland, Amsterdam — Sat, 8 Aug 2026
 - Lavallée, Brussels — Sat, 25 Jul 2026
@@ -22,10 +22,9 @@ Erykah is a breakbeat and house artist tracked on soundcheck, with 66 sets logge
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Garage Noord, Amsterdam — Sat, 13 Jun 2026
 - Place Poelaertplein, Brussels — Sat, 2 May 2026
-- TRAUM, Antwerp — Fri, 1 May 2026
 
 ## Shares bills with
 
 gguusstt, AliA, Vers
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erykah/)*

@@ -1,6 +1,6 @@
 # Tallah
 
-Tallah is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
+Tallah is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
 
 Tallah is a progressive house and dub techno artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Astrocue, Fabian Fischbach and tzunamic. Next up: DNA. CLUB, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tallah is a progressive house and dub techno artist tracked on soundcheck, with 
 
 Astrocue, Fabian Fischbach, tzunamic
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallah/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tallah/)*

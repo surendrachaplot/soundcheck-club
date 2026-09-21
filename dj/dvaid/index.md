@@ -1,6 +1,6 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kilomètre25, Paris on Fri, 23 Oct 2026.
+DVAID is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kilomètre25, Paris on Fri, 23 Oct 2026.
 
 DVAID is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Basel, Berlin and Brussels and 13 more. Often billed alongside HUMAN ERROR, Adrian Mills and Serafina. Next up: Kilomètre25, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DVAID is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 HUMAN ERROR, Adrian Mills, Serafina
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

@@ -1,6 +1,6 @@
 # Whitetrip
 
-Whitetrip is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Cross Club, Prague on Fri, 9 Oct 2026.
+Whitetrip is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cross Club, Prague on Fri, 9 Oct 2026.
 
 Whitetrip is a garage and bass artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside Blen (3), Opi (CZ) and Soulkate. Next up: Cross Club, Prague on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Whitetrip is a garage and bass artist based in Czech Republic, tracked on soundc
 
 Blen (3), Opi (CZ), Soulkate
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whitetrip/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whitetrip/)*

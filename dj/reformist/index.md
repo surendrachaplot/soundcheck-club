@@ -1,18 +1,18 @@
 # Reformist
 
-Reformist is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+Reformist is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at M.O.T, London on Thu, 1 Oct 2026.
 
-Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logged across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: The Glove That Fits, London on Sun 20 Sept.
+Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logged across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: M.O.T, London on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | The Glove That Fits | London |
 | Thu, 1 Oct 2026 | M.O.T | London |
 
 ## Recently played
 
+- The Glove That Fits, London — Sun, 20 Sept 2026
 - NUMBER 90 LONDON, London — Fri, 5 Jun 2026
 - Stage and Radio, Manchester — Fri, 10 Apr 2026
 - Planet Wax, London — Thu, 12 Mar 2026
@@ -20,10 +20,9 @@ Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logg
 - A L P H A B E T, Brighton — Sat, 13 Dec 2025
 - The Mash House, Edinburgh — Sat, 20 Sept 2025
 - WaterBear Venue, Brighton — Fri, 25 Jul 2025
-- Peckham Audio, London — Fri, 11 Jul 2025
 
 ## Shares bills with
 
 HARLØW, FITS ME FUNNY, Atoxyl
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformist/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformist/)*

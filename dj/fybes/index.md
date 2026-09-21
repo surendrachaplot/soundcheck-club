@@ -1,6 +1,6 @@
 # Fybes
 
-Fybes is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Altrove, Milan on Fri, 25 Sept 2026.
+Fybes is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Altrove, Milan on Fri, 25 Sept 2026.
 
 Fybes is an electro and techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Deyayu, Vagliolise and Valerio Della Notte. Next up: Altrove, Milan on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Fybes is an electro and techno artist based in Italy, tracked on soundcheck, wit
 
 Deyayu, Vagliolise, Valerio Della Notte
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*

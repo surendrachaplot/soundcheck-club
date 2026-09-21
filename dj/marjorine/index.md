@@ -1,6 +1,6 @@
 # Marjorine
 
-Marjorine is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Sultan Room, New York City on Sat, 10 Oct 2026.
+Marjorine is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Sultan Room, New York City on Sat, 10 Oct 2026.
 
 Marjorine is a house and balearic artist tracked on soundcheck, with 10 sets logged across Denver, Newyorkcity and Washingtondc. Often billed alongside SIDESTREETS, ANNYA and Aaron Sparks. Next up: The Sultan Room, Newyorkcity on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marjorine is a house and balearic artist tracked on soundcheck, with 10 sets log
 
 SIDESTREETS, ANNYA, Aaron Sparks
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marjorine/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marjorine/)*

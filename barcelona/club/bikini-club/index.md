@@ -1,6 +1,6 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Tunnel pres. Carloh, Murphy's Law, Viccenzo" on Fri, 25 Sept 2026.
+Bikini Club is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Tunnel pres. Carloh, Murphy's Law, Viccenzo" on Fri, 25 Sept 2026.
 
 Bikini Club is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Budakid, Chicks Luv Us, Danny Howells and Dave Seaman and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
@@ -18,4 +18,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs,
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

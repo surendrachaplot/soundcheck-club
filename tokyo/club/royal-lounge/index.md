@@ -1,16 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Wasshoi Re:start - House,Tech house-" on Sun, 20 Sept 2026.
+Royal Lounge is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "'ROYAL WEDNESDAY' Supported by CEBEDE" on Wed, 23 Sept 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including Addiy, CATRONICA, Funky Gong and Jm3Yoci and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including CATRONICA, Funky Gong, Jm3Yoci and Junya and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Wasshoi Re:start - House,Tech house- | Addiy, PUNK N MATRIX, Yamariki |
-| Sun, 20 Sept 2026 | 'Wasshoi' |  |
-| Sun, 20 Sept 2026 | 'ROYAL SUNDAY' Supported by CEBED |  |
 | Wed, 23 Sept 2026 | 'ROYAL WEDNESDAY' Supported by CEBEDE |  |
 | Thu, 24 Sept 2026 | 'ROYAL THURSDAY' |  |
 | Sat, 26 Sept 2026 | Animal Crossing presented by Barn × Kijta | Kijta, OPTIMIST |
@@ -18,9 +15,12 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, w
 | Sat, 26 Sept 2026 | 'ROYAL SATURDAY' Supported by CEBEDE |  |
 | Sun, 27 Sept 2026 | MAX MOTION feat. FUZZ MUSIC SCHOOL | CATRONICA, Funky Gong, marimari |
 | Mon, 28 Sept 2026 | ROYAL MONDAY |  |
+| Wed, 30 Sept 2026 | 'ROYAL WEDNESDAY' Supported by CEBEDE |  |
+| Mon, 5 Oct 2026 | ROYAL MONDAY | Junya, KAIKAI, MOTOKA, Nao.Ichikawa, SIGNAL (JP) |
+| Sun, 25 Oct 2026 | Dagens slut | Jm3Yoci, MZKN, SIGNAL (JP) |
 
 ## Address
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

@@ -1,6 +1,6 @@
 # Nautica (NL)
 
-Nautica (NL) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Nautica (NL) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Nautica (NL) is an electronic artist tracked on soundcheck, with 2 sets logged across Amsterdam and Manchester. Often billed alongside Obskur, Benji King and Boss Priester. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Nautica (NL) is an electronic artist tracked on soundcheck, with 2 sets logged a
 
 Obskur, Benji King, Boss Priester
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica-nl/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nautica-nl/)*

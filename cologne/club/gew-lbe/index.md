@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Research with Ada Luvv, Aino, Clifford & Simon Hein" on Sun, 20 Sept 2026.
+Gewölbe is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live-" on Fri, 25 Sept 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Ada Luvv, Aino DJ, Andy Garvey and Anna Cainelli and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Garvey, Anna Cainelli, a:tok and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Research with Ada Luvv, Aino, Clifford & Simon Hein | Ada Luvv, Aino DJ |
 | Fri, 25 Sept 2026 | Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live- | Beste Hira, Reduks, Tils |
 | Sat, 26 Sept 2026 | Klubnacht with DJ ASS TITS, Sarah Sommers -live-, Plumitaa | DJ ASS TITS, Plumitaa, Sarah Sommers |
 | Fri, 2 Oct 2026 | rau.ton with BLANKA, Marco Hilbert, Nick Deeken | BLANKA, Marco Hilbert (2), Nick Deeken |
@@ -23,4 +22,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

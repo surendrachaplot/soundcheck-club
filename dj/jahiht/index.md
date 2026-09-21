@@ -1,6 +1,6 @@
 # jahiht
 
-jahiht is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+jahiht is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 jahiht is an experimental and electronica artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Bernhard Hollinger, Hilary C/B and Karim Khelil. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ jahiht is an experimental and electronica artist tracked on soundcheck, with 4 s
 
 Bernhard Hollinger, Hilary C/B, Karim Khelil
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jahiht/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jahiht/)*

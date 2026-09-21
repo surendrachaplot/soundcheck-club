@@ -1,6 +1,6 @@
 # Apophis Club
 
-Apophis Club is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "X Season: Afriqua + Bro Berri" on Fri, 2 Oct 2026.
+Apophis Club is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "X Season: Afriqua + Bro Berri" on Fri, 2 Oct 2026.
 
 Apophis Club is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Afriqua, Aurory, Kim April and Undercatt. Browse upcoming dates, start times and who's playing. Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy.
 
@@ -17,4 +17,4 @@ Apophis Club is a music venue in Milan listed on soundcheck. 4 upcoming gigs, wi
 
 Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy, Milan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*

@@ -1,6 +1,6 @@
 # Scott Garcia
 
-Scott Garcia is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
+Scott Garcia is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
 
 Scott Garcia is a garage and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam and London. Often billed alongside Matt Jam Lamont, MC Creed and MC CKP. Next up: Dunnings 2, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Scott Garcia is a garage and house artist based in United Kingdom, tracked on so
 
 Matt Jam Lamont, MC Creed, MC CKP
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*

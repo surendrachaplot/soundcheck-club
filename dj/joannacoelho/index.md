@@ -1,6 +1,6 @@
 # JOANNA COELHO
 
-JOANNA COELHO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+JOANNA COELHO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
 JOANNA COELHO is a techno and acid artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Budapest and Cologne and 6 more. Often billed alongside Rowsi, Ana Sclifos and DUNA ËDEN. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ JOANNA COELHO is a techno and acid artist tracked on soundcheck, with 63 sets lo
 
 Rowsi, Ana Sclifos, DUNA ËDEN
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joannacoelho/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joannacoelho/)*

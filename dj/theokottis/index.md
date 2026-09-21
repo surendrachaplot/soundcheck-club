@@ -1,6 +1,6 @@
 # Theo Kottis
 
-Theo Kottis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at East London Brewing Company, London on Sat, 31 Oct 2026.
+Theo Kottis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 Theo Kottis is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 16 more. Often billed alongside Alien Communications, BAYS and Jane Fitz. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Theo Kottis is a house and techno artist tracked on soundcheck, with 80 sets log
 
 Alien Communications, BAYS, Jane Fitz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theokottis/)*

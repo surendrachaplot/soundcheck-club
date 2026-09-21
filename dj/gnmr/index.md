@@ -1,14 +1,13 @@
 # GNMR
 
-GNMR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
+GNMR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
-GNMR is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and sohrab.. Next up: TBA, Rome on Sat 19 Sept.
+GNMR is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and sohrab.. Next up: FOLD, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA | Rome |
 | Fri, 30 Oct 2026 | FOLD | London |
 | Sat, 7 Nov 2026 | Hoppetosse | Berlin |
 
@@ -27,4 +26,4 @@ GNMR is a techno and house artist tracked on soundcheck, with 142 sets logged ac
 
 Marcolino, IRIDE, sohrab.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
+Ueberrest is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Club Vaag, Antwerp on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 91 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

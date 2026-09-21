@@ -1,6 +1,6 @@
 # AGA2L
 
-AGA2L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 25 Sept 2026.
+AGA2L is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 25 Sept 2026.
 
 AGA2L is a techno and house artist based in Hungary, tracked on soundcheck, with 100 sets logged across Belgrade and Budapest. Often billed alongside Indirect Movement, Mankind and Katamii. Next up: Aether Club Budapest, Budapest on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ AGA2L is a techno and house artist based in Hungary, tracked on soundcheck, with
 
 Indirect Movement, Mankind, Katamii
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aga2l/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aga2l/)*

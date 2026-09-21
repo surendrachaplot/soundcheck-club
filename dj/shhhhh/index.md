@@ -1,6 +1,6 @@
 # Shhhhh
 
-Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Saloon, Tokyo on Sat, 26 Sept 2026.
+Shhhhh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Saloon, Tokyo on Sat, 26 Sept 2026.
 
 Shhhhh is a techno and house artist tracked on soundcheck, with 102 sets logged across Bali, Hongkong, Kyoto and Mexicocity and 6 more. Often billed alongside imus, AKIRAM EN and Compuma. Next up: Saloon, Tokyo on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Shhhhh is a techno and house artist tracked on soundcheck, with 102 sets logged 
 
 imus, AKIRAM EN, Compuma
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhhhh/)*

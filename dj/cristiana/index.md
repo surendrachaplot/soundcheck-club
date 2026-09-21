@@ -1,6 +1,6 @@
 # CRISTI:ANA
 
-CRISTI:ANA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Junction Underground, Toronto on Fri, 9 Oct 2026.
+CRISTI:ANA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Junction Underground, Toronto on Fri, 9 Oct 2026.
 
 CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 39 sets logged across Montreal and Toronto. Often billed alongside SAMM DU, VARON and Cozmic Cat. Next up: Junction Underground, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ CRISTI:ANA is a techno and tech house artist tracked on soundcheck, with 39 sets
 
 SAMM DU, VARON, Cozmic Cat
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiana/)*

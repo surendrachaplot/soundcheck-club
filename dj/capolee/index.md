@@ -1,6 +1,6 @@
 # Capo Lee
 
-Capo Lee is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+Capo Lee is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
 Capo Lee is a garage and bass artist tracked on soundcheck, with 96 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 23 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Capo Lee is a garage and bass artist tracked on soundcheck, with 96 sets logged 
 
 Bakey, Izco, bullet tooth
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

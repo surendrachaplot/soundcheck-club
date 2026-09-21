@@ -1,6 +1,6 @@
 # Lunar Disco
 
-Lunar Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Sunset Beach Bali, Bali on Sat, 3 Oct 2026.
+Lunar Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sunset Beach Bali, Bali on Sat, 3 Oct 2026.
 
 Lunar Disco is a house and disco artist tracked on soundcheck, with 20 sets logged across Bali, Barcelona, Ibiza and Marseille and 3 more. Often billed alongside Aaiste, Andy Garvey and Ben Nott. Next up: Sunset Beach Bali, Bali on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Lunar Disco is a house and disco artist tracked on soundcheck, with 20 sets logg
 
 Aaiste, Andy Garvey, Ben Nott
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunardisco/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunardisco/)*

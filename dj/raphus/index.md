@@ -1,6 +1,6 @@
 # Raphus
 
-Raphus is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Absturz, Leipzig on Fri, 2 Oct 2026.
+Raphus is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Absturz, Leipzig on Fri, 2 Oct 2026.
 
 Raphus is a techno and trance artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Leipzig and Lyon. Often billed alongside VLUNA, CAVVØ and Meyhartt. Next up: Absturz, Leipzig on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Raphus is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 VLUNA, CAVVØ, Meyhartt
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*

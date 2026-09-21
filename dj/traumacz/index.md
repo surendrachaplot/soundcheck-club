@@ -1,6 +1,6 @@
 # Trauma (CZ)
 
-Trauma (CZ) is a Trance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
+Trauma (CZ) is a Trance and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
 
 Trauma (CZ) is a trance and drum & bass artist tracked on soundcheck, with 24 sets logged across Birmingham, Cologne and Prague. Often billed alongside Nastya Muravyova, ESTER. and Midirama. Next up: Odonien, Cologne on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Trauma (CZ) is a trance and drum & bass artist tracked on soundcheck, with 24 se
 
 Nastya Muravyova, ESTER., Midirama
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumacz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumacz/)*

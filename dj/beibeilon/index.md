@@ -1,6 +1,6 @@
 # Beibeilon
 
-Beibeilon is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+Beibeilon is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
 Beibeilon is a club and techno artist tracked on soundcheck, with 78 sets logged across Berlin, Hongkong, Milan and Shenzhen. Often billed alongside DJ 86, zzm (2) and AntiSocialPrincess. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Beibeilon is a club and techno artist tracked on soundcheck, with 78 sets logged
 
 DJ 86, zzm (2), AntiSocialPrincess
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beibeilon/)*

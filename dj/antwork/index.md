@@ -1,6 +1,6 @@
 # Antwork
 
-Antwork is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
+Antwork is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Space Nodeul K, Seoul on Sun, 4 Oct 2026.
 
 Antwork is a techno and electro artist tracked on soundcheck, with 37 sets logged across Bali, Bangkok, Barcelona and Berlin and 9 more. Often billed alongside KABUTO, Minkyu and Hakim.. Next up: Space Nodeul K, Seoul on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Antwork is a techno and electro artist tracked on soundcheck, with 37 sets logge
 
 KABUTO, Minkyu, Hakim.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antwork/)*

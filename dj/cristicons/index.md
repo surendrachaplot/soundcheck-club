@@ -1,8 +1,8 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Stage and Radio, Manchester on Sat, 26 Sept 2026.
+Cristi Cons is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Stage and Radio, Manchester on Sat, 26 Sept 2026.
 
-Cristi Cons is a house and minimal artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: Stage and Radio, Manchester on Sat 26 Sept.
+Cristi Cons is a house and minimal artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: Stage and Radio, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cristi Cons is a house and minimal artist tracked on soundcheck, with 113 sets l
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Stage and Radio | Manchester |
 | Fri, 2 Oct 2026 | BORIS CLUB | Barcelona |
+| Sat, 3 Oct 2026 | Frieda's Büxe | Zurich |
 | Sat, 17 Oct 2026 | Moon Club | Bristol |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cristi Cons is a house and minimal artist tracked on soundcheck, with 113 sets l
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

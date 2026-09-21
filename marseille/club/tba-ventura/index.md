@@ -1,6 +1,6 @@
 # TBA - Ventura 
 
-TBA - Ventura  is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "The BirdHouse: Migration 001" on Sat, 26 Sept 2026.
+TBA - Ventura  is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "The BirdHouse: Migration 001" on Sat, 26 Sept 2026.
 
 TBA - Ventura  is a music venue in Marseille listed on soundcheck. 1 upcoming gig, with line-ups including Bird Lady, Bret Wallace, Sans Nom and Thee-O. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Ventura  is a music venue in Marseille listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The BirdHouse: Migration 001 | Bird Lady, Bret Wallace, Sans Nom, Thee-O |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-ventura/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-ventura/)*

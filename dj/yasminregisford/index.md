@@ -1,14 +1,13 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Le Sucre, Lyon on Sun, 20 Sept 2026.
+Yasmin Regisford is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
 
-Yasmin Regisford is a techno and trance artist based in France, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 21 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Le Sucre, Lyon on Sun 20 Sept.
+Yasmin Regisford is a techno and trance artist based in France, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 21 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Z-Bau, Nurnberg on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Le Sucre | Lyon |
 | Sat, 26 Sept 2026 | Z-Bau | Nürnberg |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
@@ -17,6 +16,7 @@ Yasmin Regisford is a techno and trance artist based in France, tracked on sound
 
 ## Recently played
 
+- Le Sucre, Lyon — Sun, 20 Sept 2026
 - Unité.22, Marseille — Fri, 4 Sept 2026
 - RSO.BERLIN, Berlin — Fri, 28 Aug 2026
 - Fvtvr, Paris — Sat, 22 Aug 2026
@@ -24,10 +24,9 @@ Yasmin Regisford is a techno and trance artist based in France, tracked on sound
 - Lehmann Club, Stuttgart — Fri, 24 Jul 2026
 - Riverside, Glasgow — Sat, 30 May 2026
 - Karmen Camina, Strasbourg — Fri, 29 May 2026
-- Friche Belle de Mai, Marseille — Fri, 22 May 2026
 
 ## Shares bills with
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

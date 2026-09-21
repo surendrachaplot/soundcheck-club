@@ -1,6 +1,6 @@
 # Ryuji Suganuma
 
-Ryuji Suganuma is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Koara, Tokyo on Mon, 21 Sept 2026.
+Ryuji Suganuma is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Koara, Tokyo on Mon, 21 Sept 2026.
 
 Ryuji Suganuma is a techno and house artist tracked on soundcheck, with 3 sets logged across Osaka and Tokyo. Often billed alongside MIZUKI OGISU, MiTSUYAS and ONO (3). Next up: Koara, Tokyo on Mon 21 Sept.
 
@@ -19,4 +19,4 @@ Ryuji Suganuma is a techno and house artist tracked on soundcheck, with 3 sets l
 
 MIZUKI OGISU, MiTSUYAS, ONO (3)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryujisuganuma/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryujisuganuma/)*

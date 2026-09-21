@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at StereoBar, Montreal on Sat, 26 Sept 2026.
+Rodriguez Jr. is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at StereoBar, Montreal on Sat, 26 Sept 2026.
 
 Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Auckland, Austin and Bali and 40 more. Often billed alongside Nick Warren, Ralf Kollmann and Francesca Lombardo. Next up: StereoBar, Montreal on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Rodriguez Jr. is a house and techno artist tracked on soundcheck, with 133 sets 
 
 Nick Warren, Ralf Kollmann, Francesca Lombardo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

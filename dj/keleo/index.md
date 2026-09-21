@@ -1,6 +1,6 @@
 # Keleo
 
-Keleo is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Club Draghon, Ghent on Fri, 2 Oct 2026.
+Keleo is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Club Draghon, Ghent on Fri, 2 Oct 2026.
 
 Keleo is a deep house and progressive house artist based in Belgium, tracked on soundcheck, with 3 sets logged across Ghent and London. Often billed alongside Harry Oliver, HÖLIVER and KT. Next up: TBA - Club Draghon, Ghent on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Keleo is a deep house and progressive house artist based in Belgium, tracked on 
 
 Harry Oliver, HÖLIVER, KT
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keleo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keleo/)*

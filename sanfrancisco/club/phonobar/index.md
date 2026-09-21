@@ -1,6 +1,6 @@
 # Phonobar
 
-Phonobar is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Lose Yourself w/Pedro Borlado & Monoclick" on Sat, 26 Sept 2026.
+Phonobar is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Lose Yourself w/Pedro Borlado & Monoclick" on Sat, 26 Sept 2026.
 
 Phonobar is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs, with line-ups including Aaron F, Monoclick and Pedro Borlado. Browse upcoming dates, start times and who's playing. 370 Grove Street.
 
@@ -15,4 +15,4 @@ Phonobar is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gigs,
 
 370 Grove Street, San Francisco/Oakland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*

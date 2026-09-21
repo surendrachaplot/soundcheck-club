@@ -1,6 +1,6 @@
 # Nothing But Love
 
-Nothing But Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Nothing But Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Nothing But Love is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam and Munich. Often billed alongside Quirin (DE), Yubik and Alex Volta. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nothing But Love is a techno and house artist based in Germany, tracked on sound
 
 Quirin (DE), Yubik, Alex Volta
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*

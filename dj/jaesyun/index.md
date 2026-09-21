@@ -1,6 +1,6 @@
 # Jaesyun
 
-Jaesyun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
+Jaesyun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Boxers HK, New York City on Sat, 26 Sept 2026.
 
 Jaesyun is a tech house and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Edward Frame, Joe Ross and Matt Denton. Next up: Boxers HK, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jaesyun is a tech house and house artist based in United States of America, trac
 
 Edward Frame, Joe Ross, Matt Denton
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesyun/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesyun/)*

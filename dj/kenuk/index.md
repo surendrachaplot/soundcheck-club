@@ -1,6 +1,6 @@
 # Ken(UK)
 
-Ken(UK) is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hidden, Manchester on Sat, 5 Dec 2026.
+Ken(UK) is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hidden, Manchester on Sat, 5 Dec 2026.
 
 Ken(UK) is a tech house and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside K1ng Arthur, Greengaff and Sonja Moonear. Next up: Hidden, Manchester on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Ken(UK) is a tech house and electro artist based in United Kingdom, tracked on s
 
 K1ng Arthur, Greengaff, Sonja Moonear
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenuk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenuk/)*

@@ -1,6 +1,6 @@
 # LOUISA INDIA
 
-LOUISA INDIA is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Das Werk, Vienna on Sat, 26 Sept 2026.
+LOUISA INDIA is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Das Werk, Vienna on Sat, 26 Sept 2026.
 
 LOUISA INDIA is a techno and psytrance artist based in Austria, tracked on soundcheck, with 59 sets logged across Vienna. Often billed alongside Joey (2), Crystal O and Tomagan. Next up: Das Werk, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ LOUISA INDIA is a techno and psytrance artist based in Austria, tracked on sound
 
 Joey (2), Crystal O, Tomagan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisaindia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisaindia/)*

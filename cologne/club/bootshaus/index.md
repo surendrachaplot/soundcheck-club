@@ -1,14 +1,13 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "VERTILE pres. EVERYTHING CHANGES -LIVE-" on Sun, 20 Sept 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "UNREAL WEEKENDER NIGHT I" on Fri, 25 Sept 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | VERTILE pres. EVERYTHING CHANGES -LIVE- |  |
 | Fri, 25 Sept 2026 | UNREAL WEEKENDER NIGHT I | Afem Syko, BIIANCO, Johannes Schuster, Mad Dog, Nikolina, Pixie Dust |
 | Fri, 2 Oct 2026 | NIBIRII pres. Ely Oaks | 2HOT2PLAY, 333CXT, ADEMES, Bouncy Bitch, DJ Discostoff, Ely Oaks, LEO.PARDYY, Limoncello, NØEL (JP), Pamela Rave, Paranormila, nordcorreia.mp3 |
 | Fri, 9 Oct 2026 | CHROME COLOGNE | OGUZ |
@@ -18,9 +17,10 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 24 Oct 2026 | SA - 24.10.2026 / KitKatClub |  |
 | Sat, 31 Oct 2026 | Bootshaus & Loonyland pres. Halloween 2026 |  |
 | Fri, 13 Nov 2026 | Hakke360 |  |
+| Fri, 20 Nov 2026 | Alle Farben - A World full of Colors Club Tour 2026 | Alle Farben, Lahos |
 
 ## Address
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

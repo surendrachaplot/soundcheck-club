@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
+DIEBYVEG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
 
 DIEBYVEG is a house and techno artist tracked on soundcheck, with 46 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and High Fidelity. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DIEBYVEG is a house and techno artist tracked on soundcheck, with 46 sets logged
 
 Puzzy Wrangler, Surferboy, High Fidelity
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

@@ -1,6 +1,6 @@
 # Mickey Nox
 
-Mickey Nox is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Sydney on Sun, 1 Nov 2026.
+Mickey Nox is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sydney on Sun, 1 Nov 2026.
 
 Mickey Nox is a techno and industrial artist tracked on soundcheck, with 15 sets logged across Melbourne, Sydney and Tokyo. Often billed alongside CAITY WATSON, SHAY DOE and Chiara Kickdrum. Next up: TBA, Sydney on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Mickey Nox is a techno and industrial artist tracked on soundcheck, with 15 sets
 
 CAITY WATSON, SHAY DOE, Chiara Kickdrum
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeynox/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeynox/)*

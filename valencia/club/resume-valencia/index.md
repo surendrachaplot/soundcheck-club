@@ -1,14 +1,13 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SUNDAYZ VIBEZ" on Sun, 20 Sept 2026.
+Resume Valencia is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Soliad, blan.trrs" on Fri, 25 Sept 2026.
 
-Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including blan.trrs, Cristian Sarde, IKAKO and Soliad. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
+Resume Valencia is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including blan.trrs, Cristian Sarde, IKAKO and Soliad. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | SUNDAYZ VIBEZ |  |
 | Fri, 25 Sept 2026 | Soliad, blan.trrs | Soliad, blan.trrs |
 | Sat, 26 Sept 2026 | Cristian Sarde, IKAKO | Cristian Sarde, IKAKO |
 | Sun, 27 Sept 2026 | SUNDAYZ VIBEZ |  |
@@ -18,4 +17,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 5 upcoming gi
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

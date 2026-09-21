@@ -1,6 +1,6 @@
 # DJ Smoker
 
-DJ Smoker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
+DJ Smoker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
 
 DJ Smoker is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Edinburgh and Glasgow. Often billed alongside Lovejoy, Andy Barton and Craigen. Next up: EXIT Glasgow, Glasgow on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ Smoker is a techno and trance artist based in United Kingdom, tracked on soun
 
 Lovejoy, Andy Barton, Craigen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmoker/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsmoker/)*

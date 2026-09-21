@@ -1,6 +1,6 @@
 # MARRE
 
-MARRE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 27 Oct 2026.
+MARRE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 27 Oct 2026.
 
 MARRE is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Leipzig and Vienna. Often billed alongside Erebos, EMZN and maedchenballern. Next up: Der Weiße Hase, Berlin on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ MARRE is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Erebos, EMZN, maedchenballern
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marre/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marre/)*

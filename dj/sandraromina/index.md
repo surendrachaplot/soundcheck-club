@@ -1,6 +1,6 @@
 # SANDRA ROMINA
 
-SANDRA ROMINA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 25 Sept 2026.
+SANDRA ROMINA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tanzhaus West, Frankfurt on Fri, 25 Sept 2026.
 
 SANDRA ROMINA is a techno and trance artist tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside DeGuzman, Paranormila and The Belgian Stallion. Next up: Tanzhaus West, Frankfurt on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SANDRA ROMINA is a techno and trance artist tracked on soundcheck, with 55 sets 
 
 DeGuzman, Paranormila, The Belgian Stallion
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandraromina/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandraromina/)*

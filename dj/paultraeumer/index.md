@@ -1,6 +1,6 @@
 # Paul Traeumer
 
-Paul Traeumer is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kassa Boat, Budapest on Thu, 24 Sept 2026.
+Paul Traeumer is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kassa Boat, Budapest on Thu, 24 Sept 2026.
 
 Paul Traeumer is a downtempo and house artist tracked on soundcheck, with 19 sets logged across Berlin, Budapest, Copenhagen and Ibiza and 3 more. Often billed alongside Mila Stern, Mula and Pulli & Chomba. Next up: Kassa Boat, Budapest on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Paul Traeumer is a downtempo and house artist tracked on soundcheck, with 19 set
 
 Mila Stern, Mula, Pulli & Chomba
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paultraeumer/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paultraeumer/)*

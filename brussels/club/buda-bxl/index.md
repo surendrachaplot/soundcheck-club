@@ -1,6 +1,6 @@
 # Buda BXL
 
-Buda BXL is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Feestgedruis Revival" on Sat, 26 Sept 2026.
+Buda BXL is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Feestgedruis Revival" on Sat, 26 Sept 2026.
 
 Buda BXL is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including AMARE, Bapow, Dee James and Domi (FR) and 2 more. Browse upcoming dates, start times and who's playing. Chau. de Buda 96, 1130 Bruxelles, Belgium.
 
@@ -15,4 +15,4 @@ Buda BXL is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wit
 
 Chau. de Buda 96, 1130 Bruxelles, Belgium, Brussels
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*

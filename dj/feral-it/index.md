@@ -1,14 +1,13 @@
 # Feral
 
-Feral is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Rome on Sat, 19 Sept 2026.
+Feral is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
-Feral is a techno and trance artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Spekki Webu, Luigi Tozzi and Garçon. Next up: TBA, Rome on Sat 19 Sept.
+Feral is a techno and trance artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Spekki Webu, Luigi Tozzi and Garçon. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TBA | Rome |
 | Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
 | Fri, 30 Oct 2026 | The Bassement | Madrid |
@@ -28,4 +27,4 @@ Feral is a techno and trance artist tracked on soundcheck, with 73 sets logged a
 
 Spekki Webu, Luigi Tozzi, Garçon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feral-it/)*

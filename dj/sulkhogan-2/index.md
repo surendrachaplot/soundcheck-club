@@ -1,6 +1,6 @@
 # Sulk Hogan (2)
 
-Sulk Hogan (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
+Sulk Hogan (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Piston, Toronto on Mon, 21 Sept 2026.
 
 Sulk Hogan (2) is a techno and house artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside In Depth Subject, Kara Kara and MSDELICIOUS. Next up: The Piston, Toronto on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Sulk Hogan (2) is a techno and house artist based in Canada, tracked on soundche
 
 In Depth Subject, Kara Kara, MSDELICIOUS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkhogan-2/)*

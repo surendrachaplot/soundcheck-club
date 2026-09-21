@@ -1,14 +1,13 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Joshwa is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pygmalion, Dublin on Fri, 25 Sept 2026.
 
-Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
+Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Pygmalion, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 25 Sept 2026 | Pygmalion | Dublin |
 | Sat, 17 Oct 2026 | XOYO | London |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
@@ -29,4 +28,4 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logg
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

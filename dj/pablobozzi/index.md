@@ -1,6 +1,6 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Switch, Porto on Fri, 25 Sept 2026.
+Pablo Bozzi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Switch, Porto on Fri, 25 Sept 2026.
 
 Pablo Bozzi is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Phase Fatale, Jen Cardini and DJ Gigola. Next up: Switch, Porto on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Pablo Bozzi is a techno and house artist tracked on soundcheck, with 212 sets lo
 
 Phase Fatale, Jen Cardini, DJ Gigola
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

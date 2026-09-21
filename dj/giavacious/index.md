@@ -1,6 +1,6 @@
 # GIAVACIOUS
 
-GIAVACIOUS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Dolphin, Philadelphia on Fri, 25 Sept 2026.
+GIAVACIOUS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Dolphin, Philadelphia on Fri, 25 Sept 2026.
 
 GIAVACIOUS is a trance and techno artist tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside Air Deejay, Angelinkast and Cubby. Next up: The Dolphin, Philadelphia on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ GIAVACIOUS is a trance and techno artist tracked on soundcheck, with 6 sets logg
 
 Air Deejay, Angelinkast, Cubby
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giavacious/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giavacious/)*

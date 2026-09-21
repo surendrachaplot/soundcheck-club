@@ -1,6 +1,6 @@
 # Ana Molina
 
-Ana Molina is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
+Ana Molina is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
 
 Ana Molina is a house and disco artist based in Spain, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Black Loops, Emanuele Barilli and Ruff Stuff. Next up: Kater, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ana Molina is a house and disco artist based in Spain, tracked on soundcheck, wi
 
 Black Loops, Emanuele Barilli, Ruff Stuff
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anamolina/)*

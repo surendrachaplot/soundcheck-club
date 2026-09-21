@@ -1,14 +1,13 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Coda, Toronto on Fri, 25 Sept 2026.
 
-Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Coda, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | Coda | Toronto |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 26 Sept 2026 | Société des arts technologiques | Montreal |
@@ -33,4 +32,4 @@ Ricardo Villalobos is a techno and house artist tracked on soundcheck, with 124 
 
 Raresh, O.BEE, Tomas Station
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

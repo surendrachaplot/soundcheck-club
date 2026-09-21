@@ -1,6 +1,6 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Racket Space, Dublin on Fri, 25 Sept 2026.
+MADVILLA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Racket Space, Dublin on Fri, 25 Sept 2026.
 
 MADVILLA is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: The Racket Space, Dublin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ MADVILLA is a house and tech house artist tracked on soundcheck, with 65 sets lo
 
 Garrett David, Benji King, Captain Wallop
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*

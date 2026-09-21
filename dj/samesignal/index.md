@@ -1,6 +1,6 @@
 # Samesignal
 
-Samesignal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Tigullio, Malta on Sat, 26 Sept 2026.
+Samesignal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tigullio, Malta on Sat, 26 Sept 2026.
 
 Samesignal is a techno and trance artist tracked on soundcheck, with 2 sets logged across Malta. Often billed alongside Dave75, Rensei and Thibo Verbeke. Next up: Tigullio, Malta on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Samesignal is a techno and trance artist tracked on soundcheck, with 2 sets logg
 
 Dave75, Rensei, Thibo Verbeke
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samesignal/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samesignal/)*

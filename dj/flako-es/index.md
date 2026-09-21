@@ -1,6 +1,6 @@
 # FLAKØ
 
-FLAKØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
+FLAKØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
 
 FLAKØ is a techno artist tracked on soundcheck, with 2 sets logged across Malaga. Often billed alongside Noctive, Reisender and GØNGOM. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ FLAKØ is a techno artist tracked on soundcheck, with 2 sets logged across Malag
 
 Noctive, Reisender, GØNGOM
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flako-es/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flako-es/)*

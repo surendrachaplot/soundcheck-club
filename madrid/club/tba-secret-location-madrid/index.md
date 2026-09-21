@@ -1,6 +1,6 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Heb Sed X Abduction" on Sat, 26 Sept 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Heb Sed X Abduction" on Sat, 26 Sept 2026.
 
 TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Butter.Jim, Cristal Roto, Dana Kuehr and DELASFLORES and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 
 | Sun, 6 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Climax |  |
 | Mon, 7 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Ending |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-secret-location-madrid/)*

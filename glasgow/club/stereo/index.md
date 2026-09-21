@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SKIVE" on Thu, 24 Sept 2026.
+Stereo is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SKIVE" on Thu, 24 Sept 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Angel D'lite, Average Joe (2), CLO (2) and Dengue Dengue Dengue and 2 more. Browse upcoming dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

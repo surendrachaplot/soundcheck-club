@@ -1,6 +1,6 @@
 # EartH Kitchen
 
-EartH Kitchen is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Club Rua" on Fri, 9 Oct 2026.
+EartH Kitchen is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Rua" on Fri, 9 Oct 2026.
 
 EartH Kitchen is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Ariane V, Balearic London, Ben Gomori and Eseccaro and 2 more. Browse upcoming dates, start times and who's playing. 11-17 Stoke Newington Rd, Dalston, London, N16 8BH.
 
@@ -15,4 +15,4 @@ EartH Kitchen is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 11-17 Stoke Newington Rd, Dalston, London, N16 8BH, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth-kitchen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth-kitchen/)*

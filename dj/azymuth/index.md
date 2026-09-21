@@ -1,6 +1,6 @@
 # Azymuth
 
-Azymuth is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Lido Berlin, Berlin on Thu, 8 Oct 2026.
+Azymuth is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lido Berlin, Berlin on Thu, 8 Oct 2026.
 
 Azymuth is a jazz and funk / soul artist based in Brazil, tracked on soundcheck, with 8 sets logged across Antwerp, Bali, Berlin and Glasgow and 2 more. Often billed alongside Chee Shimizu, DITA (ID) and Kuniyuki. Next up: Lido Berlin, Berlin on Thu 8 Oct.
 
@@ -24,4 +24,4 @@ Azymuth is a jazz and funk / soul artist based in Brazil, tracked on soundcheck,
 
 Chee Shimizu, DITA (ID), Kuniyuki
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azymuth/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azymuth/)*

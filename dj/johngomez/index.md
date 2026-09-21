@@ -1,6 +1,6 @@
 # John Gómez
 
-John Gómez is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Lisa, Lisbon on Sat, 19 Sept 2026.
+John Gómez is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lisa, Lisbon on Sat, 19 Sept 2026.
 
 John Gómez is a house and balearic artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Nick The Record, Ruf Dug and Bradley Zero. Next up: Lisa, Lisbon on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ John Gómez is a house and balearic artist tracked on soundcheck, with 62 sets l
 
 Nick The Record, Ruf Dug, Bradley Zero
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomez/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johngomez/)*

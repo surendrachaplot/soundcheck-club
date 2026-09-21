@@ -1,6 +1,6 @@
 # Bisk
 
-Bisk is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Silver Event Location, Berlin on Sat, 3 Oct 2026.
+Bisk is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Silver Event Location, Berlin on Sat, 3 Oct 2026.
 
 Bisk is a techno and tech house artist tracked on soundcheck, with 120 sets logged across Berlin, Newyorkcity and Tokyo. Often billed alongside DAV3, Morris Fitch and ED2000. Next up: Silver Event Location, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Bisk is a techno and tech house artist tracked on soundcheck, with 120 sets logg
 
 DAV3, Morris Fitch, ED2000
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bisk/)*

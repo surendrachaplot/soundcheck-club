@@ -1,6 +1,6 @@
 # Wax Assassin
 
-Wax Assassin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+Wax Assassin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 Wax Assassin is a techno and house artist tracked on soundcheck, with 162 sets logged across Detroit. Often billed alongside we1sman, LATEX GIRL and Tylr. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Wax Assassin is a techno and house artist tracked on soundcheck, with 162 sets l
 
 we1sman, LATEX GIRL, Tylr
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxassassin/)*

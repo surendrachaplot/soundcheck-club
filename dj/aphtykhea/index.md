@@ -1,6 +1,6 @@
 # Aphty Khéa
 
-Aphty Khéa is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Romantso, Athens on Fri, 2 Oct 2026.
+Aphty Khéa is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Romantso, Athens on Fri, 2 Oct 2026.
 
 Aphty Khéa is an electronic artist tracked on soundcheck, with 4 sets logged across Athens and Berlin. Often billed alongside Middle Name John, Do you know Juno and Max Mella. Next up: Romantso, Athens on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Aphty Khéa is an electronic artist tracked on soundcheck, with 4 sets logged ac
 
 Middle Name John, Do you know Juno, Max Mella
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aphtykhea/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aphtykhea/)*

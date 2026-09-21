@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HOTPOT x Cine Apartamento presents TT TAKEMOTO" on Thu, 24 Sept 2026.
+Secret Location is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HOTPOT x Cine Apartamento presents TT TAKEMOTO" on Thu, 24 Sept 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Andelet3, darklip.radio, DIME and Gareth Wild and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -20,4 +20,4 @@ Secret Location is a music venue in London listed on soundcheck. 7 upcoming gigs
 
 To Be Announced, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

@@ -1,6 +1,6 @@
 # MAD Arts
 
-MAD Arts is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "The House of Tarot" on Thu, 1 Oct 2026.
+MAD Arts is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "The House of Tarot" on Thu, 1 Oct 2026.
 
 MAD Arts is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including ACE and Dominant Hand. Browse upcoming dates, start times and who's playing. 560 Custer Street, Detroit, MI. 48202, USA.
 
@@ -17,4 +17,4 @@ MAD Arts is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with
 
 560 Custer Street, Detroit, MI. 48202, USA, Detroit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/mad-arts/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/mad-arts/)*

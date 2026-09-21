@@ -1,6 +1,6 @@
 # VCNTY presents BASS INVASION at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo)
 
-VCNTY presents BASS INVASION at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo) on Mon 21 Sept, Tokyo. 3 acts on the bill: AKANE (JP), IPPØ and Rikk (2). Bass and Dubstep. Preview the line-up and save it on soundcheck.
+VCNTY presents BASS INVASION at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo) on Mon 21 Sept, Tokyo. 4 acts on the bill: AKANE (JP), FLATSKY, IPPØ and Rikk (2). Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ VCNTY presents BASS INVASION at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Doge
 ## Line-up
 
 - AKANE (JP)
+- FLATSKY
 - IPPØ
 - Rikk (2)
 

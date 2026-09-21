@@ -1,14 +1,13 @@
 # Trois-Quarts Taxi System
 
-Trois-Quarts Taxi System is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Trois-Quarts Taxi System is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-Trois-Quarts Taxi System is a techno and bass artist tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside A Strange Wedding, Aaron J and Beatrice M.. Next up: Shunter, Rotterdam on Fri 18 Sept.
+Trois-Quarts Taxi System is a techno and bass artist tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside A Strange Wedding, Aaron J and Beatrice M.. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Shunter | Rotterdam |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
@@ -27,4 +26,4 @@ Trois-Quarts Taxi System is a techno and bass artist tracked on soundcheck, with
 
 A Strange Wedding, Aaron J, Beatrice M.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trois-quartstaxisystem/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trois-quartstaxisystem/)*

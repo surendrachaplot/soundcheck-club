@@ -1,6 +1,6 @@
 # Simisola
 
-Simisola is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
+Simisola is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
 
 Simisola is a club and techno artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Love Higher, wahala.wav and MORENXXX. Next up: Qncc, Newyorkcity on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Simisola is a club and techno artist tracked on soundcheck, with 21 sets logged 
 
 Love Higher, wahala.wav, MORENXXX
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*

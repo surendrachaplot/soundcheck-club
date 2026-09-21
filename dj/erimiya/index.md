@@ -1,6 +1,6 @@
 # ERIMIYA
 
-ERIMIYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
+ERIMIYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
 
 ERIMIYA is a techno and house artist tracked on soundcheck, with 89 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RINALUCKY, Kojiro and Sick Boy. Next up: Traffic, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ ERIMIYA is a techno and house artist tracked on soundcheck, with 89 sets logged 
 
 RINALUCKY, Kojiro, Sick Boy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*

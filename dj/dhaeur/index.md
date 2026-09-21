@@ -1,14 +1,13 @@
 # DHÆÜR
 
-DHÆÜR is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+DHÆÜR is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at RADION, Amsterdam on Fri, 9 Oct 2026.
 
-DHÆÜR is a techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Milan and Paris and 1 more. Often billed alongside DVS1, Dustin Zahn and Endrew. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
+DHÆÜR is a techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Milan and Paris and 1 more. Often billed alongside DVS1, Dustin Zahn and Endrew. Next up: RADION, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 9 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ DHÆÜR is a techno artist tracked on soundcheck, with 12 sets logged across Ams
 
 DVS1, Dustin Zahn, Endrew
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dhaeur/)*

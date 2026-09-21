@@ -1,6 +1,6 @@
 # Lust For Youth
 
-Lust For Youth is a New Wave and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
+Lust For Youth is a New Wave and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
 
 Lust For Youth is a new wave and post-punk artist tracked on soundcheck, with 27 sets logged across Belgrade, Berlin, Copenhagen and Glasgow and 8 more. Often billed alongside Croatian Amor, Mai Mai Mai and Mermaid Chunky. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lust For Youth is a new wave and post-punk artist tracked on soundcheck, with 27
 
 Croatian Amor, Mai Mai Mai, Mermaid Chunky
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lustforyouth/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lustforyouth/)*

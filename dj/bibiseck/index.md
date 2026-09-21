@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Bibi Seck is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
 Bibi Seck is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Bibi Seck is a house and techno artist tracked on soundcheck, with 117 sets logg
 
 John Noseda, BAVR, Faisal
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

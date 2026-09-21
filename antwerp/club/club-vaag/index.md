@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Club Vaag invites Ueberrest, TASSERY & THISO" on Fri, 25 Sept 2026.
+Club Vaag is a music venue in Antwerp with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Vaag invites Ueberrest, TASSERY & THISO" on Fri, 25 Sept 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 12 upcoming gigs, with line-ups including BISOUX, BØĘRY, CeeJay and Eran Aviner and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -23,4 +23,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 12 upcoming gigs, wi
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

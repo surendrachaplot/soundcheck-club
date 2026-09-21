@@ -1,14 +1,13 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE " on Sun, 20 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "EYE" on Fri, 25 Sept 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upcoming gigs, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Sundae and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 13 upcoming gigs, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Tennis and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Making Time ∞ TRANSCENDENTAL Afterparty with Powder, Spray, DJ Sundae, Maara, oma totem + MORE  | DJ Sundae, Maara, Powder, QRTR, Shai FM, Spray, Zillas on Acid, oma totem |
 | Fri, 25 Sept 2026 | EYE |  |
 | Sat, 26 Sept 2026 | Ravefurrest x The Machine |  |
 | Fri, 2 Oct 2026 | Madwrrld | MADGRRL |
@@ -18,9 +17,10 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upc
 | Fri, 9 Oct 2026 | Grafix presented by Hostile City (1 Year Anniversary Show) | Grafix |
 | Sat, 10 Oct 2026 | Black Hause |  |
 | Sat, 17 Oct 2026 | The Shakedown 25 Year Anniversary: Louie Vega all night long | Louie Vega |
+| Sat, 24 Oct 2026 | Repeat Behavior presents GAY PANIC! with JIALING | DJ Love, JIALING, ONEELEVEN, kraftwitch |
 
 ## Address
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

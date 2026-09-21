@@ -1,6 +1,6 @@
 # Vialla
 
-Vialla is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+Vialla is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 Vialla is a bass and industrial artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside DJ SABI, Katrixia and A.BOT_ONE. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Vialla is a bass and industrial artist based in Czech Republic, tracked on sound
 
 DJ SABI, Katrixia, A.BOT_ONE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vialla/)*

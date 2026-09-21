@@ -1,6 +1,6 @@
 # Casa Da Praia
 
-Casa Da Praia is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Beach Bounce: Season Closing" on Fri, 2 Oct 2026.
+Casa Da Praia is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Beach Bounce: Season Closing" on Fri, 2 Oct 2026.
 
 Casa Da Praia is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. AV.MARGINAL, PRAIA de CARCAVELOS, 2775-064 CARCAVELOS.
 
@@ -14,4 +14,4 @@ Casa Da Praia is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. B
 
 AV.MARGINAL, PRAIA de CARCAVELOS, 2775-064 CARCAVELOS, Lisbon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-da-praia/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/casa-da-praia/)*

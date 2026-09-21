@@ -1,6 +1,6 @@
 # Randali
 
-Randali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Randali is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Randali is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Sabura and Nikiija. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Randali is a techno and house artist tracked on soundcheck, with 46 sets logged 
 
 Konfusia, Sabura, Nikiija
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

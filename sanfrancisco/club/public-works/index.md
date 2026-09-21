@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice" on Sat, 26 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FCUKERS (DJ Set) + Chloé Caillet presented by Goldenvoice" on Sat, 26 Sept 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming gigs, with line-ups including ALMAS, Ben UFO, Bonita Baby and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

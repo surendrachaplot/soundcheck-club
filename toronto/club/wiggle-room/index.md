@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Sunday SerVice: NOUR - Manzone & Strong - 4AM LAST CALL" on Sun, 20 Sept 2026.
+Wiggle Room is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Wiggle Room Records Release Party: CARLOS MENACA [Spain]" on Sat, 26 Sept 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Sunday SerVice: NOUR - Manzone & Strong - 4AM LAST CALL | Barroness, Manzone & Strong, Nour (CAN) |
 | Sat, 26 Sept 2026 | Wiggle Room Records Release Party: CARLOS MENACA [Spain] | Addy, Carlos Manaça, Juan Gmoney Jaramillo, TAKiN |
 | Sat, 26 Sept 2026 | Wiggle Room's 5 Year Anniversary Festival (Pre Party + 31-Hour Main Event) | Addy, BOZA, Barroness, Carlos Manaça, David Herrero, Hatiras, Joee Cons, Juan Gmoney Jaramillo, Junior Lopez, MC Flipside, Manzone & Strong, Marcus Visionary, Miz Megs, Nour (CAN), Randomdoug, TAKiN, Tyler Hill |
 | Sun, 27 Sept 2026 | Sunday SerVice: Joee Cons Birthday Tribute | BOZA, Joee Cons, MC Flipside, Manzone & Strong, Miz Megs |
@@ -23,4 +22,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, 
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

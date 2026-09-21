@@ -1,6 +1,6 @@
 # Swimful
 
-Swimful is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Swimful is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Swimful is an experimental and club artist tracked on soundcheck, with 11 sets logged across Glasgow, London, Lyon and Manchester and 2 more. Often billed alongside Hyph11E, MJK and Oblig. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Swimful is an experimental and club artist tracked on soundcheck, with 11 sets l
 
 Hyph11E, MJK, Oblig
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimful/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimful/)*

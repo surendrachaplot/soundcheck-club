@@ -1,6 +1,6 @@
 # F1-PV
 
-F1-PV is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
+F1-PV is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
 
 F1-PV is a dub and dubstep artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Zurich. Often billed alongside CORIN, CRi and Gio Elia. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ F1-PV is a dub and dubstep artist based in Switzerland, tracked on soundcheck, w
 
 CORIN, CRi, Gio Elia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/f1-pv/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/f1-pv/)*

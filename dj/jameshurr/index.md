@@ -1,6 +1,6 @@
 # James Hurr
 
-James Hurr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+James Hurr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
 James Hurr is a house and tech house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Alexis Knox, CHANEY and Jenn Getz. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ James Hurr is a house and tech house artist tracked on soundcheck, with 16 sets 
 
 Alexis Knox, CHANEY, Jenn Getz
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshurr/)*

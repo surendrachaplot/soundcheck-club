@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Doka, Amsterdam on Fri, 9 Oct 2026.
+Moxes is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Doka, Amsterdam on Fri, 9 Oct 2026.
 
 Moxes is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 3 more. Often billed alongside Emvae, Kyra Khaldi and D Stone. Next up: Doka, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Moxes is a house and tech house artist tracked on soundcheck, with 65 sets logge
 
 Emvae, Kyra Khaldi, D Stone
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

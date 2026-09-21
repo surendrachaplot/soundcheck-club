@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Soumz b2b Will Mellor" on Wed, 23 Sept 2026.
+Oven Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Soumz b2b Will Mellor" on Wed, 23 Sept 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including BAR (DE), blan.trrs, Blanch and Cross and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -18,4 +18,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, wi
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

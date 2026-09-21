@@ -1,6 +1,6 @@
 # Cinna
 
-Cinna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Beursschouwburg, Brussels on Thu, 24 Sept 2026.
+Cinna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Beursschouwburg, Brussels on Thu, 24 Sept 2026.
 
 Cinna is a techno and house artist tracked on soundcheck, with 13 sets logged across Brussels, Chicago, Detroit and Paris. Often billed alongside Lowki, AA/XX and Amy Unland. Next up: Beursschouwburg, Brussels on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Cinna is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 Lowki, AA/XX, Amy Unland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinna/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinna/)*

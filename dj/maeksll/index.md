@@ -1,6 +1,6 @@
 # Maeksll
 
-Maeksll is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at MTW, Frankfurt on Sat, 14 Nov 2026.
+Maeksll is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
 Maeksll is a techno and trance artist tracked on soundcheck, with 4 sets logged across Basel and Frankfurt. Often billed alongside kso12, AEREA and Artificial DNA. Next up: MTW, Frankfurt on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Maeksll is a techno and trance artist tracked on soundcheck, with 4 sets logged 
 
 kso12, AEREA, Artificial DNA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maeksll/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maeksll/)*

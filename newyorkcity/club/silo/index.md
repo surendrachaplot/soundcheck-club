@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Open Decks with Ceviché" on Tue, 22 Sept 2026.
+SILO is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Open Decks with Ceviché" on Tue, 22 Sept 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 31 upcoming gigs, with line-ups including Amiti, Anthony Romano, Anyasa and Bag Raiders and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 31 upcoming gigs, wit
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

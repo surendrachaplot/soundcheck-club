@@ -1,6 +1,6 @@
 # The Spy
 
-The Spy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
+The Spy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 2 Oct 2026.
 
 The Spy is a techno and electro artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Belgrade and Leipzig and 2 more. Often billed alongside VOLPEVOLPE, Garçon Taupe and Ian Martin. Next up: Drugstore Beograd, Belgrade on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ The Spy is a techno and electro artist tracked on soundcheck, with 7 sets logged
 
 VOLPEVOLPE, Garçon Taupe, Ian Martin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thespy/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thespy/)*

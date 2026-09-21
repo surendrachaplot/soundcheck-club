@@ -1,6 +1,6 @@
 # Leghet
 
-Leghet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+Leghet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 Leghet is a techno and house artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside AMARE, AVA Irandoost and African Stevenson. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Leghet is a techno and house artist tracked on soundcheck, with 2 sets logged ac
 
 AMARE, AVA Irandoost, African Stevenson
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leghet/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leghet/)*

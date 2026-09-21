@@ -1,6 +1,6 @@
 # Void Republic
 
-Void Republic is a Electro and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
+Void Republic is a Electro and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
 
 Void Republic is an electro and post-punk artist tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside L.Sangre, Martial Canterel and Mickey Dagger. Next up: Red Roof Church, Montreal on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Void Republic is an electro and post-punk artist tracked on soundcheck, with 2 s
 
 L.Sangre, Martial Canterel, Mickey Dagger
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voidrepublic/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voidrepublic/)*

@@ -1,14 +1,13 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Mella Dee is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Under The Arches, Leeds on Sat, 3 Oct 2026.
 
-Mella Dee is a house and techno artist tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 48 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Mella Dee is a house and techno artist tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 48 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Under The Arches, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Under The Arches | Leeds |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Wed, 21 Oct 2026 | BRET | Amsterdam |
@@ -34,4 +33,4 @@ Mella Dee is a house and techno artist tracked on soundcheck, with 165 sets logg
 
 Saoirse, Reeshy, Locklead
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

@@ -1,6 +1,6 @@
 # Chi Lounge
 
-Chi Lounge is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "AFTERS: TECHNO TRIBAL PARTY" on Sun, 27 Sept 2026.
+Chi Lounge is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "AFTERS: TECHNO TRIBAL PARTY" on Sun, 27 Sept 2026.
 
 Chi Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig, with line-ups including ANCARCO, Another Human Red, Kamu Kamu and MOSTASH. Browse upcoming dates, start times and who's playing. 818 Washington Street.
 
@@ -14,4 +14,4 @@ Chi Lounge is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig
 
 818 Washington Street, San Francisco/Oakland
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/chi-lounge/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/chi-lounge/)*

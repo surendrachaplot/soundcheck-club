@@ -1,6 +1,6 @@
 # Katzengold
 
-Katzengold is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
+Katzengold is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
 
 Katzengold is a techno and house artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside justUS, Markus Klee and Mollono.Bass. Next up: Ritter Butzke, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Katzengold is a techno and house artist based in Germany, tracked on soundcheck,
 
 justUS, Markus Klee, Mollono.Bass
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*

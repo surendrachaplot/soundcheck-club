@@ -1,6 +1,6 @@
 # sa+ga
 
-sa+ga is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
+sa+ga is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
 
 sa+ga is a techno artist tracked on soundcheck, with 15 sets logged across Brussels, Marseille and Paris. Often billed alongside Forest, Bambi (FR) and Javier Salazar. Next up: La Cité Fertile, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ sa+ga is a techno artist tracked on soundcheck, with 15 sets logged across Bruss
 
 Forest, Bambi (FR), Javier Salazar
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saga-fr/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saga-fr/)*

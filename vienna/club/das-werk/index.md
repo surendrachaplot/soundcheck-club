@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "PSYTRANCE UNIVERSE at WERK with Artyficial" on Sat, 26 Sept 2026.
+Das Werk is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PSYTRANCE UNIVERSE at WERK with Artyficial" on Sat, 26 Sept 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Albin Brezlan, Crystal O, ESCA (3) and Huebl and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -18,4 +18,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with 
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

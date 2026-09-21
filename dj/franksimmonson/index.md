@@ -1,6 +1,6 @@
 # Frank S
 
-Frank S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Koenji Cave, Tokyo on Fri, 25 Sept 2026.
+Frank S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Koenji Cave, Tokyo on Fri, 25 Sept 2026.
 
 Frank S is a techno and house artist tracked on soundcheck, with 27 sets logged across Manchester and Tokyo. Often billed alongside BERLINER KINDL, SIGNAL (JP) and Alex Ormond. Next up: Koenji Cave, Tokyo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Frank S is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 BERLINER KINDL, SIGNAL (JP), Alex Ormond
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franksimmonson/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franksimmonson/)*

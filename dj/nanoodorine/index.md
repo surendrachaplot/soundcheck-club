@@ -1,6 +1,6 @@
 # nano odorine
 
-nano odorine is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Forestlimit, Tokyo on Mon, 21 Sept 2026.
+nano odorine is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Forestlimit, Tokyo on Mon, 21 Sept 2026.
 
 nano odorine is an electronica and techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside AMIDAdrive, HIMAWARI and KOPY. Next up: Forestlimit, Tokyo on Mon 21 Sept.
 
@@ -20,4 +20,4 @@ nano odorine is an electronica and techno artist based in Japan, tracked on soun
 
 AMIDAdrive, HIMAWARI, KOPY
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*

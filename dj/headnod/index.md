@@ -1,6 +1,6 @@
 # Headnod
 
-Headnod is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Upstairs at the 700, Philadelphia on Thu, 1 Oct 2026.
+Headnod is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Upstairs at the 700, Philadelphia on Thu, 1 Oct 2026.
 
 Headnod is a house and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside El-D (USA) and soundsofgreg. Next up: Upstairs at the 700, Philadelphia on Thu 1 Oct.
 
@@ -18,4 +18,4 @@ Headnod is a house and club artist based in United States of America, tracked on
 
 El-D (USA), soundsofgreg
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headnod/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headnod/)*

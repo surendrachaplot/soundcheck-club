@@ -1,6 +1,6 @@
 # L-AUX
 
-L-AUX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Provitreff, Zurich on Fri, 25 Sept 2026.
+L-AUX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Provitreff, Zurich on Fri, 25 Sept 2026.
 
 L-AUX is a techno and trance artist tracked on soundcheck, with 45 sets logged across Basel, Berlin, Cologne and Copenhagen and 4 more. Often billed alongside Mefteh, Alex Friday and Ricksen. Next up: Provitreff, Zurich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ L-AUX is a techno and trance artist tracked on soundcheck, with 45 sets logged a
 
 Mefteh, Alex Friday, Ricksen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l-aux/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l-aux/)*

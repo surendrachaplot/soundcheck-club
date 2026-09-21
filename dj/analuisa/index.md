@@ -1,6 +1,6 @@
 # Ana Luisa
 
-Ana Luisa is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
+Ana Luisa is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cafeteria, Toronto on Fri, 25 Sept 2026.
 
 Ana Luisa is a latin bass and club artist tracked on soundcheck, with 62 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Sofia Fly, Litney and HVN (1). Next up: Cafeteria, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ana Luisa is a latin bass and club artist tracked on soundcheck, with 62 sets lo
 
 Sofia Fly, Litney, HVN (1)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analuisa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analuisa/)*

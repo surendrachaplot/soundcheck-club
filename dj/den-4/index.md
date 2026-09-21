@@ -1,6 +1,6 @@
 # Den (4)
 
-Den (4) is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
+Den (4) is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
 
 Den (4) is a tech house and minimal artist tracked on soundcheck, with 3 sets logged across Budapest. Often billed alongside Hanussen, Kekrim and Knoll. Next up: Atno, Budapest on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Den (4) is a tech house and minimal artist tracked on soundcheck, with 3 sets lo
 
 Hanussen, Kekrim, Knoll
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/den-4/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/den-4/)*

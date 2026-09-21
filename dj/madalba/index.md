@@ -1,6 +1,6 @@
 # Madalba
 
-Madalba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Void Hall, Berlin on Sat, 10 Oct 2026.
+Madalba is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Void Hall, Berlin on Sat, 10 Oct 2026.
 
 Madalba is a techno and house artist based in Italy, tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 15 more. Often billed alongside Handmade, Amperia and Dirty Daddy Don. Next up: Void Hall, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Madalba is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Handmade, Amperia, Dirty Daddy Don
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madalba/)*

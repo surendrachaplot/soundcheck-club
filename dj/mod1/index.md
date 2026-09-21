@@ -1,6 +1,6 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at VENT, Tokyo on Fri, 2 Oct 2026.
+Mod.1 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at VENT, Tokyo on Fri, 2 Oct 2026.
 
 Mod.1 is a techno and dub techno artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Madrid and Milan and 3 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: VENT, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mod.1 is a techno and dub techno artist tracked on soundcheck, with 64 sets logg
 
 ABSIS, Ana Alves, Queixal
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*

@@ -1,6 +1,6 @@
 # Brown Alley
 
-Brown Alley is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "OVERTIME - Airwolf Paradise & Ferreck Dawn (NL)" on Thu, 24 Sept 2026.
+Brown Alley is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "OVERTIME - Airwolf Paradise & Ferreck Dawn (NL)" on Thu, 24 Sept 2026.
 
 Brown Alley is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Airwolf Paradise, Ferreck Dawn, Gaston Gari and INFINITY and 2 more. Browse upcoming dates, start times and who's playing. 585 Lonsdale St; Melbourne, VIC 3000; Australia.
 
@@ -15,4 +15,4 @@ Brown Alley is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs,
 
 585 Lonsdale St; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/brown-alley/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/brown-alley/)*

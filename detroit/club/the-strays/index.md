@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LLORA LIVE" on Thu, 24 Sept 2026.
+The Strays is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LLORA LIVE" on Thu, 24 Sept 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Ghoztbomb and Kenjiro. Browse upcoming dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, wi
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

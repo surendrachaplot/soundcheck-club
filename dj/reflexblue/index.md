@@ -1,14 +1,13 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Reflex Blue is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
 
-Reflex Blue is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Voigtmann, Cap and Doudou MD. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Reflex Blue is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 33 more. Often billed alongside Voigtmann, Cap and Doudou MD. Next up: Home The Venue, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sun, 4 Oct 2026 | Home The Venue | Sydney |
 | Sat, 17 Oct 2026 | Distrikt | Leeds |
 
@@ -27,4 +26,4 @@ Reflex Blue is a house and tech house artist tracked on soundcheck, with 105 set
 
 Voigtmann, Cap, Doudou MD
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

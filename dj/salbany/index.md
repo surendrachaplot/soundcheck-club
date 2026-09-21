@@ -1,6 +1,6 @@
 # Salbany
 
-Salbany is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
+Salbany is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
 
 Salbany is a techno and house artist based in Portugal, tracked on soundcheck, with 56 sets logged across Berlin, Helsinki, Lisbon and London and 4 more. Often billed alongside Jesterr, Chima Isaaro and Temudo. Next up: Ministerium Club, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Salbany is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 Jesterr, Chima Isaaro, Temudo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*

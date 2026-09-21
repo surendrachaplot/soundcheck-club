@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry" on Thu, 24 Sept 2026.
+Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "BUSS IT (Dancehall, Bashment, Jersey Club + MORE) - Free Entry" on Thu, 24 Sept 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including DAMO, EWERED, Faded Society and M4YA and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -22,4 +22,4 @@ Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

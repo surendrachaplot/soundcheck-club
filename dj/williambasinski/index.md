@@ -1,15 +1,13 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+William Basinski is a Ambient and Experimental artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gabriel Loci, Prague on Mon, 21 Sept 2026.
 
-William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Belgrade and Berlin and 25 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: Kaserne Basel, Basel on Thu 17 Sept.
+William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Basel, Belgrade and Berlin and 25 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: Gabriel Loci, Prague on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 17 Sept 2026 | Kaserne Basel | Basel |
-| Sat, 19 Sept 2026 | Teatar 78 | Belgrade |
 | Mon, 21 Sept 2026 | Gabriel Loci | Prague |
 | Sat, 7 Nov 2026 | First Unitarian Church | Philadelphia |
 | Sun, 8 Nov 2026 | BERHTA | Washington DC |
@@ -33,4 +31,4 @@ William Basinski is an ambient and experimental artist based in United States of
 
 Buttechno, Chantal Michelle, Dasha Rush
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*

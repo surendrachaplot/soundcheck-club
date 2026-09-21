@@ -1,6 +1,6 @@
 # Lenson
 
-Lenson is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 2 Oct 2026.
+Lenson is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 2 Oct 2026.
 
 Lenson is a techno and electro artist tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Rotterdam and Utrecht. Often billed alongside David Vunk, 543FF and Charlton. Next up: KABUL à GoGo, Utrecht on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lenson is a techno and electro artist tracked on soundcheck, with 15 sets logged
 
 David Vunk, 543FF, Charlton
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenson/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenson/)*

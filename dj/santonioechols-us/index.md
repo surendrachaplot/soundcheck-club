@@ -1,6 +1,6 @@
 # Santonio Echols
 
-Santonio Echols is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
+Santonio Echols is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Corktown Tavern, Detroit on Sat, 17 Oct 2026.
 
 Santonio Echols is a techno and house artist tracked on soundcheck, with 7 sets logged across Amsterdam and Detroit. Often billed alongside Al Ester, DJ Godfather and Kevin Saunderson. Next up: Corktown Tavern, Detroit on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Santonio Echols is a techno and house artist tracked on soundcheck, with 7 sets 
 
 Al Ester, DJ Godfather, Kevin Saunderson
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santonioechols-us/)*

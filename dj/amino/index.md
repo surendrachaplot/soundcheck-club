@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+Amino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 Amino is a techno and house artist tracked on soundcheck, with 90 sets logged across Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Amino is a techno and house artist tracked on soundcheck, with 90 sets logged ac
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

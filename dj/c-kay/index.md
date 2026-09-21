@@ -1,6 +1,6 @@
 # C-KAY
 
-C-KAY is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at KGR(n), Tokyo on Mon, 21 Sept 2026.
+C-KAY is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at KGR(n), Tokyo on Mon, 21 Sept 2026.
 
 C-KAY is an experimental and techno artist based in Japan, tracked on soundcheck, with 34 sets logged across Hongkong, Osaka, Seoul and Tokyo. Often billed alongside Djilogue, In Ray and karanaki. Next up: KGR(n), Tokyo on Mon 21 Sept.
 
@@ -28,4 +28,4 @@ C-KAY is an experimental and techno artist based in Japan, tracked on soundcheck
 
 Djilogue, In Ray, karanaki
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-kay/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-kay/)*

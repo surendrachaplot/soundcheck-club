@@ -1,6 +1,6 @@
 # DJ Shufflemaster
 
-DJ Shufflemaster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Z Maruyama, Tokyo on Sat, 3 Oct 2026.
+DJ Shufflemaster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Z Maruyama, Tokyo on Sat, 3 Oct 2026.
 
 DJ Shufflemaster is a techno and house artist tracked on soundcheck, with 30 sets logged across Berlin, Chicago, Dublin and Glasgow and 8 more. Often billed alongside DJ Wada, DJ MIKU and Juzu a.k.a. Moochy. Next up: Z Maruyama, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Shufflemaster is a techno and house artist tracked on soundcheck, with 30 set
 
 DJ Wada, DJ MIKU, Juzu a.k.a. Moochy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshufflemaster/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshufflemaster/)*

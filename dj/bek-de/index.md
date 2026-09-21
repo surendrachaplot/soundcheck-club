@@ -1,6 +1,6 @@
 # Bek
 
-Bek is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
+Bek is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
 
 Bek is a techno and latin bass artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg and Sydney. Often billed alongside Hungry Ghost, Bonfante and Bouki. Next up: The Grifter Brewing Co., Sydney on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Bek is a techno and latin bass artist based in Germany, tracked on soundcheck, w
 
 Hungry Ghost, Bonfante, Bouki
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bek-de/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bek-de/)*

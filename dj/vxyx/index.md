@@ -1,6 +1,6 @@
 # VXYX
 
-VXYX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at 1990, Glasgow on Sat, 26 Sept 2026.
+VXYX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 1990, Glasgow on Sat, 26 Sept 2026.
 
 VXYX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Neoma, D4N (1) and LA MAISON. Next up: 1990, Glasgow on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ VXYX is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 Neoma, D4N (1), LA MAISON
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxyx/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxyx/)*

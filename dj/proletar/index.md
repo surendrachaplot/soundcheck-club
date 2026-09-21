@@ -1,6 +1,6 @@
 # PROLETAR
 
-PROLETAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+PROLETAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, with 33 sets logged across Miami. Often billed alongside DomnRob, Dadrev and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, 
 
 DomnRob, Dadrev, Mr. Proper
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proletar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/proletar/)*

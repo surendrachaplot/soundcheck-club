@@ -1,6 +1,6 @@
 # Human Logo
 
-Human Logo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Grub Records, Sheffield on Fri, 2 Oct 2026.
+Human Logo is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Grub Records, Sheffield on Fri, 2 Oct 2026.
 
 Human Logo is a deep house and techno artist tracked on soundcheck, with 3 sets logged across Leeds and Sheffield. Often billed alongside Pete Melba, Burge and Cooke. Next up: Grub Records, Sheffield on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Human Logo is a deep house and techno artist tracked on soundcheck, with 3 sets 
 
 Pete Melba, Burge, Cooke
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanlogo/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanlogo/)*

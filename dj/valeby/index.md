@@ -1,19 +1,19 @@
 # Valeby
 
-Valeby is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Paloma, Berlin on Sun, 20 Sept 2026.
+Valeby is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amp, Munster on Sat, 26 Sept 2026.
 
-Valeby is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Paloma, Berlin on Sun 20 Sept.
+Valeby is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Amp, Munster on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Paloma | Berlin |
 | Sat, 26 Sept 2026 | Amp | Munster |
 | Fri, 30 Oct 2026 | Amp | Munster |
 
 ## Recently played
 
+- Paloma, Berlin — Sun, 20 Sept 2026
 - Ritter Butzke, Berlin — Fri, 18 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - TBA - Selfkant, Cologne — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Valeby is a techno and house artist tracked on soundcheck, with 22 sets logged a
 - SISSI'S Amsterdam, Amsterdam — Sat, 2 May 2026
 - ://about blank, Berlin — Fri, 6 Feb 2026
 - Gewölbe, Cologne — Wed, 31 Dec 2025
-- Thuishaven, Amsterdam — Sat, 27 Dec 2025
 
 ## Shares bills with
 
 Rozie, CHOREOPHILA, Multifun
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*

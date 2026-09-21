@@ -1,6 +1,6 @@
 # Calypso High
 
-Calypso High is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Hoxton Cabin, London on Sat, 17 Oct 2026.
+Calypso High is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hoxton Cabin, London on Sat, 17 Oct 2026.
 
 Calypso High is a house and deep house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Nunonunonuno, Cristian Sirica and Auntie Klockwise. Next up: Hoxton Cabin, London on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Calypso High is a house and deep house artist tracked on soundcheck, with 4 sets
 
 Nunonunonuno, Cristian Sirica, Auntie Klockwise
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsohigh/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsohigh/)*

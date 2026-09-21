@@ -1,6 +1,6 @@
 # Mokomizik
 
-Mokomizik is a Disco and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 5 Dec 2026.
+Mokomizik is a Disco and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 5 Dec 2026.
 
 Mokomizik is a disco and jazz artist tracked on soundcheck, with 31 sets logged across Copenhagen, Manchester and Sheffield. Often billed alongside Hames, Joi La Frique and Talking Motion. Next up: H15 Scene & Studio, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mokomizik is a disco and jazz artist tracked on soundcheck, with 31 sets logged 
 
 Hames, Joi La Frique, Talking Motion
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mokomizik/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mokomizik/)*

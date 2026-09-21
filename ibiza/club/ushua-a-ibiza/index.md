@@ -1,6 +1,6 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HUGEL presents Make The Girls Dance" on Sun, 20 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HUGEL presents Make The Girls Dance" on Sun, 20 Sept 2026.
 
 Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs,
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

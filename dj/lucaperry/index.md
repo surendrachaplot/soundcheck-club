@@ -1,6 +1,6 @@
 # Luca Perry
 
-Luca Perry is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
+Luca Perry is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
 
 Luca Perry is a house and acid artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Herberta, ellzyb and S_STEELE. Next up: The Old Nun's Head, London on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Luca Perry is a house and acid artist based in United Kingdom, tracked on soundc
 
 Herberta, ellzyb, S_STEELE
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaperry/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaperry/)*

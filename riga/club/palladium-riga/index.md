@@ -1,6 +1,6 @@
 # Palladium Riga
 
-Palladium Riga is a music venue in Riga with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Michelle Gurevich" on Thu, 24 Sept 2026.
+Palladium Riga is a music venue in Riga with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Michelle Gurevich" on Thu, 24 Sept 2026.
 
 Palladium Riga is a music venue in Riga listed on soundcheck. 3 upcoming gigs, with line-ups including Fatboy Slim, Joyhauser and Mha iri. Browse upcoming dates, start times and who's playing. Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia.
 
@@ -16,4 +16,4 @@ Palladium Riga is a music venue in Riga listed on soundcheck. 3 upcoming gigs, w
 
 Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia, Riga
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/palladium-riga/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/palladium-riga/)*

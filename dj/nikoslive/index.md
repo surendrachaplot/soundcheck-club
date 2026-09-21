@@ -1,14 +1,13 @@
 # Nikos (live)
 
-Nikos (live) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Shunter, Rotterdam on Fri, 18 Sept 2026.
+Nikos (live) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
 
-Nikos (live) is a techno and bass artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Berlin and Rotterdam. Often billed alongside Nelly (NL), dirtydms and Efdemin. Next up: Shunter, Rotterdam on Fri 18 Sept.
+Nikos (live) is a techno and bass artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Berlin and Rotterdam. Often billed alongside Nelly (NL), dirtydms and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Shunter | Rotterdam |
 | Thu, 22 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -25,4 +24,4 @@ Nikos (live) is a techno and bass artist based in Netherlands, tracked on soundc
 
 Nelly (NL), dirtydms, Efdemin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoslive/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoslive/)*

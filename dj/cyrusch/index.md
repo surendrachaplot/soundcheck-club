@@ -1,6 +1,6 @@
 # Cyrus (CH)
 
-Cyrus (CH) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Halle W, Geneva on Sat, 26 Sept 2026.
+Cyrus (CH) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Halle W, Geneva on Sat, 26 Sept 2026.
 
 Cyrus (CH) is a tech house and house artist based in Switzerland, tracked on soundcheck, with 16 sets logged across Geneva. Often billed alongside DJ Reas, La Forêt and Laolu. Next up: Halle W, Geneva on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cyrus (CH) is a tech house and house artist based in Switzerland, tracked on sou
 
 DJ Reas, La Forêt, Laolu
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusch/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusch/)*

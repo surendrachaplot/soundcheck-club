@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "BUNTER HUND AM SONNTAG MIT KRT*HLD" on Sun, 20 Sept 2026.
+Romantica is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MÄRCHENSTUNDE am DIENSTAG mit JANADONNA (RAZZIA)" on Tue, 22 Sept 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Alexander Maier, Avocado, CHIEF QUEEF and ELSA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, with line-ups including Alexander Maier, Avocado, CHIEF QUEEF and ELSA (DE) and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | BUNTER HUND AM SONNTAG MIT KRT*HLD |  |
 | Tue, 22 Sept 2026 | MÄRCHENSTUNDE am DIENSTAG mit JANADONNA (RAZZIA) | JANADONNA |
 | Thu, 24 Sept 2026 | KATZENGOLD am DONNERSTAG meets DACH RECORDS | CHIEF QUEEF |
 | Sat, 26 Sept 2026 | Freeride Millenium with makcimillian, Elsa & Ceasul, Special Interest, Jorkes | ELSA (DE), Jorkes, MKCMLLN |
@@ -19,4 +18,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

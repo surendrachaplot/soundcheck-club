@@ -1,6 +1,6 @@
 # V (NYC)
 
-V (NYC) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+V (NYC) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 V (NYC) is a techno and tech house artist tracked on soundcheck, with 43 sets logged across Berlin, Hamburg, Prague and Tokyo. Often billed alongside Marc Eisenberg, Einfach Taffo and AHAB. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ V (NYC) is a techno and tech house artist tracked on soundcheck, with 43 sets lo
 
 Marc Eisenberg, Einfach Taffo, AHAB
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnyc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnyc/)*

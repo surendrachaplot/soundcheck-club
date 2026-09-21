@@ -1,6 +1,6 @@
 # AMEDEUS
 
-AMEDEUS is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Nether Club, Bucharest on Fri, 16 Oct 2026.
+AMEDEUS is a Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nether Club, Bucharest on Fri, 16 Oct 2026.
 
 AMEDEUS is a techno artist based in Romania, tracked on soundcheck, with 10 sets logged across Bucharest. Often billed alongside KATHERYNE, Stefan Hernandez and Amnesico. Next up: Nether Club, Bucharest on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ AMEDEUS is a techno artist based in Romania, tracked on soundcheck, with 10 sets
 
 KATHERYNE, Stefan Hernandez, Amnesico
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeus/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amedeus/)*

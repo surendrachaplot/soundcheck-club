@@ -1,6 +1,6 @@
 # Mermaid
 
-Mermaid is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at EL SÓTANO, Madrid on Thu, 22 Oct 2026.
+Mermaid is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at EL SÓTANO, Madrid on Thu, 22 Oct 2026.
 
 Mermaid is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Madrid, Osaka and Tokyo. Often billed alongside Glico, KA4U and Lemi. Next up: EL SÓTANO, Madrid on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Mermaid is an electronica and experimental artist based in United States of Amer
 
 Glico, KA4U, Lemi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaid/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaid/)*

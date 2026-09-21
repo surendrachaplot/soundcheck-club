@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Modular Expansion: Techno Soundz" on Sat, 26 Sept 2026.
+2ten is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Modular Expansion: Techno Soundz" on Sat, 26 Sept 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Alisa Murphy, Emex, George Apergis and Marthe and 2 more. Browse upcoming dates, start times and who's playing. Ermou 135, Athens.
 
@@ -17,4 +17,4 @@
 
 Ermou 135, Athens, Athens
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

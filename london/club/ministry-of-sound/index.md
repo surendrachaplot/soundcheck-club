@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 24 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "The UV Rave" on Mon, 21 Sept 2026.
+Ministry Of Sound is a music venue in London with 24 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "The UV Rave" on Mon, 21 Sept 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 24 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

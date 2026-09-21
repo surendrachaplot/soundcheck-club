@@ -1,6 +1,6 @@
 # Oslo Hackney
 
-Oslo Hackney is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Locomotive Disco - House, Disco, Funk & Boogie" on Sat, 26 Sept 2026.
+Oslo Hackney is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Locomotive Disco - House, Disco, Funk & Boogie" on Sat, 26 Sept 2026.
 
 Oslo Hackney is a music venue in London listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 1a Amhurst Road, Hackney, London,  E8 1LL.
 
@@ -17,4 +17,4 @@ Oslo Hackney is a music venue in London listed on soundcheck. 4 upcoming gigs. B
 
 1a Amhurst Road, Hackney, London,  E8 1LL, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/oslo-hackney/)*

@@ -1,6 +1,6 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Bassjackers" on Fri, 25 Sept 2026.
+Club Vinyl is a music venue in Denver with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Bassjackers" on Fri, 25 Sept 2026.
 
 Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs, with line-ups including Ahadadream, Baauer, Bassjackers and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 12 upcoming gigs, wi
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

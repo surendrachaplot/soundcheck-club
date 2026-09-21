@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 71 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "wieder: No Gravity x Eternity Showcase" on Sun, 20 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 70 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PHASE:ONE" on Tue, 22 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 70 upcoming gigs, with line-ups including 1luu, 4NOUK, 5euroGoldi and YOVA and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | wieder: No Gravity x Eternity Showcase | Callado, Obelisk030, SALCHIKILLER, mølly (on molly) |
 | Tue, 22 Sept 2026 | PHASE:ONE | Megaira |
 | Wed, 23 Sept 2026 | SIGNALS |  |
 | Wed, 23 Sept 2026 | SIGNALS - 5€ Tickets - with Anna Ullrich, bouncy cat, Tom Forelli | Anna Ullrich, Tom Forelli, bouncy cat |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming 
 | Sun, 27 Sept 2026 | LOKSCHUPPEN SUMMER CLOSING |  |
 | Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | EGE363, Jacky Ickx |
 | Tue, 29 Sept 2026 | PHASE:ONE | Levandream, Shilo |
+| Wed, 30 Sept 2026 | SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo | CIKO, DJ Primitivo, HOOM |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

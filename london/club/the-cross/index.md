@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "b:Electronic x fabric Records: Or:la b2b YuSu" on Thu, 24 Sept 2026.
+The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "b:Electronic x fabric Records: Or:la b2b YuSu" on Thu, 24 Sept 2026.
 
 The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Adela, Anya (UK), AZZA and Clara Rosa and 2 more. Browse upcoming dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -19,4 +19,4 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

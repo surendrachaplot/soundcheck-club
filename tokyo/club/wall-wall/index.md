@@ -1,6 +1,6 @@
 # Wall&wall
 
-Wall&wall is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "MnK pres. Kerosene Water 002" on Mon, 21 Sept 2026.
+Wall&wall is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "MnK pres. Kerosene Water 002" on Mon, 21 Sept 2026.
 
 Wall&wall is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Erik Luebs, m-int, Minna-no-Kimochi and SOGI and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Wall&wall is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with l
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | MnK pres. Kerosene Water 002 | Erik Luebs, Minna-no-Kimochi, SOGI, Usk°, m-int |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wall-wall/)*

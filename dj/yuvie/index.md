@@ -1,6 +1,6 @@
 # YUVIE
 
-YUVIE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
+YUVIE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
 
 YUVIE is a techno and house artist based in Japan, tracked on soundcheck, with 173 sets logged across Osaka, Seoul, Taipei and Tokyo. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: WOMB, Tokyo on Tue 22 Sept.
 
@@ -28,4 +28,4 @@ YUVIE is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 r1ku, kengotaki, SAMO (JP)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*

@@ -1,6 +1,6 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Kobosil" on Fri, 25 Sept 2026.
+Gate Milano is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Kobosil" on Fri, 25 Sept 2026.
 
 Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Akashi, ANEM1, ANNĒ and ARMANDO and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
@@ -23,4 +23,4 @@ Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, wi
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

@@ -1,6 +1,6 @@
 # C4
 
-C4 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at SILO, New York City on Thu, 15 Oct 2026.
+C4 is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at SILO, New York City on Thu, 15 Oct 2026.
 
 C4 is an industrial and techno artist tracked on soundcheck, with 2 sets logged across London and Newyorkcity. Often billed alongside Brixx, RoxXxan and cassandrah. Next up: SILO, Newyorkcity on Thu 15 Oct.
 
@@ -18,4 +18,4 @@ C4 is an industrial and techno artist tracked on soundcheck, with 2 sets logged 
 
 Brixx, RoxXxan, cassandrah
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c4/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c4/)*

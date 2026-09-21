@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "CASA: WELCOME TO GLASGOW // TUESDAYS AT BERKELEY SUITE // 'OUR HOUSE IS YOUR HOUSE'" on Tue, 22 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "CASA: WELCOME TO GLASGOW // TUESDAYS AT BERKELEY SUITE // 'OUR HOUSE IS YOUR HOUSE'" on Tue, 22 Sept 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with line-ups including Amaliah, Andy Barton, Big Miz and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 30 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

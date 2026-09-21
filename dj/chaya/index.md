@@ -1,6 +1,6 @@
 # C H A Y A
 
-C H A Y A is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
+C H A Y A is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
 
 C H A Y A is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne and Vienna. Often billed alongside Bounce MC, DJ SODBRENNEN and HOTBOI2300. Next up: Odonien, Cologne on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ C H A Y A is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Bounce MC, DJ SODBRENNEN, HOTBOI2300
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaya/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaya/)*

@@ -1,6 +1,6 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
+t e s t p r e s s is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
 
 t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: The Warehouse, Leeds on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 
 
 Trancemaster Krause, Cleopard2000, Céleste
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*

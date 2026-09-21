@@ -1,6 +1,6 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Barraca, Valencia on Sat, 3 Oct 2026.
+relajadita is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Barraca, Valencia on Sat, 3 Oct 2026.
 
 relajadita is a techno and trance artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adrian Mills, KUKO and Noise Mafia. Next up: Barraca, Valencia on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ relajadita is a techno and trance artist tracked on soundcheck, with 22 sets log
 
 Adrian Mills, KUKO, Noise Mafia
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

@@ -1,6 +1,6 @@
 # Thyrie
 
-Thyrie is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Kultur Lounge, Leipzig on Sat, 19 Dec 2026.
+Thyrie is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kultur Lounge, Leipzig on Sat, 19 Dec 2026.
 
 Thyrie is a techno and ebm artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside Bertha, Amarcord and Atze G. Next up: Kultur Lounge, Leipzig on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ Thyrie is a techno and ebm artist based in Germany, tracked on soundcheck, with 
 
 Bertha, Amarcord, Atze G
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrie/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thyrie/)*

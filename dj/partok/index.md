@@ -1,6 +1,6 @@
 # Partok
 
-Partok is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
+Partok is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
 
 Partok is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: OIL Club, Shenzhen on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Partok is a house and techno artist tracked on soundcheck, with 110 sets logged 
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

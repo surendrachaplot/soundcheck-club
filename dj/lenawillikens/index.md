@@ -1,14 +1,13 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Lena Willikens is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | Bar Part Time | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | Macadam | Nantes |
@@ -20,6 +19,7 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
+| Sat, 7 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

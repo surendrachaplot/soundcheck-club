@@ -1,6 +1,6 @@
 # Linga Sound
 
-Linga Sound is a Jazz and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
+Linga Sound is a Jazz and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Peddler Warehouse, Sheffield on Fri, 2 Oct 2026.
 
 Linga Sound is a jazz and disco artist tracked on soundcheck, with 11 sets logged across Sheffield. Often billed alongside Nonna Fab, Joi La Frique and Andrea Montalto. Next up: Peddler Warehouse, Sheffield on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Linga Sound is a jazz and disco artist tracked on soundcheck, with 11 sets logge
 
 Nonna Fab, Joi La Frique, Andrea Montalto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lingasound/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lingasound/)*

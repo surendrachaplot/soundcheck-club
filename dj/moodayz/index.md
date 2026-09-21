@@ -1,6 +1,6 @@
 # Moodayz
 
-Moodayz is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Moodayz is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Moodayz is a techno and progressive house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Brussels and Madrid. Often billed alongside AMARE, Almost Human (DJ) and Althoff. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Moodayz is a techno and progressive house artist tracked on soundcheck, with 4 s
 
 AMARE, Almost Human (DJ), Althoff
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodayz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodayz/)*

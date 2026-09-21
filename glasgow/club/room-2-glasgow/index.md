@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "NSN x DEMOLITION presents: THE CIRCUIT with ZED and more" on Sat, 26 Sept 2026.
+Room 2 Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "NSN x DEMOLITION presents: THE CIRCUIT with ZED and more" on Sat, 26 Sept 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 6EJOU, Girls of the Internet, Jalo and KIRSTY and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

@@ -1,6 +1,6 @@
 # WÖNDER GIRL
 
-WÖNDER GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Socore Factory, Osaka on Thu, 24 Sept 2026.
+WÖNDER GIRL is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Socore Factory, Osaka on Thu, 24 Sept 2026.
 
 WÖNDER GIRL is a techno and electro artist based in Japan, tracked on soundcheck, with 15 sets logged across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Socore Factory, Osaka on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ WÖNDER GIRL is a techno and electro artist based in Japan, tracked on soundchec
 
 Chiaki Uehira, Lhinen, CAPTAIN HOOK Jr.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wondergirl/)*

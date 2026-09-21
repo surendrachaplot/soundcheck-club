@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "꿈 kkum LIVE: Efdemin aka Phillip Sollmann plays Hypnagogia" on Thu, 24 Sept 2026.
+vurt. is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "꿈 kkum LIVE: Efdemin aka Phillip Sollmann plays Hypnagogia" on Thu, 24 Sept 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including Andreas Tilliander, Djilogue, Efdemin and GOBI and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -19,4 +19,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

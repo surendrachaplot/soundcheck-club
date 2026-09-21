@@ -1,6 +1,6 @@
 # PADRE BLESS
 
-PADRE BLESS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
+PADRE BLESS is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 PADRE BLESS is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Sanfrancisco. Often billed alongside HIDRA, Mode Leeloo and Jeff Straw. Next up: F8 1192 Folsom, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ PADRE BLESS is a house and tech house artist based in United States of America, 
 
 HIDRA, Mode Leeloo, Jeff Straw
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/padrebless/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/padrebless/)*

@@ -1,6 +1,6 @@
 # Years of Denial
 
-Years of Denial is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
+Years of Denial is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
 
 Years of Denial is an ebm and techno artist tracked on soundcheck, with 39 sets logged across Athens, Barcelona, Berlin and Brussels and 18 more. Often billed alongside ComaRobot, Phase Fatale and Ancient Methods. Next up: The White Hotel, Manchester on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Years of Denial is an ebm and techno artist tracked on soundcheck, with 39 sets 
 
 ComaRobot, Phase Fatale, Ancient Methods
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*

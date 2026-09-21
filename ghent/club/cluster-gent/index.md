@@ -1,6 +1,6 @@
 # Cluster - Gent
 
-Cluster - Gent is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "CLUSTER 2026 - GENT" on Fri, 27 Nov 2026.
+Cluster - Gent is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "CLUSTER 2026 - GENT" on Fri, 27 Nov 2026.
 
 Cluster - Gent is a music venue in Ghent listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cluster - Gent is a music venue in Ghent listed on soundcheck. 1 upcoming gig. B
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | CLUSTER 2026 - GENT |  |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/cluster-gent/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/cluster-gent/)*

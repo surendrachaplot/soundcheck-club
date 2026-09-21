@@ -1,14 +1,13 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Friction is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Fri, 6 Nov 2026.
 
-Friction is a drum & bass and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 35 more. Often billed alongside Linguistics, Hybrid Minds and A Little Sound. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
+Friction is a drum & bass and bass artist tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 35 more. Often billed alongside Linguistics, Hybrid Minds and A Little Sound. Next up: WOMB, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 6 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Friction is a drum & bass and bass artist tracked on soundcheck, with 76 sets lo
 
 Linguistics, Hybrid Minds, A Little Sound
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

@@ -1,6 +1,6 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Glamour Freaks: Navider" on Wed, 23 Sept 2026.
+Slow Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Glamour Freaks: Navider" on Wed, 23 Sept 2026.
 
 Slow Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Navider. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
@@ -23,4 +23,4 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, 
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

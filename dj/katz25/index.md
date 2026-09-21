@@ -1,6 +1,6 @@
 # Katz 25
 
-Katz 25 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
+Katz 25 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
 
 Katz 25 is a techno and tech house artist tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside ODD, Daisuke Pak and YU-MA. Next up: Enter Shibuya, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Katz 25 is a techno and tech house artist tracked on soundcheck, with 18 sets lo
 
 ODD, Daisuke Pak, YU-MA
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katz25/)*

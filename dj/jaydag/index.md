@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
+Jayda G is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
 
 Jayda G is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: BIRD, Rotterdam on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Jayda G is a house and techno artist tracked on soundcheck, with 129 sets logged
 
 Melvo Baptiste, Barry Can't Swim, salute
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

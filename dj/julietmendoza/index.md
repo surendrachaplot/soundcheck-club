@@ -1,6 +1,6 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
+Juliet Mendoza is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Airliner, Los Angeles on Fri, 25 Sept 2026.
 
 Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Chicago, Denver and Detroit and 11 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: The Airliner, Losangeles on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 104 
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Free Movements :: Equinox" on Sun, 20 Sept 2026.
+Club Cheek is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "perspectives• with temple rat (live), forest, ena b. (live), alicia and annx" on Sun, 27 Sept 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Free Movements :: Equinox | Azu Tiwaline, Myako, Nkisi, dan nicholls |
 | Sun, 27 Sept 2026 | perspectives• with temple rat (live), forest, ena b. (live), alicia and annx | ANNX, Alicia (UK), Forest, Temple Rat, ena b. |
 | Sat, 3 Oct 2026 | Percolate x Gradient presents Bobby. (Extended) | Bobby., Jhumka, Tadeusz |
 | Fri, 9 Oct 2026 | Brown Excellence gets Cheeky |  |
@@ -18,9 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 30 Oct 2026 | BED |  |
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |
+| Sat, 7 Nov 2026 | BIO-TECH LDN 010 feat Amit & B-Key | Amit, Facs, Primitivizm, Scythe, Xanadu |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

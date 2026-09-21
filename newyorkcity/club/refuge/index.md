@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Refuge Friday: Deep Dish (Open to Close)" on Fri, 25 Sept 2026.
+Refuge is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Refuge Friday: Deep Dish (Open to Close)" on Fri, 25 Sept 2026.
 
 Refuge is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, with line-ups including A-Trak, Cour T., David Morales and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, w
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

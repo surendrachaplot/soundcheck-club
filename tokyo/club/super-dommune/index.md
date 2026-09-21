@@ -1,6 +1,6 @@
 # Super Dommune
 
-Super Dommune is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "ENERGY EMBODIMENT THEORY: Ryo Fujimoto / Itti / Takuma Nakata" on Tue, 22 Sept 2026.
+Super Dommune is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "ENERGY EMBODIMENT THEORY: Ryo Fujimoto / Itti / Takuma Nakata" on Tue, 22 Sept 2026.
 
 Super Dommune is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Itti. Browse upcoming dates, start times and who's playing. Shibuya Parco 9F, 15-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -14,4 +14,4 @@ Super Dommune is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, wi
 
 Shibuya Parco 9F, 15-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/super-dommune/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/super-dommune/)*

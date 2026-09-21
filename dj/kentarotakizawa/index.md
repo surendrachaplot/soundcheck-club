@@ -1,6 +1,6 @@
 # Kentaro Takizawa
 
-Kentaro Takizawa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Azumaya, Tokyo on Mon, 21 Sept 2026.
+Kentaro Takizawa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Azumaya, Tokyo on Mon, 21 Sept 2026.
 
 Kentaro Takizawa is a house and club artist based in Japan, tracked on soundcheck, with 82 sets logged across Osaka and Tokyo. Often billed alongside KENTARO, Yamariki and RYOHEI. Next up: Azumaya, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Kentaro Takizawa is a house and club artist based in Japan, tracked on soundchec
 
 KENTARO, Yamariki, RYOHEI
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kentarotakizawa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kentarotakizawa/)*

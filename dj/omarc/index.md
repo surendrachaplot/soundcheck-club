@@ -1,6 +1,6 @@
 # OMAR  C
 
-OMAR  C is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
+OMAR  C is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 16 Oct 2026.
 
 OMAR  C is a minimal and house artist tracked on soundcheck, with 5 sets logged across Barcelona, Istanbul, Madrid and Paris and 1 more. Often billed alongside Omar Khe, Alibi (2) and Aron (CH). Next up: Frieda's Büxe, Zurich on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ OMAR  C is a minimal and house artist tracked on soundcheck, with 5 sets logged 
 
 Omar Khe, Alibi (2), Aron (CH)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*

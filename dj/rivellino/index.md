@@ -1,6 +1,6 @@
 # Rivellino
 
-Rivellino is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
+Rivellino is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
 
 Rivellino is a techno and deep house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 3 more. Often billed alongside Andrea Castells, Ivan Pugliares and LIZA.. Next up: INPUT High Fidelity Dance Club, Barcelona on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Rivellino is a techno and deep house artist tracked on soundcheck, with 78 sets 
 
 Andrea Castells, Ivan Pugliares, LIZA.
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*

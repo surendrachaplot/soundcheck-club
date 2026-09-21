@@ -1,6 +1,6 @@
 # Dennis Siemion
 
-Dennis Siemion is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Fusion Club, Munster on Fri, 2 Oct 2026.
+Dennis Siemion is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Fusion Club, Munster on Fri, 2 Oct 2026.
 
 Dennis Siemion is a techno artist tracked on soundcheck, with 4 sets logged across Berlin, Hamburg and Munster. Often billed alongside ACCUL, Balkhausen and Ole Niedermauntel. Next up: Fusion Club, Munster on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Dennis Siemion is a techno artist tracked on soundcheck, with 4 sets logged acro
 
 ACCUL, Balkhausen, Ole Niedermauntel
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*

@@ -1,6 +1,6 @@
 # hero
 
-hero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Giri, Berlin on Thu, 24 Sept 2026.
+hero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Giri, Berlin on Thu, 24 Sept 2026.
 
 hero is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Detroit, Hamburg and Tokyo. Often billed alongside STEFFOO, Tákyi and AKIIM. Next up: Giri, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ hero is a house and techno artist tracked on soundcheck, with 17 sets logged acr
 
 STEFFOO, Tákyi, AKIIM
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-de/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-de/)*

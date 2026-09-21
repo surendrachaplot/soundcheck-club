@@ -1,6 +1,6 @@
 # Gail Force One
 
-Gail Force One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
+Gail Force One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zebbie's Garden, Washington DC on Sun, 11 Oct 2026.
 
 Gail Force One is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Newyorkcity and Washingtondc. Often billed alongside PWRPUFF, Prince Rose and Joann Fabrixx. Next up: Zebbie's Garden, Washingtondc on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Gail Force One is a techno and house artist based in United States of America, t
 
 PWRPUFF, Prince Rose, Joann Fabrixx
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gailforceone/)*

@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hongkong on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 99 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

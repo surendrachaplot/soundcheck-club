@@ -1,6 +1,6 @@
 # PØZA
 
-PØZA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
+PØZA is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at OFF-Club, Brussels on Sat, 26 Sept 2026.
 
 PØZA is a techno artist tracked on soundcheck, with 2 sets logged across Brussels. Often billed alongside TIIA, Arucal and Billy Boy. Next up: OFF-Club, Brussels on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ PØZA is a techno artist tracked on soundcheck, with 2 sets logged across Brusse
 
 TIIA, Arucal, Billy Boy
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poza/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poza/)*

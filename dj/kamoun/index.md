@@ -1,6 +1,6 @@
 # Kamoun
 
-Kamoun is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Pilar - VUB, Brussels on Thu, 24 Sept 2026.
+Kamoun is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pilar - VUB, Brussels on Thu, 24 Sept 2026.
 
 Kamoun is a bass and ambient artist based in Algeria, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside DONIA, BPZ and Pitch037. Next up: Pilar - VUB, Brussels on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Kamoun is a bass and ambient artist based in Algeria, tracked on soundcheck, wit
 
 DONIA, BPZ, Pitch037
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamoun/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamoun/)*

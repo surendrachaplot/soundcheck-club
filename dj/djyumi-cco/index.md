@@ -1,6 +1,6 @@
 # dj yumi-cco
 
-dj yumi-cco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 5 Oct 2026.
+dj yumi-cco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 5 Oct 2026.
 
 dj yumi-cco is a house and techno artist based in Japan, tracked on soundcheck, with 119 sets logged across Tokyo. Often billed alongside DJ Emma, MOCA and Blue Flower. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ dj yumi-cco is a house and techno artist based in Japan, tracked on soundcheck, 
 
 DJ Emma, MOCA, Blue Flower
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumi-cco/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumi-cco/)*

@@ -1,6 +1,6 @@
 # MALAS
 
-MALAS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+MALAS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 MALAS is a house and deep house artist tracked on soundcheck, with 16 sets logged across London, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside Glauco Di Mambro, Mandrake and Marques Wyatt. Next up: The Midway, Sanfrancisco on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MALAS is a house and deep house artist tracked on soundcheck, with 16 sets logge
 
 Glauco Di Mambro, Mandrake, Marques Wyatt
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malas/)*

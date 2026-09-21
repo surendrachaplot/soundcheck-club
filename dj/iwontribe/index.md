@@ -1,6 +1,6 @@
 # I WON TRIBE
 
-I WON TRIBE is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
+I WON TRIBE is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
 
 I WON TRIBE is a techno and dub artist tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside LienNaigel, HYOUKAI and IPPU. Next up: ZEROTOKYO, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ I WON TRIBE is a techno and dub artist tracked on soundcheck, with 19 sets logge
 
 LienNaigel, HYOUKAI, IPPU
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iwontribe/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iwontribe/)*

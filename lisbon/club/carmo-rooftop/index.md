@@ -1,15 +1,13 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "SUNdays at Carmo w/" on Sun, 13 Sept 2026.
+Carmo Rooftop is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "An Afternoon With: Dede / Gugga / Kee_ko" on Fri, 25 Sept 2026.
 
-Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Alive, Arval, Carlos Regadas and Dede and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
+Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Dede, Kee_ko, La Gugga and Rui Alves. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | SUNdays at Carmo w/ | Arval, Kaesar |
-| Sun, 20 Sept 2026 | Alive ‣ Carlos Regadas ‣ Rui Alves / SUNDAY 1 NOV × CARMO ROOFTOP • FREE | Alive, Carlos Regadas, Eric Furtado, Rui Alves, SLIM J |
 | Fri, 25 Sept 2026 | An Afternoon With: Dede / Gugga / Kee_ko | Dede, Kee_ko, La Gugga |
 | Sun, 4 Oct 2026 | MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY | Kee_ko, Rui Alves |
 
@@ -17,4 +15,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

@@ -1,8 +1,8 @@
 # AKANE (JP)
 
-AKANE (JP) is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Mon, 21 Sept 2026.
+AKANE (JP) is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Mon, 21 Sept 2026.
 
-AKANE (JP) is a dubstep and house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ARCHITECH (JP), AXÖN and IPPØ. Next up: TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Mon 21 Sept.
+AKANE (JP) is a dubstep and house artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside ARCHITECH (JP), AXÖN and FLATSKY. Next up: TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Mon 21 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ AKANE (JP) is a dubstep and house artist based in Japan, tracked on soundcheck, 
 
 ## Shares bills with
 
-ARCHITECH (JP), AXÖN, IPPØ
+ARCHITECH (JP), AXÖN, FLATSKY
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akanejp/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akanejp/)*

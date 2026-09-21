@@ -1,6 +1,6 @@
 # Grüner Jäger
 
-Grüner Jäger is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "Nachtschicht" on Fri, 25 Sept 2026.
+Grüner Jäger is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Nachtschicht" on Fri, 25 Sept 2026.
 
 Grüner Jäger is a music venue in Hamburg listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Neuer Pferdemarkt 36, 20359 Hamburg.
 
@@ -14,4 +14,4 @@ Grüner Jäger is a music venue in Hamburg listed on soundcheck. 1 upcoming gig.
 
 Neuer Pferdemarkt 36, 20359 Hamburg, Hamburg
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/gr-ner-j-ger/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/gr-ner-j-ger/)*

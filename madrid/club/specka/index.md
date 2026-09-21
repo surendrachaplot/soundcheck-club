@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Planet Mambo I Specka Club" on Fri, 25 Sept 2026.
+Specka is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Planet Mambo I Specka Club" on Fri, 25 Sept 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Anthony Rother, Aro Rey, Brody (2) and Erik Luebs and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "A NIGHT OF DUBSTEP feat. AVELLO (USA)" on Fri, 25 Sept 2026.
+Burdekin Hotel is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "A NIGHT OF DUBSTEP feat. AVELLO (USA)" on Fri, 25 Sept 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Elina, Eternal Soul, Melt Unit and Xian. Browse upcoming dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -17,4 +17,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 4 upcoming gigs,
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

@@ -1,6 +1,6 @@
 # Bowmore
 
-Bowmore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Le Groove, Geneva on Fri, 2 Oct 2026.
+Bowmore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Groove, Geneva on Fri, 2 Oct 2026.
 
 Bowmore is a techno and trance artist tracked on soundcheck, with 36 sets logged across Geneva and Zurich. Often billed alongside Ecar, Julian Muller and Maara. Next up: Le Groove, Geneva on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bowmore is a techno and trance artist tracked on soundcheck, with 36 sets logged
 
 Ecar, Julian Muller, Maara
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*

@@ -1,6 +1,6 @@
 # flxclxc
 
-flxclxc is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Greyhound, London on Fri, 13 Nov 2026.
+flxclxc is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Greyhound, London on Fri, 13 Nov 2026.
 
 flxclxc is a dub techno and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside FRNTLEFT, DJ Tutorial and jb sport. Next up: The Greyhound, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ flxclxc is a dub techno and techno artist based in United Kingdom, tracked on so
 
 FRNTLEFT, DJ Tutorial, jb sport
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flxclxc/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flxclxc/)*

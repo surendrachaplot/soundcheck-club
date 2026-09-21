@@ -1,6 +1,6 @@
 # Born 2B Music Bar
 
-Born 2B Music Bar is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena" on Fri, 25 Sept 2026.
+Born 2B Music Bar is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena" on Fri, 25 Sept 2026.
 
 Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Drunk At Vogue, Sarah Andersson, Vikki and Yossi Gomez and 1 more. Browse upcoming dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
@@ -15,4 +15,4 @@ Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 2 upcoming
 
 Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona, Barcelona
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*

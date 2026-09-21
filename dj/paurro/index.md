@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
+PAURRO is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
 PAURRO is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Virage, Paris on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ PAURRO is a house and techno artist tracked on soundcheck, with 178 sets logged 
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

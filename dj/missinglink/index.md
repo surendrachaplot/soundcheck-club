@@ -1,6 +1,6 @@
 # MissinG LinK
 
-MissinG LinK is a Jungle and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
+MissinG LinK is a Jungle and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
 
 MissinG LinK is a jungle and dub artist tracked on soundcheck, with 2 sets logged across Antwerp and London. Often billed alongside Aja (FR) and Lennart. Next up: Planet Wax, London on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ MissinG LinK is a jungle and dub artist tracked on soundcheck, with 2 sets logge
 
 Aja (FR), Lennart
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missinglink/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missinglink/)*

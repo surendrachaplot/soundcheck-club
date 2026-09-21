@@ -1,6 +1,6 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Fox and Firkin, London on Sat, 3 Oct 2026.
+Jay Carder is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Fox and Firkin, London on Sat, 3 Oct 2026.
 
 Jay Carder is a bass and garage artist tracked on soundcheck, with 111 sets logged across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Lukas Wigflex. Next up: The Fox and Firkin, London on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Jay Carder is a bass and garage artist tracked on soundcheck, with 111 sets logg
 
 Neffa-T, Breaka, Lukas Wigflex
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*

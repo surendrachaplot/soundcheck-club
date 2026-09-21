@@ -1,14 +1,13 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland on Fri, 18 Sept 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: TBA - The Loom (2150 Livingston St, Oakland), Sanfrancisco on Fri 18 Sept.
+Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | TBA - The Loom (2150 Livingston St, Oakland) | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
@@ -29,4 +28,4 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

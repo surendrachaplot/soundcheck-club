@@ -1,6 +1,6 @@
 # Lou Nour
 
-Lou Nour is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Palais, London on Fri, 25 Sept 2026.
+Lou Nour is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Palais, London on Fri, 25 Sept 2026.
 
 Lou Nour is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Copenhagen and Dublin and 4 more. Often billed alongside SICARIA, Ahadadream and Alexi Shell. Next up: Palais, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Lou Nour is a techno and bass artist based in United Kingdom, tracked on soundch
 
 SICARIA, Ahadadream, Alexi Shell
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lounour/)*

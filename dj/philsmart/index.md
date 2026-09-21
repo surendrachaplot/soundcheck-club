@@ -1,6 +1,6 @@
 # Phil Smart
 
-Phil Smart is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Club 77, Sydney on Sat, 31 Oct 2026.
+Phil Smart is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club 77, Sydney on Sat, 31 Oct 2026.
 
 Phil Smart is a house and downtempo artist tracked on soundcheck, with 93 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: Club 77, Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Phil Smart is a house and downtempo artist tracked on soundcheck, with 93 sets l
 
 Francis Xavier, Aidan Beiers, Squidgenini
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*

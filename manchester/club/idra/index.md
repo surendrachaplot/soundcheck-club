@@ -1,6 +1,6 @@
 # IDRA
 
-IDRA is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Kaluki presents IDRA Season 2 Opening" on Sat, 26 Sept 2026.
+IDRA is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Kaluki presents IDRA Season 2 Opening" on Sat, 26 Sept 2026.
 
 IDRA is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including FLETCH, Darius Syrossian, Fleur Shore and GENNARO and 2 more. Browse upcoming dates, start times and who's playing. 53 Store Street, Manchester, M1 2WD.
 
@@ -15,4 +15,4 @@ IDRA is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with 
 
 53 Store Street, Manchester, M1 2WD, Manchester
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*

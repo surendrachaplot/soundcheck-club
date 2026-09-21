@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Post Bar, Helsinki on Fri, 2 Oct 2026.
+NEUX is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Post Bar, Helsinki on Fri, 2 Oct 2026.
 
 NEUX is a techno and electro artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Post Bar, Helsinki on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ NEUX is a techno and electro artist tracked on soundcheck, with 74 sets logged a
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

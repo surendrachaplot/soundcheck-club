@@ -1,6 +1,6 @@
 # Agustina Aliaga
 
-Agustina Aliaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Subwerk Club, Bangkok on Sat, 26 Sept 2026.
+Agustina Aliaga is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Subwerk Club, Bangkok on Sat, 26 Sept 2026.
 
 Agustina Aliaga is a techno and electronica artist based in Spain, tracked on soundcheck, with 21 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 3 more. Often billed alongside HNKS, Julieta Wins and Lautaro Ibañez. Next up: Subwerk Club, Bangkok on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Agustina Aliaga is a techno and electronica artist based in Spain, tracked on so
 
 HNKS, Julieta Wins, Lautaro Ibañez
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinaaliaga/)*

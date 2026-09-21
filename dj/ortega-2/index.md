@@ -1,6 +1,6 @@
 # Ortega (2)
 
-Ortega (2) is a Electro and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 25 Sept 2026.
+Ortega (2) is a Electro and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 25 Sept 2026.
 
 Ortega (2) is an electro and baile funk artist tracked on soundcheck, with 24 sets logged across Dublin, Galway, Geneva and Lyon and 2 more. Often billed alongside Noisy Chilli, E l ö and Kontronatura. Next up: Le Chapiteau - Marseille, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ortega (2) is an electro and baile funk artist tracked on soundcheck, with 24 se
 
 Noisy Chilli, E l ö, Kontronatura
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*

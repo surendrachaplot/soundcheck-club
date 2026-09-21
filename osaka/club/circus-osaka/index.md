@@ -1,14 +1,13 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 10 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "#MADWANT" on Sun, 20 Sept 2026.
+Circus Osaka is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "REJJIE SNOW – DJ SET –" on Sat, 26 Sept 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 10 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | #MADWANT | Izco, TAKENOKO |
 | Sat, 26 Sept 2026 | REJJIE SNOW – DJ SET – |  |
 | Fri, 2 Oct 2026 | Riordan CIRCUS Osaka | Riordan |
 | Sat, 3 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, Kozee, YUVIE |
@@ -23,4 +22,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 10 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

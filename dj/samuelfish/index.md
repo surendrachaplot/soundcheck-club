@@ -1,6 +1,6 @@
 # Samuel Fish
 
-Samuel Fish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
+Samuel Fish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
 
 Samuel Fish is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Detroit and Mexicocity and 5 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: Signal, Newyorkcity on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Samuel Fish is a techno and house artist based in United States of America, trac
 
 Henry Chow, Anthony Parasole, Handmade
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*

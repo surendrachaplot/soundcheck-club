@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Mint Warehouse, Leeds on Mon, 21 Sept 2026.
+Joss Dean is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mint Warehouse, Leeds on Mon, 21 Sept 2026.
 
 Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Mint Warehouse, Leeds on Mon 21 Sept.
 
@@ -35,4 +35,4 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 89 sets l
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

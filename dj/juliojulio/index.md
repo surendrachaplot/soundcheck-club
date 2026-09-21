@@ -1,6 +1,6 @@
 # juliojulio
 
-juliojulio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+juliojulio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 juliojulio is a house and electro artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp and Brussels. Often billed alongside Dana Kuehr, seja (1) and Catalina. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ juliojulio is a house and electro artist based in Belgium, tracked on soundcheck
 
 Dana Kuehr, seja (1), Catalina
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliojulio/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliojulio/)*

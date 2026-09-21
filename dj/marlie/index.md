@@ -1,14 +1,13 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Marlie is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 25 Sept 2026.
 
-Marlie is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Marlie is a house and tech house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: 303 Audiophile Bar, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 27 Sept 2026 | fabric | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
@@ -20,6 +19,7 @@ Marlie is a house and tech house artist tracked on soundcheck, with 130 sets log
 | Fri, 6 Nov 2026 | Fvtvr | Paris |
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Marlie is a house and tech house artist tracked on soundcheck, with 130 sets log
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

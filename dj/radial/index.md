@@ -1,6 +1,6 @@
 # Radial
 
-Radial is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
+Radial is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at LAUT, Barcelona on Fri, 2 Oct 2026.
 
 Radial is a techno and house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Serkin, DARK MOON (ES) and The Lady Machine. Next up: LAUT, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Radial is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Serkin, DARK MOON (ES), The Lady Machine
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radial/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radial/)*

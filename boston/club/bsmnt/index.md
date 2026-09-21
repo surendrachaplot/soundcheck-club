@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "EXPERIENCE  with FJAAK" on Thu, 24 Sept 2026.
+Bsmnt is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "EXPERIENCE  with FJAAK" on Thu, 24 Sept 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including Elizabëth, FJAAK, Kasia (OFC) and Lufer and 2 more. Browse upcoming dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -17,4 +17,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

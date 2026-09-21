@@ -1,6 +1,6 @@
 # TBA - VEF
 
-TBA - VEF is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "RE:NAISSANCE Industrial black and white friday" on Fri, 13 Nov 2026.
+TBA - VEF is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "RE:NAISSANCE Industrial black and white friday" on Fri, 13 Nov 2026.
 
 TBA - VEF is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including HP-82, Ikss, Lotty and Sundown. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - VEF is a music venue in Riga listed on soundcheck. 1 upcoming gig, with li
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | RE:NAISSANCE Industrial black and white friday | HP-82, Ikss, Lotty, Sundown |
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-vef/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-vef/)*

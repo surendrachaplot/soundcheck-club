@@ -1,6 +1,6 @@
 # Katamina
 
-Katamina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
+Katamina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
 
 Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck, with 55 sets logged across Montreal and Toronto. Often billed alongside Casa Kobrae, Meen Moreen and nastygloss. Next up: Longboat Hall, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 Casa Kobrae, Meen Moreen, nastygloss
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*

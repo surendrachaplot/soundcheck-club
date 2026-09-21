@@ -1,6 +1,6 @@
 # Chris Astrojazz
 
-Chris Astrojazz is a Disco and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at The Mash House, Edinburgh on Sat, 3 Oct 2026.
+Chris Astrojazz is a Disco and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Mash House, Edinburgh on Sat, 3 Oct 2026.
 
 Chris Astrojazz is a disco and afro house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Samedia Shebeen, Geez Wax and Marti-Time!. Next up: The Mash House, Edinburgh on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Chris Astrojazz is a disco and afro house artist based in United Kingdom, tracke
 
 Samedia Shebeen, Geez Wax, Marti-Time!
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisastrojazz/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisastrojazz/)*

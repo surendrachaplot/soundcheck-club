@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar" on Wed, 23 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar" on Wed, 23 Sept 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Wilcox, Azire, Bobby Mac and datSIM and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs,
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

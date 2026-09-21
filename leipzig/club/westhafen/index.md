@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "DANKE Festival" on Sat, 26 Sept 2026.
+Westhafen is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DANKE Festival" on Sat, 26 Sept 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, with line-ups including Benleh, Cafgar, Emina Helena and Felix Schwarzenberger and 2 more. Browse upcoming dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -16,4 +16,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

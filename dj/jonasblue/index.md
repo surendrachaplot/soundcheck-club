@@ -1,6 +1,6 @@
 # Jonas Blue
 
-Jonas Blue is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 23 Sept 2026.
+Jonas Blue is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Jonas Blue is a house and techno artist tracked on soundcheck, with 43 sets logged across Bali, Barcelona, Boston and Chicago and 12 more. Often billed alongside James Hype (UK), Meduza and Paisley Jensen. Next up: Hï Ibiza, Ibiza on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ Jonas Blue is a house and techno artist tracked on soundcheck, with 43 sets logg
 
 James Hype (UK), Meduza, Paisley Jensen
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*

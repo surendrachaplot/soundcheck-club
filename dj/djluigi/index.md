@@ -1,6 +1,6 @@
 # Dj Luigi
 
-Dj Luigi is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - La Fayette, Mexico City on Sat, 26 Sept 2026.
+Dj Luigi is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - La Fayette, Mexico City on Sat, 26 Sept 2026.
 
 Dj Luigi is an uk funky and baile funk artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Lyo XS and Mietze Conte. Next up: TBA - La Fayette, Mexicocity on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Dj Luigi is an uk funky and baile funk artist based in Mexico, tracked on soundc
 
 Lyo XS, Mietze Conte
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluigi/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluigi/)*

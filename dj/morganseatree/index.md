@@ -1,6 +1,6 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Luna Springs, Birmingham on Sat, 26 Sept 2026.
+Morgan Seatree is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Luna Springs, Birmingham on Sat, 26 Sept 2026.
 
 Morgan Seatree is a house and tech house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 26 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Luna Springs, Birmingham on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 91 s
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

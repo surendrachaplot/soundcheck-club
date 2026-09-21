@@ -1,6 +1,6 @@
 # Kim Laughton
 
-Kim Laughton is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
+Kim Laughton is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 21 Sept 2026.
 
 Kim Laughton is a techno and experimental artist tracked on soundcheck, with 18 sets logged across Bangkok, London, Manchester and Tokyo. Often billed alongside Tzusing, MOUTH and PRETTYBWOY. Next up: Aoyama Hachi, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Kim Laughton is a techno and experimental artist tracked on soundcheck, with 18 
 
 Tzusing, MOUTH, PRETTYBWOY
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*

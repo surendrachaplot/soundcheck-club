@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "[NOCTAMBAR] Nosyla & friends" on Thu, 24 Sept 2026.
+La Gravière is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "[NOCTAMBAR] Nosyla & friends" on Thu, 24 Sept 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with line-ups including OKRASHH and Sampaio. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -17,4 +17,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, w
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

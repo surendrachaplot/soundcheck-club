@@ -1,6 +1,6 @@
 # Changa
 
-Changa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 26 Sept 2026.
+Changa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 26 Sept 2026.
 
 Changa is a techno and bass artist tracked on soundcheck, with 18 sets logged across Hongkong. Often billed alongside Dan-neo, Immuno and JFÜNG. Next up: TBA - SECRET WAREHOUSE, Hongkong on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Changa is a techno and bass artist tracked on soundcheck, with 18 sets logged ac
 
 Dan-neo, Immuno, JFÜNG
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/changa/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/changa/)*

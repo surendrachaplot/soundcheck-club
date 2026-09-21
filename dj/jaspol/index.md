@@ -1,6 +1,6 @@
 # Jaspol
 
-Jaspol is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
+Jaspol is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
 
 Jaspol is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Bjarki, Boris and Byron Yeates. Next up: TBA, Amsterdam on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Jaspol is a techno and tech house artist based in Netherlands, tracked on soundc
 
 Bjarki, Boris, Byron Yeates
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspol/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspol/)*

@@ -1,6 +1,6 @@
 # Slinky Kinky
 
-Slinky Kinky is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
+Slinky Kinky is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
 
 Slinky Kinky is a techno and trance artist tracked on soundcheck, with 11 sets logged across London and Sheffield. Often billed alongside WVRM POOL, Melati and Desiree'. Next up: Gaffe, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Slinky Kinky is a techno and trance artist tracked on soundcheck, with 11 sets l
 
 WVRM POOL, Melati, Desiree'
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slinkykinky/)*

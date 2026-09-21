@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sun, 20 Sept 2026, next at Maassilo, Rotterdam on Sat, 10 Oct 2026.
+BØĘRY is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Maassilo, Rotterdam on Sat, 10 Oct 2026.
 
 BØĘRY is a techno and hardcore artist tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 10 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Maassilo, Rotterdam on Sat 10 Oct.
 
@@ -31,4 +31,4 @@ BØĘRY is a techno and hardcore artist tracked on soundcheck, with 25 sets logg
 
 BLNK, TiTi, IOSIO
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

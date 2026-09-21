@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "NICE TIME" on Fri, 25 Sept 2026.
+Tangent Gallery is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "NICE TIME" on Fri, 25 Sept 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including The AM/AMX, Afra, Auntie Chanel and Blackmoonchild and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -20,4 +20,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 7 upcoming gig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

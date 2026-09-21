@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 36 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Les Mirages: Daisy Weweh, Aimé You, Toni Pfad, Valeby, MIKA G" on Sun, 20 Sept 2026.
+Paloma is a music venue in Berlin with 35 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FRISKY w Jacob Meehan & Alison Swing" on Thu, 24 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 36 upcoming gigs, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 35 upcoming gigs, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Les Mirages: Daisy Weweh, Aimé You, Toni Pfad, Valeby, MIKA G | Aimé You, Daisy Weweh, MIKA G, Toni Pfad, Valeby |
 | Thu, 24 Sept 2026 | FRISKY w Jacob Meehan & Alison Swing | Alison Swing, Jacob Meehan |
 | Fri, 25 Sept 2026 | Long Gone Are The Old Traditions with Miles J Paralysis, Samson A.K (Live) | Daire Carolan, Miles J Paralysis, Samson A.K |
 | Fri, 25 Sept 2026 | Moist Liquid Sunrise | DJ Fett Burger |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 36 upcoming gigs, with l
 | Thu, 1 Oct 2026 | Abyond Playground | Aidan, Fabrizio Brancaccio, Matteo Gamba, Mr Sian, Qualia Trax, materia hache |
 | Fri, 2 Oct 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Yuval | Balthazar Martinez, Mandel Turner, Yuval |
 | Fri, 2 Oct 2026 | ekses x Paloma | Super Venus, adodo, shayan |
+| Sat, 3 Oct 2026 | Disco To Go | Phonk D, Soundstream |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

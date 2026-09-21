@@ -1,6 +1,6 @@
 # XTC Bushwick
 
-XTC Bushwick is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "LIFE AFTER TRANCE: DDR EDITION " on Fri, 25 Sept 2026.
+XTC Bushwick is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "LIFE AFTER TRANCE: DDR EDITION " on Fri, 25 Sept 2026.
 
 XTC Bushwick is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs, with line-ups including ASTER (DJ), BUBUCORE69, Dasychira and DJ DITTO. and 2 more. Browse upcoming dates, start times and who's playing. 1277 Flushing Ave, Brooklyn, NY, 11237.
 
@@ -15,4 +15,4 @@ XTC Bushwick is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gi
 
 1277 Flushing Ave, Brooklyn, NY, 11237, New York City
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xtc-bushwick/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xtc-bushwick/)*

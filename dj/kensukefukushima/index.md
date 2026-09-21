@@ -1,6 +1,6 @@
 # Kensuke Fukushima
 
-Kensuke Fukushima is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Club Metro, Kyoto on Sat, 24 Oct 2026.
+Kensuke Fukushima is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Metro, Kyoto on Sat, 24 Oct 2026.
 
 Kensuke Fukushima is a minimal and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KENSUKE, Masahiko Takeda and Takuto. Next up: Club Metro, Kyoto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kensuke Fukushima is a minimal and house artist based in Japan, tracked on sound
 
 KENSUKE, Masahiko Takeda, Takuto
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kensukefukushima/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kensukefukushima/)*

@@ -1,14 +1,13 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Found at SetList All Dayer - Atjazz, LESLIE LOVE, Handson Family" on Sun, 20 Sept 2026.
+Setlist @ Somerset House is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "R&B and FUNKY HOUSE NIGHT" on Fri, 25 Sept 2026.
 
-Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Atjazz, Handson Family, Jacinta and Larizzle and 1 more. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
+Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Jacinta, Larizzle and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Found at SetList All Dayer - Atjazz, LESLIE LOVE, Handson Family | Atjazz, Handson Family |
 | Fri, 25 Sept 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 26 Sept 2026 | SETLIFE presents Larizzle ( SETLIFE 1 YEAR anniversary) | Larizzle |
 | Fri, 2 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
@@ -18,9 +17,10 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upc
 | Fri, 16 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 17 Oct 2026 | SETLIFE presents TERMINAL 4 |  |
 | Fri, 23 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
+| Sat, 24 Oct 2026 | SETLIFE presents SUPA D  | Larizzle, Supa D |
 
 ## Address
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

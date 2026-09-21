@@ -1,6 +1,6 @@
 # The Club House at Gianpula Village
 
-The Club House at Gianpula Village is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "VERSUS presents KIRSTY" on Sat, 3 Oct 2026.
+The Club House at Gianpula Village is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "VERSUS presents KIRSTY" on Sat, 3 Oct 2026.
 
 The Club House at Gianpula Village is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including Alias 1, John Acquaviva, KIRSTY and NEVYALC and 2 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Village Road, l/o Rabat RBT 5032.
 
@@ -15,4 +15,4 @@ The Club House at Gianpula Village is a music venue in Malta listed on soundchec
 
 Gianpula Village, Gianpula Village Road, l/o Rabat RBT 5032, Malta
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-club-house-at-gianpula-village/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-club-house-at-gianpula-village/)*

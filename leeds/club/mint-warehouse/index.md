@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Sun, 20 Sept 2026; the next is "Mint Presents: Joss Dean, Jamie Aramayo" on Mon, 21 Sept 2026.
+Mint Warehouse is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Mint Presents: Joss Dean, Jamie Aramayo" on Mon, 21 Sept 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Alec Falconer, Arty (UK), Captain Wallop and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -19,4 +19,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, 
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

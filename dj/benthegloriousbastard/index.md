@@ -1,6 +1,6 @@
 # Ben The Glorious Bastard
 
-Ben The Glorious Bastard is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
+Ben The Glorious Bastard is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Sultan Room, New York City on Mon, 5 Oct 2026.
 
 Ben The Glorious Bastard is an electro and idm artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Crew Called Self, 5ToK3 and Chenoa Tarin. Next up: The Sultan Room, Newyorkcity on Mon 5 Oct.
 
@@ -19,4 +19,4 @@ Ben The Glorious Bastard is an electro and idm artist tracked on soundcheck, wit
 
 Crew Called Self, 5ToK3, Chenoa Tarin
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benthegloriousbastard/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benthegloriousbastard/)*

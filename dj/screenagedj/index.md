@@ -1,6 +1,6 @@
 # screenage dj
 
-screenage dj is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 20 Sept 2026, next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
+screenage dj is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Wed, 21 Oct 2026.
 
 screenage dj is a club and footwork artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Cork, Osaka and Rotterdam and 1 more. Often billed alongside orczi96, Gimmeamfbreakbeat and drum song (dj). Next up: Garage Noord, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ screenage dj is a club and footwork artist based in Netherlands, tracked on soun
 
 orczi96, Gimmeamfbreakbeat, drum song (dj)
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/screenagedj/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/screenagedj/)*

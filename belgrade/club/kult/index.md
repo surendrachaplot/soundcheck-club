@@ -1,6 +1,6 @@
 # Kult
 
-Kult is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sun, 20 Sept 2026; the next is "KULT Season V Opening: Kamma & Masalo" on Sat, 26 Sept 2026.
+Kult is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "KULT Season V Opening: Kamma & Masalo" on Sat, 26 Sept 2026.
 
 Kult is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including AKIOKI, Kamma, Masalo and MEILANI. Browse upcoming dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with lin
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Sun, 20 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
