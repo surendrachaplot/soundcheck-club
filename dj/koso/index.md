@@ -1,14 +1,15 @@
 # KOSO
 
-KOSO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The DBA, Manchester on Sat, 3 Oct 2026.
+KOSO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The DBA, Manchester on Sat, 3 Oct 2026.
 
-KOSO is a techno and trance artist based in Myanmar, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Egui, Kuriboh and Deventi. Next up: The DBA, Manchester on Sat 3 Oct.
+KOSO is a techno and trance artist based in Myanmar, tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside Egui, Kuriboh and Deventi. Next up: The DBA, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The DBA | Manchester |
+| Sat, 31 Oct 2026 | The Yard | Manchester |
 
 ## Recently played
 

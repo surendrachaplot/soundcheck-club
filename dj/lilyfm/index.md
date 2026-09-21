@@ -1,13 +1,14 @@
 # Lily FM
 
-Lily FM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sydney on Sat, 10 Oct 2026.
+Lily FM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
 
-Lily FM is a house and techno artist tracked on soundcheck, with 32 sets logged across Sydney. Often billed alongside DAUG, Bouki and GMOZ. Next up: TBA, Sydney on Sat 10 Oct.
+Lily FM is a house and techno artist tracked on soundcheck, with 33 sets logged across Sydney. Often billed alongside DAUG, Bouki and GMOZ. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Heaps Normal Health Club | Sydney |
 | Sat, 10 Oct 2026 | TBA | Sydney |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Joey London
 
-Joey London is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Joey London is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 17 Oct 2026.
 
-Joey London is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Birmingham, Leeds and Manchester and 2 more. Often billed alongside Joseph Edmund, Mike Morrisey and Baylee Brown. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
+Joey London is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Birmingham, Bucharest and Leeds and 3 more. Often billed alongside Joseph Edmund, Mike Morrisey and Baylee Brown. Next up: Grand Hotel Bucharest, Bucharest on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Grand Hotel Bucharest | Bucharest |
 | Sun, 25 Oct 2026 | Toekomstmuziek | Amsterdam |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Varuna Agosti
 
-Varuna Agosti is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Varuna Agosti is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
-Varuna Agosti is a techno and garage artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Rotterdam and Tbilisi. Often billed alongside Thoms Traxx, Lobster (NL) and Prance. Next up: TBA, Amsterdam on Sun 27 Sept.
+Varuna Agosti is a techno and house artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Rotterdam and Tbilisi. Often billed alongside Thoms Traxx, Lobster (NL) and Prance. Next up: TBA, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Varuna Agosti is a techno and garage artist based in Netherlands, tracked on sou
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | TBA | Amsterdam |
 | Fri, 2 Oct 2026 | CLUB RAUM | Amsterdam |
+| Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
+| Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 
 ## Recently played

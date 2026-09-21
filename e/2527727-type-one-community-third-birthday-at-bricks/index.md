@@ -1,6 +1,6 @@
 # Type One Community: Third Birthday at Bricks
 
-Type One Community: Third Birthday at Bricks on Sat 14 Nov, London. House and Garage. Preview the line-up and save it on soundcheck.
+Type One Community: Third Birthday at Bricks on Sat 14 Nov, London. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

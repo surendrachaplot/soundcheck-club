@@ -1,13 +1,14 @@
 # TB-316
 
-TB-316 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Gut Level, Sheffield on Fri, 9 Oct 2026.
+TB-316 is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gut Level, Sheffield on Fri, 2 Oct 2026.
 
-TB-316 is a bass and techno artist tracked on soundcheck, with 21 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Son Of, Betty and DJ Luv You. Next up: Gut Level, Sheffield on Fri 9 Oct.
+TB-316 is a bass and techno artist tracked on soundcheck, with 22 sets logged across Leeds, Manchester and Sheffield. Often billed alongside MYNA, Son Of and Betty. Next up: Gut Level, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Gut Level | Sheffield |
 | Fri, 9 Oct 2026 | Gut Level | Sheffield |
 
 ## Recently played
@@ -23,6 +24,6 @@ TB-316 is a bass and techno artist tracked on soundcheck, with 21 sets logged ac
 
 ## Shares bills with
 
-Son Of, Betty, DJ Luv You
+MYNA, Son Of, Betty
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-316/)*

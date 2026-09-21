@@ -1,6 +1,6 @@
 # BERLINCIAGAY X Horn at Horn
 
-BERLINCIAGAY X Horn on Fri 16 Oct, Bangkok. 2 acts on the bill: OLLE (TH) and Tom Peters. Techno. Preview the line-up and save it on soundcheck.
+BERLINCIAGAY X Horn on Fri 16 Oct, Bangkok. 3 acts on the bill: OLLE (TH), TMI. and Tom Peters. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BERLINCIAGAY X Horn on Fri 16 Oct, Bangkok. 2 acts on the bill: OLLE (TH) and To
 ## Line-up
 
 - OLLE (TH)
+- TMI.
 - Tom Peters
 
 *Source: [soundcheck](https://soundcheck.club/e/2534409-berlinciagay-x-horn-at-horn/)*

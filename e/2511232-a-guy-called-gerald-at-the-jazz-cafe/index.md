@@ -1,6 +1,6 @@
 # A Guy Called Gerald at The Jazz Cafe
 
-A Guy Called Gerald at The Jazz Cafe on Fri 25 Sept, London. 1 act on the bill: A Guy Called Gerald. Acid and Jungle. Preview the line-up and save it on soundcheck.
+A Guy Called Gerald at The Jazz Cafe on Fri 25 Sept, London. 3 acts on the bill: A Guy Called Gerald, Piers Harrison and Toby Tobias. Acid and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ A Guy Called Gerald at The Jazz Cafe on Fri 25 Sept, London. 1 act on the bill: 
 ## Line-up
 
 - A Guy Called Gerald
+- Piers Harrison
+- Toby Tobias
 
 *Source: [soundcheck](https://soundcheck.club/e/2511232-a-guy-called-gerald-at-the-jazz-cafe/)*

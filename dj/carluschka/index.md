@@ -1,8 +1,8 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
+Carluschka is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
 
-Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 125 sets logged across Basel, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Amp, Munster on Fri 25 Sept.
+Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 126 sets logged across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Amp, Munster on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 | Fri, 2 Oct 2026 | TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
 | Sat, 3 Oct 2026 | Spartacus Potsdam | Berlin |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
+| Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 
 ## Recently played
 

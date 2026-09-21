@@ -11,7 +11,7 @@ Fire is a music venue in London listed on soundcheck. 4 upcoming gigs, with line
 | Sat, 26 Sept 2026 | FREQUENCY XL | DJ Millz, Fatman D, Harry Shotta, MC Det, Majistrate, Sub Zero, Trimer, Wesley Jay |
 | Sat, 26 Sept 2026 | A:M After Hours | Raul Botella |
 | Sun, 27 Sept 2026 | Beyond After Hours |  |
-| Fri, 13 Nov 2026 | KINYXX LONDON - Fet!sh Edition |  |
+| Fri, 13 Nov 2026 | KINYXX LONDON - Fetish Edition (Opening Party) |  |
 
 ## Address
 

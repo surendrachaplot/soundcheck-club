@@ -1,13 +1,14 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ADE RAVING CHARLIE: Hard Techno / Rave" on Wed, 21 Oct 2026.
+De Sering is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DOGGO" on Sat, 17 Oct 2026.
 
-De Sering is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including AEZARYA, Ava Eva, Bon Public and Camille Maria and 2 more. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
+De Sering is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including AEZARYA, Ava Eva, Bon Public and Camille Maria and 2 more. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | DOGGO |  |
 | Wed, 21 Oct 2026 | ADE RAVING CHARLIE: Hard Techno / Rave | AEZARYA, SWAGGER, Zeyvers |
 | Thu, 22 Oct 2026 | DC Salas & Magma - Amsterdam Dance Event |  |
 | Thu, 22 Oct 2026 | DC Salas & Magma invite - Amsterdam Dance Event | Ava Eva, Bon Public, DC Salas, Enrica Falqui |

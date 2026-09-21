@@ -1,14 +1,15 @@
 # RINALUCKY
 
-RINALUCKY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
+RINALUCKY is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
 
-RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, with 128 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: Traffic, Tokyo on Tue 22 Sept.
+RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, with 129 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: Traffic, Tokyo on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Traffic | Tokyo |
+| Fri, 25 Sept 2026 | Red Bar | Tokyo |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
 

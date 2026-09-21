@@ -1,13 +1,14 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tresor / Globus, Berlin on Fri, 23 Oct 2026.
+Adam X is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Refuge, New York City on Fri, 16 Oct 2026.
 
-Adam X is a techno and acid artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Brussels and Chicago and 14 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Tresor / Globus, Berlin on Fri 23 Oct.
+Adam X is a techno and acid artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Brussels and Chicago and 14 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Refuge, Newyorkcity on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Refuge | New York City |
 | Fri, 23 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

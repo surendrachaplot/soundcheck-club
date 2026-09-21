@@ -13,7 +13,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 28 upcoming gigs,
 | Fri, 2 Oct 2026 | Keep My Letters with Guy J | Francesco Rizzi, Guy J, Hyunji-A, Tantum |
 | Sat, 3 Oct 2026 | Conrad Taylor | Conrad Taylor, Sylvie Maziarz |
 | Sat, 3 Oct 2026 | Rauschhaus | Danca, Michael Ritter, Rauschhaus, Yubik |
-| Fri, 9 Oct 2026 | Electric Animals | Carlos Chaparro, Phoenix Movement, Rafa Barrios, Technasia, YOZÉ |
+| Fri, 9 Oct 2026 | Electric Animals x Loop | Carlos Chaparro, Phoenix Movement, Rafa Barrios, Technasia, YOZÉ |
 | Sat, 10 Oct 2026 | Ritter Butzke Jubiläum with NTO | Anahit Vardanyan, Bebetta, Ele Luz, Joyhauser, Kataya, Katzengold, Konfusia, NTO, Prismode, Schlepp Geist, Solvane, Super Flu, justUS |
 | Fri, 16 Oct 2026 | Community Rave |  |
 | Sat, 17 Oct 2026 | Giolì & Assia (live) | Giolì & Assia |

@@ -1,14 +1,14 @@
 # DJ DITTO.
 
-DJ DITTO. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at XTC Bushwick, New York City on Fri, 25 Sept 2026.
+DJ DITTO. is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bootleg Bar NYC, New York City on Fri, 25 Sept 2026.
 
-DJ DITTO. is a trance and techno artist based in China, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), BUBUCORE69 and Donatachi. Next up: XTC Bushwick, Newyorkcity on Fri 25 Sept.
+DJ DITTO. is a trance and techno artist based in China, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), BUBUCORE69 and Donatachi. Next up: Bootleg Bar NYC, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | XTC Bushwick | New York City |
+| Fri, 25 Sept 2026 | Bootleg Bar NYC | New York City |
 
 ## Recently played
 

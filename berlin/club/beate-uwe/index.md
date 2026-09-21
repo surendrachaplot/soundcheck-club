@@ -12,7 +12,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Sat, 26 Sept 2026 | Beate Invites /// L.U.V. YOUR HOUSE | Bare Tecture, DJ with Soul, Darwin Stapel, Kat_Es, U Know Y |
 | Sun, 27 Sept 2026 | Beate Barfuß /// Padouc & Friends | HVDN, dety |
 | Fri, 2 Oct 2026 | Fan von Viel und Auf'n Punkt | Janosch Ulm, Joseph Disco |
-| Sat, 3 Oct 2026 | FEMQUENCY x TDC: Panel + Showcase | Dora Dox |
+| Sat, 3 Oct 2026 | Beate Invites: FEMQUENCY Showcase (+Panel) | Dora Dox, Laura Sí |
 | Sat, 3 Oct 2026 | FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) | Laura Sí |
 | Sun, 4 Oct 2026 | Beate Barfuß /// The Juice Mia Kober Maaje Stellson & Špii | Mia Kober |
 | Tue, 6 Oct 2026 | Tanzen3000 x Beate Uwe: Tag der Clubkultur |  |

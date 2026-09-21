@@ -1,6 +1,6 @@
 # Lawrence Hart - ADE at Paradiso
 
-Lawrence Hart - ADE at Paradiso on Thu 22 Oct, Amsterdam. 1 act on the bill: Lawrence Hart. House and Electronica. Preview the line-up and save it on soundcheck.
+Lawrence Hart - ADE at Paradiso on Thu 22 Oct, Amsterdam. 2 acts on the bill: Lawrence Hart and Mera Bhai. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Lawrence Hart - ADE at Paradiso on Thu 22 Oct, Amsterdam. 1 act on the bill: Law
 ## Line-up
 
 - Lawrence Hart
+- Mera Bhai
 
 *Source: [soundcheck](https://soundcheck.club/e/2473526-lawrence-hart-ade-at-paradiso/)*

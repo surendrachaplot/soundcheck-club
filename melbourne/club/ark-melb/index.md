@@ -9,7 +9,7 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva | Black Dave, Luke Hovey, Papa Nugs |
-| Sat, 3 Oct 2026 | ark // TWIENA [NL] - Mikalah Watego | Mikalah Watego, TWIENA |
+| Sat, 3 Oct 2026 | ark // TWIENA [NL] | Mikalah Watego, TWIENA |
 | Sat, 31 Oct 2026 | ark // Guy Contact - DJ Luv You | DJ Luv You, Guy Contact |
 | Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell -  | Crybaby, Harry Connell, MASSI. |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |

@@ -8,14 +8,14 @@ Lark is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | AN(8)X festival 2026: Love Village, Special Mooncake Club Night | 50JING, B3CKI, kjjabber |
+| Fri, 25 Sept 2026 | AN(8)X festival 2026: Love Village, Special Mooncake Club Night | 50JING, B3CKI, Kanucia, kjjabber |
 | Sun, 27 Sept 2026 | Hum w/ Kyle Hall b2b K15, Mamalia'The first lady of modern funk'ft.Mauricio Fleury, Bulma Brief | Bulma Brief, K15, Kyle Hall, Mauricio Fleury |
 | Thu, 1 Oct 2026 | collective memory + low harvest | Chickenmilk dot com, Global, edeF. |
 | Sat, 3 Oct 2026 | Delírio 2nd Anniversary - Club Night | KALI., Miss Jay (RO), NEGRACONDA, Wahsabi, dj latinchat, sin serif |
 | Fri, 23 Oct 2026 | FEUCHT | CHRANDY, Doctora Amor |
 | Thu, 29 Oct 2026 | Loukeman | Loukeman |
 | Sat, 31 Oct 2026 | VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK |  |
-| Fri, 6 Nov 2026 | Disko Souk: John Morales, Femdelic, The Brahma | Femdelic, John Morales, The Brahma |
+| Fri, 6 Nov 2026 | Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night) | Femdelic, John Morales, The Brahma |
 | Wed, 11 Nov 2026 | KILIMANJARO live | KILIMANJARO |
 
 ## Address

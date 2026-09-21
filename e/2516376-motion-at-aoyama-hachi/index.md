@@ -1,6 +1,6 @@
 # Motion at Aoyama Hachi
 
-Motion at Aoyama Hachi on Sun 27 Sept, Tokyo. 6 acts on the bill: Anri (2), Fox (US), KUBOTA and RReona and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Motion at Aoyama Hachi on Sun 27 Sept, Tokyo. 7 acts on the bill: Anri (2), CKRN303, Fox (US) and KUBOTA and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Motion at Aoyama Hachi on Sun 27 Sept, Tokyo. 6 acts on the bill: Anri (2), Fox 
 ## Line-up
 
 - Anri (2)
+- CKRN303
 - Fox (US)
 - KUBOTA
 - RReona

@@ -1,13 +1,14 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Whiney is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club Guesthouse, Bucharest on Fri, 2 Oct 2026.
 
-Whiney is a drum & bass and jungle artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 26 more. Often billed alongside P Money, Degs and Unglued. Next up: Club Exil, Vienna on Sat 3 Oct.
+Whiney is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 27 more. Often billed alongside P Money, Degs and Unglued. Next up: Club Guesthouse, Bucharest on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Club Guesthouse | Bucharest |
 | Sat, 3 Oct 2026 | Club Exil | Vienna |
 
 ## Recently played

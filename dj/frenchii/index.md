@@ -1,13 +1,14 @@
 # French II
 
-French II is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+French II is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-French II is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bristol and Brussels and 9 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
+French II is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Brussels and 10 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Wed, 21 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Paradiso | Amsterdam |
 

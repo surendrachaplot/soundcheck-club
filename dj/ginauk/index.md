@@ -1,14 +1,15 @@
 # GINA (UK)
 
-GINA (UK) is a Bass and Footwork artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+GINA (UK) is a Bass and Footwork artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
-GINA (UK) is a bass and footwork artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Manchester. Often billed alongside Cersy, Emby and GFA. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
+GINA (UK) is a bass and footwork artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Manchester. Often billed alongside Cersy, Emby and GFA. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
+| Sat, 24 Oct 2026 | The Yard | Manchester |
 | Fri, 6 Nov 2026 | Soup | Manchester |
 
 ## Recently played

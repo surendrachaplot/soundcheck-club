@@ -1,8 +1,8 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Danny Tenaglia is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Danny Tenaglia is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Austin and Barcelona and 26 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Danny Tenaglia is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Austin and Barcelona and 26 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 107 sets
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
 | Sat, 31 Oct 2026 | Stereo | Montreal |

@@ -10,7 +10,7 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, w
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Funk im Trunk - Schiffen gehen Spezial | CHEWCHEW, Jana Falcon, Ludwig Mausberg, Max Gyver |
 | Sat, 26 Sept 2026 | rrausfish | DJ Hochzeit, DJ Troy, Ilja Franz, MLE (2), Nicole., Zehsar |
-| Sat, 28 Nov 2026 | STUDIO 69 | CHIEF QUEEF, Cufme, DJ Business (2), HiHat, Plattenlieferant, Wall Ra |
+| Sat, 28 Nov 2026 | STUDIO 69 | CHIEF QUEEF, Cufme, DJ Business (2), HiHat, Plattenlieferant, Sophti, Wall Ra |
 
 ## Address
 

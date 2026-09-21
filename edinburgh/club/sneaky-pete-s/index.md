@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RARE Club // ODF" on Tue, 22 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RARE Club // ODF" on Tue, 22 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming gigs, with line-ups including billybawbags, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gigs, with line-ups including billybawbags, BORLEY, Buckfast Barbie and Buckley (UK) and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

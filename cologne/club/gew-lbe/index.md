@@ -1,8 +1,8 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live-" on Fri, 25 Sept 2026.
+Gewölbe is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live-" on Fri, 25 Sept 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Garvey, Anna Cainelli, a:tok and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including 04061, Andy Garvey, Anna Cainelli and a:tok and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 | Sat, 17 Oct 2026 | krakelee club with Andy Garvey, a:tok, oskø | Andy Garvey, a:tok, oskø |
 | Sat, 24 Oct 2026 | breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers | Leyla (3), Zenker Brothers, lu.wicked, tanjuesch |
 | Fri, 30 Oct 2026 | Klubnacht with Anna Cainelli, Fritz Kalkbrenner, Motip White | Anna Cainelli, Fritz Kalkbrenner, Motip White |
+| Sat, 31 Oct 2026 | instinkt lab with 04061, Blasha & Allatt, mojo | 04061, Blasha & Allatt, mojo |
 | Fri, 6 Nov 2026 | My Dear with Ellen Allien, Denis Stockhausen | Denis Stockhausen, Ellen Allien |
 
 ## Address

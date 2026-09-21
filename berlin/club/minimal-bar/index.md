@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 89 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Deep Mondays w/ .katja & clarence" on Mon, 21 Sept 2026.
+Minimal Bar is a music venue in Berlin with 90 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Deep Mondays w/ .katja & clarence" on Mon, 21 Sept 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 89 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 90 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

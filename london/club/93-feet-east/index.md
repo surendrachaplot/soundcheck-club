@@ -1,8 +1,8 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Chevry Showcase: HearThug, Jhobei, KT, Vitess" on Fri, 25 Sept 2026.
+93 Feet East is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Chevry Showcase: HearThug, Jhobei, KT, Vitess" on Fri, 25 Sept 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including KT, Alexandria, Bertt and Braxton and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including KT, Alexandria, Bertt and Braxton and 2 more. Browse upcoming dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 

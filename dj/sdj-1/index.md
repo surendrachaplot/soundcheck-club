@@ -2,7 +2,7 @@
 
 SDJ (1) is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Yard, Manchester on Sat, 24 Oct 2026.
 
-SDJ (1) is a house and trance artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Manchester. Often billed alongside FAGASH, FXCKBOUT and ANT1 (2). Next up: The Yard, Manchester on Sat 24 Oct.
+SDJ (1) is a house and trance artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Manchester. Often billed alongside FAGASH, FXCKBOUT and maevie. Next up: The Yard, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ SDJ (1) is a house and trance artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-FAGASH, FXCKBOUT, ANT1 (2)
+FAGASH, FXCKBOUT, maevie
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

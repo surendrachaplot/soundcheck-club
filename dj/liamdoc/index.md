@@ -1,14 +1,15 @@
 # Liam Doc
 
-Liam Doc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 24 Sept 2026.
+Liam Doc is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 24 Sept 2026.
 
-Liam Doc is a house and techno artist tracked on soundcheck, with 16 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Big Miz, ALISHA and Anna Barrie. Next up: The Berkeley Suite, Glasgow on Thu 24 Sept.
+Liam Doc is a house and techno artist tracked on soundcheck, with 17 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Big Miz, ALISHA and Anna Barrie. Next up: The Berkeley Suite, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Berkeley Suite | Glasgow |
+| Sat, 26 Sept 2026 | Cabaret Voltaire | Edinburgh |
 
 ## Recently played
 

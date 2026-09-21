@@ -1,6 +1,6 @@
-# Hungry4 with Chaos In The CBD & Many More at Mojo
+# Hungry4 with Chaos In The CBD & many more at Mojo
 
-Hungry4 with Chaos In The CBD & Many More at Mojo on Sat 31 Oct, Hamburg. 12 acts on the bill: Anton Jonathan, ATTA (GER), Chaos In The CBD and Fletchy Boy and 8 more. House. Preview the line-up and save it on soundcheck.
+Hungry4 with Chaos In The CBD & many more at Mojo on Sat 31 Oct, Hamburg. 12 acts on the bill: Anton Jonathan, ATTA (GER), Chaos In The CBD and Fletchy Boy and 8 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

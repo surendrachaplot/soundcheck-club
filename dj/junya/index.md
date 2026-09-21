@@ -1,13 +1,14 @@
 # Junya
 
-Junya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
+Junya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Red Bar, Tokyo on Thu, 24 Sept 2026.
 
-Junya is a house and techno artist based in Japan, tracked on soundcheck, with 79 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and MASSA (JP). Next up: Royal Lounge, Tokyo on Mon 5 Oct.
+Junya is a house and techno artist based in Japan, tracked on soundcheck, with 80 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and MASSA (JP). Next up: Red Bar, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Red Bar | Tokyo |
 | Mon, 5 Oct 2026 | Royal Lounge | Tokyo |
 
 ## Recently played

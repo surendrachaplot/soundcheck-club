@@ -1,13 +1,14 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Innersha is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Innersha is a techno and experimental artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Dasha Rush, Decoder and Trois-Quarts Taxi System. Next up: public records, Newyorkcity on Mon 9 Nov.
+Innersha is a techno and experimental artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Dasha Rush, Claudio PRC and Decoder. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
@@ -26,6 +27,6 @@ Innersha is a techno and experimental artist tracked on soundcheck, with 24 sets
 
 ## Shares bills with
 
-Dasha Rush, Decoder, Trois-Quarts Taxi System
+Dasha Rush, Claudio PRC, Decoder
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

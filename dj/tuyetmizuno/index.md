@@ -1,14 +1,13 @@
 # Tuyetmizuno
 
-Tuyetmizuno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Daikanyama ORD., Tokyo on Mon, 21 Sept 2026.
+Tuyetmizuno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
-Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, with 72 sets logged across Amsterdam and Tokyo. Often billed alongside Nanlaze, You Liang and Kulage. Next up: Daikanyama ORD., Tokyo on Mon 21 Sept.
+Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, with 72 sets logged across Amsterdam and Tokyo. Often billed alongside Nanlaze, You Liang and Kulage. Next up: or, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Daikanyama ORD. | Tokyo |
 | Sat, 26 Sept 2026 | or | Tokyo |
 
 ## Recently played

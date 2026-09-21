@@ -1,13 +1,14 @@
 # DJ SIN
 
-DJ SIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Vault at Gianpula Village, Malta on Sat, 10 Oct 2026.
+DJ SIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter, Seoul on Fri, 25 Sept 2026.
 
-DJ SIN is a techno and house artist tracked on soundcheck, with 149 sets logged across Malta and Seoul. Often billed alongside Purusha, SIJIN and Siot. Next up: The Vault at Gianpula Village, Malta on Sat 10 Oct.
+DJ SIN is a techno and house artist tracked on soundcheck, with 150 sets logged across Malta and Seoul. Often billed alongside Purusha, SIJIN and Siot. Next up: Shelter, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Shelter | Seoul |
 | Sat, 10 Oct 2026 | The Vault at Gianpula Village | Malta |
 
 ## Recently played

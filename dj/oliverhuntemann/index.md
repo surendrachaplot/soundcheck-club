@@ -1,8 +1,8 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
+Oliver Huntemann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
 
-Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Auckland and Bali and 23 more. Often billed alongside Steve Sai, Tommahawk and Aio. Next up: Lofi, Amsterdam on Fri 25 Sept.
+Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Auckland and Bali and 23 more. Often billed alongside Andre Winter, Kaufmann and Steve Sai. Next up: Lofi, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oliver Huntemann is a techno and house artist based in Germany, tracked on sound
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lofi | Amsterdam |
 | Wed, 7 Oct 2026 | Kastel | Istanbul |
+| Fri, 16 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 7 Nov 2026 | Kastel | Istanbul |
 | Sat, 28 Nov 2026 | Ritter Butzke | Berlin |
 
@@ -26,6 +27,6 @@ Oliver Huntemann is a techno and house artist based in Germany, tracked on sound
 
 ## Shares bills with
 
-Steve Sai, Tommahawk, Aio
+Andre Winter, Kaufmann, Steve Sai
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

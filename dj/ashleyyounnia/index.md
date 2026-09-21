@@ -1,14 +1,15 @@
 # Ashley Younniä
 
-Ashley Younniä is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
+Ashley Younniä is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
 
-Ashley Younniä is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Sevyn, Shaun Ross and Colored Craig. Next up: Zebulon, Losangeles on Sat 26 Sept.
+Ashley Younniä is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Sevyn, Shaun Ross and Colored Craig. Next up: Zebulon, Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Zebulon | Los Angeles |
+| Fri, 2 Oct 2026 | TBA | New York City |
 
 ## Recently played
 

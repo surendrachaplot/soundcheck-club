@@ -1,8 +1,8 @@
 # Klose One
 
-Klose One is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tola, London on Sat, 26 Sept 2026.
+Klose One is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tola, London on Sat, 26 Sept 2026.
 
-Klose One is a techno and bass artist tracked on soundcheck, with 35 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: Tola, London on Sat 26 Sept.
+Klose One is a techno and garage artist tracked on soundcheck, with 35 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: Tola, London on Sat 26 Sept.
 
 ## Upcoming shows
 

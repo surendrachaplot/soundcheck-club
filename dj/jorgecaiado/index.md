@@ -1,14 +1,15 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Rūmu, Lisbon on Wed, 30 Sept 2026.
+Jorge Caiado is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Rūmu, Lisbon on Wed, 30 Sept 2026.
 
-Jorge Caiado is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Rūmu, Lisbon on Wed 30 Sept.
+Jorge Caiado is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 17 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: Rūmu, Lisbon on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Rūmu | Lisbon |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fuchs2, Prague on Fri, 25 Sept 2026.
+SJ Yellow is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fuchs2, Prague on Fri, 25 Sept 2026.
 
-SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundcheck, with 146 sets logged across Amsterdam, Berlin, Budapest and London and 2 more. Often billed alongside tmk (CZ), Nina Farrina and 3ever. Next up: Fuchs2, Prague on Fri 25 Sept.
+SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundcheck, with 147 sets logged across Amsterdam, Berlin, Budapest and London and 2 more. Often billed alongside tmk (CZ), Nina Farrina and 3ever. Next up: Fuchs2, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundchec
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Fuchs2 | Prague |
 | Fri, 2 Oct 2026 | Insomnia | Berlin |
+| Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 
 ## Recently played
 

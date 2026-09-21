@@ -1,14 +1,14 @@
 # Teodora Van Context
 
-Teodora Van Context is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
+Teodora Van Context is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at PRST, Vienna on Fri, 25 Sept 2026.
 
-Teodora Van Context is a house and techno artist based in Serbia, tracked on soundcheck, with 12 sets logged across Bangkok, Belgrade, Hongkong and Vienna. Often billed alongside DJ Anthony2, Mancha and Peter Portman. Next up: PRST, Vienna on Sat 26 Sept.
+Teodora Van Context is a house and techno artist based in Serbia, tracked on soundcheck, with 12 sets logged across Bangkok, Belgrade, Hongkong and Vienna. Often billed alongside DJ Anthony2, Mancha and Peter Portman. Next up: PRST, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | PRST | Vienna |
+| Fri, 25 Sept 2026 | PRST | Vienna |
 
 ## Recently played
 

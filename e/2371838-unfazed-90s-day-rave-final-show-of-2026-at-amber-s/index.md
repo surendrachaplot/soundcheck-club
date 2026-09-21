@@ -1,6 +1,6 @@
 # Unfazed 90s Day Rave - Final show of 2026 at Amber's
 
-Unfazed 90s Day Rave - Final show of 2026 at Amber's on Sat 3 Oct, Manchester. Club. Preview the line-up and save it on soundcheck.
+Unfazed 90s Day Rave - Final show of 2026 at Amber's on Sat 3 Oct, Manchester. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

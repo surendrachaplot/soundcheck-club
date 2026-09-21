@@ -1,14 +1,15 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Frankhan Selectist, Istanbul on Sat, 26 Sept 2026.
+Radio Slave is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Frankhan Selectist, Istanbul on Sat, 26 Sept 2026.
 
-Radio Slave is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Frankhan Selectist, Istanbul on Sat 26 Sept.
+Radio Slave is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Frankhan Selectist, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Frankhan Selectist | Istanbul |
+| Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 3 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 10 Oct 2026 | Omeara | London |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |

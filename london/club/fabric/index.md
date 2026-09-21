@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "On the Mezzanine: Free Entry" on Thu, 24 Sept 2026.
+fabric is a music venue in London with 29 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "On the Mezzanine: Free Entry" on Thu, 24 Sept 2026.
 
-fabric is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including AANO, Aaron Hibell, A For Alpha and Alfie Aukett and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including AANO, Aaron Hibell, Adana Twins and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 

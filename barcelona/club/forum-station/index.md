@@ -1,14 +1,15 @@
 # Forum Station
 
-Forum Station is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Vibes x Forum Station Barcelona" on Thu, 24 Sept 2026.
+Forum Station is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Vibes x Forum Station Barcelona" on Thu, 24 Sept 2026.
 
-Forum Station is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Anikha and Gianmarco Limenta. Browse upcoming dates, start times and who's playing. Avenida del Litoral, 08019 Forum BARCELONA.
+Forum Station is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Anikha and Gianmarco Limenta. Browse upcoming dates, start times and who's playing. Avenida del Litoral, 08019 Forum BARCELONA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Club Vibes x Forum Station Barcelona | Anikha, Gianmarco Limenta |
+| Thu, 24 Sept 2026 | Waa!!! Afterparty Secret Guest |  |
 
 ## Address
 

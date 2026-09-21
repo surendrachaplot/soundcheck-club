@@ -1,8 +1,8 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+OK Williams is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
-OK Williams is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: Nowadays, Newyorkcity on Sat 26 Sept.
+OK Williams is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: Nowadays, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OK Williams is a techno and house artist tracked on soundcheck, with 179 sets lo
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
 | Sat, 10 Oct 2026 | FOLD | London |
+| Fri, 16 Oct 2026 | Rex Club | Paris |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sat, 21 Nov 2026 | Fairfield Club | Glasgow |

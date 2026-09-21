@@ -8,7 +8,7 @@ Café Restaurant De Kroon is a music venue in Amsterdam listed on soundcheck. 1 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Chasing Dreams ADE Charity Fundraiser | BLR (NL), Boro, C-systems, Hel:Brg, SOMMA, Sago, Somna, Xijaro & Pitch |
+| Wed, 21 Oct 2026 | Chasing Dreams ADE Charity Fundraiser | BLR (NL), Boro, C-systems, Hel:Brg, Rinaly, SOMMA, Sago, Somna, Xijaro & Pitch |
 
 ## Address
 

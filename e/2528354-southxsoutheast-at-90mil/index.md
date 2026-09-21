@@ -1,6 +1,6 @@
 # SouthXSouthEast at 90mil
 
-SouthXSouthEast at 90mil on Tue 22 Sept, Berlin. 3 acts on the bill: DJ Ayam Hitam, DJ Idiyappam and Memeshift. Experimental and Club. Preview the line-up and save it on soundcheck.
+SouthXSouthEast at 90mil on Tue 22 Sept, Berlin. 4 acts on the bill: DJ Ayam Hitam, DJ Idiyappam, Memeshift and NaN.. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SouthXSouthEast at 90mil on Tue 22 Sept, Berlin. 3 acts on the bill: DJ Ayam Hit
 - DJ Ayam Hitam
 - DJ Idiyappam
 - Memeshift
+- NaN.
 
 *Source: [soundcheck](https://soundcheck.club/e/2528354-southxsoutheast-at-90mil/)*

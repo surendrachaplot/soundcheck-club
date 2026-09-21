@@ -1,13 +1,14 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Koenji Cave, Tokyo on Fri, 16 Oct 2026.
+RAPHAËL (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
 
-RAPHAËL (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Detroit and Tokyo. Often billed alongside Disc Jockey George, Fullbodydurag and Sinistarr. Next up: Koenji Cave, Tokyo on Fri 16 Oct.
+RAPHAËL (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Denver, Detroit and Tokyo. Often billed alongside Disc Jockey George, Fullbodydurag and Sinistarr. Next up: Spkrbox, Detroit on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Spkrbox | Detroit |
 | Fri, 16 Oct 2026 | Koenji Cave | Tokyo |
 
 ## Recently played

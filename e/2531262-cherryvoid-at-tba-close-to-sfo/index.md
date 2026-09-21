@@ -1,10 +1,10 @@
 # CherryVoid at TBA - Close To SFO
 
-CherryVoid at TBA - Close To SFO on Fri 25 Sept, Sanfrancisco. Drum & Bass and Electronica. Preview the line-up and save it on soundcheck.
+CherryVoid at TBA - Close To SFO on Sat 26 Sept, Sanfrancisco. Drum & Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 25 Sept 2026 |
+| Date | Sat, 26 Sept 2026 |
 | Venue | TBA - Close To SFO |
 | City | San Francisco/Oakland |
 

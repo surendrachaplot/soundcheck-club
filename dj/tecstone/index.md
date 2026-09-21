@@ -1,14 +1,15 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Decabar Super, Tokyo on Fri, 25 Sept 2026.
+TECSTONE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Decabar Super, Tokyo on Fri, 25 Sept 2026.
 
-TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Decabar Super, Tokyo on Fri 25 Sept.
+TECSTONE is a techno and house artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: Decabar Super, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Decabar Super | Tokyo |
+| Sun, 4 Oct 2026 | Under The Palmo | Tokyo |
 | Fri, 9 Oct 2026 | White Space Lab | Tokyo |
 | Sat, 24 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 

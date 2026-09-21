@@ -8,7 +8,7 @@ Eutopia Whs is a music venue in London listed on soundcheck. 1 upcoming gig, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Dazed 13th Birthday ➔ Open Air Day & Night Party // Courtyard & Warehouse | Acid Kids, Amba, Banksie, Brian Smith, Flashmob, HARTY, Latmun, Riaz Dhanani, Robert James, Russ Yallop, Sol Edge |
+| Sat, 26 Sept 2026 | Dazed 13th Birthday ➔ Open Air Day & Night Party // Courtyard & Warehouse | Acid Kids, Amba, Banksie, Brian Smith, Flashmob, HARTY, Latmun, Riaz Dhanani, Robert James, Russ Yallop, Sol Edge, Theo Nasa |
 
 ## Address
 

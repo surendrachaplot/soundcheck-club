@@ -1,13 +1,14 @@
 # MYNA
 
-MYNA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+MYNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gut Level, Sheffield on Fri, 2 Oct 2026.
 
-MYNA is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Leeds, London and Manchester and 2 more. Often billed alongside Gracie T, Shannon From Admin and colecta. Next up: Beaver Works, Leeds on Sat 3 Oct.
+MYNA is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Leeds, London and Manchester and 2 more. Often billed alongside Gracie T, Shannon From Admin and alex.aubyn. Next up: Gut Level, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Gut Level | Sheffield |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
 | Wed, 21 Oct 2026 | Doka | Amsterdam |
 
@@ -24,6 +25,6 @@ MYNA is a techno and house artist tracked on soundcheck, with 56 sets logged acr
 
 ## Shares bills with
 
-Gracie T, Shannon From Admin, colecta
+Gracie T, Shannon From Admin, alex.aubyn
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

@@ -1,14 +1,15 @@
 # La Gugga
 
-La Gugga is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 25 Sept 2026.
+La Gugga is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 25 Sept 2026.
 
-La Gugga is a house and deep house artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maxime dB, O'Hana and Kee_ko. Next up: Carmo Rooftop, Lisbon on Fri 25 Sept.
+La Gugga is a house and deep house artist tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maxime dB, O'Hana and Kee_ko. Next up: Carmo Rooftop, Lisbon on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Carmo Rooftop | Lisbon |
+| Sat, 26 Sept 2026 | TBA - Marvila Bakehouse | Lisbon |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€" on Fri, 25 Sept 2026.
+M-BIA is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€" on Fri, 25 Sept 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including D-White, Gaya Carmeli, HIGH VIBES and Holy Priest and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including D-White, Gaya Carmeli, HIGH VIBES and Holy Priest and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
@@ -15,9 +15,9 @@ M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with li
 | Fri, 9 Oct 2026 | SHØCC pres. Karamustan | Holy Priest, Karamustan |
 | Sat, 10 Oct 2026 | Inception x Festival of Lights - Club Nights | D-White, HIGH VIBES, Keen (2), Momentune |
 | Fri, 16 Oct 2026 | Bassquake by Vero | Gaya Carmeli, TANZBAER, Vero_ |
+| Fri, 23 Oct 2026 | Rave Cage with Dr. Sheppat & NYXEA | NYXEA |
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss |  |
 | Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
-| Sat, 31 Oct 2026 | Intoxication Halloween SPECIAL |  |
 
 ## Address
 

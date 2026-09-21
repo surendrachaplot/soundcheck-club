@@ -1,8 +1,8 @@
 # Berkan V8
 
-Berkan V8 is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
+Berkan V8 is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
 
-Berkan V8 is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Kyra Khaldi, BELLA (NL) and Doppelgang. Next up: The Grey Space In The Middle, Thehague on Fri 9 Oct.
+Berkan V8 is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Kyra Khaldi, BELLA (NL) and Doppelgang. Next up: The Grey Space In The Middle, Thehague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Berkan V8 is a house and techno artist tracked on soundcheck, with 94 sets logge
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Grey Space In The Middle | The Hague |
 | Fri, 16 Oct 2026 | Het Sieraad | Amsterdam |
+| Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 

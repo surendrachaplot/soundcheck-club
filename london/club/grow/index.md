@@ -1,8 +1,8 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DUBMERGE: Moontalk // OKAMI // Goh Well" on Fri, 25 Sept 2026.
+Grow is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DUBMERGE: Moontalk // OKAMI // Goh Well" on Fri, 25 Sept 2026.
 
-Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Bena, Chameleonas, CSGRV and donwella and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | Brazil + Africa Special: Joe Davis & Volta45 |  |
 | Sat, 24 Oct 2026 | GIRLZ B LIKE: 11's HEAVEN Birthday Celebration | Marcia Carr |
 | Fri, 30 Oct 2026 | Equal Parts: Warehouse of Horror | Holly Why, Ryan Jones, fairground |
-| Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
+| Fri, 6 Nov 2026 | Salotto Sounds X Daydream Disco | ARLYSS, Alfaz, Bowlcut |
 
 ## Address
 

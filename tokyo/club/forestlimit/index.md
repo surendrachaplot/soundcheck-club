@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "9rA×AGM vol.2" on Mon, 21 Sept 2026.
+Forestlimit is a music venue in Tokyo with 26 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "9rA×AGM vol.2" on Mon, 21 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 26 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, wi
 | Fri, 25 Sept 2026 | 𝙋𝙚𝙖𝙘𝙝 𝙏𝙧𝙪𝙘𝙠 𝙃𝙞𝙟𝙖𝙘𝙠𝙚𝙧𝙨 𝙏𝙤𝙪𝙧𝙞𝙣𝙜 𝙋𝙖𝙧𝙩𝙮 𝙄𝙣 𝙅𝙖𝙥𝙖𝙣️ |  |
 | Fri, 25 Sept 2026 | DEJI | Aki Dolanikov, kuniii |
 | Sat, 26 Sept 2026 | blue web. pre. 『Blue Reverberation』 | Telematic Visions, meweta |
-| Sun, 27 Sept 2026 | 吉村政信生誕祭～誕生月TIMELIMIT～ |  |
+| Sat, 26 Sept 2026 | 「曇 — DON —」 | seaketa |
 
 ## Address
 

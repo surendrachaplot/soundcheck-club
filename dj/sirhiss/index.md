@@ -1,14 +1,17 @@
 # Sir Hiss
 
-Sir Hiss is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Red Church, Bristol on Sat, 24 Oct 2026.
+Sir Hiss is a Grime and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Red Church, Bristol on Sat, 24 Oct 2026.
 
-Sir Hiss is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Boston, Bristol, Chicago and Edinburgh and 9 more. Often billed alongside Amy Kisnorbo, Sam Binga and REA (UK). Next up: The Red Church, Bristol on Sat 24 Oct.
+Sir Hiss is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Birmingham, Boston, Bristol and Chicago and 10 more. Often billed alongside Amy Kisnorbo, Sam Binga and REA (UK). Next up: The Red Church, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Red Church | Bristol |
+| Fri, 6 Nov 2026 | Suki10c | Birmingham |
+| Fri, 20 Nov 2026 | The Greyhound | London |
+| Sat, 28 Nov 2026 | Stage and Radio | Manchester |
 
 ## Recently played
 

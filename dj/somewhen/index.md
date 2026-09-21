@@ -1,8 +1,8 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 28 Sept 2026.
+Somewhen is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 28 Sept 2026.
 
-Somewhen is a techno and trance artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Amnesia Ibiza, Ibiza on Mon 28 Sept.
+Somewhen is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Amnesia Ibiza, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 209 sets logg
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 17 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 23 Oct 2026 | Nordstern | Basel |
+| Sat, 24 Oct 2026 | Fusion Club | Munster |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Docks | Hamburg |
 

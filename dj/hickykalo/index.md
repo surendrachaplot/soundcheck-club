@@ -11,7 +11,7 @@ Hicky & Kalo are a progressive house and techno duo tracked on soundcheck, with 
 | Sat, 3 Oct 2026 | Stereo | Montreal |
 | Sat, 17 Oct 2026 | Cayo | Paris |
 | Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
-| Sat, 24 Oct 2026 | 50:Hertz House & Techno Club (Rembrandt Square) | Amsterdam |
+| Sat, 24 Oct 2026 | Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
 
 ## Recently played
 

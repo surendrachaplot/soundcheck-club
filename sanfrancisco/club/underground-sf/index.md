@@ -1,13 +1,14 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "IDP 11yr Anniversary" on Sat, 10 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Texture Summit Pres. Residents Night" on Fri, 25 Sept 2026.
 
-Underground SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming gigs, with line-ups including 480P (US), 9-System, Alexandernaut and ALICE STRIBLING and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming gigs, with line-ups including 480P (US), 9-System, Alexandernaut and ALICE STRIBLING and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Texture Summit Pres. Residents Night | Anderson Chase, Combover, Joe Fro, Philco |
 | Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Dr. Rek, Hydroplane, Xanopticon, Øbsrvr (PDX) |
 | Fri, 16 Oct 2026 | RM 303: Ghost in the Host | CHRI5PY, Jehnee, messiuhhh |
 | Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Oso Feo (2), Spiñorita, Three6sashia |

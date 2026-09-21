@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar" on Wed, 23 Sept 2026.
+The Greyhound is a music venue in London with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar" on Wed, 23 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Wilcox, Azire, Bobby Mac and datSIM and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including A.N.T, Abby Daze, Alex Wilcox and Azire and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -12,12 +12,12 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs,
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
 | Fri, 25 Sept 2026 | Ohm Syndikaat (Upstairs Bar) |  |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs, datSIM |
-| Sat, 26 Sept 2026 | After Hours x NRG CRU: 160 & Beyond III |  |
+| Sat, 26 Sept 2026 | After Hours x NRG CRU: 160 & Beyond III | A.N.T, Abby Daze, Highlander |
 | Sun, 4 Oct 2026 | EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) | Azire, Vlad Ioachimescu |
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
+| Sun, 11 Oct 2026 | Hostmigrate (Live), Trevaylor (Live) | Hostmigrate |
 | Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
-| Fri, 30 Oct 2026 | TWO STEP 004 - HALLOWEEN DANCE |  |
 
 ## Address
 

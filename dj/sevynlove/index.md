@@ -1,13 +1,14 @@
 # Sevyn Love
 
-Sevyn Love is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Paragon, New York City on Fri, 25 Sept 2026.
+Sevyn Love is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Thu, 24 Sept 2026.
 
-Sevyn Love is a techno and house artist tracked on soundcheck, with 75 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, DJ DEADNAME and Dr. Fruit. Next up: Paragon, Newyorkcity on Fri 25 Sept.
+Sevyn Love is a techno and house artist tracked on soundcheck, with 76 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJPT, LOKA (US) and DJ DEADNAME. Next up: Nowadays, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Nowadays | New York City |
 | Fri, 25 Sept 2026 | Paragon | New York City |
 | Sat, 3 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
@@ -25,6 +26,6 @@ Sevyn Love is a techno and house artist tracked on soundcheck, with 75 sets logg
 
 ## Shares bills with
 
-DJPT, DJ DEADNAME, Dr. Fruit
+DJPT, LOKA (US), DJ DEADNAME
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevynlove/)*

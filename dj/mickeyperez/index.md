@@ -1,13 +1,14 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
+Mickey Perez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mr Melo, New York City on Thu, 24 Sept 2026.
 
-Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 104 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Six Coasts by Smorgasburg, Newyorkcity on Sat 17 Oct.
+Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 105 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Mr Melo, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Mr Melo | New York City |
 | Sat, 17 Oct 2026 | Six Coasts by Smorgasburg | New York City |
 
 ## Recently played

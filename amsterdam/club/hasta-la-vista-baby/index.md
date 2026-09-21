@@ -10,7 +10,7 @@ Hasta La Vista, Baby is a music venue in Amsterdam listed on soundcheck. 3 upcom
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Bizarre Trax x Focal Point - ADE 2026 | B.Love, E.LINA, Jhobei, Oliver.r, Voigtmann |
 | Sat, 24 Oct 2026 | Chevry x Shotgun / ADE Showcase | Deborah Aime La Bagarre, HearThug, Vitess |
-| Sun, 25 Oct 2026 | HORS-SOL x Sentaku — ADE | Forest, Ill Spleen, Jolly (FR), LAMALICE, Massaï, Sugar Free |
+| Sun, 25 Oct 2026 | HORS-SOL x Sentaku — ADE : Sugar Free, Forest b2b Jolly, LAMALICE (live), Massaï b2b Ill Spleen | Forest, Ill Spleen, Jolly (FR), LAMALICE, Massaï, Sugar Free |
 
 ## Address
 

@@ -8,7 +8,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Studio Stereo La Mercè pres. Los Roques x Prblm |  |
+| Wed, 23 Sept 2026 | Studio Stereo La Mercè pres. Los Roques x Prblm | Diesco, Loli Zazou, Vince Void |
 | Thu, 24 Sept 2026 | Studio Stereo pres. Gambiarra showcase | Jonny Loves House, Konnin, Victor Haas |
 | Fri, 25 Sept 2026 | Studio Stereo x Aadi pres. Pau Perez | Billi, Pau Pérez, Silvente, whomadeAB |
 | Sat, 26 Sept 2026 | Studio Stereo x OGE x Giralda pres. Enzo Leep | Camps (1), DJ Senc, Enzo Leep, Haydn, Hessa, Onfank, Rome (IT) |

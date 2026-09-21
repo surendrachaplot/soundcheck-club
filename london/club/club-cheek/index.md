@@ -13,7 +13,7 @@ Club Cheek is a music venue in London listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 9 Oct 2026 | Brown Excellence gets Cheeky |  |
 | Sat, 10 Oct 2026 | Earthworm with Hagva [live], Elijah Minnnelli [live], Alicia b2b Avsluta, Gillielove, jeet+kilm | Alicia (UK), Avsluta, Elijah Minnelli, Gillielove, Hagva, jeet (UK) |
 | Fri, 16 Oct 2026 | Shoulderwork Vol. 2 - Gallegos | EEBEE, Gallegos |
-| Sat, 17 Oct 2026 | Altered Images Vol. VII | Alienata, Broken English Club |
+| Sat, 17 Oct 2026 | Altered Images Fest: Oliver Ho, Alienata | Alienata, Broken English Club |
 | Fri, 30 Oct 2026 | BED |  |
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |

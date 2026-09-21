@@ -1,8 +1,8 @@
 # Napes
 
-Napes is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
+Napes is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
 
-Napes is a drum & bass and jungle artist tracked on soundcheck, with 84 sets logged across Amsterdam, Auckland, Brighton and Bristol and 12 more. Often billed alongside Samurai Breaks, Toby Ross and 4am Kru. Next up: FORGE, Sheffield on Fri 2 Oct.
+Napes is a drum & bass and jungle artist tracked on soundcheck, with 85 sets logged across Amsterdam, Auckland, Brighton and Bristol and 12 more. Often billed alongside Samurai Breaks, Toby Ross and 4am Kru. Next up: FORGE, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Napes is a drum & bass and jungle artist tracked on soundcheck, with 84 sets log
 | Fri, 2 Oct 2026 | FORGE | Sheffield |
 | Fri, 16 Oct 2026 | Beaver Works | Leeds |
 | Sat, 17 Oct 2026 | Gorilla | Manchester |
+| Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Fri, 13 Nov 2026 | fabric | London |

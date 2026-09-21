@@ -1,14 +1,15 @@
 # VCL (FR)
 
-VCL (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Barcelona on Sat, 26 Sept 2026.
+VCL (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Barcelona on Sat, 26 Sept 2026.
 
-VCL (FR) is a techno and trance artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 9 more. Often billed alongside DXPE (ES), EARGASM GOD and GRAViiTY. Next up: TBA, Barcelona on Sat 26 Sept.
+VCL (FR) is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 9 more. Often billed alongside DXPE (ES), EARGASM GOD and GRAViiTY. Next up: TBA, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA | Barcelona |
+| Sat, 24 Oct 2026 | Virage | Paris |
 
 ## Recently played
 

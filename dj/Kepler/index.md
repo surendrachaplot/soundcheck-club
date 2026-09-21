@@ -1,8 +1,8 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Document, Bristol on Fri 25 Sept.
+Kepler is a house and tech house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Document, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Kepler is a house and tech house artist tracked on soundcheck, with 160 sets log
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
-| Sat, 7 Nov 2026 | Cottiers Theatre | Glasgow |
+| Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
 

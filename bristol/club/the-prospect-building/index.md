@@ -12,7 +12,7 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 12 upcom
 | Sat, 10 Oct 2026 | 10 Years Of SWU FM - Joy Orbison TBA | Joy Orbison |
 | Sat, 17 Oct 2026 | History Of Rave: Eats Everything, Groove Armada, Mike Skinner  | Eats Everything, Groove Armada, Lulah Francs, Mike Skinner, SGT Pokes, SHADEV, SHUFFA, Safiye, Scarlett O'Malley |
 | Fri, 30 Oct 2026 | Above & Beyond presents Anjunabeats Warehouse | Above & Beyond, Marsh, Mat Zo, Sanaz |
-| Sat, 31 Oct 2026 | 4am Kru - [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru |
+| Sat, 31 Oct 2026 | 4am Kru / [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru, Blackeye MC, Chimpo, DJ Storm, Guido YZ, Hypershe, Janaway, Lou Nour, Napes, Oppidan, Origin8a & Propa, SIS:DEM, Sexy Lady Massive, Shirley Temper, The Bass Injector |
 | Sat, 14 Nov 2026 | UKF Bristol | A Little Sound, Anaïs, IC3, K Motionz, MC Texas, Wilkinson |
 | Fri, 27 Nov 2026 | Teletech: Bristol | Lola Cerise, Restricted |
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |

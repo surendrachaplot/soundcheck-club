@@ -1,6 +1,6 @@
 # SITH: SECRET RENDEZVOUS - LOCATION TBA at TBA
 
-SITH: SECRET RENDEZVOUS - LOCATION TBA on Fri 2 Oct, Newyorkcity. 1 act on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SITH: SECRET RENDEZVOUS - LOCATION TBA on Fri 2 Oct, Newyorkcity. 5 acts on the bill: Ashley Younniä, Baronhawk Poitier, Brett Dancer and Karizma and 1 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ SITH: SECRET RENDEZVOUS - LOCATION TBA on Fri 2 Oct, Newyorkcity. 1 act on the b
 
 ## Line-up
 
+- Ashley Younniä
+- Baronhawk Poitier
+- Brett Dancer
+- Karizma
 - Natasha Diggs
 
 *Source: [soundcheck](https://soundcheck.club/e/2522978-sith-secret-rendezvous-location-tba-at-tba/)*

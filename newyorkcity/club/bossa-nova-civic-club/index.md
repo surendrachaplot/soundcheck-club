@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "TELEPORT: 3 YEARS OF TELEMETRY" on Mon, 21 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "TELEPORT: 3 YEARS OF TELEMETRY" on Mon, 21 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 28 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 29 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

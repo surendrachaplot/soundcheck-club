@@ -1,8 +1,8 @@
 # TSHA
 
-TSHA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
+TSHA is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
 
-TSHA is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
+TSHA is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Austin and Bali and 50 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TSHA is a house and techno artist tracked on soundcheck, with 186 sets logged ac
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
+| Thu, 15 Oct 2026 | fabric | London |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Fri, 4 Dec 2026 | Savaya Bali | Bali |

@@ -1,13 +1,14 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
 
-Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: 99 Scott Ave, Newyorkcity on Fri 2 Oct.
+Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: Domicile, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Domicile | Miami |
 | Fri, 2 Oct 2026 | 99 Scott Ave | New York City |
 | Sat, 3 Oct 2026 | Radius | Chicago |
 | Sat, 21 Nov 2026 | Night Tales | London |

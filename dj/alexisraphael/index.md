@@ -1,14 +1,15 @@
 # Alexis Raphael
 
-Alexis Raphael is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Timber Loft, London on Sun, 11 Oct 2026.
+Alexis Raphael is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Timber Loft, London on Sun, 11 Oct 2026.
 
-Alexis Raphael is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Malta and Manchester. Often billed alongside Clive Henry, Miguel Campbell and Neviks. Next up: The Timber Loft, London on Sun 11 Oct.
+Alexis Raphael is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London, Malta and Manchester. Often billed alongside Clive Henry, Miguel Campbell and Neviks. Next up: The Timber Loft, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | The Timber Loft | London |
+| Sun, 20 Dec 2026 | fabric | London |
 
 ## Recently played
 

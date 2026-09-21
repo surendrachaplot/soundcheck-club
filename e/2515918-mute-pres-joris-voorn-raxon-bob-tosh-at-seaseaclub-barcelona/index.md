@@ -1,0 +1,18 @@
+# MUTE pres Joris Voorn + Raxon + Bob Tosh at Seaseaclub Barcelona
+
+MUTE pres Joris Voorn + Raxon + Bob Tosh at Seaseaclub Barcelona on Sat 26 Sept, Barcelona. 4 acts on the bill: Bob Tosh, Fedele, Joris Voorn and Raxon. Techno and House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 26 Sept 2026 |
+| Venue | Seaseaclub Barcelona |
+| City | Barcelona |
+
+## Line-up
+
+- Bob Tosh
+- Fedele
+- Joris Voorn
+- Raxon
+
+*Source: [soundcheck](https://soundcheck.club/e/2515918-mute-pres-joris-voorn-raxon-bob-tosh-at-seaseaclub-barcelona/)*

@@ -1,6 +1,6 @@
 # AMBUSH BY VORTEX at Fridas Pier
 
-AMBUSH BY VORTEX at Fridas Pier on Fri 13 Nov, Stuttgart. 1 act on the bill: ORBIT141. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+AMBUSH BY VORTEX at Fridas Pier on Fri 13 Nov, Stuttgart. 2 acts on the bill: Kili (3) and ORBIT141. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ AMBUSH BY VORTEX at Fridas Pier on Fri 13 Nov, Stuttgart. 1 act on the bill: ORB
 
 ## Line-up
 
+- Kili (3)
 - ORBIT141
 
 *Source: [soundcheck](https://soundcheck.club/e/2520668-ambush-by-vortex-at-fridas-pier/)*

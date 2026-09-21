@@ -1,14 +1,14 @@
 # MAXWELL HöUSE
 
-MAXWELL HöUSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at XTC Bushwick, New York City on Fri, 25 Sept 2026.
+MAXWELL HöUSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bootleg Bar NYC, New York City on Fri, 25 Sept 2026.
 
-MAXWELL HöUSE is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside DJ Sauci Soni, MISS VEE and Rainbow Tutu. Next up: XTC Bushwick, Newyorkcity on Fri 25 Sept.
+MAXWELL HöUSE is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside DJ Sauci Soni, MISS VEE and Rainbow Tutu. Next up: Bootleg Bar NYC, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | XTC Bushwick | New York City |
+| Fri, 25 Sept 2026 | Bootleg Bar NYC | New York City |
 
 ## Recently played
 

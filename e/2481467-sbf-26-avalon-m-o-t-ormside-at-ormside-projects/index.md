@@ -1,6 +1,6 @@
 # ✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ at Ormside Projects
 
-✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ at Ormside Projects on Sat 26 Sept, London. 24 acts on the bill: Angel D'lite, Authentically Plastic, Beneath and Bianca Scout and 20 more. Preview the line-up and save it on soundcheck.
+✹ SBF'26 ✹ Avalon, M.O.T & Ormside ✹ at Ormside Projects on Sat 26 Sept, London. 25 acts on the bill: Angel D'lite, Authentically Plastic, Beneath and Bianca Scout and 21 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@
 - Authentically Plastic
 - Beneath
 - Bianca Scout
+- Daksh
 - Debit
 - DJ Gonz
 - DJ Lycox

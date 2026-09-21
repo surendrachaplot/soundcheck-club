@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 35 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FRISKY w Jacob Meehan & Alison Swing" on Thu, 24 Sept 2026.
+Paloma is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FRISKY w Jacob Meehan & Alison Swing" on Thu, 24 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 35 upcoming gigs, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with line-ups including 11:68PM, AAguilAA, adodo and Adriano Scopece and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

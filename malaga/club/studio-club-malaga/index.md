@@ -11,7 +11,7 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming g
 | Fri, 25 Sept 2026 | Studio Club Invites: Funk Tribu | Funk Tribu |
 | Sat, 26 Sept 2026 | Studio Club x COCOA | Nick Curly, Salomé Le Chat, Sante Sansone, VITO (UK) |
 | Sat, 3 Oct 2026 | MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave All Night Long | Danny Tenaglia, Radio Slave |
-| Sat, 3 Oct 2026 | Studio Club x MyPleasure |  |
+| Sat, 3 Oct 2026 | MyPleasure vs House of Rekids – 20 Years: Danny Tenaglia + Radio Slave at Studio Club | Danny Tenaglia, Radio Slave |
 | Fri, 9 Oct 2026 | Studio Club Invites: 6EJOU | 6EJOU |
 | Sat, 17 Oct 2026 | Studio Cub Invites: Âme - Henrik Schwarz Live - & More | Alinka, Axel Boman, Henrik Schwarz, Thimble, Trikk, Âme |
 | Sun, 18 Oct 2026 | Studio Cub Invites: The Martinez Brothers | The Martinez Brothers |

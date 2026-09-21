@@ -9,7 +9,7 @@ Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 3 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 20_14 resort: Cities Aviv (US) + DJ: Soli City | Cities Aviv, Soli City |
-| Fri, 30 Oct 2026 | miaw (DK/NL) // Loppen | miaw |
+| Fri, 30 Oct 2026 | miaw (DK/NL) - Releaseshow // Loppen | miaw |
 | Thu, 19 Nov 2026 | Roomer (DE) + Yvonnes // Loppen |  |
 
 ## Address

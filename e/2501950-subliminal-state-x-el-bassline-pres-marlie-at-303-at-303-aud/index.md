@@ -1,6 +1,6 @@
 # Subliminal State x El Bassline pres. Marlie at 303 at 303 Audiophile Bar
 
-Subliminal State x El Bassline pres. Marlie at 303 at 303 Audiophile Bar on Fri 25 Sept, Barcelona. 2 acts on the bill: Galu Bla and Marlie. House and Minimal. Preview the line-up and save it on soundcheck.
+Subliminal State x El Bassline pres. Marlie at 303 at 303 Audiophile Bar on Fri 25 Sept, Barcelona. 3 acts on the bill: _YAI__, Galu Bla and Marlie. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Subliminal State x El Bassline pres. Marlie at 303 at 303 Audiophile Bar on Fri 
 
 ## Line-up
 
+- _YAI__
 - Galu Bla
 - Marlie
 

@@ -1,6 +1,6 @@
 # Ikonika - All Night Long at radial
 
-Ikonika - All Night Long at radial on Fri 23 Oct, London. 1 act on the bill: Ikonika. Gqom and Amapiano. Preview the line-up and save it on soundcheck.
+Ikonika - All Night Long at radial on Fri 23 Oct, London. 1 act on the bill: Ikonika. Gqom and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

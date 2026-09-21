@@ -1,14 +1,15 @@
 # xo.benson
 
-xo.benson is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+xo.benson is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
-xo.benson is a techno and experimental artist based in United States of America, tracked on soundcheck, with 2 sets logged across Chicago. Often billed alongside Glamour Cadaver, Kiernan Laveaux and Lauren Flax. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+xo.benson is an electronica and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Swan Drama, Glamour Cadaver and Hameedullah. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
+| Sat, 17 Oct 2026 | The First Presbyterian Church of Chicago | Chicago |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ xo.benson is a techno and experimental artist based in United States of America,
 
 ## Shares bills with
 
-Glamour Cadaver, Kiernan Laveaux, Lauren Flax
+Swan Drama, Glamour Cadaver, Hameedullah
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xo.benson/)*

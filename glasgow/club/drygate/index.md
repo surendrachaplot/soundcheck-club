@@ -1,8 +1,8 @@
 # Drygate
 
-Drygate is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Melting Pot x Let's Go Back To The 80's ◆ Drygate ◆ Saturday 26th September Weekend ◆" on Sat, 26 Sept 2026.
+Drygate is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Melting Pot x Let's Go Back To The 80's ◆ Drygate ◆ Saturday 26th September Weekend ◆" on Sat, 26 Sept 2026.
 
-Drygate is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 85 Drygate, Glasgow, G4 0UT.
+Drygate is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Frankie Elyse. Browse upcoming dates, start times and who's playing. 85 Drygate, Glasgow, G4 0UT.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Drygate is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. Brows
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Melting Pot x Let's Go Back To The 80's ◆ Drygate ◆ Saturday 26th September Weekend ◆ |  |
 | Sun, 27 Sept 2026 | Forever Young - September Weekend Sunday Sesh |  |
+| Fri, 30 Oct 2026 | Queer Theory Halloween | Frankie Elyse |
 
 ## Address
 

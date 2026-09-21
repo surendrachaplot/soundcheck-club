@@ -1,14 +1,15 @@
 # MBB_
 
-MBB_ is a Club and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hidden, Manchester on Fri, 23 Oct 2026.
+MBB_ is a Club and Grime artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hidden, Manchester on Fri, 23 Oct 2026.
 
-MBB_ is a club and grime artist tracked on soundcheck, with 29 sets logged across Leeds, London and Manchester. Often billed alongside CONE (2), Lucian (UK) and Plan T. Next up: Hidden, Manchester on Fri 23 Oct.
+MBB_ is a club and grime artist tracked on soundcheck, with 30 sets logged across Leeds, London and Manchester. Often billed alongside CONE (2), Lucian (UK) and Plan T. Next up: Hidden, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Hidden | Manchester |
+| Sat, 24 Oct 2026 | The Yard | Manchester |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # La La
 
-La La is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sub Club, Glasgow on Fri, 25 Sept 2026.
+La La is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sub Club, Glasgow on Fri, 25 Sept 2026.
 
-La La is a house and techno artist tracked on soundcheck, with 145 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Sub Club, Glasgow on Fri 25 Sept.
+La La is a house and techno artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: Sub Club, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ La La is a house and techno artist tracked on soundcheck, with 145 sets logged a
 | Sat, 26 Sept 2026 | SASS Music Club | Vienna |
 | Fri, 9 Oct 2026 | Lofi | Amsterdam |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ La La is a house and techno artist tracked on soundcheck, with 145 sets logged a
 
 ## Shares bills with
 
-AIRKEY, Ben Hemsley, Ewan McVicar
+AIRKEY, Interplanetary Criminal, Ben Hemsley
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

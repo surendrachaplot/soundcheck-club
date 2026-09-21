@@ -1,8 +1,8 @@
 # Cassy
 
-Cassy is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+Cassy is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
-Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Amsterdam, Bali, Barcelona and Berlin and 45 more. Often billed alongside Carlos Valdes, Anja Schneider and Ben Klock. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
+Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 168 sets logged across Amsterdam, Bali, Barcelona and Berlin and 45 more. Often billed alongside Carlos Valdes, Anja Schneider and Ben Klock. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 | Sun, 27 Sept 2026 | Nowadays | New York City |
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
+| Sat, 17 Oct 2026 | Arca | Milan |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |

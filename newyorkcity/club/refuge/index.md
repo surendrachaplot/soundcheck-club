@@ -1,8 +1,8 @@
 # Refuge
 
-Refuge is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Refuge Friday: Deep Dish (Open to Close)" on Fri, 25 Sept 2026.
+Refuge is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Refuge Friday: Deep Dish (Open to Close)" on Fri, 25 Sept 2026.
 
-Refuge is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, with line-ups including A-Trak, Cour T., David Morales and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including Adam X, A-Trak, Baltra and Cour T. and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs, w
 | Fri, 2 Oct 2026 | Refuge Friday: Robag Wruhme | Robag Wruhme |
 | Sat, 3 Oct 2026 | Simon Doty w. EMJIE [Extended Set] | EMJIE, Simon Doty |
 | Sat, 3 Oct 2026 | Refuge Saturday Daytime: Simon Doty [Extended Set], EMJIE and koumby | EMJIE, Simon Doty |
-| Sun, 18 Oct 2026 | Refuge Sunday: HAAi [Open to Close] | HAAi |
-| Sat, 24 Oct 2026 | David Morales | David Morales |
+| Sun, 4 Oct 2026 | Refuge Sunday Daytime: Marcellus Pittman, Glenn Underground, Razor-N-Tape | Glenn Underground, Marcellus Pittman |
+| Fri, 16 Oct 2026 | Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc | Adam X, Fran LF, Frankie Bones, Perc |
 
 ## Address
 

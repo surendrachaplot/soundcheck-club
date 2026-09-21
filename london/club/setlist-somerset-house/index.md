@@ -1,8 +1,8 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "R&B and FUNKY HOUSE NIGHT" on Fri, 25 Sept 2026.
+Setlist @ Somerset House is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "R&B and FUNKY HOUSE NIGHT" on Fri, 25 Sept 2026.
 
-Setlist @ Somerset House is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Jacinta, Larizzle and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
+Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Jacinta, Larizzle and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
 ## What's on
 

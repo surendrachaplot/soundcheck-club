@@ -15,7 +15,7 @@ clubasia is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with 
 | Sat, 26 Sept 2026 | Back To Chill 20th Anniversary | Acrocanthosaurus, BLUEMEW, CITY1, Dx, Goth-Trad, HELKTRAM, Jungle Rock, Keihin, Ken (2), Lowki, MAREAM, MIDI War, O.N.O, yuitty |
 | Wed, 30 Sept 2026 | EXODUS vol. 252 | FUJI TRILL, Jellyf!sh, KANT, kyuuu |
 | Sat, 3 Oct 2026 | AFTERVOID presents EXE vol.1 | FUJI TRILL, Yess |
-| Fri, 9 Oct 2026 | NEBULA × OTO × BLACK NOIR - TECHNO / HARD TECHNO / HARD TRANCE | Calavera, EMILIO (3), Goss, I-SO, ILONA, LYOM, Merco Ben, O.Goo, STRATAH, Soluna, YURI VALEN, uuu7 |
+| Fri, 9 Oct 2026 | NEBULA × OTO × BLACK NOIR - TECHNO /  HARDGROOVE / HARD TECHNO | Calavera, EMILIO (3), Goss, I-SO, ILONA, LYOM, Merco Ben, O.Goo, STRATAH, Soluna, YURI VALEN, uuu7 |
 | Fri, 16 Oct 2026 | GROOVIN' 2nd Anniversary | Bonnie, MK woop, Shoma fr,dambosound, YELLOWUHURU, YO.AN, discopants, m-int, yodel |
 | Mon, 19 Oct 2026 | TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL | Bass |
 

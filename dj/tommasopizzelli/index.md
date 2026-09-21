@@ -1,13 +1,14 @@
 # Tommaso Pizzelli
 
-Tommaso Pizzelli is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Tommaso Pizzelli is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Alexxx and Lucía Gea. Next up: Spook Club, Valencia on Sat 26 Sept.
+Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 60 sets logged across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Varis and Alexxx. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 3 Oct 2026 | TBA - Secret Audiophile - C/ Badajoz 115 | Barcelona |
@@ -25,6 +26,6 @@ Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 59
 
 ## Shares bills with
 
-DJ Free Download, Alexxx, Lucía Gea
+DJ Free Download, Varis, Alexxx
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*

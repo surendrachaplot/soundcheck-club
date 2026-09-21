@@ -1,14 +1,15 @@
 # Silverlining
 
-Silverlining is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Core, Madrid on Fri, 25 Sept 2026.
+Silverlining is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Core, Madrid on Fri, 25 Sept 2026.
 
-Silverlining is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: Core, Madrid on Fri 25 Sept.
+Silverlining is a house and techno artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside 3 Minds, Sueezo and Trixie (UK). Next up: Core, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Core | Madrid |
+| Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 

@@ -1,14 +1,15 @@
 # AfroKillerz
 
-AfroKillerz is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 77, London on Sat, 3 Oct 2026.
+AfroKillerz is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 77, London on Sat, 3 Oct 2026.
 
-AfroKillerz is an afro house and afro tech artist tracked on soundcheck, with 24 sets logged across Amsterdam, Basel, Lisbon and London and 3 more. Often billed alongside Mr Silk, Studio Bros and DJ Lilocox. Next up: 77, London on Sat 3 Oct.
+AfroKillerz is an afro house and afro tech artist tracked on soundcheck, with 25 sets logged across Amsterdam, Basel, Lisbon and London and 3 more. Often billed alongside Mr Silk, Studio Bros and DJ Lilocox. Next up: 77, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | 77 | London |
+| Sat, 17 Oct 2026 | Supermarket | Zurich |
 
 ## Recently played
 

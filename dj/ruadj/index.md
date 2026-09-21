@@ -1,13 +1,14 @@
 # RUA DJ
 
-RUA DJ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
+RUA DJ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 21 Oct 2026.
 
-RUA DJ is a techno and house artist tracked on soundcheck, with 15 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Mixfits (2), FITS ME FUNNY and Jodie Mooney. Next up: Sneaky Pete's, Edinburgh on Mon 26 Oct.
+RUA DJ is a techno and house artist tracked on soundcheck, with 16 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Mixfits (2), FITS ME FUNNY and Jodie Mooney. Next up: Sneaky Pete's, Edinburgh on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 26 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 

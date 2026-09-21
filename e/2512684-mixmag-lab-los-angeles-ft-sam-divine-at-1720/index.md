@@ -1,6 +1,6 @@
 # Mixmag Lab: Los Angeles ft. Sam Divine at 1720
 
-Mixmag Lab: Los Angeles ft. Sam Divine at 1720 on Sat 7 Nov, Losangeles. 2 acts on the bill: Juliet Mendoza and Sam Divine. House. Preview the line-up and save it on soundcheck.
+Mixmag Lab: Los Angeles ft. Sam Divine at 1720 on Sat 7 Nov, Losangeles. 3 acts on the bill: Juliet Mendoza, Sam Divine and SOHMI. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Mixmag Lab: Los Angeles ft. Sam Divine at 1720 on Sat 7 Nov, Losangeles. 2 acts 
 
 - Juliet Mendoza
 - Sam Divine
+- SOHMI
 
 *Source: [soundcheck](https://soundcheck.club/e/2512684-mixmag-lab-los-angeles-ft-sam-divine-at-1720/)*

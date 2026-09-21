@@ -1,6 +1,6 @@
 # IDOL - After The Last Track at Department 184
 
-IDOL - After The Last Track at Department 184 on Sun 4 Oct, Milan. 1 act on the bill: Simon T. Dub and Minimal Techno. Preview the line-up and save it on soundcheck.
+IDOL - After The Last Track at Department 184 on Sun 4 Oct, Milan. 2 acts on the bill: Simon T and THE LUMENS. Dub and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ IDOL - After The Last Track at Department 184 on Sun 4 Oct, Milan. 1 act on the 
 ## Line-up
 
 - Simon T
+- THE LUMENS
 
 *Source: [soundcheck](https://soundcheck.club/e/2514031-idol-after-the-last-track-at-department-184/)*

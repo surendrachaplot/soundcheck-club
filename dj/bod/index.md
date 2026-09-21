@@ -1,8 +1,8 @@
 # bod [包家巷]
 
-bod [包家巷] is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
+bod [包家巷] is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
 
-bod [包家巷] is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 71 sets logged across Belfast, Berlin, Bristol and Dublin and 15 more. Often billed alongside Warlord®, PAX (2) and Softmatter. Next up: Marmorbar, Berlin on Sat 26 Sept.
+bod [包家巷] is an experimental and club artist based in United States of America, tracked on soundcheck, with 73 sets logged across Belfast, Berlin, Bristol and Dublin and 15 more. Often billed alongside Warlord®, PAX (2) and Softmatter. Next up: Marmorbar, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 | Sat, 26 Sept 2026 | Marmorbar | Berlin |
 | Fri, 2 Oct 2026 | TBA - Warschauer Platz 10245 Berlin | Berlin |
 | Fri, 9 Oct 2026 | Unit 58 | London |
+| Sat, 10 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Sat, 17 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "City Splash" on Sat, 26 Sept 2026.
+DRUMSHEDS is a music venue in London with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "City Splash" on Sat, 26 Sept 2026.
 
-DRUMSHEDS is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including 2ManyDJs, 6 SENSE, 999999999 and Kepler and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+DRUMSHEDS is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including 2ManyDJs, 6 SENSE, 999999999 and Kepler and 2 more. Browse upcoming dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
 ## What's on
 

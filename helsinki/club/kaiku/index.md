@@ -11,7 +11,7 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with l
 | Fri, 25 Sept 2026 | Kaiku presents: Freddy K | CEB (FI), Freddy K, Lil Tony, kixaena |
 | Sat, 26 Sept 2026 | DWSC: Krystal Klear (IE) | DJ Aleksi, Krystal Klear, Maria Kata, Victoria |
 | Fri, 2 Oct 2026 | Guilty Pleasures | HiToshi |
-| Fri, 16 Oct 2026 | SMUT DISCO x VULGED | Beau Didier, C4KE, Isaiah (NL), JENY |
+| Fri, 16 Oct 2026 | SMUT DISCO x VULGED | Beau Didier, C4KE, Isaiah (NL), JENY, €TOM |
 
 ## Address
 

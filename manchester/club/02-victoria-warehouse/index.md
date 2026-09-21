@@ -1,14 +1,15 @@
 # 02 Victoria Warehouse
 
-02 Victoria Warehouse is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Teletech: Slush [SLVL B2B USH] All Night long - Manchester" on Sat, 26 Sept 2026.
+02 Victoria Warehouse is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Teletech: Slush [SLVL B2B USH] All Night long - Manchester" on Sat, 26 Sept 2026.
 
-02 Victoria Warehouse is a music venue in Manchester listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK.
+02 Victoria Warehouse is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Aidyscape, Billy Gillies, Ciaran McAuley and Dave Pearce and 2 more. Browse upcoming dates, start times and who's playing. Trafford Wharf Road, Manchester, Greater Manchester, M17 1AB, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Teletech: Slush [SLVL B2B USH] All Night long - Manchester |  |
+| Sat, 26 Sept 2026 | Rong Indoor Festival | Aidyscape, Billy Gillies, Ciaran McAuley, Dave Pearce, Daxson, Ferry Corsten, GIA, Giuseppe Ottaviani, John O'Callaghan, Lange, Matt Darey, Mauro Picotto, Max Well, Richard Durand, Seb Fontaine, Signum, Super8 & Tab, The Rocketman |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Rory Cochrane
 
-Rory Cochrane is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tokyo Bar, Newcastle on Sat, 26 Sept 2026.
+Rory Cochrane is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tokyo Bar, Newcastle on Sat, 26 Sept 2026.
 
-Rory Cochrane is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Tokyo Bar, Newcastle on Sat 26 Sept.
+Rory Cochrane is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Barcelona, London, Newcastle and Prague. Often billed alongside Hunter. S, Dean Mir and Retza. Next up: Tokyo Bar, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 

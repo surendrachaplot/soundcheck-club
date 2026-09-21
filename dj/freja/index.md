@@ -1,14 +1,15 @@
 # Freja
 
-Freja is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
+Freja is a Grime and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
 
-Freja is a hardcore and techno artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside Nio-B, MIDRIB and Judas. Next up: Planet Wax, London on Fri 2 Oct.
+Freja is a grime and hardcore artist tracked on soundcheck, with 29 sets logged across London. Often billed alongside Nio-B, MIDRIB and Judas. Next up: Planet Wax, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Planet Wax | London |
+| Sat, 17 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played
 

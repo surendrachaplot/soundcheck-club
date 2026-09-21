@@ -1,13 +1,14 @@
 # Aidyscape
 
-Aidyscape is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WaV, Liverpool on Fri, 23 Oct 2026.
+Aidyscape is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
-Aidyscape is a trance and techno artist tracked on soundcheck, with 4 sets logged across Liverpool and London. Often billed alongside Daxson, Aldor and Andrew Sharpe. Next up: WaV, Liverpool on Fri 23 Oct.
+Aidyscape is a trance and techno artist tracked on soundcheck, with 5 sets logged across Liverpool, London and Manchester. Often billed alongside Daxson, Ciaran McAuley and Aldor. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | 02 Victoria Warehouse | Manchester |
 | Fri, 23 Oct 2026 | WaV | Liverpool |
 | Sat, 12 Dec 2026 | WaV | Liverpool |
 
@@ -18,6 +19,6 @@ Aidyscape is a trance and techno artist tracked on soundcheck, with 4 sets logge
 
 ## Shares bills with
 
-Daxson, Aldor, Andrew Sharpe
+Daxson, Ciaran McAuley, Aldor
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidyscape/)*

@@ -1,14 +1,15 @@
 # Alfaz
 
-Alfaz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
+Alfaz is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
 
-Alfaz is a house and disco artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Ize (1), Zak Miller and ARLYSS. Next up: The Marquee Moon, London on Sat 26 Sept.
+Alfaz is a house and disco artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside Ize (1), ARLYSS and Zak Miller. Next up: The Marquee Moon, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Marquee Moon | London |
+| Fri, 6 Nov 2026 | Grow | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alfaz is a house and disco artist tracked on soundcheck, with 23 sets logged acr
 
 ## Shares bills with
 
-Ize (1), Zak Miller, ARLYSS
+Ize (1), ARLYSS, Zak Miller
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaz/)*

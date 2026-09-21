@@ -1,8 +1,8 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Whales" on Fri, 25 Sept 2026.
+The Meadows is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Whales" on Fri, 25 Sept 2026.
 
-The Meadows is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
+The Meadows is a music venue in Newyorkcity listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
 ## What's on
 
@@ -11,8 +11,9 @@ The Meadows is a music venue in Newyorkcity listed on soundcheck. 6 upcoming gig
 | Fri, 25 Sept 2026 | Whales |  |
 | Fri, 9 Oct 2026 | SUBELO - Dembow • Bachata • Mambo • Tipico (21+) |  |
 | Fri, 9 Oct 2026 | DOMINICAN OPEN BAR (21+) |  |
-| Sat, 17 Oct 2026 | Polar Vortex Electronic Fest (18+) |  |
+| Sat, 17 Oct 2026 | Polar Vortex Electronic Fest (21) |  |
 | Fri, 23 Oct 2026 | REGGAETON OPEN BAR (21+) |  |
+| Fri, 23 Oct 2026 | Perreo Meets Techno (21+) |  |
 | Sat, 31 Oct 2026 | Perreo Inferno OCT 31 [18+] |  |
 
 ## Address

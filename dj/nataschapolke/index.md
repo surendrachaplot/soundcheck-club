@@ -1,8 +1,8 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mdlr, Singapore on Sat, 26 Sept 2026.
+Natascha Polké is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mdlr, Singapore on Sat, 26 Sept 2026.
 
-Natascha Polké is a house and electro artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: Mdlr, Singapore on Sat 26 Sept.
+Natascha Polké is a house and electro artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Basel and Berlin and 25 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: Mdlr, Singapore on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 54 set
 | Sat, 26 Sept 2026 | Mdlr | Singapore |
 | Sat, 26 Sept 2026 | Mdlr | Singapore |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Fri, 27 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 

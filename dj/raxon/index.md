@@ -1,14 +1,15 @@
 # Raxon
 
-Raxon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 21 Sept 2026.
+Raxon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 21 Sept 2026.
 
-Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Maceo Plex, Fedele and no_ip. Next up: Hï Ibiza, Ibiza on Mon 21 Sept.
+Raxon is a techno and house artist based in Egypt, tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Maceo Plex, Fedele and no_ip. Next up: Hï Ibiza, Ibiza on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 22 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 

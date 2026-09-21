@@ -1,8 +1,8 @@
 # The Church Nightclub
 
-The Church Nightclub is a music venue in Denver with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Carlita" on Fri, 25 Sept 2026.
+The Church Nightclub is a music venue in Denver with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Carlita" on Fri, 25 Sept 2026.
 
-The Church Nightclub is a music venue in Denver listed on soundcheck. 6 upcoming gigs, with line-ups including Carlita, Claptone, Omar+ and Peace Control and 1 more. Browse upcoming dates, start times and who's playing. 1160 Lincoln St, Denver, CO 80203.
+The Church Nightclub is a music venue in Denver listed on soundcheck. 7 upcoming gigs, with line-ups including Carlita, Claptone, Fatzo and Oden and 2 more. Browse upcoming dates, start times and who's playing. 1160 Lincoln St, Denver, CO 80203.
 
 ## What's on
 
@@ -14,6 +14,7 @@ The Church Nightclub is a music venue in Denver listed on soundcheck. 6 upcoming
 | Sat, 31 Oct 2026 | Mall Grab |  |
 | Sat, 7 Nov 2026 | Omar | Omar+ |
 | Fri, 13 Nov 2026 | TOKiMONSTA | TOKiMONSTA |
+| Fri, 4 Dec 2026 | Oden & Fatzo | Fatzo, Oden |
 
 ## Address
 

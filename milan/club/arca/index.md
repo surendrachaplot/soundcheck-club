@@ -1,14 +1,15 @@
 # Arca
 
-Arca is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Take It Easy Opening Party" on Sat, 3 Oct 2026.
+Arca is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Take It Easy Opening Party" on Sat, 3 Oct 2026.
 
-Arca is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Bugsy, Fabio Alampi, Love Connection and Tayga. Browse upcoming dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
+Arca is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Alexia Glensy, Bugsy, Cassy and Fabio Alampi and 2 more. Browse upcoming dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Take It Easy Opening Party | Bugsy, Fabio Alampi, Love Connection, Tayga |
+| Sat, 17 Oct 2026 | Take It Easy x VBX x PLGRN | Alexia Glensy, Cassy, Fabio Alampi, KARBONI |
 
 ## Address
 

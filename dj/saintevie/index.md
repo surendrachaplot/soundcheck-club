@@ -1,14 +1,13 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hotel Via, San Francisco/Oakland on Sun, 20 Sept 2026.
+Sainte Vie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
-Sainte Vie is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Basel and Berlin and 25 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Hotel Via, Sanfrancisco on Sun 20 Sept.
+Sainte Vie is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Basel and Berlin and 25 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Ex Hacienda de San Pablo de Enmedio, Mexicocity on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 20 Sept 2026 | Hotel Via | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 
 ## Recently played

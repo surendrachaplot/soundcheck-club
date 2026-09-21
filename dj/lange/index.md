@@ -1,14 +1,15 @@
 # Lange
 
-Lange is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
+Lange is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
 
-Lange is a trance and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Aberdeen, Birmingham, Budapest and Ibiza and 7 more. Often billed alongside Rob Tissera, Dave Pearce and Dale Castell. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
+Lange is a trance and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Aberdeen, Birmingham, Budapest and Ibiza and 7 more. Often billed alongside Dave Pearce, Rob Tissera and Seb Fontaine. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | 02 Victoria Warehouse | Manchester |
 | Sat, 24 Oct 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
@@ -24,6 +25,6 @@ Lange is a trance and house artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-Rob Tissera, Dave Pearce, Dale Castell
+Dave Pearce, Rob Tissera, Seb Fontaine
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lange/)*

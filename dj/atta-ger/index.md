@@ -1,13 +1,14 @@
 # ATTA (GER)
 
-ATTA (GER) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
+ATTA (GER) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OXI, Berlin on Sat, 17 Oct 2026.
 
-ATTA (GER) is a house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Christa K, DJ SPORTSCHUH and Jokka. Next up: Mojo, Hamburg on Sat 31 Oct.
+ATTA (GER) is a house and techno artist based in Germany, tracked on soundcheck, with 66 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Christa K, DJ SPORTSCHUH and Jokka. Next up: OXI, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | OXI | Berlin |
 | Sat, 31 Oct 2026 | Mojo | Hamburg |
 
 ## Recently played

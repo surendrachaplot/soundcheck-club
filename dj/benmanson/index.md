@@ -1,14 +1,15 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Nouveau Casino, Paris on Sat, 26 Sept 2026.
+Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nouveau Casino, Paris on Sat, 26 Sept 2026.
 
-Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Berlin and Munich and 3 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: Nouveau Casino, Paris on Sat 26 Sept.
+Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 4 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: Nouveau Casino, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Nouveau Casino | Paris |
+| Sat, 3 Oct 2026 | Whammy Bar | Auckland |
 
 ## Recently played
 

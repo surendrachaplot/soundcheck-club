@@ -1,8 +1,8 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sao Paulo on Sat, 26 Sept 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sao Paulo on Sat, 26 Sept 2026.
 
-Setaoc Mass is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Ben Klock. Next up: TBA, Saopaulo on Sat 26 Sept.
+Setaoc Mass is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Philippa Pacho, Altinbas and Ben Klock. Next up: TBA, Saopaulo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Setaoc Mass is a techno and house artist tracked on soundcheck, with 179 sets lo
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA | Sao Paulo |
 | Sun, 27 Sept 2026 | Under Club | Buenos Aires |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Fri, 9 Oct 2026 | The Bassement | Madrid |
 | Sat, 10 Oct 2026 | Liquid Club | Malta |
+| Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 7 Nov 2026 | Motel Campo | Geneva |

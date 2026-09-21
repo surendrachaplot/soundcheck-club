@@ -1,8 +1,8 @@
 # kuniii
 
-kuniii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Wed, 23 Sept 2026.
+kuniii is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Wed, 23 Sept 2026.
 
-kuniii is a house and techno artist based in Japan, tracked on soundcheck, with 32 sets logged across Tokyo. Often billed alongside judgeman, SOGI and Aki Dolanikov. Next up: WOMB, Tokyo on Wed 23 Sept.
+kuniii is a house and techno artist based in Japan, tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside judgeman, SOGI and Aki Dolanikov. Next up: WOMB, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ kuniii is a house and techno artist based in Japan, tracked on soundcheck, with 
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | WOMB | Tokyo |
 | Fri, 25 Sept 2026 | Forestlimit | Tokyo |
+| Tue, 29 Sept 2026 | Azumaya | Tokyo |
 
 ## Recently played
 

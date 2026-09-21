@@ -1,6 +1,6 @@
 # JFF vol.5 INVITES Nocte at The Glove That Fits
 
-JFF vol.5 INVITES Nocte at The Glove That Fits on Sat 26 Sept, London. 3 acts on the bill: FrezZ, Monterosso and Yūgen. Techno and Electro. Preview the line-up and save it on soundcheck.
+JFF vol.5 INVITES Nocte at The Glove That Fits on Sat 26 Sept, London. 4 acts on the bill: FrezZ, Monterosso, Samir (DVS) and Yūgen. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ JFF vol.5 INVITES Nocte at The Glove That Fits on Sat 26 Sept, London. 3 acts on
 
 - FrezZ
 - Monterosso
+- Samir (DVS)
 - Yūgen
 
 *Source: [soundcheck](https://soundcheck.club/e/2521518-jff-vol-5-invites-nocte-at-the-glove-that-fits/)*

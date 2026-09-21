@@ -1,8 +1,8 @@
 # The Workmans Club
 
-The Workmans Club is a music venue in Dublin with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Pye Corner Audio" on Wed, 4 Nov 2026.
+The Workmans Club is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Pye Corner Audio" on Wed, 4 Nov 2026.
 
-The Workmans Club is a music venue in Dublin listed on soundcheck. 4 upcoming gigs, with line-ups including Autumns, dj poolboi and sunflwr. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
+The Workmans Club is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Autumns, dj poolboi and sunflwr. Browse upcoming dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
 
 ## What's on
 
@@ -11,6 +11,7 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 4 upcoming gi
 | Wed, 4 Nov 2026 | Pye Corner Audio |  |
 | Fri, 6 Nov 2026 | dublon - Dublin Debut |  |
 | Sat, 7 Nov 2026 | DJ POOLBOI + sunflwr | dj poolboi, sunflwr |
+| Sat, 7 Nov 2026 | dj poolboi + sunflwr | dj poolboi, sunflwr |
 | Sat, 21 Nov 2026 | Autumns | Autumns |
 
 ## Address

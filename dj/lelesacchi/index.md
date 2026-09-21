@@ -1,0 +1,28 @@
+# Lele Sacchi
+
+Lele Sacchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Detune, Milan on Sat, 26 Sept 2026.
+
+Lele Sacchi is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside Futuro Tropicale, Larry Masmero and Keira Meier. Next up: Detune, Milan on Sat 26 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 26 Sept 2026 | Detune | Milan |
+
+## Recently played
+
+- TBA - Monza Boschetti Reali , Milan — Fri, 4 Sept 2026
+- Circolo Magnolia, Milan — Fri, 24 Jul 2026
+- Circolo Magnolia, Milan — Fri, 24 Jul 2026
+- TBA - Fair Play Arena, Via Giulio Bechi 2, 20126 Milano, Milan — Sun, 28 Jun 2026
+- TBA - Antica Tenuta Le Querce, Milan — Sat, 13 Jun 2026
+- Detune, Milan — Fri, 22 May 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 1 May 2026
+- Fabbrica del Vapore, Milan — Thu, 23 Apr 2026
+
+## Shares bills with
+
+Futuro Tropicale, Larry Masmero, Keira Meier
+
+*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*

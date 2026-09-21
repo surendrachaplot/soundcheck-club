@@ -10,7 +10,7 @@ TWOEF is a tech house and house artist based in Italy, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bar Twenty Two | Amsterdam |
 | Fri, 23 Oct 2026 | Blend XL | Amsterdam |
-| Sat, 24 Oct 2026 | 50:Hertz House & Techno Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
 
 ## Recently played
 

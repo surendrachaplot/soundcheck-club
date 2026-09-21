@@ -1,8 +1,8 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "5 Years of Memphis x The Balance with Fabe (Fashion Show)" on Fri, 25 Sept 2026.
+Turbina is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "5 Years of Memphis x The Balance with Fabe (Fashion Show)" on Fri, 25 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including 96zen, Akác, Arash Ete and CRB and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including 96zen, Akác, Arash Ete and CRB and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with
 | Sat, 3 Oct 2026 | Valenthin All Nigh Long at Turbina Clubroom | 96zen, Daniel Moritz, Valenthin |
 | Fri, 9 Oct 2026 | CASINO BANGKOK X Turbina W/ MAC DECLOS | Arash Ete, Gingershot, Kiuz |
 | Sat, 10 Oct 2026 | LavaLava Club Season Opening with Kornél Kovács | Falcao, Kornél Kovács, Tolo |
+| Sat, 10 Oct 2026 | Selecta'S BACK - CLUB SEASON OPENING | quera |
 | Sat, 17 Oct 2026 | Crime x Burn Energy Tour with MCR-T | Akác, CRIME, Gingershot, MCR-T, Maron, THIRD 2HIFT, Technokool, schraeder, szoliver |
 
 ## Address

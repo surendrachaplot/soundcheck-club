@@ -1,14 +1,13 @@
 # Kijta
 
-Kijta is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Former Kunitachi Station Building, Tokyo on Mon, 21 Sept 2026.
+Kijta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue, 22 Sept 2026.
 
-Kijta is a house and techno artist based in Japan, tracked on soundcheck, with 81 sets logged across Tokyo. Often billed alongside TokiToki, OPTIMIST and CRAZYHYUGA. Next up: Former Kunitachi Station Building, Tokyo on Mon 21 Sept.
+Kijta is a house and techno artist based in Japan, tracked on soundcheck, with 81 sets logged across Tokyo. Often billed alongside TokiToki, OPTIMIST and CRAZYHYUGA. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Former Kunitachi Station Building | Tokyo |
 | Tue, 22 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 26 Sept 2026 | Royal Lounge | Tokyo |
 

@@ -1,13 +1,14 @@
 # Sofie Birch
 
-Sofie Birch is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Sofie Birch is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Frisbee, Copenhagen on Thu, 24 Sept 2026.
 
-Sofie Birch is an ambient and experimental artist based in Denmark, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside Anton Friisgaard, Antonina Nowacka and LEYA. Next up: Botanique, Brussels on Sat 28 Nov.
+Sofie Birch is an ambient and experimental artist based in Denmark, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside Anton Friisgaard, Antonina Nowacka and LEYA. Next up: Frisbee, Copenhagen on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Frisbee | Copenhagen |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played

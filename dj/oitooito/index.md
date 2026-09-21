@@ -1,14 +1,15 @@
 # OITO//OITO
 
-OITO//OITO is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Collect LX Factory, Lisbon on Mon, 21 Sept 2026.
+OITO//OITO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Collect LX Factory, Lisbon on Mon, 21 Sept 2026.
 
-OITO//OITO is a house and italo disco artist based in Portugal, tracked on soundcheck, with 31 sets logged across Lisbon, London, Mexicocity and Porto. Often billed alongside Inês Duarte, Joyce Muniz and 2ManyDJs. Next up: Collect LX Factory, Lisbon on Mon 21 Sept.
+OITO//OITO is a house and techno artist based in Portugal, tracked on soundcheck, with 32 sets logged across Lisbon, London, Mexicocity and Porto. Often billed alongside Inês Duarte, Joyce Muniz and 2ManyDJs. Next up: Collect LX Factory, Lisbon on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Collect LX Factory | Lisbon |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 
 ## Recently played
 

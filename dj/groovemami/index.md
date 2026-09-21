@@ -1,13 +1,15 @@
 # Groovemami
 
-Groovemami is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+Groovemami is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Skin Club, Madrid on Sat, 26 Sept 2026.
 
-Groovemami is a house and techno artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Madrid. Often billed alongside CH3LO, DISTORT (ES) and MIQUELISSIMO. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
+Groovemami is a house and techno artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona and Madrid. Often billed alongside CH3LO, DISTORT (ES) and MIQUELISSIMO. Next up: Skin Club, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Skin Club | Madrid |
+| Sat, 26 Sept 2026 | Skin Club | Madrid |
 | Fri, 30 Oct 2026 | TBA - ENTITY powered by VOID ACOUSTCS | Madrid |
 | Sat, 31 Oct 2026 | Studio76 Club | Madrid |
 

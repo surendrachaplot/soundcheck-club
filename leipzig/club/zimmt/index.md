@@ -1,14 +1,13 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "AV-Labor (Workshop Fieldrecordings und DYI Sampling Techniken)" on Mon, 21 Sept 2026.
+ZiMMT is a music venue in Leipzig with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RAUM+KLANG 2026 Konferenz für Spatial Audio & immersive Medien" on Wed, 23 Sept 2026.
 
-ZiMMT is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
+ZiMMT is a music venue in Leipzig listed on soundcheck. 10 upcoming gigs. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | AV-Labor (Workshop Fieldrecordings und DYI Sampling Techniken) |  |
 | Wed, 23 Sept 2026 | RAUM+KLANG 2026 Konferenz für Spatial Audio & immersive Medien |  |
 | Sat, 26 Sept 2026 | AUXeins Workshops, Vorträge und Seminare für Studierende und Auszubildende |  |
 | Sun, 27 Sept 2026 | Air Study Expanded Cinema und Konzert |  |
@@ -18,6 +17,7 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs. Browse
 | Mon, 5 Oct 2026 | AV- Labor (Workshop Fashion Design Software Clo3D) |  |
 | Thu, 8 Oct 2026 | SWIM N°4 immersive Klanginstallation von Christina Kubisch |  |
 | Tue, 13 Oct 2026 | SWIM N°4 immersive Klanginstallation von Christina Kubisch |  |
+| Sat, 31 Oct 2026 | SWIM N°5 — Uncertain Velocity x ZiMMT |  |
 
 ## Address
 

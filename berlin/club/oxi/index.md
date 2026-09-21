@@ -2,7 +2,7 @@
 
 OXI is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 22 Sept 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Gio Goltara, Barbara Boeing, Berfu and BLACK ANTHEM RESTORE and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including Gio Goltara, ATTA (GER), Barbara Boeing and Berfu and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

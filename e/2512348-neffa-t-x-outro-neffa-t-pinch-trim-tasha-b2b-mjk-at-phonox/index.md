@@ -1,6 +1,6 @@
 # Neffa-T x OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK at Phonox
 
-Neffa-T x OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK at Phonox on Sat 17 Oct, London. 4 acts on the bill: MJK, Neffa-T, Pinch and Tasha. Bass and Garage. Preview the line-up and save it on soundcheck.
+Neffa-T x OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK at Phonox on Sat 17 Oct, London. 4 acts on the bill: MJK, Neffa-T, Pinch and Tasha. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

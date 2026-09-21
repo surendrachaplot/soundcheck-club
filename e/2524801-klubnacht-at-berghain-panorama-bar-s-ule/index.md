@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 17 Oct, Berlin. 14 acts on the bill: Binh, Blasha & Allatt, Darwin and Fadi Mohem and 10 more. Preview the line-up and save it on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 17 Oct, Berlin. 16 acts on the bill: Binh, Blasha & Allatt, Darwin and Fadi Mohem and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,9 +19,11 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 17 Oct, Berlin. 14 acts on 
 - Lakuti
 - Lucas Depta
 - Mystery Affair
+- Phara
 - Phase Fatale
 - Richard Akingbehin
 - Rødhåd
+- Setaoc Mass
 - Victor (DE)
 - Violetta (DE)
 

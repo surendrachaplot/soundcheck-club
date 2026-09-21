@@ -1,13 +1,14 @@
 # Anetha
 
-Anetha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Anetha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Smolna, Warsaw on Fri, 2 Oct 2026.
 
-Anetha is a techno and house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
+Anetha is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: Smolna, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Smolna | Warsaw |
 | Sat, 3 Oct 2026 | Nitsa Club | Barcelona |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Palladium | Geneva |

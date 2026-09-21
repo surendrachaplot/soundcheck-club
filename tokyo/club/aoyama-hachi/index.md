@@ -14,7 +14,7 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, w
 | Tue, 22 Sept 2026 | Asa-Hachi | CHIDA, imus |
 | Wed, 23 Sept 2026 | Asa-Hachi | Celter, KAKERU |
 | Fri, 25 Sept 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | EIJI, Kenta Tominaga, vinylDJ Eiji Takehana |
-| Sun, 27 Sept 2026 | Motion | Anri (2), Fox (US), KUBOTA, RReona, SIGNAL (JP), TAIYO (2) |
+| Sun, 27 Sept 2026 | Motion | Anri (2), CKRN303, Fox (US), KUBOTA, RReona, SIGNAL (JP), TAIYO (2) |
 | Fri, 2 Oct 2026 | SOUND AGENT Vol.10 Final | Pokaska |
 | Sat, 3 Oct 2026 | STAN vol.3 |  |
 | Sun, 4 Oct 2026 | Alegre vol.100〜14th Anniversary〜 |  |

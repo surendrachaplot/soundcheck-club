@@ -15,9 +15,9 @@ Movers is a music venue in Nottingham listed on soundcheck. 26 upcoming gigs, wi
 | Sat, 26 Sept 2026 | CØMPAKT MINI-MARKET: SMALL PRESS |  |
 | Thu, 1 Oct 2026 | mixclub: electro with Blaze, Elo, Another Place & Leany |  |
 | Thu, 1 Oct 2026 | UMS: First Social of The Year - House / Garage |  |
+| Fri, 2 Oct 2026 | disko kix 2: disco, funk, house, soul & leftfield |  |
 | Sat, 3 Oct 2026 | Swing Dash with Felix Dickinson, rPal & Gail | Felix Dickinson, rPal |
 | Thu, 8 Oct 2026 | foundation.fm presents Drop Pin x Gyals In Notts - Nottingham | G33 (UK), RINGERS |
-| Fri, 9 Oct 2026 | disko kix 2: disco, funk, house, soul & leftfield |  |
 
 ## Address
 

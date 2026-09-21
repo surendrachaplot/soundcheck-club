@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at HHV.de Store, Berlin on Thu, 24 Sept 2026.
+Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at HHV.de Store, Berlin on Thu, 24 Sept 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: HHV.de Store, Berlin on Thu 24 Sept.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: HHV.de Store, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Lea Occhi is a techno and house artist tracked on soundcheck, with 186 sets logg
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | HHV.de Store | Berlin |
 | Sat, 26 Sept 2026 | Le Trabendo | Paris |
+| Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played

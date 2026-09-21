@@ -1,13 +1,14 @@
 # Kat Bendis
 
-Kat Bendis is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
+Kat Bendis is a Tech House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at XOYO, London on Wed, 23 Sept 2026.
 
-Kat Bendis is a garage and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DAMPY, Steve Brown and ADMNTi. Next up: Parallel 45, London on Fri 25 Sept.
+Kat Bendis is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside DAMPY, Steve Brown and ADMNTi. Next up: XOYO, London on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | XOYO | London |
 | Fri, 25 Sept 2026 | Parallel 45 | London |
 
 ## Recently played

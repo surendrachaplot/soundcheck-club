@@ -1,13 +1,14 @@
 # samantha rad
 
-samantha rad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
+samantha rad is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Decibel Bar, Chicago on Tue, 29 Sept 2026.
 
-samantha rad is a house and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago. Often billed alongside Pat Fee, Amy Unland and Pete Phunk. Next up: TBA - Logan Square Chicago, Chicago on Sat 31 Oct.
+samantha rad is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Chicago. Often billed alongside Pat Fee, Amy Unland and Pete Phunk. Next up: Decibel Bar, Chicago on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 29 Sept 2026 | Decibel Bar | Chicago |
 | Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
 
 ## Recently played

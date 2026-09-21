@@ -1,8 +1,8 @@
 # 4AM NYC
 
-4AM NYC is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Dolphin, Philadelphia on Fri, 2 Oct 2026.
+4AM NYC is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Dolphin, Philadelphia on Fri, 2 Oct 2026.
 
-4AM NYC is a house and disco artist based in United States of America, tracked on soundcheck, with 105 sets logged across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: The Dolphin, Philadelphia on Fri 2 Oct.
+4AM NYC is a house and disco artist based in United States of America, tracked on soundcheck, with 106 sets logged across Berlin, Chicago, Detroit and Montreal and 7 more. Often billed alongside Shigeto, Toribio and Planet B. Next up: The Dolphin, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Dolphin | Philadelphia |
 | Tue, 6 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 16 Oct 2026 | Good Room | New York City |
 
 ## Recently played
 

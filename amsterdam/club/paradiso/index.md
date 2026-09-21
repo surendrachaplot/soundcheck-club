@@ -14,7 +14,7 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 | Wed, 21 Oct 2026 | MALUGI - ADE | MALUGI |
 | Wed, 21 Oct 2026 | DJ Snake - ADE | DJ Snake |
 | Thu, 22 Oct 2026 | State OFFF // ADE | State OFFF |
-| Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart |
+| Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart, Mera Bhai |
 | Thu, 22 Oct 2026 | Anjunadeep - ADE | Because of Art, Ezequiel Arias, Jody Wisternoff, Kasper Koman, Kloyd, Martin Roth, Nicky Elisabeth |
 | Fri, 23 Oct 2026 | French II (live) - ADE | French II |
 | Fri, 23 Oct 2026 | Silva Bumpa - ADE | Silva Bumpa |

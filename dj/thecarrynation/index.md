@@ -1,8 +1,8 @@
 # The Carry Nation
 
-The Carry Nation is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
+The Carry Nation is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
 
-The Carry Nation is a house and techno artist tracked on soundcheck, with 165 sets logged across Austin, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Nita Aviance, Will Automagic and Eli Escobar. Next up: BASEMENT, Newyorkcity on Fri 2 Oct.
+The Carry Nation is a house and techno artist tracked on soundcheck, with 166 sets logged across Austin, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Nita Aviance, Will Automagic and Eli Escobar. Next up: BASEMENT, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ The Carry Nation is a house and techno artist tracked on soundcheck, with 165 se
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | BASEMENT | New York City |
 | Fri, 9 Oct 2026 | Paragon | New York City |
+| Sat, 17 Oct 2026 | Good Room | New York City |
 | Fri, 23 Oct 2026 | Flash | Washington DC |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # DJ Storm
 
-DJ Storm is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+DJ Storm is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 24 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: Studio 338, London on Sat 26 Sept.
+DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 24 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Studio 338 | London |
+| Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 

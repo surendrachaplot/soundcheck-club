@@ -1,13 +1,14 @@
 # Kruder & Dorfmeister
 
-Kruder & Dorfmeister is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Terminal 5, New York City on Thu, 1 Oct 2026.
+Kruder & Dorfmeister is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Commodore Ballroom, Vancouver on Tue, 29 Sept 2026.
 
-Kruder & Dorfmeister are a techno and breakbeat duo based in Austria, tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Basel and Berlin and 17 more. Often billed alongside Carl Craig, Bonobo and Dixon. Next up: Terminal 5, Newyorkcity on Thu 1 Oct.
+Kruder & Dorfmeister are a techno and electronica duo based in Austria, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Basel and Berlin and 18 more. Often billed alongside Carl Craig, Bonobo and Dixon. Next up: Commodore Ballroom, Vancouver on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 29 Sept 2026 | Commodore Ballroom | Vancouver |
 | Thu, 1 Oct 2026 | Terminal 5 | New York City |
 
 ## Recently played

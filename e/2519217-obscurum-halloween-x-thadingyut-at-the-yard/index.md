@@ -1,6 +1,6 @@
 # OBSCURUM ( Halloween X Thadingyut ) at The Yard
 
-OBSCURUM ( Halloween X Thadingyut ) at The Yard on Sat 31 Oct, Manchester. 6 acts on the bill: 13Ø4, Freshta, Jumbled and krioso and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+OBSCURUM ( Halloween X Thadingyut ) at The Yard on Sat 31 Oct, Manchester. 9 acts on the bill: 13Ø4, Egui, Freshta and Jumbled and 5 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,13 @@ OBSCURUM ( Halloween X Thadingyut ) at The Yard on Sat 31 Oct, Manchester. 6 act
 ## Line-up
 
 - 13Ø4
+- Egui
 - Freshta
 - Jumbled
+- KOSO
 - krioso
 - Obeka
+- Qoqnut
 - Third Kulture
 
 *Source: [soundcheck](https://soundcheck.club/e/2519217-obscurum-halloween-x-thadingyut-at-the-yard/)*

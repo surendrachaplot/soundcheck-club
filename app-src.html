@@ -4556,7 +4556,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1789940519730">
+<meta name="sc-build" content="1790027617419">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4615,7 +4615,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-20/">Sun 20 Sept <span class="c">22 events</span></a></li><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">40 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">119 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">136 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">122 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">140 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5685,29 +5685,62 @@
       el.dataset.poster=art||'';
       playSc(el); return true;
     }
-    // THE ARTIST'S NEWEST SOUNDCLOUD SET — what every main Play button starts with.
-    // Their own SoundCloud account plus the SoundCloud-hosted mixes MixesDB keys to
-    // them, newest by date. Undated sets only win when nothing is dated. Memoised
-    // per artist so a pointerdown can warm it before the click. Resolves to
-    // { url, title, art } or null (no SoundCloud set → the caller's YouTube path).
-    var _latestSc={};
-    function latestScSet(entry){
+    // THE ARTIST'S NEWEST SET — what every main Play button starts with.
+    //
+    // It used to be their newest SOUNDCLOUD set, and that is not the same thing.
+    // SoundCloud won whatever its date was, so Play started Marcel Dettmann's
+    // 2013 Groove podcast while his 2026 RA Live set sat in the same list, and
+    // Jeff Mills' 2021 mix while a 2026 Astropolis set was there. Measured on
+    // the live API: 21 of 30 well-known artists started the wrong set.
+    //
+    // So rank EVERY source the Sets tab reads — their own SoundCloud, the
+    // SoundCloud- and YouTube-hosted mixes MixesDB keys to them, NTS, YouTube —
+    // by date, and let the newest win. Undated sets only win when nothing is
+    // dated. Memoised per artist so a pointerdown can warm it before the click.
+    //
+    // preferSc breaks a TIE only. The same set reaches us from two sources with
+    // the same date (Ben Klock's HATE Podcast 500 is on both), and on the phone
+    // SoundCloud is the one allowed to keep playing with the screen off —
+    // YouTube policy III.I.9. It is a tie-break, never an override of recency.
+    //
+    // Resolves to { kind:'sc'|'yt', url|videoId, title, art, src } or null.
+    var _latest={};
+    function latestSet(entry, preferSc){
       var slug=entry&&entry.slug; if(!slug) return Promise.resolve(null);
-      if(_latestSc[slug]) return _latestSc[slug];
+      var key=slug+(preferSc?'|sc':'');
+      if(_latest[key]) return _latest[key];
+      var sg=encodeURIComponent(slug), nm=encodeURIComponent(entry.name||slug);
       function j(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():{}; }).catch(function(){ return {}; }); }
       var p=Promise.all([
-        j('/api/soundcloud/sets?slug='+encodeURIComponent(slug)+'&v='+YT_SETS_V),
-        j('/api/mixesdb/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(entry.name||slug)+'&v='+YT_SETS_V)
+        j('/api/soundcloud/sets?slug='+sg+'&v='+YT_SETS_V),
+        j('/api/mixesdb/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
+        j('/api/nts/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
+        j('/api/youtube/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V)
       ]).then(function(r){
         var c=[];
-        ((r[0]&&r[0].sets)||[]).forEach(function(x){ if(x&&x.url) c.push({ url:x.url, title:x.title, art:x.artwork||null, t:Date.parse(x.date||'') }); });
-        ((r[1]&&r[1].sets)||[]).forEach(function(x){ if(x&&x.host==='soundcloud'&&x.url) c.push({ url:x.url, title:x.page_title, art:null, t:Date.parse(x.mix_date||'') }); });
-        if(!c.length){ delete _latestSc[slug]; return null; }   // not memoised: a pending lookup may fill it
+        function add(x){ if(x && (x.url || x.videoId)) c.push(x); }
+        ((r[0]&&r[0].sets)||[]).forEach(function(x){ if(x) add({ kind:'sc', src:'SoundCloud', url:x.url, title:x.title, art:x.artwork||null, t:Date.parse(x.date||'') }); });
+        ((r[1]&&r[1].sets)||[]).forEach(function(x){
+          if(!x) return;
+          // MixesDB rows say where the mix PLAYS. Only these two hosts have a player.
+          if(x.host==='soundcloud') add({ kind:'sc', src:'SoundCloud', url:x.url, title:x.page_title, art:null, t:Date.parse(x.mix_date||'') });
+          else if(x.host==='youtube') add({ kind:'yt', src:'YouTube', videoId:(/[?&]v=([\w-]+)/.exec(x.url||'')||/youtu\.be\/([\w-]+)/.exec(x.url||'')||[])[1], title:x.page_title, art:null, t:Date.parse(x.mix_date||'') });
+        });
+        // An NTS episode's audio IS a SoundCloud url, so it plays in the same widget.
+        ((r[2]&&r[2].sets)||[]).forEach(function(x){ if(x) add({ kind:'sc', src:'NTS Radio', url:x.audio, title:x.title, art:x.image||null, t:Date.parse(x.date||'') }); });
+        ((r[3]&&r[3].sets)||[]).forEach(function(x){ if(x) add({ kind:'yt', src:'YouTube', videoId:x.videoId, title:x.title, art:null, t:Date.parse(x.published||'') }); });
+        if(!c.length){ delete _latest[key]; return null; }   // not memoised: a pending lookup may fill it
         var best=c[0];
-        c.forEach(function(x){ if(!isNaN(x.t) && (isNaN(best.t) || x.t>best.t)) best=x; });
+        c.forEach(function(x){
+          if(x===best) return;
+          var xd=!isNaN(x.t), bd=!isNaN(best.t);
+          if(xd!==bd){ if(xd) best=x; return; }            // a dated set beats an undated one
+          if(xd && x.t!==best.t){ if(x.t>best.t) best=x; return; }
+          if(preferSc && x.kind==='sc' && best.kind!=='sc') best=x;   // tie → the one that plays in the background
+        });
         return best;
       });
-      _latestSc[slug]=p; return p;
+      _latest[key]=p; return p;
     }
     // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
     //
@@ -5764,23 +5797,31 @@
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
       var all=(arguments[0]||[]), s0=startIdx||0;
-      // SOUNDCLOUD FIRST, when the caller asks for it.
+      // PLAY THIS ARTIST = PLAY THEIR NEWEST SET.
       //
-      // The native app passes {prefer:'sc'} for one reason: YouTube's developer
-      // policy III.I.9 forbids background playback, SoundCloud's terms say
-      // nothing about it — so a SoundCloud set is the only one the phone is
-      // allowed to keep playing with the screen off. Picking the source at the
-      // moment of the tap is what makes that possible; swapping it later, mid
-      // playback, is not something a listener should ever see.
+      // A button next to ONE artist — the app's play-an-act tap, a line-up chip —
+      // means "put this person on", and the answer is their most recent set from
+      // whichever source has it. It used to mean "their first cached YouTube id",
+      // or with prefer:'sc' "their first SoundCloud mix", and neither asked how
+      // old it was.
       //
-      // It is a preference, not a rule: an artist with no SoundCloud still gets
-      // their YouTube set through the normal path below.
+      // prefer:'sc' survives as a TIE-BREAK inside latestSet: YouTube's developer
+      // policy III.I.9 forbids background playback and SoundCloud's terms do not,
+      // so when two sources carry the same set on the same date the phone takes
+      // the SoundCloud one and can keep playing with the screen off. It no longer
+      // beats a newer YouTube set.
+      //
       // NEVER when the tap named a set. A row carries its videoId; swapping it for
       // the artist's first SoundCloud mix made every YouTube row on an artist page
-      // in the app play that same mix. prefer:'sc' is for "play this artist" only.
-      if(opts && opts.prefer==='sc' && all.length===1 && all[s0] && all[s0].slug && !all[s0].videoId){
-        var pref=all[s0], lt=await latestScSet(pref);
-        if(lt){ playScUrl(lt.url, lt.title, lt.art, 'SoundCloud', pref); return; }
+      // in the app play that same mix. This is for "play this artist" only.
+      // The length guard matters: the app's LINE-UP play also passes prefer:'sc',
+      // with every act in the queue, and that must still build a queue.
+      if(all[s0] && all[s0].slug && !all[s0].videoId && (all.length===1 || (opts && opts.one))){
+        var pref=all[s0], lt=await latestSet(pref, !!(opts && opts.prefer==='sc'));
+        if(lt && lt.kind==='sc' && lt.url){ playScUrl(lt.url, lt.title, lt.art, lt.src, pref); return; }
+        // Newest is a YouTube set: play THAT id, not whatever /api/youtube/cached
+        // has stored for this artist. Falls through to the normal path below.
+        if(lt && lt.videoId) pref.videoId=lt.videoId;
       }
       var need=list.filter(function(a){ return !a.videoId; }).map(function(a){ return a.slug; });
       if(need.length){
@@ -10307,11 +10348,19 @@
         // Tune in = play the artist's full sets back-to-back. Warm the sets list on
         // press so the queue is ready by click-time (keeps mobile autoplay inside the gesture).
         function prefetchSets(){ try{ loadYtApi(); }catch(_){} if(!apRadio._setsP) apRadio._setsP=fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(a.name||slug)+'&v='+YT_SETS_V).then(function(r){ return r.json(); }).catch(function(){ return {}; }); return apRadio._setsP; }
-        // MAIN PLAY = the artist's newest SoundCloud set, on every surface. Only an
-        // artist with no SoundCloud set falls through to their YouTube sets.
-        function tuneInSets(){ latestScSet({ slug:slug, name:a.name||slug }).then(function(lt){ if(lt){ playScUrl(lt.url, lt.title, lt.art, 'SoundCloud', { name:a.name||slug, slug:slug }); return; } tuneInYt(); }); }
+        // MAIN PLAY = the artist's newest SET, on every surface — whichever source
+        // it came from. It used to mean their newest SOUNDCLOUD set, which started
+        // a 2013 podcast for an artist whose newest set is a 2026 YouTube upload.
+        function tuneInSets(){
+          var who={ slug:slug, name:a.name||slug };
+          latestSet(who).then(function(lt){
+            if(lt && lt.kind==='sc' && lt.url){ playScUrl(lt.url, lt.title, lt.art, lt.src, who); return; }
+            if(lt && lt.videoId){ playYtList([{ slug:slug, name:who.name, videoId:lt.videoId }], 0); return; }
+            tuneInYt();   // no playable set from any source → the ranked YouTube queue, as before
+          });
+        }
         function tuneInYt(){ prefetchSets().then(function(j){ var sets=(j&&j.sets)||[]; if(!sets.length){ showToast('No sets found for '+(a.name||slug)+' yet.'); return; } playYtList(sets.map(function(s){ return { slug:slug, name:a.name||slug, videoId:s.videoId }; }), 0); }); }
-        apRadio.addEventListener('pointerdown',function(){ latestScSet({ slug:slug, name:a.name||slug }); prefetchSets(); },{passive:true});
+        apRadio.addEventListener('pointerdown',function(){ latestSet({ slug:slug, name:a.name||slug }); prefetchSets(); },{passive:true});
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
         document.getElementById('ap-wanna').addEventListener('click',function(){

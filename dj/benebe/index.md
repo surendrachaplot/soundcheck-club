@@ -1,8 +1,8 @@
 # Benebe
 
-Benebe is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
+Benebe is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
 
-Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across London and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: Bread and Butter, London on Sat 26 Sept.
+Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: Bread and Butter, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Benebe is a house and acid artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Bread and Butter | London |
 | Fri, 9 Oct 2026 | Hoxton Cabin | London |
+| Sat, 10 Oct 2026 | Gwenda | London |
 
 ## Recently played
 

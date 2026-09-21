@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 25 Sept 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 25 Sept 2026.
 
-Giammarco Orsini is a house and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Platforma Wolff, Bucharest on Fri 25 Sept.
+Giammarco Orsini is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Platforma Wolff, Bucharest on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 168 se
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 17 Oct 2026 | Night Tales | London |
+| Thu, 22 Oct 2026 | Meet Berlage | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 

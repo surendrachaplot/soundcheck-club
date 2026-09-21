@@ -10,7 +10,7 @@ Gai Barone is a progressive house and deep house artist tracked on soundcheck, w
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
-| Sat, 24 Oct 2026 | 50:Hertz House & Techno Club (Rembrandt Square) | Amsterdam |
+| Sat, 24 Oct 2026 | Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
 
 ## Recently played
 

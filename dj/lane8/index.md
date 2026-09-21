@@ -1,13 +1,14 @@
 # Lane 8
 
-Lane 8 is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OCZKI, Warsaw on Fri, 9 Oct 2026.
+Lane 8 is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Brooklyn Storehouse, New York City on Sat, 26 Sept 2026.
 
-Lane 8 is a deep house and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Yotto. Next up: OCZKI, Warsaw on Fri 9 Oct.
+Lane 8 is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Yotto. Next up: Brooklyn Storehouse, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Brooklyn Storehouse | New York City |
 | Fri, 9 Oct 2026 | OCZKI | Warsaw |
 | Sat, 17 Oct 2026 | The Telegraph Building | Belfast |
 | Sat, 24 Oct 2026 | De Kromhouthal | Amsterdam |

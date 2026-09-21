@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: TEED at YuYu Cine Club
 
-Yu Yu Cine Club: TEED at YuYu Cine Club on Fri 30 Oct, Mexicocity. 1 act on the bill: TEED. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: TEED at YuYu Cine Club on Fri 30 Oct, Mexicocity. 2 acts on the bill: Meilgaarden and TEED. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yu Yu Cine Club: TEED at YuYu Cine Club on Fri 30 Oct, Mexicocity. 1 act on the 
 
 ## Line-up
 
+- Meilgaarden
 - TEED
 
 *Source: [soundcheck](https://soundcheck.club/e/2532681-yu-yu-cine-club-teed-at-yuyu-cine-club/)*

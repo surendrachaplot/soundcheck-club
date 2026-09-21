@@ -1,8 +1,8 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Arcano III" on Fri, 25 Sept 2026.
+Low Profile Studios is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Club Arcano III" on Fri, 25 Sept 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Demetzy, ebb/flow collective, IFFYHYPE and Jive Talk and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Demetzy, ebb/flow collective, IFFYHYPE and Jive Talk and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 24 Oct 2026.
+Township Rebellion is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
-Township Rebellion is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Fridas Pier, Stuttgart on Sat 24 Oct.
+Township Rebellion is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: FLUCC, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | FLUCC | Vienna |
 | Sat, 24 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 14 Nov 2026 | Exchange LA | Los Angeles |
 | Sat, 21 Nov 2026 | Kesselhaus | Berlin |

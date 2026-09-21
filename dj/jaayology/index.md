@@ -1,14 +1,15 @@
 # Jaayology
 
-Jaayology is a Jazz and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
+Jaayology is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
-Jaayology is a jazz and balearic artist tracked on soundcheck, with 45 sets logged across Bangkok, Barcelona, Chicago and Hongkong and 3 more. Often billed alongside Fred Guzzo, Camilo Miranda and Zonzo. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
+Jaayology is a jazz and funk / soul artist tracked on soundcheck, with 46 sets logged across Bangkok, Barcelona, Chicago and Hongkong and 3 more. Often billed alongside Fred Guzzo, Camilo Miranda and Zonzo. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - secret location | Barcelona |
+| Sat, 10 Oct 2026 | TBA - Outdoors Garden (30 Mins From Bcn) | Barcelona |
 
 ## Recently played
 

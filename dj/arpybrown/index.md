@@ -1,14 +1,15 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
+Arpy Brown is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amber's, Manchester on Sat, 3 Oct 2026.
 
-Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Amber's, Manchester on Sat 3 Oct.
+Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Amber's, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Amber's | Manchester |
+| Sat, 24 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Studio1111 | Berlin |
 
 ## Recently played

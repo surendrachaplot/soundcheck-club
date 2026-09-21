@@ -1,8 +1,8 @@
 # Pinch
 
-Pinch is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Pinch is a Dubstep and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Pinch is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 14 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Pinch is a dubstep and dub artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 14 more. Often billed alongside SGT Pokes, Yushh and Beatrice M.. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 

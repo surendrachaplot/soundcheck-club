@@ -1,13 +1,14 @@
 # EYCEE
 
-EYCEE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+EYCEE is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at NAR, Utrecht on Fri, 2 Oct 2026.
 
-EYCEE is a house and garage artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, TINS and Boris Coelman. Next up: Levenslang Amsterdam, Amsterdam on Sat 24 Oct.
+EYCEE is a house and garage artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, TINS and Boris Coelman. Next up: NAR, Utrecht on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | NAR | Utrecht |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 

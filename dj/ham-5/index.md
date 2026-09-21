@@ -1,14 +1,15 @@
 # Ham (5)
 
-Ham (5) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
+Ham (5) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Angel Music Bar, Melbourne on Sat, 26 Sept 2026.
 
-Ham (5) is a house and techno artist based in Australia, tracked on soundcheck, with 32 sets logged across Melbourne. Often billed alongside ADMINISTRATOR, Séarlait and Tina Disco. Next up: Angel Music Bar, Melbourne on Sat 26 Sept.
+Ham (5) is a house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Melbourne. Often billed alongside ADMINISTRATOR, Séarlait and Tina Disco. Next up: Angel Music Bar, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Angel Music Bar | Melbourne |
+| Fri, 9 Oct 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 

@@ -12,7 +12,7 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 5 upcoming gigs, wi
 | Fri, 25 Sept 2026 | Undergroove: Arval invites Certain People | Arval, Certain People |
 | Sat, 26 Sept 2026 | Doggy Project presents: Sancra | Jorgge Decar, Sancra |
 | Fri, 2 Oct 2026 | Surco Aniversary |  |
-| Sat, 3 Oct 2026 | Null Name Aniversary | FLAKØ, GØNGOM, Nitrile Affair, Noctive, Reisender, Spingel, VNSTY |
+| Sat, 3 Oct 2026 | Null Name Anniversary | FLAKØ, GØNGOM, Nitrile Affair, Noctive, Reisender, Spingel, VNSTY |
 
 ## Address
 

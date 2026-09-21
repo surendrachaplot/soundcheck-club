@@ -1,6 +1,6 @@
 # TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam
 
-TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "ECHOVERSE" on Fri, 23 Oct 2026.
+TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "[CANCELLED] ECHOVERSE" on Fri, 23 Oct 2026.
 
 TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including AMYMI MUSICA and Ornery. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - EVENT SPACE - Buikslotermeerplein 82, 1025 EW, Amsterdam is a music venue 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ECHOVERSE | AMYMI MUSICA, Ornery |
+| Fri, 23 Oct 2026 | [CANCELLED] ECHOVERSE | AMYMI MUSICA, Ornery |
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-event-space-buikslotermeerplein-82-1025-ew-amsterdam/)*

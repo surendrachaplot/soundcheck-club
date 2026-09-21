@@ -1,14 +1,15 @@
 # Drabes
 
-Drabes is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
+Drabes is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
 
-Drabes is a house and disco artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Dam Swindle. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
+Drabes is a house and disco artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Dam Swindle. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Fri, 9 Oct 2026 | Transit | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |

@@ -1,6 +1,6 @@
 # Pariah at Anfang at Cadavra
 
-Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 1 act on the bill: Pariah. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 2 acts on the bill: Pariah and Silvia Torres. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 1 act on the bill: Pariah. Tec
 ## Line-up
 
 - Pariah
+- Silvia Torres
 
 *Source: [soundcheck](https://soundcheck.club/e/2471569-pariah-at-anfang-at-cadavra/)*

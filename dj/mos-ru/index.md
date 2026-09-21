@@ -9,7 +9,7 @@ M.O.S. is a house and progressive house artist based in Czech Republic, tracked 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
-| Sat, 24 Oct 2026 | 50:Hertz House & Techno Club (Rembrandt Square) | Amsterdam |
+| Sat, 24 Oct 2026 | Club Piazza Rembrandt / Rembrandtplein 45, Amsterdam | Amsterdam |
 
 ## Recently played
 

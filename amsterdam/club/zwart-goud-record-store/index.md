@@ -8,7 +8,7 @@ Zwart Goud Record Store is a music venue in Amsterdam listed on soundcheck. 1 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Zwart Goud ADE INSTORES 2026 | ANNĒ, BASHKKA, Bradley Zero, Emerald, Jasmín, Kassian, LOVEFOXY, Mastering Black, Nastia, Papa Nugs, Phil Berg, Steven Julien, Wata Igarashi |
+| Wed, 21 Oct 2026 | Zwart Goud ADE INSTORES 2026 | ANNĒ, BASHKKA, Bradley Zero, Emerald, Jasmín, Jessie Marcella, Kassian, LOVEFOXY, Mastering Black, Nastia, Papa Nugs, Phil Berg, Steven Julien, Tim Reaper, Wata Igarashi |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DAX J + VIL + invitados" on Sat, 26 Sept 2026.
+Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DAX J + VIL + invitados & Special-k: 11° aniversario with Tama Sumo + Silverlining  invitados" on Sat, 26 Sept 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including Angelinanyulí, alvar., A.N.I. and Ariezzz and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -8,7 +8,7 @@ Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | DAX J + VIL + invitados | DAX J, VIL (PT) |
+| Sat, 26 Sept 2026 | DAX J + VIL + invitados & Special-k: 11° aniversario with Tama Sumo + Silverlining  invitados | DAX J, Finalversion3, Fran.cis, Ines Cartas, Pizzicatto, Silverlining, Sueezo, Tama Sumo, Tommaso Pizzelli, VIL (PT), Varis |
 | Sat, 26 Sept 2026 | 11 years Special-K - Guest list & Tickets at event bio  | Fran.cis, Ines Cartas, Pizzicatto, Silverlining, Sueezo, Tama Sumo, Tommaso Pizzelli, Varis |
 | Sat, 26 Sept 2026 | Oven Garden en Spook Sunbox: Special-k: Silverlining - Tama Sumo | Fran.cis, Ines Cartas, Pizzicatto, Silverlining, Sueezo, Tama Sumo, Tommaso Pizzelli, Varis |
 | Sat, 3 Oct 2026 | Wololo Sound showcase: Johannes Schuster + Luxi Villar + Ruiso + Invitados | Highrise, Johannes Schuster, Luxi Villar, Nahum Korm, Ruiso |

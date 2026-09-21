@@ -1,8 +1,8 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+wAFF is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-wAFF is a tech house and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Jamie Jones, Max Dean and Darius Syrossian. Next up: UNO MALTA, Malta on Thu 24 Sept.
+wAFF is a tech house and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Jamie Jones, Max Dean and Darius Syrossian. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ wAFF is a tech house and house artist tracked on soundcheck, with 130 sets logge
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 24 Oct 2026 | World Headquarters | Newcastle |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
+| Sun, 20 Dec 2026 | fabric | London |
 
 ## Recently played
 

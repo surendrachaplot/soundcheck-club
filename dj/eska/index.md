@@ -1,13 +1,14 @@
 # Eska
 
-Eska is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
+Eska is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
 
-Eska is a drum & bass and house artist tracked on soundcheck, with 10 sets logged across London, Lyon, Manchester and Prague. Often billed alongside MANTIS, Sublime and Zero T. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
+Eska is a drum & bass and house artist tracked on soundcheck, with 11 sets logged across London, Lyon, Manchester and Prague. Often billed alongside MANTIS, Markee Ledge and S.P.Y. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |
 | Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |
 
 ## Recently played
@@ -23,6 +24,6 @@ Eska is a drum & bass and house artist tracked on soundcheck, with 10 sets logge
 
 ## Shares bills with
 
-MANTIS, Sublime, Zero T
+MANTIS, Markee Ledge, S.P.Y
 
 *Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eska/)*

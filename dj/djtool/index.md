@@ -1,14 +1,15 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
+DJ TOOL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
 
-DJ TOOL is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
+DJ TOOL is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Warehouse Location  | Boston |
+| Fri, 9 Oct 2026 | TBA - 4211 Todd Ln Suite A | Austin |
 | Sat, 10 Oct 2026 | BASEMENT | New York City |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 
