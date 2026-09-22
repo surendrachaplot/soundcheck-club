@@ -1,6 +1,6 @@
 # SUBCERO x VISAGE at Subcero Club
 
-SUBCERO x VISAGE at Subcero Club on Fri 9 Oct, Madrid. 4 acts on the bill: DAVID MEYER ., DIGUES, Iker Lobo and lebollet. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO x VISAGE at Subcero Club on Fri 9 Oct, Madrid. 5 acts on the bill: DAVID MEYER ., DIGUES, Iker Lobo and lebollet and 1 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ SUBCERO x VISAGE at Subcero Club on Fri 9 Oct, Madrid. 4 acts on the bill: DAVID
 - DIGUES
 - Iker Lobo
 - lebollet
+- Mar Bravo
 
 *Source: [soundcheck](https://soundcheck.club/e/2540801-subcero-x-visage-at-subcero-club/)*

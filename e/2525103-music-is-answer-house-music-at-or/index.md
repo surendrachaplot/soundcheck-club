@@ -1,6 +1,6 @@
 # MUSIC IS ANSWER — HOUSE MUSIC at or
 
-MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 4 acts on the bill: Ayantula, liberty (JP), MASASHI and Yamariki. House and Tech House. Preview the line-up and save it on soundcheck.
+MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 6 acts on the bill: Anri (2), Ayantula, Gara and liberty (JP) and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ MUSIC IS ANSWER — HOUSE MUSIC at or on Sun 18 Oct, Tokyo. 4 acts on the bill: 
 
 ## Line-up
 
+- Anri (2)
 - Ayantula
+- Gara
 - liberty (JP)
 - MASASHI
 - Yamariki

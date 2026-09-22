@@ -1,6 +1,6 @@
 # Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G at Gut Level
 
-Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G at Gut Level on Sat 3 Oct, Sheffield. 3 acts on the bill: Ol.G, Porter Brook and sleepsang. Dub Techno and Electronica. Preview the line-up and save it on soundcheck.
+Aquifer: Porter Brook, Malham Sound, sleepsang, Ol.G at Gut Level on Sat 3 Oct, Sheffield. 3 acts on the bill: Ol.G, Porter Brook and sleepsang. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

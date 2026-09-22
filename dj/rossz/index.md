@@ -1,14 +1,15 @@
 # ROSS z
 
-ROSS z is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Moog Club, Barcelona on Fri, 25 Sept 2026.
+ROSS z is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Moog Club, Barcelona on Fri, 25 Sept 2026.
 
-ROSS z is a techno artist based in Italy, tracked on soundcheck, with 18 sets logged across Barcelona and Berlin. Often billed alongside Miguel Silva, Freeka and DD.MATTS. Next up: Moog Club, Barcelona on Fri 25 Sept.
+ROSS z is a techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Barcelona and Berlin. Often billed alongside Miguel Silva, Freeka and DD.MATTS. Next up: Moog Club, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Moog Club | Barcelona |
+| Thu, 1 Oct 2026 | Bridge 48 | Barcelona |
 
 ## Recently played
 

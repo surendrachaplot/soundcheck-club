@@ -1,6 +1,6 @@
 # La Tipi at Akasha Las Dalias Club - Ibiza
 
-La Tipi at Akasha Las Dalias Club - Ibiza on Fri 25 Sept, Ibiza. 3 acts on the bill: Ed Noodle, Miss Manu and Words of Niō. Preview the line-up and save it on soundcheck.
+La Tipi at Akasha Las Dalias Club - Ibiza on Fri 25 Sept, Ibiza. 4 acts on the bill: Ed Noodle, Jairo Uría, Miss Manu and Words of Niō. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ La Tipi at Akasha Las Dalias Club - Ibiza on Fri 25 Sept, Ibiza. 3 acts on the b
 ## Line-up
 
 - Ed Noodle
+- Jairo Uría
 - Miss Manu
 - Words of Niō
 

@@ -1,6 +1,6 @@
 # Portia Cassau at 303 at 303 Audiophile Bar
 
-Portia Cassau at 303 at 303 Audiophile Bar on Sat 17 Oct, Barcelona. 1 act on the bill: Moreon. House. Preview the line-up and save it on soundcheck.
+Portia Cassau at 303 at 303 Audiophile Bar on Sat 17 Oct, Barcelona. 2 acts on the bill: DECA (VE) and Moreon. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Portia Cassau at 303 at 303 Audiophile Bar on Sat 17 Oct, Barcelona. 1 act on th
 
 ## Line-up
 
+- DECA (VE)
 - Moreon
 
 *Source: [soundcheck](https://soundcheck.club/e/2530806-portia-cassau-at-303-at-303-audiophile-bar/)*

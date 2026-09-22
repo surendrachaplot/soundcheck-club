@@ -1,14 +1,15 @@
 # De León
 
-De León is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+De León is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-De León is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and Fold Theory. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+De León is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and Fold Theory. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Noorderlicht Café | Amsterdam |
+| Thu, 22 Oct 2026 | Killacutz | Amsterdam |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
 
 ## Recently played

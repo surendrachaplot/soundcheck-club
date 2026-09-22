@@ -1,6 +1,6 @@
 # SEMESTER TECHNO OPENING BY TECHNOAMT at Puma Käfig Berlin
 
-SEMESTER TECHNO OPENING BY TECHNOAMT at Puma Käfig Berlin on Fri 2 Oct, Berlin. 15 acts on the bill: Alviker, Calcifer, ClubSubbe and FEZZO and 11 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+SEMESTER TECHNO OPENING BY TECHNOAMT at Puma Käfig Berlin on Fri 2 Oct, Berlin. 18 acts on the bill: Alviker, Andreas Florin, Calcifer and ClubSubbe and 14 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SEMESTER TECHNO OPENING BY TECHNOAMT at Puma Käfig Berlin on Fri 2 Oct, Berlin.
 ## Line-up
 
 - Alviker
+- Andreas Florin
 - Calcifer
 - ClubSubbe
 - FEZZO
@@ -19,6 +20,8 @@ SEMESTER TECHNO OPENING BY TECHNOAMT at Puma Käfig Berlin on Fri 2 Oct, Berlin.
 - Jambu
 - Jambu (2)
 - LELO
+- Maurice Mino
+- Milchgeld
 - NYXEA
 - riko (DE)
 - Romina Mazzini

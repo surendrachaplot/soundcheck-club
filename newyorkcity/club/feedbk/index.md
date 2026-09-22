@@ -10,7 +10,7 @@ feedbk is a music venue in Newyorkcity listed on soundcheck. 16 upcoming gigs, w
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | feedbk soft opening season Eleou , Manny | Eleou, Manny (us) |
 | Fri, 25 Sept 2026 | feedbk - soft opening season wth Moaad BKR & Avo | Avo (ES), Moaad BKR |
-| Sat, 26 Sept 2026 | feedbk - soft opening season with Tony Price, Sweater On Polo (live) & CAMILLA | CAMILLA, Sweater On Polo, Tony Price |
+| Sat, 26 Sept 2026 | feedbk - soft opening season with Tony Price (live), Sweater On Polo (live) & CAMILLA | CAMILLA, Sweater On Polo, Tony Price |
 | Sun, 27 Sept 2026 | feedbk - soft opening season with NAP & Dardenne | Dardenne, NAP (MX) |
 | Thu, 1 Oct 2026 | feedbk - industry opening with TBA |  |
 | Sat, 3 Oct 2026 | feedbk - grand opening with TBA |  |

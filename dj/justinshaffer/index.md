@@ -1,13 +1,14 @@
 # Justin Shaffer
 
-Justin Shaffer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
+Justin Shaffer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sonnenraum, Berlin on Sun, 11 Oct 2026.
 
-Justin Shaffer is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Detroit, Lisbon and Losangeles and 5 more. Often billed alongside Maayan Nidam, Dana Ruh and Dragana. Next up: TBA, Sanfrancisco on Fri 30 Oct.
+Justin Shaffer is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Detroit, Lisbon and Losangeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: Sonnenraum, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Sonnenraum | Berlin |
 | Fri, 30 Oct 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Justin Shaffer is a house and techno artist based in United States of America, t
 
 ## Shares bills with
 
-Maayan Nidam, Dana Ruh, Dragana
+Dragana, Maayan Nidam, Dana Ruh
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinshaffer/)*

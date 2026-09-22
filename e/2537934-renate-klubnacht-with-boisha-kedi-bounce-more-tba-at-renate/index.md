@@ -1,6 +1,6 @@
 # Renate Klubnacht with Boisha, Kedi Bounce + more tba at Renate
 
-Renate Klubnacht with Boisha, Kedi Bounce + more tba on Sat 24 Oct, Berlin. 4 acts on the bill: FANK, Kedi Bounce, Pert (CZ) and Shanda. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht with Boisha, Kedi Bounce + more tba on Sat 24 Oct, Berlin. 6 acts on the bill: FANK, Kedi Bounce, Mandel and moe. and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Renate Klubnacht with Boisha, Kedi Bounce + more tba on Sat 24 Oct, Berlin. 4 ac
 
 - FANK
 - Kedi Bounce
+- Mandel
+- moe.
 - Pert (CZ)
 - Shanda
 

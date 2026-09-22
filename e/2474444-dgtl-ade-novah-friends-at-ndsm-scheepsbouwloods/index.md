@@ -1,6 +1,6 @@
 # DGTL ADE NOVAH & Friends at NDSM Scheepsbouwloods
 
-DGTL ADE NOVAH & Friends at NDSM Scheepsbouwloods on Sat 24 Oct, Amsterdam. 7 acts on the bill: EMILIJA, Faster Horses, NOVAH and ØTTA and 3 more. Techno. Preview the line-up and save it on soundcheck.
+DGTL ADE NOVAH & Friends at NDSM Scheepsbouwloods on Sat 24 Oct, Amsterdam. 8 acts on the bill: EMILIJA, Faster Horses, fumi (DE) and NOVAH and 4 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ DGTL ADE NOVAH & Friends at NDSM Scheepsbouwloods on Sat 24 Oct, Amsterdam. 7 ac
 
 - EMILIJA
 - Faster Horses
+- fumi (DE)
 - NOVAH
 - ØTTA
 - Special Guest (US)

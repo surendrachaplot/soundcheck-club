@@ -1,8 +1,8 @@
 # Michelle Manetti
 
-Michelle Manetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Michelle Manetti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
-Michelle Manetti is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside THEMPRESS, FAFF and Jaye Ward. Next up: FOLD, London on Sat 26 Sept.
+Michelle Manetti is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside FAFF, THEMPRESS and Jaye Ward. Next up: FOLD, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Michelle Manetti is a house and techno artist tracked on soundcheck, with 140 se
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | FOLD | London |
 | Fri, 9 Oct 2026 | Dalston Superstore | London |
+| Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Michelle Manetti is a house and techno artist tracked on soundcheck, with 140 se
 
 ## Shares bills with
 
-THEMPRESS, FAFF, Jaye Ward
+FAFF, THEMPRESS, Jaye Ward
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michellemanetti/)*

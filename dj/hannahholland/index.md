@@ -1,8 +1,8 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 25 Sept 2026.
+Hannah Holland is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 25 Sept 2026.
 
-Hannah Holland is a house and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Josh Caffé, FAFF and GIDEÖN. Next up: Kaņepes Kultūras Centrs, Riga on Fri 25 Sept.
+Hannah Holland is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 11 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: Kaņepes Kultūras Centrs, Riga on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Hannah Holland is a house and techno artist tracked on soundcheck, with 68 sets 
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | Quarry | Liverpool |
 | Sun, 25 Oct 2026 | The Timber Loft | London |
+| Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 18 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -27,6 +28,6 @@ Hannah Holland is a house and techno artist tracked on soundcheck, with 68 sets 
 
 ## Shares bills with
 
-Josh Caffé, FAFF, GIDEÖN
+Josh Caffé, FAFF, Michelle Manetti
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

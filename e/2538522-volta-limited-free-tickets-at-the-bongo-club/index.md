@@ -1,11 +1,15 @@
 # Volta [LIMITED FREE TICKETS] at The Bongo Club
 
-Volta [LIMITED FREE TICKETS] at The Bongo Club on Tue 29 Sept, Edinburgh. Techno and Bass. Preview the line-up and save it on soundcheck.
+Volta [LIMITED FREE TICKETS] at The Bongo Club on Tue 29 Sept, Edinburgh. 1 act on the bill: Brynk. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Tue, 29 Sept 2026 |
 | Venue | The Bongo Club |
 | City | Edinburgh |
+
+## Line-up
+
+- Brynk
 
 *Source: [soundcheck](https://soundcheck.club/e/2538522-volta-limited-free-tickets-at-the-bongo-club/)*

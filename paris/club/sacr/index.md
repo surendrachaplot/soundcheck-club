@@ -1,8 +1,8 @@
 # Sacré
 
-Sacré is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sacré présente: Happiness Therapy Takeover" on Fri, 25 Sept 2026.
+Sacré is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sacré présente: Happiness Therapy Takeover" on Fri, 25 Sept 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including Baccus, Bag Raiders, Bridge (NY) and Bubs and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including Axelle Maga, Baccus, Bag Raiders and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Sacré is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with li
 | Fri, 16 Oct 2026 | Sacré présente: Régalade 3 Years Birthday | Bubs, Davera, GOME, Longneck, Magnolia |
 | Sat, 17 Oct 2026 | Sacré présente: Moi Je Live + Ixpé + Annabella |  |
 | Fri, 23 Oct 2026 | Sacré présente: Ludmila Di Pasquale | Ludmila Di Pasquale |
-| Fri, 30 Oct 2026 | Sacré présente: Butch & Family Matters | Butch, Family Matters |
+| Sat, 24 Oct 2026 | Sacré présente: Pastel & Axelle Maga | Axelle Maga |
 
 ## Address
 

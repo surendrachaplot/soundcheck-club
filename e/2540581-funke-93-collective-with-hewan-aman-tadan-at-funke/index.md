@@ -1,6 +1,6 @@
-# Funke_93 Collective with Hewan Aman, Tadan, at Funke
+# Funke_93 Collective with Hewan Aman, Tadan at Funke
 
-Funke_93 Collective with Hewan Aman, Tadan, on Sat 17 Oct, Ghent. 4 acts on the bill: Ampe, Hewan Aman, Tadan and trillosta. Preview the line-up and save it on soundcheck.
+Funke_93 Collective with Hewan Aman, Tadan on Sat 17 Oct, Ghent. 4 acts on the bill: Ampe, Hewan Aman, Tadan and trillosta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

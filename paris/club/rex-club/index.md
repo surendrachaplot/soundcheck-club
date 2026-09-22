@@ -14,7 +14,7 @@ Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with 
 | Sat, 26 Sept 2026 | VÉNUS CLUB INVITE Elkka | Elkka, Sainte Exp, Vickies |
 | Thu, 1 Oct 2026 | Rex Club presents: Joris Delacroix all night long | Joris Delacroix |
 | Fri, 2 Oct 2026 | Rex Club presents: Dam Swindle all night long | Dam Swindle |
-| Sat, 3 Oct 2026 | Afterparty SLS Paris 2026: Andy4000, Busy P, DJ SWISHA, DJ Falcon b2b Didi Han | Andy4000, Busy P, DJ SWISHA, Didi Han |
+| Sat, 3 Oct 2026 | Afterparty SLS Paris 2026: Andy4000, Busy P, DJ Falcon b2b Didi Han, DJ SWISHA | Andy4000, Busy P, DJ SWISHA, Didi Han |
 | Wed, 7 Oct 2026 | Tape: Maudux, PEAKSOU, Vespera, Naïs | Maudux, Naïs, PEAKSOU |
 | Fri, 9 Oct 2026 | The Last Dance Residency: Mamie's all night long | Mamie's |
 | Sat, 10 Oct 2026 | Rex Club presents: Bours? all night long | Bours? |

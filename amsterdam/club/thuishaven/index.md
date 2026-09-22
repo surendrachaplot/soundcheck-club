@@ -1,8 +1,8 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "27 SEP - Thuishaven Zomerclosing SOLD OUT" on Sun, 27 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "27 SEP - Thuishaven Zomerclosing SOLD OUT" on Sun, 27 Sept 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Kepler, AAT (NL), Abstract Division and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, AAT (NL) and Abstract Division and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 

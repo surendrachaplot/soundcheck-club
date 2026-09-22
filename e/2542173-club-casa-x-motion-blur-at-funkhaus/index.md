@@ -1,6 +1,6 @@
 # Club Casa X Motion Blur at Funkhaus
 
-Club Casa X Motion Blur at Funkhaus on Sat 3 Oct, Vienna. 5 acts on the bill: Kyli Kaos, Malounadou, Marc Sker and Nepomuk (2) and 1 more. Tech House and Club. Preview the line-up and save it on soundcheck.
+Club Casa X Motion Blur at Funkhaus on Sat 3 Oct, Vienna. 5 acts on the bill: Kyli Kaos, Malounadou, Marc Sker and Nepomuk (2) and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

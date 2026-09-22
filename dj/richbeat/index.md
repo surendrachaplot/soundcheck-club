@@ -1,0 +1,25 @@
+# RichBeat
+
+RichBeat is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 14 Oct 2026.
+
+RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Munich. Often billed alongside Lisatrix, e.leptic and B.R.K.Ø.. Next up: Lokschuppen Berlin, Berlin on Wed 14 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 14 Oct 2026 | Lokschuppen Berlin | Berlin |
+
+## Recently played
+
+- Lokschuppen Berlin, Berlin — Tue, 25 Aug 2026
+- ://about blank, Berlin — Fri, 21 Aug 2026
+- Aahhh Rooftop, Munich — Sat, 15 Aug 2026
+- Humboldthain Club, Berlin — Fri, 17 Jul 2026
+- Lokschuppen Berlin, Berlin — Fri, 5 Jun 2026
+
+## Shares bills with
+
+Lisatrix, e.leptic, B.R.K.Ø.
+
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richbeat/)*

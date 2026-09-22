@@ -12,7 +12,7 @@ NDSM Scheepsbouwloods is a music venue in Amsterdam listed on soundcheck. 6 upco
 | Fri, 23 Oct 2026 | DGTL ADE Tinlicker & Special Guests | Helsloot, Tinlicker, Tonic Walter |
 | Fri, 23 Oct 2026 | DGTL ADE Friday Night | Joris Voorn, Kevin de Vries, Miss Monique, NTO, Nicky Elisabeth |
 | Sat, 24 Oct 2026 | DGTL ADE Shimza & Co | AMÉMÉ, ARODES, Alex Wann, Bedouin, Cincity, DESIREE (RSA), JAMIIE, Niiomi, Philou Louzolo, STOFFELA, Shimza, meera (NO), Âme |
-| Sat, 24 Oct 2026 | DGTL ADE NOVAH & Friends | EMILIJA, Faster Horses, NOVAH, STAFFY, Special Guest (US), Ueberrest, ØTTA |
+| Sat, 24 Oct 2026 | DGTL ADE NOVAH & Friends | EMILIJA, Faster Horses, NOVAH, STAFFY, Special Guest (US), Ueberrest, fumi (DE), ØTTA |
 | Sun, 25 Oct 2026 | DGTL ADE FUSE | ADMNTi, Dr Banana, Enzo Siragusa, Isaac Carter, Jamback, L.P. Rhythm, Laidlaw, Luke Dean_, Marlie, Max Dean, Mella Dee, Morgan, Moxie, O.BEE, Saoirse, Sonja Moonear, Tomas Station |
 
 ## Address

@@ -1,8 +1,8 @@
 # Sam Hofman
 
-Sam Hofman is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
+Sam Hofman is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
-Sam Hofman is a house and trance artist tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and DAF. Next up: Ijver, Amsterdam on Fri 23 Oct.
+Sam Hofman is a house and trance artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and Cynthia Spiering. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Hofman is a house and trance artist tracked on soundcheck, with 8 sets logge
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Sam Hofman is a house and trance artist tracked on soundcheck, with 8 sets logge
 
 ## Shares bills with
 
-Benny Rodrigues, AUTOFLOWER, DAF
+Benny Rodrigues, AUTOFLOWER, Cynthia Spiering
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*

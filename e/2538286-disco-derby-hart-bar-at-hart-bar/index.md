@@ -1,6 +1,6 @@
 # Disco Derby - Hart Bar at Hart Bar
 
-Disco Derby - Hart Bar on Fri 25 Sept, Newyorkcity. 4 acts on the bill: ALEX PAN, MISS VEE, NDRS.wav and Scribble. Tech House and Disco. Preview the line-up and save it on soundcheck.
+Disco Derby - Hart Bar on Fri 25 Sept, Newyorkcity. 5 acts on the bill: ALEX PAN, MISS VEE, NDRS.wav and Scribble and 1 more. Tech House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Disco Derby - Hart Bar on Fri 25 Sept, Newyorkcity. 4 acts on the bill: ALEX PAN
 - MISS VEE
 - NDRS.wav
 - Scribble
+- Zeeva
 
 *Source: [soundcheck](https://soundcheck.club/e/2538286-disco-derby-hart-bar-at-hart-bar/)*

@@ -1,13 +1,14 @@
 # Inga
 
-Inga is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Socore Factory, Osaka on Mon, 12 Oct 2026.
+Inga is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Gate, Berlin on Sat, 10 Oct 2026.
 
-Inga is a hip-hop and house artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Osaka and Tokyo. Often billed alongside ANCHIN, D.J.Fulltono and DJ Quietstorm. Next up: Socore Factory, Osaka on Mon 12 Oct.
+Inga is a hip-hop and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Osaka and Tokyo. Often billed alongside ANCHIN, D.J.Fulltono and DJ Quietstorm. Next up: Golden Gate, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Golden Gate | Berlin |
 | Mon, 12 Oct 2026 | Socore Factory | Osaka |
 
 ## Recently played

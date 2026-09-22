@@ -10,7 +10,7 @@ E1 is a music venue in London listed on soundcheck. 43 upcoming gigs, with line-
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | ALIVE: DYEN (ALL NIGHT LONG) + LeStrange | DYEN, LeStrange |
 | Fri, 25 Sept 2026 | The Warehouse Rave |  |
-| Sat, 26 Sept 2026 | Organic presents Solardo  powered by PATRÓN | Solardo |
+| Sat, 26 Sept 2026 | Organic presents Solardo  powered by PATRÓN | Duat, Eva Banks, Greggio, Solardo |
 | Sat, 26 Sept 2026 | MALAA'S ALTER EGO |  |
 | Fri, 2 Oct 2026 | Teletech London: Vieze Asbak + more | KIRSTY, KimberlaID, Lolalita, Mad Dog, NLI, Vieze Asbak |
 | Sat, 3 Oct 2026 | Nicole Moudaber (All Night Long - UK Premiere) | Nicole Moudaber |
