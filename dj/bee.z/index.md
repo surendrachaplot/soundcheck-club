@@ -1,6 +1,6 @@
 # bee.Z
 
-bee.Z is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at THE MAGICK BAR, Rome on Tue, 22 Sept 2026.
+bee.Z is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at THE MAGICK BAR, Rome on Tue, 22 Sept 2026.
 
 bee.Z is a house and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Barcelona and Rome. Often billed alongside Collarbone, Monuas and Kodacci. Next up: THE MAGICK BAR, Rome on Tue 22 Sept.
 
@@ -24,4 +24,4 @@ bee.Z is a house and techno artist based in Italy, tracked on soundcheck, with 8
 
 Collarbone, Monuas, Kodacci
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bee.z/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bee.z/)*

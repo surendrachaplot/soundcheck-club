@@ -1,6 +1,6 @@
 # The Poetry Club
 
-The Poetry Club is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Mono Culture & Jersey the Devil presents" on Sat, 26 Sept 2026.
+The Poetry Club is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Mono Culture & Jersey the Devil presents" on Sat, 26 Sept 2026.
 
 The Poetry Club is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including Danyo, Et Al (1), HEATNAVI and HUNTRESS and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -18,4 +18,4 @@ The Poetry Club is a music venue in Glasgow listed on soundcheck. 5 upcoming gig
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*

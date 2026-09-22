@@ -1,6 +1,6 @@
 # FJAAK & Hiroko Yamamura presented by Public Works at Public Works
 
-FJAAK & Hiroko Yamamura presented by Public Works on Fri 20 Nov, Sanfrancisco. 2 acts on the bill: FJAAK and Hiroko Yamamura. Techno. Preview the line-up and save it on soundcheck.
+FJAAK & Hiroko Yamamura presented by Public Works on Fri 20 Nov, Sanfrancisco. 4 acts on the bill: Clancy Hickinbotham, FJAAK, Hiroko Yamamura and Monoclick. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ FJAAK & Hiroko Yamamura presented by Public Works on Fri 20 Nov, Sanfrancisco. 2
 
 ## Line-up
 
+- Clancy Hickinbotham
 - FJAAK
 - Hiroko Yamamura
+- Monoclick
 
 *Source: [soundcheck](https://soundcheck.club/e/2536919-fjaak-hiroko-yamamura-presented-by-public-works-at-public-wo/)*

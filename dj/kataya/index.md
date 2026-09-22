@@ -1,6 +1,6 @@
 # Kataya
 
-Kataya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hafenklang, Hamburg on Fri, 2 Oct 2026.
+Kataya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hafenklang, Hamburg on Fri, 2 Oct 2026.
 
 Kataya is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Ciao 3lla, ANTYA and Acid.Foxy. Next up: Hafenklang, Hamburg on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kataya is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Ciao 3lla, ANTYA, Acid.Foxy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*

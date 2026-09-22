@@ -1,6 +1,6 @@
 # Mike Nervous
 
-Mike Nervous is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shinsen, New York City on Thu, 24 Sept 2026.
+Mike Nervous is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Shinsen, New York City on Thu, 24 Sept 2026.
 
 Mike Nervous is a house and afro house artist tracked on soundcheck, with 43 sets logged across Berlin, Detroit, Ibiza and Miami and 3 more. Often billed alongside Benny Soto, Lazaro Casanova and Oscar G. Next up: Shinsen, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Mike Nervous is a house and afro house artist tracked on soundcheck, with 43 set
 
 Benny Soto, Lazaro Casanova, Oscar G
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

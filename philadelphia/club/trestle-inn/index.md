@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Electric Hotpot with DJ Jay Schwartz" on Thu, 24 Sept 2026.
+Trestle Inn is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Electric Hotpot with DJ Jay Schwartz" on Thu, 24 Sept 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 4 upcoming gigs, with line-ups including Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -17,4 +17,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 4 upcoming gi
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

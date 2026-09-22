@@ -1,6 +1,6 @@
 # Leo Wood
 
-Leo Wood is a Deep House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Roundhouse, London on Fri, 13 Nov 2026.
+Leo Wood is a Deep House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Roundhouse, London on Fri, 13 Nov 2026.
 
 Leo Wood is a deep house and breakbeat artist tracked on soundcheck, with 9 sets logged across Bristol, London and Manchester. Often billed alongside ALLKNIGHT, Marsh and DASHY. Next up: The Roundhouse, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Leo Wood is a deep house and breakbeat artist tracked on soundcheck, with 9 sets
 
 ALLKNIGHT, Marsh, DASHY
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leowood/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leowood/)*

@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 278 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RECLAIM STOLEN CRYPTO ASSETS . HIRE WHISPERER HACKER RECOVERY" on Wed, 16 Sept 2026.
+TBA is a music venue in London with 277 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "RECLAIM STOLEN CRYPTO ASSETS . HIRE WHISPERER HACKER RECOVERY" on Wed, 16 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 278 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 277 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 278 upcoming gigs, with lin
 | Fri, 25 Sept 2026 | Save The Date | Liad Krispin |
 | Fri, 25 Sept 2026 | Blasted 🅓🅝🅑 - underground drum'n'bass and jungle | Agem, CP4C, DJ Chromz, Dark Zenith, Hovercat, KaraKara, Shifty Rogue |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

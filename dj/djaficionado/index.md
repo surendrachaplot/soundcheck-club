@@ -1,6 +1,6 @@
 # DJ Aficionado
 
-DJ Aficionado is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Paloma, Berlin on Thu, 22 Oct 2026.
+DJ Aficionado is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paloma, Berlin on Thu, 22 Oct 2026.
 
 DJ Aficionado is a house and acid artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Hamburg and Madrid and 2 more. Often billed alongside Llupe, Eleonora K and Frinda di Lanco. Next up: Paloma, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ Aficionado is a house and acid artist tracked on soundcheck, with 42 sets log
 
 Llupe, Eleonora K, Frinda di Lanco
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaficionado/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djaficionado/)*

@@ -1,6 +1,6 @@
 # LuLu (CZ)
 
-LuLu (CZ) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Fuchs2, Prague on Sat, 17 Oct 2026.
+LuLu (CZ) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Fuchs2, Prague on Sat, 17 Oct 2026.
 
 LuLu (CZ) is a techno and electronica artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Prague. Often billed alongside Yan (CZ), Alfred Czital and Fembot. Next up: Fuchs2, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ LuLu (CZ) is a techno and electronica artist based in Czech Republic, tracked on
 
 Yan (CZ), Alfred Czital, Fembot
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulucz/)*

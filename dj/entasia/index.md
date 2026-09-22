@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Loft, Manchester on Sat, 3 Oct 2026.
+Entasia is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Loft, Manchester on Sat, 3 Oct 2026.
 
 Entasia is a house and trance artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: The Loft, Manchester on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Entasia is a house and trance artist tracked on soundcheck, with 63 sets logged 
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

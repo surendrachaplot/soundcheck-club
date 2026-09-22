@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SOUND SPACE: Barker & Kay Sievers - Discrete Ensemble" on Tue, 22 Sept 2026.
+ZENNER is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SOUND SPACE: Barker & Kay Sievers - Discrete Ensemble" on Tue, 22 Sept 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Aleksi Perälä, Alexia (2), Alex Jenkin and Barker and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -19,4 +19,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with li
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

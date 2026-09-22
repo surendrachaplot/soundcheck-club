@@ -1,6 +1,6 @@
 # Luca dell'Orso
 
-Luca dell'Orso is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Luca dell'Orso is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Luca dell'Orso is a house and italo disco artist tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 5 more. Often billed alongside Marsman, I-F and Afra. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Luca dell'Orso is a house and italo disco artist tracked on soundcheck, with 15 
 
 Marsman, I-F, Afra
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadellorso/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucadellorso/)*

@@ -1,6 +1,6 @@
 # na-na
 
-na-na is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Enter Shibuya, Tokyo on Tue, 29 Sept 2026.
+na-na is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Enter Shibuya, Tokyo on Tue, 29 Sept 2026.
 
 na-na is a house and techno artist based in Japan, tracked on soundcheck, with 45 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and RYOHEI. Next up: Enter Shibuya, Tokyo on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ na-na is a house and techno artist based in Japan, tracked on soundcheck, with 4
 
 Yamariki, PUNK N MATRIX, RYOHEI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/na-na/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/na-na/)*

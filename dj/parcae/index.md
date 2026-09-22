@@ -1,6 +1,6 @@
 # Parcae
 
-Parcae is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sydney on Wed, 23 Sept 2026.
+Parcae is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Sydney on Wed, 23 Sept 2026.
 
 Parcae is a techno and bass artist tracked on soundcheck, with 10 sets logged across Hongkong and Sydney. Often billed alongside Arsonist, ADRIANNA.C and Autogenesis. Next up: TBA, Sydney on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Parcae is a techno and bass artist tracked on soundcheck, with 10 sets logged ac
 
 Arsonist, ADRIANNA.C, Autogenesis
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parcae/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parcae/)*

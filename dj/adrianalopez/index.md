@@ -1,6 +1,6 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at ART Madrid Club, Madrid on Fri, 25 Sept 2026.
+Adriana Lopez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ART Madrid Club, Madrid on Fri, 25 Sept 2026.
 
 Adriana Lopez is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: ART Madrid Club, Madrid on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Adriana Lopez is a techno and house artist tracked on soundcheck, with 145 sets 
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

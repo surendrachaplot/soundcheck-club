@@ -1,6 +1,6 @@
 # Vizril
 
-Vizril is a Drum & Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
+Vizril is a Drum & Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
 
 Vizril is a drum & bass and experimental artist based in Poland, tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside dj neurospicy, MATRIX3K and DiV4. Next up: Jasna 1, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Vizril is a drum & bass and experimental artist based in Poland, tracked on soun
 
 dj neurospicy, MATRIX3K, DiV4
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizril/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizril/)*

@@ -1,6 +1,6 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
+Jamie 3:26 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
 
 Jamie 3:26 is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Natasha Diggs. Next up: Night Tales Loft, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jamie 3:26 is a house and disco artist tracked on soundcheck, with 109 sets logg
 
 Dimitri From Paris, Melvo Baptiste, Natasha Diggs
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Poly*Technic 003" on Thu, 24 Sept 2026.
+宀 Club is a music venue in Hong Kong with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Poly*Technic 003" on Thu, 24 Sept 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming gigs, with line-ups including 69DB, Andy-S, Carl H and CVLT and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -16,11 +16,11 @@
 | Fri, 9 Oct 2026 | Darkmetaz x Yee with 69DB (Spiral Tribe, London) [LIVE] | 69DB, JFÜNG, Oscar Days, TUESDAY |
 | Sat, 10 Oct 2026 | VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) | Carl H, maxi.milian |
 | Fri, 16 Oct 2026 | The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) | Sunsiaré, Yadin Moha |
-| Sat, 17 Oct 2026 | HOST with DJ CVLT (Discos Capablanca, Lisbon) [All Night Long] | CVLT |
+| Sat, 17 Oct 2026 | HOST with DJ CVLT (Discos Capablanca, Lisbon) [UNDERWEAR EDITION] | CVLT |
 | Fri, 23 Oct 2026 | Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) | Nanogram, Ottoman Grüw |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

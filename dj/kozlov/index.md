@@ -1,6 +1,6 @@
 # KØZLØV
 
-KØZLØV is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bootshaus, Cologne on Fri, 23 Oct 2026.
+KØZLØV is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bootshaus, Cologne on Fri, 23 Oct 2026.
 
 KØZLØV is a techno and industrial artist based in France, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside ANXHELA, CARAVEL and Stan Christ. Next up: Bootshaus, Cologne on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ KØZLØV is a techno and industrial artist based in France, tracked on soundchec
 
 ANXHELA, CARAVEL, Stan Christ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlov/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlov/)*

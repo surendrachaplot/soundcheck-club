@@ -1,6 +1,6 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Billy Nasty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Billy Nasty is a techno and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 5 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Billy Nasty is a techno and house artist tracked on soundcheck, with 25 sets log
 
 Charles Green, Lino Fuso, ADRIANNA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*

@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Dark Entries Night: Rabbits Wear Boots + Witch of None" on Sat, 26 Sept 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Dark Entries Night: Rabbits Wear Boots + Witch of None" on Sat, 26 Sept 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Black Francis, Castor W. and Jaquarius. Browse upcoming dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -17,4 +17,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 4 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

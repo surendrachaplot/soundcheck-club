@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Freq Society presents Conleth Forde, Lisa Forbes, and Balcony Sunrise" on Fri, 25 Sept 2026.
+The Ulster Sports Club is a music venue in Belfast with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Freq Society presents Conleth Forde, Lisa Forbes, and Balcony Sunrise" on Fri, 25 Sept 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 7 upcoming gigs, with line-ups including Conor Schmtz, Dusky, n4tee and Timmy Stewart. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -20,4 +20,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 7 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

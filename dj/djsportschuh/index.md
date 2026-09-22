@@ -1,6 +1,6 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
+DJ SPORTSCHUH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
 
 DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 120 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Mellowpark, Berlin on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ DJ SPORTSCHUH is a techno and house artist tracked on soundcheck, with 120 sets 
 
 Flavius (DE), BNZN, ATTA (GER)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

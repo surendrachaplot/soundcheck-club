@@ -1,14 +1,15 @@
 # Ed Noodle
 
-Ed Noodle is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
+Ed Noodle is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
 
-Ed Noodle is an afro house and techno artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Ibiza and Stockholm. Often billed alongside Cyria, Mark Mywords and Hoani Teano. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 25 Sept.
+Ed Noodle is a techno and afro house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Ibiza and Stockholm. Often billed alongside Cyria, Mark Mywords and Hoani Teano. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Sat, 14 Nov 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ed Noodle is an afro house and techno artist based in Netherlands, tracked on so
 
 Cyria, Mark Mywords, Hoani Teano
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ednoodle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ednoodle/)*

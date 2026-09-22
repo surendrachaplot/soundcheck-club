@@ -1,6 +1,6 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gare Porto, Porto on Fri, 25 Sept 2026.
+dtekk is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Gare Porto, Porto on Fri, 25 Sept 2026.
 
 dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 60 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Gare Porto, Porto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 
 Kovvalsky, Blazej Malinowski, MATRIX3K
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*

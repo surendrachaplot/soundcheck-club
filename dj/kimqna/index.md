@@ -1,6 +1,6 @@
 # Kim.Qna
 
-Kim.Qna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
+Kim.Qna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
 
 Kim.Qna is a techno and house artist tracked on soundcheck, with 187 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Zeemen, DJ Funny and Gumi. Next up: Traffic, Tokyo on Tue 22 Sept.
 
@@ -28,4 +28,4 @@ Kim.Qna is a techno and house artist tracked on soundcheck, with 187 sets logged
 
 Zeemen, DJ Funny, Gumi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*

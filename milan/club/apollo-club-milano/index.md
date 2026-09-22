@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "milanosulset FW Opening with Alinka" on Fri, 25 Sept 2026.
+Apollo Club Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "milanosulset FW Opening with Alinka" on Fri, 25 Sept 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alinka, Bitter Saint, GABRIELEFEDELE and GS.ELLE and 1 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -17,4 +17,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

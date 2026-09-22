@@ -1,6 +1,6 @@
 # TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "[8]: EUTHANASIA 11 YEARS with DJ WARZONE, bod [包家巷], Routine, 0111001101110100, AUTOCHRIST" on Sat, 10 Oct 2026.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "[8]: EUTHANASIA 11 YEARS with DJ WARZONE, bod [包家巷], Routine, 0111001101110100, AUTOCHRIST" on Sat, 10 Oct 2026.
 
 TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including 0111001101110100, Acid Souljah, Anthracene and auto_timer and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soun
 | Fri, 30 Oct 2026 | [8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN |  |
 | Fri, 6 Nov 2026 | [8]: POLE DANCE ALL NIGHT LONG |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*

@@ -1,14 +1,13 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at clubasia, Tokyo on Mon, 21 Sept 2026.
+Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BAR Inc, Osaka on Fri, 25 Sept 2026.
 
-Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: clubasia, Tokyo on Mon 21 Sept.
+Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: BAR Inc, Osaka on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | clubasia | Tokyo |
 | Fri, 25 Sept 2026 | BAR Inc | Osaka |
 | Fri, 9 Oct 2026 | Reelworks Denver | Denver |
 | Sat, 10 Oct 2026 | California Plaza | Los Angeles |
@@ -16,6 +15,7 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logg
 
 ## Recently played
 
+- clubasia, Tokyo — Mon, 21 Sept 2026
 - House of Yes, New York City — Sat, 12 Sept 2026
 - The Great Northern, San Francisco/Oakland — Sat, 5 Sept 2026
 - The North London Tavern, London — Sun, 30 Aug 2026
@@ -23,10 +23,9 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 95 sets logg
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
 - Flash, Washington DC — Sat, 11 Jul 2026
 - Lincoln Factory, Detroit — Mon, 25 May 2026
-- Halcyon, San Francisco/Oakland — Sun, 24 May 2026
 
 ## Shares bills with
 
 DJ Sneak, DJ M3, Mark Farina
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

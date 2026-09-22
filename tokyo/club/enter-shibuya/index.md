@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Room 303 Radio 2nd Anniversary" on Mon, 21 Sept 2026.
+Enter Shibuya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SHANTi" on Tue, 22 Sept 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including 1LDK, age (1), AKARI and akii and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including age (1), AKARI, AMIDAdrive and Andreas Vural and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Room 303 Radio 2nd Anniversary | 1LDK, Albino Sound, ChottoKimoi, SAMO (JP), Seimei, akii |
 | Tue, 22 Sept 2026 | SHANTi | AKARI, Shoma fr,dambosound, miute, ryuu (2) |
 | Thu, 24 Sept 2026 | KAFKA | fýsia, uuu7 |
 | Fri, 25 Sept 2026 | FFKT feat. Space Ghost | CALPISS, HARUTO, KOTSU, Space Ghost |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, 
 | Fri, 2 Oct 2026 | 松果体 =shoukatai= 6th Anniversary | Lisa Mizuno, NYAO, Toki Fuko, UG (1), age (1) |
 | Sat, 3 Oct 2026 | FOCUS | Blackship, Daitto, KUNPEI, LogicBeat, Louis Shannon, Mamazu, Rickey Shannon |
 | Wed, 7 Oct 2026 | CONNECT THE DOTS | AMIDAdrive, Labyrinthine, LØST, YUKIMASA |
+| Wed, 21 Oct 2026 | VAMOS | r1ku |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

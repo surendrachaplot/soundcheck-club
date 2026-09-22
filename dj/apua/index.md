@@ -1,6 +1,6 @@
 # Apua
 
-Apua is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
+Apua is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ZIRKA, Munich on Sat, 26 Sept 2026.
 
 Apua is a house and tech house artist based in Austria, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Frankfurt and London and 5 more. Often billed alongside Stipo, Reinhard Zach and Alice (AT). Next up: ZIRKA, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Apua is a house and tech house artist based in Austria, tracked on soundcheck, w
 
 Stipo, Reinhard Zach, Alice (AT)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*

@@ -1,6 +1,6 @@
 # Mirella Kroes
 
-Mirella Kroes is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
+Mirella Kroes is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
 
 Mirella Kroes is a techno and minimal techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Lyon and Oslo and 3 more. Often billed alongside Jeans (NL), Thoms Traxx and Bastienne. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mirella Kroes is a techno and minimal techno artist tracked on soundcheck, with 
 
 Jeans (NL), Thoms Traxx, Bastienne
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirellakroes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirellakroes/)*

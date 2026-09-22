@@ -1,8 +1,8 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
+Maurice Mino is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
-Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 149 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
+Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 150 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
 | Sat, 26 Sept 2026 | Bahnwärter Thiel | Munich |
+| Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Thu, 15 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
@@ -30,4 +31,4 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 
 Sin:port, Sabura, Konfusia
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

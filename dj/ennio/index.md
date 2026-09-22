@@ -1,6 +1,6 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
+ENNIO is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
 
 ENNIO is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside HAMY, Faerber and N.R.M. Next up: AMT, Berlin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ ENNIO is a techno and house artist tracked on soundcheck, with 78 sets logged ac
 
 HAMY, Faerber, N.R.M
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*

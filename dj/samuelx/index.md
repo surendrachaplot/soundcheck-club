@@ -1,6 +1,6 @@
 # Samuelx
 
-Samuelx is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
+Samuelx is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 29 Sept 2026.
 
 Samuelx is a techno and pop artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Angel Money and CYNTHESZR. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 29 Sept.
 
@@ -20,4 +20,4 @@ Samuelx is a techno and pop artist based in United States of America, tracked on
 
 ASTER (DJ), Angel Money, CYNTHESZR
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*

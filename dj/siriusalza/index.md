@@ -1,6 +1,6 @@
 # Sirius Alza
 
-Sirius Alza is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Nice N Sleazy, Glasgow on Thu, 29 Oct 2026.
+Sirius Alza is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Nice N Sleazy, Glasgow on Thu, 29 Oct 2026.
 
 Sirius Alza is a techno artist tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Julz Lever. Next up: Nice N Sleazy, Glasgow on Thu 29 Oct.
 
@@ -19,4 +19,4 @@ Sirius Alza is a techno artist tracked on soundcheck, with 3 sets logged across 
 
 Julz Lever
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siriusalza/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siriusalza/)*

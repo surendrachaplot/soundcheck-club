@@ -1,6 +1,6 @@
 # A.Well
 
-A.Well is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
+A.Well is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
 
 A.Well is a house and techno artist based in Australia, tracked on soundcheck, with 54 sets logged across Melbourne and Sydney. Often billed alongside Andrew88, Yugwan and J-OK. Next up: Glamorama, Melbourne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ A.Well is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Andrew88, Yugwan, J-OK
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.well/)*

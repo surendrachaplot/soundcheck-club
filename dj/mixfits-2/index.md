@@ -1,6 +1,6 @@
 # Mixfits (2)
 
-Mixfits (2) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 22 Sept 2026.
+Mixfits (2) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 22 Sept 2026.
 
 Mixfits (2) is a house and techno artist tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Jodie Mooney, TOOKAST and CLEAR UK. Next up: La Cheetah Club, Glasgow on Tue 22 Sept.
 
@@ -29,4 +29,4 @@ Mixfits (2) is a house and techno artist tracked on soundcheck, with 44 sets log
 
 Jodie Mooney, TOOKAST, CLEAR UK
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixfits-2/)*

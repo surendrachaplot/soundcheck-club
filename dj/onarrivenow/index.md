@@ -1,6 +1,6 @@
 # Onarrivenow
 
-Onarrivenow is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+Onarrivenow is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 Onarrivenow is a club and bass artist based in Greece, tracked on soundcheck, with 11 sets logged across Athens and Berlin. Often billed alongside OKO DJ, Eiger Drums Propaganda and Andreas Palmer. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Onarrivenow is a club and bass artist based in Greece, tracked on soundcheck, wi
 
 OKO DJ, Eiger Drums Propaganda, Andreas Palmer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onarrivenow/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onarrivenow/)*

@@ -1,6 +1,6 @@
 # Chinau
 
-Chinau is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OHM Town, Nantes on Sat, 10 Oct 2026.
+Chinau is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OHM Town, Nantes on Sat, 10 Oct 2026.
 
 Chinau is a house and disco artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Copenhagen and Geneva and 7 more. Often billed alongside Larry G, Knuckle G and Dielli. Next up: OHM Town, Nantes on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Chinau is a house and disco artist tracked on soundcheck, with 85 sets logged ac
 
 Larry G, Knuckle G, Dielli
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinau/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinau/)*

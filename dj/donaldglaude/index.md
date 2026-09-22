@@ -1,6 +1,6 @@
 # Donald Glaude
 
-Donald Glaude is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
+Donald Glaude is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
 
 Donald Glaude is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Losangeles, Miami and Munich and 5 more. Often billed alongside Megalina, Terry Jasinto and Thee-O. Next up: Soulwerks, Losangeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Donald Glaude is a house and tech house artist based in United States of America
 
 Megalina, Terry Jasinto, Thee-O
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*

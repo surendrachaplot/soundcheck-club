@@ -1,6 +1,6 @@
 # DJ Kuma
 
-DJ Kuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 10 Oct 2026.
+DJ Kuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 10 Oct 2026.
 
 DJ Kuma is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Berlin and Kualalumpur and 2 more. Often billed alongside Meliha, Alam and Obadius. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Kuma is a techno and house artist tracked on soundcheck, with 48 sets logged 
 
 Meliha, Alam, Obadius
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*

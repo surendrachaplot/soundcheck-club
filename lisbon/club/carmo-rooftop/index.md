@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "An Afternoon With: Dede / Gugga / Kee_ko" on Fri, 25 Sept 2026.
+Carmo Rooftop is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "An Afternoon With: Dede / Gugga / Kee_ko" on Fri, 25 Sept 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Dede, Kee_ko, La Gugga and Rui Alves. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -15,4 +15,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

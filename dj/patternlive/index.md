@@ -1,6 +1,6 @@
 # Pattern LIVE
 
-Pattern LIVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at E1, London on Thu, 29 Oct 2026.
+Pattern LIVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at E1, London on Thu, 29 Oct 2026.
 
 Pattern LIVE is a house and techno artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Mark Radford, NYCity Soundz and Sam Supplier. Next up: E1, London on Thu 29 Oct.
 
@@ -22,4 +22,4 @@ Pattern LIVE is a house and techno artist tracked on soundcheck, with 6 sets log
 
 Mark Radford, NYCity Soundz, Sam Supplier
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patternlive/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patternlive/)*

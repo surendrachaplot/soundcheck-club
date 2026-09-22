@@ -1,6 +1,6 @@
 # Spazio Cavea
 
-Spazio Cavea is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "1209 Trikk (INNERVISIONS) — ROME DEBUT" on Sat, 26 Sept 2026.
+Spazio Cavea is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "1209 Trikk (INNERVISIONS) — ROME DEBUT" on Sat, 26 Sept 2026.
 
 Spazio Cavea is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Marta Paradise and Trikk. Browse upcoming dates, start times and who's playing. via di Salone 290, Roma, 00131.
 
@@ -15,4 +15,4 @@ Spazio Cavea is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wit
 
 via di Salone 290, Roma, 00131, Rome
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/spazio-cavea/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/spazio-cavea/)*

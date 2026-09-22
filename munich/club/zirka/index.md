@@ -1,6 +1,6 @@
 # ZIRKA
 
-ZIRKA is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Contrasts In Sync" on Sat, 26 Sept 2026.
+ZIRKA is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Contrasts In Sync" on Sat, 26 Sept 2026.
 
 ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including 600-cell, Apua, Blond Felice and DJ Aquaplaning and 2 more. Browse upcoming dates, start times and who's playing. Dachauer Str. 110c, 80636 München, Germany.
 
@@ -14,4 +14,4 @@ ZIRKA is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line
 
 Dachauer Str. 110c, 80636 München, Germany, Munich
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zirka/)*

@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Sintetic Club: The Opening" on Thu, 24 Sept 2026.
+The Bassement is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sintetic Club: The Opening" on Thu, 24 Sept 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including DJ AMAZING, DVS1, DXPE (ES) and Feral and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -22,4 +22,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, 
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

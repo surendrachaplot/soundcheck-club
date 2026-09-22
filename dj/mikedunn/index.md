@@ -1,6 +1,6 @@
 # Mike Dunn
 
-Mike Dunn is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
+Mike Dunn is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
 
 Mike Dunn is a house and deep house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Navy Pier, Chicago on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mike Dunn is a house and deep house artist tracked on soundcheck, with 151 sets 
 
 Terry Hunter, Adorio, Gene Hunt
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*

@@ -1,6 +1,6 @@
 # Ollie Kirk
 
-Ollie Kirk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Macadam, Nantes on Sat, 17 Oct 2026.
+Ollie Kirk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Macadam, Nantes on Sat, 17 Oct 2026.
 
 Ollie Kirk is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Boulderhead, Hannd and Monika Taneska. Next up: Macadam, Nantes on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ollie Kirk is a house and techno artist tracked on soundcheck, with 32 sets logg
 
 Boulderhead, Hannd, Monika Taneska
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*

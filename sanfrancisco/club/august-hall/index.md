@@ -1,6 +1,6 @@
 # August Hall
 
-August Hall is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "ACTRESS" on Fri, 16 Oct 2026.
+August Hall is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "ACTRESS" on Fri, 16 Oct 2026.
 
 August Hall is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 420 Mason St, San Francisco, CA 94102, USA.
 
@@ -14,4 +14,4 @@ August Hall is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gi
 
 420 Mason St, San Francisco, CA 94102, USA, San Francisco/Oakland
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/august-hall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/august-hall/)*

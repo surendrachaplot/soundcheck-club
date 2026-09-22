@@ -1,6 +1,6 @@
 # Radio Hito
 
-Radio Hito is a Experimental and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Beursschouwburg, Brussels on Fri, 9 Oct 2026.
+Radio Hito is a Experimental and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Beursschouwburg, Brussels on Fri, 9 Oct 2026.
 
 Radio Hito is an experimental and electro artist based in Belgium, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Berlin and Bristol and 5 more. Often billed alongside Kyoka, Midori Hirano and Tomoko Sauvage. Next up: Beursschouwburg, Brussels on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Radio Hito is an experimental and electro artist based in Belgium, tracked on so
 
 Kyoka, Midori Hirano, Tomoko Sauvage
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radiohito/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/radiohito/)*

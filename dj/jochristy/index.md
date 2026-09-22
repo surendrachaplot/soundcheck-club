@@ -1,6 +1,6 @@
 # Jo Christy
 
-Jo Christy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club 77, Sydney on Sun, 11 Oct 2026.
+Jo Christy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club 77, Sydney on Sun, 11 Oct 2026.
 
 Jo Christy is a house and techno artist tracked on soundcheck, with 41 sets logged across Melbourne and Sydney. Often billed alongside Jesse DM, Simonetti and Slumdog. Next up: Club 77, Sydney on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Jo Christy is a house and techno artist tracked on soundcheck, with 41 sets logg
 
 Jesse DM, Simonetti, Slumdog
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jochristy/)*

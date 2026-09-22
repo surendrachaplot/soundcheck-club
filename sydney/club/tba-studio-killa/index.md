@@ -1,6 +1,6 @@
 # TBA - Studio Killa
 
-TBA - Studio Killa is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Gems & Jams 004" on Sat, 24 Oct 2026.
+TBA - Studio Killa is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Gems & Jams 004" on Sat, 24 Oct 2026.
 
 TBA - Studio Killa is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Bella Bella. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Studio Killa is a music venue in Sydney listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Gems & Jams 004 | Bella Bella |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-studio-killa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-studio-killa/)*

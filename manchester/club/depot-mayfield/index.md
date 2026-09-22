@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "WHP presents: Solomun" on Fri, 25 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "WHP presents: Solomun" on Fri, 25 Sept 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 20 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

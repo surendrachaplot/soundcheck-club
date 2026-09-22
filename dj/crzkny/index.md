@@ -1,6 +1,6 @@
 # CRZKNY
 
-CRZKNY is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
+CRZKNY is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
 
 CRZKNY is a footwork and bass artist tracked on soundcheck, with 8 sets logged across Osaka and Tokyo. Often billed alongside D.J.Fulltono, hOLysHiT and v.o.c tokyo. Next up: Conpass, Osaka on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ CRZKNY is a footwork and bass artist tracked on soundcheck, with 8 sets logged a
 
 D.J.Fulltono, hOLysHiT, v.o.c tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crzkny/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crzkny/)*

@@ -1,6 +1,6 @@
 # BASSKRAP
 
-BASSKRAP is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
+BASSKRAP is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
 
 BASSKRAP is a hardcore and techno artist tracked on soundcheck, with 33 sets logged across Bangkok, Nantes and Seoul. Often billed alongside Carbonatez, Pennywize and D.E.F. Next up: Luka, Seoul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ BASSKRAP is a hardcore and techno artist tracked on soundcheck, with 33 sets log
 
 Carbonatez, Pennywize, D.E.F
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basskrap/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basskrap/)*

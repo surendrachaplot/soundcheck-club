@@ -1,6 +1,6 @@
 # frail808
 
-frail808 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
+frail808 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
 
 frail808 is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago. Often billed alongside Jaggy, patrick conahan and Nolia. Next up: Podlasie Club, Chicago on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ frail808 is a techno and house artist based in United States of America, tracked
 
 Jaggy, patrick conahan, Nolia
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frail808/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frail808/)*

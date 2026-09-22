@@ -1,6 +1,6 @@
 # Südstern
 
-Südstern is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Südstern is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 Südstern is a house and techno artist tracked on soundcheck, with 11 sets logged across Berlin and Vienna. Often billed alongside Pilar Jordan, Lisatrix and MELLA MARA. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Südstern is a house and techno artist tracked on soundcheck, with 11 sets logge
 
 Pilar Jordan, Lisatrix, MELLA MARA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sudstern/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sudstern/)*

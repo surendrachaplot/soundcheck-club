@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Sacré présente: Happiness Therapy Takeover" on Fri, 25 Sept 2026.
+Sacré is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sacré présente: Happiness Therapy Takeover" on Fri, 25 Sept 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Bag Raiders, Bridge (NY), Bubs and Butch and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

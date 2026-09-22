@@ -1,6 +1,6 @@
 # 808 State
 
-808 State is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Fox and Firkin, London on Sat, 26 Sept 2026.
+808 State is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Fox and Firkin, London on Sat, 26 Sept 2026.
 
 808 State is an acid and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Graeme Park, Jon Dasilva and Justin Robertson. Next up: The Fox and Firkin, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@
 
 Graeme Park, Jon Dasilva, Justin Robertson
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/808state/)*

@@ -1,6 +1,6 @@
 # IceMorph
 
-IceMorph is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FORGE, Sheffield on Fri, 9 Oct 2026.
+IceMorph is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FORGE, Sheffield on Fri, 9 Oct 2026.
 
 IceMorph is a house and techno artist tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Ross From Friends, Bicep and DJ Stingray 313. Next up: FORGE, Sheffield on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ IceMorph is a house and techno artist tracked on soundcheck, with 28 sets logged
 
 Ross From Friends, Bicep, DJ Stingray 313
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icemorph/)*

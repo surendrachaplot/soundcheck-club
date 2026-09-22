@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Vino Disco SPECIAL WEDNESDAY" on Wed, 23 Sept 2026.
+Vino Disco is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Vino Disco SPECIAL WEDNESDAY" on Wed, 23 Sept 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including Flytz, Latour and Manuel Falardeau. Browse upcoming dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -17,4 +17,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

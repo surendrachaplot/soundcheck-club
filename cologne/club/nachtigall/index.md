@@ -1,6 +1,6 @@
 # Nachtigall
 
-Nachtigall is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "CRIBBELN" on Sat, 26 Sept 2026.
+Nachtigall is a music venue in Cologne with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "CRIBBELN" on Sat, 26 Sept 2026.
 
 Nachtigall is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, with line-ups including Gabriel Ananda and Rad.Lez. Browse upcoming dates, start times and who's playing. Körnerstr. 65, 50823 Köln, Germany.
 
@@ -16,4 +16,4 @@ Nachtigall is a music venue in Cologne listed on soundcheck. 3 upcoming gigs, wi
 
 Körnerstr. 65, 50823 Köln, Germany, Cologne
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtigall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtigall/)*

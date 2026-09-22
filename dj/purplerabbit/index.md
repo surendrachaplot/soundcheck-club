@@ -1,6 +1,6 @@
 # Purple Rabbit
 
-Purple Rabbit is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Purple Rabbit is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
 Purple Rabbit is a trance and techno artist based in South Korea, tracked on soundcheck, with 14 sets logged across Seoul. Often billed alongside Casepeat, M42 (1) and Kataploks. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Purple Rabbit is a trance and techno artist based in South Korea, tracked on sou
 
 Casepeat, M42 (1), Kataploks
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purplerabbit/)*

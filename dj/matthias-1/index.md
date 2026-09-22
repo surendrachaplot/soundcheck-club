@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Matthias (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 Matthias (1) is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Matthias (1) is a house and techno artist tracked on soundcheck, with 105 sets l
 
 So-Fi, Ancut, Brasi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

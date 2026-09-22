@@ -1,8 +1,8 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Stereo, Glasgow on Fri, 25 Sept 2026.
+MikeQ is a Ballroom and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stereo, Glasgow on Fri, 25 Sept 2026.
 
-MikeQ is a ballroom and club artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Stereo, Glasgow on Fri 25 Sept.
+MikeQ is a ballroom and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Stereo, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MikeQ is a ballroom and club artist based in United States of America, tracked o
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Stereo | Glasgow |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
+| Fri, 9 Oct 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MikeQ is a ballroom and club artist based in United States of America, tracked o
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

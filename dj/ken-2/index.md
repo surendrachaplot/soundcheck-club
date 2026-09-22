@@ -1,6 +1,6 @@
 # Ken (2)
 
-Ken (2) is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+Ken (2) is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 Ken (2) is a hip-hop and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Ghent, London, Melbourne and Tokyo. Often billed alongside Cheshire Yums, EMpTy and HARUTO. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ken (2) is a hip-hop and techno artist based in United States of America, tracke
 
 Cheshire Yums, EMpTy, HARUTO
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-2/)*

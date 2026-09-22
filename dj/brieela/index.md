@@ -1,6 +1,6 @@
 # Brieela
 
-Brieela is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 1 Oct 2026.
+Brieela is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 1 Oct 2026.
 
 Brieela is a house and tech house artist tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 3 more. Often billed alongside LM, ONA (SP) and HANIE. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Brieela is a house and tech house artist tracked on soundcheck, with 109 sets lo
 
 LM, ONA (SP), HANIE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brieela/)*

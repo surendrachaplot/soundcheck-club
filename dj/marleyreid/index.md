@@ -1,6 +1,6 @@
 # Marley Reid
 
-Marley Reid is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Village Underground, London on Sat, 17 Oct 2026.
+Marley Reid is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Village Underground, London on Sat, 17 Oct 2026.
 
 Marley Reid is a house and disco artist tracked on soundcheck, with 62 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Danandout, Levi Love and Bustin' Loose. Next up: Village Underground, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Marley Reid is a house and disco artist tracked on soundcheck, with 62 sets logg
 
 Danandout, Levi Love, Bustin' Loose
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*

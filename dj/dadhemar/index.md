@@ -1,6 +1,6 @@
 # d'Adhemar
 
-d'Adhemar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
+d'Adhemar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
 
 d'Adhemar is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Manchester, Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Clark Price, Aaron Clark and Honcho. Next up: H0L0, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ d'Adhemar is a house and techno artist based in United States of America, tracke
 
 Clark Price, Aaron Clark, Honcho
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadhemar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadhemar/)*

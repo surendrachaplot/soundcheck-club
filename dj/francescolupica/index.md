@@ -1,6 +1,6 @@
 # Francesco Lupica
 
-Francesco Lupica is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bunker, Turin on Sun, 27 Sept 2026.
+Francesco Lupica is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bunker, Turin on Sun, 27 Sept 2026.
 
 Francesco Lupica is a house and minimal artist tracked on soundcheck, with 28 sets logged across Barcelona and Turin. Often billed alongside Jonny N Travis, Paul Lution and Riverside (IT). Next up: Bunker, Turin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Francesco Lupica is a house and minimal artist tracked on soundcheck, with 28 se
 
 Jonny N Travis, Paul Lution, Riverside (IT)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescolupica/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescolupica/)*

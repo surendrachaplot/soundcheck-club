@@ -1,6 +1,6 @@
 # Agoostina
 
-Agoostina is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 7833 Soundlab, Barcelona on Fri, 25 Sept 2026.
+Agoostina is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 7833 Soundlab, Barcelona on Fri, 25 Sept 2026.
 
 Agoostina is a progressive house artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside GUS PICCO, Santi Gonzalez and Enzo Lautaro. Next up: 7833 Soundlab, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Agoostina is a progressive house artist tracked on soundcheck, with 11 sets logg
 
 GUS PICCO, Santi Gonzalez, Enzo Lautaro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*

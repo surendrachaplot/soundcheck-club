@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Freshly Baked - Basement Rave" on Fri, 25 Sept 2026.
+Patterns is a music venue in Brighton with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Freshly Baked - Basement Rave" on Fri, 25 Sept 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming gigs, with line-ups including Boris, Dusky, George FitzGerald and Girls of the Internet and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -12,15 +12,15 @@ Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, Yiota |
 | Fri, 2 Oct 2026 | club 2010: Freshers 2016 |  |
 | Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
+| Fri, 9 Oct 2026 | GRASSROOTS - FREE First Fridays - Jungle, Jungle Tek, Breaks - 09/10/26 | INKY MCKAY, Vergano |
 | Sat, 17 Oct 2026 | Sexy Lady Massive presents: The Massive Tour | Sexy Lady Massive |
 | Sat, 17 Oct 2026 | Memory Box with James Zabiela | James Zabiela, Robin Ball |
 | Sat, 24 Oct 2026 | p-rallel: Nevermind UK Tour | p-rallel |
 | Fri, 30 Oct 2026 | Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel | Lauren Steel, Lucas Alexander, RTK Tarantino |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
-| Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

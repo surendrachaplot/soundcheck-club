@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Audiodrome, Turin on Sat, 26 Sept 2026.
+Pegassi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Audiodrome, Turin on Sat, 26 Sept 2026.
 
 Pegassi is a techno and trance artist tracked on soundcheck, with 173 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Audiodrome, Turin on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 173 sets logge
 
 Helena Lauwaert, Anetha, Benwal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

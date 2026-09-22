@@ -1,6 +1,6 @@
 # Mount Kimbie
 
-Mount Kimbie is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Centre Point, Dublin on Sat, 3 Oct 2026.
+Mount Kimbie is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Centre Point, Dublin on Sat, 3 Oct 2026.
 
 Mount Kimbie is an electronica and house artist tracked on soundcheck, with 74 sets logged across Antwerp, Austin, Barcelona and Berlin and 36 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Centre Point, Dublin on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Mount Kimbie is an electronica and house artist tracked on soundcheck, with 74 s
 
 Kai Campos, Jayda G, Actress
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*

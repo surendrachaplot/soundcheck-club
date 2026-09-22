@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Ricardo Villalobos - Montréal" on Sat, 26 Sept 2026.
+Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Ricardo Villalobos - Montréal" on Sat, 26 Sept 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including 3Phaz, Aurora Halal, Dave P and Dopplereffekt and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -20,4 +20,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

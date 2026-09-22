@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Remember back 90s Edit" on Fri, 25 Sept 2026.
+Absturz is a music venue in Leipzig with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Remember back 90s Edit" on Fri, 25 Sept 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with line-ups including DZBL, Mariposa x Lyra, Oliotronix and Raphus and 1 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -19,4 +19,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming gigs, with 
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

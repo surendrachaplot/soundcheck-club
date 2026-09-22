@@ -1,6 +1,6 @@
 # ilium
 
-ilium is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Daphnia, Osaka on Fri, 9 Oct 2026.
+ilium is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Daphnia, Osaka on Fri, 9 Oct 2026.
 
 ilium is a techno and footwork artist based in Japan, tracked on soundcheck, with 3 sets logged across Kyoto and Osaka. Often billed alongside Aspara, Ryogo and C.Versa. Next up: Club Daphnia, Osaka on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ ilium is a techno and footwork artist based in Japan, tracked on soundcheck, wit
 
 Aspara, Ryogo, C.Versa
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilium/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilium/)*

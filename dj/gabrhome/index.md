@@ -1,6 +1,6 @@
 # Gab Rhome
 
-Gab Rhome is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Aire Miami, Miami on Fri, 25 Sept 2026.
+Gab Rhome is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Aire Miami, Miami on Fri, 25 Sept 2026.
 
 Gab Rhome is a house and deep house artist tracked on soundcheck, with 33 sets logged across Austin, Ibiza, Kualalumpur and Losangeles and 8 more. Often billed alongside Lee Burridge, Cirque Noir and Double Touch. Next up: Aire Miami, Miami on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Gab Rhome is a house and deep house artist tracked on soundcheck, with 33 sets l
 
 Lee Burridge, Cirque Noir, Double Touch
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrhome/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrhome/)*

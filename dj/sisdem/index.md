@@ -1,6 +1,6 @@
 # SIS:DEM
 
-SIS:DEM is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+SIS:DEM is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 SIS:DEM is a garage and bass artist tracked on soundcheck, with 18 sets logged across Bristol and London. Often billed alongside Lily Huu, Phia500 and Duality. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SIS:DEM is a garage and bass artist tracked on soundcheck, with 18 sets logged a
 
 Lily Huu, Phia500, Duality
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisdem/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisdem/)*

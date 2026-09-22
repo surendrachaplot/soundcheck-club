@@ -1,6 +1,6 @@
 # Qoqnut
 
-Qoqnut is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
+Qoqnut is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
 
 Qoqnut is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Manchester. Often billed alongside atalaya, Jess Rose and Deventi. Next up: The Yard, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Qoqnut is a techno and bass artist based in United Kingdom, tracked on soundchec
 
 atalaya, Jess Rose, Deventi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*

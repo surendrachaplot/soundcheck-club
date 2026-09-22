@@ -1,6 +1,6 @@
 # Encomio
 
-Encomio is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
+Encomio is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
 
 Encomio is a techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Jaap Liebregt, Kaikaina and Meda-Ava. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Encomio is a techno artist based in Netherlands, tracked on soundcheck, with 2 s
 
 Jaap Liebregt, Kaikaina, Meda-Ava
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encomio/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/encomio/)*

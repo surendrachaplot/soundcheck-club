@@ -1,6 +1,6 @@
 # Blame (EC)
 
-Blame (EC) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Eschschloraque, Berlin on Fri, 25 Sept 2026.
+Blame (EC) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Eschschloraque, Berlin on Fri, 25 Sept 2026.
 
 Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck, with 13 sets logged across Berlin and Miami. Often billed alongside Retronika, Jacob (UK) and San Dee. Next up: Eschschloraque, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Blame (EC) is a house and electro artist based in Ecuador, tracked on soundcheck
 
 Retronika, Jacob (UK), San Dee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*

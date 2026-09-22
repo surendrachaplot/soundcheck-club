@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary" on Sat, 26 Sept 2026.
+PIP Den Haag is a music venue in The Hague with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PIP presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary" on Sat, 26 Sept 2026.
 
 PIP Den Haag is a music venue in Thehague listed on soundcheck. 9 upcoming gigs, with line-ups including Intergalactic Gary, Jeans (NL), Lobster (NL) and mul/ANNA and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -22,4 +22,4 @@ PIP Den Haag is a music venue in Thehague listed on soundcheck. 9 upcoming gigs,
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

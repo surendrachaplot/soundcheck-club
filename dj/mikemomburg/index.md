@@ -1,6 +1,6 @@
 # Mike Momburg
 
-Mike Momburg is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Mike Momburg is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Mike Momburg is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Mike Momburg is a house and techno artist based in Germany, tracked on soundchec
 
 Domenik Deckert, DAVINA, Carl Bergé
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*

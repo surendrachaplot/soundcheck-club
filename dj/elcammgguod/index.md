@@ -1,6 +1,6 @@
 # elcammgguod
 
-elcammgguod is a Hip-Hop and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Nice N Sleazy, Glasgow on Sun, 4 Oct 2026.
+elcammgguod is a Hip-Hop and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Nice N Sleazy, Glasgow on Sun, 4 Oct 2026.
 
 elcammgguod is a hip-hop and ambient artist tracked on soundcheck, with 3 sets logged across Glasgow and London. Often billed alongside juju (juerrilla), Crash Estate and Falinee. Next up: Nice N Sleazy, Glasgow on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ elcammgguod is a hip-hop and ambient artist tracked on soundcheck, with 3 sets l
 
 juju (juerrilla), Crash Estate, Falinee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elcammgguod/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elcammgguod/)*

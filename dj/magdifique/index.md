@@ -1,6 +1,6 @@
 # Magdifique
 
-Magdifique is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Magdifique is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 Magdifique is a house and electro artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Pilar Jordan, Be.Bab and CATAWR. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -19,4 +19,4 @@ Magdifique is a house and electro artist tracked on soundcheck, with 3 sets logg
 
 Pilar Jordan, Be.Bab, CATAWR
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magdifique/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magdifique/)*

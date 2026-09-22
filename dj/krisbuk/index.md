@@ -1,6 +1,6 @@
 # KRIS B (UK)
 
-KRIS B (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
+KRIS B (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
 
 KRIS B (UK) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside CHAMBERS (UK), GRIGGY and AJ Jonesy. Next up: Stage and Radio, Manchester on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ KRIS B (UK) is a garage and house artist based in United Kingdom, tracked on sou
 
 CHAMBERS (UK), GRIGGY, AJ Jonesy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbuk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbuk/)*

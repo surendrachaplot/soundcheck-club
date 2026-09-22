@@ -1,6 +1,6 @@
 # TBA - Denver
 
-TBA - Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Regis B2B TERRY DONOVAN - ALL NIGHT LONG" on Sat, 10 Oct 2026.
+TBA - Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Regis B2B TERRY DONOVAN - ALL NIGHT LONG" on Sat, 10 Oct 2026.
 
 TBA - Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including Andrew Bon Bosher, D.Dan and Regis. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, w
 | Sat, 10 Oct 2026 | Regis B2B TERRY DONOVAN - ALL NIGHT LONG | Regis |
 | Sat, 12 Dec 2026 | TEKUNOMAMA PRESENTS D.Dan  | Andrew Bon Bosher, D.Dan |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*

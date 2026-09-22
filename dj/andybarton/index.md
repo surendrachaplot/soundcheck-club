@@ -1,6 +1,6 @@
 # Andy Barton
 
-Andy Barton is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
+Andy Barton is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
 
 Andy Barton is a techno and trance artist tracked on soundcheck, with 20 sets logged across Edinburgh and Glasgow. Often billed alongside DJ Smoker, Lovejoy and MrD. Next up: The Berkeley Suite, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Andy Barton is a techno and trance artist tracked on soundcheck, with 20 sets lo
 
 DJ Smoker, Lovejoy, MrD
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andybarton/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andybarton/)*

@@ -1,6 +1,6 @@
 # Strachkvas
 
-Strachkvas is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cross Club, Prague on Fri, 16 Oct 2026.
+Strachkvas is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cross Club, Prague on Fri, 16 Oct 2026.
 
 Strachkvas is an electronic artist tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside Hrrhrrrrhrrr, Orinoko and Takaaki Itoh. Next up: Cross Club, Prague on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Strachkvas is an electronic artist tracked on soundcheck, with 3 sets logged acr
 
 Hrrhrrrrhrrr, Orinoko, Takaaki Itoh
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strachkvas/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strachkvas/)*

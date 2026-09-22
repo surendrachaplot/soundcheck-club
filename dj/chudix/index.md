@@ -1,6 +1,6 @@
 # Chudix
 
-Chudix is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Chudix is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
 
 Chudix is a house and disco artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Kirilski, ANTO ZAGU and Alev Tav. Next up: Loop51, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Chudix is a house and disco artist tracked on soundcheck, with 2 sets logged acr
 
 Kirilski, ANTO ZAGU, Alev Tav
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chudix/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chudix/)*

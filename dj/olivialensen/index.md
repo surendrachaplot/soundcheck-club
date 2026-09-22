@@ -1,6 +1,6 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+OLIVIA LENSEN is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
 OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Cologne, Rotterdam and Thehague and 1 more. Often billed alongside Lisa Korver, DART and Freddi. Next up: SISSI'S Amsterdam, Amsterdam on Fri 9 Oct.
 
@@ -32,4 +32,4 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, tracked on soun
 
 Lisa Korver, DART, Freddi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

@@ -1,6 +1,6 @@
 # Oxtazz
 
-Oxtazz is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at B21, Brussels on Sat, 3 Oct 2026.
+Oxtazz is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at B21, Brussels on Sat, 3 Oct 2026.
 
 Oxtazz is a techno and minimal techno artist tracked on soundcheck, with 36 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Auk., ATARAXY and Billy Boy. Next up: B21, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Oxtazz is a techno and minimal techno artist tracked on soundcheck, with 36 sets
 
 Auk., ATARAXY, Billy Boy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxtazz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxtazz/)*

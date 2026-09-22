@@ -1,6 +1,6 @@
 # The Ego (DJ)
 
-The Ego (DJ) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Goya Social Club, Madrid on Thu, 24 Sept 2026.
+The Ego (DJ) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Goya Social Club, Madrid on Thu, 24 Sept 2026.
 
 The Ego (DJ) is a house and tech house artist tracked on soundcheck, with 9 sets logged across Berlin and Madrid. Often billed alongside Mraj Nite, Lucian ODP and BRINGAS. Next up: Goya Social Club, Madrid on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ The Ego (DJ) is a house and tech house artist tracked on soundcheck, with 9 sets
 
 Mraj Nite, Lucian ODP, BRINGAS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theegodj/)*

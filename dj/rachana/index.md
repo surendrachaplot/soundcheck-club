@@ -1,6 +1,6 @@
 # Rachana
 
-Rachana is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 26 Sept 2026.
+Rachana is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 26 Sept 2026.
 
 Rachana is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles and Sanfrancisco. Often billed alongside Bakh Inamov, Beyond the Black Hole and Buttechno. Next up: TBA - DTLA, Losangeles on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Rachana is an ambient and experimental artist based in United States of America,
 
 Bakh Inamov, Beyond the Black Hole, Buttechno
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachana/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachana/)*

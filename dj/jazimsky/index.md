@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Palais, London on Fri, 25 Sept 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Palais, London on Fri, 25 Sept 2026.
 
 JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 28 sets logged across Barcelona, Brighton, Bristol and London and 3 more. Often billed alongside SKALAH (UK), Plastician and Sir Spyro. Next up: Palais, London on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 28 sets logge
 
 SKALAH (UK), Plastician, Sir Spyro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

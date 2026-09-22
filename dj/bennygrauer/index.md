@@ -1,6 +1,6 @@
 # Benny Grauer
 
-Benny Grauer is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 25 Sept 2026.
+Benny Grauer is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 25 Sept 2026.
 
 Benny Grauer is a tech house and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Andre Kronert, Der Dritte Raum and Mar-C. Next up: ciao ciao Bar, Berlin on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Benny Grauer is a tech house and house artist tracked on soundcheck, with 3 sets
 
 Andre Kronert, Der Dritte Raum, Mar-C
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennygrauer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennygrauer/)*

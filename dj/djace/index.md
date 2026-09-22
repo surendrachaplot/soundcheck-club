@@ -1,6 +1,6 @@
 # DJ Ace
 
-DJ Ace is a R&B and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Marble Bar, Detroit on Thu, 24 Sept 2026.
+DJ Ace is a R&B and Afro House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Marble Bar, Detroit on Thu, 24 Sept 2026.
 
 DJ Ace is a r&b and afro house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Ibiza and London. Often billed alongside Supa D, DJ Godfather and Pioneer. Next up: Marble Bar, Detroit on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ DJ Ace is a r&b and afro house artist based in United States of America, tracked
 
 Supa D, DJ Godfather, Pioneer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*

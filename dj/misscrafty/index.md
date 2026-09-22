@@ -1,6 +1,6 @@
 # Miss Crafty
 
-Miss Crafty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Stud, San Francisco/Oakland on Thu, 24 Sept 2026.
+Miss Crafty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Stud, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 Miss Crafty is a techno and house artist tracked on soundcheck, with 49 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside SNAQ, Romii and JustJovani. Next up: The Stud, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Miss Crafty is a techno and house artist tracked on soundcheck, with 49 sets log
 
 SNAQ, Romii, JustJovani
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*

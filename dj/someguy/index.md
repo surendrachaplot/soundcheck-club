@@ -1,6 +1,6 @@
 # SOMEGUY
 
-SOMEGUY is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
+SOMEGUY is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
 
 SOMEGUY is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Ibiza, London and Sheffield. Often billed alongside David Penn, F Red and Garage. Next up: 93 Feet East, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ SOMEGUY is a garage and drum & bass artist based in United Kingdom, tracked on s
 
 David Penn, F Red, Garage
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/someguy/)*

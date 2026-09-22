@@ -1,6 +1,6 @@
 # Tiga
 
-Tiga is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OCZKI, Warsaw on Sat, 3 Oct 2026.
+Tiga is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OCZKI, Warsaw on Sat, 3 Oct 2026.
 
 Tiga is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 40 more. Often billed alongside Avalon Emerson, DJ Holographic and DJ Tennis. Next up: OCZKI, Warsaw on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Tiga is a techno and house artist tracked on soundcheck, with 120 sets logged ac
 
 Avalon Emerson, DJ Holographic, DJ Tennis
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

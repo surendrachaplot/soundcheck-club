@@ -1,6 +1,6 @@
 # Just Rory
 
-Just Rory is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
+Just Rory is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
 
 Just Rory is a house and disco artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Anna Gram, Calzo FM and Hayley Zalassi. Next up: The Art School, Glasgow on Wed 23 Sept.
 
@@ -20,4 +20,4 @@ Just Rory is a house and disco artist based in United Kingdom, tracked on soundc
 
 Anna Gram, Calzo FM, Hayley Zalassi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justrory/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justrory/)*

@@ -1,6 +1,6 @@
 # Marco Zenker
 
-Marco Zenker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
+Marco Zenker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
 
 Marco Zenker is a trance and techno artist tracked on soundcheck, with 2 sets logged across Munich and Strasbourg. Often billed alongside Akua, Dario Zenker and EUROMAX DJ. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Marco Zenker is a trance and techno artist tracked on soundcheck, with 2 sets lo
 
 Akua, Dario Zenker, EUROMAX DJ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcozenker/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcozenker/)*

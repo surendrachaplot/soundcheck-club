@@ -1,6 +1,6 @@
 # Begrüntes Haus
 
-Begrüntes Haus is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hardcore Yoga Nidra — Black Square" on Sat, 3 Oct 2026.
+Begrüntes Haus is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hardcore Yoga Nidra — Black Square" on Sat, 3 Oct 2026.
 
 Begrüntes Haus is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Begrüntes Haus is a music venue in Bangkok listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Hardcore Yoga Nidra — Black Square |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/begr-ntes-haus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/begr-ntes-haus/)*

@@ -1,6 +1,6 @@
 # OKO (1)
 
-OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
+OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
 
 OKO (1) is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Bristol, Cologne, Edinburgh and Frankfurt and 6 more. Often billed alongside Diagnostix, Duskee and A Little Sound. Next up: Adam Riese, Frankfurt on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ OKO (1) is a drum & bass and jungle artist tracked on soundcheck, with 20 sets l
 
 Diagnostix, Duskee, A Little Sound
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*

@@ -1,6 +1,6 @@
 # Zuzana Hakl
 
-Zuzana Hakl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Zuzana Hakl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Zuzana Hakl is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 69 sets logged across Lisbon and Prague. Often billed alongside SJ Yellow, TerminusTechnikus and Epoché. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Zuzana Hakl is a techno and trance artist based in Czech Republic, tracked on so
 
 SJ Yellow, TerminusTechnikus, Epoché
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*

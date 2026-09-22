@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Lewis Fautzi is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
 Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundchec
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

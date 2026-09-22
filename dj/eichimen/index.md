@@ -1,6 +1,6 @@
 # EICHIMEN
 
-EICHIMEN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Area_osaka, Osaka on Mon, 28 Sept 2026.
+EICHIMEN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Area_osaka, Osaka on Mon, 28 Sept 2026.
 
 EICHIMEN is a techno and tech house artist based in Japan, tracked on soundcheck, with 22 sets logged across Osaka. Often billed alongside yu-more, KENTARO and WOLT. Next up: Area_osaka, Osaka on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ EICHIMEN is a techno and tech house artist based in Japan, tracked on soundcheck
 
 yu-more, KENTARO, WOLT
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eichimen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eichimen/)*

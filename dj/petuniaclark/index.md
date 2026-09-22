@@ -1,6 +1,6 @@
 # Petunia Clark
 
-Petunia Clark is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Under Bridge Madrid, Madrid on Fri, 25 Sept 2026.
+Petunia Clark is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Under Bridge Madrid, Madrid on Fri, 25 Sept 2026.
 
 Petunia Clark is a house and electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Cerescente, ESTRELLA OR and Falsx. Next up: Under Bridge Madrid, Madrid on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Petunia Clark is a house and electronica artist based in Spain, tracked on sound
 
 Cerescente, ESTRELLA OR, Falsx
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petuniaclark/)*

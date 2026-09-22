@@ -1,6 +1,6 @@
 # Fonda Theatre
 
-Fonda Theatre is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Six Sex" on Tue, 22 Sept 2026.
+Fonda Theatre is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Six Sex" on Tue, 22 Sept 2026.
 
 Fonda Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming gigs, with line-ups including DJ MANDY, oskar med k, Six Sex and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
@@ -19,4 +19,4 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming gi
 
 6126 Hollywood Blvd, Hollywood, CA 90028, Los Angeles
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/fonda-theatre/)*

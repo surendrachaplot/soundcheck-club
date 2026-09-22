@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Fri, 6 Nov 2026.
+Gilles Peterson is a Jazz and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stadtgarten Konzertsaal / Cafe, Cologne on Fri, 6 Nov 2026.
 
 Gilles Peterson is a jazz and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Gilles Peterson is a jazz and house artist tracked on soundcheck, with 78 sets l
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

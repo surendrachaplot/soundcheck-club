@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 22 Sept 2026.
+Süss War Gestern is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 22 Sept 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Better Call Paul, Bruder Jakob, Dicso_Muzek and Gregor Rost and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 6 upcoming gi
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

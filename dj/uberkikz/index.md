@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 ÜBERKIKZ is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside future.666, DJ Hyperdrive and Adrian Mills. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -34,4 +34,4 @@
 
 future.666, DJ Hyperdrive, Adrian Mills
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

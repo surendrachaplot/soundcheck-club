@@ -1,6 +1,6 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "NEW BEGINNINGS SUMMER CLOSING PARTY" on Sun, 20 Sept 2026.
+Two Tribes CAMPFIRE is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "NEW BEGINNINGS SUMMER CLOSING PARTY" on Sun, 20 Sept 2026.
 
 Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including B2B The Movement, Bushman (UK), Cecilia Ena and Christian J and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
@@ -19,4 +19,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 6 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

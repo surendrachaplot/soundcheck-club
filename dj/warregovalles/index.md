@@ -1,6 +1,6 @@
 # Warrego Valles
 
-Warrego Valles is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Triangle, Osaka on Fri, 25 Sept 2026.
+Warrego Valles is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Triangle, Osaka on Fri, 25 Sept 2026.
 
 Warrego Valles is an experimental and techno artist tracked on soundcheck, with 4 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside Ascalypso, Chloé Juliette and HD (US). Next up: Triangle, Osaka on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Warrego Valles is an experimental and techno artist tracked on soundcheck, with 
 
 Ascalypso, Chloé Juliette, HD (US)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warregovalles/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warregovalles/)*

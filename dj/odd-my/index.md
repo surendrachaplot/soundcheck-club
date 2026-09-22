@@ -1,6 +1,6 @@
 # Odd (MY)
 
-Odd (MY) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Odd (MY) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
 Odd (MY) is a techno and house artist based in Malaysia, tracked on soundcheck, with 42 sets logged across Kualalumpur. Often billed alongside Alam, JonnyVicious and Meliha. Next up: TBA - Mantra Rooftop Bar & Lounge, Kualalumpur on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Odd (MY) is a techno and house artist based in Malaysia, tracked on soundcheck, 
 
 Alam, JonnyVicious, Meliha
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*

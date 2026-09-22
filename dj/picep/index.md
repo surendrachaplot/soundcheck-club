@@ -1,6 +1,6 @@
 # Picep
 
-Picep is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Jungla London, London on Fri, 9 Oct 2026.
+Picep is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Jungla London, London on Fri, 9 Oct 2026.
 
 Picep is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across London. Often billed alongside Dimanté, MEERA (UK) and Aur0m. Next up: Jungla London, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Picep is a tech house and afro house artist based in United Kingdom, tracked on 
 
 Dimanté, MEERA (UK), Aur0m
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

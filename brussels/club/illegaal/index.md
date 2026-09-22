@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GROOVE  LAB  //  TAKE OVER" on Fri, 25 Sept 2026.
+Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GROOVE  LAB  //  TAKE OVER" on Fri, 25 Sept 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including ATARAXY, bemira, Blazin' Bomzai and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -20,4 +20,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

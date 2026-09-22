@@ -1,6 +1,6 @@
 # RICK E
 
-RICK E is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
+RICK E is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
 RICK E is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Tim Dauz, Vans and The King Diva. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
 
@@ -24,4 +24,4 @@ RICK E is a house and tech house artist based in United States of America, track
 
 Tim Dauz, Vans, The King Diva
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricke/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricke/)*

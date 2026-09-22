@@ -1,6 +1,6 @@
 # Chausseestrasse 131
 
-Chausseestrasse 131 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "The Night of Many / Burre x forever unlimited" on Sat, 10 Oct 2026.
+Chausseestrasse 131 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "The Night of Many / Burre x forever unlimited" on Sat, 10 Oct 2026.
 
 Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including CUNT REMEMBER, Deli Girls, Dmytro Filatov and PAX (2) and 1 more. Browse upcoming dates, start times and who's playing. Chausseestrasse 131, 10115 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 Chausseestrasse 131, 10115 Berlin, Germany, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*

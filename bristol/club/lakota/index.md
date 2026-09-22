@@ -1,14 +1,13 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "REVIVE" on Mon, 21 Sept 2026.
+Lakota is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Wide Eyes Tuesdays" on Tue, 22 Sept 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Fabio Santos, hiRobbie, Judge Jules and NADO and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including Fabio Santos, hiRobbie, Judge Jules and Photek and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | REVIVE | NADO |
 | Tue, 22 Sept 2026 | Wide Eyes Tuesdays |  |
 | Wed, 23 Sept 2026 | LowEndLaw presents: Fabio Santos and hiRobbie | Fabio Santos, hiRobbie |
 | Fri, 25 Sept 2026 | ACCESS: Drum & Bass Free Rave |  |
@@ -18,9 +17,10 @@ Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with 
 | Fri, 23 Oct 2026 | Alternate presents Photek & Total Science | Photek, Total Science |
 | Sat, 24 Oct 2026 | The Eminem Experience in Bristol |  |
 | Sat, 24 Oct 2026 | ACCESS: UKG Free Rave |  |
+| Thu, 29 Oct 2026 | Cirque Du Soul: Bristol // Halloween |  |
 
 ## Address
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

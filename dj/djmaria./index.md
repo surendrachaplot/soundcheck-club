@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+DJ MARIA. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
 DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 147 sets log
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

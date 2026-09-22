@@ -1,6 +1,6 @@
 # Travis Allen
 
-Travis Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
+Travis Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Radio Radio, Amsterdam on Thu, 24 Sept 2026.
 
 Travis Allen is a house and deep house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Rotterdam and Stockholm and 1 more. Often billed alongside Raven Karijo, Rob Black and Alex Coly. Next up: Radio Radio, Amsterdam on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Travis Allen is a house and deep house artist based in Netherlands, tracked on s
 
 Raven Karijo, Rob Black, Alex Coly
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/travisallen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/travisallen/)*

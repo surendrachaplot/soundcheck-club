@@ -1,6 +1,6 @@
 # Ta1da
 
-Ta1da is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Trekanten, Oslo on Sat, 17 Oct 2026.
+Ta1da is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Trekanten, Oslo on Sat, 17 Oct 2026.
 
 Ta1da is a house and ghetto tech artist based in Norway, tracked on soundcheck, with 9 sets logged across Helsinki and Oslo. Often billed alongside Loveshy, Morstaq and NASHA. Next up: Trekanten, Oslo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ta1da is a house and ghetto tech artist based in Norway, tracked on soundcheck, 
 
 Loveshy, Morstaq, NASHA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*

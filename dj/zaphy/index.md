@@ -1,6 +1,6 @@
 # Zaphy
 
-Zaphy is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at John Doe, Amsterdam on Sat, 3 Oct 2026.
+Zaphy is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at John Doe, Amsterdam on Sat, 3 Oct 2026.
 
 Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Bucharest and London and 2 more. Often billed alongside Robin Hastings, Arok Shiva and DMS1N3RGY. Next up: John Doe, Amsterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Zaphy is a techno and acid artist based in Chile, tracked on soundcheck, with 27
 
 Robin Hastings, Arok Shiva, DMS1N3RGY
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaphy/)*

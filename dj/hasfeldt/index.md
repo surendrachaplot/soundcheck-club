@@ -1,6 +1,6 @@
 # Hasfeldt
 
-Hasfeldt is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The M1 and M2 Lines on the Copenhagen Metro, Copenhagen on Sun, 27 Sept 2026.
+Hasfeldt is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The M1 and M2 Lines on the Copenhagen Metro, Copenhagen on Sun, 27 Sept 2026.
 
 Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Lisbon and London and 3 more. Often billed alongside Ryong, Franarchy and Alto Aria. Next up: The M1 and M2 Lines on the Copenhagen Metro, Copenhagen on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soun
 
 Ryong, Franarchy, Alto Aria
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*

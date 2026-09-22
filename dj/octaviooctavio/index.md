@@ -1,6 +1,6 @@
 # Octavio Octavio
 
-Octavio Octavio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
+Octavio Octavio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Officine Grandi Riparazioni, Turin on Fri, 9 Oct 2026.
 
 Octavio Octavio is a techno and house artist tracked on soundcheck, with 20 sets logged across Barcelona, Milan and Turin. Often billed alongside HolyU, Emanuele Barilli and Dualismo Sound. Next up: Officine Grandi Riparazioni, Turin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Octavio Octavio is a techno and house artist tracked on soundcheck, with 20 sets
 
 HolyU, Emanuele Barilli, Dualismo Sound
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaviooctavio/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaviooctavio/)*

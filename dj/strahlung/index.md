@@ -1,6 +1,6 @@
 # Strahlung
 
-Strahlung is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at M.O.T, London on Sat, 7 Nov 2026.
+Strahlung is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at M.O.T, London on Sat, 7 Nov 2026.
 
 Strahlung is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Istanbul and London. Often billed alongside Perc, Potkid and AIRCRAFT UPON TRAITORS. Next up: M.O.T, London on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Strahlung is a techno and industrial artist tracked on soundcheck, with 3 sets l
 
 Perc, Potkid, AIRCRAFT UPON TRAITORS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strahlung/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strahlung/)*

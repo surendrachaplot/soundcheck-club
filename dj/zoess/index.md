@@ -1,6 +1,6 @@
 # ZOESS
 
-ZOESS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - The Random Club, Rome on Wed, 23 Sept 2026.
+ZOESS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - The Random Club, Rome on Wed, 23 Sept 2026.
 
 ZOESS is a trance and techno artist tracked on soundcheck, with 3 sets logged across Rome. Often billed alongside Lady Maru, Max Raponi and MØSUBI. Next up: TBA - The Random Club, Rome on Wed 23 Sept.
 
@@ -19,4 +19,4 @@ ZOESS is a trance and techno artist tracked on soundcheck, with 3 sets logged ac
 
 Lady Maru, Max Raponi, MØSUBI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoess/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoess/)*

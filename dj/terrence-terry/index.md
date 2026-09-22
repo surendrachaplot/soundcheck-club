@@ -1,6 +1,6 @@
 # Terence :Terry:
 
-Terence :Terry: is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Subcero Club, Madrid on Fri, 16 Oct 2026.
+Terence :Terry: is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Subcero Club, Madrid on Fri, 16 Oct 2026.
 
 Terence :Terry: is an electronica and house artist based in France, tracked on soundcheck, with 5 sets logged across Barcelona and Madrid. Often billed alongside Karjala, Apollonia and Foie Gras. Next up: Subcero Club, Madrid on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Terence :Terry: is an electronica and house artist based in France, tracked on s
 
 Karjala, Apollonia, Foie Gras
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrence-terry/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrence-terry/)*

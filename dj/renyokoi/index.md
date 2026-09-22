@@ -1,6 +1,6 @@
 # Ren Yokoi
 
-Ren Yokoi is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Oath, Tokyo on Thu, 24 Sept 2026.
+Ren Yokoi is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Oath, Tokyo on Thu, 24 Sept 2026.
 
 Ren Yokoi is a house and hip-hop artist tracked on soundcheck, with 249 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Omar Santis, TAIKI and Louis Shannon. Next up: Oath, Tokyo on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Ren Yokoi is a house and hip-hop artist tracked on soundcheck, with 249 sets log
 
 Omar Santis, TAIKI, Louis Shannon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renyokoi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renyokoi/)*

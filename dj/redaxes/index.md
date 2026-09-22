@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Floyd, Miami on Thu, 15 Oct 2026.
+Red Axes is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Floyd, Miami on Thu, 15 Oct 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Tennis, Bakke and KI/KI. Next up: Floyd, Miami on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Red Axes is a techno and house artist tracked on soundcheck, with 78 sets logged
 
 DJ Tennis, Bakke, KI/KI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

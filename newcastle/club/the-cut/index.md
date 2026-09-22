@@ -1,6 +1,6 @@
 # The Cut
 
-The Cut is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "theCUT presents Douvelle19" on Fri, 16 Oct 2026.
+The Cut is a music venue in Newcastle with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "theCUT presents Douvelle19" on Fri, 16 Oct 2026.
 
 The Cut is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs, with line-ups including Danny Jarvis, Douvelle19 and GBSN. Browse upcoming dates, start times and who's playing. St Nicolas Street; Newcastle upon tyne; NE1 3BB.
 
@@ -15,4 +15,4 @@ The Cut is a music venue in Newcastle listed on soundcheck. 2 upcoming gigs, wit
 
 St Nicolas Street; Newcastle upon tyne; NE1 3BB, Newcastle
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*

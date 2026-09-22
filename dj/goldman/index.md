@@ -1,6 +1,6 @@
 # Goldman
 
-Goldman is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+Goldman is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 Goldman is a bass and footwork artist tracked on soundcheck, with 3 sets logged across Bristol and London. Often billed alongside CRAIC DAVID, Big Dope P and CA$TLE. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Goldman is a bass and footwork artist tracked on soundcheck, with 3 sets logged 
 
 CRAIC DAVID, Big Dope P, CA$TLE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldman/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldman/)*

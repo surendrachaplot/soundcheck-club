@@ -1,6 +1,6 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Bassiani x Nachti" on Fri, 25 Sept 2026.
+Bassiani is a music venue in Tbilisi with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Bassiani x Nachti" on Fri, 25 Sept 2026.
 
 Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming gigs, with line-ups including 3AM, Anthony Rother, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
@@ -20,4 +20,4 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 7 upcoming gigs, with
 
 Tsereteli street 2 , Tbilisi, Georgia, Tbilisi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/bassiani/)*

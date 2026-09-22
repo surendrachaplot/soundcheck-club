@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "OVERDRIVE" on Thu, 22 Oct 2026.
+Bsmt 254 is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "OVERDRIVE" on Thu, 22 Oct 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including AUX_ID, Babies R Stupid, Marivs and Milo Raad and 1 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -16,4 +16,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

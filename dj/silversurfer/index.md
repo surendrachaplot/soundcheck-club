@@ -1,6 +1,6 @@
 # Silversurfer
 
-Silversurfer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
+Silversurfer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DNA. CLUB, Berlin on Sat, 3 Oct 2026.
 
 Silversurfer is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam and Berlin. Often billed alongside Kiki, AAVA and BARROSKINI. Next up: DNA. CLUB, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Silversurfer is a techno and house artist based in Germany, tracked on soundchec
 
 Kiki, AAVA, BARROSKINI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silversurfer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silversurfer/)*

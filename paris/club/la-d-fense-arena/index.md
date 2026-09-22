@@ -1,6 +1,6 @@
 # La Défense Arena
 
-La Défense Arena is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Anyma" on Sat, 12 Dec 2026.
+La Défense Arena is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Anyma" on Sat, 12 Dec 2026.
 
 La Défense Arena is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Anyma. Browse upcoming dates, start times and who's playing. 99 Jard. de l'Arche, 92000 Nanterre.
 
@@ -14,4 +14,4 @@ La Défense Arena is a music venue in Paris listed on soundcheck. 1 upcoming gig
 
 99 Jard. de l'Arche, 92000 Nanterre, Paris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-d-fense-arena/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-d-fense-arena/)*

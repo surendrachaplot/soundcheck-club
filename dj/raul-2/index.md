@@ -1,6 +1,6 @@
 # Raul (2)
 
-Raul (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
+Raul (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 Raul (2) is a techno and house artist tracked on soundcheck, with 5 sets logged across Miami and Tokyo. Often billed alongside Dani Savant, DANA NADA and Shelly. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Raul (2) is a techno and house artist tracked on soundcheck, with 5 sets logged 
 
 Dani Savant, DANA NADA, Shelly
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raul-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raul-2/)*

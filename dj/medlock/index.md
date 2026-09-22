@@ -1,6 +1,6 @@
 # Medlock
 
-Medlock is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Yes, Manchester on Sat, 28 Nov 2026.
+Medlock is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Yes, Manchester on Sat, 28 Nov 2026.
 
 Medlock is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, London, Manchester and Milan. Often billed alongside colell, HØLEIGH and KD22LR. Next up: Yes, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Medlock is a trance and techno artist based in United Kingdom, tracked on soundc
 
 colell, HØLEIGH, KD22LR
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*

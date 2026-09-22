@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SOJOURN FESTIVAL 2026" on Fri, 25 Sept 2026.
+131 Mccormack St is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SOJOURN FESTIVAL 2026" on Fri, 25 Sept 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including AADJA, Ahadadream, Bambii and Blkvirgo and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -16,4 +16,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

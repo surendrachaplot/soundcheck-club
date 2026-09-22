@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Brunello is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Austin, Chicago and Ibiza and 5 more. Often billed alongside VTSS, Beltran and Ben Sterling. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 VTSS, Beltran, Ben Sterling
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

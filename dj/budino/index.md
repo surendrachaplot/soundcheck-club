@@ -1,6 +1,6 @@
 # Budino
 
-Budino is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
+Budino is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
 
 Budino is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
 
@@ -36,4 +36,4 @@ Budino is a house and techno artist tracked on soundcheck, with 159 sets logged 
 
 Gabrielle Kwarteng, Massimiliano Pagliara, Cormac
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

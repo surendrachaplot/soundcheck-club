@@ -1,6 +1,6 @@
 # P Money
 
-P Money is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Guesthouse, Bucharest on Fri, 2 Oct 2026.
+P Money is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Guesthouse, Bucharest on Fri, 2 Oct 2026.
 
 P Money is a drum & bass and grime artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 18 more. Often billed alongside Whiney, Flava D and Degs. Next up: Club Guesthouse, Bucharest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ P Money is a drum & bass and grime artist tracked on soundcheck, with 68 sets lo
 
 Whiney, Flava D, Degs
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*

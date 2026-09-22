@@ -1,6 +1,6 @@
 # Mowie
 
-Mowie is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Distillery N17, London on Sun, 27 Sept 2026.
+Mowie is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Distillery N17, London on Sun, 27 Sept 2026.
 
 Mowie is a techno and hardcore artist based in Italy, tracked on soundcheck, with 13 sets logged across London and Montreal. Often billed alongside Outback, the bald girl and Casa Kobrae. Next up: Distillery N17, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mowie is a techno and hardcore artist based in Italy, tracked on soundcheck, wit
 
 Outback, the bald girl, Casa Kobrae
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie/)*

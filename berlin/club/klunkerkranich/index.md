@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MONDAY ROAST w. P.Toile" on Mon, 21 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Tanzen3000 x Klunkerkranich: Mina (UK)" on Tue, 22 Sept 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including aqwapi, Be.Bab, CATAWR and cee_ohh and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including aqwapi, Be.Bab, CATAWR and cee_ohh and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | MONDAY ROAST w. P.Toile | P.Toile |
 | Tue, 22 Sept 2026 | Tanzen3000 x Klunkerkranich: Mina (UK) | Mina |
 | Tue, 22 Sept 2026 | BLAUES STÜNDCHEN w. Quinten McKee | Quinten McKee |
 | Thu, 24 Sept 2026 | Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty | Magician On Duty, Mia Kober, Pysh, kayBe (UK) |
@@ -19,4 +18,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

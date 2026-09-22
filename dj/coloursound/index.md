@@ -1,6 +1,6 @@
 # Coloursound
 
-Coloursound is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 9 Oct 2026.
+Coloursound is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 9 Oct 2026.
 
 Coloursound is a techno and deep house artist tracked on soundcheck, with 4 sets logged across Cologne, Melbourne and Philadelphia. Often billed alongside ADMINISTRATOR, Bby Cass and DJ PGZ. Next up: Angel Music Bar, Melbourne on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Coloursound is a techno and deep house artist tracked on soundcheck, with 4 sets
 
 ADMINISTRATOR, Bby Cass, DJ PGZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coloursound/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coloursound/)*

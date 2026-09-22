@@ -1,6 +1,6 @@
 # Salzhaus
 
-Salzhaus is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Evolution Chamber Night" on Sat, 3 Oct 2026.
+Salzhaus is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Evolution Chamber Night" on Sat, 3 Oct 2026.
 
 Salzhaus is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including Skrimor and Task Horizon. Browse upcoming dates, start times and who's playing. Untere Vogelsangstrasse 6; 8400, Winterthur; Switzerland.
 
@@ -14,4 +14,4 @@ Salzhaus is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with l
 
 Untere Vogelsangstrasse 6; 8400, Winterthur; Switzerland, Zurich
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/salzhaus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/salzhaus/)*

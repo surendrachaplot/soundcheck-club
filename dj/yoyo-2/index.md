@@ -1,6 +1,6 @@
 # YOYO (UK)
 
-YOYO (UK) is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Glove That Fits, London on Thu, 15 Oct 2026.
+YOYO (UK) is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Glove That Fits, London on Thu, 15 Oct 2026.
 
 YOYO (UK) is a techno and guaracha artist tracked on soundcheck, with 4 sets logged across Brighton and London. Often billed alongside Spinks, Tommy Tempo and arawzi. Next up: The Glove That Fits, London on Thu 15 Oct.
 
@@ -20,4 +20,4 @@ YOYO (UK) is a techno and guaracha artist tracked on soundcheck, with 4 sets log
 
 Spinks, Tommy Tempo, arawzi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyo-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoyo-2/)*

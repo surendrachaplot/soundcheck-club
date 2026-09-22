@@ -1,6 +1,6 @@
 # Killacutz
 
-Killacutz is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]" on Thu, 22 Oct 2026.
+Killacutz is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "ADE Killacutz invites AMERICAN TECHNO | Fold Theory x Detroit Techno Militia [Free Entry]" on Thu, 22 Oct 2026.
 
 Killacutz is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including De León, Detune, DJ Roach and Eric Ross and 2 more. Browse upcoming dates, start times and who's playing. Nieuwe Nieuwstraat 21-HS, 1012NG, Amsterdam.
 
@@ -14,4 +14,4 @@ Killacutz is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wi
 
 Nieuwe Nieuwstraat 21-HS, 1012NG, Amsterdam, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/killacutz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/killacutz/)*

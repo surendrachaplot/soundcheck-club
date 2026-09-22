@@ -1,6 +1,6 @@
 # PUNK N MATRIX
 
-PUNK N MATRIX is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - XXI, Tokyo on Sat, 26 Sept 2026.
+PUNK N MATRIX is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - XXI, Tokyo on Sat, 26 Sept 2026.
 
 PUNK N MATRIX is a house and tech house artist based in Japan, tracked on soundcheck, with 83 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Yamariki, ANZU and CARTOON. Next up: TBA - XXI, Tokyo on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ PUNK N MATRIX is a house and tech house artist based in Japan, tracked on soundc
 
 Yamariki, ANZU, CARTOON
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punknmatrix/)*

@@ -1,6 +1,6 @@
 # Formella
 
-Formella is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+Formella is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
 
 Formella is a bass and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Formella is a bass and techno artist tracked on soundcheck, with 56 sets logged 
 
 Dangermami, Sabine Hoffmann, yungfya
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*

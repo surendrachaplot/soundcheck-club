@@ -1,6 +1,6 @@
 # dj career
 
-dj career is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Blue Velvet, Berlin on Fri, 25 Sept 2026.
+dj career is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Blue Velvet, Berlin on Fri, 25 Sept 2026.
 
 dj career is an electronica and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Istanbul, Lisbon and Manchester and 2 more. Often billed alongside Kiernan Laveaux, Veludo and Chima Isaaro. Next up: Blue Velvet, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ dj career is an electronica and techno artist tracked on soundcheck, with 17 set
 
 Kiernan Laveaux, Veludo, Chima Isaaro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcareer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcareer/)*

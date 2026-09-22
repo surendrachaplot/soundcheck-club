@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The DBA, Manchester on Sat, 10 Oct 2026.
+Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The DBA, Manchester on Sat, 10 Oct 2026.
 
 Enrica Falqui is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: The DBA, Manchester on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 117 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

@@ -1,6 +1,6 @@
 # BLCKWA
 
-BLCKWA is a Reggaeton and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Gilda Haus, Madrid on Sun, 27 Sept 2026.
+BLCKWA is a Reggaeton and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gilda Haus, Madrid on Sun, 27 Sept 2026.
 
 BLCKWA is a reggaeton and afrobeat artist tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Diego Armando, FORTALEZZA and Maxvll. Next up: Gilda Haus, Madrid on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ BLCKWA is a reggaeton and afrobeat artist tracked on soundcheck, with 4 sets log
 
 Diego Armando, FORTALEZZA, Maxvll
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blckwa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blckwa/)*

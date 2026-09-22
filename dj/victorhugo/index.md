@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BUS Hexperience, Barcelona on Sun, 27 Sept 2026.
+Victor Hugo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BUS Hexperience, Barcelona on Sun, 27 Sept 2026.
 
 Victor Hugo is a house and electronica artist based in Mexico, tracked on soundcheck, with 64 sets logged across Barcelona, Ibiza, Madrid and Mexicocity. Often billed alongside Eudald Selva, PINI and Elwei. Next up: BUS Hexperience, Barcelona on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Victor Hugo is a house and electronica artist based in Mexico, tracked on soundc
 
 Eudald Selva, PINI, Elwei
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

@@ -1,6 +1,6 @@
 # Royale
 
-Royale is a music venue in Boston with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Franky Rizardo" on Fri, 25 Sept 2026.
+Royale is a music venue in Boston with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Franky Rizardo" on Fri, 25 Sept 2026.
 
 Royale is a music venue in Boston listed on soundcheck. 13 upcoming gigs, with line-ups including CamelPhat, Franky Rizardo, Kahani and Kunal Merchant and 2 more. Browse upcoming dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
@@ -23,4 +23,4 @@ Royale is a music venue in Boston listed on soundcheck. 13 upcoming gigs, with l
 
 279 Tremont Street; Boston, MA 02116; United States, Boston
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*

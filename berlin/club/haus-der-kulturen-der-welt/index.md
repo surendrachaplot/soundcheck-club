@@ -1,6 +1,6 @@
 # Haus Der Kulturen Der Welt
 
-Haus Der Kulturen Der Welt is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Andromeda Mega Express Orchestra X Hermeto's Mothership (A Tribute To Hermeto Pascoal)" on Wed, 11 Nov 2026.
+Haus Der Kulturen Der Welt is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Andromeda Mega Express Orchestra X Hermeto's Mothership (A Tribute To Hermeto Pascoal)" on Wed, 11 Nov 2026.
 
 Haus Der Kulturen Der Welt is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. John-Foster-Dulles-Allee 10; Mitte; 10557 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Haus Der Kulturen Der Welt is a music venue in Berlin listed on soundcheck. 1 up
 
 John-Foster-Dulles-Allee 10; Mitte; 10557 Berlin; Germany, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-kulturen-der-welt/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-kulturen-der-welt/)*

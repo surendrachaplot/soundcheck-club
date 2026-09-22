@@ -1,6 +1,6 @@
 # Destino Ibiza
 
-Destino Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Music On - Destino Closing Party" on Sun, 11 Oct 2026.
+Destino Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Music On - Destino Closing Party" on Sun, 11 Oct 2026.
 
 Destino Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Avenida Cap Martinet, 07819 Ibiza, Islas Baleares, Spain.
 
@@ -14,4 +14,4 @@ Destino Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. Br
 
 Avenida Cap Martinet, 07819 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/destino-ibiza/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/destino-ibiza/)*

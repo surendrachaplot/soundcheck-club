@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Thank you thanks giving with Gogo" on Thu, 24 Sept 2026.
+Cakeshop is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Thank you thanks giving with Gogo" on Thu, 24 Sept 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including AEIDA, BAAWLA, Dillinja and DJ POOL and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -20,4 +20,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

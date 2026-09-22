@@ -1,6 +1,6 @@
 # Dr Subwoofer
 
-Dr Subwoofer is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Dr Subwoofer is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Dr Subwoofer is a trance and house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside A.N.I., Carotin and DJ Keyframe. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ Dr Subwoofer is a trance and house artist tracked on soundcheck, with 2 sets log
 
 A.N.I., Carotin, DJ Keyframe
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drsubwoofer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drsubwoofer/)*

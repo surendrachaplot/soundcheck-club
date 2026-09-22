@@ -1,19 +1,19 @@
 # DJ 34
 
-DJ 34 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon, 21 Sept 2026.
+DJ 34 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at DeTour, Tokyo on Sun, 27 Sept 2026.
 
-DJ 34 is a trance and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Osaka and Tokyo. Often billed alongside YOSHIMASA, FUMOFFU and BEPPU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon 21 Sept.
+DJ 34 is a trance and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Osaka and Tokyo. Often billed alongside YOSHIMASA, FUMOFFU and BEPPU. Next up: DeTour, Tokyo on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sun, 27 Sept 2026 | DeTour | Tokyo |
 | Sat, 5 Dec 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Mon, 21 Sept 2026
 - R Lounge, Tokyo — Fri, 21 Aug 2026
 - Z Maruyama, Tokyo — Mon, 10 Aug 2026
 - ZEROTOKYO, Tokyo — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ DJ 34 is a trance and techno artist based in Japan, tracked on soundcheck, with 
 - R Lounge, Tokyo — Fri, 29 May 2026
 - SEL OCTAGON TOKYO, Tokyo — Mon, 18 May 2026
 - Music Cafe Bar One's, Tokyo — Fri, 17 Apr 2026
-- Ohjo Bldg, Tokyo — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 YOSHIMASA, FUMOFFU, BEPPU
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj34/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj34/)*

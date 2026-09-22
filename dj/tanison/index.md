@@ -1,6 +1,6 @@
 # Tanison
 
-Tanison is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
+Tanison is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
 
 Tanison is a techno and progressive house artist tracked on soundcheck, with 53 sets logged across Athens. Often billed alongside Deherian, SCTR (2) and Christian Cambas. Next up: Oddity Club, Athens on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tanison is a techno and progressive house artist tracked on soundcheck, with 53 
 
 Deherian, SCTR (2), Christian Cambas
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanison/)*

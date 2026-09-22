@@ -1,6 +1,6 @@
 # Shirley Temper
 
-Shirley Temper is a Jungle and Footwork artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
+Shirley Temper is a Jungle and Footwork artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
 
 Shirley Temper is a jungle and footwork artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA (2), Sleazebag and Samurai Breaks. Next up: FORGE, Sheffield on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Shirley Temper is a jungle and footwork artist based in United Kingdom, tracked 
 
 PEPPA (2), Sleazebag, Samurai Breaks
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*

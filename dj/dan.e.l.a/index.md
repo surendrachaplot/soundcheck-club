@@ -1,6 +1,6 @@
 # dan.e.l.a
 
-dan.e.l.a is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tola, London on Fri, 9 Oct 2026.
+dan.e.l.a is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Tola, London on Fri, 9 Oct 2026.
 
 dan.e.l.a is a techno and tech house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Nick Parallel, Desert Sound Colony and Yesca. Next up: Tola, London on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ dan.e.l.a is a techno and tech house artist tracked on soundcheck, with 2 sets l
 
 Nick Parallel, Desert Sound Colony, Yesca
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dan.e.l.a/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dan.e.l.a/)*

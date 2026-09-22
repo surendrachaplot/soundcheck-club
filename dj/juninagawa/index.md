@@ -1,6 +1,6 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
+JUN INAGAWA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
 
 JUN INAGAWA is a techno and house artist tracked on soundcheck, with 190 sets logged across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: WOMB, Tokyo on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ JUN INAGAWA is a techno and house artist tracked on soundcheck, with 190 sets lo
 
 ecec, Eichi Abe, OKAMOTO REIJI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juninagawa/)*

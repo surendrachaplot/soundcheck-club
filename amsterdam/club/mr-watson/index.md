@@ -1,6 +1,6 @@
 # Mr Watson
 
-Mr Watson is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "CQTD presents Closing Brunch Chez Mr Watson" on Sun, 25 Oct 2026.
+Mr Watson is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "CQTD presents Closing Brunch Chez Mr Watson" on Sun, 25 Oct 2026.
 
 Mr Watson is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Han Litz, Marcel Vogel and Roger That. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mr Watson is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | CQTD presents Closing Brunch Chez Mr Watson | Han Litz, Marcel Vogel, Roger That |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mr-watson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mr-watson/)*

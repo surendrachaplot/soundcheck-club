@@ -1,6 +1,6 @@
 # Aries
 
-Aries is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
+Aries is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
 
 Aries is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Bristol, Manchester and Nottingham and 1 more. Often billed alongside Aries, Danny Byrd and Kelvin 373. Next up: Gorilla, Manchester on Thu 22 Oct.
 
@@ -18,4 +18,4 @@ Aries is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Aries, Danny Byrd, Kelvin 373
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*

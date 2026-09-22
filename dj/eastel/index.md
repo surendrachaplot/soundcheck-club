@@ -1,6 +1,6 @@
 # Eastel
 
-Eastel is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
+Eastel is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
 
 Eastel is a techno and industrial artist based in France, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 3 more. Often billed alongside Voltaire, Zadig and 400 Coups, Minuit. Next up: Luka, Seoul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Eastel is a techno and industrial artist based in France, tracked on soundcheck,
 
 Voltaire, Zadig, 400 Coups, Minuit
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eastel/)*

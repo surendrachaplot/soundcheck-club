@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 16 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Fridays at 77 x Fur Coat: Harry Court, Fur Coat DJs" on Fri, 25 Sept 2026.
+Club 77 is a music venue in Sydney with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Fridays at 77 x Fur Coat: Harry Court, Fur Coat DJs" on Fri, 25 Sept 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Diwa, Attu, b_man (AU) and Ben Fester and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

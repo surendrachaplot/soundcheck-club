@@ -1,6 +1,6 @@
 # Harry Connell
 
-Harry Connell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
+Harry Connell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
 
 Harry Connell is a techno and house artist tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside MASSI., Mordi and 3LOAR. Next up: ark (Melb), Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Harry Connell is a techno and house artist tracked on soundcheck, with 10 sets l
 
 MASSI., Mordi, 3LOAR
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryconnell/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryconnell/)*

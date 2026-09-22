@@ -1,6 +1,6 @@
 # NAP (MX)
 
-NAP (MX) is a House and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mansions, New York City on Sat, 26 Sept 2026.
+NAP (MX) is a House and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mansions, New York City on Sat, 26 Sept 2026.
 
 NAP (MX) is a house and downtempo artist based in United States of America, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 14 more. Often billed alongside fleet.dreams, rodman and Ana Armada. Next up: Mansions, Newyorkcity on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ NAP (MX) is a house and downtempo artist based in United States of America, trac
 
 fleet.dreams, rodman, Ana Armada
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle" on Sat, 26 Sept 2026.
+Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hecaton x Bakk Heia w/ Stella Z, Bitzer M, Schuttle" on Sat, 26 Sept 2026.
 
 Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ailish, Bitzer Maloney, Joe Hart and Schuttle and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -16,4 +16,4 @@ Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

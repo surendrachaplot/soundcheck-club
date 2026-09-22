@@ -1,6 +1,6 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Crack Bellmer, Berlin on Thu, 24 Sept 2026.
+Eluzid is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Crack Bellmer, Berlin on Thu, 24 Sept 2026.
 
 Eluzid is a techno and house artist tracked on soundcheck, with 68 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Crack Bellmer, Berlin on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Eluzid is a techno and house artist tracked on soundcheck, with 68 sets logged a
 
 Amin Fallaha, Miran N, aitch
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*

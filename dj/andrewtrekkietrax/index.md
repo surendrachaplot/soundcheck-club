@@ -1,6 +1,6 @@
 # Andrew (TREKKIE TRAX)
 
-Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
+Andrew (TREKKIE TRAX) is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
 
 Andrew (TREKKIE TRAX) is a bass and house artist tracked on soundcheck, with 66 sets logged across Kyoto, Seattle and Tokyo. Often billed alongside Carpainter, Seimei and K8 (TYO GQOM). Next up: TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Andrew (TREKKIE TRAX) is a bass and house artist tracked on soundcheck, with 66 
 
 Carpainter, Seimei, K8 (TYO GQOM)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewtrekkietrax/)*

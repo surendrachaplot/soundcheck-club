@@ -1,6 +1,6 @@
 # COCOLY
 
-COCOLY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 4 Oct 2026.
+COCOLY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 4 Oct 2026.
 
 COCOLY is a tech house and house artist based in Brazil, tracked on soundcheck, with 44 sets logged across Osaka and Tokyo. Often billed alongside CLESENT, Daitto and IRODORI. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ COCOLY is a tech house and house artist based in Brazil, tracked on soundcheck, 
 
 CLESENT, Daitto, IRODORI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoly/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocoly/)*

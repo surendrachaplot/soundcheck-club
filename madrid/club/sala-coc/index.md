@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "HYBRID: GEA" on Sat, 26 Sept 2026.
+Sala Cocó is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "HYBRID: GEA" on Sat, 26 Sept 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including NYRA (DE), CRITICAL ERROR 404, DOCTOR MÜCKE and KITAE and 2 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -19,4 +19,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wit
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

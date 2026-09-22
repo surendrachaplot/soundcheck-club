@@ -1,6 +1,6 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat, 10 Oct 2026.
+DJ SPHiNX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat, 10 Oct 2026.
 
 DJ SPHiNX is a techno and house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and hypemelo. Next up: TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ DJ SPHiNX is a techno and house artist based in United States of America, tracke
 
 LATEX GIRL, Craig Gonzalez, hypemelo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*

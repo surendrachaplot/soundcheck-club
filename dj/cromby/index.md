@@ -1,6 +1,6 @@
 # Cromby
 
-Cromby is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
+Cromby is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
 
 Cromby is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Sally C, Spray and DJ Gigola. Next up: Kauz, Zurich on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Cromby is a house and techno artist tracked on soundcheck, with 135 sets logged 
 
 Sally C, Spray, DJ Gigola
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cromby/)*

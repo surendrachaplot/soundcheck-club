@@ -1,6 +1,6 @@
 # Sam S
 
-Sam S is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
+Sam S is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
 
 Sam S is an electro and techno artist tracked on soundcheck, with 3 sets logged across Barcelona and Madrid. Often billed alongside Adrien Calvet, Adviro and Combret. Next up: Cafe La Palma, Madrid on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Sam S is an electro and techno artist tracked on soundcheck, with 3 sets logged 
 
 Adrien Calvet, Adviro, Combret
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sams/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sams/)*

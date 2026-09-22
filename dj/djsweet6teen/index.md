@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+dj sweet6teen is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 dj sweet6teen is a house and techno artist tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 46 more. Often billed alongside Angel D'lite, Sansibar and Gene On Earth. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -33,4 +33,4 @@ dj sweet6teen is a house and techno artist tracked on soundcheck, with 244 sets 
 
 Angel D'lite, Sansibar, Gene On Earth
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

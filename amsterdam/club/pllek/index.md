@@ -1,6 +1,6 @@
 # Pllek
 
-Pllek is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "One Long Groove" on Thu, 22 Oct 2026.
+Pllek is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "One Long Groove" on Thu, 22 Oct 2026.
 
 Pllek is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including AliA, Boss Priester, Cam Stockman and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. TT Neveritaweg 59.
 
@@ -18,4 +18,4 @@ Pllek is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with 
 
 TT Neveritaweg 59, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pllek/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/pllek/)*

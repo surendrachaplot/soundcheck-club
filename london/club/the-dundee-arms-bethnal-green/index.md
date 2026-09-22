@@ -1,6 +1,6 @@
 # The Dundee Arms, Bethnal Green
 
-The Dundee Arms, Bethnal Green is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "PANTY SOAKERS" on Sat, 26 Sept 2026.
+The Dundee Arms, Bethnal Green is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "PANTY SOAKERS" on Sat, 26 Sept 2026.
 
 The Dundee Arms, Bethnal Green is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Ivy F and Panty Soaker Sound System. Browse upcoming dates, start times and who's playing. 339 Cambridge Heath Road, E2 9LH.
 
@@ -14,4 +14,4 @@ The Dundee Arms, Bethnal Green is a music venue in London listed on soundcheck. 
 
 339 Cambridge Heath Road, E2 9LH, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dundee-arms-bethnal-green/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dundee-arms-bethnal-green/)*

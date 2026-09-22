@@ -1,6 +1,6 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "system. presents Mint XL Opening Party" on Fri, 25 Sept 2026.
+Mint XL is a music venue in Leeds with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "system. presents Mint XL Opening Party" on Fri, 25 Sept 2026.
 
 Mint XL is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with line-ups including ALISHA, Annie Errez, B-HIND and Bella Claxton and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 20 Nov 2026 | Framework presents Ben UFO, Papa Nugs | Annie Errez, Ben UFO, Bobby O'Donnell, Papa Nugs |
 | Sat, 19 Dec 2026 | Framework x Mugpie: Christian AB & Unai Trotti | Annie Errez, Christian AB, Unai Trotti |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

@@ -1,6 +1,6 @@
 # Miss Melera
 
-Miss Melera is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Escape, Amsterdam on Thu, 22 Oct 2026.
+Miss Melera is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Escape, Amsterdam on Thu, 22 Oct 2026.
 
 Miss Melera is a progressive house and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Berlin and Buenosaires and 16 more. Often billed alongside Olivier Weiter, Mees Salomé and Cris-H. Next up: Escape, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Miss Melera is a progressive house and house artist tracked on soundcheck, with 
 
 Olivier Weiter, Mees Salomé, Cris-H
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmelera/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmelera/)*

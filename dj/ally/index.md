@@ -1,6 +1,6 @@
 # ALLY
 
-ALLY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Decabar Super, Tokyo on Fri, 25 Sept 2026.
+ALLY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Decabar Super, Tokyo on Fri, 25 Sept 2026.
 
 ALLY is a techno and house artist tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside YAI., HIROKI ASANO and Shogo.. Next up: Decabar Super, Tokyo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ALLY is a techno and house artist tracked on soundcheck, with 66 sets logged acr
 
 YAI., HIROKI ASANO, Shogo.
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ally/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ally/)*

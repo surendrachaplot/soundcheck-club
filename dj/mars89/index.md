@@ -1,6 +1,6 @@
 # Mars89
 
-Mars89 is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mitsuki, Tokyo on Sat, 26 Sept 2026.
+Mars89 is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mitsuki, Tokyo on Sat, 26 Sept 2026.
 
 Mars89 is a techno and bass artist tracked on soundcheck, with 113 sets logged across Berlin, Kyoto, London and Osaka and 5 more. Often billed alongside ykah, TEI TEI and the2$. Next up: Mitsuki, Tokyo on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Mars89 is a techno and bass artist tracked on soundcheck, with 113 sets logged a
 
 ykah, TEI TEI, the2$
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*

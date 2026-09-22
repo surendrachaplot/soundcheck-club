@@ -1,6 +1,6 @@
 # Young Gaina
 
-Young Gaina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at LAUT, Barcelona on Sat, 10 Oct 2026.
+Young Gaina is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at LAUT, Barcelona on Sat, 10 Oct 2026.
 
 Young Gaina is a techno and electro artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Brussels and Lisbon and 7 more. Often billed alongside Luce Clandestina, Lupo Mangiafrutta and DNN. Next up: LAUT, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Young Gaina is a techno and electro artist tracked on soundcheck, with 30 sets l
 
 Luce Clandestina, Lupo Mangiafrutta, DNN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*

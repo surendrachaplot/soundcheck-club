@@ -1,6 +1,6 @@
 # Jordan George
 
-Jordan George is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
+Jordan George is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Thuishaven, Amsterdam on Sun, 22 Nov 2026.
 
 Jordan George is a house and electro artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam, Copenhagen, Dublin and Edinburgh and 1 more. Often billed alongside Adrian Salcedo, BORLEY and DART. Next up: Thuishaven, Amsterdam on Sun 22 Nov.
 
@@ -21,4 +21,4 @@ Jordan George is a house and electro artist based in United Kingdom, tracked on 
 
 Adrian Salcedo, BORLEY, DART
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangeorge/)*

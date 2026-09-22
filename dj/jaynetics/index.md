@@ -1,6 +1,6 @@
 # jaynetics
 
-jaynetics is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
+jaynetics is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
 
 jaynetics is a tech house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside April the pink, Bee Lincoln and EVYA. Next up: Sensorium, Berlin on Wed 23 Sept.
 
@@ -18,4 +18,4 @@ jaynetics is a tech house and techno artist tracked on soundcheck, with 2 sets l
 
 April the pink, Bee Lincoln, EVYA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynetics/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynetics/)*

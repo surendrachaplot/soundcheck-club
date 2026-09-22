@@ -1,6 +1,6 @@
 # Öona Dahl
 
-Öona Dahl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Öona Dahl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Öona Dahl is a house and techno artist tracked on soundcheck, with 55 sets logged across Austin, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Three, Anton Tumas and Sydney Blu. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -26,4 +26,4 @@
 
 DJ Three, Anton Tumas, Sydney Blu
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*

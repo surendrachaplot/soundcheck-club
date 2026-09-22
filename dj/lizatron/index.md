@@ -1,6 +1,6 @@
 # Lizatron
 
-Lizatron is a EBM and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
+Lizatron is a EBM and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
 
 Lizatron is an ebm and downtempo artist tracked on soundcheck, with 22 sets logged across Berlin, Edinburgh, Lisbon and Porto. Often billed alongside Idle Rich, Sibson and ALISHIA PEAS. Next up: Giri, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Lizatron is an ebm and downtempo artist tracked on soundcheck, with 22 sets logg
 
 Idle Rich, Sibson, ALISHIA PEAS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizatron/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizatron/)*

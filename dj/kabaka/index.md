@@ -1,6 +1,6 @@
 # Kabaka
 
-Kabaka is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
+Kabaka is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
 
 Kabaka is a techno and tech house artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Rossa and beigrek. Next up: Babour Sauvage, Paris on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Kabaka is a techno and tech house artist tracked on soundcheck, with 2 sets logg
 
 Rossa, beigrek
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaka/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaka/)*

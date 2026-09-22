@@ -1,6 +1,6 @@
 # Trancesetters of Westphalia
 
-Trancesetters of Westphalia is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kater, Berlin on Fri, 6 Nov 2026.
+Trancesetters of Westphalia is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kater, Berlin on Fri, 6 Nov 2026.
 
 Trancesetters of Westphalia is a trance and techno artist tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Cologne and Copenhagen and 8 more. Often billed alongside GNMR, S.O.N.S and Bambi (FR). Next up: Kater, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Trancesetters of Westphalia is a trance and techno artist tracked on soundcheck,
 
 GNMR, S.O.N.S, Bambi (FR)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancesettersofwestphalia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancesettersofwestphalia/)*

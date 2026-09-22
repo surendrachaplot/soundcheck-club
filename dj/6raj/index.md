@@ -1,6 +1,6 @@
 # 6RAJ
 
-6RAJ is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+6RAJ is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
 6RAJ is an afro house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Ornery, ARGO and Ark Nomads. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@
 
 Ornery, ARGO, Ark Nomads
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6raj/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6raj/)*

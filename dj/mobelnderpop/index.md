@@ -1,6 +1,6 @@
 # Möbelnder Pop
 
-Möbelnder Pop is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lauschangriff, Berlin on Fri, 16 Oct 2026.
+Möbelnder Pop is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lauschangriff, Berlin on Fri, 16 Oct 2026.
 
 Möbelnder Pop is an italo disco and disco artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside 0-Dimensional, BIGALKE and Carlotta Jacobi. Next up: Lauschangriff, Berlin on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Möbelnder Pop is an italo disco and disco artist based in Germany, tracked on s
 
 0-Dimensional, BIGALKE, Carlotta Jacobi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mobelnderpop/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mobelnderpop/)*

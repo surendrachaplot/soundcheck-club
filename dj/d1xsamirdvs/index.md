@@ -1,6 +1,6 @@
 # D1 x Samir (DVS)
 
-D1 x Samir (DVS) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Cross, London on Fri, 23 Oct 2026.
+D1 x Samir (DVS) is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Cross, London on Fri, 23 Oct 2026.
 
 D1 x Samir (DVS) are a tech house and deep house duo tracked on soundcheck, with 22 sets logged across London. Often billed alongside Samir (DVS), Azire and Billa Bazz. Next up: The Cross, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ D1 x Samir (DVS) are a tech house and deep house duo tracked on soundcheck, with
 
 Samir (DVS), Azire, Billa Bazz
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d1xsamirdvs/)*

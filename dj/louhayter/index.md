@@ -1,6 +1,6 @@
 # Lou Hayter
 
-Lou Hayter is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Lou Hayter is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Lou Hayter is a house and electro artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds and London. Often billed alongside Daisybelle, Joe Goddard and Todd Terje. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Lou Hayter is a house and electro artist based in United Kingdom, tracked on sou
 
 Daisybelle, Joe Goddard, Todd Terje
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louhayter/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louhayter/)*

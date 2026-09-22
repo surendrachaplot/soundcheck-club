@@ -1,6 +1,6 @@
 # Vagabond Superstar
 
-Vagabond Superstar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Crystal Lounge, Seattle on Fri, 11 Dec 2026.
+Vagabond Superstar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Crystal Lounge, Seattle on Fri, 11 Dec 2026.
 
 Vagabond Superstar is a house and deep house artist tracked on soundcheck, with 7 sets logged across Seattle. Often billed alongside vagabond, Christine Michelle and Coflo. Next up: Crystal Lounge, Seattle on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Vagabond Superstar is a house and deep house artist tracked on soundcheck, with 
 
 vagabond, Christine Michelle, Coflo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabondsuperstar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabondsuperstar/)*

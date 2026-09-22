@@ -1,6 +1,6 @@
 # margas
 
-margas is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at underiolo, Warsaw on Thu, 24 Sept 2026.
+margas is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at underiolo, Warsaw on Thu, 24 Sept 2026.
 
 margas is a house and garage artist based in Poland, tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Buchan, MATRIX3K and AKOMPANIAMENT. Next up: underiolo, Warsaw on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ margas is a house and garage artist based in Poland, tracked on soundcheck, with
 
 Buchan, MATRIX3K, AKOMPANIAMENT
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margas/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margas/)*

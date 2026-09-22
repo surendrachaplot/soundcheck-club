@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Swim GOODIES: long distance relationship (Swim Good x GOODIES)" on Fri, 9 Oct 2026.
+Lieberscholli is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Swim GOODIES: long distance relationship (Swim Good x GOODIES)" on Fri, 9 Oct 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including ALBA (3), Anna Reusch, diladï and FLAVE and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -16,4 +16,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 3 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

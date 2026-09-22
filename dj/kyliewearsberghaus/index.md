@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lost Horizon, Bristol on Fri, 25 Sept 2026.
+Kylie Wears Berghaus is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lost Horizon, Bristol on Fri, 25 Sept 2026.
 
 Kylie Wears Berghaus is a techno and house artist tracked on soundcheck, with 14 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Princess Elf Bar, Adiel and Alousea. Next up: Lost Horizon, Bristol on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Kylie Wears Berghaus is a techno and house artist tracked on soundcheck, with 14
 
 Princess Elf Bar, Adiel, Alousea
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

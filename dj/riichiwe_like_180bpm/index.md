@@ -1,6 +1,6 @@
 # riichi / we_like_180bpm
 
-riichi / we_like_180bpm is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Shibuya, Tokyo on Sat, 19 Dec 2026.
+riichi / we_like_180bpm is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Shibuya, Tokyo on Sat, 19 Dec 2026.
 
 riichi / we_like_180bpm is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Lance (JP), Vital Force and DJ Shimamura. Next up: TBA - Shibuya, Tokyo on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ riichi / we_like_180bpm is a hardcore and gabber artist based in Japan, tracked 
 
 Lance (JP), Vital Force, DJ Shimamura
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riichiwe_like_180bpm/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riichiwe_like_180bpm/)*

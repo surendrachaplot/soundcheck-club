@@ -1,6 +1,6 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
 
 Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 9 sets logged across Auckland, Brisbane, London and Nantes and 1 more. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 9 sets
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

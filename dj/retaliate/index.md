@@ -1,6 +1,6 @@
 # RETALIATE
 
-RETALIATE is a Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Slay, Glasgow on Fri, 11 Dec 2026.
+RETALIATE is a Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Slay, Glasgow on Fri, 11 Dec 2026.
 
 RETALIATE is a trance artist tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside DJ Kurt, Da Terror and Merki. Next up: Slay, Glasgow on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ RETALIATE is a trance artist tracked on soundcheck, with 3 sets logged across Gl
 
 DJ Kurt, Da Terror, Merki
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retaliate/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retaliate/)*

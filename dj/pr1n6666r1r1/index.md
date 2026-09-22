@@ -1,6 +1,6 @@
 # PR1N6666R1R1
 
-PR1N6666R1R1 is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at PIP Den Haag, The Hague on Sat, 17 Oct 2026.
+PR1N6666R1R1 is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at PIP Den Haag, The Hague on Sat, 17 Oct 2026.
 
 PR1N6666R1R1 is a techno and ghetto tech artist tracked on soundcheck, with 3 sets logged across Amsterdam and Thehague. Often billed alongside Chucho, DJ Kai and North Not South. Next up: PIP Den Haag, Thehague on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ PR1N6666R1R1 is a techno and ghetto tech artist tracked on soundcheck, with 3 se
 
 Chucho, DJ Kai, North Not South
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pr1n6666r1r1/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pr1n6666r1r1/)*

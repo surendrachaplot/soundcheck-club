@@ -1,6 +1,6 @@
 # Atze G
 
-Atze G is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Atze G is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 Atze G is a techno and trance artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside BIJI ON DECKS, Bertha and Bélavie. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Atze G is a techno and trance artist tracked on soundcheck, with 2 sets logged a
 
 BIJI ON DECKS, Bertha, Bélavie
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzeg/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzeg/)*

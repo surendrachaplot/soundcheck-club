@@ -1,6 +1,6 @@
 # THEMBA
 
-THEMBA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bazart, Montreal on Thu, 29 Oct 2026.
+THEMBA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bazart, Montreal on Thu, 29 Oct 2026.
 
 THEMBA is an afro house and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Black Coffee, Franky Wah and Hugel. Next up: Bazart, Montreal on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ THEMBA is an afro house and house artist tracked on soundcheck, with 122 sets lo
 
 Black Coffee, Franky Wah, Hugel
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themba/)*

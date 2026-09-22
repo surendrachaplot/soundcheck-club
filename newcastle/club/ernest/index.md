@@ -1,6 +1,6 @@
 # Ernest
 
-Ernest is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "6JJACOB: ALL NIGHT LONG" on Sat, 3 Oct 2026.
+Ernest is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "6JJACOB: ALL NIGHT LONG" on Sat, 3 Oct 2026.
 
 Ernest is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
 
@@ -17,4 +17,4 @@ Ernest is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs. Brow
 
 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP, Newcastle
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*

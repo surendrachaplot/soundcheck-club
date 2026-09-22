@@ -1,14 +1,15 @@
 # VE/RA
 
-VE/RA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+VE/RA is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-VE/RA is a techno and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Cologne and Ghent and 9 more. Often billed alongside Amber Broos, BLONDEX and DIØN. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
+VE/RA is a techno and deep house artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Cologne and Ghent and 9 more. Often billed alongside Amber Broos, BLONDEX and DIØN. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
+| Sat, 14 Nov 2026 | WestWeelde | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ VE/RA is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Amber Broos, BLONDEX, DIØN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*

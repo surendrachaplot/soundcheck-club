@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Danza x SuNKeN ft Reeshy (extended set)" on Fri, 25 Sept 2026.
+Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Danza x SuNKeN ft Reeshy (extended set)" on Fri, 25 Sept 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Amy Dabbs, BassLayerz, Channel One Sound and Chicane and 2 more. Browse upcoming dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -21,4 +21,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

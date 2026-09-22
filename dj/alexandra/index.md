@@ -1,6 +1,6 @@
 # Alexandra
 
-Alexandra is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
+Alexandra is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hoppetosse, Berlin on Fri, 9 Oct 2026.
 
 Alexandra is a house and electro artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 7 more. Often billed alongside DJ Slim Fit, The Apricots and Pîrvu. Next up: Hoppetosse, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Alexandra is a house and electro artist tracked on soundcheck, with 36 sets logg
 
 DJ Slim Fit, The Apricots, Pîrvu
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandra/)*

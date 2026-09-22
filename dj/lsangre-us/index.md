@@ -1,6 +1,6 @@
 # L.Sangre
 
-L.Sangre is a Industrial and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
+L.Sangre is a Industrial and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, New York City on Fri, 25 Sept 2026.
 
 L.Sangre is an industrial and electro artist based in United States of America, tracked on soundcheck, with 29 sets logged across Montreal and Newyorkcity. Often billed alongside Heidi Sabertooth, R Gamble and Xeno & Oaklander. Next up: TBA, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ L.Sangre is an industrial and electro artist based in United States of America, 
 
 Heidi Sabertooth, R Gamble, Xeno & Oaklander
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsangre-us/)*

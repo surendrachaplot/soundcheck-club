@@ -1,6 +1,6 @@
 # Guido YZ
 
-Guido YZ is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Guido YZ is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Guido YZ is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Bristol, Lisbon and London and 1 more. Often billed alongside Janaway, The Bass Injector and Shirley Temper. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Guido YZ is a jungle and hardcore artist based in United Kingdom, tracked on sou
 
 Janaway, The Bass Injector, Shirley Temper
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoyz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoyz/)*

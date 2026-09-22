@@ -1,6 +1,6 @@
 # Piers Harrison
 
-Piers Harrison is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+Piers Harrison is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 Piers Harrison is a house and acid artist tracked on soundcheck, with 20 sets logged across Berlin, London, Losangeles and Osaka and 2 more. Often billed alongside Brian Not Brian, Toby Tobias and Espen Haa. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Piers Harrison is a house and acid artist tracked on soundcheck, with 20 sets lo
 
 Brian Not Brian, Toby Tobias, Espen Haa
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piersharrison/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piersharrison/)*

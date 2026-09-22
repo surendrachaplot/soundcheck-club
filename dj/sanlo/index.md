@@ -1,6 +1,6 @@
 # Sánlo
 
-Sánlo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Arcana, San Francisco/Oakland on Sun, 27 Sept 2026.
+Sánlo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Arcana, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Sánlo is a club and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Sanfrancisco and Washingtondc. Often billed alongside mymy, Femme Jatale and LILRAV4. Next up: Arcana, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Sánlo is a club and house artist based in United States of America, tracked on 
 
 mymy, Femme Jatale, LILRAV4
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanlo/)*

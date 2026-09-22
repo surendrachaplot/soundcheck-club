@@ -1,6 +1,6 @@
 # Matale
 
-Matale is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Albura, Barcelona on Fri, 2 Oct 2026.
+Matale is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Albura, Barcelona on Fri, 2 Oct 2026.
 
 Matale is a house and tech house artist tracked on soundcheck, with 4 sets logged across Barcelona, Belgrade and Berlin. Often billed alongside tadi, DJ Haram and Edin (Oma). Next up: Albura, Barcelona on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Matale is a house and tech house artist tracked on soundcheck, with 4 sets logge
 
 tadi, DJ Haram, Edin (Oma)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matale/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matale/)*

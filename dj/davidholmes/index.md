@@ -1,6 +1,6 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
+David Holmes is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 31 Oct 2026.
 
 David Holmes is a house and electronica artist tracked on soundcheck, with 42 sets logged across Belfast, Birmingham, Cork and Dublin and 7 more. Often billed alongside Sean Johnston, Daniel Avery and Optimo (Espacio). Next up: Shorts Sports & Recreation Club, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ David Holmes is a house and electronica artist tracked on soundcheck, with 42 se
 
 Sean Johnston, Daniel Avery, Optimo (Espacio)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*

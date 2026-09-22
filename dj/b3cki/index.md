@@ -1,6 +1,6 @@
 # B3CKI
 
-B3CKI is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
+B3CKI is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
 
 B3CKI is a club and bass artist tracked on soundcheck, with 10 sets logged across Berlin and Hamburg. Often billed alongside B.A.O., BreakLD and DJ COMEDOWN. Next up: Lark, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ B3CKI is a club and bass artist tracked on soundcheck, with 10 sets logged acros
 
 B.A.O., BreakLD, DJ COMEDOWN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b3cki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b3cki/)*

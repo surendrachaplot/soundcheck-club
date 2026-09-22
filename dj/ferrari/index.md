@@ -1,8 +1,8 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Stazione Centrale, Milan on Sat, 26 Sept 2026.
+Ferrari is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stazione Centrale, Milan on Sat, 26 Sept 2026.
 
-Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni (2) and Larry Masmero. Next up: Stazione Centrale, Milan on Sat 26 Sept.
+Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni (2) and Larry Masmero. Next up: Stazione Centrale, Milan on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Stazione Centrale | Milan |
 | Sat, 26 Sept 2026 | RedRoom Members Club | Milan |
+| Sat, 3 Oct 2026 | TBA - Santa Maria della Pietà | Rome |
 | Sat, 3 Oct 2026 | Forte Antenne | Rome |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 
@@ -28,4 +29,4 @@ Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

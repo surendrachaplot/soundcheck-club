@@ -1,6 +1,6 @@
 # Ta’ Qali National Park
 
-Ta’ Qali National Park is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "POPP Day Out: Autumn 2026" on Sat, 10 Oct 2026.
+Ta’ Qali National Park is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "POPP Day Out: Autumn 2026" on Sat, 10 Oct 2026.
 
 Ta’ Qali National Park is a music venue in Malta listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Attard, Malta.
 
@@ -14,4 +14,4 @@ Ta’ Qali National Park is a music venue in Malta listed on soundcheck. 1 upcom
 
 Attard, Malta, Malta
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/ta-qali-national-park/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/ta-qali-national-park/)*

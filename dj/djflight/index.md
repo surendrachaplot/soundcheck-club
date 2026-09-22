@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 112 set
 
 Mantra, SP:MC, MC GQ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

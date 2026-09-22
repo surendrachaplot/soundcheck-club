@@ -1,6 +1,6 @@
 # Přístav 18600
 
-Přístav 18600 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Léto s Monikou + Kluk + Martin Šimek" on Thu, 24 Sept 2026.
+Přístav 18600 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Léto s Monikou + Kluk + Martin Šimek" on Thu, 24 Sept 2026.
 
 Přístav 18600 is a music venue in Prague listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Za Karlínským přístavem Karlín, Hlavní Město Praha, Czech Republic.
 
@@ -14,4 +14,4 @@ Přístav 18600 is a music venue in Prague listed on soundcheck. 1 upcoming gig.
 
 Za Karlínským přístavem Karlín, Hlavní Město Praha, Czech Republic, Prague
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/p-stav-18600/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/p-stav-18600/)*

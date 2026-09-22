@@ -1,6 +1,6 @@
 # Mad Son
 
-Mad Son is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Mad Son is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Mad Son is a house and techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Naicet, Mona Pirzad and Corios. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Mad Son is a house and techno artist tracked on soundcheck, with 7 sets logged a
 
 Naicet, Mona Pirzad, Corios
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madson/)*

@@ -1,6 +1,6 @@
 # Kodemul
 
-Kodemul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Kodemul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Kodemul is a techno and house artist tracked on soundcheck, with 134 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 9 more. Often billed alongside Eliel Capa, PAURRO and Villaseñor. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kodemul is a techno and house artist tracked on soundcheck, with 134 sets logged
 
 Eliel Capa, PAURRO, Villaseñor
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

@@ -1,6 +1,6 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
+Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
 
 Stump Valley is a house and disco artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: La Paloma, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 74 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

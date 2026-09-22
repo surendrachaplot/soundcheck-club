@@ -1,6 +1,6 @@
 # Matsehora
 
-Matsehora is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Système, Montreal on Sun, 4 Oct 2026.
+Matsehora is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Système, Montreal on Sun, 4 Oct 2026.
 
 Matsehora is a house and electro artist based in Ukraine, tracked on soundcheck, with 10 sets logged across Montreal and Tbilisi. Often billed alongside Evita, Kris Guilty and Ada Dielman. Next up: Système, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Matsehora is a house and electro artist based in Ukraine, tracked on soundcheck,
 
 Evita, Kris Guilty, Ada Dielman
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matsehora/)*

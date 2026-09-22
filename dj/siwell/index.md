@@ -1,6 +1,6 @@
 # Siwell
 
-Siwell is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Aire Miami, Miami on Thu, 24 Sept 2026.
+Siwell is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Aire Miami, Miami on Thu, 24 Sept 2026.
 
 Siwell is a tech house and house artist tracked on soundcheck, with 10 sets logged across Athens, Miami and Milan. Often billed alongside Massi Rocket, Anthony Attalla and Agent Greg. Next up: Aire Miami, Miami on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Siwell is a tech house and house artist tracked on soundcheck, with 10 sets logg
 
 Massi Rocket, Anthony Attalla, Agent Greg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siwell/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siwell/)*

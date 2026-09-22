@@ -1,6 +1,6 @@
 # Monti1one
 
-Monti1one is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
+Monti1one is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
 
 Monti1one is a house and tech house artist based in Germany, tracked on soundcheck, with 52 sets logged across Bangkok, Berlin, Budapest and Dusseldorf and 6 more. Often billed alongside Klix (3), Heimlich Maneuver and PJPJPJ. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Monti1one is a house and tech house artist based in Germany, tracked on soundche
 
 Klix (3), Heimlich Maneuver, PJPJPJ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monti1one/)*

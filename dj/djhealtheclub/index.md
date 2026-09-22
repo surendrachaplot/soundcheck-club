@@ -1,6 +1,6 @@
 # DJ heal the club
 
-DJ heal the club is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 4willow, New York City on Fri, 30 Oct 2026.
+DJ heal the club is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 4willow, New York City on Fri, 30 Oct 2026.
 
 DJ heal the club is a house and deep house artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Infinite Coles. Next up: 4willow, Newyorkcity on Fri 30 Oct.
 
@@ -19,4 +19,4 @@ DJ heal the club is a house and deep house artist tracked on soundcheck, with 3 
 
 Infinite Coles
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealtheclub/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealtheclub/)*

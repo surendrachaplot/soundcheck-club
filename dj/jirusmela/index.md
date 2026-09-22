@@ -1,6 +1,6 @@
 # Jirus (MELA)
 
-Jirus (MELA) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
+Jirus (MELA) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Dual, Bangkok on Sat, 26 Sept 2026.
 
 Jirus (MELA) is a house and techno artist based in Thailand, tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Seoul and Singapore and 1 more. Often billed alongside DOTT, Sarayu and Jimin. Next up: Dual, Bangkok on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Jirus (MELA) is a house and techno artist based in Thailand, tracked on soundche
 
 DOTT, Sarayu, Jimin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jirusmela/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jirusmela/)*

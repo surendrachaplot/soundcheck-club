@@ -1,6 +1,6 @@
 # Impiety Hour
 
-Impiety Hour is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Annexia presents: Hasfeldt, Burning Pyre, Rosabella Allen" on Fri, 16 Oct 2026.
+Impiety Hour is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Annexia presents: Hasfeldt, Burning Pyre, Rosabella Allen" on Fri, 16 Oct 2026.
 
 Impiety Hour is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Hasfeldt and Rosabella. Browse upcoming dates, start times and who's playing. 70 Oldham Rd, New Cross, Manchester M4 5EB.
 
@@ -14,4 +14,4 @@ Impiety Hour is a music venue in Manchester listed on soundcheck. 1 upcoming gig
 
 70 Oldham Rd, New Cross, Manchester M4 5EB, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/impiety-hour/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/impiety-hour/)*

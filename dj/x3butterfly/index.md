@@ -1,6 +1,6 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
+x3butterfly is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Qncc, New York City on Tue, 22 Sept 2026.
 
 x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 198 sets logged across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: Qncc, Newyorkcity on Tue 22 Sept.
 
@@ -32,4 +32,4 @@ x3butterfly is a techno and house artist based in United States of America, trac
 
 Sterling Juan Diaz, Concrete Husband, Meilgaarden
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

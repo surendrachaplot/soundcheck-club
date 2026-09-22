@@ -1,6 +1,6 @@
 # Bobby Thorpe
 
-Bobby Thorpe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
+Bobby Thorpe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
 Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Glasgow and Liverpool and 2 more. Often billed alongside Bijon, Kickin Pigeon and Royal Male. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bobby Thorpe is a house and disco artist based in United Kingdom, tracked on sou
 
 Bijon, Kickin Pigeon, Royal Male
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbythorpe/)*

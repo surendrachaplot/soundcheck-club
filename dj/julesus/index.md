@@ -1,6 +1,6 @@
 # Jules
 
-Jules is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kramladen, Vienna on Fri, 2 Oct 2026.
+Jules is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kramladen, Vienna on Fri, 2 Oct 2026.
 
 Jules is a techno and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin, Newyorkcity, Oslo and Vienna and 1 more. Often billed alongside Dio Garcia, Valentin Lamar and ALIKHAN. Next up: Kramladen, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jules is a techno and deep house artist based in United States of America, track
 
 Dio Garcia, Valentin Lamar, ALIKHAN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julesus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julesus/)*

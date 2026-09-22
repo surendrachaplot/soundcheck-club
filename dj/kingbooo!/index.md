@@ -1,6 +1,6 @@
 # KING BOOO!
 
-KING BOOO! is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Cause, London on Fri, 30 Oct 2026.
+KING BOOO! is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Cause, London on Fri, 30 Oct 2026.
 
 KING BOOO! is a garage and drum & bass artist tracked on soundcheck, with 10 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside IN PARALLEL, LARISHKA (UK) and T-Man (UK). Next up: The Cause, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KING BOOO! is a garage and drum & bass artist tracked on soundcheck, with 10 set
 
 IN PARALLEL, LARISHKA (UK), T-Man (UK)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbooo!/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingbooo!/)*

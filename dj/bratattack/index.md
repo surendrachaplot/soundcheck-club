@@ -1,6 +1,6 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+BRATATTACK is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
 BRATATTACK is a club and techno artist tracked on soundcheck, with 22 sets logged across Boston, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Bullosa, YULIA (US) and 1morning. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ BRATATTACK is a club and techno artist tracked on soundcheck, with 22 sets logge
 
 Bullosa, YULIA (US), 1morning
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

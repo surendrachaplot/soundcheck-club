@@ -1,6 +1,6 @@
 # Vithz
 
-Vithz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Vithz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
 Vithz is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Kenia, Black Loops and Gian-Paul. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Vithz is a house and techno artist tracked on soundcheck, with 114 sets logged a
 
 Kenia, Black Loops, Gian-Paul
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vithz/)*

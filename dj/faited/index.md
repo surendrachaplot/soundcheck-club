@@ -1,6 +1,6 @@
 # Faited
 
-Faited is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Thu, 8 Oct 2026.
+Faited is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nowadays, New York City on Thu, 8 Oct 2026.
 
 Faited is a techno and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: Nowadays, Newyorkcity on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Faited is a techno and house artist tracked on soundcheck, with 30 sets logged a
 
 Octo Octa, 1morning, Eris Drew
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faited/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faited/)*

@@ -1,6 +1,6 @@
 # MILLA
 
-MILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Glamorama, Melbourne on Thu, 24 Sept 2026.
+MILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Glamorama, Melbourne on Thu, 24 Sept 2026.
 
 MILLA is a house and techno artist tracked on soundcheck, with 13 sets logged across Melbourne, Milan, Sydney and Tokyo. Often billed alongside Dave Stuart, Jay McMullen and Andrew Wowk. Next up: Glamorama, Melbourne on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ MILLA is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 Dave Stuart, Jay McMullen, Andrew Wowk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milla/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milla/)*

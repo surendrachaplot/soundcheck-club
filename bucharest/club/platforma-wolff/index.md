@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PW Thu. Season Closing • Prichindel (all evening long)" on Thu, 24 Sept 2026.
+Platforma Wolff is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PW Thu. Season Closing • Prichindel (all evening long)" on Thu, 24 Sept 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 3 upcoming gigs, with line-ups including Giammarco Orsini, Petre Inspirescu, Prichindel and Yone-Ko. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -16,4 +16,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 3 upcoming g
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

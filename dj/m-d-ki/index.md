@@ -1,6 +1,6 @@
 # mʊdʌki
 
-mʊdʌki is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tendance, Prague on Tue, 22 Sept 2026.
+mʊdʌki is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tendance, Prague on Tue, 22 Sept 2026.
 
 mʊdʌki is a drum & bass and jungle artist based in Belarus, tracked on soundcheck, with 40 sets logged across Berlin, Budapest, Leipzig and Prague and 2 more. Often billed alongside AXT, Andriy K. and Dash (CZ). Next up: Tendance, Prague on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ mʊdʌki is a drum & bass and jungle artist based in Belarus, tracked on soundch
 
 AXT, Andriy K., Dash (CZ)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-d-ki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-d-ki/)*

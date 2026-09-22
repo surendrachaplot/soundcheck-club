@@ -1,6 +1,6 @@
 # Richard Durand
 
-Richard Durand is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Ora, Seattle on Fri, 25 Sept 2026.
+Richard Durand is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ora, Seattle on Fri, 25 Sept 2026.
 
 Richard Durand is a trance and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Bangkok, Losangeles and Manchester and 6 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and John O'Callaghan. Next up: Ora, Seattle on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Richard Durand is a trance and techno artist tracked on soundcheck, with 10 sets
 
 Giuseppe Ottaviani, Ferry Corsten, John O'Callaghan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richarddurand/)*

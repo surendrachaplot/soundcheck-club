@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
+Sepehr is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
 
 Sepehr is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Sepehr is a techno and house artist tracked on soundcheck, with 132 sets logged 
 
 Elena Colombi, Kia (AU), Amelia Holt
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

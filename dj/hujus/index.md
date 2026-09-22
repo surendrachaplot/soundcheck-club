@@ -1,6 +1,6 @@
 # HUJUS
 
-HUJUS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
+HUJUS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
 
 HUJUS is a techno and trance artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Adrian Mills, Fran LF and Serafina. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ HUJUS is a techno and trance artist tracked on soundcheck, with 48 sets logged a
 
 Adrian Mills, Fran LF, Serafina
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*

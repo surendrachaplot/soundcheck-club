@@ -1,6 +1,6 @@
 # Cristian Varela
 
-Cristian Varela is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at City Hall, Barcelona on Sat, 26 Sept 2026.
+Cristian Varela is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at City Hall, Barcelona on Sat, 26 Sept 2026.
 
 Cristian Varela is a techno and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Dj Pepo, Ramiro Lopez and Abel Ramos. Next up: City Hall, Barcelona on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Cristian Varela is a techno and tech house artist tracked on soundcheck, with 70
 
 Dj Pepo, Ramiro Lopez, Abel Ramos
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvarela/)*

@@ -1,6 +1,6 @@
 # Lethal Bizzle
 
-Lethal Bizzle is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Lethal Bizzle is a Grime and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
 Lethal Bizzle is a grime and house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Beezo, Bobbi and Capo Lee. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Lethal Bizzle is a grime and house artist tracked on soundcheck, with 2 sets log
 
 Beezo, Bobbi, Capo Lee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lethalbizzle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lethalbizzle/)*

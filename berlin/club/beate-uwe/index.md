@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Automaticamore" on Fri, 25 Sept 2026.
+Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Automaticamore" on Fri, 25 Sept 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Adrija, AKA AKA, Alexander Arpeggio and ALXJ and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -13,7 +13,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Sun, 27 Sept 2026 | Beate Barfuß /// Padouc & Friends | HVDN, dety |
 | Fri, 2 Oct 2026 | Fan von Viel und Auf'n Punkt | Janosch Ulm, Joseph Disco |
 | Sat, 3 Oct 2026 | Beate Invites: FEMQUENCY Showcase (+Panel) | Dora Dox, Laura Sí |
-| Sat, 3 Oct 2026 | FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) | Laura Sí |
+| Sat, 3 Oct 2026 | FEMQUENCY: FLINTA* DJ-Workshop ( + Panel & Showcase) | CAMI (DE), Laura Sí |
 | Sun, 4 Oct 2026 | Beate Barfuß /// The Juice Mia Kober Maaje Stellson & Špii | Mia Kober |
 | Tue, 6 Oct 2026 | Tanzen3000 x Beate Uwe: Tag der Clubkultur |  |
 | Fri, 9 Oct 2026 | Kompáz im Beate Uwe | Adrija |
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

@@ -1,6 +1,6 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Sam Alfred is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 139 sets log
 
 X CLUB., KETTAMA, SAIDAH
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

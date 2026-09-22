@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "James Pepper — All Night Long (Sydney)" on Sat, 26 Sept 2026.
+The Red Rattler is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "James Pepper — All Night Long (Sydney)" on Sat, 26 Sept 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including James Pepper. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -14,4 +14,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 1 upcoming gig,
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

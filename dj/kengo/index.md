@@ -1,6 +1,6 @@
 # Kengo
 
-Kengo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 11 Oct 2026.
+Kengo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sun, 11 Oct 2026.
 
 Kengo is a house and techno artist based in Japan, tracked on soundcheck, with 150 sets logged across Kyoto, London and Tokyo. Often billed alongside HEAVEN, Satoshi Matsui and Kaory. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Kengo is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 HEAVEN, Satoshi Matsui, Kaory
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kengo/)*

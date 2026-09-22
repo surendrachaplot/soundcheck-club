@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 21 Nov 2026.
+Sebastian Konrad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 21 Nov 2026.
 
 Sebastian Konrad is a house and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 8 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: Shelter Amsterdam, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sebastian Konrad is a house and techno artist tracked on soundcheck, with 54 set
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

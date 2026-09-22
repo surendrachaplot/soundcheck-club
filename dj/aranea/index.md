@@ -1,6 +1,6 @@
 # ARANEA
 
-ARANEA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at MODULE, Copenhagen on Fri, 25 Sept 2026.
+ARANEA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at MODULE, Copenhagen on Fri, 25 Sept 2026.
 
 ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Copenhagen and Malta and 1 more. Often billed alongside DJ Zeb, Kardinal Bertram and ASTA MARI. Next up: MODULE, Copenhagen on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck,
 
 DJ Zeb, Kardinal Bertram, ASTA MARI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*

@@ -1,6 +1,6 @@
 # Haunted Dancehall
 
-Haunted Dancehall is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+Haunted Dancehall is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 Haunted Dancehall is a bass and house artist tracked on soundcheck, with 7 sets logged across Athens, Manchester, Milan and Warsaw. Often billed alongside Andreas Palmer, A. Square and DJ Problems. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Haunted Dancehall is a bass and house artist tracked on soundcheck, with 7 sets 
 
 Andreas Palmer, A. Square, DJ Problems
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haunteddancehall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haunteddancehall/)*

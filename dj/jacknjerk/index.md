@@ -1,6 +1,6 @@
 # Jack N Jerk
 
-Jack N Jerk is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Jack N Jerk is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Jack N Jerk is an electronic artist tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside Acid Jacks, Byron The Aquarius and Cliff Colada. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Jack N Jerk is an electronic artist tracked on soundcheck, with 2 sets logged ac
 
 Acid Jacks, Byron The Aquarius, Cliff Colada
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacknjerk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacknjerk/)*

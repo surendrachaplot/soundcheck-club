@@ -1,6 +1,6 @@
 # TBA - Area Costanera, Quilmes
 
-TBA - Area Costanera, Quilmes is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes" on Sun, 4 Oct 2026.
+TBA - Area Costanera, Quilmes is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes" on Sun, 4 Oct 2026.
 
 TBA - Area Costanera, Quilmes is a music venue in Buenosaires listed on soundcheck. 2 upcoming gigs, with line-ups including Miguel Bastida and VICTORIA WHYNOT. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Area Costanera, Quilmes is a music venue in Buenosaires listed on soundche
 | Sun, 4 Oct 2026 | VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes | VICTORIA WHYNOT |
 | Sun, 11 Oct 2026 | Miguel Bastida - Área Costanera Quilmes - ALLMusicParties | Miguel Bastida |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-area-costanera-quilmes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-area-costanera-quilmes/)*

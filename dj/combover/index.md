@@ -1,6 +1,6 @@
 # Combover
 
-Combover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
+Combover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Combover is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Sandiego and Sanfrancisco. Often billed alongside Louiv, Philco and DJ M3. Next up: Underground SF, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Combover is a house and tech house artist based in United States of America, tra
 
 Louiv, Philco, DJ M3
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/combover/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/combover/)*

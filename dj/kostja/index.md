@@ -1,6 +1,6 @@
 # KOSTJA
 
-KOSTJA is a Trance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Neue Minol, Leipzig on Sat, 26 Sept 2026.
+KOSTJA is a Trance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Neue Minol, Leipzig on Sat, 26 Sept 2026.
 
 KOSTJA is a trance and hip-hop artist tracked on soundcheck, with 7 sets logged across Berlin, Leipzig and Munich. Often billed alongside Limoncello, BENITO (DE) and 4NOUK. Next up: Neue Minol, Leipzig on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ KOSTJA is a trance and hip-hop artist tracked on soundcheck, with 7 sets logged 
 
 Limoncello, BENITO (DE), 4NOUK
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostja/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostja/)*

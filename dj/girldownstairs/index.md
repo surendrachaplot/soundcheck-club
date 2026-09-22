@@ -1,6 +1,6 @@
 # Girl Downstairs
 
-Girl Downstairs is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at pos studios, Amsterdam on Sun, 4 Oct 2026.
+Girl Downstairs is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at pos studios, Amsterdam on Sun, 4 Oct 2026.
 
 Girl Downstairs is an electronic artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Sacre and Unknown Mobile. Next up: pos studios, Amsterdam on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ Girl Downstairs is an electronic artist tracked on soundcheck, with 3 sets logge
 
 Sacre, Unknown Mobile
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girldownstairs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girldownstairs/)*

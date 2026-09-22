@@ -1,6 +1,6 @@
 # Aly P
 
-Aly P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
+Aly P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
 
 Aly P is a house and techno artist tracked on soundcheck, with 33 sets logged across Edinburgh, Liverpool and Manchester. Often billed alongside Elleinad, Kathryn and 4D (UK). Next up: Heebie Jeebies, Liverpool on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Aly P is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Elleinad, Kathryn, 4D (UK)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*

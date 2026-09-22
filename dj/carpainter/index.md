@@ -1,6 +1,6 @@
 # Carpainter
 
-Carpainter is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
+Carpainter is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
 
 Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, with 51 sets logged across Kyoto, Newyorkcity, Seattle and Tokyo. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 Seimei, Andrew (TREKKIE TRAX), Genick
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*

@@ -1,6 +1,6 @@
 # Tomoya
 
-Tomoya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
+Tomoya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
 
 Tomoya is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across London, Seoul and Tokyo. Often billed alongside Celter, Jacob Husley and AKIRAM EN. Next up: VENT, Tokyo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tomoya is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Celter, Jacob Husley, AKIRAM EN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoya/)*

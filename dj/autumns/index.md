@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 3 Oct 2026.
+Autumns is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 3 Oct 2026.
 
 Autumns is an industrial and techno artist based in Ireland, tracked on soundcheck, with 34 sets logged across Berlin, Bristol, Cork and Dublin and 11 more. Often billed alongside Kahn, Batu and CCL. Next up: EXIT Glasgow, Glasgow on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Autumns is an industrial and techno artist based in Ireland, tracked on soundche
 
 Kahn, Batu, CCL
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

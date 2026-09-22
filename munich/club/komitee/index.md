@@ -1,6 +1,6 @@
 # Komitee
 
-Komitee is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Tanzen mit Pflanzen: Callherdog & DJ FM im Komitee" on Sat, 17 Oct 2026.
+Komitee is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Tanzen mit Pflanzen: Callherdog & DJ FM im Komitee" on Sat, 17 Oct 2026.
 
 Komitee is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Callherdog, Die Tektonische Plattenverschiebung and DJ FM & DJ FREUND. Browse upcoming dates, start times and who's playing. Gabelsbergerstr. 24, 80333 Munich.
 
@@ -17,4 +17,4 @@ Komitee is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with l
 
 Gabelsbergerstr. 24, 80333 Munich, Munich
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/komitee/)*

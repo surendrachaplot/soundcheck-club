@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "foundation.fm presents DROP PIN x Rat Party - Leeds" on Thu, 24 Sept 2026.
+Hope House is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "foundation.fm presents DROP PIN x Rat Party - Leeds" on Thu, 24 Sept 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including 2QUID, Ana K Miller, Benny Bysouth and BOSSdaddy and 2 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -23,4 +23,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, wit
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

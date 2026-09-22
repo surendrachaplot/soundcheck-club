@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Paralich is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 161 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

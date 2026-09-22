@@ -1,6 +1,6 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Goya Social Club, Madrid on Sun, 11 Oct 2026.
+FIRZA is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Goya Social Club, Madrid on Sun, 11 Oct 2026.
 
 FIRZA is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 8 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Goya Social Club, Madrid on Sun 11 Oct.
 
@@ -28,4 +28,4 @@ FIRZA is a house and tech house artist tracked on soundcheck, with 28 sets logge
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

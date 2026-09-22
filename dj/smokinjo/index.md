@@ -1,6 +1,6 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Jazz Cafe, London on Sat, 3 Oct 2026.
+Smokin Jo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Jazz Cafe, London on Sat, 3 Oct 2026.
 
 Smokin Jo is a house and disco artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Brighton and Edinburgh and 8 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: The Jazz Cafe, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Smokin Jo is a house and disco artist tracked on soundcheck, with 56 sets logged
 
 Melon Bomb, Melvo Baptiste, Eats Everything
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*

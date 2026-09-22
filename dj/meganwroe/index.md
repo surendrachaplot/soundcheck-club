@@ -1,6 +1,6 @@
 # Megan Wroe
 
-Megan Wroe is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Phonox, London on Thu, 1 Oct 2026.
+Megan Wroe is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Phonox, London on Thu, 1 Oct 2026.
 
 Megan Wroe is a garage and house artist tracked on soundcheck, with 42 sets logged across Aberdeen, Amsterdam, Birmingham and Brighton and 10 more. Often billed alongside Silva Bumpa, DAISY and Prozak (IRL). Next up: Phonox, London on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Megan Wroe is a garage and house artist tracked on soundcheck, with 42 sets logg
 
 Silva Bumpa, DAISY, Prozak (IRL)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganwroe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganwroe/)*

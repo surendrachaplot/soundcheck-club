@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ" on Fri, 25 Sept 2026.
+Madam is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ" on Fri, 25 Sept 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

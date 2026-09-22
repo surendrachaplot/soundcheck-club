@@ -1,6 +1,6 @@
 # DJ Warzone (3)
 
-DJ Warzone (3) is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+DJ Warzone (3) is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
 DJ Warzone (3) is an experimental and electro artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Kim Leclerc, 0111001101110100 and Anni Herzer. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Warzone (3) is an experimental and electro artist tracked on soundcheck, with
 
 Kim Leclerc, 0111001101110100, Anni Herzer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarzone-3/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarzone-3/)*

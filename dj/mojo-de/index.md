@@ -1,6 +1,6 @@
 # mojo
 
-mojo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Gewölbe, Cologne on Sat, 31 Oct 2026.
+mojo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gewölbe, Cologne on Sat, 31 Oct 2026.
 
 mojo is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 11 more. Often billed alongside Waldymoto, Ariel (DE) and Anna Konda. Next up: Gewölbe, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ mojo is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Waldymoto, Ariel (DE), Anna Konda
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojo-de/)*

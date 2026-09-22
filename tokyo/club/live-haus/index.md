@@ -1,14 +1,13 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "JAZZ'N'BASS - Double Time Feel=Drum'n'Bass" on Mon, 21 Sept 2026.
+Live Haus is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Keep Hush × JUNGLE PARTY Tribal Connection" on Tue, 22 Sept 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including 1TA (1), 7e, Acrocanthosaurus and Allen Mock and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 1TA (1), 7e, Acrocanthosaurus and Allen Mock and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | JAZZ'N'BASS - Double Time Feel=Drum'n'Bass | EIJI, Kenta Tominaga, vinylDJ Eiji Takehana |
 | Tue, 22 Sept 2026 | Keep Hush × JUNGLE PARTY Tribal Connection | 1TA (1), 7e, FELINE (JP), HALU(Tribal Connection), Jungle Rock |
 | Fri, 25 Sept 2026 | CLUB80's - in shimokitazawa livehaus - | HERNIA, Jordan |
 | Fri, 9 Oct 2026 | 17℃FR | Lymph, Xamd, eijin |
@@ -18,4 +17,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with 
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

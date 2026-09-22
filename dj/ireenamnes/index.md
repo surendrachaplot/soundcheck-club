@@ -1,6 +1,6 @@
 # Ireen Amnes
 
-Ireen Amnes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+Ireen Amnes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
 Ireen Amnes is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Berlin and Bristol and 10 more. Often billed alongside Faux Naif, Infinity Division and Key Clef. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ireen Amnes is a techno and house artist tracked on soundcheck, with 71 sets log
 
 Faux Naif, Infinity Division, Key Clef
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*

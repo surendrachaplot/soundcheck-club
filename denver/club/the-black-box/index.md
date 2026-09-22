@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "The Black Box presents: Mefjus" on Thu, 24 Sept 2026.
+The Black Box is a music venue in Denver with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "The Black Box presents: Mefjus" on Thu, 24 Sept 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs, with line-ups including Daedelus, Daxta, Eichenbaum and Etch and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 11 upcoming gigs,
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

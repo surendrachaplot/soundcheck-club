@@ -1,6 +1,6 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
+Jackie Hollander is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
 
 Jackie Hollander is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Boston, Bristol and Chicago and 14 more. Often billed alongside Gorgon City, Max Styler and Riordan. Next up: Gallagher Square, Sandiego on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 
 Gorgon City, Max Styler, Riordan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

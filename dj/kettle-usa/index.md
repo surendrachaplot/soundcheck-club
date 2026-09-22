@@ -1,6 +1,6 @@
 # Kettle
 
-Kettle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+Kettle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 Kettle is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Iggy Nuclear, Conduit and Byld. Next up: Honey's, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kettle is a house and techno artist based in United States of America, tracked o
 
 Iggy Nuclear, Conduit, Byld
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*

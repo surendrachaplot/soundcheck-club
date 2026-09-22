@@ -1,14 +1,13 @@
 # DART
 
-DART is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 21 Sept 2026.
+DART is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 28 Sept 2026.
 
-DART is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Amnesia Ibiza, Ibiza on Mon 21 Sept.
+DART is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Amnesia Ibiza, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | Club Up | Amsterdam |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -19,6 +18,7 @@ DART is a techno and house artist tracked on soundcheck, with 112 sets logged ac
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 21 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 14 Sept 2026
 - Laagravense Plas, Utrecht — Sat, 12 Sept 2026
 - BASIS, Utrecht — Sat, 12 Sept 2026
@@ -26,10 +26,9 @@ DART is a techno and house artist tracked on soundcheck, with 112 sets logged ac
 - Mondo, Madrid — Sat, 5 Sept 2026
 - TivoliVredenburg, Utrecht — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

@@ -1,6 +1,6 @@
 # Ami Wokloni
 
-Ami Wokloni is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
+Ami Wokloni is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 90mil, Berlin on Sat, 26 Sept 2026.
 
 Ami Wokloni is a pop and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Sk [Rain], Mahita and gugol maps. Next up: 90mil, Berlin on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Ami Wokloni is a pop and house artist tracked on soundcheck, with 3 sets logged 
 
 Sk [Rain], Mahita, gugol maps
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amiwokloni/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amiwokloni/)*

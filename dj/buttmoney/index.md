@@ -1,6 +1,6 @@
 # BUTTMONEY
 
-BUTTMONEY is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at JAKI, Cologne on Fri, 23 Oct 2026.
+BUTTMONEY is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at JAKI, Cologne on Fri, 23 Oct 2026.
 
 BUTTMONEY is a breakbeat and bass artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne and Frankfurt. Often billed alongside QT-XTC, Back2Bass and DJ ASS TITS. Next up: JAKI, Cologne on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ BUTTMONEY is a breakbeat and bass artist based in Germany, tracked on soundcheck
 
 QT-XTC, Back2Bass, DJ ASS TITS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buttmoney/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buttmoney/)*

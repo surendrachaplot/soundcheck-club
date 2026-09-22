@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Gabrielle Kwarteng is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
 Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 245 sets logged across Amsterdam, Antwerp, Auckland and Bali and 58 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist tracked on soundcheck, with 245 
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

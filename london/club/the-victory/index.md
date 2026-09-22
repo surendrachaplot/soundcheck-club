@@ -1,6 +1,6 @@
 # The Victory
 
-The Victory is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "U-BEND" on Sat, 26 Sept 2026.
+The Victory is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "U-BEND" on Sat, 26 Sept 2026.
 
 The Victory is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including U-BEND. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Victory is a music venue in London listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | U-BEND | U-BEND |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-victory/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-victory/)*

@@ -1,6 +1,6 @@
 # Ilja Franz
 
-Ilja Franz is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
+Ilja Franz is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
 
 Ilja Franz is a house and downtempo artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Finona Rider, Sasha Zlykh and Aii PS. Next up: MS Stubnitz, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ilja Franz is a house and downtempo artist based in Germany, tracked on soundche
 
 Finona Rider, Sasha Zlykh, Aii PS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*

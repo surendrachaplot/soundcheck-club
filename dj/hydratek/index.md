@@ -1,6 +1,6 @@
 # HydraTek
 
-HydraTek is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Main Club, Milan on Thu, 24 Sept 2026.
+HydraTek is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Main Club, Milan on Thu, 24 Sept 2026.
 
 HydraTek is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Milan. Often billed alongside Richey V, Andrea Isella and Matvee. Next up: Main Club, Milan on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ HydraTek is a techno and electronica artist tracked on soundcheck, with 9 sets l
 
 Richey V, Andrea Isella, Matvee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hydratek/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hydratek/)*

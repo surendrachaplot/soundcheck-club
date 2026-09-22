@@ -1,6 +1,6 @@
 # Club04
 
-Club04 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "REDZONE" on Fri, 25 Sept 2026.
+Club04 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "REDZONE" on Fri, 25 Sept 2026.
 
 Club04 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including David Kawka and Patrik Widmer. Browse upcoming dates, start times and who's playing. Brauerstrasse 37, 8004 Zürich.
 
@@ -15,4 +15,4 @@ Club04 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with li
 
 Brauerstrasse 37, 8004 Zürich, Zurich
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club04/)*

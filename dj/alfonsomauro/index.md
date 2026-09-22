@@ -1,6 +1,6 @@
 # Alfonso Mauro
 
-Alfonso Mauro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Basic Club, Naples on Fri, 30 Oct 2026.
+Alfonso Mauro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Basic Club, Naples on Fri, 30 Oct 2026.
 
 Alfonso Mauro is a house and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Naples. Often billed alongside Deep Futuristic, Alessio Cristiano and Bardamu. Next up: Basic Club, Naples on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alfonso Mauro is a house and electronica artist based in Italy, tracked on sound
 
 Deep Futuristic, Alessio Cristiano, Bardamu
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsomauro/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsomauro/)*

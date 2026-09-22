@@ -1,6 +1,6 @@
 # False Identity
 
-False Identity is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Brussels on Fri, 9 Oct 2026.
+False Identity is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Brussels on Fri, 9 Oct 2026.
 
 False Identity is a techno and post-punk artist tracked on soundcheck, with 5 sets logged across Brussels. Often billed alongside 2+2=5, Orphx and Clara D. Next up: TBA, Brussels on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ False Identity is a techno and post-punk artist tracked on soundcheck, with 5 se
 
 2+2=5, Orphx, Clara D
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/falseidentity/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/falseidentity/)*

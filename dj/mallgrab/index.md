@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Mall Grab is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 Mall Grab is a techno and house artist tracked on soundcheck, with 208 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 65 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Mall Grab is a techno and house artist tracked on soundcheck, with 208 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

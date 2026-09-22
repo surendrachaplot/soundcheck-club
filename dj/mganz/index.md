@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Almar Beach Club, Barcelona on Wed, 23 Sept 2026.
+Mganz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Almar Beach Club, Barcelona on Wed, 23 Sept 2026.
 
 Mganz is a house and electronica artist based in Spain, tracked on soundcheck, with 26 sets logged across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Frucula. Next up: Almar Beach Club, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Mganz is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 juliboe, DC81, Frucula
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

@@ -1,6 +1,6 @@
 # Cora Lee
 
-Cora Lee is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at JAKI, Cologne on Fri, 9 Oct 2026.
+Cora Lee is a Deep House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at JAKI, Cologne on Fri, 9 Oct 2026.
 
 Cora Lee is a deep house and dub techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Cologne. Often billed alongside Love Sensation and Marie Chain. Next up: JAKI, Cologne on Fri 9 Oct.
 
@@ -18,4 +18,4 @@ Cora Lee is a deep house and dub techno artist based in Germany, tracked on soun
 
 Love Sensation, Marie Chain
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*

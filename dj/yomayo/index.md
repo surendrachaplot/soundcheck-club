@@ -1,6 +1,6 @@
 # YOMAYO
 
-YOMAYO is a Tech House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+YOMAYO is a Tech House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 YOMAYO is a tech house and disco artist tracked on soundcheck, with 3 sets logged across Miami. Often billed alongside Adam Bogdan, Boghian and Cecilio. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ YOMAYO is a tech house and disco artist tracked on soundcheck, with 3 sets logge
 
 Adam Bogdan, Boghian, Cecilio
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yomayo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yomayo/)*

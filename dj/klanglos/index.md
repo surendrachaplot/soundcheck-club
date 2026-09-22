@@ -1,6 +1,6 @@
 # Klanglos
 
-Klanglos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Schrotty, Cologne on Sat, 31 Oct 2026.
+Klanglos is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Schrotty, Cologne on Sat, 31 Oct 2026.
 
 Klanglos is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Basel, Berlin and Cologne and 9 more. Often billed alongside Mark Dekoda, Sylvie Miles and Ben Dust. Next up: Schrotty, Cologne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Klanglos is a techno and house artist tracked on soundcheck, with 51 sets logged
 
 Mark Dekoda, Sylvie Miles, Ben Dust
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*

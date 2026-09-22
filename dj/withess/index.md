@@ -1,6 +1,6 @@
 # With Ess
 
-With Ess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
+With Ess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
 With Ess is a house and techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Melbourne. Often billed alongside Amraks, Char(k) and Edd Fisher. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ With Ess is a house and techno artist based in Australia, tracked on soundcheck,
 
 Amraks, Char(k), Edd Fisher
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/withess/)*

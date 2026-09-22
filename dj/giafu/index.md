@@ -1,6 +1,6 @@
 # Gia Fu
 
-Gia Fu is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Okupa Kitchen & Listening Bar, Athens on Sat, 10 Oct 2026.
+Gia Fu is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Okupa Kitchen & Listening Bar, Athens on Sat, 10 Oct 2026.
 
 Gia Fu is a house and funk / soul artist based in China, tracked on soundcheck, with 18 sets logged across Amsterdam, Athens, Barcelona and Bristol and 8 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Okupa Kitchen & Listening Bar, Athens on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Gia Fu is a house and funk / soul artist based in China, tracked on soundcheck, 
 
 Sonido Tupinamba, Andy Votel, Atiké
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

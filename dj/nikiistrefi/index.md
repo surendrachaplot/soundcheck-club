@@ -1,6 +1,6 @@
 # Niki Istrefi
 
-Niki Istrefi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Eden NYC, New York City on Fri, 23 Oct 2026.
+Niki Istrefi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Eden NYC, New York City on Fri, 23 Oct 2026.
 
 Niki Istrefi is a techno and trance artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Boston 168, VEL (MA) and WNDRLST. Next up: Eden NYC, Newyorkcity on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Niki Istrefi is a techno and trance artist tracked on soundcheck, with 12 sets l
 
 Boston 168, VEL (MA), WNDRLST
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*

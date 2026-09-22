@@ -1,6 +1,6 @@
 # aqwapi
 
-aqwapi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+aqwapi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
 aqwapi is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Be.Bab, CATAWR and Dela Nesto. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ aqwapi is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Be.Bab, CATAWR, Dela Nesto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwapi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aqwapi/)*

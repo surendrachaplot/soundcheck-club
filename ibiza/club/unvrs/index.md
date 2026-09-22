@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Armin Van Buuren presents A State Of Trance" on Mon, 21 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Black Coffee" on Tue, 22 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Adriatique, Alan Fitzpatrick, AMÉMÉ and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Armin Van Buuren presents A State Of Trance | Argy, Armin van Buuren |
 | Tue, 22 Sept 2026 | Black Coffee | Black Coffee |
 | Wed, 23 Sept 2026 | Jamie Jones Paradise | Cam Stockman, DXNBY, FIFI FORTE, Franky Rizardo, Gaskin, Jamie Jones, Max Dean, Natalia Roth, Ozzie Guven, Wheats |
 | Thu, 24 Sept 2026 | Adriatique presents X | Adriatique |
@@ -18,9 +17,10 @@
 | Mon, 28 Sept 2026 | Armin Van Buuren presents A State Of Trance | Armin van Buuren, Funk Tribu |
 | Tue, 29 Sept 2026 | No Art | ANOTR |
 | Wed, 30 Sept 2026 | Jamie Jones Paradise | Calvin Clarke, Ciclo, Damian Lazarus, Jamie Jones, Josh Dean, Loco Dice, SYREETA |
+| Thu, 1 Oct 2026 | Black Coffee | Black Coffee |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

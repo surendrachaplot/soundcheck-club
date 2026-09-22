@@ -1,6 +1,6 @@
 # Omar-S
 
-Omar-S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Basic Club, Naples on Sat, 10 Oct 2026.
+Omar-S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Basic Club, Naples on Sat, 10 Oct 2026.
 
 Omar-S is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Carl Craig, Idriss D and DJ Stingray 313. Next up: Basic Club, Naples on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Omar-S is a house and techno artist based in United States of America, tracked o
 
 Carl Craig, Idriss D, DJ Stingray 313
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*

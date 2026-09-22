@@ -1,6 +1,6 @@
 # Magazzini Generali
 
-Magazzini Generali is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "The Blaze (DJ Set)" on Fri, 2 Oct 2026.
+Magazzini Generali is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "The Blaze (DJ Set)" on Fri, 2 Oct 2026.
 
 Magazzini Generali is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including camoufly and The Blaze. Browse upcoming dates, start times and who's playing. Via Pietrasanta 14, 20124 Milano (MI).
 
@@ -15,4 +15,4 @@ Magazzini Generali is a music venue in Milan listed on soundcheck. 2 upcoming gi
 
 Via Pietrasanta 14, 20124 Milano (MI), Milan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/magazzini-generali/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/magazzini-generali/)*

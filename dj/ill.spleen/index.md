@@ -1,6 +1,6 @@
 # Ill Spleen
 
-Ill Spleen is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Ill Spleen is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
 Ill Spleen is an electro and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Lisbon and Marseille and 4 more. Often billed alongside LAMALICE, Massaï and Krol. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ill Spleen is an electro and house artist tracked on soundcheck, with 22 sets lo
 
 LAMALICE, Massaï, Krol
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ill.spleen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ill.spleen/)*

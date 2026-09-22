@@ -1,6 +1,6 @@
 # SteNo
 
-SteNo is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Combo Milano, Milan on Sun, 4 Oct 2026.
+SteNo is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Combo Milano, Milan on Sun, 4 Oct 2026.
 
 SteNo is an electronic artist tracked on soundcheck, with 3 sets logged across Milan and Rome. Often billed alongside Delikwe, Kreggo and Marco Ohm. Next up: Combo Milano, Milan on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ SteNo is an electronic artist tracked on soundcheck, with 3 sets logged across M
 
 Delikwe, Kreggo, Marco Ohm
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steno/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steno/)*

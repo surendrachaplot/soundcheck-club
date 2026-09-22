@@ -1,6 +1,6 @@
 # And Hazel
 
-And Hazel is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 2 Oct 2026.
+And Hazel is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 2 Oct 2026.
 
 And Hazel is a tech house and house artist tracked on soundcheck, with 46 sets logged across Ibiza, London and Zurich. Often billed alongside De La Maso, Alessio da Silva and ARWIN AZIZ. Next up: Frieda's Büxe, Zurich on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ And Hazel is a tech house and house artist tracked on soundcheck, with 46 sets l
 
 De La Maso, Alessio da Silva, ARWIN AZIZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andhazel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andhazel/)*

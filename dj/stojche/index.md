@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Thu, 8 Oct 2026.
+Stojche is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Thu, 8 Oct 2026.
 
 Stojche is a techno and dub techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Cadavra, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Stojche is a techno and dub techno artist tracked on soundcheck, with 61 sets lo
 
 SHDW, Anika Kunst, Phara
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

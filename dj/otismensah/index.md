@@ -1,6 +1,6 @@
 # Otis Mensah
 
-Otis Mensah is a Hip-Hop and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Richten25, Berlin on Sun, 4 Oct 2026.
+Otis Mensah is a Hip-Hop and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Richten25, Berlin on Sun, 4 Oct 2026.
 
 Otis Mensah is a hip-hop and jazz artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Abibi, Dakn and Gavsborg. Next up: Richten25, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Otis Mensah is a hip-hop and jazz artist based in United Kingdom, tracked on sou
 
 Abibi, Dakn, Gavsborg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otismensah/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otismensah/)*

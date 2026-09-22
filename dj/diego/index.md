@@ -1,6 +1,6 @@
 # DIEGÖ
 
-DIEGÖ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
+DIEGÖ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
 
 DIEGÖ is a house and techno artist based in Mexico, tracked on soundcheck, with 17 sets logged across Berlin and Stuttgart. Often billed alongside Miss Evoice, Caleesi and Mimi Love. Next up: Fridas Pier, Stuttgart on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DIEGÖ is a house and techno artist based in Mexico, tracked on soundcheck, with
 
 Miss Evoice, Caleesi, Mimi Love
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diego/)*

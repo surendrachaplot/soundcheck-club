@@ -1,6 +1,6 @@
 # Randomer
 
-Randomer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Blank Site, Seoul on Fri, 25 Sept 2026.
+Randomer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Blank Site, Seoul on Fri, 25 Sept 2026.
 
 Randomer is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside AADJA, Anetha and Clouds. Next up: Blank Site, Seoul on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Randomer is a techno and house artist tracked on soundcheck, with 83 sets logged
 
 AADJA, Anetha, Clouds
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

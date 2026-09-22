@@ -1,6 +1,6 @@
 # Izco
 
-Izco is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+Izco is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
 Izco is a garage and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 19 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Izco is a garage and jungle artist tracked on soundcheck, with 79 sets logged ac
 
 Capo Lee, Bakey, Tim Reaper
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*

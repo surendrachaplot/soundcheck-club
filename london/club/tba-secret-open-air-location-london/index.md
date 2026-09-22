@@ -1,6 +1,6 @@
 # TBA - Secret Open Air Location, London
 
-TBA - Secret Open Air Location, London is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "PARAVIBE - Summer Closing Party" on Sat, 3 Oct 2026.
+TBA - Secret Open Air Location, London is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "PARAVIBE - Summer Closing Party" on Sat, 3 Oct 2026.
 
 TBA - Secret Open Air Location, London is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Open Air Location, London is a music venue in London listed on soun
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | PARAVIBE - Summer Closing Party |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-open-air-location-london/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-open-air-location-london/)*

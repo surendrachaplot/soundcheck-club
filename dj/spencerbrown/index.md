@@ -1,6 +1,6 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
+Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
 
 Spencer Brown is a progressive house and house artist tracked on soundcheck, with 86 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Reelworks Denver, Denver on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 
 Qrion, John Digweed, Jody Wisternoff
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

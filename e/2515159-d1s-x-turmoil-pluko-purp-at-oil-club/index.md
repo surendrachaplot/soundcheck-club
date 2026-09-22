@@ -1,6 +1,6 @@
 # D1S x TURMOIL: Pluko+purp at OIL Club
 
-D1S x TURMOIL: Pluko+purp at OIL Club on Wed 30 Sept, Shenzhen. 5 acts on the bill: Beibeilon, DJ 86, purp and TiaNT and 1 more. Hip-Hop and Baile Funk. Preview the line-up and save it on soundcheck.
+D1S x TURMOIL: Pluko+purp at OIL Club on Wed 30 Sept, Shenzhen. 5 acts on the bill: Beibeilon, DJ 86, purp and TiaNT and 1 more. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

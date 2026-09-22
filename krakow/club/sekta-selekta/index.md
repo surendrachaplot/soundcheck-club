@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "1-2-3-4 x Sekta Selekta" on Sat, 26 Sept 2026.
+Sekta Selekta is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "1-2-3-4 x Sekta Selekta" on Sat, 26 Sept 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including BUDZKO, Emil Zenko, Kurilo and O'FortyFour and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -15,4 +15,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

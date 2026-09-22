@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fonda Theatre, Los Angeles on Tue, 22 Sept 2026.
+Six Sex is a Techno and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fonda Theatre, Los Angeles on Tue, 22 Sept 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Fonda Theatre, Losangeles on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 49 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

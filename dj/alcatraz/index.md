@@ -1,6 +1,6 @@
 # ALCATRAZ
 
-ALCATRAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+ALCATRAZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 ALCATRAZ is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ALCATRAZ is a techno and house artist tracked on soundcheck, with 57 sets logged
 
 DJ Gigola, MCR-T, Bauernfeind
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*

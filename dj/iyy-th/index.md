@@ -1,6 +1,6 @@
 # IYY (TH)
 
-IYY (TH) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Dual, Bangkok on Fri, 25 Sept 2026.
+IYY (TH) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Dual, Bangkok on Fri, 25 Sept 2026.
 
 IYY (TH) is a house and minimal artist based in Thailand, tracked on soundcheck, with 194 sets logged across Bangkok. Often billed alongside Wildealer, PunTue and DOTT. Next up: Dual, Bangkok on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ IYY (TH) is a house and minimal artist based in Thailand, tracked on soundcheck,
 
 Wildealer, PunTue, DOTT
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyy-th/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyy-th/)*

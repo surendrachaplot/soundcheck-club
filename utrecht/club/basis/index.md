@@ -1,6 +1,6 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "BASIS/ Stan Christ all night long" on Fri, 25 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "BASIS/ Stan Christ all night long" on Fri, 25 Sept 2026.
 
 BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Amy Rymes, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming gigs, with l
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

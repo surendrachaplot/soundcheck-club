@@ -1,6 +1,6 @@
 # espoff
 
-espoff is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 26 Sept 2026.
+espoff is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 26 Sept 2026.
 
 espoff is a house and disco artist based in Poland, tracked on soundcheck, with 26 sets logged across Warsaw. Often billed alongside Easy Audio, bart ender and uiava. Next up: MONKEY LOVE, Warsaw on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ espoff is a house and disco artist based in Poland, tracked on soundcheck, with 
 
 Easy Audio, bart ender, uiava
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espoff/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espoff/)*

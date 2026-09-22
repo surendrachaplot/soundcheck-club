@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Daniel Avery (Live), Dopplereffekt (live)" on Wed, 23 Sept 2026.
+Elsewhere is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Daniel Avery (Live), Dopplereffekt (live)" on Wed, 23 Sept 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 25 upcoming gigs, with line-ups including 444 (1), 6 SENSE, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 25 upcoming gigs
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

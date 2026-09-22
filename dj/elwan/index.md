@@ -1,6 +1,6 @@
 # Elwan
 
-Elwan is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+Elwan is a Deep House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
 Elwan is a deep house and electronica artist tracked on soundcheck, with 4 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Ali Dey Daly, Brian Scannell and Cena. Next up: TBA, Losangeles on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Elwan is a deep house and electronica artist tracked on soundcheck, with 4 sets 
 
 Ali Dey Daly, Brian Scannell, Cena
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elwan/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elwan/)*

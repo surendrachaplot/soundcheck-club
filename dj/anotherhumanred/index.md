@@ -1,6 +1,6 @@
 # Another Human Red
 
-Another Human Red is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
+Another Human Red is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Chi Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Another Human Red is a techno and acid artist tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Miss Crafty, ANCARCO and Kamu Kamu. Next up: Chi Lounge, Sanfrancisco on Sun 27 Sept.
 
@@ -23,4 +23,4 @@ Another Human Red is a techno and acid artist tracked on soundcheck, with 7 sets
 
 Miss Crafty, ANCARCO, Kamu Kamu
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotherhumanred/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotherhumanred/)*

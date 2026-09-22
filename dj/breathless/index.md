@@ -1,6 +1,6 @@
 # Breathless
 
-Breathless is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Breathless is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Breathless is a techno and hardcore artist tracked on soundcheck, with 2 sets logged across Berlin and Munich. Often billed alongside Angerfist, DJ Drizzy and Dual Damage. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ Breathless is a techno and hardcore artist tracked on soundcheck, with 2 sets lo
 
 Angerfist, DJ Drizzy, Dual Damage
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breathless/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breathless/)*

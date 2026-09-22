@@ -1,6 +1,6 @@
 # Iker Lobo
 
-Iker Lobo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+Iker Lobo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
 
 Iker Lobo is a house and electronica artist based in Mexico, tracked on soundcheck, with 9 sets logged across Madrid. Often billed alongside Daya Dadlani, Hugo Carter and DAVID MEYER .. Next up: Subcero Club, Madrid on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Iker Lobo is a house and electronica artist based in Mexico, tracked on soundche
 
 Daya Dadlani, Hugo Carter, DAVID MEYER .
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerlobo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerlobo/)*

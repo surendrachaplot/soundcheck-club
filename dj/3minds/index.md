@@ -1,8 +1,8 @@
 # 3 Minds
 
-3 Minds is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
+3 Minds is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
-3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
+3 Minds is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Leeds and London and 3 more. Often billed alongside Terry Francis, Eddie Richards and Silverlining. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Sat, 26 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 26 Sept 2026 | TBA | London |
 | Sat, 31 Oct 2026 | Gaffe | London |
+| Sat, 7 Nov 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@
 
 Terry Francis, Eddie Richards, Silverlining
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3minds/)*

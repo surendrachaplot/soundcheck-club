@@ -1,6 +1,6 @@
 # othrwrld
 
-othrwrld is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+othrwrld is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 othrwrld is a techno and bass artist based in Canada, tracked on soundcheck, with 3 sets logged across Portland. Often billed alongside Peter Sheppard, 8maos and ALoSo. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ othrwrld is a techno and bass artist based in Canada, tracked on soundcheck, wit
 
 Peter Sheppard, 8maos, ALoSo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/othrwrld/)*

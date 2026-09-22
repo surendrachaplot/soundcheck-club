@@ -1,6 +1,6 @@
 # Shelf-Index
 
-Shelf-Index is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 宀 Club, Hong Kong on Thu, 24 Sept 2026.
+Shelf-Index is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 宀 Club, Hong Kong on Thu, 24 Sept 2026.
 
 Shelf-Index is a techno and bass artist based in China, tracked on soundcheck, with 14 sets logged across Hongkong. Often billed alongside JFÜNG, BUSYBOI and VSLORIA. Next up: 宀 Club, Hongkong on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Shelf-Index is a techno and bass artist based in China, tracked on soundcheck, w
 
 JFÜNG, BUSYBOI, VSLORIA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shelf-index/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shelf-index/)*

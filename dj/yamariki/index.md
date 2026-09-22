@@ -1,6 +1,6 @@
 # Yamariki
 
-Yamariki is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue, 22 Sept 2026.
+Yamariki is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue, 22 Sept 2026.
 
 Yamariki is a house and tech house artist based in Japan, tracked on soundcheck, with 170 sets logged across Amsterdam, Osaka, Seoul and Sydney and 1 more. Often billed alongside PUNK N MATRIX, Chika Luna and ANZU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue 22 Sept.
 
@@ -31,4 +31,4 @@ Yamariki is a house and tech house artist based in Japan, tracked on soundcheck,
 
 PUNK N MATRIX, Chika Luna, ANZU
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamariki/)*

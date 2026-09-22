@@ -1,6 +1,6 @@
 # Backyard Mix
 
-Backyard Mix is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Helios37, Cologne on Sat, 10 Oct 2026.
+Backyard Mix is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Helios37, Cologne on Sat, 10 Oct 2026.
 
 Backyard Mix is a trance and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Dublin and Liverpool and 4 more. Often billed alongside WAN.1, GOLDI (AT) and Charleen Herzig. Next up: Helios37, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Backyard Mix is a trance and techno artist based in United States of America, tr
 
 WAN.1, GOLDI (AT), Charleen Herzig
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backyarddj/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backyarddj/)*

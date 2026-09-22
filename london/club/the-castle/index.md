@@ -1,6 +1,6 @@
 # The Castle
 
-The Castle is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RuffRat X Inflo Fundraiser" on Fri, 25 Sept 2026.
+The Castle is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "RuffRat X Inflo Fundraiser" on Fri, 25 Sept 2026.
 
 The Castle is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including AC Industries, Lapworth and LOWCO. Browse upcoming dates, start times and who's playing. 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom.
 
@@ -17,4 +17,4 @@ The Castle is a music venue in London listed on soundcheck. 4 upcoming gigs, wit
 
 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*

@@ -1,6 +1,6 @@
 # jjmorris4
 
-jjmorris4 is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Home Nightclub Bexleyheath, London on Fri, 25 Sept 2026.
+jjmorris4 is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Home Nightclub Bexleyheath, London on Fri, 25 Sept 2026.
 
 jjmorris4 is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside HCTR, JFULLER and Jimi Latifi. Next up: Home Nightclub Bexleyheath, London on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ jjmorris4 is a tech house and deep house artist based in United Kingdom, tracked
 
 HCTR, JFULLER, Jimi Latifi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjmorris4/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjmorris4/)*

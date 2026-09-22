@@ -1,6 +1,6 @@
 # Roof 175
 
-Roof 175 is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hard Impact & Fury - last Uptempo Edition" on Fri, 25 Sept 2026.
+Roof 175 is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hard Impact & Fury - last Uptempo Edition" on Fri, 25 Sept 2026.
 
 Roof 175 is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including DeGuzman, Kili (3), Missy (UK) and Noise Not War and 1 more. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
 
@@ -16,4 +16,4 @@ Roof 175 is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, wi
 
 Rheinallee 175 55120 Mainz, Germany, Frankfurt
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*

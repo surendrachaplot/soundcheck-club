@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Free Spirits: Kiana Mickles presents Mary Lou Williams" on Tue, 22 Sept 2026.
+Silence Please is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Free Spirits: Kiana Mickles presents Mary Lou Williams" on Tue, 22 Sept 2026.
 
 Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming gigs, with line-ups including 320 (1), Softi, Kiana and Plushie and 1 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -21,4 +21,4 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Doggy & Friends: Rvbbio" on Thu, 24 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Doggy & Friends: Rvbbio" on Thu, 24 Sept 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 5 upcoming gigs, with line-ups including Arval, Certain People, FLAKØ and GØNGOM and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -18,4 +18,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 5 upcoming gigs, wi
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

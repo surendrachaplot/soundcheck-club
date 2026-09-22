@@ -1,6 +1,6 @@
 # NTHNG (2)
 
-NTHNG (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Loods6, Amsterdam on Thu, 22 Oct 2026.
+NTHNG (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Loods6, Amsterdam on Thu, 22 Oct 2026.
 
 NTHNG (2) is a techno and tech house artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam and Stuttgart. Often billed alongside Adi Dassler, BaTMaN (2) and Nadia Struiwigh. Next up: Loods6, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ NTHNG (2) is a techno and tech house artist based in Germany, tracked on soundch
 
 Adi Dassler, BaTMaN (2), Nadia Struiwigh
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng-2/)*

@@ -1,6 +1,6 @@
 # K4Y Official
 
-K4Y Official is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+K4Y Official is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
 
 K4Y Official is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Basel and Zurich. Often billed alongside Herrrouine, KNTRLVRLST and Luzy. Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ K4Y Official is a techno and industrial artist tracked on soundcheck, with 3 set
 
 Herrrouine, KNTRLVRLST, Luzy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k4yofficial/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k4yofficial/)*

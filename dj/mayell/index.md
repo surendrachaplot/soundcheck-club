@@ -1,6 +1,6 @@
 # Mayell
 
-Mayell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Downtown LA, Los Angeles on Fri, 30 Oct 2026.
+Mayell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Downtown LA, Los Angeles on Fri, 30 Oct 2026.
 
 Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Sibil (1), O.BEE and Tomas Station. Next up: TBA - Downtown LA, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, wi
 
 Sibil (1), O.BEE, Tomas Station
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*

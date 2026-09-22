@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
+Mike Starr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
 
 Mike Starr is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: TBA, Leipzig on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mike Starr is a house and techno artist tracked on soundcheck, with 92 sets logg
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

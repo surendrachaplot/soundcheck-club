@@ -1,6 +1,6 @@
 # Mama Snake
 
-Mama Snake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Mama Snake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Mama Snake is a techno and trance artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Spekki Webu, BASHKKA and DJ TOOL. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Mama Snake is a techno and trance artist tracked on soundcheck, with 203 sets lo
 
 Spekki Webu, BASHKKA, DJ TOOL
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*

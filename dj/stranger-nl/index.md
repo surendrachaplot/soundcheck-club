@@ -1,6 +1,6 @@
 # stranger (NL)
 
-stranger (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
+stranger (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
 stranger (NL) is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Chlär, DAX J and Beste Hira. Next up: RADION, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ stranger (NL) is a techno and house artist tracked on soundcheck, with 90 sets l
 
 Chlär, DAX J, Beste Hira
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*

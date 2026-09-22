@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live-" on Fri, 25 Sept 2026.
+Gewölbe is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Schleuse Eins with Beste Hira, Maxim Vukovic & Tils, Reduks -live-" on Fri, 25 Sept 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including 04061, Andy Garvey, Anna Cainelli and a:tok and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

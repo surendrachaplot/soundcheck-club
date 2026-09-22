@@ -1,6 +1,6 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OIL Club, Shenzhen on Sat, 26 Sept 2026.
+Héctor Oaks is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OIL Club, Shenzhen on Sat, 26 Sept 2026.
 
 Héctor Oaks is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: OIL Club, Shenzhen on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 253 sets l
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

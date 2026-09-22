@@ -1,6 +1,6 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Green Room NYC, New York City on Fri, 16 Oct 2026.
+Jay Tripwire is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Green Room NYC, New York City on Fri, 16 Oct 2026.
 
 Jay Tripwire is a house and minimal artist based in Canada, tracked on soundcheck, with 89 sets logged across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: Green Room NYC, Newyorkcity on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Jay Tripwire is a house and minimal artist based in Canada, tracked on soundchec
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

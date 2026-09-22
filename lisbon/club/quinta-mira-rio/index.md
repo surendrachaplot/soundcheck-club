@@ -1,6 +1,6 @@
 # Quinta Mira Rio
 
-Quinta Mira Rio is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MIRA RIO apresenta Mad Professor" on Fri, 25 Sept 2026.
+Quinta Mira Rio is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MIRA RIO apresenta Mad Professor" on Fri, 25 Sept 2026.
 
 Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including ANYA JAVYBZ, Luke Alessi, Mad Professor and Sally C and 2 more. Browse upcoming dates, start times and who's playing. R. do Joinal 2825, Caparica.
 
@@ -15,4 +15,4 @@ Quinta Mira Rio is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs
 
 R. do Joinal 2825, Caparica, Lisbon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/quinta-mira-rio/)*

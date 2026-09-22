@@ -1,6 +1,6 @@
 # Cena
 
-Cena is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+Cena is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
 Cena is a minimal techno and house artist tracked on soundcheck, with 9 sets logged across Losangeles, Mexicocity and Newyorkcity. Often billed alongside Dáno, Drey Lubin and Elwan. Next up: TBA, Losangeles on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Cena is a minimal techno and house artist tracked on soundcheck, with 9 sets log
 
 Dáno, Drey Lubin, Elwan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cena/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cena/)*

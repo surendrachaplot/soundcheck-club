@@ -1,6 +1,6 @@
 # Ethan A.
 
-Ethan A. is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
+Ethan A. is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Honey Street Studio, Manchester on Sat, 14 Nov 2026.
 
 Ethan A. is an acid and house artist tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside GayBoy, JAMS (UK) and King Kit. Next up: Honey Street Studio, Manchester on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ Ethan A. is an acid and house artist tracked on soundcheck, with 2 sets logged a
 
 GayBoy, JAMS (UK), King Kit
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethana./)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethana./)*

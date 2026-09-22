@@ -1,6 +1,6 @@
 # Selma
 
-Selma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Selma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
 Selma is a techno and house artist based in Norway, tracked on soundcheck, with 17 sets logged across Copenhagen, Leipzig, Madrid and Oslo and 1 more. Often billed alongside Frederik Tollund, Lucky Lube and Dgeral. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Selma is a techno and house artist based in Norway, tracked on soundcheck, with 
 
 Frederik Tollund, Lucky Lube, Dgeral
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*

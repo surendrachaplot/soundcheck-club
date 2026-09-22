@@ -1,6 +1,6 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+WINDFUHR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
 WINDFUHR is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Phil Berg. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ WINDFUHR is a techno and house artist tracked on soundcheck, with 57 sets logged
 
 Hitam, Angioma, Phil Berg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*

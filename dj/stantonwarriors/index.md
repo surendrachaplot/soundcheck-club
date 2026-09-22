@@ -1,6 +1,6 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Steel Yard, London on Sat, 10 Oct 2026.
+Stanton Warriors is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Steel Yard, London on Sat, 10 Oct 2026.
 
 Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Birmingham, Brighton and Brisbane and 9 more. Often billed alongside Krafty Kuts, Plump DJs and Evil Nine. Next up: The Steel Yard, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked
 
 Krafty Kuts, Plump DJs, Evil Nine
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

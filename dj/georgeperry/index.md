@@ -1,6 +1,6 @@
 # George Perry
 
-George Perry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 24 Oct 2026.
+George Perry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 24 Oct 2026.
 
 George Perry is a techno and house artist tracked on soundcheck, with 5 sets logged across Frankfurt and Stuttgart. Often billed alongside Mike Väth, TATAKI and Alicia Hahn. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ George Perry is a techno and house artist tracked on soundcheck, with 5 sets log
 
 Mike Väth, TATAKI, Alicia Hahn
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeperry/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeperry/)*

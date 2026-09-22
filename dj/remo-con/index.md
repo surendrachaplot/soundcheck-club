@@ -1,18 +1,18 @@
 # Remo-con
 
-Remo-con is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon, 21 Sept 2026.
+Remo-con is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
 
-Remo-con is a techno and house artist based in Japan, tracked on soundcheck, with 47 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BEPPU, YOSHIMASA and Takami. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Mon 21 Sept.
+Remo-con is a techno and house artist based in Japan, tracked on soundcheck, with 47 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BEPPU, YOSHIMASA and Takami. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sun, 11 Oct 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Mon, 21 Sept 2026
 - R Lounge, Tokyo — Sat, 5 Sept 2026
 - R Lounge, Tokyo — Sat, 27 Jun 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 23 May 2026
@@ -20,10 +20,9 @@ Remo-con is a techno and house artist based in Japan, tracked on soundcheck, wit
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 18 Apr 2026
 - EDEN, Tokyo — Sun, 5 Apr 2026
 - R Lounge, Tokyo — Sun, 1 Mar 2026
-- R Lounge, Tokyo — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 BEPPU, YOSHIMASA, Takami
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*

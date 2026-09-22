@@ -1,6 +1,6 @@
 # Sisyphos
 
-Sisyphos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Bodega, Hamburg on Fri, 30 Oct 2026.
+Sisyphos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Bodega, Hamburg on Fri, 30 Oct 2026.
 
 Sisyphos is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Anna Schreit, Juli N. More and Leon Licht. Next up: La Bodega, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sisyphos is a techno and house artist tracked on soundcheck, with 48 sets logged
 
 Anna Schreit, Juli N. More, Leon Licht
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisyphos/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sisyphos/)*

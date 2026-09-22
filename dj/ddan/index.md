@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+D.Dan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -32,4 +32,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 202 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

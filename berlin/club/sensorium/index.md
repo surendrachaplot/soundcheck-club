@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "TECHNO MITTWOCH" on Wed, 23 Sept 2026.
+Sensorium is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "TECHNO MITTWOCH" on Wed, 23 Sept 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdallah and I, Andeel, April the pink and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, wit
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

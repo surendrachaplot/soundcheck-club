@@ -1,6 +1,6 @@
 # Masterpeace
 
-Masterpeace is a Psytrance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Drop, Osaka on Sat, 3 Oct 2026.
+Masterpeace is a Psytrance and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Drop, Osaka on Sat, 3 Oct 2026.
 
 Masterpeace is a psytrance and hip-hop artist based in Italy, tracked on soundcheck, with 4 sets logged across London and Osaka. Often billed alongside 00ab, Angel Gray and Blanco. Next up: Drop, Osaka on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Masterpeace is a psytrance and hip-hop artist based in Italy, tracked on soundch
 
 00ab, Angel Gray, Blanco
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masterpeace/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masterpeace/)*

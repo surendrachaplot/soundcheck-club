@@ -1,6 +1,6 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+stargurl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
 stargurl is a techno and trance artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and Cologne and 6 more. Often billed alongside The Jakob Sister, vizionn and DJ Angel (1). Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ stargurl is a techno and trance artist tracked on soundcheck, with 32 sets logge
 
 The Jakob Sister, vizionn, DJ Angel (1)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*

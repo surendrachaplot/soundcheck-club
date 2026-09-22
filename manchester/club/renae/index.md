@@ -1,6 +1,6 @@
 # renae
 
-renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "renae: Bad Wolf Takeover" on Tue, 22 Sept 2026.
+renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "renae: Bad Wolf Takeover" on Tue, 22 Sept 2026.
 
 renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including April (UK), Chris Massey, Chunky and cuci cuci coo and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
@@ -23,4 +23,4 @@ renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, wit
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

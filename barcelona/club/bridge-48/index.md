@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "B48 Live x RITUALS" on Thu, 24 Sept 2026.
+Bridge 48 is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "B48 Live x RITUALS" on Thu, 24 Sept 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including 21b (1), Albert Salvatierra, Alderaan and Emme Musik and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -19,4 +19,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, w
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

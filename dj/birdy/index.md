@@ -1,6 +1,6 @@
 # Birdy
 
-Birdy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
+Birdy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Wiggle Room, Toronto on Sun, 4 Oct 2026.
 
 Birdy is a tech house and house artist tracked on soundcheck, with 8 sets logged across Barcelona and Toronto. Often billed alongside Manzone & Strong, Better Late and Zorglüb. Next up: Wiggle Room, Toronto on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Birdy is a tech house and house artist tracked on soundcheck, with 8 sets logged
 
 Manzone & Strong, Better Late, Zorglüb
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdy/)*

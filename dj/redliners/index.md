@@ -1,6 +1,6 @@
 # REDLINERS
 
-REDLINERS is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
+REDLINERS is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
 
 REDLINERS is a techno and club artist tracked on soundcheck, with 25 sets logged across Leipzig, Losangeles, Montreal and Sanfrancisco and 1 more. Often billed alongside Chippy Nonstop, Karim Olen Ash and HVN (1). Next up: TBA - DTLA, Losangeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ REDLINERS is a techno and club artist tracked on soundcheck, with 25 sets logged
 
 Chippy Nonstop, Karim Olen Ash, HVN (1)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redliners/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redliners/)*

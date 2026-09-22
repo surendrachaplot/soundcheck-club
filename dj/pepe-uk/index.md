@@ -1,6 +1,6 @@
 # Pépe
 
-Pépe is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
+Pépe is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
 
 Pépe is a techno and club artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Baldman, Just Claudia and AINES. Next up: Rastro Live Studio, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Pépe is a techno and club artist based in Spain, tracked on soundcheck, with 33
 
 Baldman, Just Claudia, AINES
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*

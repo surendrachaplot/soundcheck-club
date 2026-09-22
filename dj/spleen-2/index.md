@@ -1,6 +1,6 @@
 # spleen (2)
 
-spleen (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 1990, Glasgow on Sat, 26 Sept 2026.
+spleen (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 1990, Glasgow on Sat, 26 Sept 2026.
 
 spleen (2) is a house and techno artist tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Génie, Babyccino and Frank Grime. Next up: 1990, Glasgow on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ spleen (2) is a house and techno artist tracked on soundcheck, with 3 sets logge
 
 Génie, Babyccino, Frank Grime
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen-2/)*

@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Standard Records presents: Terry Francis" on Fri, 2 Oct 2026.
+Eiger Studios is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Standard Records presents: Terry Francis" on Fri, 2 Oct 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Bobby., Ekkel, Ewan Pearson and Hooley and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -21,4 +21,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, w
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

@@ -1,6 +1,6 @@
 # Goffbaby
 
-Goffbaby is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Umbo, Zurich on Sat, 26 Sept 2026.
+Goffbaby is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Umbo, Zurich on Sat, 26 Sept 2026.
 
 Goffbaby is a hardcore and techno artist tracked on soundcheck, with 13 sets logged across Basel, Berlin, Geneva and Paris and 1 more. Often billed alongside Paul Seul, LØUS and 4wallzz. Next up: Umbo, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Goffbaby is a hardcore and techno artist tracked on soundcheck, with 13 sets log
 
 Paul Seul, LØUS, 4wallzz
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goffbaby/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goffbaby/)*

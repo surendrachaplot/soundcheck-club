@@ -1,6 +1,6 @@
 # ADHILA
 
-ADHILA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Groove, Buenos Aires on Sat, 21 Nov 2026.
+ADHILA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Groove, Buenos Aires on Sat, 21 Nov 2026.
 
 ADHILA is a techno and electronica artist tracked on soundcheck, with 3 sets logged across Buenosaires. Often billed alongside ALT8, ALYOSHA and BYØRN. Next up: Groove, Buenosaires on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ ADHILA is a techno and electronica artist tracked on soundcheck, with 3 sets log
 
 ALT8, ALYOSHA, BYØRN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adhila/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adhila/)*

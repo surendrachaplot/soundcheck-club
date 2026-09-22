@@ -1,6 +1,6 @@
 # zzm (2)
 
-zzm (2) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OIL Club, Shenzhen on Wed, 30 Sept 2026.
+zzm (2) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OIL Club, Shenzhen on Wed, 30 Sept 2026.
 
 zzm (2) is a club and techno artist tracked on soundcheck, with 66 sets logged across Seoul and Shenzhen. Often billed alongside DJ 86, Beibeilon and Sirens. Next up: OIL Club, Shenzhen on Wed 30 Sept.
 
@@ -28,4 +28,4 @@ zzm (2) is a club and techno artist tracked on soundcheck, with 66 sets logged a
 
 DJ 86, Beibeilon, Sirens
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzm-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzm-2/)*

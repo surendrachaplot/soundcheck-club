@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
+Namasenda is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
 
 Namasenda is a club and pop artist tracked on soundcheck, with 19 sets logged across Barcelona, Brussels, Glasgow and Leipzig and 8 more. Often billed alongside Boys Noize, DJ AYA and Danielle. Next up: TBA, Mexicocity on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Namasenda is a club and pop artist tracked on soundcheck, with 19 sets logged ac
 
 Boys Noize, DJ AYA, Danielle
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

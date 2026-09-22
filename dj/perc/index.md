@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Perc is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Perc is a techno and industrial artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Ansome, Somniac One and DAX J. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Perc is a techno and industrial artist tracked on soundcheck, with 161 sets logg
 
 Ansome, Somniac One, DAX J
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

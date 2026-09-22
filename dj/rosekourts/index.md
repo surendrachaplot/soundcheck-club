@@ -1,6 +1,6 @@
 # Rose Kourts
 
-Rose Kourts is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
+Rose Kourts is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nowadays, New York City on Sat, 26 Sept 2026.
 
 Rose Kourts is a house and techno artist based in United States of America, tracked on soundcheck, with 145 sets logged across Amsterdam, Berlin, Boston and Chicago and 10 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Nowadays, Newyorkcity on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Rose Kourts is a house and techno artist based in United States of America, trac
 
 Miss Alicia, Devoye, Analog Soul
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*

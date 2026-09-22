@@ -1,6 +1,6 @@
 # Inga Copeland
 
-Inga Copeland is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
+Inga Copeland is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Simian, Copenhagen on Sat, 26 Sept 2026.
 
 Inga Copeland is a club and experimental artist tracked on soundcheck, with 2 sets logged across Brussels and Copenhagen. Often billed alongside Lolina, Alfredo92 and ELLE FIERCE. Next up: Simian, Copenhagen on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Inga Copeland is a club and experimental artist tracked on soundcheck, with 2 se
 
 Lolina, Alfredo92, ELLE FIERCE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingacopeland/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingacopeland/)*

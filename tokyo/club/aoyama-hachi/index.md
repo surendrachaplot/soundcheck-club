@@ -1,15 +1,13 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "WAX WAGGLE 1st Anniversary" on Mon, 21 Sept 2026.
+Aoyama Hachi is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "極楽 -GOKURAKU-" on Tue, 22 Sept 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including AAGUU, AMARI, ANiIIIIiiiKii and Anri (2) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including AMARI, ANiIIIIiiiKii, Anri (2) and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | WAX WAGGLE 1st Anniversary | DJ RS, KAKERU, Kim Laughton, Oyubi, PortaL(JP), Sojourna, ifax!, monielu.h |
-| Mon, 21 Sept 2026 | Asa-Hachi | AAGUU, Gonno, Sunga |
 | Tue, 22 Sept 2026 | 極楽 -GOKURAKU- | ANiIIIIiiiKii, KEI_DJ, Riku Takahashi, SINZIN, YouForgot |
 | Tue, 22 Sept 2026 | Asa-Hachi | CHIDA, imus |
 | Wed, 23 Sept 2026 | Asa-Hachi | Celter, KAKERU |
@@ -18,9 +16,11 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, w
 | Fri, 2 Oct 2026 | SOUND AGENT Vol.10 Final | Pokaska |
 | Sat, 3 Oct 2026 | STAN vol.3 |  |
 | Sun, 4 Oct 2026 | Alegre vol.100〜14th Anniversary〜 |  |
+| Tue, 6 Oct 2026 | Dancing Building | Daiki (2), Hiroyuki Abe |
+| Sat, 10 Oct 2026 | 酔祭-YOMATSURI-vol.11 | AMARI, Katsu Arai, Kojiro, edge |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

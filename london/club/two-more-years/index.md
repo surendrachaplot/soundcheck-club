@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DIY Fridays - Deep House & Minimal" on Fri, 25 Sept 2026.
+Two More Years is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DIY Fridays - Deep House & Minimal" on Fri, 25 Sept 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including BRUIN (UK), Haruka (UK), Hayley Wallace and Late Night Disco and 1 more. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -16,4 +16,4 @@ Two More Years is a music venue in London listed on soundcheck. 3 upcoming gigs,
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

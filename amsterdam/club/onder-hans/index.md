@@ -1,6 +1,6 @@
 # Onder Hans
 
-Onder Hans is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Opening Onderhans x Bubble House" on Thu, 1 Oct 2026.
+Onder Hans is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Opening Onderhans x Bubble House" on Thu, 1 Oct 2026.
 
 Onder Hans is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including 16BL, Alessio Cristiano, Alicia Hahn and Almost Human (DJ) and 2 more. Browse upcoming dates, start times and who's playing. Kerkstraat 136-138, 1017 GR Amsterdam.
 
@@ -17,4 +17,4 @@ Onder Hans is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, 
 
 Kerkstraat 136-138, 1017 GR Amsterdam, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/onder-hans/)*

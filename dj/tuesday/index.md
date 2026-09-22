@@ -1,6 +1,6 @@
 # TUESDAY
 
-TUESDAY is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
+TUESDAY is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
 
 TUESDAY is a techno and bass artist tracked on soundcheck, with 29 sets logged across Barcelona, Hongkong, Sanfrancisco and Shenzhen. Often billed alongside YUEMING, Oscar Days and adam.. Next up: 宀 Club, Hongkong on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ TUESDAY is a techno and bass artist tracked on soundcheck, with 29 sets logged a
 
 YUEMING, Oscar Days, adam.
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesday/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesday/)*

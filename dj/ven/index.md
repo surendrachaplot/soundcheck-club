@@ -1,6 +1,6 @@
 # Ven
 
-Ven is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Ven is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
 Ven is an acid and house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Ven is an acid and house artist tracked on soundcheck, with 3 sets logged across
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ven/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ven/)*

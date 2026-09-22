@@ -1,6 +1,6 @@
 # Hangr
 
-Hangr is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "PLAID (live AV) + NIKNAK (live AV)" on Fri, 23 Oct 2026.
+Hangr is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PLAID (live AV) + NIKNAK (live AV)" on Fri, 23 Oct 2026.
 
 Hangr is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including RAWKORED and Redemption. Browse upcoming dates, start times and who's playing. Unit 19, Kingfisher Works, Bardwell Road, Neepsend, Sheffield, S3 8AS.
 
@@ -15,4 +15,4 @@ Hangr is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with 
 
 Unit 19, Kingfisher Works, Bardwell Road, Neepsend, Sheffield, S3 8AS, Sheffield
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hangr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hangr/)*

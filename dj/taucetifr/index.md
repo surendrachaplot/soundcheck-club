@@ -1,6 +1,6 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
+Tauceti (FR) is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at AMT, Berlin on Fri, 25 Sept 2026.
 
 Tauceti (FR) is a techno and ambient artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: AMT, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Tauceti (FR) is a techno and ambient artist tracked on soundcheck, with 72 sets 
 
 Tommy Four Seven, Kangding Ray, Psyk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

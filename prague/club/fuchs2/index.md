@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA" on Thu, 24 Sept 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA" on Thu, 24 Sept 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including AVHD, Berlin Bunny, Cristian Marras and Demonika and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

@@ -1,6 +1,6 @@
 # nummurs
 
-nummurs is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Korpuss, Riga on Fri, 25 Sept 2026.
+nummurs is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Korpuss, Riga on Fri, 25 Sept 2026.
 
 nummurs is a drum & bass and techno artist based in Latvia, tracked on soundcheck, with 43 sets logged across Riga. Often billed alongside AIVISO, Dispoze and MSK (LV). Next up: Korpuss, Riga on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ nummurs is a drum & bass and techno artist based in Latvia, tracked on soundchec
 
 AIVISO, Dispoze, MSK (LV)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nummurs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nummurs/)*

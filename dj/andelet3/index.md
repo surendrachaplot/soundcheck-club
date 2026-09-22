@@ -1,6 +1,6 @@
 # Andelet3
 
-Andelet3 is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Secret Location, London on Sat, 24 Oct 2026.
+Andelet3 is a Electronica and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Secret Location, London on Sat, 24 Oct 2026.
 
 Andelet3 is an electronica and breakbeat artist based in Spain, tracked on soundcheck, with 2 sets logged across London and Malaga. Often billed alongside James Shinra and Not Found. Next up: Secret Location, London on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Andelet3 is an electronica and breakbeat artist based in Spain, tracked on sound
 
 James Shinra, Not Found
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andelet3/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andelet3/)*

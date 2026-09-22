@@ -1,6 +1,6 @@
 # Quirin (DE)
 
-Quirin (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Quirin (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
 Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Modul Kollektiv, Nothing But Love and Yubik. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Quirin (DE) is a techno and house artist based in Germany, tracked on soundcheck
 
 Modul Kollektiv, Nothing But Love, Yubik
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quirin-DE/)*

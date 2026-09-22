@@ -1,6 +1,6 @@
 # SCARLETT
 
-SCARLETT is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Planet Wax, London on Thu, 8 Oct 2026.
+SCARLETT is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Planet Wax, London on Thu, 8 Oct 2026.
 
 SCARLETT is a techno and acid artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin, Bucharest, Lisbon and London and 4 more. Often billed alongside Luca Accardi, ALISTARM and AnD. Next up: Planet Wax, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ SCARLETT is a techno and acid artist based in Italy, tracked on soundcheck, with
 
 Luca Accardi, ALISTARM, AnD
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlett/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlett/)*

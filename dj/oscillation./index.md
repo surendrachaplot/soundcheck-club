@@ -1,6 +1,6 @@
 # Oscillation.
 
-Oscillation. is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Greyhound, London on Sat, 21 Nov 2026.
+Oscillation. is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Greyhound, London on Sat, 21 Nov 2026.
 
 Oscillation. is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Ayanna Heaven, DREY (UK) and KISA. Next up: The Greyhound, London on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Oscillation. is a broken beat and house artist based in United Kingdom, tracked 
 
 Ayanna Heaven, DREY (UK), KISA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscillation./)*

@@ -1,6 +1,6 @@
 # Enzo is Burning
 
-Enzo is Burning is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Dome, Liverpool on Fri, 2 Oct 2026.
+Enzo is Burning is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Dome, Liverpool on Fri, 2 Oct 2026.
 
 Enzo is Burning is a tech house and house artist tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: The Dome, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Enzo is Burning is a tech house and house artist tracked on soundcheck, with 75 
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*

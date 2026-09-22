@@ -1,6 +1,6 @@
 # Calder
 
-Calder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Saint Judes, Glasgow on Fri, 25 Sept 2026.
+Calder is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Saint Judes, Glasgow on Fri, 25 Sept 2026.
 
 Calder is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow and London. Often billed alongside Dacxi, Manta and D'Nice. Next up: Saint Judes, Glasgow on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Calder is a house and techno artist based in United Kingdom, tracked on soundche
 
 Dacxi, Manta, D'Nice
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*

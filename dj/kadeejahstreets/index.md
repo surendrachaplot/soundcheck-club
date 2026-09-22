@@ -1,6 +1,6 @@
 # Kadeejah Streets
 
-Kadeejah Streets is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Cuff Complex, Seattle on Sat, 26 Sept 2026.
+Kadeejah Streets is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Cuff Complex, Seattle on Sat, 26 Sept 2026.
 
 Kadeejah Streets is a house and acid artist based in United States of America, tracked on soundcheck, with 55 sets logged across Austin, Osaka, Portland and Sanfrancisco and 2 more. Often billed alongside Sharlese, DJ SH1-TR and Lord Phatrick. Next up: The Cuff Complex, Seattle on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Kadeejah Streets is a house and acid artist based in United States of America, t
 
 Sharlese, DJ SH1-TR, Lord Phatrick
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeejahstreets/)*

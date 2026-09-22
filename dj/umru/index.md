@@ -1,6 +1,6 @@
 # umru
 
-umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 umru is a club and pop artist based in United States of America, tracked on soundcheck, with 151 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 42 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ umru is a club and pop artist based in United States of America, tracked on soun
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

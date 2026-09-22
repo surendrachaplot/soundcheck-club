@@ -1,6 +1,6 @@
 # KVLR
 
-KVLR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
+KVLR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
 
 KVLR is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside DJ SOURCE, fbi (1) and yamagucci42. Next up: Golden Pudel Club, Hamburg on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ KVLR is a techno and house artist tracked on soundcheck, with 80 sets logged acr
 
 DJ SOURCE, fbi (1), yamagucci42
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*

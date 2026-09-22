@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
+ANNX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
 
 ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Bangkok, Berlin, Bristol and Brussels and 11 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Club Cheek, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

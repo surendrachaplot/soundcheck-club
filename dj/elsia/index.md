@@ -1,6 +1,6 @@
 # Elsia
 
-Elsia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Fitzroy, Berlin on Sun, 15 Nov 2026.
+Elsia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Fitzroy, Berlin on Sun, 15 Nov 2026.
 
 Elsia is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Akollor, Eliseo Adri and LOVA9. Next up: Fitzroy, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Elsia is a techno and trance artist tracked on soundcheck, with 9 sets logged ac
 
 Akollor, Eliseo Adri, LOVA9
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsia/)*

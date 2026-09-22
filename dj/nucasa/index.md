@@ -1,6 +1,6 @@
 # NuCasa
 
-NuCasa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 25 Sept 2026.
+NuCasa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 25 Sept 2026.
 
 NuCasa is a house and afro house artist based in Poland, tracked on soundcheck, with 52 sets logged across Berlin and Warsaw. Often billed alongside Angelo Mike, Konca and Kuvau. Next up: MONKEY LOVE, Warsaw on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ NuCasa is a house and afro house artist based in Poland, tracked on soundcheck, 
 
 Angelo Mike, Konca, Kuvau
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nucasa/)*

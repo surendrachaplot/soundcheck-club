@@ -1,6 +1,6 @@
 # Piccadilly Premium
 
-Piccadilly Premium is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Kayzo LIVE IN OSAKA" on Sat, 3 Oct 2026.
+Piccadilly Premium is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Kayzo LIVE IN OSAKA" on Sat, 3 Oct 2026.
 
 Piccadilly Premium is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including Kayzo and Peach. Browse upcoming dates, start times and who's playing. 8-17, Taiyujicho, Kita-ku, Osaka-shi, Osaka, Japan,530-0051.
 
@@ -14,4 +14,4 @@ Piccadilly Premium is a music venue in Osaka listed on soundcheck. 1 upcoming gi
 
 8-17, Taiyujicho, Kita-ku, Osaka-shi, Osaka, Japan,530-0051, Osaka
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/piccadilly-premium/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/piccadilly-premium/)*

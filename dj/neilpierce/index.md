@@ -1,6 +1,6 @@
 # Neil Pierce
 
-Neil Pierce is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Neil Pierce is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Neil Pierce is a deep house and house artist tracked on soundcheck, with 38 sets logged across Birmingham, Chicago, Dublin and Edinburgh and 6 more. Often billed alongside Sy Sez, Ronnie Herel and DJ Spen. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Neil Pierce is a deep house and house artist tracked on soundcheck, with 38 sets
 
 Sy Sez, Ronnie Herel, DJ Spen
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*

@@ -1,6 +1,6 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 26 Sept 2026.
+RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 26 Sept 2026.
 
 RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged a
 
 KYLE MIKASA, KAMIKAZE, egomania
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricky/)*

@@ -1,6 +1,6 @@
 # Fernie
 
-Fernie is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - SECRET LAVANDERIA, Barcelona on Fri, 2 Oct 2026.
+Fernie is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - SECRET LAVANDERIA, Barcelona on Fri, 2 Oct 2026.
 
 Fernie is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Glasgow, London and Manchester. Often billed alongside Repart, Deepbass and Derrick Burns. Next up: TBA - SECRET LAVANDERIA, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Fernie is a techno and ambient artist based in United Kingdom, tracked on soundc
 
 Repart, Deepbass, Derrick Burns
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernie/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernie/)*

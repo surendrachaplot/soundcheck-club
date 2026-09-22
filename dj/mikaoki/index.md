@@ -1,6 +1,6 @@
 # Mika Oki
 
-Mika Oki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bozar, Brussels on Thu, 19 Nov 2026.
+Mika Oki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bozar, Brussels on Thu, 19 Nov 2026.
 
 Mika Oki is a techno and bass artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Bozar, Brussels on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Mika Oki is a techno and bass artist tracked on soundcheck, with 66 sets logged 
 
 Sara Persico, ojoo, NVST
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*

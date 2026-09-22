@@ -1,6 +1,6 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
+Jennifer Loveless is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Floyd, Miami on Fri, 25 Sept 2026.
 
 Jennifer Loveless is a house and techno artist tracked on soundcheck, with 249 sets logged across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, ISAbella and BASHKKA. Next up: Floyd, Miami on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Jennifer Loveless is a house and techno artist tracked on soundcheck, with 249 s
 
 Fafi Abdel Nour, ISAbella, BASHKKA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

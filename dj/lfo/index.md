@@ -1,6 +1,6 @@
 # LFO
 
-LFO is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zerox, Newcastle on Fri, 2 Oct 2026.
+LFO is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Zerox, Newcastle on Fri, 2 Oct 2026.
 
 LFO is an acid and techno artist tracked on soundcheck, with 2 sets logged across London and Newcastle. Often billed alongside G-MAN aka Gez Varley, Darren Price and Gez Varley. Next up: Zerox, Newcastle on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ LFO is an acid and techno artist tracked on soundcheck, with 2 sets logged acros
 
 G-MAN aka Gez Varley, Darren Price, Gez Varley
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lfo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lfo/)*

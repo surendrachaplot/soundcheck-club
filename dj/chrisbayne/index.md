@@ -1,6 +1,6 @@
 # Chris Bayne
 
-Chris Bayne is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
+Chris Bayne is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Horizon, Brighton, Brighton on Sat, 17 Oct 2026.
 
 Chris Bayne is a club and trance artist tracked on soundcheck, with 18 sets logged across Birmingham, Brighton, Ibiza and London and 1 more. Often billed alongside Edele Andaya, Graham Gold and Fisha. Next up: Horizon, Brighton, Brighton on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Chris Bayne is a club and trance artist tracked on soundcheck, with 18 sets logg
 
 Edele Andaya, Graham Gold, Fisha
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbayne/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbayne/)*

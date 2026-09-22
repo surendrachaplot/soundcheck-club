@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Fuse presents: Polar Inertia (live) & Luigi Tozzi (live)" on Sat, 26 Sept 2026.
+Fuse is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Fuse presents: Polar Inertia (live) & Luigi Tozzi (live)" on Sat, 26 Sept 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including A. Brehme, Altinbas, Ben Klock and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with l
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

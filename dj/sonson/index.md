@@ -1,6 +1,6 @@
 # Sonson
 
-Sonson is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
+Sonson is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
 
 Sonson is a house and electro artist tracked on soundcheck, with 105 sets logged across Munich. Often billed alongside Thomas Herb, Alice DiMar and Basti Grub. Next up: Filmtheater Sendlinger Tor, Munich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sonson is a house and electro artist tracked on soundcheck, with 105 sets logged
 
 Thomas Herb, Alice DiMar, Basti Grub
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*

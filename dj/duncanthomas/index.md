@@ -1,6 +1,6 @@
 # Duncan Thomas
 
-Duncan Thomas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kater, Berlin on Fri, 23 Oct 2026.
+Duncan Thomas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kater, Berlin on Fri, 23 Oct 2026.
 
 Duncan Thomas is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Edinburgh and Leeds and 2 more. Often billed alongside Blame Anthony, Butterhands and Thabo. Next up: Kater, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Duncan Thomas is a house and deep house artist based in United Kingdom, tracked 
 
 Blame Anthony, Butterhands, Thabo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duncanthomas/)*

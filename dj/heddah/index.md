@@ -1,6 +1,6 @@
 # Heddah
 
-Heddah is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
+Heddah is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
 
 Heddah is a club and latin bass artist based in Denmark, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen and Paris. Often billed alongside Timmyia, Exilee and Lyra Valenza. Next up: Jolene, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Heddah is a club and latin bass artist based in Denmark, tracked on soundcheck, 
 
 Timmyia, Exilee, Lyra Valenza
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heddah/)*

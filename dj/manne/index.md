@@ -1,6 +1,6 @@
 # MANNE
 
-MANNE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Flash, Washington DC on Fri, 16 Oct 2026.
+MANNE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Flash, Washington DC on Fri, 16 Oct 2026.
 
 MANNE is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Washingtondc. Often billed alongside E-QUE, House Twelve and AJAMU. Next up: Flash, Washingtondc on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ MANNE is a house and deep house artist based in United States of America, tracke
 
 E-QUE, House Twelve, AJAMU
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manne/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manne/)*

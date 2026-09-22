@@ -1,6 +1,6 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at White Space Lab, Tokyo on Thu, 24 Sept 2026.
+Tommy (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at White Space Lab, Tokyo on Thu, 24 Sept 2026.
 
 Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Berlin, Copenhagen, Dublin and Ibiza and 4 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: White Space Lab, Tokyo on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Tommy (2) is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

@@ -1,6 +1,6 @@
 # Los Angeles State Historic Park
 
-Los Angeles State Historic Park is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Day Trip In The Park LA: Armand Van Helden, James Poole, Adam Auburn, Athena" on Sun, 27 Sept 2026.
+Los Angeles State Historic Park is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Day Trip In The Park LA: Armand Van Helden, James Poole, Adam Auburn, Athena" on Sun, 27 Sept 2026.
 
 Los Angeles State Historic Park is a music venue in Losangeles listed on soundcheck. 1 upcoming gig, with line-ups including Adam Auburn and Armand Van Helden. Browse upcoming dates, start times and who's playing. 1245 N. Spring St, Los Angeles, CA 90012.
 
@@ -14,4 +14,4 @@ Los Angeles State Historic Park is a music venue in Losangeles listed on soundch
 
 1245 N. Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*

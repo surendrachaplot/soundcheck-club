@@ -1,6 +1,6 @@
 # Blvck Truffle
 
-Blvck Truffle is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
+Blvck Truffle is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
 
 Blvck Truffle is a house and disco artist tracked on soundcheck, with 33 sets logged across Newyorkcity. Often billed alongside Ardio Zemog, Elephantglasses and HunnyBunny. Next up: Elsewhere, Newyorkcity on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Blvck Truffle is a house and disco artist tracked on soundcheck, with 33 sets lo
 
 Ardio Zemog, Elephantglasses, HunnyBunny
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blvcktruffle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blvcktruffle/)*

@@ -1,13 +1,14 @@
 # Milchgeld
 
-Milchgeld is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Milchgeld is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Milchgeld is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside DaSoMaZo, Sonse and Abimixx. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Milchgeld is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside DaSoMaZo, Sonse and NYXEA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Milchgeld is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-DaSoMaZo, Sonse, Abimixx
+DaSoMaZo, Sonse, NYXEA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milchgeld/)*

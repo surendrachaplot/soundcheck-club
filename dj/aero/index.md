@@ -1,6 +1,6 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
+Aero (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
 
 Aero (1) is a techno and house artist tracked on soundcheck, with 48 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Ayolxi, Cailín and MEJMI. Next up: Wigwam, Dublin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Aero (1) is a techno and house artist tracked on soundcheck, with 48 sets logged
 
 Ayolxi, Cailín, MEJMI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*

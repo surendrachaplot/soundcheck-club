@@ -1,6 +1,6 @@
 # Club Goodman
 
-Club Goodman is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Paris death Hilton 10th Anniv feat. Keiji Haino+Yoshimitsu Ichiraku,INCAPACITANTS,RUINS" on Sat, 26 Sept 2026.
+Club Goodman is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Paris death Hilton 10th Anniv feat. Keiji Haino+Yoshimitsu Ichiraku,INCAPACITANTS,RUINS" on Sat, 26 Sept 2026.
 
 Club Goodman is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Keiji Haino. Browse upcoming dates, start times and who's playing. 55 Sakumagashi, Kanda, Chiyoda-ku, Tokyo 101-0026.
 
@@ -14,4 +14,4 @@ Club Goodman is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, wit
 
 55 Sakumagashi, Kanda, Chiyoda-ku, Tokyo 101-0026, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-goodman/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-goodman/)*
