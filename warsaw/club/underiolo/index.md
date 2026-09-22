@@ -10,7 +10,7 @@ underiolo is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | DELUXE. x underiolo FREE ENTRY | Andy Soul, BROTHER TIM, margas |
 | Sat, 26 Sept 2026 | We <3 Jersey Club | anymati, dj neurospicy, domi d. |
-| Sat, 3 Oct 2026 | Polish Juke: Just Jukin' |  |
+| Sat, 3 Oct 2026 | Polish Juke: Just Jukin' with Rhythm Baboon, Lux Familiar, Sayuri, PZG, Sknit, DJ MPJ  | Lux Familiar |
 | Fri, 6 Nov 2026 | I <3 DUBSTEP | Caletti, faron, illgal |
 
 ## Address

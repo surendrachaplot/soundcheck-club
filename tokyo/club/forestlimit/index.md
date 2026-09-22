@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SECTOR 3776" on Tue, 22 Sept 2026.
+Forestlimit is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "'LAVA. vol.4'" on Tue, 22 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and Ayato and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | SECTOR 3776 |  |
 | Tue, 22 Sept 2026 | 'LAVA. vol.4' | Ryogo, uj (JP) |
 | Wed, 23 Sept 2026 | 【KRiNiQUE M/A/S/S/A/C/R/E】 | deadfish eyes |
 | Thu, 24 Sept 2026 | 'Viva! party' | eijin |
@@ -18,6 +17,7 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, wi
 | Sat, 26 Sept 2026 | 「曇 — DON —」 | seaketa |
 | Sun, 27 Sept 2026 | 吉村政信生誕祭～誕生月TIMELIMIT～ |  |
 | Fri, 2 Oct 2026 | 「秋のドンピシャ！爆踊り祭り！」 |  |
+| Sat, 3 Oct 2026 | Marionette x Forestlimit | Grimwig, Inqapool, Toner, Toner(JP), yolabmi |
 
 ## Address
 

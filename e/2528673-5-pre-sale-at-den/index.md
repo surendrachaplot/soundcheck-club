@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ ✦ 5€ PRE-SALE at ÆDEN
 
-ＬＩＬＩＴＨ ✦ 5€ PRE-SALE at ÆDEN on Wed 23 Sept, Berlin. 3 acts on the bill: Manrick Stapez, RayRay and Steven Shade. Preview the line-up and save it on soundcheck.
+ＬＩＬＩＴＨ ✦ 5€ PRE-SALE at ÆDEN on Wed 23 Sept, Berlin. 3 acts on the bill: Manrick Stapez, RayRay and Steven Shade. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

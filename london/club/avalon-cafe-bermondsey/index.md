@@ -11,7 +11,7 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 | Sun, 27 Sept 2026 | Devons Road x PJ presents AM 2 PM - summer finale at Avalon Cafe  | Junior Buzz, Rhi Spect |
 | Sat, 3 Oct 2026 | Thrive Inside #3 | Alex Iza |
 | Thu, 8 Oct 2026 | Sevy Verna, My Tiny Room, Boxmen, Jawharp |  |
-| Fri, 23 Oct 2026 | Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune | Caroune, Kate08, batgirl |
+| Fri, 23 Oct 2026 | Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune | Caroune, Cersy, Kate08, batgirl |
 | Sat, 24 Oct 2026 | Late Night Essentials 4th Birthday | Isaac Frost, Kristina May, Neev. |
 | Sat, 31 Oct 2026 | Point of No Return |  |
 | Sat, 7 Nov 2026 | IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more | B4mba, CHEZA LUCINA, Keepsakes, Mooki6, New Flesh (2), TOOTHTAXI, TRSSX, Toni S |

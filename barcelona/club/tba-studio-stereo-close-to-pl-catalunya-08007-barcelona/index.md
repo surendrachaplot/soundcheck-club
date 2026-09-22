@@ -12,7 +12,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Thu, 24 Sept 2026 | Studio Stereo pres. Gambiarra showcase | Jonny Loves House, Konnin, Victor Haas |
 | Fri, 25 Sept 2026 | Studio Stereo x Aadi pres. Pau Perez & Billi | Billi, Pau Pérez, Silvente, whomadeAB |
 | Sat, 26 Sept 2026 | Studio Stereo x OGE x Giralda pres. Enzo Leep | Camps (1), DJ Senc, Enzo Leep, Haydn, Hessa, Onfank, Rome (IT) |
-| Thu, 1 Oct 2026 | Studio Stereo x Kumasound pres. Brieela | Brieela, Imanol (2) |
+| Thu, 1 Oct 2026 | Studio Stereo x Kuma Sound pres. Brieela | Brieela, Imanol (2) |
 | Fri, 2 Oct 2026 | Studio Stereo x TiZi pres. Desirée Falessi, Monile | Desirée Falessi, Monile, Nate S.U, Sash (BCN) |
 | Sat, 3 Oct 2026 | Studio Stereo x Pineal x La Room pres. JNJS | Angelo Cortines, JNJS, Mario Niain, max brachais |
 | Thu, 8 Oct 2026 | Studio Stereo x Bonkers Music pres. Milla Campollo | Julia Konor, Ludviq, Milla Campollo |

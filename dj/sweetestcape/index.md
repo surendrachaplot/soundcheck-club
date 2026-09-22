@@ -1,14 +1,15 @@
 # sweetestcape
 
-sweetestcape is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
+sweetestcape is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
 
-sweetestcape is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Unit 58, London on Fri 25 Sept.
+sweetestcape is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Unit 58, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Unit 58 | London |
+| Sat, 17 Oct 2026 | Secret Location | London |
 
 ## Recently played
 

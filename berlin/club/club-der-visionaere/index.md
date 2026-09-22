@@ -1,8 +1,8 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Rings Of Neptune: Atree, Cleymoore, Rubi" on Sat, 26 Sept 2026.
+Club der Visionaere is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Rings Of Neptune: Atree, Cleymoore, Rubi" on Sat, 26 Sept 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including ALINA (3), Atree, Cleymoore and dj vau and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including ALINA (3), Atree, Cleymoore and dj vau and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 3 upcoming 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Rings Of Neptune: Atree, Cleymoore, Rubi | Atree, Cleymoore, rubi* |
 | Sun, 27 Sept 2026 | black.round.sunday | Grant Dell, Joe BRT, SaPu |
+| Mon, 28 Sept 2026 | Mondays:: | Masa Saji |
 | Wed, 30 Sept 2026 | Smoove Mocean | ALINA (3), dj vau |
 
 ## Address

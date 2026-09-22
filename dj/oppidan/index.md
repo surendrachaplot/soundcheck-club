@@ -1,14 +1,13 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+Oppidan is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Warehouse, Leeds on Sat, 26 Sept 2026.
 
-Oppidan is a garage and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside MPH (1), Sammy Virji and Notion. Next up: Odaiba, Tokyo on Tue 22 Sept.
+Oppidan is a garage and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside MPH (1), Sammy Virji and Notion. Next up: The Warehouse, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Sat, 26 Sept 2026 | The Warehouse | Leeds |
 | Sat, 3 Oct 2026 | TBA - Vogrie Country Park | Edinburgh |
 | Thu, 15 Oct 2026 | 1015 Folsom | San Francisco/Oakland |

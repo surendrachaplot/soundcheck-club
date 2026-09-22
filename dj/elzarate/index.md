@@ -1,14 +1,14 @@
 # El Zárate
 
-El Zárate is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - XuXa 6910 Shirley Avenue , Austin on Sat, 26 Sept 2026.
+El Zárate is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Xuxa, Austin on Sat, 26 Sept 2026.
 
-El Zárate is a house and minimal artist tracked on soundcheck, with 20 sets logged across Austin, Barcelona, Berlin and Mexicocity and 2 more. Often billed alongside Jacques-André, ALKMST and Brett Johnson. Next up: TBA - XuXa 6910 Shirley Avenue , Austin on Sat 26 Sept.
+El Zárate is a house and minimal artist tracked on soundcheck, with 20 sets logged across Austin, Barcelona, Berlin and Mexicocity and 2 more. Often billed alongside Jacques-André, ALKMST and Brett Johnson. Next up: Xuxa, Austin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - XuXa 6910 Shirley Avenue  | Austin |
+| Sat, 26 Sept 2026 | Xuxa | Austin |
 
 ## Recently played
 

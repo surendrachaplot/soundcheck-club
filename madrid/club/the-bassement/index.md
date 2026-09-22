@@ -2,7 +2,7 @@
 
 The Bassement is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sintetic Club: The Opening" on Thu, 24 Sept 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Anthony Godfather (2), DJ AMAZING, DVS1 and DXPE (ES) and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Anthony Godfather (2), Blasha & Allatt and Chami and 2 more. Browse upcoming dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
@@ -16,7 +16,7 @@ The Bassement is a music venue in Madrid listed on soundcheck. 10 upcoming gigs,
 | Fri, 9 Oct 2026 | Laster Club presents INTERNATIONAL RESIDENTS NIGHT with The Lady Machine & Setaoc Mass | Setaoc Mass, The Lady Machine |
 | Fri, 30 Oct 2026 | Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE | Feral, Nastia Reigel, Psyk, Wata Igarashi |
 | Sun, 1 Nov 2026 | Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER | JakoJako, Kameliia, Roll Dann, Rødhåd |
-| Sat, 7 Nov 2026 | Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN |  |
+| Sat, 7 Nov 2026 | Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN | Alarico, Blasha & Allatt, Chami, Connor Wall, Laia, Olivia Mendez, Shadow Hrym (ES) |
 | Sat, 14 Nov 2026 | CACAO by ANTHONY GODFATHER | Anthony Godfather (2) |
 
 ## Address

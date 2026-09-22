@@ -9,7 +9,6 @@ renae is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | renae: Bad Wolf Takeover |  |
-| Tue, 22 Sept 2026 | The Dub Techno Chess Club |  |
 | Wed, 23 Sept 2026 | renae: Bad Wolf Takeover |  |
 | Thu, 24 Sept 2026 | renae: Kayja Vu | kayja vu |
 | Fri, 25 Sept 2026 | Chorus Social 007: skywalka // Linnemann // April // Esmé | April (UK), Esmé, Linnemann, cuci cuci coo, skywalka |
@@ -18,6 +17,7 @@ renae is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, wit
 | Sat, 26 Sept 2026 | renae: Sticky Heat | Chris Massey, Muddy Feet |
 | Sun, 27 Sept 2026 | renae x Saturama presents room to: bathe | Werkha |
 | Sun, 27 Sept 2026 | renae: Dischi & Friends |  |
+| Tue, 29 Sept 2026 | The Dub Techno Chess Club |  |
 
 ## Address
 

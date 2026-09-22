@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "HeartsGrow" on Tue, 22 Sept 2026.
+R Lounge is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "-Suree presents- R de Sf スペシャル" on Wed, 23 Sept 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including --- mr ---, AKIRAM EN, ASSIGN and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including --- mr ---, AKIRAM EN, ASSIGN and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | HeartsGrow |  |
 | Wed, 23 Sept 2026 | -Suree presents- R de Sf スペシャル | Shuichiro Suzuki |
 | Fri, 25 Sept 2026 | 『TRANSITION SEP 25, 2026』 | Ginji, Kenta, RNG (1) |
 | Sat, 26 Sept 2026 | HAPPY DYNAMITE 25th Anniversary | DJ Shimamura, YOSHIMASA |
@@ -18,6 +17,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with 
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
 | Fri, 16 Oct 2026 | Liminal Hour | tech-nas |
 | Sat, 17 Oct 2026 | R3FRACT presents: 1st Anniversary & Counter Attack | AKIRAM EN, Kazu, Lisa Mizuno, Mars89, Ryunosuke Urabe, TEI TEI |
+| Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
 
 ## Address
 

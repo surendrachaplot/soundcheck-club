@@ -1,8 +1,8 @@
 # Max Nytram
 
-Max Nytram is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Emma Pea, Berlin on Fri, 2 Oct 2026.
+Max Nytram is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Emma Pea, Berlin on Fri, 2 Oct 2026.
 
-Max Nytram is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and Hit Beat. Next up: Emma Pea, Berlin on Fri 2 Oct.
+Max Nytram is a house and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and Hit Beat. Next up: Emma Pea, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

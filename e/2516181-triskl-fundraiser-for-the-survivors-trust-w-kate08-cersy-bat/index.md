@@ -1,6 +1,6 @@
 # Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune at Avalon Cafe Bermondsey
 
-Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune at Avalon Cafe Bermondsey on Fri 23 Oct, London. 3 acts on the bill: batgirl, Caroune and Kate08. Preview the line-up and save it on soundcheck.
+Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune at Avalon Cafe Bermondsey on Fri 23 Oct, London. 4 acts on the bill: batgirl, Caroune, Cersy and Kate08. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Triskl Fundraiser for The Survivors Trust w/ Kate08, Cersy, batgirl & Caroune at
 
 - batgirl
 - Caroune
+- Cersy
 - Kate08
 
 *Source: [soundcheck](https://soundcheck.club/e/2516181-triskl-fundraiser-for-the-survivors-trust-w-kate08-cersy-bat/)*

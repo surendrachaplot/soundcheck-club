@@ -1,15 +1,13 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Grafix is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Warehouse on Watts, Philadelphia on Fri, 9 Oct 2026.
 
-Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: Warehouse on Watts, Philadelphia on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 9 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Fri, 9 Oct 2026 | Warehouse on Watts | Philadelphia |
 

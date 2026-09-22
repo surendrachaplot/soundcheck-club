@@ -1,14 +1,13 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+SAMO (JP) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at SOBER, Tokyo on Sun, 4 Oct 2026.
 
-SAMO (JP) is a house and techno artist tracked on soundcheck, with 179 sets logged across Kyoto, Osaka, Sanfrancisco and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: Odaiba, Tokyo on Tue 22 Sept.
+SAMO (JP) is a house and techno artist tracked on soundcheck, with 179 sets logged across Kyoto, Osaka, Sanfrancisco and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: SOBER, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Sun, 4 Oct 2026 | SOBER | Tokyo |
 | Sun, 11 Oct 2026 | Circus Osaka | Osaka |
 | Sun, 18 Oct 2026 | National Art School | Sydney |

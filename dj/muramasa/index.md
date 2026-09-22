@@ -1,15 +1,13 @@
 # Mura Masa
 
-Mura Masa is a Bass and R&B artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Mura Masa is a Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
-Mura Masa is a bass and r&b artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Yaeji, Boo and DARIUS. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+Mura Masa is a bass and r&b artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Yaeji, Boo and DARIUS. Next up: FS., Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 25 Sept 2026 | FS. | Tokyo |
 
 ## Recently played

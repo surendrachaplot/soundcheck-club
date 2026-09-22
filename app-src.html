@@ -1782,23 +1782,6 @@
     .vd-vlink:hover { color:var(--accent); }
     .vd-note { margin-top:10px; color:var(--muted); font-size:var(--fs-xs); font-style:italic; }
     /* DS: structured reviews (D5, attendance-gated) */
-    .rv-box { margin-top:18px; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius-md); padding:14px 16px; }
-    .rv-agg { display:flex; align-items:center; gap:18px; margin-top:6px; flex-wrap:wrap; }
-    .rv-stat { display:flex; flex-direction:column; align-items:center; }
-    .rv-v { font:800 var(--fs-lg)/var(--lh-lg) var(--head); color:var(--accent); }
-    .rv-l { font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); text-transform:uppercase; letter-spacing:0.05em; }
-    .rv-n { color:var(--muted); font-size:var(--fs-sm); margin-left:auto; }
-    .rv-form { margin-top:14px; border-top:1px solid var(--line); padding-top:12px; }
-    .rv-srow { display:flex; align-items:center; gap:12px; padding:5px 0; }
-    .rv-sk { flex:0 0 78px; font:600 var(--fs-sm)/var(--lh-sm) var(--body); }
-    .rv-dots { display:flex; gap:6px; }
-    .rv-dot { cursor:pointer; }
-    .rv-dot input { position:absolute; opacity:0; width:0; height:0; }
-    .rv-dot span { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; border-radius:50%; border:1px solid var(--line); font:700 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); -webkit-tap-highlight-color:transparent; }
-    .rv-dot input:checked + span { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
-    .rv-submit { margin-top:12px; background:var(--accent-grad); color:var(--accent-ink); border:none; border-radius:var(--radius-pill); padding:8px 18px; font:700 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
-    .rv-submit:disabled { opacity:0.5; }
-    .rv-msg { margin-top:8px; color:var(--muted); font-size:var(--fs-sm); }
     /* "I've been" button active state + the venue-review sheet (stars + chips) */
     .been-btn.on { background:var(--accent-grad); color:var(--accent-ink); border-color:transparent; }
     .been-btn.on svg { stroke:var(--accent-ink); }
@@ -3605,8 +3588,7 @@
     .fp-lu-face{ width:48px; height:48px; border-radius:50%; border:1px solid var(--border); flex:none; background-size:cover; background-position:center; background-color:var(--surface-3); }
     .fp-lu-tx{ flex:none; width:300px; min-width:0; cursor:pointer; }
     .fp-lu-nm{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; }
-    /* Genre: mono caps under the name. Played at: venues (ink) then festivals (muted), one line each. */
-    .fp-lu-gn{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    /* Played at: venues (ink) then festivals (muted), one line each. */
     .fp-lu-at{ flex:1; min-width:0; }
     .fp-lu-vn, .fp-lu-fs{ font:500 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--fg); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .fp-lu-fs{ color:var(--muted); }
@@ -4556,7 +4538,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790104433369">
+<meta name="sc-build" content="1790114415592">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4615,7 +4597,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9290,7 +9272,12 @@
       var vb=document.getElementById('pf-venues');
       if(vb){ if(s.venues&&s.venues.length){ vb.innerHTML=pfHead('Venues you follow', s.venues.length, '')+'<div id="pf-vr"></div>'; mountVenueRail(document.getElementById('pf-vr'), s.venues.map(function(v){ return { venue:v.name, venue_slug:v.slug, image:v.image }; }), {}); } else vb.remove(); }
       var eb=document.getElementById('pf-events');
-      if(eb){ if(s.events&&s.events.length){ eb.innerHTML=pfHead('Saved', s.events.length, '')+'<div id="pf-er"></div>'; mountEventRail(document.getElementById('pf-er'), s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), {}); } else eb.remove(); }
+      // SAVED GIGS ARE GIGS. This was a horizontal rail of posters — a shape
+      // nothing else in the product uses — so your own shelf read as a different
+      // kind of thing from every other list of nights. Same card as the home
+      // grid, an artist's upcoming and a search result, which also means the
+      // mobile bands layer and the heart/play wiring come for free.
+      if(eb){ if(s.events&&s.events.length){ eb.innerHTML=pfHead('Saved', s.events.length, '')+'<div id="pf-er"></div>'; mountEventCards(document.getElementById('pf-er'), s.events.map(function(e){ return { id:e.id, title:e.title, venue:e.venue, event_date:e.day||e.event_date, poster_url:e.poster_url, lineup:e.lineup }; }), {showCity:true}); } else eb.remove(); }
       // DJ-set shelves — tap a row to play it (the rest of the shelf queues behind it)
       function pfSetBox(id, title, list){
         var box=document.getElementById(id); if(!box) return;
@@ -10296,8 +10283,6 @@
     // taste profile + collaborative filtering. Fire-and-forget; server ignores anon users.
     function trackView(t,id){ try{ authedFetch('/api/track',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({kind:'view',subjectType:t,subjectId:String(id)})}).catch(function(){}); }catch(_){ } }
     // D5 review helpers — one aggregate stat + one 1–5 picker row.
-    function rvStat(label,val){ return '<div class="rv-stat"><span class="rv-v">'+(val!=null?val:'–')+'</span><span class="rv-l">'+label+'</span></div>'; }
-    function rvSlider(key,label,cur){ var d=''; for(var i=1;i<=5;i++){ d+='<label class="rv-dot"><input type="radio" name="rv-'+key+'" value="'+i+'"'+(cur==i?' checked':'')+'><span>'+i+'</span></label>'; } return '<div class="rv-srow"><span class="rv-sk">'+label+'</span><span class="rv-dots">'+d+'</span></div>'; }
     // country code for a city slug (→ flag), via the baked CITY_LIST
     function cityCC(slug){ if(!slug || typeof CITY_LIST==='undefined') return ''; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug) return CITY_LIST[i].country||''; } return ''; }
     async function openArtist(slug){
@@ -11776,7 +11761,7 @@
           '</div>'))+
           (ev.mine?evMineHTML(ev):'')+
           '<div class="fp-sec"><div class="fp-sech lu"><em>Lineup</em><span id="fp-lu-pa" hidden>Played at</span></div><div id="fp-lineup"></div></div>'+
-          '<div id="ev-review" style="margin-top:22px"></div>';
+          '';
         if(ev.venueLat!=null && ev.venueLng!=null){
           h+='<div class="fp-sec"><div class="fp-sech">Location <span>'+esc((ev.venueAddress||'').split(',').pop().trim())+'</span></div>'+
             '<div class="fp-ev-loc"><div class="fp-ev-loc-l">'+
@@ -11785,8 +11770,11 @@
               directionsLink(ev.venueLat, ev.venueLng, ev.venue||'')+
               '</div><div class="fp-ev-map" id="fp-ev-map"></div></div></div>';
         }
-        if((ev.alsoOn||[]).length){
-          h+='<div class="fp-sec"><div class="fp-sech">Also on that date <span>same city · same date</span></div><div id="fp-ev-alsoon"></div></div>';
+        // "Also on" is for a night you can still go to. On a PAST event it is a
+        // list of things you cannot do any more, so it does not run there. And no
+        // sub-line: "same city · same date" restates the heading. Suren, 22 Sep.
+        if(!isPast && (ev.alsoOn||[]).length){
+          h+='<div class="fp-sec"><div class="fp-sech">Also on that date</div><div id="fp-ev-alsoon"></div></div>';
         }
         if(ev.venue) h+='<a class="fp-morev venue-link nav" href="'+esc(venueHref(ev.venue, ev.city))+'" data-venue="'+esc(ev.venue)+'">More gigs at '+esc(ev.venue)+' →</a>';
         h+='<div style="padding:18px 18px 4px">'+reportCue('event:'+id)+'</div>';
@@ -11805,7 +11793,7 @@
         var _edesc=ev.description||((ev.title||_who||'This gig')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
         setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', _edesc, musicEventLD(ev), _canon);   // MusicEvent JSON-LD (restored after the bespoke port dropped it)
         armEventSticky(ev.title||'');
-        if((ev.alsoOn||[]).length){ var _ao=document.getElementById('fp-ev-alsoon'); if(_ao) mountEventCards(_ao, ev.alsoOn.slice(0,6)); }   // same card/list template as everywhere
+        if(!isPast && (ev.alsoOn||[]).length){ var _ao=document.getElementById('fp-ev-alsoon'); if(_ao) mountEventCards(_ao, ev.alsoOn.slice(0,6)); }   // same card/list template as everywhere
         var evMeta={title:ev.title,venue:ev.venue,day:ev._day};
         var intBtn=document.getElementById('fp-ev-int');
         if(intBtn) intBtn.addEventListener('click',function(){ setEventGated(id, evtStatus(id)==='saved'?null:'saved', evMeta); });
@@ -11876,9 +11864,11 @@
             // which festivals. Each list renders 3 items; phones hide the third in CSS.
             var f=facts[a.slug]||{};
             function line(cls, xs){ return xs&&xs.length?'<div class="'+cls+'">'+xs.slice(0,3).map(function(x){ return '<span class="fp-lu-i">'+esc(x)+'</span>'; }).join('')+'</div>':''; }
-            var gn=f.genres&&f.genres.length?'<div class="fp-lu-gn">'+esc(f.genres.slice(0,2).join(' · '))+'</div>':'';
+            // NO GENRE LINE. It said "TECHNO · HOUSE" under nearly every name on
+            // a techno bill, which is a label, not information. Where they play
+            // is the thing that separates one artist from the next. Suren, 22 Sep.
             var at=line('fp-lu-vn',(f.venues||[]).map(function(v){ return v.name+' ×'+v.n; }))+line('fp-lu-fs',f.festivals);
-            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div>'+gn+'</a><div class="fp-lu-at">'+at+'</div><button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
+            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div></a><div class="fp-lu-at">'+at+'</div><button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
           }).join('');
           var lq=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; }).filter(function(x){ return x.slug; });
           lineupBox.querySelectorAll('.fp-lu-tx[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });
@@ -11917,25 +11907,12 @@
             renderLineup(instant);
           }).catch(function(){});
         }
-        var rvEl=document.getElementById('ev-review');
-        if(rvEl){
-          authedFetch('/api/review?eventId='+encodeURIComponent(ev.id)).then(function(r){ return r.json(); }).then(function(j){
-            if(!j) return; var agg=j.agg, can=j.canReview, mine=j.mine||{};
-            if(!agg && !can) return;
-            var html='<div class="rv-box"><div class="nm-k">Reviews <small>from people who were there</small></div>';
-            if(agg) html+='<div class="rv-agg">'+rvStat('Sound',agg.sound)+rvStat('Crowd',agg.crowd)+rvStat('Find',agg.discovery)+'<div class="rv-n">'+agg.n+' review'+(agg.n==1?'':'s')+'</div></div>';
-            if(can) html+='<div class="rv-form">'+rvSlider('sound','Sound',mine.sound)+rvSlider('crowd','Crowd',mine.crowd)+rvSlider('discovery','Discovery',mine.discovery)+'<button class="rv-submit" id="rv-submit" type="button">'+(j.mine?'Update review':'Post review')+'</button><div class="rv-msg" id="rv-msg"></div></div>';
-            html+='</div>'; rvEl.innerHTML=html;
-            var sb=document.getElementById('rv-submit');
-            if(sb) sb.addEventListener('click',function(){
-              var body={ eventId:ev.id };
-              ['sound','crowd','discovery'].forEach(function(k){ var el=rvEl.querySelector('input[name="rv-'+k+'"]:checked'); if(el) body[k]=parseInt(el.value,10); });
-              if(body.sound==null&&body.crowd==null&&body.discovery==null){ document.getElementById('rv-msg').textContent='Pick at least one rating.'; return; }
-              sb.disabled=true;
-              authedFetch('/api/review',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}).then(function(r){ return r.json(); }).then(function(o){ document.getElementById('rv-msg').textContent=(o&&o.ok)?'Thanks — your review is in.':((o&&o.error)?o.error:'Could not save.'); sb.disabled=false; }).catch(function(){ document.getElementById('rv-msg').textContent='Could not save.'; sb.disabled=false; });
-            });
-          }).catch(function(){});
-        }
+        // EVENT REVIEWS ARE GONE (22 Sep). Rating a night out of five competed
+        // with logging it — the log IS the record of being there, it carries the
+        // artists and the note, and it is the thing the profile is built from.
+        // Two ways to say "I was at this" is one too many. The API and the table
+        // stay (nothing is deleted); Venue DNA reads venue_reviews, which is a
+        // different feature and is untouched.
       }catch(_){ if(document.getElementById('page-body')) openPanel('<div class="empty">Couldn’t load that event.</div>'); }
     }
 

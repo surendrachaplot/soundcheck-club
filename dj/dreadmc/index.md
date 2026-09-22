@@ -1,15 +1,13 @@
 # DREAD MC
 
-DREAD MC is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+DREAD MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Brighton, Bristol, Cardiff and Ibiza and 8 more. Often billed alongside Harriet Jaxxon, K Motionz and Voltage. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+DREAD MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Brighton, Bristol, Cardiff and Ibiza and 8 more. Often billed alongside Harriet Jaxxon, K Motionz and Voltage. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Sat, 14 Nov 2026 | Onyx (E1) | London |
 | Sat, 14 Nov 2026 | fabric | London |
 

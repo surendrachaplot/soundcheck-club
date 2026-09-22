@@ -1,14 +1,14 @@
 # Jeani Quimera
 
-Jeani Quimera is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - XuXa - 6910 Shirley Ave, Austin on Fri, 25 Sept 2026.
+Jeani Quimera is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Xuxa, Austin on Fri, 25 Sept 2026.
 
-Jeani Quimera is a club and garage artist tracked on soundcheck, with 6 sets logged across Austin and Newyorkcity. Often billed alongside MORTALCOIL, Ayanna Heaven and Beng.r. Next up: TBA - XuXa - 6910 Shirley Ave, Austin on Fri 25 Sept.
+Jeani Quimera is a club and garage artist tracked on soundcheck, with 6 sets logged across Austin and Newyorkcity. Often billed alongside MORTALCOIL, Ayanna Heaven and Beng.r. Next up: Xuxa, Austin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - XuXa - 6910 Shirley Ave | Austin |
+| Fri, 25 Sept 2026 | Xuxa | Austin |
 
 ## Recently played
 

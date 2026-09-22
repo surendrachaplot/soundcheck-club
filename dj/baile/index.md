@@ -1,14 +1,15 @@
 # BAILE
 
-BAILE is a Baile Funk and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
+BAILE is a Electronica and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
 
-BAILE is a baile funk and dancehall artist tracked on soundcheck, with 5 sets logged across Amsterdam, London, Marseille and Newyorkcity and 1 more. Often billed alongside BAAWLA, Blossom Hill and Emily Dust. Next up: Volta, Amsterdam on Thu 22 Oct.
+BAILE is an electronica and baile funk artist tracked on soundcheck, with 6 sets logged across Amsterdam, London, Marseille and Newyorkcity and 1 more. Often billed alongside Seb Wildblood, BAAWLA and Blossom Hill. Next up: Volta, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Volta | Amsterdam |
+| Fri, 23 Oct 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ BAILE is a baile funk and dancehall artist tracked on soundcheck, with 5 sets lo
 
 ## Shares bills with
 
-BAAWLA, Blossom Hill, Emily Dust
+Seb Wildblood, BAAWLA, Blossom Hill
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baile/)*

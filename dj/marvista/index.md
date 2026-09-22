@@ -1,14 +1,13 @@
 # MAR VISTA
 
-MAR VISTA is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+MAR VISTA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
 
-MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Odaiba, Tokyo on Tue 22 Sept.
+MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Cakeshop, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 25 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played

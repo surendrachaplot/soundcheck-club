@@ -1,13 +1,14 @@
 # Andrea Castells
 
-Andrea Castells is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Pracht, Frankfurt on Fri, 30 Oct 2026.
+Andrea Castells is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ku Barcelona, Barcelona on Fri, 25 Sept 2026.
 
-Andrea Castells is a techno and house artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside Rivellino, K:ROL and Pascale Voltaire. Next up: Pracht, Frankfurt on Fri 30 Oct.
+Andrea Castells is a techno and house artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside Rivellino, K:ROL and Pascale Voltaire. Next up: Ku Barcelona, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Ku Barcelona | Barcelona |
 | Fri, 30 Oct 2026 | Pracht | Frankfurt |
 
 ## Recently played

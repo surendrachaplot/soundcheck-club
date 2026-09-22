@@ -1,8 +1,8 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
+Cersy is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
 
-Cersy is a techno and bass artist tracked on soundcheck, with 79 sets logged across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Honey Street Studio, Manchester on Sat 3 Oct.
+Cersy is a techno and bass artist tracked on soundcheck, with 80 sets logged across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Honey Street Studio, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cersy is a techno and bass artist tracked on soundcheck, with 79 sets logged acr
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Honey Street Studio | Manchester |
 | Sat, 17 Oct 2026 | Concept Haus | Manchester |
+| Fri, 23 Oct 2026 | Avalon Cafe Bermondsey | London |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

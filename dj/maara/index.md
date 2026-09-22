@@ -1,14 +1,14 @@
 # Maara
 
-Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - XuXa - 6910 Shirley Ave, Austin on Fri, 25 Sept 2026.
+Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Xuxa, Austin on Fri, 25 Sept 2026.
 
-Maara is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: TBA - XuXa - 6910 Shirley Ave, Austin on Fri 25 Sept.
+Maara is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Xuxa, Austin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - XuXa - 6910 Shirley Ave | Austin |
+| Fri, 25 Sept 2026 | Xuxa | Austin |
 | Sat, 26 Sept 2026 | Green Room NYC | New York City |
 | Sat, 17 Oct 2026 | UMI | Brussels |
 | Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |

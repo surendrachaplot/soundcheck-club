@@ -1,14 +1,15 @@
 # Seb Wildblood
 
-Seb Wildblood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
+Seb Wildblood is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Volta, Amsterdam on Thu, 22 Oct 2026.
 
-Seb Wildblood is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Bangkok and Berlin and 31 more. Often billed alongside Blossom Hill, Tom VR and Baalti. Next up: Volta, Amsterdam on Thu 22 Oct.
+Seb Wildblood is a house and electronica artist tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Bangkok and Berlin and 31 more. Often billed alongside Blossom Hill, Tom VR and Baalti. Next up: Volta, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Volta | Amsterdam |
+| Fri, 23 Oct 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
