@@ -1,14 +1,15 @@
 # MYDIR
 
-MYDIR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bread and Butter, London on Sat, 31 Oct 2026.
+MYDIR is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bread and Butter, London on Sat, 31 Oct 2026.
 
-MYDIR is a techno and house artist tracked on soundcheck, with 17 sets logged across London and Manchester. Often billed alongside Bushman (UK), Kakura and Mixed Message Music. Next up: Bread and Butter, London on Sat 31 Oct.
+MYDIR is a house and afro house artist tracked on soundcheck, with 18 sets logged across London and Manchester. Often billed alongside Bushman (UK), Kakura and Mixed Message Music. Next up: Bread and Butter, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bread and Butter | London |
+| Sat, 7 Nov 2026 | Honey Street Studio | Manchester |
 
 ## Recently played
 

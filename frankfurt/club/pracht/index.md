@@ -12,7 +12,7 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 13 upcoming gigs, wit
 | Fri, 25 Sept 2026 | Pracht PRES. with EFÍMERO, NØAH b2b Jamal, Jolie | EFÍMERO, JOLIE (DE) |
 | Sat, 26 Sept 2026 | PrachtNACHT with Malandra JR, THYS, Benja Asima | Benja Asima, Malandra JR, THYS (2) |
 | Fri, 2 Oct 2026 | Pracht PRES. with Marius Lehnert, BIANCA BLANCO, Dario Milkovic | BIANCA BLANCO, Dario Milkovic, Marius Lehnert |
-| Sat, 3 Oct 2026 | PrachtNACHT with Gespona, Voulis, kornël | Gespona |
+| Sat, 3 Oct 2026 | PrachtNACHT with Gespona, VEKI, kornël | Gespona |
 | Fri, 9 Oct 2026 | Pracht PRES. with Predex, YARI, Samy | Predex |
 | Sat, 10 Oct 2026 | PrachtNACHT with Lexer, Clavia., Yan Deno | Lexer |
 | Fri, 16 Oct 2026 | Pracht PRES. with Daughter In Law, RIHANI & BRAUN, NØAH | Daughter In Law |

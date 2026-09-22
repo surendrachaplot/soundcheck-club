@@ -1,8 +1,8 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Listening Group #85 - A Tribe Called Quest X Little Simz" on Mon, 28 Sept 2026.
+Belgrave Music Hall is a music venue in Leeds with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Listening Group #85 - A Tribe Called Quest X Little Simz" on Mon, 28 Sept 2026.
 
-Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 16 upcoming gigs, with line-ups including Bel Cobain, Elder Island, Kylie Wears Berghaus and Romare and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
+Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 17 upcoming gigs, with line-ups including Bel Cobain, Elder Island, Kylie Wears Berghaus and Romare and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 16 upcoming 
 | Mon, 12 Oct 2026 | Takuya Nakamura [Live] - In The Round | Takuya Nakamura |
 | Wed, 14 Oct 2026 | Bel Cobain | Bel Cobain |
 | Sat, 24 Oct 2026 | Please Don't Me Go Home |  |
-| Thu, 29 Oct 2026 | Romare (Live) | Romare |
+| Sun, 25 Oct 2026 | Big Fish Little Fish LEEDS Halloween Family Rave! Sun 25th October 1-3pm |  |
 
 ## Address
 

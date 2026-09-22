@@ -12,7 +12,7 @@ Basement (Amsterdam) is a music venue in Amsterdam listed on soundcheck. 5 upcom
 | Thu, 22 Oct 2026 | Snatch! Records ADE Showcase | Cinthie, Confidential Recipe, Khadija (DE), Midas Field, Mike The Connector, Radio Slave, Riva Starr, The Checkup |
 | Fri, 23 Oct 2026 | Hot Meal pres. Mija Invites | Dr. G, Mija, camoufly |
 | Sat, 24 Oct 2026 | Backspin Records x Mixmag NL | Disguised, Gina Demarchi, Isaiah (NL), Marco Bailey, Regal |
-| Sun, 25 Oct 2026 | CACAO | Anthony Godfather (2) |
+| Sun, 25 Oct 2026 | CACAO | Anthony Godfather (2), Rayzir, TWENTY SIX |
 
 ## Address
 

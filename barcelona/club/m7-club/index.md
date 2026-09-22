@@ -1,8 +1,8 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "M7 presenta: CARAVEL, SuttleK, Mary Ann, Adviro, Marc Fx & Hommiecdall" on Wed, 23 Sept 2026.
+M7 Club is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "M7 presenta: CARAVEL, SuttleK, Mary Ann, Adviro, Marc Fx & Hommiecdall" on Wed, 23 Sept 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and CARAVEL and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and CARAVEL and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # MIXXR
 
-MIXXR is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Elektroküche, Cologne on Fri, 6 Nov 2026.
+MIXXR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-MIXXR is a techno artist tracked on soundcheck, with 8 sets logged across Cologne and Frankfurt. Often billed alongside 2nd Floor, ALLY and EDNA. Next up: Elektroküche, Cologne on Fri 6 Nov.
+MIXXR is a techno and trance artist tracked on soundcheck, with 9 sets logged across Cologne and Frankfurt. Often billed alongside 2nd Floor, ALLY and BabaBass3000. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Fri, 6 Nov 2026 | Elektroküche | Cologne |
 
 ## Recently played
@@ -22,6 +23,6 @@ MIXXR is a techno artist tracked on soundcheck, with 8 sets logged across Cologn
 
 ## Shares bills with
 
-2nd Floor, ALLY, EDNA
+2nd Floor, ALLY, BabaBass3000
 
 *Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixxr/)*

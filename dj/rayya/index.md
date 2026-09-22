@@ -1,8 +1,8 @@
 # Rayya
 
-Rayya is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at PRST, Vienna on Thu, 24 Sept 2026.
+Rayya is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at PRST, Vienna on Thu, 24 Sept 2026.
 
-Rayya is a house and club artist based in Austria, tracked on soundcheck, with 40 sets logged across Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: PRST, Vienna on Thu 24 Sept.
+Rayya is a house and club artist based in Austria, tracked on soundcheck, with 41 sets logged across Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: PRST, Vienna on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rayya is a house and club artist based in Austria, tracked on soundcheck, with 4
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | PRST | Vienna |
 | Sat, 3 Oct 2026 | Funkhaus | Vienna |
+| Sat, 3 Oct 2026 | Wiener Werkshallen | Vienna |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Steven Shade
 
-Steven Shade is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Wed, 23 Sept 2026.
+Steven Shade is a Techno and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Wed, 23 Sept 2026.
 
-Steven Shade is a techno and tech house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Jayzo, Kos:mo and rodmor. Next up: ÆDEN, Berlin on Wed 23 Sept.
+Steven Shade is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Jayzo, Kos:mo and rodmor. Next up: ÆDEN, Berlin on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Steven Shade is a techno and tech house artist based in Germany, tracked on soun
 | Wed, 23 Sept 2026 | ÆDEN | Berlin |
 | Fri, 25 Sept 2026 | STK 47 WAREHOUSE | Krakow |
 | Fri, 23 Oct 2026 | Baalsaal | Hamburg |
+| Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Fri, 6 Nov 2026 | Baalsaal | Hamburg |
 | Fri, 18 Dec 2026 | Baalsaal | Hamburg |
 

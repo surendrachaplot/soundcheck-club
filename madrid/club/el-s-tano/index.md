@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 26 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "ARETÉ: Alvaro Cabana, Aisak Morris, K-YU, Naya  " on Thu, 24 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 27 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "ARETÉ: Alvaro Cabana, Aisak Morris, K-YU, Naya  " on Thu, 24 Sept 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 26 upcoming gigs, with line-ups including Alexander Kowalski, Alvaro Cabana, Arok Shiva and Brisa Then and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 27 upcoming gigs, with line-ups including Alexander Kowalski, Alvaro Cabana, Arok Shiva and Brisa Then and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 

@@ -17,7 +17,7 @@
 | Fri, 6 Nov 2026 | Channel One Sound System UK Tour: Liverpool | Channel One Sound |
 | Fri, 20 Nov 2026 | MPH - Kitchen Street, Liverpool | MPH (1) |
 | Fri, 27 Nov 2026 | Conduit presents: Reek0, Amber Rose & Benno | Amber Rose, Benno |
-| Fri, 4 Dec 2026 | Wonder Pot X Queensway |  |
+| Fri, 4 Dec 2026 | The Wonder Pot X Queensway |  |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Steffi
 
-Steffi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at essaim, Paris on Sat, 26 Sept 2026.
+Steffi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at essaim, Paris on Sat, 26 Sept 2026.
 
-Steffi is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: essaim, Paris on Sat 26 Sept.
+Steffi is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Belfast and 26 more. Often billed alongside Virginia, Blasha & Allatt and Tasha. Next up: essaim, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | essaim | Paris |
+| Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played

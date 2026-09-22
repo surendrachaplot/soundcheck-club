@@ -1,13 +1,14 @@
 # EVIE UK
 
-EVIE UK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mint Warehouse, Leeds on Sat, 24 Oct 2026.
+EVIE UK is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
-EVIE UK is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Chopper (UK), Ryan Resso and GW Harrison. Next up: Mint Warehouse, Leeds on Sat 24 Oct.
+EVIE UK is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Chopper (UK), Ryan Resso and GW Harrison. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 24 Oct 2026 | Mint Warehouse | Leeds |
 | Sat, 14 Nov 2026 | Lab11 | Birmingham |
 

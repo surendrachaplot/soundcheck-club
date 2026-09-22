@@ -1,8 +1,8 @@
 # dj poolboi
 
-dj poolboi is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Elsewhere, New York City on Fri, 2 Oct 2026.
+dj poolboi is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Elsewhere, New York City on Fri, 2 Oct 2026.
 
-dj poolboi is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside sunflwr, Shaolin Cowboy and DJ Cinéma Quartier Latin. Next up: Elsewhere, Newyorkcity on Fri 2 Oct.
+dj poolboi is a house and deep house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside sunflwr, Shaolin Cowboy and DJ Cinéma Quartier Latin. Next up: Elsewhere, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 

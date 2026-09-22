@@ -1,14 +1,15 @@
 # Baumeister98
 
-Baumeister98 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
+Baumeister98 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Artheater, Cologne on Sat, 26 Sept 2026.
 
-Baumeister98 is a trance and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside BabaBass3000, OSKAMAXX and Pueblo Gelb. Next up: Artheater, Cologne on Sat 26 Sept.
+Baumeister98 is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Hamburg and Vienna. Often billed alongside BabaBass3000, OSKAMAXX and Pueblo Gelb. Next up: Artheater, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Artheater | Cologne |
+| Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 
 ## Recently played
 

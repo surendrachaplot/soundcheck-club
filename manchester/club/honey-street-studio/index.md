@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Evacuate the Dancefloor: Back to School" on Fri, 25 Sept 2026.
+Honey Street Studio is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Evacuate the Dancefloor: Back to School" on Fri, 25 Sept 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 

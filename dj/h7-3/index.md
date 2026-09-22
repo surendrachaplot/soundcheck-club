@@ -1,8 +1,8 @@
 # H7 (3)
 
-H7 (3) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
+H7 (3) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
 
-H7 (3) is a techno and tech house artist tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside Blck-Swan, The Kiss and Benua. Next up: ÆDEN, Berlin on Sat 26 Sept.
+H7 (3) is a techno and tech house artist tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside Blck-Swan, The Kiss and Benua. Next up: ÆDEN, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ H7 (3) is a techno and tech house artist tracked on soundcheck, with 32 sets log
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | ÆDEN | Berlin |
 | Fri, 2 Oct 2026 | Crack Bellmer | Berlin |
+| Wed, 4 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
 

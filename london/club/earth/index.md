@@ -10,7 +10,7 @@ EartH is a music venue in London listed on soundcheck. 17 upcoming gigs, with li
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |
 | Thu, 24 Sept 2026 | AMPERS&ONE |  |
-| Fri, 25 Sept 2026 | London Something: Jungle DnB night in the Heart of Hackney | DJ Ron, Decibella, Double O, SP:MC, Shabba |
+| Fri, 25 Sept 2026 | London Something: Jungle DnB night in the Heart of Hackney | DJRon, Decibella, Double O, SP:MC, Shabba |
 | Sat, 26 Sept 2026 | AVA London X Stay On Sight: Skin On Skin, Evian Christ, Croatian Amor + mi-el | Croatian Amor, Evian Christ, Skin On Skin, mi-el |
 | Sat, 10 Oct 2026 | Digitalism | Digitalism |
 | Sat, 17 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |

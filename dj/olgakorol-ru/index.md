@@ -1,8 +1,8 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Olga Korol is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
-Olga Korol is a house and minimal artist tracked on soundcheck, with 99 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 36 more. Often billed alongside Per Hammar, Cristi Cons and Elnur. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
+Olga Korol is a house and minimal artist tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 36 more. Often billed alongside Per Hammar, Cristi Cons and Elnur. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Olga Korol is a house and minimal artist tracked on soundcheck, with 99 sets log
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Frieda's Büxe | Zurich |
 | Fri, 9 Oct 2026 | TBA - alte oper Frankfurt | Frankfurt |
+| Sat, 10 Oct 2026 | Südpol | Hamburg |
 | Sat, 5 Dec 2026 | BORIS CLUB | Barcelona |
 
 ## Recently played

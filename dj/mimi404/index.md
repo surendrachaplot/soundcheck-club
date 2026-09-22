@@ -1,8 +1,8 @@
 # MIMI404
 
-MIMI404 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
+MIMI404 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
 
-MIMI404 is a techno and trance artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
+MIMI404 is a techno and trance artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MIMI404 is a techno and trance artist tracked on soundcheck, with 65 sets logged
 | Sat, 26 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 23 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 
 ## Recently played
 
