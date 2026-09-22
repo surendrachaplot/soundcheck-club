@@ -1,6 +1,6 @@
 # mayalabae
 
-mayalabae is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
+mayalabae is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
 
 mayalabae is a techno and electro artist tracked on soundcheck, with 43 sets logged across Montreal and Toronto. Often billed alongside Pretty Privilege, Sperdakos and CrisseMarqueur. Next up: Bar Datcha, Montreal on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ mayalabae is a techno and electro artist tracked on soundcheck, with 43 sets log
 
 Pretty Privilege, Sperdakos, CrisseMarqueur
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*

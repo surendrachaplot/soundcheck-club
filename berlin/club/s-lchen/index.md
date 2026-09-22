@@ -1,6 +1,6 @@
 # Säälchen
 
-Säälchen is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin" on Sat, 17 Oct 2026.
+Säälchen is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin" on Sat, 17 Oct 2026.
 
 Säälchen is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Holzmarktstraße 25, 10243 Berlin.
 
@@ -16,4 +16,4 @@ Säälchen is a music venue in Berlin listed on soundcheck. 3 upcoming gigs. Bro
 
 Holzmarktstraße 25, 10243 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-lchen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-lchen/)*

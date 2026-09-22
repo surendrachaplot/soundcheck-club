@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GR:IT" on Fri, 25 Sept 2026.
+Baalsaal is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GR:IT" on Fri, 25 Sept 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, with line-ups including formula303, Linh (2), ROOB and shaccø and 1 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -14,13 +14,13 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, wit
 | Fri, 16 Oct 2026 | SENZA NOME |  |
 | Fri, 23 Oct 2026 | Groove | Steven Shade |
 | Sat, 31 Oct 2026 | Structures with ROOB | ROOB |
+| Fri, 6 Nov 2026 | Nonchalant | Steven Shade |
 | Sat, 7 Nov 2026 | Blocked |  |
 | Fri, 13 Nov 2026 | GR:IT |  |
 | Sat, 14 Nov 2026 | blocked |  |
-| Fri, 20 Nov 2026 | Groove | Steven Shade |
 
 ## Address
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

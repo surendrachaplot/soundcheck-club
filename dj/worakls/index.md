@@ -1,6 +1,6 @@
 # Worakls
 
-Worakls is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at WestWeelde, Amsterdam on Thu, 22 Oct 2026.
+Worakls is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at WestWeelde, Amsterdam on Thu, 22 Oct 2026.
 
 Worakls is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Basel and Berlin and 27 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: WestWeelde, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Worakls is a techno and house artist tracked on soundcheck, with 79 sets logged 
 
 Aalson, Carina Lawrence, Mees Salomé
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

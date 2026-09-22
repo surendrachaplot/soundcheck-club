@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "RUBBLE // Jemima from the Bible, Humza" on Tue, 22 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 20 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "RUBBLE // Jemima from the Bible, Humza" on Tue, 22 Sept 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upcoming gigs, with line-ups including damside, Accident Machine, Alec Falconer and Astro and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 20 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

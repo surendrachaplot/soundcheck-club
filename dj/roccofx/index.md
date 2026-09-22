@@ -1,6 +1,6 @@
 # Rocco.fx
 
-Rocco.fx is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Rocco.fx is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Rocco.fx is a techno and minimal techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside INFAME (MX), Mikka and PAPP. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Rocco.fx is a techno and minimal techno artist tracked on soundcheck, with 57 se
 
 INFAME (MX), Mikka, PAPP
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofx/)*

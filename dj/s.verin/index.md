@@ -1,6 +1,6 @@
 # S.verin
 
-S.verin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
+S.verin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
 
 S.verin is a techno and electro artist tracked on soundcheck, with 22 sets logged across Berlin, Budapest and Vienna. Often billed alongside Inou Ki Endo, Alpha Tracks and DJ DIAMOND (2). Next up: Otto Wagner Areal, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ S.verin is a techno and electro artist tracked on soundcheck, with 22 sets logge
 
 Inou Ki Endo, Alpha Tracks, DJ DIAMOND (2)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.verin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.verin/)*

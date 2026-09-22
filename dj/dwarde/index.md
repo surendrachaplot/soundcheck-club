@@ -1,6 +1,6 @@
 # Dwarde
 
-Dwarde is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Croft, Bristol on Wed, 23 Sept 2026.
+Dwarde is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Croft, Bristol on Wed, 23 Sept 2026.
 
 Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 25 more. Often billed alongside Tim Reaper, Coco Bryce and Hughesee. Next up: The Croft, Bristol on Wed 23 Sept.
 
@@ -30,4 +30,4 @@ Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 121 sets l
 
 Tim Reaper, Coco Bryce, Hughesee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*

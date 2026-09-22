@@ -1,6 +1,6 @@
 # Andre Winter
 
-Andre Winter is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
+Andre Winter is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 16 Oct 2026.
 
 Andre Winter is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Oliver Huntemann, BOHO and Sandra Gold. Next up: Uebel & Gefährlich, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Andre Winter is a techno and tech house artist tracked on soundcheck, with 16 se
 
 Oliver Huntemann, BOHO, Sandra Gold
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewinter/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewinter/)*

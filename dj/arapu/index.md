@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tunnel, Milan on Fri, 25 Sept 2026.
+Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tunnel, Milan on Fri, 25 Sept 2026.
 
 Arapu is a house and minimal artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Tunnel, Milan on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Arapu is a house and minimal artist tracked on soundcheck, with 152 sets logged 
 
 Priku, Seth Troxler, Sossa
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

@@ -1,6 +1,6 @@
 # Hot Chip
 
-Hot Chip is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
+Hot Chip is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
 
 Hot Chip is a house and disco artist tracked on soundcheck, with 52 sets logged across Bali, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside DJ Paulette, FKJ and Joe Goddard. Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
 
@@ -27,4 +27,4 @@ Hot Chip is a house and disco artist tracked on soundcheck, with 52 sets logged 
 
 DJ Paulette, FKJ, Joe Goddard
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotchip/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotchip/)*

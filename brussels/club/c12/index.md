@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN" on Fri, 25 Sept 2026.
+C12 is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN" on Fri, 25 Sept 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including AAguilAA, Altinbas, Basic Feelings (2) and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -23,4 +23,4 @@ C12 is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with li
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

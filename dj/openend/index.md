@@ -1,6 +1,6 @@
 # OpenEnd
 
-OpenEnd is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Vancouver on Sat, 3 Oct 2026.
+OpenEnd is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Vancouver on Sat, 3 Oct 2026.
 
 OpenEnd is a techno and jungle artist tracked on soundcheck, with 4 sets logged across Frankfurt, Hamburg and Vancouver. Often billed alongside Arne Stolt, Bronwyn and Claas Herrmann. Next up: TBA, Vancouver on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ OpenEnd is a techno and jungle artist tracked on soundcheck, with 4 sets logged 
 
 Arne Stolt, Bronwyn, Claas Herrmann
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/openend/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/openend/)*

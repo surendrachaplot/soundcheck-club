@@ -1,6 +1,6 @@
 # The Bulldog Palace
 
-The Bulldog Palace is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Discovery Sessions: The Bulldog Amsterdam" on Thu, 22 Oct 2026.
+The Bulldog Palace is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Discovery Sessions: The Bulldog Amsterdam" on Thu, 22 Oct 2026.
 
 The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including 2HOT2PLAY, ABOUT SOFIYA, Alex Bohemien and Alex Pi and 2 more. Browse upcoming dates, start times and who's playing. Leidseplein 15, 1017 PS Amsterdam.
 
@@ -9,7 +9,7 @@ The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 5 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Discovery Sessions: The Bulldog Amsterdam | Ben Kim, DXNBY, Danny Snowden, Goosey, Semmi Amdouni, Shek, VLTRA (IT) |
-| Fri, 23 Oct 2026 | ADUNANZA IN THE CAGE - ADE 2026 | Alex Bohemien, Manu P |
+| Fri, 23 Oct 2026 | ADUNANZA IN THE CAGE - ADE 2026 | Alex Bohemien, Broosk, Key Eff, Manu P |
 | Fri, 23 Oct 2026 | About Us ADE Showcase | ABOUT SOFIYA, Alex Pi, Bullzeye, DJ Pierre, Luigi Madonna, Paula Sanz, SOLE DOSI, Secret Cinema |
 | Sat, 24 Oct 2026 | RAGAZZI Records - ADE Label Launch [TRANCE / HARD HOUSE] | HOESEPHINE, O/H/M, OnlyWithYou, Shake Daddy, Trancemaster Krause, snoritz |
 | Sat, 24 Oct 2026 | Edo presents Ode | 2HOT2PLAY, BOY&GIRL, Edo (NL), L.zwo, LUMINE |
@@ -18,4 +18,4 @@ The Bulldog Palace is a music venue in Amsterdam listed on soundcheck. 5 upcomin
 
 Leidseplein 15, 1017 PS Amsterdam, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-bulldog-palace/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-bulldog-palace/)*

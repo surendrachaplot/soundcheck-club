@@ -1,8 +1,8 @@
-# TBA - SECRET LOCATION
+# TBA - (Secret Location)
 
-TBA - SECRET LOCATION is a music venue in London with 44 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SIDEWAYS x LA MERCÈ present DONALD (Outcast)" on Wed, 23 Sept 2026.
+TBA - (Secret Location) is a music venue in London with 46 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SIDEWAYS x LA MERCÈ present DONALD (Outcast)" on Wed, 23 Sept 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 44 upcoming gigs, with line-ups including .cosm, DJ JUANNY, Alena Vox and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - (Secret Location) is a music venue in London listed on soundcheck. 46 upcoming gigs, with line-ups including .cosm, DJ JUANNY, Alena Vox and Amnati and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 44 upcomi
 | Sat, 26 Sept 2026 | d.tour: Eera (Surf Gang), Touching Ice (Dj set) | Eera |
 | Sat, 26 Sept 2026 | Amandava - somewhere en el campo | DJ Dustin |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

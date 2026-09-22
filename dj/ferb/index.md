@@ -1,6 +1,6 @@
 # FERB
 
-FERB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Favela, Munster on Sat, 26 Sept 2026.
+FERB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Favela, Munster on Sat, 26 Sept 2026.
 
 FERB is a techno and house artist tracked on soundcheck, with 17 sets logged across Bristol, Edinburgh, Glasgow and Liverpool and 3 more. Often billed alongside Lau.tastic, Aly Berry and LIEKS. Next up: Club Favela, Munster on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FERB is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Lau.tastic, Aly Berry, LIEKS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferb/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferb/)*

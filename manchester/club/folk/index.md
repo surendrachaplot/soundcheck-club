@@ -1,6 +1,6 @@
 # Folk.
 
-Folk. is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Jubel presents: Laurence Guy at Folk" on Sat, 26 Sept 2026.
+Folk. is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Jubel presents: Laurence Guy at Folk" on Sat, 26 Sept 2026.
 
 Folk. is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Laurence Guy. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Folk. is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Jubel presents: Laurence Guy at Folk | Laurence Guy |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/folk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/folk/)*

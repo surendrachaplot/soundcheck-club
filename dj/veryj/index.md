@@ -1,6 +1,6 @@
 # Very J
 
-Very J is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 27 Sept 2026.
+Very J is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 27 Sept 2026.
 
 Very J is a house and techno artist tracked on soundcheck, with 129 sets logged across Boston, Detroit, London and Losangeles and 2 more. Often billed alongside For Future's Sake, John Raffaele and Devoye. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Very J is a house and techno artist tracked on soundcheck, with 129 sets logged 
 
 For Future's Sake, John Raffaele, Devoye
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veryj/)*

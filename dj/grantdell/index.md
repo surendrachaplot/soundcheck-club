@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club der Visionaere, Berlin on Sun, 27 Sept 2026.
+Grant Dell is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Club der Visionaere, Berlin on Sun, 27 Sept 2026.
 
 Grant Dell is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Boston and Brighton and 9 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: Club der Visionaere, Berlin on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Grant Dell is a house and tech house artist tracked on soundcheck, with 28 sets 
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

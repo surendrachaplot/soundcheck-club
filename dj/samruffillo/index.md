@@ -1,8 +1,8 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
 
-Sam Ruffillo is a house and disco artist tracked on soundcheck, with 112 sets logged across Amsterdam, Auckland, Bali and Barcelona and 33 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: La Paloma, Barcelona on Fri 2 Oct.
+Sam Ruffillo is a house and disco artist tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Bali and Barcelona and 34 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: La Paloma, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Ruffillo is a house and disco artist tracked on soundcheck, with 112 sets lo
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Paloma | Barcelona |
 | Sat, 3 Oct 2026 | Amber's | Manchester |
+| Fri, 9 Oct 2026 | KABUL à GoGo | Utrecht |
 | Sat, 10 Oct 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Sat, 24 Oct 2026 | Pacific Amsterdam | Amsterdam |
 
@@ -28,4 +29,4 @@ Sam Ruffillo is a house and disco artist tracked on soundcheck, with 112 sets lo
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

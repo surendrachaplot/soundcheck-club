@@ -1,13 +1,14 @@
 # Amizl
 
-Amizl is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 30 Oct 2026.
+Amizl is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Marlborough Red Room, Glasgow on Sat, 26 Sept 2026.
 
-Amizl is a house and garage artist tracked on soundcheck, with 12 sets logged across Edinburgh and Glasgow. Often billed alongside Nadia Summer, A-TØN and M1-DJ. Next up: La Cheetah Club, Glasgow on Fri 30 Oct.
+Amizl is a house and garage artist tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside Nadia Summer, A-TØN and M1-DJ. Next up: The Marlborough Red Room, Glasgow on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | The Marlborough Red Room | Glasgow |
 | Fri, 30 Oct 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Amizl is a house and garage artist tracked on soundcheck, with 12 sets logged ac
 
 Nadia Summer, A-TØN, M1-DJ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*

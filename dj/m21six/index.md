@@ -1,13 +1,14 @@
 # M21SIX
 
-M21SIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ÆDEN, Berlin on Sat, 26 Sept 2026.
+M21SIX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
 
-M21SIX is a techno and house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Seoul. Often billed alongside V!TTS, Helen Schwarzweiß and Besch. Next up: ÆDEN, Berlin on Sat 26 Sept.
+M21SIX is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Seoul. Often billed alongside V!TTS, Helen Schwarzweiß and Besch. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Humboldthain Club | Berlin |
 | Sat, 26 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ M21SIX is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 V!TTS, Helen Schwarzweiß, Besch
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m21six/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m21six/)*

@@ -1,6 +1,6 @@
 # Yoshitaka Shirakura
 
-Yoshitaka Shirakura is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Yoshitaka Shirakura is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 Yoshitaka Shirakura is a techno and ambient artist based in Japan, tracked on soundcheck, with 43 sets logged across Osaka and Tokyo. Often billed alongside YUKIMASA, Ario and Kojiro. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Yoshitaka Shirakura is a techno and ambient artist based in Japan, tracked on so
 
 YUKIMASA, Ario, Kojiro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakashirakura/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitakashirakura/)*

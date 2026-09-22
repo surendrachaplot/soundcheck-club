@@ -1,6 +1,6 @@
 # AUNTY H!ST@M!NE
 
-AUNTY H!ST@M!NE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at New Guernica, Melbourne on Thu, 24 Sept 2026.
+AUNTY H!ST@M!NE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at New Guernica, Melbourne on Thu, 24 Sept 2026.
 
 AUNTY H!ST@M!NE is a house and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Joey Coco, Liho and Mitch Tonta. Next up: New Guernica, Melbourne on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ AUNTY H!ST@M!NE is a house and techno artist based in Australia, tracked on soun
 
 Joey Coco, Liho, Mitch Tonta
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyh!stm!ne/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyh!stm!ne/)*

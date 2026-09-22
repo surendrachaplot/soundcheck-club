@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
+Danilo Filipe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OST, Berlin on Fri, 23 Oct 2026.
 
 Danilo Filipe is a techno and trance artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Lisbon and Munich. Often billed alongside Antonym, Athina and Bobaz Lobster. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Danilo Filipe is a techno and trance artist tracked on soundcheck, with 14 sets 
 
 Antonym, Athina, Bobaz Lobster
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

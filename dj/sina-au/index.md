@@ -1,6 +1,6 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Spkrbox, Detroit on Tue, 22 Sept 2026.
+Sina (AU) is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Spkrbox, Detroit on Tue, 22 Sept 2026.
 
 Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: Spkrbox, Detroit on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Sina (AU) is an ambient and experimental artist tracked on soundcheck, with 39 s
 
 Kavil, Vlada, Tangerine
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

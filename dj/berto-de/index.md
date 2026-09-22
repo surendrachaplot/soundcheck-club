@@ -1,6 +1,6 @@
 # Berto (DE)
 
-Berto (DE) is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Südpol, Hamburg on Sat, 26 Sept 2026.
+Berto (DE) is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Südpol, Hamburg on Sat, 26 Sept 2026.
 
 Berto (DE) is an electro and tech house artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Losangeles and Miami and 1 more. Often billed alongside Acid Souljah, Ada Kaleh and Adana Twins. Next up: Südpol, Hamburg on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Berto (DE) is an electro and tech house artist tracked on soundcheck, with 10 se
 
 Acid Souljah, Ada Kaleh, Adana Twins
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berto-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berto-de/)*

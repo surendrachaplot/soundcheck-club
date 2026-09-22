@@ -1,6 +1,6 @@
 # Interlude
 
-Interlude is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at De Lange Adem, Amsterdam on Sun, 4 Oct 2026.
+Interlude is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at De Lange Adem, Amsterdam on Sun, 4 Oct 2026.
 
 Interlude is a house and experimental artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Bristol and Bucharest and 2 more. Often billed alongside Bross, DJ Doubt and Deselecta. Next up: De Lange Adem, Amsterdam on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Interlude is a house and experimental artist tracked on soundcheck, with 20 sets
 
 Bross, DJ Doubt, Deselecta
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interlude/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interlude/)*

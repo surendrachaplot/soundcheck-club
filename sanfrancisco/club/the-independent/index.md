@@ -1,6 +1,6 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hot Chip DJ Set" on Sun, 27 Sept 2026.
+The Independent is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hot Chip DJ Set" on Sun, 27 Sept 2026.
 
 The Independent is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming gigs, with line-ups including Dublon, Hot Chip and O'Flynn. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
@@ -18,4 +18,4 @@ The Independent is a music venue in Sanfrancisco listed on soundcheck. 5 upcomin
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

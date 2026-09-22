@@ -1,6 +1,6 @@
 # Akropolis
 
-Akropolis is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Katarzia + support: Meowlau + Vojtik" on Wed, 30 Sept 2026.
+Akropolis is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Katarzia + support: Meowlau + Vojtik" on Wed, 30 Sept 2026.
 
 Akropolis is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Digitalism and Parra for Cuva. Browse upcoming dates, start times and who's playing. Kubelíkova 1548/27, 130 00 Prague 3, Czech Republic.
 
@@ -16,4 +16,4 @@ Akropolis is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with
 
 Kubelíkova 1548/27, 130 00 Prague 3, Czech Republic, Prague
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/akropolis/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/akropolis/)*

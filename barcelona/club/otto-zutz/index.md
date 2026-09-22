@@ -1,6 +1,6 @@
 # Otto Zutz
 
-Otto Zutz is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Thursday - hits reggaeton - room / Guest list" on Thu, 24 Sept 2026.
+Otto Zutz is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Thursday - hits reggaeton - room / Guest list" on Thu, 24 Sept 2026.
 
 Otto Zutz is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer de Lincoln, 15, 08006 Barcelona.
 
@@ -22,4 +22,4 @@ Otto Zutz is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs. B
 
 Carrer de Lincoln, 15, 08006 Barcelona, Barcelona
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/otto-zutz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/otto-zutz/)*

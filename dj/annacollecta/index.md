@@ -1,6 +1,6 @@
 # Anna Collecta
 
-Anna Collecta is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+Anna Collecta is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
 
 Anna Collecta is a house and disco artist based in United States of America, tracked on soundcheck, with 78 sets logged across Ibiza, London, Miami and Newyorkcity and 4 more. Often billed alongside Deo'jorge, Will Buck and Atilla Ural. Next up: McCarren Park, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Anna Collecta is a house and disco artist based in United States of America, tra
 
 Deo'jorge, Will Buck, Atilla Ural
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annacollecta/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annacollecta/)*

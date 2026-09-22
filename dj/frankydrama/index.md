@@ -1,6 +1,6 @@
 # frankydrama
 
-frankydrama is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
+frankydrama is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Sat, 26 Sept 2026.
 
 frankydrama is an electronica and house artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona and Madrid. Often billed alongside BOTHER, TWO EX and ESSTI. Next up: Cadavra, Madrid on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ frankydrama is an electronica and house artist based in Spain, tracked on soundc
 
 BOTHER, TWO EX, ESSTI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankydrama/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankydrama/)*

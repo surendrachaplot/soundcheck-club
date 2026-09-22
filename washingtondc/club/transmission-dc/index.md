@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "6speed Ft. Miley Serious & Pura Pura" on Fri, 25 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "6speed Ft. Miley Serious & Pura Pura" on Fri, 25 Sept 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcoming gigs, with line-ups including 1tbsp, Cadeem LaMarr, CalvoMusic and Carrier and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -9,7 +9,7 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 6speed Ft. Miley Serious & Pura Pura | EQUISS, Miley Serious, Pura Pura, Vivian Oblivion |
-| Fri, 25 Sept 2026 | TRANSMISSION pres: gyrofield x Carrier | Carrier, gyrofield |
+| Fri, 25 Sept 2026 | TRANSMISSION pres: gyrofield, Carrier, Jett | Carrier, Jett, gyrofield |
 | Sat, 26 Sept 2026 | Rumba Queer: Vamo Pa' La Calle |  |
 | Sat, 26 Sept 2026 | DOLLS B2B BEARS | Girlypop Princess, Hannah Account, Harley (1) |
 | Fri, 2 Oct 2026 | BROADCAST: ONE YEAR OF TRANSMISSION | CFCF, Cadeem LaMarr, CalvoMusic, Clear Channel, Darling Cool, Dee Clark, EL SUCIO, Franxx, GET FACE, Girlypop Princess, Hissy Fit, ILUSM, JAMBALAYA, Juno (NY), Kade Young, MANGUMAMI, NANAGOTCHI, Océane (2), Olof Dreijer, Plastician, Robyn DaBank, Shyboi, THABLACKGOD, Toro, Tromac |
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 10 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

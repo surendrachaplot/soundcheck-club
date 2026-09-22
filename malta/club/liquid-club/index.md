@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "REVOLVER pres TOXIC MACHINERY" on Fri, 25 Sept 2026.
+Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "REVOLVER pres TOXIC MACHINERY" on Fri, 25 Sept 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, with line-ups including Billy Hills, BOA (1), Brian James and Cheech and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

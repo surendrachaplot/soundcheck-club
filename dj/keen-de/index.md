@@ -1,6 +1,6 @@
 # Keen (2)
 
-Keen (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at M-BIA, Berlin on Sat, 10 Oct 2026.
+Keen (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at M-BIA, Berlin on Sat, 10 Oct 2026.
 
 Keen (2) is a techno and psytrance artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside DaSoMaZo, Momentune and Athina. Next up: M-BIA, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Keen (2) is a techno and psytrance artist tracked on soundcheck, with 10 sets lo
 
 DaSoMaZo, Momentune, Athina
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-de/)*

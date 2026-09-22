@@ -1,14 +1,15 @@
 # Jephta
 
-Jephta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Jephta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-Jephta is a techno and house artist tracked on soundcheck, with 24 sets logged across Amsterdam and Ghent. Often billed alongside Cobahn, Hitam and Loek Frey. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
+Jephta is a techno and house artist tracked on soundcheck, with 25 sets logged across Amsterdam and Ghent. Often billed alongside Cobahn, Dasha Rush and Hitam. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Fri, 27 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jephta is a techno and house artist tracked on soundcheck, with 24 sets logged a
 
 ## Shares bills with
 
-Cobahn, Hitam, Loek Frey
+Cobahn, Dasha Rush, Hitam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jephta/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jephta/)*

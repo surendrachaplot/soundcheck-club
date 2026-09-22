@@ -1,6 +1,6 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Cleric is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
 Cleric is a techno and acid artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Félicie, Bailey Ibbs and CESAR ALMENA. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Cleric is a techno and acid artist tracked on soundcheck, with 116 sets logged a
 
 Félicie, Bailey Ibbs, CESAR ALMENA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

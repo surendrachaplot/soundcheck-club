@@ -1,6 +1,6 @@
 # George Morteanu
 
-George Morteanu is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at E1, London on Sat, 28 Nov 2026.
+George Morteanu is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at E1, London on Sat, 28 Nov 2026.
 
 George Morteanu is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Ciccio (IT), Ciprian and Laumee. Next up: E1, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ George Morteanu is a tech house and minimal artist based in United Kingdom, trac
 
 Ciccio (IT), Ciprian, Laumee
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorteanu/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorteanu/)*

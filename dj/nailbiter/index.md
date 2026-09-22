@@ -1,6 +1,6 @@
 # Nailbiter
 
-Nailbiter is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Osler Records, Toronto on Sat, 28 Nov 2026.
+Nailbiter is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Osler Records, Toronto on Sat, 28 Nov 2026.
 
 Nailbiter is a techno and acid artist tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside AADJA, MIASALAV and Measure Divide. Next up: Osler Records, Toronto on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Nailbiter is a techno and acid artist tracked on soundcheck, with 8 sets logged 
 
 AADJA, MIASALAV, Measure Divide
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nailbiter/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nailbiter/)*

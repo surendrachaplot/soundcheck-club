@@ -1,6 +1,6 @@
 # PHIZ
 
-PHIZ is a UK Funky and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Haggerston, London on Fri, 9 Oct 2026.
+PHIZ is a UK Funky and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Haggerston, London on Fri, 9 Oct 2026.
 
 PHIZ is an uk funky and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Akabema, TECHNOLUX and DREIAN. Next up: The Haggerston, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ PHIZ is an uk funky and house artist based in United Kingdom, tracked on soundch
 
 Akabema, TECHNOLUX, DREIAN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*

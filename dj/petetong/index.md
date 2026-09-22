@@ -1,6 +1,6 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
+Pete Tong is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
 
 Pete Tong is a house and techno artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Berlin and Bristol and 13 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: D-EDGE, Saopaulo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Pete Tong is a house and techno artist based in United Kingdom, tracked on sound
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*

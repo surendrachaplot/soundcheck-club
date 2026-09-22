@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Daniel Avery (Live), Dopplereffekt (live)" on Wed, 23 Sept 2026.
+Elsewhere is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Daniel Avery (Live), Dopplereffekt (live)" on Wed, 23 Sept 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 25 upcoming gigs, with line-ups including 444 (1), 6 SENSE, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 26 upcoming gigs, with line-ups including 444 (1), 6 SENSE, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 25 upcoming gigs
 | Sat, 26 Sept 2026 | Mina, LOSTBOYJAY, Losing Stereo, Beneath x ELECTROSOL | Beneath, Blvck Truffle, LOSTBOYJAY, Mike Foch |
 | Sat, 26 Sept 2026 | Phantogram (DJ Set) | Phantogram |
 | Sun, 27 Sept 2026 | R&B and Ribs |  |
+| Wed, 30 Sept 2026 | Countdown to the Rent Freeze |  |
 | Thu, 1 Oct 2026 | BKG: Boydell, sasababy, Ladler | Boydell, sasababy |
 | Fri, 2 Oct 2026 | Whipped Cream, MUSUBI |  |
-| Fri, 2 Oct 2026 | Dusky, dj poolboi (open to close), Rae Sada | Dusky, dj poolboi |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

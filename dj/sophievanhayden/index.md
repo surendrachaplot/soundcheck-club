@@ -1,8 +1,8 @@
 # Sophie van Hayden
 
-Sophie van Hayden is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Sophie van Hayden is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-Sophie van Hayden is a techno and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, F!NN and Patrick Scuro. Next up: Void Club, Berlin on Fri 25 Sept.
+Sophie van Hayden is a techno and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Fnatik, F!NN and Patrick Scuro. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sophie van Hayden is a techno and tech house artist based in Germany, tracked on
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Void Club | Berlin |
 | Fri, 2 Oct 2026 | Fabrique im Gängeviertel | Hamburg |
+| Fri, 2 Oct 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sophie van Hayden is a techno and tech house artist based in Germany, tracked on
 
 Fnatik, F!NN, Patrick Scuro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophievanhayden/)*

@@ -1,13 +1,14 @@
 # Pschukk
 
-Pschukk is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Fri, 9 Oct 2026.
+Pschukk is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
-Pschukk is a progressive house and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside sleeptwitch, ayu bi and Keex. Next up: Renate, Berlin on Fri 9 Oct.
+Pschukk is a house and progressive house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside sleeptwitch, ayu bi and DJ CHICHI. Next up: Renate, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Renate | Berlin |
 | Fri, 9 Oct 2026 | Renate | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Pschukk is a progressive house and tech house artist based in Germany, tracked o
 
 ## Shares bills with
 
-sleeptwitch, ayu bi, Keex
+sleeptwitch, ayu bi, DJ CHICHI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pschukk/)*

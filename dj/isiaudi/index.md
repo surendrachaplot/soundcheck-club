@@ -1,6 +1,6 @@
 # Isi Audi
 
-Isi Audi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Lower Level, Boston on Sat, 26 Sept 2026.
+Isi Audi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Lower Level, Boston on Sat, 26 Sept 2026.
 
 Isi Audi is a house and techno artist based in Mexico, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Boston and Kyoto and 6 more. Often billed alongside Sante Visioni, ViV:On and 8KAYS. Next up: The Lower Level, Boston on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Isi Audi is a house and techno artist based in Mexico, tracked on soundcheck, wi
 
 Sante Visioni, ViV:On, 8KAYS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isiaudi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isiaudi/)*

@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Haunted Folklore w/ Phantom Wizard + Ghazal Faghihi" on Thu, 24 Sept 2026.
+Recyclart is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Haunted Folklore w/ Phantom Wizard + Ghazal Faghihi" on Thu, 24 Sept 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Butchpm, Chlorys, Erykah and Joost de Lyser and 2 more. Browse upcoming dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -17,4 +17,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

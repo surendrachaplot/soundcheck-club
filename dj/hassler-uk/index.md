@@ -1,6 +1,6 @@
 # Hassler
 
-Hassler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
+Hassler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
 
 Hassler is a house and techno artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside ATMEN, Breezy S and Cesar Martino. Next up: Sunseabar Beach Club, Barcelona on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ Hassler is a house and techno artist tracked on soundcheck, with 4 sets logged a
 
 ATMEN, Breezy S, Cesar Martino
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hassler-uk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hassler-uk/)*

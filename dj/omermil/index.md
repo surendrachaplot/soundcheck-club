@@ -1,8 +1,8 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
+Omer Mil is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at McCarren Park, New York City on Sun, 27 Sept 2026.
 
-Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Disgonuts and Gui Machado. Next up: McCarren Park, Newyorkcity on Sun 27 Sept.
+Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: McCarren Park, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | McCarren Park | New York City |
 | Sun, 4 Oct 2026 | Elsewhere | New York City |
+| Fri, 9 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -25,6 +26,6 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 
 ## Shares bills with
 
-Morgan, Disgonuts, Gui Machado
+Morgan, Kiyoshi, Disgonuts
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

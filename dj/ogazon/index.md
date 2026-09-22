@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
+Ogazón is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
 
 Ogazón is a techno and house artist tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: RASA, Singapore on Fri 25 Sept.
 
@@ -12,8 +12,8 @@ Ogazón is a techno and house artist tracked on soundcheck, with 282 sets logged
 | Sat, 26 Sept 2026 | Potato Head Beach Club | Bali |
 | Sat, 26 Sept 2026 | Klymax Discotheque | Bali |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
+| Sat, 3 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
-| Sun, 4 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 16 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 17 Oct 2026 | Post Bar | Helsinki |
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist tracked on soundcheck, with 282 sets logged
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

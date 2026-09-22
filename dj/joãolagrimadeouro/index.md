@@ -1,6 +1,6 @@
 # João Lágrima De Ouro
 
-João Lágrima De Ouro is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Magno, Madrid on Thu, 5 Nov 2026.
+João Lágrima De Ouro is a Guaracha and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Magno, Madrid on Thu, 5 Nov 2026.
 
 João Lágrima De Ouro is a guaracha and latin bass artist based in Germany, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Brussels and Budapest and 15 more. Often billed alongside BZZHOUND, Linapary and 34chiller. Next up: Club Magno, Madrid on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ João Lágrima De Ouro is a guaracha and latin bass artist based in Germany, tra
 
 BZZHOUND, Linapary, 34chiller
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãolagrimadeouro/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãolagrimadeouro/)*

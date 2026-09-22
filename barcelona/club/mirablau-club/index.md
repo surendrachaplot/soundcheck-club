@@ -1,6 +1,6 @@
 # Mirablau Club
 
-Mirablau Club is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "+40 LA MERCÈ '26" on Fri, 25 Sept 2026.
+Mirablau Club is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "+40 LA MERCÈ '26" on Fri, 25 Sept 2026.
 
 Mirablau Club is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Plaça Doctor Andreu S/N, 08035, Barcelona.
 
@@ -14,4 +14,4 @@ Mirablau Club is a music venue in Barcelona listed on soundcheck. 1 upcoming gig
 
 Plaça Doctor Andreu S/N, 08035, Barcelona, Barcelona
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/mirablau-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/mirablau-club/)*

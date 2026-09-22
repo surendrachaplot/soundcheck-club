@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Golden Record NYC presents Bruno Schmidt, Emsho" on Thu, 24 Sept 2026.
+Green Room NYC is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Golden Record NYC presents Bruno Schmidt, Emsho" on Thu, 24 Sept 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, with line-ups including ABEILLE, Armii1n, Auphoria and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -15,12 +15,12 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming
 | Fri, 2 Oct 2026 | Golden Record NYC presents Josh Caffé (LIVE), Carlos Souffront, Mike Servito, S4M23 | Carlos Souffront, Josh Caffé, Mike Servito, S4M23 |
 | Fri, 2 Oct 2026 | People You May Know: Rich NXT | Auphoria, Jeny Michelle, MANE (IN), RICCI (US), Rich NXT, sanatswrld |
 | Sat, 3 Oct 2026 | POSER | BEIGE, Griffin Maxwell Brooks, Josh Caffé, Josh Steers, Lauren Flax, Sevyn Love |
-| Fri, 9 Oct 2026 | Golden Record NYC presents Colleen 'Cosmo' Murphy All Night Long / Que Sakamoto in the Alley | Colleen 'Cosmo' Murphy, Que Sakamoto |
-| Sat, 10 Oct 2026 | Golden Record NYC x Third Floor Sounds present Maurice Fulton | Maurice Fulton |
+| Fri, 9 Oct 2026 | Golden Record NYC and Vin.yl present Colleen 'Cosmo' Murphy  Que Sakamoto in the Alley | Colleen 'Cosmo' Murphy, Dawidu, Kiyoshi, Morgan, Omer Mil, Que Sakamoto |
+| Sat, 10 Oct 2026 | Golden Record NYC x Third Floor Sounds present Maurice Fulton | Mario Polanco, Martín, Maurice Fulton, Miss Gypsy, Morgan, Ralph Session, TEE EM DEE |
 | Fri, 16 Oct 2026 | Golden Record NYC x pregame x Chomp! Chomp! present Jay Tripwire, Mike Servito | Armii1n, Gee Dee, Haruka, Jay Tripwire, Lubelski, Mike Servito, Timo Lee |
 
 ## Address
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

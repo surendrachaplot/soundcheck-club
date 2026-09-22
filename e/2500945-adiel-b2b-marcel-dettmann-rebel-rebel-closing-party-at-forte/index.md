@@ -1,6 +1,6 @@
 # Adiel B2B Marcel Dettmann - Rebel Rebel Closing party at Forte Antenne
 
-Adiel B2B Marcel Dettmann - Rebel Rebel Closing party at Forte Antenne on Fri 25 Sept, Rome. 2 acts on the bill: Adiel and Marcel Dettmann. Techno. Preview the line-up and save it on soundcheck.
+Adiel B2B Marcel Dettmann - Rebel Rebel Closing party at Forte Antenne on Fri 25 Sept, Rome. 3 acts on the bill: Adiel, Marcel Dettmann and Zerø. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Adiel B2B Marcel Dettmann - Rebel Rebel Closing party at Forte Antenne on Fri 25
 
 - Adiel
 - Marcel Dettmann
+- Zerø
 
 *Source: [soundcheck](https://soundcheck.club/e/2500945-adiel-b2b-marcel-dettmann-rebel-rebel-closing-party-at-forte/)*

@@ -1,14 +1,15 @@
 # PETDuo
 
-PETDuo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sensorium, Berlin on Wed, 21 Oct 2026.
+PETDuo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sensorium, Berlin on Wed, 21 Oct 2026.
 
-PETDuo is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Basswell. Next up: Sensorium, Berlin on Wed 21 Oct.
+PETDuo is a techno and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Nuke. Next up: Sensorium, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Sensorium | Berlin |
+| Sat, 14 Nov 2026 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ PETDuo is a techno and tech house artist tracked on soundcheck, with 88 sets log
 
 ## Shares bills with
 
-OGUZ, Viktor Kampf, Basswell
+OGUZ, Viktor Kampf, Nuke
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*

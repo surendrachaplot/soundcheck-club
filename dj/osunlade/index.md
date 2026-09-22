@@ -1,6 +1,6 @@
 # Osunlade
 
-Osunlade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Metro, Kyoto on Sat, 26 Sept 2026.
+Osunlade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Metro, Kyoto on Sat, 26 Sept 2026.
 
 Osunlade is a house and deep house artist tracked on soundcheck, with 75 sets logged across Berlin, Detroit, Galway and Geneva and 19 more. Often billed alongside Kyri R2, Natasha Diggs and Kapela. Next up: Club Metro, Kyoto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Osunlade is a house and deep house artist tracked on soundcheck, with 75 sets lo
 
 Kyri R2, Natasha Diggs, Kapela
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*

@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
+FUMI is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
 
 FUMI is a techno and industrial artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Theata, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 98 sets logge
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

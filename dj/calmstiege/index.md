@@ -1,6 +1,6 @@
 # Calm Stiege
 
-Calm Stiege is a UK Funky and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
+Calm Stiege is a UK Funky and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
 
 Calm Stiege is an uk funky and bass artist tracked on soundcheck, with 24 sets logged across London and Nottingham. Often billed alongside Latec0mer, Izzi and Sachana. Next up: Four Quarters, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Calm Stiege is an uk funky and bass artist tracked on soundcheck, with 24 sets l
 
 Latec0mer, Izzi, Sachana
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calmstiege/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calmstiege/)*

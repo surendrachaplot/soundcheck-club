@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Z33" on Sat, 26 Sept 2026.
+Z-Bau is a music venue in Nürnberg with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Z33" on Sat, 26 Sept 2026.
 
 Z-Bau is a music venue in Nurnberg listed on soundcheck. 3 upcoming gigs, with line-ups including Dominique Lamee, Gustav Ørgano, Johannes Schuster and Kamäleon and 2 more. Browse upcoming dates, start times and who's playing. Frankenstr.200.
 
@@ -16,4 +16,4 @@ Z-Bau is a music venue in Nurnberg listed on soundcheck. 3 upcoming gigs, with l
 
 Frankenstr.200, Nürnberg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

@@ -1,6 +1,6 @@
 # Meraki (3)
 
-Meraki (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+Meraki (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
 Meraki (3) is a techno and house artist based in Switzerland, tracked on soundcheck, with 18 sets logged across London, Seoul, Stuttgart and Zurich. Often billed alongside Caromelle, ACID FLORA and Manuel Moreno. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Meraki (3) is a techno and house artist based in Switzerland, tracked on soundch
 
 Caromelle, ACID FLORA, Manuel Moreno
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meraki-3/)*

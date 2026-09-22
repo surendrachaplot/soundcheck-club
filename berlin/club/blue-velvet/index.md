@@ -1,17 +1,18 @@
 # Blue Velvet
 
-Blue Velvet is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Blood Rave: The Promise" on Fri, 25 Sept 2026.
+Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Blood Rave: The Promise" on Fri, 25 Sept 2026.
 
-Blue Velvet is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including dj career and JCow. Browse upcoming dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
+Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including dj career, Dr. Dickey, JCow and malicedeejay and 1 more. Browse upcoming dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Blood Rave: The Promise | JCow, dj career |
+| Fri, 2 Oct 2026 | fast fun:ds #2 | Dr. Dickey, Neutralised, malicedeejay |
 
 ## Address
 
 Sangerhauser Weg 3, 12349 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/blue-velvet/)*

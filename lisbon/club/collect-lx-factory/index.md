@@ -1,14 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "COLLECT RADIO w/ OITO//OITO" on Mon, 21 Sept 2026.
+Collect LX Factory is a music venue in Lisbon with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "COLLECT RADIO w/ DELIKWE" on Wed, 23 Sept 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 20 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 19 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | COLLECT RADIO w/ OITO//OITO | OITO//OITO |
 | Wed, 23 Sept 2026 | COLLECT RADIO w/ DELIKWE | Delikwe |
 | Thu, 24 Sept 2026 | Collectors | Fonzi (2), matvii |
 | Thu, 24 Sept 2026 | COLLECT RADIO w/ KEE_KO | Kee_ko |
@@ -18,9 +17,10 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 20 upcoming 
 | Tue, 29 Sept 2026 | COLLECT RADIO w/ DOUBLEIGHT | Doubleight |
 | Wed, 30 Sept 2026 | COLLECT RADIO w/ VIL | VIL (PT) |
 | Sat, 3 Oct 2026 | Collect LX Factory presents Mammo (live) | Andre Cascais, Mammo, Solid-Funk |
+| Sat, 10 Oct 2026 | 15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) | MARY-B, Patrick Specke, Schlingen, Solid-Funk, Willow, Ze Salvador |
 
 ## Address
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

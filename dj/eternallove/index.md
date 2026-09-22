@@ -1,6 +1,6 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bunker, Turin on Fri, 2 Oct 2026.
+Eternal Love is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bunker, Turin on Fri, 2 Oct 2026.
 
 Eternal Love is a house and disco artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Bunker, Turin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Eternal Love is a house and disco artist tracked on soundcheck, with 125 sets lo
 
 Dirty Channels, Larry Masmero, Pitaya Soundsystem
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*

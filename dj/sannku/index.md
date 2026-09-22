@@ -1,6 +1,6 @@
 # Sann Ku
 
-Sann Ku is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
+Sann Ku is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Lazo & Secret Location, Madrid on Sat, 10 Oct 2026.
 
 Sann Ku is an electro and electronica artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid and Mallorca. Often billed alongside Sub Hour, ACID DRIFT and ALONSO (ES). Next up: TBA - Lazo & Secret Location, Madrid on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Sann Ku is an electro and electronica artist based in Spain, tracked on soundche
 
 Sub Hour, ACID DRIFT, ALONSO (ES)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sannku/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sannku/)*

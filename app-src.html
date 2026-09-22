@@ -3603,20 +3603,20 @@
     .fp-lu{ display:flex; align-items:center; gap:16px; padding:13px 18px; border-bottom:1px solid var(--line); }
     .fp-lu:last-child{ border-bottom:0; }
     .fp-lu-face{ width:48px; height:48px; border-radius:50%; border:1px solid var(--border); flex:none; background-size:cover; background-position:center; background-color:var(--surface-3); }
-    .fp-lu-tx{ flex:1; min-width:0; cursor:pointer; }
-    /* Set time, above the name — a kicker rather than a column, so it costs the
-       row nothing when it is absent and needs no change to the mobile grid
-       (which is fixed at 44px/1fr/38px and has no slot to give away). Mono and
-       muted: it is data you scan down, not a label competing with the name.
-       Tabular figures so the times line up vertically down a whole bill. */
-    .fp-lu-t{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; color:var(--muted); font-variant-numeric:tabular-nums; margin-bottom:3px; }
+    .fp-lu-tx{ flex:none; width:300px; min-width:0; cursor:pointer; }
     .fp-lu-nm{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; }
-    .fp-lu-why{ font:500 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); margin-top:2px; }
-    .fp-lu-tag{ background:var(--accent-weak); color:var(--accent); border:1px solid var(--accent); border-radius:var(--radius-pill); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.06em; text-transform:uppercase; padding:4px 10px; flex:none; }
-    .fp-lu-tag.mid{ background:none; border-color:var(--border); color:var(--muted); }
+    /* Genre: mono caps under the name. Played at: venues (ink) then festivals (muted), one line each. */
+    .fp-lu-gn{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fp-lu-at{ flex:1; min-width:0; }
+    .fp-lu-vn, .fp-lu-fs{ font:500 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--fg); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fp-lu-fs{ color:var(--muted); }
+    .fp-lu-i+.fp-lu-i::before{ content:" · "; }
+    .fp-sech.lu{ justify-content:flex-start; gap:16px; }
+    .fp-sech.lu em{ font-style:normal; width:364px; flex:none; }   /* 48 face + 16 gap + 300 artist column: "Played at" sits over its column */
     .fp-lu-pl{ width:38px; height:38px; border-radius:50%; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); font-size:var(--fs-sm); cursor:pointer; flex:none; }
     .fp-lu-pl:hover{ background:var(--accent-grad); color:var(--accent-ink); border-color:transparent; }
-    @media(max-width:560px){ .fp-lu{ display:grid; grid-template-columns:44px minmax(0,1fr) 38px; grid-template-areas:"f tx pl" "f tag pl"; align-items:center; column-gap:12px; row-gap:7px; padding:12px 14px; } .fp-lu-face{ grid-area:f; width:44px; height:44px; } .fp-lu-tx{ grid-area:tx; } .fp-lu-nm{ font-size:var(--fs-md); } .fp-lu-tag{ grid-area:tag; justify-self:start; } .fp-lu-pl{ grid-area:pl; } }
+    @media(max-width:900px){ .fp-lu-tx{ width:220px; } .fp-sech.lu em{ width:284px; } }
+    @media(max-width:560px){ .fp-lu{ display:grid; grid-template-columns:44px minmax(0,1fr) 38px; grid-template-areas:"f tx pl" "f at pl"; align-items:center; column-gap:12px; row-gap:2px; padding:12px 14px; } .fp-lu-face{ grid-area:f; width:44px; height:44px; } .fp-lu-tx{ grid-area:tx; width:auto; } .fp-lu-nm{ font-size:var(--fs-md); } .fp-lu-at{ grid-area:at; } .fp-lu-at:empty{ display:none; } .fp-lu-i:nth-child(n+3){ display:none; } .fp-lu-pl{ grid-area:pl; } .fp-sech.lu span{ display:none; } }
     /* location */
     .fp-ev-loc{ display:grid; grid-template-columns:minmax(0,1fr) 360px; }
     @media(max-width:720px){ .fp-ev-loc{ grid-template-columns:minmax(0,1fr); } }
@@ -4556,7 +4556,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790027617419">
+<meta name="sc-build" content="1790095892818">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4615,7 +4615,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-21/">Mon 21 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">122 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">140 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -11729,7 +11729,7 @@
             '<button class="ob-cta" id="fp-ev-invite" type="button">Invite</button>'+
           '</div>'))+
           (ev.mine?evMineHTML(ev):'')+
-          '<div class="fp-sec"><div class="fp-sech">Lineup <span>'+(ev.artists||[]).length+' artists</span></div><div id="fp-lineup"></div></div>'+
+          '<div class="fp-sec"><div class="fp-sech lu"><em>Lineup</em><span id="fp-lu-pa" hidden>Played at</span></div><div id="fp-lineup"></div></div>'+
           '<div id="ev-review" style="margin-top:22px"></div>';
         if(ev.venueLat!=null && ev.venueLng!=null){
           h+='<div class="fp-sec"><div class="fp-sech">Location <span>'+esc((ev.venueAddress||'').split(',').pop().trim())+'</span></div>'+
@@ -11781,7 +11781,7 @@
           });
         }
         var lineupBox=document.getElementById('fp-lineup');
-        var imgBy={}, timeBy={};
+        var imgBy={}, timeBy={}, facts={};
         (ev.artists||[]).forEach(function(a){
           var s=(a.contentUrl||'').split('/').filter(Boolean).pop();
           // Keyed by slug, NOT carried on the item: renderLineup is called twice
@@ -11826,13 +11826,13 @@
           if(!items.length){ lineupBox.innerHTML='<div style="padding:14px 18px;color:var(--muted);font:600 var(--fs-sm)/var(--lh-sm) var(--body)">To be announced.</div>'; return; }
           lineupBox.innerHTML=items.map(function(a,i){
             var face=a.image?'background-image:url('+imgUrl(a.image,120)+')':'';
-            var badge=a.tier?'<span class="fp-lu-tag'+(a.tier==='Do not miss'?'':' mid')+'">'+esc(a.tier)+'</span>':'';
-            var why=a.reason?'<div class="fp-lu-why">'+esc(a.reason)+'</div>':'';
-            // The set time, when the night published one. Only ~1 in 140 events
-            // does, so this is absent almost everywhere by design.
-            var t=a.slug?timeBy[a.slug]:null;
-            var when=t?'<div class="fp-lu-t">'+esc(t.s)+(t.e?' – '+esc(t.e):'')+'</div>':'';
-            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'">'+when+'<div class="fp-lu-nm">'+esc(a.name)+'</div>'+why+'</a>'+badge+'<button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
+            // Facts, not tags: genre under the name, then where they play most and
+            // which festivals. Each list renders 3 items; phones hide the third in CSS.
+            var f=facts[a.slug]||{};
+            function line(cls, xs){ return xs&&xs.length?'<div class="'+cls+'">'+xs.slice(0,3).map(function(x){ return '<span class="fp-lu-i">'+esc(x)+'</span>'; }).join('')+'</div>':''; }
+            var gn=f.genres&&f.genres.length?'<div class="fp-lu-gn">'+esc(f.genres.slice(0,2).join(' · '))+'</div>':'';
+            var at=line('fp-lu-vn',(f.venues||[]).map(function(v){ return v.name+' ×'+v.n; }))+line('fp-lu-fs',f.festivals);
+            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div>'+gn+'</a><div class="fp-lu-at">'+at+'</div><button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'">'+PLAY_SVG+'</button></div>';
           }).join('');
           var lq=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; }).filter(function(x){ return x.slug; });
           lineupBox.querySelectorAll('.fp-lu-tx[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });
@@ -11863,10 +11863,12 @@
         }
         var instant=(ev.artists||[]).map(function(a){ var s=(a.contentUrl||'').split('/').filter(Boolean).pop(); return { slug:s, name:a.name, image:a.image }; }).filter(function(x){ return x.name; });
         renderLineup(instant);
-        if(!isPast && instant.length>=2){
-          authedFetch('/api/event/lineup?id='+encodeURIComponent(id)).then(function(r){ return r.json(); }).then(function(j){
-            if(!j) return; var ranked=(j.highlights||[]).concat(j.more||[]); if(!ranked.length) return;
-            renderLineup(ranked.map(function(t){ return { slug:t.slug, name:t.name, image:imgBy[t.slug], tier:t.tier||null, reason:t.reason||null }; }));
+        if(instant.length){
+          fetch(API_BASE+'/api/event/lineup?id='+encodeURIComponent(id)).then(function(r){ return r.json(); }).then(function(j){
+            if(!j||!j.artists||!j.artists.length) return;
+            j.artists.forEach(function(a){ if(a.slug) facts[a.slug]=a; });
+            var pa=document.getElementById('fp-lu-pa'); if(pa) pa.hidden=!j.artists.some(function(a){ return (a.venues&&a.venues.length)||(a.festivals&&a.festivals.length); });
+            renderLineup(instant);
           }).catch(function(){});
         }
         var rvEl=document.getElementById('ev-review');

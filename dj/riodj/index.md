@@ -1,19 +1,19 @@
 # RIØ (DE)
 
-RIØ (DE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Club Baggerbeest, Amsterdam on Mon, 21 Sept 2026.
+RIØ (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
-RIØ (DE) is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Club Baggerbeest, Amsterdam on Mon 21 Sept.
+RIØ (DE) is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Club Baggerbeest | Amsterdam |
 | Wed, 21 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Fri, 23 Oct 2026 | Nido Cocktailbar | Amsterdam |
 
 ## Recently played
 
+- Club Baggerbeest, Amsterdam — Mon, 21 Sept 2026
 - Clou, Munich — Sat, 20 Jun 2026
 - Pimpernel, Munich — Thu, 11 Dec 2025
 - Crane Hotel Faralda, Amsterdam — Thu, 23 Oct 2025
@@ -21,10 +21,9 @@ RIØ (DE) is a house and techno artist tracked on soundcheck, with 30 sets logge
 - Rote Sonne, Munich — Thu, 10 Jul 2025
 - Bahnwärter Thiel, Munich — Thu, 19 Jun 2025
 - TBA - Munich, Munich — Sat, 14 Jun 2025
-- Alte Utting, Munich — Sat, 31 May 2025
 
 ## Shares bills with
 
 Sarica, Seva Rosendorfer, Sub.Vision
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*

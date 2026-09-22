@@ -1,6 +1,6 @@
 # Rina (US)
 
-Rina (US) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
+Rina (US) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
 
 Rina (US) is a techno and hip-hop artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Porto, Tbilisi and Tokyo. Often billed alongside DJ B2B, HOAX and REBEL SSTM. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Rina (US) is a techno and hip-hop artist based in United States of America, trac
 
 DJ B2B, HOAX, REBEL SSTM
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rina/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rina/)*

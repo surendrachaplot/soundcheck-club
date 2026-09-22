@@ -1,6 +1,6 @@
 # Siot
 
-Siot is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
+Siot is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
 
 Siot is a techno and experimental artist tracked on soundcheck, with 123 sets logged across Seoul and Tokyo. Often billed alongside ComaRobot, DJ SIN and Purusha. Next up: Volnost, Seoul on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Siot is a techno and experimental artist tracked on soundcheck, with 123 sets lo
 
 ComaRobot, DJ SIN, Purusha
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siot/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siot/)*

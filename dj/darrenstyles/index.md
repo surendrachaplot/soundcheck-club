@@ -1,6 +1,6 @@
 # Darren Styles
 
-Darren Styles is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Trafalgar Warehouse, Sheffield on Sat, 17 Oct 2026.
+Darren Styles is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Trafalgar Warehouse, Sheffield on Sat, 17 Oct 2026.
 
 Darren Styles is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Aberdeen, Birmingham, Brighton and Edinburgh and 10 more. Often billed alongside Hixxy, Gammer and Showtek. Next up: Trafalgar Warehouse, Sheffield on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Darren Styles is a hardcore and techno artist based in United Kingdom, tracked o
 
 Hixxy, Gammer, Showtek
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*

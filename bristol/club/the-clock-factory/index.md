@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 20 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Teletech Bristol: KIRSTY [All Night Long] " on Tue, 22 Sept 2026.
+The Clock Factory is a music venue in Bristol with 20 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Teletech Bristol: KIRSTY [All Night Long] " on Tue, 22 Sept 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 20 upcoming gigs, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 20 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

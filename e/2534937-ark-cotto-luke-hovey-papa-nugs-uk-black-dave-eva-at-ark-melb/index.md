@@ -1,6 +1,6 @@
 # ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva at ark (Melb)
 
-ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva at ark (Melb) on Sat 26 Sept, Melbourne. 3 acts on the bill: Black Dave, Luke Hovey and Papa Nugs. House and Garage. Preview the line-up and save it on soundcheck.
+ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva at ark (Melb) on Sat 26 Sept, Melbourne. 4 acts on the bill: Black Dave, CHEEKI, Luke Hovey and Papa Nugs. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva at ark (Melb) on S
 ## Line-up
 
 - Black Dave
+- CHEEKI
 - Luke Hovey
 - Papa Nugs
 

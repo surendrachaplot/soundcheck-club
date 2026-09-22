@@ -1,6 +1,6 @@
 # AVA Irandoost
 
-AVA Irandoost is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+AVA Irandoost is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 AVA Irandoost is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Dirty Doering, Niconé and Peter Schumann. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AVA Irandoost is a techno and house artist tracked on soundcheck, with 34 sets l
 
 Dirty Doering, Niconé, Peter Schumann
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avairandoost/)*

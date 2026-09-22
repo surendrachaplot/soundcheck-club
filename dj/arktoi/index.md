@@ -1,6 +1,6 @@
 # arktoi
 
-arktoi is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Stud, San Francisco/Oakland on Thu, 24 Sept 2026.
+arktoi is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Stud, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 arktoi is a club and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Sanfrancisco. Often billed alongside Olivia Lauren, MAMA SAN and MASHALLAH. Next up: The Stud, Sanfrancisco on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ arktoi is a club and techno artist based in United States of America, tracked on
 
 Olivia Lauren, MAMA SAN, MASHALLAH
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*

@@ -1,6 +1,6 @@
 # Tangle Garden (3)
 
-Tangle Garden (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Paris Bar, Detroit on Fri, 23 Oct 2026.
+Tangle Garden (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paris Bar, Detroit on Fri, 23 Oct 2026.
 
 Tangle Garden (3) is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside AIDEL, Augustus Williams and Duck Trash. Next up: Paris Bar, Detroit on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Tangle Garden (3) is a techno and house artist based in United States of America
 
 AIDEL, Augustus Williams, Duck Trash
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanglegarden-3/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanglegarden-3/)*

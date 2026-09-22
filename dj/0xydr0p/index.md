@@ -1,6 +1,6 @@
 # 0xydr0p
 
-0xydr0p is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
+0xydr0p is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
 
 0xydr0p is a techno and house artist tracked on soundcheck, with 8 sets logged across Toronto and Vancouver. Often billed alongside Jer (CA), EtOH and alecks. Next up: Skylight Warehouse, Vancouver on Fri 2 Oct.
 
@@ -24,4 +24,4 @@
 
 Jer (CA), EtOH, alecks
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0xydr0p/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0xydr0p/)*

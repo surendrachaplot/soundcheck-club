@@ -1,6 +1,6 @@
 # C115 with Ploy, Roza Terenzi B2B THC at C115
 
-C115 with Ploy, Roza Terenzi B2B THC on Fri 23 Oct, Berlin. 3 acts on the bill: Ploy, Roza Terenzi and THC. Preview the line-up and save it on soundcheck.
+C115 with Ploy, Roza Terenzi B2B THC on Fri 23 Oct, Berlin. 3 acts on the bill: Ploy, Roza Terenzi and THC. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

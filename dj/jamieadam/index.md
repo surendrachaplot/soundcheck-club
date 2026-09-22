@@ -1,6 +1,6 @@
 # Jamie Adam
 
-Jamie Adam is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bermondsey Social Club, London on Fri, 25 Sept 2026.
+Jamie Adam is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bermondsey Social Club, London on Fri, 25 Sept 2026.
 
 Jamie Adam is a disco and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Edible. Next up: Bermondsey Social Club, London on Fri 25 Sept.
 
@@ -15,4 +15,4 @@ Jamie Adam is a disco and house artist based in United Kingdom, tracked on sound
 
 Edible
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieadam/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieadam/)*

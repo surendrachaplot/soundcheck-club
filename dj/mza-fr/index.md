@@ -1,6 +1,6 @@
 # MZA (FR)
 
-MZA (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+MZA (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 MZA (FR) is a techno and trance artist based in France, tracked on soundcheck, with 47 sets logged across Antwerp, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Butschi, Disjoli and no.salt. Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ MZA (FR) is a techno and trance artist based in France, tracked on soundcheck, w
 
 Butschi, Disjoli, no.salt
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mza-fr/)*

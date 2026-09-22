@@ -1,6 +1,6 @@
 # ketia
 
-ketia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
+ketia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
 ketia is a techno and house artist based in Portugal, tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: Virage, Paris on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ ketia is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Angel D'lite, ADAM MUNNINGS, DJ Petite
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

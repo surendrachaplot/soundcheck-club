@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Flowers of Romance feat. Andi b2b Justin Aulis Long - Club Drippy (Live) - Nolia" on Fri, 25 Sept 2026.
+smartbar is a music venue in Chicago with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Flowers of Romance feat. Andi b2b Justin Aulis Long - Club Drippy (Live) - Nolia" on Fri, 25 Sept 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, with line-ups including Andrew Emil, Brenda, Chris Cruse and Colleen 'Cosmo' Murphy and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

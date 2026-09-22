@@ -1,14 +1,15 @@
 # Geheimzinnig Soundsystem
 
-Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
+Geheimzinnig Soundsystem is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
 
-Geheimzinnig Soundsystem is a house and disco artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside kneiz, Bibi Seck and John Noseda. Next up: Garage Klub, Antwerp on Fri 9 Oct.
+Geheimzinnig Soundsystem is a house and disco artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside kneiz, Bibi Seck and Funcadafi. Next up: Garage Klub, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Garage Klub | Antwerp |
+| Sat, 24 Oct 2026 | Wijnhuis.Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Geheimzinnig Soundsystem is a house and disco artist tracked on soundcheck, with
 
 ## Shares bills with
 
-kneiz, Bibi Seck, John Noseda
+kneiz, Bibi Seck, Funcadafi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*

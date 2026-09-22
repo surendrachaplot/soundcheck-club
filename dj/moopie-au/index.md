@@ -1,6 +1,6 @@
 # Moopie
 
-Moopie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Smith St Hotel, Melbourne on Fri, 25 Sept 2026.
+Moopie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Smith St Hotel, Melbourne on Fri, 25 Sept 2026.
 
 Moopie is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: Smith St Hotel, Melbourne on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Moopie is a house and techno artist tracked on soundcheck, with 205 sets logged 
 
 Kia (AU), Hannah D, DJ PGZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

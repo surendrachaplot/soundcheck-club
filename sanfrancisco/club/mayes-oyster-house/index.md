@@ -1,6 +1,6 @@
 # Mayes Oyster House
 
-Mayes Oyster House is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "San Francisco Halloween Pub Crawl: Crawloween" on Sat, 31 Oct 2026.
+Mayes Oyster House is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "San Francisco Halloween Pub Crawl: Crawloween" on Sat, 31 Oct 2026.
 
 Mayes Oyster House is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1233 Polk Street, San Francisco 94109, United States.
 
@@ -14,4 +14,4 @@ Mayes Oyster House is a music venue in Sanfrancisco listed on soundcheck. 1 upco
 
 1233 Polk Street, San Francisco 94109, United States, San Francisco/Oakland
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mayes-oyster-house/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mayes-oyster-house/)*

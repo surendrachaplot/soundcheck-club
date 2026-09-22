@@ -1,6 +1,6 @@
 # Zkeletonz
 
-Zkeletonz is a Post-Punk and New Wave artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BJs White Swan, London on Fri, 25 Sept 2026.
+Zkeletonz is a Post-Punk and New Wave artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BJs White Swan, London on Fri, 25 Sept 2026.
 
 Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: BJs White Swan, London on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on
 
 Emergency Loop, Hyperfunk, JustElliot
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*

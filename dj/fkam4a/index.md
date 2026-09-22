@@ -1,6 +1,6 @@
 # fka.m4a
 
-fka.m4a is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at nachbar, Amsterdam on Fri, 25 Sept 2026.
+fka.m4a is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at nachbar, Amsterdam on Fri, 25 Sept 2026.
 
 fka.m4a is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: nachbar, Amsterdam on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ fka.m4a is a house and techno artist tracked on soundcheck, with 192 sets logged
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

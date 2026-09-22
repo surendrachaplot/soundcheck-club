@@ -1,6 +1,6 @@
 # Wayne Williams
 
-Wayne Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
+Wayne Williams is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
 
 Wayne Williams is a house and deep house artist tracked on soundcheck, with 66 sets logged across Chicago, Detroit, London and Losangeles and 2 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Le Nocturne, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Wayne Williams is a house and deep house artist tracked on soundcheck, with 66 s
 
 Terry Hunter, Mike Dunn, Adorio
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*

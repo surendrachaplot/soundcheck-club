@@ -1,6 +1,6 @@
 # Man Jorge
 
-Man Jorge is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Delgalleria - Espa, Helsinki on Sat, 17 Oct 2026.
+Man Jorge is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Delgalleria - Espa, Helsinki on Sat, 17 Oct 2026.
 
 Man Jorge is a techno and dub techno artist based in Finland, tracked on soundcheck, with 4 sets logged across Helsinki. Often billed alongside Kitkatone, Galactic Mace and Hanna Ojanen. Next up: Delgalleria - Espa, Helsinki on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Man Jorge is a techno and dub techno artist based in Finland, tracked on soundch
 
 Kitkatone, Galactic Mace, Hanna Ojanen
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manjorge/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manjorge/)*

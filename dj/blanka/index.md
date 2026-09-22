@@ -1,8 +1,8 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
+BLANKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
 
-BLANKA is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Angioma, Jeff Mills and Quelza. Next up: Funke, Ghent on Fri 25 Sept.
+BLANKA is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Angioma, Jeff Mills and Quelza. Next up: Funke, Ghent on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ BLANKA is a techno and house artist tracked on soundcheck, with 148 sets logged 
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
+| Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 5 Dec 2026 | Azimut Club | Turin |
 
@@ -34,4 +35,4 @@ BLANKA is a techno and house artist tracked on soundcheck, with 148 sets logged 
 
 Angioma, Jeff Mills, Quelza
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

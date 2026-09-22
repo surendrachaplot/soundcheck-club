@@ -1,13 +1,14 @@
 # LMN (1)
 
-LMN (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hangaren, Copenhagen on Sat, 7 Nov 2026.
+LMN (1) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at MODULE, Copenhagen on Fri, 23 Oct 2026.
 
-LMN (1) is a techno and industrial artist based in Greece, tracked on soundcheck, with 26 sets logged across Copenhagen and London. Often billed alongside Kardinal Bertram, steamboi and ASTA MARI. Next up: Hangaren, Copenhagen on Sat 7 Nov.
+LMN (1) is a techno and industrial artist based in Greece, tracked on soundcheck, with 27 sets logged across Copenhagen and London. Often billed alongside Kardinal Bertram, steamboi and ASTA MARI. Next up: MODULE, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | MODULE | Copenhagen |
 | Sat, 7 Nov 2026 | Hangaren | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ LMN (1) is a techno and industrial artist based in Greece, tracked on soundcheck
 
 Kardinal Bertram, steamboi, ASTA MARI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmn-1/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmn-1/)*

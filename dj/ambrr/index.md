@@ -1,14 +1,15 @@
 # AMBRR
 
-AMBRR is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
+AMBRR is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
 
-AMBRR is a club and pop artist tracked on soundcheck, with 13 sets logged across Glasgow, London, Losangeles and Paris and 1 more. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: Mono, Rotterdam on Fri 25 Sept.
+AMBRR is a club and r&b artist tracked on soundcheck, with 14 sets logged across Glasgow, London, Losangeles and Paris and 1 more. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: Mono, Rotterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Mono | Rotterdam |
+| Sun, 18 Oct 2026 | The Timber Loft | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AMBRR is a club and pop artist tracked on soundcheck, with 13 sets logged across
 
 ELLADHC, ARRA, Alxander Ivey
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

@@ -1,6 +1,6 @@
 # Moruka
 
-Moruka is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Modeci, Seoul on Sat, 26 Sept 2026.
+Moruka is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Modeci, Seoul on Sat, 26 Sept 2026.
 
 Moruka is an electro and club artist tracked on soundcheck, with 17 sets logged across Seoul. Often billed alongside Arexibo, KISEWA and AEIDA. Next up: Modeci, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Moruka is an electro and club artist tracked on soundcheck, with 17 sets logged 
 
 Arexibo, KISEWA, AEIDA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moruka/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moruka/)*

@@ -1,6 +1,6 @@
 # Lehman Center for the Performing Arts
 
-Lehman Center for the Performing Arts is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GRUPO GALÉ & SONORA CARRUSELES @Lehman Center, Saturday, Sept. 26, @8PM" on Sat, 26 Sept 2026.
+Lehman Center for the Performing Arts is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GRUPO GALÉ & SONORA CARRUSELES @Lehman Center, Saturday, Sept. 26, @8PM" on Sat, 26 Sept 2026.
 
 Lehman Center for the Performing Arts is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 250 Bedford Park Boulevard West Bronx, New York 10468.
 
@@ -15,4 +15,4 @@ Lehman Center for the Performing Arts is a music venue in Newyorkcity listed on 
 
 250 Bedford Park Boulevard West Bronx, New York 10468, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lehman-center-for-the-performing-arts/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lehman-center-for-the-performing-arts/)*

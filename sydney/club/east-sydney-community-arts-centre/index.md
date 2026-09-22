@@ -1,6 +1,6 @@
 # East Sydney Community & Arts Centre
 
-East Sydney Community & Arts Centre is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Analogue Discogue" on Sun, 1 Nov 2026.
+East Sydney Community & Arts Centre is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Analogue Discogue" on Sun, 1 Nov 2026.
 
 East Sydney Community & Arts Centre is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Norm De Plume. Browse upcoming dates, start times and who's playing. 34 Burton Street, Darlinghurst 2010.
 
@@ -14,4 +14,4 @@ East Sydney Community & Arts Centre is a music venue in Sydney listed on soundch
 
 34 Burton Street, Darlinghurst 2010, Sydney
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/east-sydney-community-arts-centre/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/east-sydney-community-arts-centre/)*

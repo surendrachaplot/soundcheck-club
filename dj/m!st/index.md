@@ -1,6 +1,6 @@
 # M!ST
 
-M!ST is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
+M!ST is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 M!ST is a drum & bass and bass artist tracked on soundcheck, with 8 sets logged across Osaka. Often billed alongside kakepon, POGO (JP) and Small Face. Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ M!ST is a drum & bass and bass artist tracked on soundcheck, with 8 sets logged 
 
 kakepon, POGO (JP), Small Face
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m!st/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m!st/)*

@@ -1,14 +1,15 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Phonox, London on Thu, 24 Sept 2026.
+Carmen Baía is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Phonox, London on Thu, 24 Sept 2026.
 
-Carmen Baía is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: Phonox, London on Thu 24 Sept.
+Carmen Baía is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: Phonox, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Phonox | London |
+| Sat, 26 Sept 2026 | The Marlborough Red Room | Glasgow |
 | Thu, 8 Oct 2026 | Sub Club | Glasgow |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 29 Oct 2026 | King Tut's Wah Wah Hut | Glasgow |
@@ -28,4 +29,4 @@ Carmen Baía is a house and techno artist tracked on soundcheck, with 78 sets lo
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

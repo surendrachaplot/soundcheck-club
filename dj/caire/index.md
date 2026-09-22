@@ -1,13 +1,14 @@
 # Caire
 
-Caire is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+Caire is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Silence Please, New York City on Thu, 24 Sept 2026.
 
-Caire is a house and downtempo artist based in United States of America, tracked on soundcheck, with 18 sets logged across Montreal and Newyorkcity. Often billed alongside AG (1), CMD+JAZMINE and Wauce. Next up: Jupiter Disco, Newyorkcity on Sun 27 Sept.
+Caire is a downtempo and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Montreal and Newyorkcity. Often billed alongside AG (1), CMD+JAZMINE and Wauce. Next up: Silence Please, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Silence Please | New York City |
 | Sun, 27 Sept 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Caire is a house and downtempo artist based in United States of America, tracked
 
 AG (1), CMD+JAZMINE, Wauce
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caire/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caire/)*

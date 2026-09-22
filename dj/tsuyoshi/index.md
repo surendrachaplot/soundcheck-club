@@ -1,6 +1,6 @@
 # Tsuyoshi Suzuki
 
-Tsuyoshi Suzuki is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 10 Oct 2026.
+Tsuyoshi Suzuki is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 10 Oct 2026.
 
 Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, tracked on soundcheck, with 48 sets logged across Athens, Melbourne, Osaka and Tokyo. Often billed alongside ERIMIYA, Drunken Kong and Ree.K. Next up: Bolivar Beach Bar, Athens on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Tsuyoshi Suzuki is a psytrance and techno artist based in Japan, tracked on soun
 
 ERIMIYA, Drunken Kong, Ree.K
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuyoshi/)*

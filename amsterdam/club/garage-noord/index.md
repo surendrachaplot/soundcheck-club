@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hunee (Hunchin' all night long) Bar40 hosted by Seedlink" on Fri, 25 Sept 2026.
+Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hunee (Hunchin' all night long) Bar40 hosted by Seedlink" on Fri, 25 Sept 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

@@ -1,6 +1,6 @@
 # saHHar
 
-saHHar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Fri, 25 Sept 2026.
+saHHar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Fri, 25 Sept 2026.
 
 saHHar is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Munich and Newyorkcity and 1 more. Often billed alongside Omar.D, Al Aslan and Meriem S. Next up: Renate, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ saHHar is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Omar.D, Al Aslan, Meriem S
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahhar/)*

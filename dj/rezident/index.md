@@ -1,6 +1,6 @@
 # Rezident
 
-Rezident is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at NOWHERE, Manchester on Sat, 21 Nov 2026.
+Rezident is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at NOWHERE, Manchester on Sat, 21 Nov 2026.
 
 Rezident is a progressive house and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: NOWHERE, Manchester on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Rezident is a progressive house and house artist tracked on soundcheck, with 45 
 
 Nicky Elisabeth, Braxton, Qrion
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*

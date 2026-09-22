@@ -1,6 +1,6 @@
 # MARY AK
 
-MARY AK is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Zuzu, Boston on Sat, 26 Sept 2026.
+MARY AK is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Zuzu, Boston on Sat, 26 Sept 2026.
 
 MARY AK is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 4 sets logged across Boston. Often billed alongside DINOBLUNT, HypeLies and Louie Lanka. Next up: Zuzu, Boston on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ MARY AK is a bass and dubstep artist based in United States of America, tracked 
 
 DINOBLUNT, HypeLies, Louie Lanka
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryak/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryak/)*

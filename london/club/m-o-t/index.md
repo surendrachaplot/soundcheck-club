@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 34 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "JACKZEBRA" on Thu, 24 Sept 2026.
+M.O.T is a music venue in London with 34 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "JACKZEBRA" on Thu, 24 Sept 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including 1LDK, 3DMA, Agility and Ansome and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -17,10 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 34 upcoming gigs, with li
 | Sat, 3 Oct 2026 | MID WEEK SESSION XXX | DELARA, Gloria Rose, Juliana Branco, Leonardo Cruz DJ, Mattia Fois, Modlar, Mona Sage, Panik Attak, SAN.SAN, Sea Ho, TOOTHTAXI, metrologic, nohexcode |
 | Wed, 7 Oct 2026 | Peterparker69, 1LDK & Bornstars [Eastern Margins & FORM presents] | 1LDK, Peterparker69 |
 | Thu, 8 Oct 2026 | genre[fatigue] | Nesso, Nocturnerror, hanaphora, jung latch, m-onz, m̶a̶h̶[alias] |
-| Fri, 9 Oct 2026 | UNIT MOTive: 5 years of Motive Hunter | Agility, Arkyn, CITIZEN, EN.VEE, FENDI-K, INSECT CRUSHA, LEO SELECTS, MXW(UK), OS:MAN, Sleazebag, Tallboy, karishma, mixtress |
+| Fri, 9 Oct 2026 | UNIT MOTive: 5 years of Motive Hunter - Special Guest B2B, mixtress, Arkyn, FENDI-K, OS:MAN | Agility, Arkyn, CITIZEN, EN.VEE, FENDI-K, INSECT CRUSHA, LEO SELECTS, MXW(UK), OS:MAN, Sleazebag, Tallboy, karishma, mixtress |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

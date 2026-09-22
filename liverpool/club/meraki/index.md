@@ -1,8 +1,8 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "pod. 1st birthday party with Melody b2b Ethel & Dav (live)" on Fri, 25 Sept 2026.
+Meraki is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "pod. 1st birthday party with Melody b2b Ethel & Dav (live)" on Fri, 25 Sept 2026.
 
-Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including CHVZ, CIVILIAN, Dav and EDJM and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
+Meraki is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including CHVZ, CIVILIAN, Dav and EDJM and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with
 | Sat, 10 Oct 2026 | Serotonin - Winter Is Coming |  |
 | Fri, 23 Oct 2026 | Tribe Select - A Night of Techno | Molloy |
 | Sat, 24 Oct 2026 | MISS HONEY'S HOTLINE: VOLUME 2 | CHVZ, CIVILIAN, EDJM, Princess Elf Bar, Shemm, millwac |
+| Fri, 30 Oct 2026 | Sianard Events: Ali U |  |
 | Sat, 31 Oct 2026 | A Warped Halloween: Samurai Breaks, Napes, Settle Down + more | MYOHMY, Napes, Samurai Breaks, Settle Down |
 | Sat, 31 Oct 2026 | A Warped Halloween: Samurai Breaks, Napes, Settle Down, MYOHMY | MYOHMY, Napes, Samurai Breaks, Settle Down |
 
@@ -21,4 +22,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

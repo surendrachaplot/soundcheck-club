@@ -1,6 +1,6 @@
 # Blackhaine
 
-Blackhaine is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
+Blackhaine is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
 
 Blackhaine is an experimental and hip-hop artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Copenhagen and London and 6 more. Often billed alongside Loraine James, Lee Gamble and Space Afrika. Next up: OCZKI, Warsaw on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Blackhaine is an experimental and hip-hop artist tracked on soundcheck, with 16 
 
 Loraine James, Lee Gamble, Space Afrika
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*

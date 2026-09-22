@@ -1,6 +1,6 @@
 # Yamour
 
-Yamour is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Yamour is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 Yamour is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Auckland and Bali and 31 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: H0L0, Newyorkcity on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Yamour is a house and techno artist tracked on soundcheck, with 164 sets logged 
 
 Konstantin, Edward, Leafar Legov
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamour/)*

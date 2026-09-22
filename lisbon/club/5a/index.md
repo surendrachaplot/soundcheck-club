@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Andre Cascais" on Fri, 25 Sept 2026.
+5A is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Andre Cascais" on Fri, 25 Sept 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Andre Cascais. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -15,4 +15,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

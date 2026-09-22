@@ -1,6 +1,6 @@
 # Sean Afful
 
-Sean Afful is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Sean Afful is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
 Sean Afful is a house and tech house artist tracked on soundcheck, with 13 sets logged across Malta and Milan. Often billed alongside Naydiaa, Vithz and Cianfo. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sean Afful is a house and tech house artist tracked on soundcheck, with 13 sets 
 
 Naydiaa, Vithz, Cianfo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanafful/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanafful/)*

@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+MCR-T is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 MCR-T is a techno and house artist tracked on soundcheck, with 268 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 62 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist tracked on soundcheck, with 268 sets logged a
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

@@ -1,6 +1,6 @@
 # Gilb'R
 
-Gilb'R is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
+Gilb'R is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
 
 Gilb'R is an electro and progressive house artist tracked on soundcheck, with 23 sets logged across Barcelona, Belgrade, Berlin and Bristol and 3 more. Often billed alongside Zaltan, Alex From Tokyo and DJ Sotofett. Next up: La Cité Fertile, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Gilb'R is an electro and progressive house artist tracked on soundcheck, with 23
 
 Zaltan, Alex From Tokyo, DJ Sotofett
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbr/)*

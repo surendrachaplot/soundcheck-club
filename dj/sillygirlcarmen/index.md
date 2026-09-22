@@ -1,6 +1,6 @@
 # sillygirlcarmen
 
-sillygirlcarmen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TV Lounge, Detroit on Fri, 25 Sept 2026.
+sillygirlcarmen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TV Lounge, Detroit on Fri, 25 Sept 2026.
 
 sillygirlcarmen is a house and deep house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Detroit, Miami, Nashville and Newyorkcity and 2 more. Often billed alongside Bruce Bailey, Delano Smith and Disc Jockey George. Next up: TV Lounge, Detroit on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ sillygirlcarmen is a house and deep house artist based in United States of Ameri
 
 Bruce Bailey, Delano Smith, Disc Jockey George
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillygirlcarmen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillygirlcarmen/)*

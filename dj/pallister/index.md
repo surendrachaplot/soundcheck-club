@@ -1,6 +1,6 @@
 # Pallister
 
-Pallister is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Low Profile Studios, London on Fri, 11 Dec 2026.
+Pallister is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Low Profile Studios, London on Fri, 11 Dec 2026.
 
 Pallister is a techno and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Louie Parker, Arjayes and Sarax. Next up: Low Profile Studios, London on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Pallister is a techno and garage artist tracked on soundcheck, with 5 sets logge
 
 Louie Parker, Arjayes, Sarax
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pallister/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pallister/)*

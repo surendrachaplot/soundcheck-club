@@ -1,17 +1,18 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "On The Colorless and Transparent - Drone/Ambient Listening Session" on Mon, 21 Sept 2026.
+Pastiche is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sounds of Rio  Carnival by  Gabi Monteiro" on Wed, 23 Sept 2026.
 
-Pastiche is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Neutran. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
+Pastiche is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Gabi Monteiro. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | On The Colorless and Transparent - Drone/Ambient Listening Session | Neutran |
+| Wed, 23 Sept 2026 | Sounds of Rio  Carnival by  Gabi Monteiro | Gabi Monteiro |
+| Sat, 26 Sept 2026 | John Carrol Kirby  Exclusive Live Concert - SOLD OUT |  |
 
 ## Address
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

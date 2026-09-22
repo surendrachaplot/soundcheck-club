@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Hoppetosse, Berlin on Sat 26 Sept.
 
@@ -33,4 +33,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

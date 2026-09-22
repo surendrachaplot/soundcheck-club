@@ -1,6 +1,6 @@
 # Lonefront
 
-Lonefront is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - west end , Toronto on Fri, 2 Oct 2026.
+Lonefront is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - west end , Toronto on Fri, 2 Oct 2026.
 
 Lonefront is a techno and dub techno artist tracked on soundcheck, with 22 sets logged across Berlin, Boston, Chicago and Denver and 7 more. Often billed alongside Decoder, FLAWS and Dustin Zahn. Next up: TBA - west end , Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Lonefront is a techno and dub techno artist tracked on soundcheck, with 22 sets 
 
 Decoder, FLAWS, Dustin Zahn
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*

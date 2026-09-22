@@ -1,6 +1,6 @@
 # Florenzo Hiäät
 
-Florenzo Hiäät is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Florenzo Hiäät is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Florenzo Hiäät is a techno and trance artist tracked on soundcheck, with 18 sets logged across Amsterdam, Liverpool and London. Often billed alongside DREIAN, Fernweh (2) and Carlos Martinez. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Florenzo Hiäät is a techno and trance artist tracked on soundcheck, with 18 se
 
 DREIAN, Fernweh (2), Carlos Martinez
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florenzohiaat/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florenzohiaat/)*

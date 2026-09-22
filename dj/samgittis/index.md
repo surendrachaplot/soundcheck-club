@@ -1,13 +1,14 @@
 # Sam Gittis
 
-Sam Gittis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Bukanyr Boat, Prague on Sat, 26 Sept 2026.
+Sam Gittis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Groove Bar, Prague on Fri, 25 Sept 2026.
 
-Sam Gittis is a house and tech house artist tracked on soundcheck, with 124 sets logged across Berlin, Budapest, Leipzig and Miami and 2 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed (2). Next up: Bukanyr Boat, Prague on Sat 26 Sept.
+Sam Gittis is a house and tech house artist tracked on soundcheck, with 125 sets logged across Berlin, Budapest, Leipzig and Miami and 2 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed (2). Next up: Groove Bar, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Groove Bar | Prague |
 | Sat, 26 Sept 2026 | Bukanyr Boat | Prague |
 | Sat, 26 Sept 2026 | Stalin | Prague |
 
@@ -26,4 +27,4 @@ Sam Gittis is a house and tech house artist tracked on soundcheck, with 124 sets
 
 Sebastian Paiza, Chad Andrew, Tatomed (2)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*

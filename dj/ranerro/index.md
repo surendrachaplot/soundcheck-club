@@ -1,6 +1,6 @@
 # Ranerro
 
-Ranerro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Ranerro is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
 Ranerro is a house and deep house artist based in Slovenia, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Budapest and Paris and 1 more. Often billed alongside Katia Curie, Alex Picone and Ancut. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ranerro is a house and deep house artist based in Slovenia, tracked on soundchec
 
 Katia Curie, Alex Picone, Ancut
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*

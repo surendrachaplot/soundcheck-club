@@ -1,6 +1,6 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Système, Montreal on Fri, 25 Sept 2026.
+Barbara Boeing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Système, Montreal on Fri, 25 Sept 2026.
 
 Barbara Boeing is a house and disco artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 38 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Système, Montreal on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Barbara Boeing is a house and disco artist tracked on soundcheck, with 113 sets 
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

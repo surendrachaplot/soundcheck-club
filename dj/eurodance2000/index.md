@@ -1,6 +1,6 @@
 # Eurodance2000
 
-Eurodance2000 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Eurodance2000 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Eurodance2000 is a trance and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, OCIN and Scrappy Coco. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Eurodance2000 is a trance and techno artist based in Germany, tracked on soundch
 
 Kacy, OCIN, Scrappy Coco
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurodance2000/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurodance2000/)*

@@ -1,6 +1,6 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Dyed Soundorom, Idriss D, Carlo Giorgetto" on Sat, 26 Sept 2026.
+REC Napoli is a music venue in Naples with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Dyed Soundorom, Idriss D, Carlo Giorgetto" on Sat, 26 Sept 2026.
 
 REC Napoli is a music venue in Naples listed on soundcheck. 6 upcoming gigs, with line-ups including BASHKKA, Batu, Dan Ghenacia and Dyed Soundorom and 2 more. Browse upcoming dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
@@ -19,4 +19,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 6 upcoming gigs, wit
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

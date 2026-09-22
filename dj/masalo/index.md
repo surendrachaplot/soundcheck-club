@@ -1,8 +1,8 @@
 # Masalo
 
-Masalo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
+Masalo is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kult, Belgrade on Sat, 26 Sept 2026.
 
-Masalo is a house and disco artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Kamma, Antal and Sedef Adasï. Next up: Kult, Belgrade on Sat 26 Sept.
+Masalo is a house and disco artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Kamma, Antal and Sedef Adasï. Next up: Kult, Belgrade on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Masalo is a house and disco artist tracked on soundcheck, with 132 sets logged a
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Club Wintercircus | Ghent |
+| Sat, 14 Nov 2026 | Fairfield Amphitheatre | Melbourne |
 | Sun, 15 Nov 2026 | Liberty Hall | Sydney |
 
 ## Recently played
@@ -30,4 +31,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 132 sets logged a
 
 Kamma, Antal, Sedef Adasï
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

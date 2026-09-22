@@ -1,14 +1,15 @@
 # Korolova
 
-Korolova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 30 Sept 2026.
+Korolova is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 30 Sept 2026.
 
-Korolova is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Hï Ibiza, Ibiza on Wed 30 Sept.
+Korolova is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Hï Ibiza, Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
+| Tue, 6 Oct 2026 | [UNVRS] | Ibiza |
 | Sun, 6 Dec 2026 | Foro Costanera Norte (FCN) | Buenos Aires |
 
 ## Recently played
@@ -26,4 +27,4 @@ Korolova is a techno and house artist tracked on soundcheck, with 126 sets logge
 
 Adam Beyer, Artbat, Franky Wah
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

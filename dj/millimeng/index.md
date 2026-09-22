@@ -1,6 +1,6 @@
 # Milli Meng
 
-Milli Meng is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 26 Sept 2026.
+Milli Meng is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Milli Meng is a techno and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: Public Works, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Milli Meng is a techno and club artist based in United States of America, tracke
 
 Kaytree, YANNI, BAD JUUJU
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*

@@ -1,6 +1,6 @@
 # Tayga
 
-Tayga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Arca, Milan on Sat, 3 Oct 2026.
+Tayga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Arca, Milan on Sat, 3 Oct 2026.
 
 Tayga is a house and techno artist tracked on soundcheck, with 28 sets logged across Milan, Paris and Turin. Often billed alongside Bugsy, DJLMP and Dirty Channels. Next up: Arca, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tayga is a house and techno artist tracked on soundcheck, with 28 sets logged ac
 
 Bugsy, DJLMP, Dirty Channels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayga/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayga/)*

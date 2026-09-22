@@ -1,6 +1,6 @@
 # tadoh
 
-tadoh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at MODULE, Copenhagen on Sat, 26 Sept 2026.
+tadoh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at MODULE, Copenhagen on Sat, 26 Sept 2026.
 
 tadoh is a house and techno artist tracked on soundcheck, with 48 sets logged across Berlin, Copenhagen, Hamburg and Zurich. Often billed alongside Eski, ANNÆLIX and Aja Gulris. Next up: MODULE, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ tadoh is a house and techno artist tracked on soundcheck, with 48 sets logged ac
 
 Eski, ANNÆLIX, Aja Gulris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadoh/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadoh/)*

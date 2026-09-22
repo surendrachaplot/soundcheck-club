@@ -1,14 +1,14 @@
 # Séarlait
 
-Séarlait is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sub Club Melbourne, Melbourne on Sun, 4 Oct 2026.
+Séarlait is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sub Club Melbourne, Melbourne on Sat, 3 Oct 2026.
 
-Séarlait is a house and techno artist tracked on soundcheck, with 107 sets logged across Berlin, London, Melbourne and Sydney. Often billed alongside Roka, Char(k) and DJ Wise. Next up: Sub Club Melbourne, Melbourne on Sun 4 Oct.
+Séarlait is a house and techno artist tracked on soundcheck, with 107 sets logged across Berlin, London, Melbourne and Sydney. Often billed alongside Roka, Char(k) and DJ Wise. Next up: Sub Club Melbourne, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | Sub Club Melbourne | Melbourne |
+| Sat, 3 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Wed, 18 Nov 2026 | TBA - Rooftop Bar, Level 7, Curtain House | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 19 Dec 2026 | TBA | Melbourne |
@@ -28,4 +28,4 @@ Séarlait is a house and techno artist tracked on soundcheck, with 107 sets logg
 
 Roka, Char(k), DJ Wise
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*

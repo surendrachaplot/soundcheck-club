@@ -1,6 +1,6 @@
 # 20nine30
 
-20nine30 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "9_days_of_commons" on Sat, 26 Sept 2026.
+20nine30 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "9_days_of_commons" on Sat, 26 Sept 2026.
 
 20nine30 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Chaosy, e03 (1), Hilary C/B and Konakov. Browse upcoming dates, start times and who's playing. Paul-Linke Ufer 29-30 10999, Berlin,Germany.
 
@@ -15,4 +15,4 @@
 
 Paul-Linke Ufer 29-30 10999, Berlin,Germany, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/20nine30/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/20nine30/)*

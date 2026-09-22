@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Open Decks: Anything with Breaks " on Thu, 24 Sept 2026.
+The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Open Decks: Anything with Breaks " on Thu, 24 Sept 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Aerbreak, Aiden Francis, b.lo and Blason and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -12,7 +12,7 @@ The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, w
 | Fri, 25 Sept 2026 | Coalesce 5th Birthday w/ The Darrs, Blason & Velma | Blason, The Darrs |
 | Sun, 27 Sept 2026 | BENT - SUN:SET | Esmé, Tony Neptune, WeeDot |
 | Thu, 1 Oct 2026 | Doll World Academy |  |
-| Fri, 2 Oct 2026 | CLUBCOSMICA [Fantastic Man / Aiden Francis / WeeDot / KRAFTY] | Aiden Francis, Fantastic Man, KRÄFTY, WeeDot |
+| Fri, 2 Oct 2026 | ✦ CLUBCOSMICA ✦ [Fantastic Man / Aiden Francis / WeeDot / KRAFTY] | Aiden Francis, Fantastic Man, KRÄFTY, WeeDot |
 | Sat, 3 Oct 2026 | DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO | Deventi, ENNIO, KOSO, Kuriboh, Ossou Erratic |
 | Thu, 8 Oct 2026 | the slag do: back 2 skool | FOULMOUTH |
 | Fri, 9 Oct 2026 | GASH / lεsboᵉlεctro εdition | Lapalace |
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, w
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

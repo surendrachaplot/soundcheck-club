@@ -1,6 +1,6 @@
 # AELVA K
 
-AELVA K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Hangaren, Copenhagen on Fri, 16 Oct 2026.
+AELVA K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hangaren, Copenhagen on Fri, 16 Oct 2026.
 
 AELVA K is a techno and trance artist based in Sweden, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Aja Gulris, Fynutzu and Invaria. Next up: Hangaren, Copenhagen on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AELVA K is a techno and trance artist based in Sweden, tracked on soundcheck, wi
 
 Aja Gulris, Fynutzu, Invaria
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aelvak/)*

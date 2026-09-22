@@ -1,6 +1,6 @@
 # Warehouse 25
 
-Warehouse 25 is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Lucidity" on Fri, 25 Sept 2026.
+Warehouse 25 is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Lucidity" on Fri, 25 Sept 2026.
 
 Warehouse 25 is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Pusky, SF Fudge and TRUSTEE. Browse upcoming dates, start times and who's playing. 25 Finchley St, Milton QLD 4064.
 
@@ -14,4 +14,4 @@ Warehouse 25 is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, 
 
 25 Finchley St, Milton QLD 4064, Brisbane
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/warehouse-25/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/warehouse-25/)*

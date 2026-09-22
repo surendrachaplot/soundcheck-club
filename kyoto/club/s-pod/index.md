@@ -1,6 +1,6 @@
 # S-Pod
 
-S-Pod is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SLOW DANCE ver.05" on Mon, 21 Sept 2026.
+S-Pod is a music venue in Kyoto with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MOON Dumpling" on Tue, 22 Sept 2026.
 
 S-Pod is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
 
@@ -8,7 +8,7 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs. Browse up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | SLOW DANCE ver.05 |  |
+| Tue, 22 Sept 2026 | MOON Dumpling |  |
 | Mon, 28 Sept 2026 | Sound Pod Session |  |
 | Sat, 17 Oct 2026 | LEFT 003 by OSM |  |
 
@@ -16,4 +16,4 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 3 upcoming gigs. Browse up
 
 Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F, Kyoto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*

@@ -1,8 +1,8 @@
 # Adela
 
-Adela is a Deep House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Cross, London on Fri, 25 Sept 2026.
+Adela is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Cross, London on Fri, 25 Sept 2026.
 
-Adela is a deep house and progressive house artist tracked on soundcheck, with 49 sets logged across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: The Cross, London on Fri 25 Sept.
+Adela is a deep house and progressive house artist tracked on soundcheck, with 50 sets logged across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: The Cross, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adela is a deep house and progressive house artist tracked on soundcheck, with 4
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Cross | London |
 | Sat, 26 Sept 2026 | Bread and Butter | London |
+| Sat, 21 Nov 2026 | The Lower Third | London |
 | Sat, 21 Nov 2026 | XOYO | London |
 | Sat, 28 Nov 2026 | Bricks | London |
 
@@ -28,4 +29,4 @@ Adela is a deep house and progressive house artist tracked on soundcheck, with 4
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

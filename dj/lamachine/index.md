@@ -1,6 +1,6 @@
 # LAMACHINE
 
-LAMACHINE is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+LAMACHINE is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
 LAMACHINE is a techno and acid artist tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside MERILIN, Lana Lain and DJ Henk. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LAMACHINE is a techno and acid artist tracked on soundcheck, with 11 sets logged
 
 MERILIN, Lana Lain, DJ Henk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamachine/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamachine/)*

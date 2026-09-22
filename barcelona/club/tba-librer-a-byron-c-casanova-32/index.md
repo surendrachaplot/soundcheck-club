@@ -1,6 +1,6 @@
 # TBA - Librería Byron, C/Casanova 32
 
-TBA - Librería Byron, C/Casanova 32 is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "The Sound of Cinema (Vol. 7)" on Thu, 24 Sept 2026.
+TBA - Librería Byron, C/Casanova 32 is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "The Sound of Cinema (Vol. 7)" on Thu, 24 Sept 2026.
 
 TBA - Librería Byron, C/Casanova 32 is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Librería Byron, C/Casanova 32 is a music venue in Barcelona listed on sou
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Sound of Cinema (Vol. 7) |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-librer-a-byron-c-casanova-32/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-librer-a-byron-c-casanova-32/)*

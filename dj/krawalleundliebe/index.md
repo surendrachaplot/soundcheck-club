@@ -1,6 +1,6 @@
 # Krawalle und Liebe
 
-Krawalle und Liebe is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ://about blank, Berlin on Fri, 2 Oct 2026.
+Krawalle und Liebe is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ://about blank, Berlin on Fri, 2 Oct 2026.
 
 Krawalle und Liebe is a techno and minimal techno artist tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Ciao 3lla, Sin:port and Baba The Knife. Next up: ://about blank, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Krawalle und Liebe is a techno and minimal techno artist tracked on soundcheck, 
 
 Ciao 3lla, Sin:port, Baba The Knife
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krawalleundliebe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krawalleundliebe/)*

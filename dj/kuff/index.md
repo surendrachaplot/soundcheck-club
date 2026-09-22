@@ -1,6 +1,6 @@
 # Kuff
 
-Kuff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
+Kuff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
 
 Kuff is a house and tech house artist tracked on soundcheck, with 11 sets logged across Austin, Chicago, Losangeles and Miami and 1 more. Often billed alongside Almela, FI-LO and Jessy Nimni. Next up: Superior Ingredients, Newyorkcity on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Kuff is a house and tech house artist tracked on soundcheck, with 11 sets logged
 
 Almela, FI-LO, Jessy Nimni
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuff/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuff/)*

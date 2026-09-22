@@ -1,6 +1,6 @@
 # YESOLO
 
-YESOLO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
+YESOLO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
 YESOLO is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ YESOLO is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 KEN (DE), DJ PayPaul, Chris Bekker
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yesolo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yesolo/)*

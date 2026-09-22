@@ -1,6 +1,6 @@
 # flippedcrosses
 
-flippedcrosses is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
+flippedcrosses is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Colour Factory, London on Fri, 23 Oct 2026.
 
 flippedcrosses is an experimental and bass artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Synapsefirer, Baptist (UK) and Swordstrance. Next up: Colour Factory, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ flippedcrosses is an experimental and bass artist based in United Kingdom, track
 
 Synapsefirer, Baptist (UK), Swordstrance
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flippedcrosses/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flippedcrosses/)*

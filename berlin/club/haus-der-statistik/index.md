@@ -1,6 +1,6 @@
 # Haus der Statistik
 
-Haus der Statistik is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "lovetempo (Mattie Safer of The Rapture), Moriah Plaza" on Fri, 23 Oct 2026.
+Haus der Statistik is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "lovetempo (Mattie Safer of The Rapture), Moriah Plaza" on Fri, 23 Oct 2026.
 
 Haus der Statistik is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including lovetempo and Moriah Plaza. Browse upcoming dates, start times and who's playing. Otto-Braun Straße 70-72, Block OTTO.
 
@@ -14,4 +14,4 @@ Haus der Statistik is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Otto-Braun Straße 70-72, Block OTTO, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-statistik/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-statistik/)*

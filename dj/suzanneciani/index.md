@@ -1,8 +1,8 @@
 # Suzanne Ciani
 
-Suzanne Ciani is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Suzanne Ciani is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Suzanne Ciani is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Actress, Eiko Ishibashi and Blawan. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 | Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
+| Sun, 6 Dec 2026 | The Edge, Fed Square | Melbourne |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 
 ## Recently played
@@ -28,4 +29,4 @@ Suzanne Ciani is an experimental and electronica artist based in United States o
 
 Actress, Eiko Ishibashi, Blawan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzanneciani/)*

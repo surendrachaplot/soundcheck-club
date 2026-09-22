@@ -1,13 +1,14 @@
 # Moni von Pisani
 
-Moni von Pisani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Klunkerkranich, Berlin on Sat, 17 Oct 2026.
+Moni von Pisani is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Klunkerkranich, Berlin on Sat, 26 Sept 2026.
 
-Moni von Pisani is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Zehlendorfer Disco Squad, Alex Iso and C.love. Next up: Klunkerkranich, Berlin on Sat 17 Oct.
+Moni von Pisani is a house and disco artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Nicki Spumante, Zehlendorfer Disco Squad and Alex Iso. Next up: Klunkerkranich, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Klunkerkranich | Berlin |
 | Sat, 17 Oct 2026 | Klunkerkranich | Berlin |
 
 ## Recently played
@@ -20,6 +21,6 @@ Moni von Pisani is a house and techno artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-Zehlendorfer Disco Squad, Alex Iso, C.love
+Nicki Spumante, Zehlendorfer Disco Squad, Alex Iso
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*

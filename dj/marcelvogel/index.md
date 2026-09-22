@@ -1,6 +1,6 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Marcel Vogel is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
 Marcel Vogel is a disco and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 12 more. Often billed alongside Apparel Wax, Crazy P and Delfonic. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Marcel Vogel is a disco and house artist tracked on soundcheck, with 53 sets log
 
 Apparel Wax, Crazy P, Delfonic
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

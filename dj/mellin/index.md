@@ -1,6 +1,6 @@
 # Mellin
 
-Mellin is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Poetry Club, Glasgow on Sat, 26 Sept 2026.
+Mellin is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Poetry Club, Glasgow on Sat, 26 Sept 2026.
 
 Mellin is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Maskka, HEATNAVI and Bristol Luke. Next up: The Poetry Club, Glasgow on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Mellin is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Maskka, HEATNAVI, Bristol Luke
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellin/)*

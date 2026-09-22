@@ -1,6 +1,6 @@
 # Avatos
 
-Avatos is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Klakaz, Athens on Sun, 11 Oct 2026.
+Avatos is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klakaz, Athens on Sun, 11 Oct 2026.
 
 Avatos is a techno and acid artist tracked on soundcheck, with 13 sets logged across Athens. Often billed alongside Nivk Jane, MAXImum and Reign Of Time. Next up: Klakaz, Athens on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Avatos is a techno and acid artist tracked on soundcheck, with 13 sets logged ac
 
 Nivk Jane, MAXImum, Reign Of Time
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avatos/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avatos/)*

@@ -1,6 +1,6 @@
 # RiVid
 
-RiVid is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+RiVid is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
 
 RiVid is a techno and acid artist tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Lisbon and Malta and 3 more. Often billed alongside 2NDRA, SJ Yellow and Stefunno. Next up: Fusion Club, Munster on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ RiVid is a techno and acid artist tracked on soundcheck, with 67 sets logged acr
 
 2NDRA, SJ Yellow, Stefunno
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*

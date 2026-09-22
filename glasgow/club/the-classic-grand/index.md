@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "CATALYST: Denis Dekay - Glasgow" on Tue, 22 Sept 2026.
+The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "CATALYST: Denis Dekay - Glasgow" on Tue, 22 Sept 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

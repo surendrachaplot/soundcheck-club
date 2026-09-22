@@ -1,14 +1,15 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MILK ME presents: Frustration + Nochteff 'Crecer y Decrecer' Single Release Show" on Fri, 25 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MILK ME presents: Frustration + Nochteff 'Crecer y Decrecer' Single Release Show" on Fri, 25 Sept 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | MILK ME presents: Frustration + Nochteff 'Crecer y Decrecer' Single Release Show |  |
+| Sat, 26 Sept 2026 | Niranium 2026 |  |
 | Mon, 5 Oct 2026 | The Asteroid No.4 (US), Acid Rooster |  |
 | Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
 | Sun, 25 Oct 2026 | Lagrimas (US), ONLY, Greetings From |  |
@@ -21,4 +22,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs. B
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

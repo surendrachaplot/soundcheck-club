@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Traum Nacht: Y U QT, Lauravioli, NC" on Fri, 25 Sept 2026.
+TRAUM is a music venue in Antwerp with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Traum Nacht: Y U QT, Lauravioli, NC" on Fri, 25 Sept 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, Arter, Bevan and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 15 upcoming gigs, with l
 | Fri, 23 Oct 2026 | Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako | Paranoid London |
 | Fri, 30 Oct 2026 | Curated by Phemia: Justine Perry, Pooja B, Phemia | Justine Perry, Phemia, Pooja B |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

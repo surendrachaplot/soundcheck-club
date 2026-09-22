@@ -1,8 +1,8 @@
 # Mesmé
 
-Mesmé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 26 Sept 2026.
+Mesmé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 26 Sept 2026.
 
-Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 46 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: TBA - IYKYK , Losangeles on Sat 26 Sept.
+Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 47 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: TBA - IYKYK , Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, w
 | Sat, 26 Sept 2026 | TBA - IYKYK  | Los Angeles |
 | Sun, 4 Oct 2026 | TBA | Los Angeles |
 | Fri, 30 Oct 2026 | TBA - Downtown LA | Los Angeles |
+| Sat, 31 Oct 2026 | The Foundry | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, w
 
 Maheras, X CLUB., Etari
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mesme/)*

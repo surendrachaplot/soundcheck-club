@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Klakaz, Athens on Sun, 11 Oct 2026.
+MAXImum is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Klakaz, Athens on Sun, 11 Oct 2026.
 
 MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens, Dublin, Ibiza and London and 2 more. Often billed alongside Djammin, Mother Menace and Nivk Jane. Next up: Klakaz, Athens on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, wi
 
 Djammin, Mother Menace, Nivk Jane
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

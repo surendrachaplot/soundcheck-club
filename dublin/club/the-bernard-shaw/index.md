@@ -1,6 +1,6 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Marcellus Pittman" on Fri, 25 Sept 2026.
+The Bernard Shaw is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Marcellus Pittman" on Fri, 25 Sept 2026.
 
 The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Animwal, Catz 'N Dogz, Egyptian Lover and hellokt and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
@@ -18,4 +18,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming gig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

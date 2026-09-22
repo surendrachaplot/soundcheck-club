@@ -1,6 +1,6 @@
 # Couleur Locale
 
-Couleur Locale is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Deerislnd - From Silence to Sound" on Sat, 5 Dec 2026.
+Couleur Locale is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Deerislnd - From Silence to Sound" on Sat, 5 Dec 2026.
 
 Couleur Locale is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including U.NID. Browse upcoming dates, start times and who's playing. Normanou 3, Monastiraki, Athens, Greece.
 
@@ -14,4 +14,4 @@ Couleur Locale is a music venue in Athens listed on soundcheck. 1 upcoming gig, 
 
 Normanou 3, Monastiraki, Athens, Greece, Athens
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/couleur-locale/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/couleur-locale/)*

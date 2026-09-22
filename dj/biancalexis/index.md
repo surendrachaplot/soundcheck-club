@@ -1,6 +1,6 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 9 Oct 2026.
+Bianca Lexis is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 9 Oct 2026.
 
 Bianca Lexis is a house and electronica artist tracked on soundcheck, with 55 sets logged across London, Losangeles, Madrid and Melbourne and 7 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bianca Lexis is a house and electronica artist tracked on soundcheck, with 55 se
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

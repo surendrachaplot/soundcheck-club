@@ -1,6 +1,6 @@
 # Project 313
 
-Project 313 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lincoln Factory, Detroit on Sat, 14 Nov 2026.
+Project 313 is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lincoln Factory, Detroit on Sat, 14 Nov 2026.
 
 Project 313 is a techno and dub techno artist tracked on soundcheck, with 22 sets logged across Denver, Detroit, Losangeles and Sanfrancisco. Often billed alongside Anthony Jimenez, Corbin Davis and DJ SPHiNX. Next up: Lincoln Factory, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Project 313 is a techno and dub techno artist tracked on soundcheck, with 22 set
 
 Anthony Jimenez, Corbin Davis, DJ SPHiNX
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/project313/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/project313/)*

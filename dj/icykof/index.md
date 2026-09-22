@@ -1,6 +1,6 @@
 # icykof
 
-icykof is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Weekend, Berlin on Sun, 27 Sept 2026.
+icykof is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Weekend, Berlin on Sun, 27 Sept 2026.
 
 icykof is a techno and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Copenhagen and Ibiza and 3 more. Often billed alongside Anja Schneider, Gyatso and APOLONIA (4). Next up: Weekend, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ icykof is a techno and house artist based in United Kingdom, tracked on soundche
 
 Anja Schneider, Gyatso, APOLONIA (4)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icykof/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icykof/)*

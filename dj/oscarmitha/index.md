@@ -1,6 +1,6 @@
 # Oscar (MITHA)
 
-Oscar (MITHA) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Hope House, Leeds on Fri, 25 Sept 2026.
+Oscar (MITHA) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hope House, Leeds on Fri, 25 Sept 2026.
 
 Oscar (MITHA) is a house and techno artist tracked on soundcheck, with 24 sets logged across Bristol, Leeds and London. Often billed alongside Ruby Ruby, Blubear and By. Jansz. Next up: Hope House, Leeds on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Oscar (MITHA) is a house and techno artist tracked on soundcheck, with 24 sets l
 
 Ruby Ruby, Blubear, By. Jansz
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmitha/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmitha/)*

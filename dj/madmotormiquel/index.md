@@ -1,6 +1,6 @@
 # Madmotormiquel
 
-Madmotormiquel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Nuit, Paris on Fri, 2 Oct 2026.
+Madmotormiquel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Nuit, Paris on Fri, 2 Oct 2026.
 
 Madmotormiquel is a house and deep house artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Chicago and Cologne and 21 more. Often billed alongside Kotoe, Nacho Isa and Franca. Next up: La Nuit, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Madmotormiquel is a house and deep house artist based in Germany, tracked on sou
 
 Kotoe, Nacho Isa, Franca
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*

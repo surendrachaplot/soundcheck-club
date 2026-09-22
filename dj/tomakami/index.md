@@ -1,6 +1,6 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+Toma Kami is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
 
 Toma Kami is a techno and bass artist based in France, tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Toma Kami is a techno and bass artist based in France, tracked on soundcheck, wi
 
 ojoo, Ehua, re:ni
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomakami/)*

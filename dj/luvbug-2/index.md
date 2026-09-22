@@ -1,6 +1,6 @@
 # LUVBUG (2)
 
-LUVBUG (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at No Idea, Toronto on Thu, 24 Sept 2026.
+LUVBUG (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at No Idea, Toronto on Thu, 24 Sept 2026.
 
 LUVBUG (2) is a house and techno artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside 999ADJ, Emissive and FU3GO. Next up: No Idea, Toronto on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ LUVBUG (2) is a house and techno artist tracked on soundcheck, with 4 sets logge
 
 999ADJ, Emissive, FU3GO
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luvbug-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luvbug-2/)*

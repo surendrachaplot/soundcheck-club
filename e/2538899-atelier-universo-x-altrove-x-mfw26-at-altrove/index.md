@@ -1,6 +1,6 @@
 # Atelier Universo x Altrove x MFW26 at Altrove
 
-Atelier Universo x Altrove x MFW26 on Fri 25 Sept, Milan. 2 acts on the bill: Deyayu and Fybes. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Atelier Universo x Altrove x MFW26 on Fri 25 Sept, Milan. 3 acts on the bill: Deyayu, Fybes and Maverick (IT). Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Atelier Universo x Altrove x MFW26 on Fri 25 Sept, Milan. 2 acts on the bill: De
 
 - Deyayu
 - Fybes
+- Maverick (IT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2538899-atelier-universo-x-altrove-x-mfw26-at-altrove/)*

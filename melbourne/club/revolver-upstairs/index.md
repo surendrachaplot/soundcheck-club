@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 18 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Tilt Shift Wednesdays — Proponent Records Takeover" on Wed, 23 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Tilt Shift Wednesdays — Proponent Records Takeover" on Wed, 23 Sept 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcoming gigs, with line-ups including 1NN3R53LF, Alex Wann, Amity and bbsanii and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming gigs, with line-ups including 1NN3R53LF, Alex Wann, Amity and bbsanii and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 18 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

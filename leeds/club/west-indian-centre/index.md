@@ -1,6 +1,6 @@
 # West Indian Centre
 
-West Indian Centre is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Wee Dub Club & Sugar Sound" on Sat, 26 Sept 2026.
+West Indian Centre is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Wee Dub Club & Sugar Sound" on Sat, 26 Sept 2026.
 
 West Indian Centre is a music venue in Leeds listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 10 Laycock Place; Chapeltown; Leeds; LS7 3JA; United Kingdom.
 
@@ -14,4 +14,4 @@ West Indian Centre is a music venue in Leeds listed on soundcheck. 1 upcoming gi
 
 10 Laycock Place; Chapeltown; Leeds; LS7 3JA; United Kingdom, Leeds
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/west-indian-centre/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/west-indian-centre/)*

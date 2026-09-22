@@ -1,6 +1,6 @@
 # Adam Freeland
 
-Adam Freeland is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Yard, Manchester on Sat, 28 Nov 2026.
+Adam Freeland is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Yard, Manchester on Sat, 28 Nov 2026.
 
 Adam Freeland is an electro and breakbeat artist tracked on soundcheck, with 3 sets logged across Barcelona, Budapest and Manchester. Often billed alongside Basement Jaxx, Chris Massey and Evil Nine. Next up: The Yard, Manchester on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Adam Freeland is an electro and breakbeat artist tracked on soundcheck, with 3 s
 
 Basement Jaxx, Chris Massey, Evil Nine
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamfreeland/)*

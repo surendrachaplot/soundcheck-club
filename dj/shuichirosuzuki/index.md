@@ -1,6 +1,6 @@
 # Shuichiro Suzuki
 
-Shuichiro Suzuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at R Lounge, Tokyo on Wed, 23 Sept 2026.
+Shuichiro Suzuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at R Lounge, Tokyo on Wed, 23 Sept 2026.
 
 Shuichiro Suzuki is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Allen (IT), Azusa and BEPPU. Next up: R Lounge, Tokyo on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Shuichiro Suzuki is a house and techno artist based in Japan, tracked on soundch
 
 Allen (IT), Azusa, BEPPU
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuichirosuzuki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuichirosuzuki/)*

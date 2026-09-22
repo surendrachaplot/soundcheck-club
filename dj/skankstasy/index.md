@@ -1,6 +1,6 @@
 # Skankstasy
 
-Skankstasy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
+Skankstasy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Eventhuset, Stockholm on Sat, 26 Sept 2026.
 
 Skankstasy is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Leipzig and Stockholm. Often billed alongside Killa, Dirty Daddy Don and Carmen 16. Next up: Eventhuset, Stockholm on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Skankstasy is a techno and house artist based in Germany, tracked on soundcheck,
 
 Killa, Dirty Daddy Don, Carmen 16
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skankstasy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skankstasy/)*

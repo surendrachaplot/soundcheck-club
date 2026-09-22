@@ -1,6 +1,6 @@
 # Cröak
 
-Cröak is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Stormkop, Antwerp on Sat, 31 Oct 2026.
+Cröak is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stormkop, Antwerp on Sat, 31 Oct 2026.
 
 Cröak is a disco and deep house artist tracked on soundcheck, with 5 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Ajuma, Bass Toast and Bulie Jordeaux. Next up: Stormkop, Antwerp on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Cröak is a disco and deep house artist tracked on soundcheck, with 5 sets logge
 
 Ajuma, Bass Toast, Bulie Jordeaux
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*

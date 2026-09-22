@@ -1,14 +1,14 @@
 # DJ GHEPARD
 
-DJ GHEPARD is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Warschauer Platz 10245 Berlin, Berlin on Fri, 2 Oct 2026.
+DJ GHEPARD is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
-DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside t0ni, gmaail and 7777 の天使. Next up: TBA - Warschauer Platz 10245 Berlin, Berlin on Fri 2 Oct.
+DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside t0ni, gmaail and 7777 の天使. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Warschauer Platz 10245 Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 7 Nov 2026 | TBA | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 71 sets
 
 t0ni, gmaail, 7777 の天使
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*

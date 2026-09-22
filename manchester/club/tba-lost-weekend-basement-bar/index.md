@@ -1,6 +1,6 @@
 # TBA - Lost Weekend Basement bar
 
-TBA - Lost Weekend Basement bar is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Just Dance we'll Talk Tomorrow" on Sat, 10 Oct 2026.
+TBA - Lost Weekend Basement bar is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Just Dance we'll Talk Tomorrow" on Sat, 10 Oct 2026.
 
 TBA - Lost Weekend Basement bar is a music venue in Manchester listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lost Weekend Basement bar is a music venue in Manchester listed on soundch
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Just Dance we'll Talk Tomorrow |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-lost-weekend-basement-bar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tba-lost-weekend-basement-bar/)*

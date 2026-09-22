@@ -1,6 +1,6 @@
 # Hunter Green
 
-Hunter Green is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 20 Nov 2026.
+Hunter Green is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Hunter Green is a house and tech house artist tracked on soundcheck, with 26 sets logged across Sanfrancisco. Often billed alongside Moheato, Torteline and Bryn Avery. Next up: Club Six, Sanfrancisco on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hunter Green is a house and tech house artist tracked on soundcheck, with 26 set
 
 Moheato, Torteline, Bryn Avery
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntergreen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntergreen/)*

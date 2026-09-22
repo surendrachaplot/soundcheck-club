@@ -1,6 +1,6 @@
 # Ouri
 
-Ouri is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OIL Club, Shenzhen on Sat, 3 Oct 2026.
+Ouri is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OIL Club, Shenzhen on Sat, 3 Oct 2026.
 
 Ouri is an experimental and club artist tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Losangeles and Mexicocity and 8 more. Often billed alongside Valentina Magaletti, Bby Eco and Chinnamasta. Next up: OIL Club, Shenzhen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Ouri is an experimental and club artist tracked on soundcheck, with 19 sets logg
 
 Valentina Magaletti, Bby Eco, Chinnamasta
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*

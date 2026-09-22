@@ -1,6 +1,6 @@
 # DJ ORA
 
-DJ ORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+DJ ORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 DJ ORA is a house and techno artist tracked on soundcheck, with 3 sets logged across Amsterdam and Rotterdam. Often billed alongside AMORAL, Across Boundaries and Adam Beyer. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ DJ ORA is a house and techno artist tracked on soundcheck, with 3 sets logged ac
 
 AMORAL, Across Boundaries, Adam Beyer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djora/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djora/)*

@@ -1,6 +1,6 @@
 # Nikita Green
 
-Nikita Green is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Nikita Green is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Nikita Green is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit, Madrid, Miami and Newyorkcity. Often billed alongside Souls Departed, True Vine and Coffintexts. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Nikita Green is a house and techno artist based in United States of America, tra
 
 Souls Departed, True Vine, Coffintexts
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitagreen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitagreen/)*

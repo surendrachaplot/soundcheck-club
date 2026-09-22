@@ -1,6 +1,6 @@
 # FEDRA.
 
-FEDRA. is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
+FEDRA. is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
 
 FEDRA. is a breakbeat and bass artist based in Argentina, tracked on soundcheck, with 3 sets logged across Berlin, Newyorkcity and Saopaulo. Often billed alongside Alienationist, Caio Prince and FUGE. Next up: TBA - Secret Location, Bed Stuy, Newyorkcity on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ FEDRA. is a breakbeat and bass artist based in Argentina, tracked on soundcheck,
 
 Alienationist, Caio Prince, FUGE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedra./)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedra./)*

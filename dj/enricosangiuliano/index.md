@@ -1,16 +1,18 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Enrico Sangiuliano is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
-Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
+Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
+| Sat, 24 Oct 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 21 Nov 2026 | Prysm Nightclub | Chicago |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 104 
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

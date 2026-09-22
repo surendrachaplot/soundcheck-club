@@ -1,6 +1,6 @@
 # Kongas
 
-Kongas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
+Kongas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Circolo Amelia, Milan on Sun, 27 Sept 2026.
 
 Kongas is a house and techno artist based in Italy, tracked on soundcheck, with 6 sets logged across Milan, Naples, Rome and Turin. Often billed alongside D-Leria, DRUMS AND CHANTS and AMBRA. Next up: Circolo Amelia, Milan on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ Kongas is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 D-Leria, DRUMS AND CHANTS, AMBRA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kongas/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kongas/)*

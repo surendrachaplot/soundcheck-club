@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Funk im Trunk - Schiffen gehen Spezial" on Fri, 25 Sept 2026.
+MS Stubnitz is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Funk im Trunk - Schiffen gehen Spezial" on Fri, 25 Sept 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including CHEWCHEW, CHIEF QUEEF, Cufme and DJ Business (2) and 2 more. Browse upcoming dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, w
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

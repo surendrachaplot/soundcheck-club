@@ -1,6 +1,6 @@
 # Eva Vrijdag
 
-Eva Vrijdag is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Eva Vrijdag is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Ghent and Paris and 3 more. Often billed alongside SUPERSTRINGS, Ben Hemsley and Benwal. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Eva Vrijdag is a trance and techno artist tracked on soundcheck, with 51 sets lo
 
 SUPERSTRINGS, Ben Hemsley, Benwal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*

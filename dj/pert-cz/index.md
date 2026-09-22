@@ -1,6 +1,6 @@
 # Pert (CZ)
 
-Pert (CZ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Sat, 24 Oct 2026.
+Pert (CZ) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Sat, 24 Oct 2026.
 
 Pert (CZ) is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin, Buenosaires and Prague. Often billed alongside DJ Lumiere, FANK and Kedi Bounce. Next up: Renate, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Pert (CZ) is a techno and house artist tracked on soundcheck, with 4 sets logged
 
 DJ Lumiere, FANK, Kedi Bounce
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pert-cz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pert-cz/)*

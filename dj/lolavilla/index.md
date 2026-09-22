@@ -1,6 +1,6 @@
 # Lola Villa
 
-Lola Villa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at National Geographic Museum of Exploration, Washington DC on Sat, 3 Oct 2026.
+Lola Villa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at National Geographic Museum of Exploration, Washington DC on Sat, 3 Oct 2026.
 
 Lola Villa is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin, Mexicocity, Newyorkcity and Paris and 1 more. Often billed alongside Michel D., Ams (FR) and Anestis. Next up: National Geographic Museum of Exploration, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lola Villa is a house and deep house artist tracked on soundcheck, with 13 sets 
 
 Michel D., Ams (FR), Anestis
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolavilla/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolavilla/)*

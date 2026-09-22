@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Patrick Codenys of Front 242 and Rhys Fulber of FRONT LINE ASSEMBLY" on Fri, 25 Sept 2026.
+The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Patrick Codenys of Front 242 and Rhys Fulber of FRONT LINE ASSEMBLY" on Fri, 25 Sept 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including ADEOLA, Aji (2), baby mmune and B I P and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -17,4 +17,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

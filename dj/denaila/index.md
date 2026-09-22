@@ -1,0 +1,28 @@
+# Denaila
+
+Denaila is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 25 Sept 2026.
+
+Denaila is a techno and house artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Brussels and London and 10 more. Often billed alongside Bakked, Munir Nadir and Cristian Sarde. Next up: Gianca - Murazzi, Turin on Fri 25 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 25 Sept 2026 | Gianca - Murazzi | Turin |
+
+## Recently played
+
+- Forte Antenne, Rome — Sat, 19 Sept 2026
+- Bunker, Turin — Sat, 12 Sept 2026
+- Sunseabar Beach Club, Barcelona — Sat, 4 Jul 2026
+- Combo Torino, Turin — Sun, 21 Jun 2026
+- Bunker, Turin — Mon, 1 Jun 2026
+- Masada, Milan — Sat, 7 Mar 2026
+- TBA - Paris, Paris — Sat, 21 Feb 2026
+- TBA - Slip Torino, Turin — Thu, 25 Dec 2025
+
+## Shares bills with
+
+Bakked, Munir Nadir, Cristian Sarde
+
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denaila/)*

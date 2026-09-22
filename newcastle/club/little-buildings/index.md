@@ -1,6 +1,6 @@
 # Little Buildings
 
-Little Buildings is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "DoNotDisturb presents / 2CPete" on Fri, 25 Sept 2026.
+Little Buildings is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "DoNotDisturb presents / 2CPete" on Fri, 25 Sept 2026.
 
 Little Buildings is a music venue in Newcastle listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Ford St, Newcastle upon Tyne NE6 1LN, UK.
 
@@ -14,4 +14,4 @@ Little Buildings is a music venue in Newcastle listed on soundcheck. 1 upcoming 
 
 Ford St, Newcastle upon Tyne NE6 1LN, UK, Newcastle
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*

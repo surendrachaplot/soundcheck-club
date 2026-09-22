@@ -1,6 +1,6 @@
 # Cockatoo Island
 
-Cockatoo Island is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Mode Festival 2026" on Sun, 4 Oct 2026.
+Cockatoo Island is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Mode Festival 2026" on Sun, 4 Oct 2026.
 
 Cockatoo Island is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Alilia, anusha, Ash Lauryn and Avalon Emerson and 2 more. Browse upcoming dates, start times and who's playing. Sydney Harbour, Sydney NSW 2000, Australia.
 
@@ -14,4 +14,4 @@ Cockatoo Island is a music venue in Sydney listed on soundcheck. 1 upcoming gig,
 
 Sydney Harbour, Sydney NSW 2000, Australia, Sydney
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cockatoo-island/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/cockatoo-island/)*

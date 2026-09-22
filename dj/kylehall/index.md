@@ -1,14 +1,15 @@
 # Kyle Hall
 
-Kyle Hall is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lark, Berlin on Sun, 27 Sept 2026.
+Kyle Hall is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lark, Berlin on Sun, 27 Sept 2026.
 
-Kyle Hall is a house and techno artist based in United States of America, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: Lark, Berlin on Sun 27 Sept.
+Kyle Hall is a house and techno artist based in United States of America, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: Lark, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Lark | Berlin |
+| Sat, 3 Oct 2026 | Nitsa Club | Barcelona |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Sat, 24 Oct 2026 | Madam | Amsterdam |
 | Sat, 12 Dec 2026 | Sala Villanos | Madrid |
@@ -28,4 +29,4 @@ Kyle Hall is a house and techno artist based in United States of America, tracke
 
 Byron The Aquarius, Carl Craig, DJ Holographic
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*

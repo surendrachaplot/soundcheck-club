@@ -1,6 +1,6 @@
 # Becky Woodcock
 
-Becky Woodcock is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+Becky Woodcock is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
 Becky Woodcock is a bass and techno artist tracked on soundcheck, with 19 sets logged across London, Manchester and Newcastle. Often billed alongside Macca (2), melba and Boo. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Becky Woodcock is a bass and techno artist tracked on soundcheck, with 19 sets l
 
 Macca (2), melba, Boo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beckywoodcock/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beckywoodcock/)*

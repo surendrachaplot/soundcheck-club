@@ -1,6 +1,6 @@
 # Mitch Oliver
 
-Mitch Oliver is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+Mitch Oliver is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
 
 Mitch Oliver is a deep house and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Buenosaires and Denver and 11 more. Often billed alongside Manuel Falardeau, VICTOR RODRIGUEZ (CA) and [ares]. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Mitch Oliver is a deep house and house artist tracked on soundcheck, with 56 set
 
 Manuel Falardeau, VICTOR RODRIGUEZ (CA), [ares]
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*

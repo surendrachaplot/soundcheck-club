@@ -1,14 +1,13 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at [UNVRS], Ibiza on Mon, 21 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tap1, Copenhagen on Sat, 26 Sept 2026.
 
-Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: [UNVRS], Ibiza on Mon 21 Sept.
+Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Tap1, Copenhagen on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Tap1 | Copenhagen |
 | Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 5 Oct 2026 | [UNVRS] | Ibiza |
@@ -17,6 +16,7 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 se
 
 ## Recently played
 
+- [UNVRS], Ibiza — Mon, 21 Sept 2026
 - [UNVRS], Ibiza — Mon, 14 Sept 2026
 - [UNVRS], Ibiza — Mon, 7 Sept 2026
 - Gateway Studios, Oslo — Fri, 4 Sept 2026
@@ -24,10 +24,9 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 se
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Dolder Kunsteisbahn Zurich, Zurich — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

@@ -1,6 +1,6 @@
 # Transit
 
-Transit is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "A night of Jungle, Roots, Dancehall Jungle & More Jungle" on Fri, 25 Sept 2026.
+Transit is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "A night of Jungle, Roots, Dancehall Jungle & More Jungle" on Fri, 25 Sept 2026.
 
 Transit is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Black Loops, Drabes, Elina Tapio and Fouk and 2 more. Browse upcoming dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
 
@@ -19,4 +19,4 @@ Transit is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wit
 
 Aambeeldstraat 38, 1021 KB Amsterdam, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*

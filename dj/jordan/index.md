@@ -1,6 +1,6 @@
 # Jordan
 
-Jordan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Live Haus, Tokyo on Fri, 25 Sept 2026.
+Jordan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Live Haus, Tokyo on Fri, 25 Sept 2026.
 
 Jordan is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, London, Sanfrancisco and Tokyo and 1 more. Often billed alongside Bjørn, DJ Cira and Loora. Next up: Live Haus, Tokyo on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Jordan is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 Bjørn, DJ Cira, Loora
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan/)*

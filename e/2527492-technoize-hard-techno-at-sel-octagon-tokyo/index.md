@@ -1,6 +1,6 @@
 # TECHNOIZE -Hard Techno- at SEL OCTAGON TOKYO
 
-TECHNOIZE -Hard Techno- at SEL OCTAGON TOKYO on Wed 23 Sept, Tokyo. 3 acts on the bill: DALJAE, KAITO (5) and KATSU (2). Techno and Industrial. Preview the line-up and save it on soundcheck.
+TECHNOIZE -Hard Techno- at SEL OCTAGON TOKYO on Wed 23 Sept, Tokyo. 5 acts on the bill: DALJAE, KAITO (5), KATSU (2) and Soluna and 1 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,7 @@ TECHNOIZE -Hard Techno- at SEL OCTAGON TOKYO on Wed 23 Sept, Tokyo. 3 acts on th
 - DALJAE
 - KAITO (5)
 - KATSU (2)
+- Soluna
+- YOXIKI
 
 *Source: [soundcheck](https://soundcheck.club/e/2527492-technoize-hard-techno-at-sel-octagon-tokyo/)*

@@ -1,6 +1,6 @@
 # Vince Void
 
-Vince Void is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Wed, 23 Sept 2026.
+Vince Void is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Wed, 23 Sept 2026.
 
 Vince Void is a house and electro artist tracked on soundcheck, with 116 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Diesco, Alex Garcia (2) and Pau Rosés. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ Vince Void is a house and electro artist tracked on soundcheck, with 116 sets lo
 
 Diesco, Alex Garcia (2), Pau Rosés
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*

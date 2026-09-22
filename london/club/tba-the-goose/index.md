@@ -1,6 +1,6 @@
 # TBA - The Goose
 
-TBA - The Goose is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Adhesive On The Goose" on Sat, 26 Sept 2026.
+TBA - The Goose is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Adhesive On The Goose" on Sat, 26 Sept 2026.
 
 TBA - The Goose is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Finthehuman and Luca and Sol. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Goose is a music venue in London listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Adhesive On The Goose | Finthehuman, Luca and Sol |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-goose/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-the-goose/)*

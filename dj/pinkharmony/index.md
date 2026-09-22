@@ -1,6 +1,6 @@
 # PiNK HARMONY
 
-PiNK HARMONY is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+PiNK HARMONY is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
 PiNK HARMONY is a trance and techno artist based in Albania, tracked on soundcheck, with 5 sets logged across Budapest. Often billed alongside CRB, Rozalina and schraeder. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ PiNK HARMONY is a trance and techno artist based in Albania, tracked on soundche
 
 CRB, Rozalina, schraeder
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkharmony/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkharmony/)*

@@ -1,6 +1,6 @@
 # Hënkį
 
-Hënkį is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 11 Oct 2026.
+Hënkį is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sun, 11 Oct 2026.
 
 Hënkį is a psytrance and trance artist tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside JUN INAGAWA, WAGAHAI IS NEKO and AMG SAIMURA (TECHVANE). Next up: UTOPIA / DYSTOPIA, Tokyo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Hënkį is a psytrance and trance artist tracked on soundcheck, with 13 sets log
 
 JUN INAGAWA, WAGAHAI IS NEKO, AMG SAIMURA (TECHVANE)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henki/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henki/)*

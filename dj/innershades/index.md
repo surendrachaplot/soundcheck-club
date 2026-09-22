@@ -1,6 +1,6 @@
 # Innershades
 
-Innershades is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Basic Club, Naples on Fri, 2 Oct 2026.
+Innershades is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Basic Club, Naples on Fri, 2 Oct 2026.
 
 Innershades is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside DC Salas, Phara and Border One. Next up: Basic Club, Naples on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Innershades is a techno and house artist tracked on soundcheck, with 64 sets log
 
 DC Salas, Phara, Border One
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*

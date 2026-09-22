@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Side Two - B2B Special W/ Kaya & Izzy + more" on Fri, 25 Sept 2026.
+The Glove That Fits is a music venue in London with 22 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Side Two - House & Garage *FREE ENTRY" on Fri, 25 Sept 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -8,7 +8,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Side Two - B2B Special W/ Kaya & Izzy + more | IZZY (UK), KaYa (UK), Layson, Marlon Baleci, Nick Clev, Sam Beach |
+| Fri, 25 Sept 2026 | Side Two - House & Garage *FREE ENTRY | IZZY (UK), KaYa (UK), Layson, Marlon Baleci, Nick Clev, Sam Beach |
 | Sat, 26 Sept 2026 | JFF vol.5 INVITES Nocte | FrezZ, Monterosso, Samir (DVS), Yūgen |
 | Sat, 26 Sept 2026 | Scouts X Peaches FC Day Party |  |
 | Wed, 30 Sept 2026 | GRADUATED FROM THE BASEMENT 2026 | DJ Etiquette, HIKIING, SHIR.IN |
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

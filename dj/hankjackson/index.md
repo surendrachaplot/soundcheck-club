@@ -1,8 +1,8 @@
 # Hank Jackson
 
-Hank Jackson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
+Hank Jackson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Signal, New York City on Sun, 11 Oct 2026.
 
-Hank Jackson is a techno and house artist tracked on soundcheck, with 30 sets logged across Losangeles, Newyorkcity and Tokyo. Often billed alongside Yumi, Jek (US) and K Wata. Next up: Signal, Newyorkcity on Sun 11 Oct.
+Hank Jackson is a techno and house artist tracked on soundcheck, with 30 sets logged across Losangeles, Newyorkcity and Tokyo. Often billed alongside Yu Mi, Jek (US) and K Wata. Next up: Signal, Newyorkcity on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Hank Jackson is a techno and house artist tracked on soundcheck, with 30 sets lo
 
 ## Shares bills with
 
-Yumi, Jek (US), K Wata
+Yu Mi, Jek (US), K Wata
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hankjackson/)*

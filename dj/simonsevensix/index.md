@@ -1,6 +1,6 @@
 # Simon Seven Six
 
-Simon Seven Six is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cafe De Duivel, Amsterdam on Fri, 23 Oct 2026.
+Simon Seven Six is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cafe De Duivel, Amsterdam on Fri, 23 Oct 2026.
 
 Simon Seven Six is a funk / soul and disco artist tracked on soundcheck, with 8 sets logged across Amsterdam and Cologne. Often billed alongside Chris Wheatley, Cee ElAssaad and DJ Clean Cut. Next up: Cafe De Duivel, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Simon Seven Six is a funk / soul and disco artist tracked on soundcheck, with 8 
 
 Chris Wheatley, Cee ElAssaad, DJ Clean Cut
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsevensix/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsevensix/)*

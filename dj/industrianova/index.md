@@ -1,6 +1,6 @@
 # Industria Nova
 
-Industria Nova is a Industrial and EBM artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
+Industria Nova is a Industrial and EBM artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
 
 Industria Nova is an industrial and ebm artist based in United States of America, tracked on soundcheck, with 20 sets logged across London, Losangeles, Newyorkcity and Portland. Often billed alongside Damascus Knives, David Christian and Cervello Elettronico. Next up: The Slipper Clutch, Losangeles on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Industria Nova is an industrial and ebm artist based in United States of America
 
 Damascus Knives, David Christian, Cervello Elettronico
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/industrianova/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/industrianova/)*

@@ -1,6 +1,6 @@
 # ultra caro
 
-ultra caro is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at OT301, Amsterdam on Fri, 25 Sept 2026.
+ultra caro is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at OT301, Amsterdam on Fri, 25 Sept 2026.
 
 ultra caro is an experimental and club artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Brussels, Copenhagen and Krakow and 6 more. Often billed alongside ODG (1), monia.mp3 and Alexi Shell. Next up: OT301, Amsterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ultra caro is an experimental and club artist based in France, tracked on soundc
 
 ODG (1), monia.mp3, Alexi Shell
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultracaro/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultracaro/)*

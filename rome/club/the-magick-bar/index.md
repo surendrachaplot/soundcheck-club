@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Purple MondayS Closing Season Night" on Mon, 21 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "BRANCHIE LAB at MAGICK BAR with Fernando Costantini, bee.Z, Vagliolise" on Tue, 22 Sept 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 5 upcoming gigs, with line-ups including bee.Z, Brasi, Fernando Costantini and Gattonero and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 4 upcoming gigs, with line-ups including bee.Z, Brasi, Fernando Costantini and Gattonero and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Purple MondayS Closing Season Night |  |
 | Tue, 22 Sept 2026 | BRANCHIE LAB at MAGICK BAR with Fernando Costantini, bee.Z, Vagliolise | Fernando Costantini, Vagliolise, bee.Z |
 | Thu, 24 Sept 2026 | THE MAGICK BAR presents: Gattonero, Sunday Bath | Gattonero, Sunday Bath |
 | Fri, 25 Sept 2026 | End of the Summer Celebration: Piezo, Strada, Dubshot, Wayne Santana, Shapednoise | Piezo, Shapednoise, Strada |
@@ -18,4 +17,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 5 upcoming gigs, w
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

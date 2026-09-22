@@ -1,6 +1,6 @@
 # Mess Hall
 
-Mess Hall is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Extended Play with DJ Spinna" on Sun, 18 Oct 2026.
+Mess Hall is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Extended Play with DJ Spinna" on Sun, 18 Oct 2026.
 
 Mess Hall is a music venue in Washingtondc listed on soundcheck. 1 upcoming gig, with line-ups including DJ Spinna. Browse upcoming dates, start times and who's playing. 703 Edgewood St NE, Washington, DC 20017.
 
@@ -14,4 +14,4 @@ Mess Hall is a music venue in Washingtondc listed on soundcheck. 1 upcoming gig,
 
 703 Edgewood St NE, Washington, DC 20017, Washington DC
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mess-hall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mess-hall/)*

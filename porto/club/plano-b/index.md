@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "NIGHTSHIFT - Sara Gil" on Thu, 24 Sept 2026.
+Plano B is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "NIGHTSHIFT - Sara Gil" on Thu, 24 Sept 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Jen Cardini, John Talabot, Objekt and Ogazón and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -21,4 +21,4 @@ Plano B is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with li
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

@@ -1,6 +1,6 @@
 # Mark Angel
 
-Mark Angel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
+Mark Angel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Navy Pier, Chicago on Sat, 26 Sept 2026.
 
 Mark Angel is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago. Often billed alongside Brenda, Gabriel Palomo and Mike Dunn. Next up: Navy Pier, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mark Angel is a techno and house artist based in United States of America, track
 
 Brenda, Gabriel Palomo, Mike Dunn
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*

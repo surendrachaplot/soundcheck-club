@@ -1,6 +1,6 @@
 # Mark Jackus
 
-Mark Jackus is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 25 Sept 2026.
+Mark Jackus is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 25 Sept 2026.
 
 Mark Jackus is a deep house and tech house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Adron_, Benny Grauer and Bobby Starrr. Next up: ciao ciao Bar, Berlin on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Mark Jackus is a deep house and tech house artist tracked on soundcheck, with 3 
 
 Adron_, Benny Grauer, Bobby Starrr
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markjackus/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markjackus/)*

@@ -1,6 +1,6 @@
 # O2 Academy Liverpool
 
-O2 Academy Liverpool is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Exhilaration Presents: RAGETRAIN All Night Long" on Sat, 3 Oct 2026.
+O2 Academy Liverpool is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Exhilaration Presents: RAGETRAIN All Night Long" on Sat, 3 Oct 2026.
 
 O2 Academy Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 11-13 Hotham Street; Liverpool; L3 5UF; United Kingdom.
 
@@ -14,4 +14,4 @@ O2 Academy Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcom
 
 11-13 Hotham Street; Liverpool; L3 5UF; United Kingdom, Liverpool
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/o2-academy-liverpool/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/o2-academy-liverpool/)*

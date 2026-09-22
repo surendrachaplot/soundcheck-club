@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Open Hoose (OH!) Feat. Shedcat & Froski" on Fri, 25 Sept 2026.
+McNeills is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Open Hoose (OH!) Feat. Shedcat & Froski" on Fri, 25 Sept 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -15,4 +15,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. Brow
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

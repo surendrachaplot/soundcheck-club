@@ -1,6 +1,6 @@
 # DJ Slugo
 
-DJ Slugo is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Paragon, New York City on Sat, 3 Oct 2026.
+DJ Slugo is a Ghetto Tech and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Paragon, New York City on Sat, 3 Oct 2026.
 
 DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Boston, Chicago and Detroit and 14 more. Often billed alongside Traxman, DJ Clent and DJ Godfather. Next up: Paragon, Newyorkcity on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DJ Slugo is a ghetto tech and house artist tracked on soundcheck, with 73 sets l
 
 Traxman, DJ Clent, DJ Godfather
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djslugo/)*

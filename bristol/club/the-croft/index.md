@@ -1,6 +1,6 @@
 # The Croft
 
-The Croft is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Croft Tuesdays: No More All Male Lineups w/ Aktar, CUTMESUM.FLAC + more" on Tue, 22 Sept 2026.
+The Croft is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Croft Tuesdays: No More All Male Lineups w/ Aktar, CUTMESUM.FLAC + more" on Tue, 22 Sept 2026.
 
 The Croft is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Buckley (UK), Deselecta, Duality and Dwarde and 2 more. Browse upcoming dates, start times and who's playing. 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom.
 
@@ -19,4 +19,4 @@ The Croft is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, wit
 
 117-119 Stokes Croft, Bristol, BS1 3RW, United Kingdom, Bristol
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-croft/)*

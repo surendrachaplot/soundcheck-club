@@ -1,13 +1,14 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Post Bar, Helsinki on Fri, 2 Oct 2026.
+Paula Koski is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at rake?raka?, Osaka on Tue, 22 Sept 2026.
 
-Paula Koski is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Post Bar, Helsinki on Fri 2 Oct.
+Paula Koski is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: rake?raka?, Osaka on Tue 22 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 22 Sept 2026 | rake?raka? | Osaka |
 | Fri, 2 Oct 2026 | Post Bar | Helsinki |
 | Sat, 10 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
@@ -29,4 +30,4 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 130 sets lo
 
 Justine Perry, CEB (FI), Ben Klock
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

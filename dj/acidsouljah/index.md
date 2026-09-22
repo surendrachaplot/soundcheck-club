@@ -1,6 +1,6 @@
 # Acid Souljah
 
-Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
+Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 17 Oct 2026.
 
 Acid Souljah is a hip-hop and r&b artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, London and Losangeles and 6 more. Often billed alongside Christ Dillinger, Warlord® and exmantera. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Acid Souljah is a hip-hop and r&b artist tracked on soundcheck, with 18 sets log
 
 Christ Dillinger, Warlord®, exmantera
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*

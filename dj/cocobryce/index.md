@@ -1,6 +1,6 @@
 # Coco Bryce
 
-Coco Bryce is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TRAUM, Antwerp on Sat, 10 Oct 2026.
+Coco Bryce is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TRAUM, Antwerp on Sat, 10 Oct 2026.
 
 Coco Bryce is a jungle and drum & bass artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Austin and Belfast and 34 more. Often billed alongside Tim Reaper, Dwarde and Sully. Next up: TRAUM, Antwerp on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Coco Bryce is a jungle and drum & bass artist tracked on soundcheck, with 96 set
 
 Tim Reaper, Dwarde, Sully
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobryce/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobryce/)*

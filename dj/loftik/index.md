@@ -1,6 +1,6 @@
 # Loftik
 
-Loftik is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
+Loftik is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
 
 Loftik is a techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside KeepKeep, COHĒSION and Egui. Next up: Stage and Radio, Manchester on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Loftik is a techno artist based in United Kingdom, tracked on soundcheck, with 7
 
 KeepKeep, COHĒSION, Egui
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loftik/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loftik/)*

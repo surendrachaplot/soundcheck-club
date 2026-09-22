@@ -1,13 +1,14 @@
 # RYDA
 
-RYDA is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Prospect Building, Bristol on Fri, 4 Dec 2026.
+RYDA is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
 
-RYDA is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Birmingham, Bristol, London and Manchester. Often billed alongside Bella Bytes, Amoss and JUST FELIX. Next up: The Prospect Building, Bristol on Fri 4 Dec.
+RYDA is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Birmingham, Bristol, London and Manchester. Often billed alongside Bella Bytes, Amoss and JUST FELIX. Next up: The Clock Factory, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Clock Factory | Bristol |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ RYDA is a drum & bass and dubstep artist based in United Kingdom, tracked on sou
 
 Bella Bytes, Amoss, JUST FELIX
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryda/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryda/)*

@@ -1,13 +1,14 @@
 # Kotelett
 
-Kotelett is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Kotelett is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Gate, Berlin on Fri, 2 Oct 2026.
 
-Kotelett is a house and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Foolik, Pauli Pocket and Mimi Love. Next up: Renate, Berlin on Fri 16 Oct.
+Kotelett is a house and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Foolik, Pauli Pocket and Mimi Love. Next up: Golden Gate, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Golden Gate | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 23 Oct 2026 | Kater | Berlin |
 
@@ -26,4 +27,4 @@ Kotelett is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Foolik, Pauli Pocket, Mimi Love
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*

@@ -1,6 +1,6 @@
 # Varo (ES)
 
-Varo (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Lasociaciøn, Madrid on Fri, 25 Sept 2026.
+Varo (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lasociaciøn, Madrid on Fri, 25 Sept 2026.
 
 Varo (ES) is a house and electronica artist tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside Alex (ES), Avo (ES) and Bassywax. Next up: Lasociaciøn, Madrid on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Varo (ES) is a house and electronica artist tracked on soundcheck, with 4 sets l
 
 Alex (ES), Avo (ES), Bassywax
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoes/)*

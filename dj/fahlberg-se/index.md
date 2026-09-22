@@ -1,6 +1,6 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at ZeyZey, Miami on Fri, 9 Oct 2026.
+Fahlberg is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ZeyZey, Miami on Fri, 9 Oct 2026.
 
 Fahlberg is an afro house and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Berlin and Brussels and 15 more. Often billed alongside Chris Luno, Elderbrook and R8YZ. Next up: ZeyZey, Miami on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Fahlberg is an afro house and house artist tracked on soundcheck, with 31 sets l
 
 Chris Luno, Elderbrook, R8YZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

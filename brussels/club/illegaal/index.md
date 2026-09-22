@@ -1,8 +1,8 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "GROOVE  LAB  //  TAKE OVER" on Fri, 25 Sept 2026.
+Illegaal is a music venue in Brussels with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GROOVE  LAB  //  TAKE OVER" on Fri, 25 Sept 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including ATARAXY, bemira, Blazin' Bomzai and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 8 upcoming gigs, with line-ups including ATARAXY, bemira, Blazin' Bomzai and FatherFlow (hybrid live) and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, wit
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | GROOVE  LAB  //  TAKE OVER | ATARAXY, FatherFlow (hybrid live), Holiness, Hysope, bemira |
 | Sat, 26 Sept 2026 | Zieke Crapule Show 3 |  |
+| Fri, 2 Oct 2026 | ET_NÀ - Concert Release by Paola Di Bella |  |
 | Sat, 3 Oct 2026 | ✮⋆ GIMIC Radio - 2Y BIRTHDAY ⭒⋆⍣ | Godero, Kathleen C, Malo Z, Melissa Juice, TORI ANN, ttyfal |
 | Fri, 16 Oct 2026 | EELF Presents - Brussels: Target Demographic, Shaolin Cowboy, Kleinefrigo + more TBA | Kleinefrigo, Shaolin Cowboy, Target Demographic |
 | Sat, 17 Oct 2026 | Pointzero Rec Invite HypoGeo - Subway Shamans | HypoGeo |
@@ -20,4 +21,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, wit
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

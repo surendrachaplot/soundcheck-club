@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
+Nastia is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RADION, Amsterdam on Fri, 25 Sept 2026.
 
 Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: RADION, Amsterdam on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Nastia is a techno and house artist tracked on soundcheck, with 168 sets logged 
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

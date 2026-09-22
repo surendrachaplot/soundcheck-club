@@ -1,6 +1,6 @@
 # Aba Shanti-I
 
-Aba Shanti-I is a Dub and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Aba Shanti-I is a Dub and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Aba Shanti-I is a dub and dub techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Errol, Mia Koden and Tash LC. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Aba Shanti-I is a dub and dub techno artist tracked on soundcheck, with 46 sets 
 
 Errol, Mia Koden, Tash LC
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*

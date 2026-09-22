@@ -1,13 +1,14 @@
 # Automatic Writing
 
-Automatic Writing is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
+Automatic Writing is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
-Automatic Writing is a house and techno artist based in France, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Fvtvr, Paris on Fri 6 Nov.
+Automatic Writing is a house and minimal artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Tenuta Tor De' Sordi | Rome |
 | Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Automatic Writing is a house and techno artist based in France, tracked on sound
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

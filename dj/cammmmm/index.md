@@ -1,6 +1,6 @@
 # CAMMMMM
 
-CAMMMMM is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at SASS Music Club, Vienna on Sat, 26 Sept 2026.
+CAMMMMM is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SASS Music Club, Vienna on Sat, 26 Sept 2026.
 
 CAMMMMM is a tech house and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, London, Valencia and Vienna. Often billed alongside Ariezzz, Ladrillovitz and ELi. Next up: SASS Music Club, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CAMMMMM is a tech house and house artist tracked on soundcheck, with 39 sets log
 
 Ariezzz, Ladrillovitz, ELi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cammmmm/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cammmmm/)*

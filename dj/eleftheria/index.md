@@ -1,0 +1,28 @@
+# Eleftheria
+
+Eleftheria is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Open Ground, Wuppertal on Sat, 31 Oct 2026.
+
+Eleftheria is an experimental and club artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 3 more. Often billed alongside Significant Other, blastah and Hermeneia. Next up: Open Ground, Wuppertal on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | Open Ground | Wuppertal |
+
+## Recently played
+
+- Haus der Visionäre, Berlin — Fri, 21 Aug 2026
+- Plattenvereinigung, Berlin — Sun, 16 Aug 2026
+- OHM, Berlin — Fri, 10 Jul 2026
+- Refuge Worldwide / Niemetzstraße, Berlin — Thu, 9 Jul 2026
+- Flutgraben, Berlin — Sat, 23 May 2026
+- TBA - LADEN 2 , Berlin — Fri, 15 May 2026
+- 90mil, Berlin — Fri, 17 Apr 2026
+- Haus der Visionäre, Berlin — Sat, 28 Mar 2026
+
+## Shares bills with
+
+Significant Other, blastah, Hermeneia
+
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleftheria/)*

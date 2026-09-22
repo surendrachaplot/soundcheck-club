@@ -1,6 +1,6 @@
 # B2B The Movement
 
-B2B The Movement is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 10 Oct 2026.
+B2B The Movement is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 10 Oct 2026.
 
 B2B The Movement is a house and tech house artist tracked on soundcheck, with 10 sets logged across Liverpool, London and Malta. Often billed alongside Brian Smith, Steven Cee and JAYDAA. Next up: Two Tribes CAMPFIRE, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ B2B The Movement is a house and tech house artist tracked on soundcheck, with 10
 
 Brian Smith, Steven Cee, JAYDAA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bthemovement/)*

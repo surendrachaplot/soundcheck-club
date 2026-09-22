@@ -1,6 +1,6 @@
 # Talinho
 
-Talinho is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 15 Oct 2026.
+Talinho is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Yamamori Tengu, Dublin on Thu, 15 Oct 2026.
 
 Talinho is a techno and tech house artist based in South Africa, tracked on soundcheck, with 29 sets logged across Dublin. Often billed alongside Havik, Ayolxi and EMMIE. Next up: Yamamori Tengu, Dublin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Talinho is a techno and tech house artist based in South Africa, tracked on soun
 
 Havik, Ayolxi, EMMIE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talinho/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talinho/)*

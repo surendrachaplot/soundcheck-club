@@ -1,6 +1,6 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Antidoto Club: COUCOU CHLOE + TOCCORORO" on Thu, 24 Sept 2026.
+Club Magno is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Antidoto Club: COUCOU CHLOE + TOCCORORO" on Thu, 24 Sept 2026.
 
 Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including DJ Co.kr, Atrâm, COUCOU CHLOE and Danga and 2 more. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
@@ -23,4 +23,4 @@ Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, wi
 
 c. de cedaceros 7, Madrid, Madrid
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-magno/)*

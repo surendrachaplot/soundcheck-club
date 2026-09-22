@@ -1,6 +1,6 @@
 # Stefan Rose
 
-Stefan Rose is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at UNLOCKED, London on Fri, 2 Oct 2026.
+Stefan Rose is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at UNLOCKED, London on Fri, 2 Oct 2026.
 
 Stefan Rose is an electronica and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona and London. Often billed alongside Saulo Pisa, Aka theo and DASHA (UK). Next up: UNLOCKED, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Stefan Rose is an electronica and house artist based in United States of America
 
 Saulo Pisa, Aka theo, DASHA (UK)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanrose/)*

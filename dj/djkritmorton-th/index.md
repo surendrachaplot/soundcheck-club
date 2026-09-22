@@ -1,8 +1,8 @@
 # DJ Krit Morton
 
-DJ Krit Morton is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Culture Cafe, Bangkok on Sat, 26 Sept 2026.
+DJ Krit Morton is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Culture Cafe, Bangkok on Sat, 26 Sept 2026.
 
-DJ Krit Morton is an electro and techno artist based in Thailand, tracked on soundcheck, with 196 sets logged across Bangkok and Kualalumpur. Often billed alongside Yoongying, Krit Su and DJ Sweed. Next up: Culture Cafe, Bangkok on Sat 26 Sept.
+DJ Krit Morton is an electro and techno artist based in Thailand, tracked on soundcheck, with 197 sets logged across Bangkok and Kualalumpur. Often billed alongside Yoongying, Krit Su and DJ Sweed. Next up: Culture Cafe, Bangkok on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Krit Morton is an electro and techno artist based in Thailand, tracked on sou
 | Sat, 26 Sept 2026 | Culture Cafe | Bangkok |
 | Thu, 8 Oct 2026 | Culture Cafe | Bangkok |
 | Sat, 10 Oct 2026 | Culture Cafe | Bangkok |
+| Fri, 11 Dec 2026 | TBA | Bangkok |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ DJ Krit Morton is an electro and techno artist based in Thailand, tracked on sou
 
 Yoongying, Krit Su, DJ Sweed
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkritmorton-th/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkritmorton-th/)*

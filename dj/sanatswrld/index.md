@@ -1,6 +1,6 @@
 # sanatswrld
 
-sanatswrld is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+sanatswrld is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 sanatswrld is a house and minimal artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Jeny Michelle, Ben Myles and EREZ.JPG. Next up: Green Room NYC, Newyorkcity on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ sanatswrld is a house and minimal artist based in United States of America, trac
 
 Jeny Michelle, Ben Myles, EREZ.JPG
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanatswrld/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanatswrld/)*

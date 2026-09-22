@@ -1,17 +1,18 @@
 # KINKI COCKTAIL CLUB
 
-KINKI COCKTAIL CLUB is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "SOS COLOMBIA" on Wed, 23 Sept 2026.
+KINKI COCKTAIL CLUB is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SOS COLOMBIA" on Wed, 23 Sept 2026.
 
-KINKI COCKTAIL CLUB is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. C. de San Dimas, 3, Local 1, Centro, 28015 Madrid.
+KINKI COCKTAIL CLUB is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including BADSISTA, lesbiannette and Sol Angel. Browse upcoming dates, start times and who's playing. C. de San Dimas, 3, Local 1, Centro, 28015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | SOS COLOMBIA |  |
+| Wed, 23 Sept 2026 | SOS COLOMBIA | BADSISTA, lesbiannette |
+| Wed, 23 Sept 2026 | SOS COLOMBIA | BADSISTA, Sol Angel, lesbiannette |
 
 ## Address
 
 C. de San Dimas, 3, Local 1, Centro, 28015 Madrid, Madrid
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/kinki-cocktail-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/kinki-cocktail-club/)*

@@ -1,14 +1,15 @@
 # Volpe
 
-Volpe is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+Volpe is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
 
-Volpe is a techno and dub techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 7 more. Often billed alongside Daisy Weweh, Phil Berg and ÜBERKIKZ. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
+Volpe is a techno and dub techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 7 more. Often billed alongside Daisy Weweh, Phil Berg and ÜBERKIKZ. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Secret Location | Malta |
+| Sat, 10 Oct 2026 | Nomad Warehouse // Galpón Mercedes Sosa | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Volpe is a techno and dub techno artist tracked on soundcheck, with 45 sets logg
 
 Daisy Weweh, Phil Berg, ÜBERKIKZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volpe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volpe/)*

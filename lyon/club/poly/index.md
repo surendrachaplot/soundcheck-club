@@ -1,6 +1,6 @@
 # Poly
 
-Poly is a music venue in Lyon with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "madgone/Les Ratz" on Fri, 25 Sept 2026.
+Poly is a music venue in Lyon with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "madgone/Les Ratz" on Fri, 25 Sept 2026.
 
 Poly is a music venue in Lyon listed on soundcheck. 3 upcoming gigs, with line-ups including Anna Kost, Baptiste Coppel, basic chanel and Goldie B and 1 more. Browse upcoming dates, start times and who's playing. TBA VENUE.
 
@@ -16,4 +16,4 @@ Poly is a music venue in Lyon listed on soundcheck. 3 upcoming gigs, with line-u
 
 TBA VENUE, Lyon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/poly/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/poly/)*

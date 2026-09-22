@@ -1,6 +1,6 @@
 # Ruggz
 
-Ruggz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at After Dark, Bristol on Sat, 10 Oct 2026.
+Ruggz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at After Dark, Bristol on Sat, 10 Oct 2026.
 
 Ruggz is a garage and house artist tracked on soundcheck, with 13 sets logged across Barcelona, Bristol and London. Often billed alongside Lily London, Nancy June and Normski. Next up: After Dark, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Ruggz is a garage and house artist tracked on soundcheck, with 13 sets logged ac
 
 Lily London, Nancy June, Normski
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruggz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruggz/)*

@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA" on Fri, 25 Sept 2026.
+Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SCORPIO: Massimiliano Pagliara, PAURRO, trevor.f b2b ketia, PEPIITA" on Fri, 25 Sept 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Ceyda Yagiz and DJ Cringey and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -19,4 +19,4 @@ Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with lin
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

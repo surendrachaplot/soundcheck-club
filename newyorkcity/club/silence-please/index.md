@@ -1,8 +1,8 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Free Spirits: Kiana Mickles presents Mary Lou Williams" on Tue, 22 Sept 2026.
+Silence Please is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Free Spirits: Kiana Mickles presents Mary Lou Williams" on Tue, 22 Sept 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming gigs, with line-ups including 320 (1), Softi, Kiana and Plushie and 1 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, with line-ups including 320 (1), Caire, Dean Bryce and Softi and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
@@ -10,6 +10,8 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 | --- | --- | --- |
 | Tue, 22 Sept 2026 | Free Spirits: Kiana Mickles presents Mary Lou Williams | Kiana |
 | Wed, 23 Sept 2026 | Atune #26: 'Songs in the Key of Life' by Stevie Wonder |  |
+| Wed, 23 Sept 2026 | All music is dance music so shut up and dance. with Dean Bryce | Dean Bryce |
+| Thu, 24 Sept 2026 | Compilations by Caire | Caire |
 | Fri, 25 Sept 2026 | Yellow Magic Orchestra's Solid State Survivor with John Hwang |  |
 | Thu, 1 Oct 2026 | Spoonerism presents: flutter listening session |  |
 | Fri, 2 Oct 2026 | Garden of Penumbra with X4N |  |
@@ -21,4 +23,4 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

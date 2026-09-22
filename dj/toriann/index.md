@@ -1,6 +1,6 @@
 # TORI ANN
 
-TORI ANN is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
+TORI ANN is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Illegaal, Brussels on Sat, 3 Oct 2026.
 
 TORI ANN is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp and Brussels. Often billed alongside DTM Funk, Bibi Seck and Oko Stellar. Next up: Illegaal, Brussels on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ TORI ANN is a house and techno artist tracked on soundcheck, with 32 sets logged
 
 DTM Funk, Bibi Seck, Oko Stellar
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*

@@ -1,6 +1,6 @@
 # dogger
 
-dogger is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
+dogger is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Phonox, London on Fri, 25 Sept 2026.
 
 dogger is a drum & bass and jungle artist tracked on soundcheck, with 50 sets logged across Auckland, Bangkok, Berlin and Birmingham and 7 more. Often billed alongside Mindstate, DRS and foxi. Next up: Phonox, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ dogger is a drum & bass and jungle artist tracked on soundcheck, with 50 sets lo
 
 Mindstate, DRS, foxi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dogger/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dogger/)*

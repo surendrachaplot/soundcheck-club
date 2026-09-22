@@ -1,6 +1,6 @@
 # Tremūl
 
-Tremūl is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Thu, 8 Oct 2026.
+Tremūl is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Thu, 8 Oct 2026.
 
 Tremūl is an electronica and techno artist tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Aizikovic, Xorpel and Ali-Az. Next up: Cadavra, Madrid on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Tremūl is an electronica and techno artist tracked on soundcheck, with 19 sets 
 
 Aizikovic, Xorpel, Ali-Az
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*

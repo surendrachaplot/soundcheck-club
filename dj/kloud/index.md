@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+KLOUD is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, Kander and DJ Heartstring. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 83 sets logged a
 
 Lola Cerise, Kander, DJ Heartstring
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

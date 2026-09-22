@@ -1,6 +1,6 @@
 # Rossa
 
-Rossa is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
+Rossa is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Babour Sauvage, Paris on Sat, 3 Oct 2026.
 
 Rossa is a techno and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Belgrade and Paris and 1 more. Often billed alongside Dexon, Aur3lius and Caelestis. Next up: Babour Sauvage, Paris on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rossa is a techno and tech house artist tracked on soundcheck, with 28 sets logg
 
 Dexon, Aur3lius, Caelestis
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*

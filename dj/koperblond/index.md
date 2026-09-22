@@ -1,14 +1,15 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Laak, The Hague on Fri, 25 Sept 2026.
+Koperblond is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Laak, The Hague on Fri, 25 Sept 2026.
 
-Koperblond is a house and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside DJ Chuckie, Merel Helderman and Pelanoir. Next up: Laak, Thehague on Fri 25 Sept.
+Koperblond is a house and techno artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside DJ Chuckie, Merel Helderman and Pelanoir. Next up: Laak, Thehague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Laak | The Hague |
+| Thu, 22 Oct 2026 | Huis van Iemand Anders | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Koperblond is a house and techno artist based in Netherlands, tracked on soundch
 
 DJ Chuckie, Merel Helderman, Pelanoir
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

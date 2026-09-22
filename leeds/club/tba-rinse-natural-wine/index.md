@@ -1,6 +1,6 @@
 # TBA - Rinse Natural Wine
 
-TBA - Rinse Natural Wine is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Rinse: House Party" on Sat, 26 Sept 2026.
+TBA - Rinse Natural Wine is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Rinse: House Party" on Sat, 26 Sept 2026.
 
 TBA - Rinse Natural Wine is a music venue in Leeds listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Rinse Natural Wine is a music venue in Leeds listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Rinse: House Party |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-rinse-natural-wine/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/tba-rinse-natural-wine/)*

@@ -1,6 +1,6 @@
 # Astroboii
 
-Astroboii is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
+Astroboii is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
 
 Astroboii is a techno and electronica artist tracked on soundcheck, with 45 sets logged across Berlin and Mexicocity. Often billed alongside Niño Arbol, Cybebe and Octoptic. Next up: YuYu Cine Club, Mexicocity on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Astroboii is a techno and electronica artist tracked on soundcheck, with 45 sets
 
 Niño Arbol, Cybebe, Octoptic
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astroboii/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astroboii/)*

@@ -1,14 +1,13 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Madame Claude's Experimontag" on Mon, 21 Sept 2026.
+Madame Claude is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DJ Night with Dj Emmanuelle 5" on Fri, 25 Sept 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Devin Gray, dOctOr doms, Dr. Sud and Emmanuelle 5 and 2 more. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Devin Gray, dOctOr doms, Dr. Sud and Emmanuelle 5 and 2 more. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | Madame Claude's Experimontag | M Love |
 | Fri, 25 Sept 2026 | DJ Night with Dj Emmanuelle 5 | Emmanuelle 5 |
 | Sat, 26 Sept 2026 | DJ Night with Poko Cox |  |
 | Mon, 28 Sept 2026 | Madame Claude's Experimontag |  |
@@ -18,9 +17,10 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 11 upcoming gigs,
 | Mon, 5 Oct 2026 | Madame Claude's Experimontag |  |
 | Sat, 10 Oct 2026 | AkA + Bleedingblackwood + Sugartin + Rheinkalk (DJ-Set) - TAG DER CLUBKULTUR Festival Week |  |
 | Mon, 12 Oct 2026 | Devin Gray's Most Definitely |  |
+| Mon, 12 Oct 2026 | 5e7h vs Bastard Science + Devin Gray + Mi Cosa de Resistance + DJ Troy Mytea | Devin Gray |
 
 ## Address
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

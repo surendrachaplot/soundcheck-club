@@ -1,13 +1,14 @@
 # Deetres (ES)
 
-Deetres (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Le Club Igualada, Barcelona on Fri, 9 Oct 2026.
+Deetres (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Noxe Barcelona, Barcelona on Wed, 7 Oct 2026.
 
-Deetres (ES) is a house and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam and Barcelona. Often billed alongside Boys Don't Disco, CJ Posada and Cris Herrera. Next up: Le Club Igualada, Barcelona on Fri 9 Oct.
+Deetres (ES) is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam and Barcelona. Often billed alongside Alex Silva, Boys Don't Disco and CJ Posada. Next up: Noxe Barcelona, Barcelona on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 7 Oct 2026 | Noxe Barcelona | Barcelona |
 | Fri, 9 Oct 2026 | Le Club Igualada | Barcelona |
 
 ## Recently played
@@ -20,6 +21,6 @@ Deetres (ES) is a house and techno artist tracked on soundcheck, with 6 sets log
 
 ## Shares bills with
 
-Boys Don't Disco, CJ Posada, Cris Herrera
+Alex Silva, Boys Don't Disco, CJ Posada
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetreses/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetreses/)*

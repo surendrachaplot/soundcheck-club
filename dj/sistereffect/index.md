@@ -1,6 +1,6 @@
 # Sister Effect
 
-Sister Effect is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
+Sister Effect is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
 
 Sister Effect is a techno and electronica artist tracked on soundcheck, with 45 sets logged across Belgrade, Berlin, Bristol and Lisbon and 4 more. Often billed alongside Brillante, Katatonic Silentio and Amanita. Next up: OXI, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sister Effect is a techno and electronica artist tracked on soundcheck, with 45 
 
 Brillante, Katatonic Silentio, Amanita
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistereffect/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistereffect/)*

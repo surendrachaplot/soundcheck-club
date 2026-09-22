@@ -1,6 +1,6 @@
 # Joe Fro
 
-Joe Fro is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
+Joe Fro is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Joe Fro is a house and acid artist tracked on soundcheck, with 17 sets logged across Sanfrancisco. Often billed alongside Anderson Chase, Louiv and Combover. Next up: Underground SF, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Joe Fro is a house and acid artist tracked on soundcheck, with 17 sets logged ac
 
 Anderson Chase, Louiv, Combover
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joefro/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joefro/)*

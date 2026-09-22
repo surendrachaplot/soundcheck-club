@@ -1,13 +1,14 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Mexico City on Sat, 10 Oct 2026.
 
-Mystery Affair is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and Villaseñor. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Mystery Affair is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and Villaseñor. Next up: TBA, Mexicocity on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA | Mexico City |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mystery Affair is a house and techno artist tracked on soundcheck, with 97 sets 
 
 Ursula Prawn, Portugal, Villaseñor
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

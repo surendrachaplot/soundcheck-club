@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ORCHESTRE TOUT PUISSANT MARCEL DUCHAMP live" on Fri, 25 Sept 2026.
+KC Grad is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "ORCHESTRE TOUT PUISSANT MARCEL DUCHAMP live" on Fri, 25 Sept 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with line-ups including Paluma Sound and Shaolin Cowboy. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -16,4 +16,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

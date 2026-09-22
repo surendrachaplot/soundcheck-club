@@ -1,6 +1,6 @@
 # Sid Vaga
 
-Sid Vaga is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at MAD Radio NYC, New York City on Thu, 24 Sept 2026.
+Sid Vaga is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at MAD Radio NYC, New York City on Thu, 24 Sept 2026.
 
 Sid Vaga is a house and afro house artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Chris Love, KANZE and Nickodemus. Next up: MAD Radio NYC, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Sid Vaga is a house and afro house artist tracked on soundcheck, with 13 sets lo
 
 Chris Love, KANZE, Nickodemus
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidvaga/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidvaga/)*

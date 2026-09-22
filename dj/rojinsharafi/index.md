@@ -1,6 +1,6 @@
 # Rojin Sharafi
 
-Rojin Sharafi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Coco Bar Vienna, Vienna on Thu, 24 Sept 2026.
+Rojin Sharafi is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Coco Bar Vienna, Vienna on Thu, 24 Sept 2026.
 
 Rojin Sharafi is an experimental and electronica artist based in Austria, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Brussels and Budapest and 6 more. Often billed alongside Ale Hop, Electric Indigo and Jasmine Guffond. Next up: Coco Bar Vienna, Vienna on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Rojin Sharafi is an experimental and electronica artist based in Austria, tracke
 
 Ale Hop, Electric Indigo, Jasmine Guffond
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rojinsharafi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rojinsharafi/)*

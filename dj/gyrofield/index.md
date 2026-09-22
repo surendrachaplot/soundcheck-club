@@ -1,8 +1,8 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
+gyrofield is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
-gyrofield is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside DjRUM, Mala and KAVARI. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
+gyrofield is a drum & bass and bass artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside DjRUM, Mala and KAVARI. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 73 sets l
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 6 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 28 Nov 2026 | EartH | London |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 73 sets l
 
 DjRUM, Mala, KAVARI
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

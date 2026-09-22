@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Magico all night long" on Wed, 23 Sept 2026.
+Modeci is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Magico all night long" on Wed, 23 Sept 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including BASKERVILLE, Chae, DJ yesyes and DWIGHT and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -17,4 +17,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Traumer. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 235 sets logg
 
 Josh Baker, Enzo Siragusa, Traumer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

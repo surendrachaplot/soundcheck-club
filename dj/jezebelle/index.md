@@ -1,14 +1,15 @@
 # Jezebelle
 
-Jezebelle is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
+Jezebelle is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
 
-Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin, London and Saopaulo. Often billed alongside Aquamarine, Izzi and inda Flo. Next up: Ballroom at Palais, London on Fri 25 Sept.
+Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, London and Saopaulo. Often billed alongside Aquamarine, ANNX and Izzi. Next up: Ballroom at Palais, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Ballroom at Palais | London |
+| Sun, 4 Oct 2026 | Sauna Social Club | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jezebelle is a techno and bass artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Aquamarine, Izzi, inda Flo
+Aquamarine, ANNX, Izzi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebelle/)*

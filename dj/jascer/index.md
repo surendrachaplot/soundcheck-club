@@ -1,8 +1,8 @@
 # Jascer
 
-Jascer is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OIL Club, Shenzhen on Sat, 26 Sept 2026.
+Jascer is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OIL Club, Shenzhen on Sat, 26 Sept 2026.
 
-Jascer is a techno and electro artist tracked on soundcheck, with 73 sets logged across Hongkong and Shenzhen. Often billed alongside Sirens, mingo and DJ 86. Next up: OIL Club, Shenzhen on Sat 26 Sept.
+Jascer is a techno and electro artist tracked on soundcheck, with 74 sets logged across Hongkong and Shenzhen. Often billed alongside Sirens, mingo and DJ 86. Next up: OIL Club, Shenzhen on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jascer is a techno and electro artist tracked on soundcheck, with 73 sets logged
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | OIL Club | Shenzhen |
 | Fri, 16 Oct 2026 | OIL Club | Shenzhen |
+| Sat, 24 Oct 2026 | OIL Club | Shenzhen |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -27,4 +28,4 @@ Jascer is a techno and electro artist tracked on soundcheck, with 73 sets logged
 
 Sirens, mingo, DJ 86
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*

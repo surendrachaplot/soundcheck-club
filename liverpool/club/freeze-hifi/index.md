@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Freeze HiFi presents Greg Wilson & Todd Terry" on Wed, 23 Sept 2026.
+Freeze HiFi is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Freeze HiFi presents Greg Wilson & Todd Terry" on Wed, 23 Sept 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Graeme Park, Greg Wilson, K-Klass and Subcisco and 1 more. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -18,4 +18,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs,
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

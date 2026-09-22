@@ -1,8 +1,8 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Deli Girls" on Wed, 23 Sept 2026.
+Ormside Projects is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Deli Girls" on Wed, 23 Sept 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Angel D'lite, Appleblim, Authentically Plastic and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

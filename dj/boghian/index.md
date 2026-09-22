@@ -1,6 +1,6 @@
 # Boghian
 
-Boghian is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Boghian is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Boghian is a minimal and house artist tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside Adam Bogdan, demenz and Michelle Mavris. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Boghian is a minimal and house artist tracked on soundcheck, with 6 sets logged 
 
 Adam Bogdan, demenz, Michelle Mavris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boghian/)*

@@ -1,6 +1,6 @@
 # Safia (2)
 
-Safia (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Thu, 15 Oct 2026.
+Safia (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Thu, 15 Oct 2026.
 
 Safia (2) is a techno and electronica artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Irazu, Jakka and SERNA. Next up: Cadavra, Madrid on Thu 15 Oct.
 
@@ -23,4 +23,4 @@ Safia (2) is a techno and electronica artist based in Spain, tracked on soundche
 
 Irazu, Jakka, SERNA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safia-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safia-2/)*

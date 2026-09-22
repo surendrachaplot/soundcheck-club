@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Riktus with Shogun (Usa / Portugal Debut)" on Thu, 24 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Riktus with Shogun (Usa / Portugal Debut)" on Thu, 24 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including aalice, Anastasiya Ty, ANÍBAL and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -20,4 +20,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

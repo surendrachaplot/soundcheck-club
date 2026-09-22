@@ -1,6 +1,6 @@
 # Bruno Curtis
 
-Bruno Curtis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Harbour Music Shelter, Lisbon on Sun, 27 Sept 2026.
+Bruno Curtis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Harbour Music Shelter, Lisbon on Sun, 27 Sept 2026.
 
 Bruno Curtis is a house and techno artist tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside Kee_ko, Jorge Caiado and Kaesar. Next up: Harbour Music Shelter, Lisbon on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Bruno Curtis is a house and techno artist tracked on soundcheck, with 13 sets lo
 
 Kee_ko, Jorge Caiado, Kaesar
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocurtis/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunocurtis/)*

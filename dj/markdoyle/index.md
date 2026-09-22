@@ -1,6 +1,6 @@
 # Mark Doyle
 
-Mark Doyle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Radisson Red Sky Bar, Glasgow on Fri, 18 Dec 2026.
+Mark Doyle is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Radisson Red Sky Bar, Glasgow on Fri, 18 Dec 2026.
 
 Mark Doyle is a house and disco artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Glasgow, Newcastle, Sheffield and Sydney and 2 more. Often billed alongside Suki Soul, Christy and Cj Cooper. Next up: Radisson Red Sky Bar, Glasgow on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mark Doyle is a house and disco artist based in United Kingdom, tracked on sound
 
 Suki Soul, Christy, Cj Cooper
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markdoyle/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markdoyle/)*

@@ -1,6 +1,6 @@
 # The Ship Mortlake
 
-The Ship Mortlake is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Allotment Audio" on Sat, 3 Oct 2026.
+The Ship Mortlake is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Allotment Audio" on Sat, 3 Oct 2026.
 
 The Ship Mortlake is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ The Ship Mortlake is a music venue in London listed on soundcheck. 2 upcoming gi
 | Sat, 3 Oct 2026 | Allotment Audio |  |
 | Sat, 3 Oct 2026 | ALLOTMENT AUDIO AT THE SHIP MORTLAKE |  |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ship-mortlake/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ship-mortlake/)*

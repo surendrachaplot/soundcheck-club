@@ -1,6 +1,6 @@
 # Bop
 
-Bop is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Paramour, Brussels on Fri, 9 Oct 2026.
+Bop is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paramour, Brussels on Fri, 9 Oct 2026.
 
 Bop is a drum & bass and jungle artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brighton and Brussels and 2 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Paramour, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bop is a drum & bass and jungle artist tracked on soundcheck, with 27 sets logge
 
 Synkro, London Elektricity, Nu:Tone
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bop/)*

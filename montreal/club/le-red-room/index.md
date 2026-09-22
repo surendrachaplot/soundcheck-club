@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "5:14 Sessions with AliK2 [All Night Long]" on Tue, 22 Sept 2026.
+Le Red Room is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "5:14 Sessions with AliK2 [All Night Long]" on Tue, 22 Sept 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including AliK2, Baby Bimbo, DJ RURU and Guillaume Michaud and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -23,4 +23,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 10 upcoming gigs,
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

@@ -1,8 +1,8 @@
 # Docks
 
-Docks is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Parra for Cuva" on Tue, 29 Sept 2026.
+Docks is a music venue in Hamburg with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Parra for Cuva" on Tue, 29 Sept 2026.
 
-Docks is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Alfred Heinrichs, Lekkerfaces, NTO and Parra for Cuva and 2 more. Browse upcoming dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
+Docks is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with line-ups including Alfred Heinrichs, Iorie, Lekkerfaces and Nina Hepburn and 2 more. Browse upcoming dates, start times and who's playing. Spielbudenplatz 19, 20359 Hamburg.
 
 ## What's on
 
@@ -13,7 +13,7 @@ Docks is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with li
 | Sat, 10 Oct 2026 | IAM WHO IAM - Alfred Heinrichs Live @ Docks Hamburg | Alfred Heinrichs |
 | Fri, 23 Oct 2026 | Lekkerfaces pres. Hyper & The Dark Horror | Lekkerfaces, The Dark Horror, Yoshiko |
 | Fri, 6 Nov 2026 | BOOM ROOM with Somewhen | Somewhen |
-| Sat, 7 Nov 2026 | 7 Vibes Journey in Hamburg |  |
+| Sat, 7 Nov 2026 | 7 Vibes Journey in Hamburg | Iorie, Nina Hepburn, SUZé |
 | Fri, 13 Nov 2026 | MISS K8 - ALL NIGHT LONG |  |
 | Fri, 27 Nov 2026 | Vertile - Everything Changes |  |
 | Fri, 4 Dec 2026 | Rooler |  |
@@ -22,4 +22,4 @@ Docks is a music venue in Hamburg listed on soundcheck. 9 upcoming gigs, with li
 
 Spielbudenplatz 19, 20359 Hamburg, Hamburg
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/docks/)*

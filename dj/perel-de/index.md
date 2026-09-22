@@ -1,6 +1,6 @@
 # Perel
 
-Perel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Perel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Perel is a house and techno artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Tiga, Erol Alkan and VTSS. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Perel is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Tiga, Erol Alkan, VTSS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perel-de/)*

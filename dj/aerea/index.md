@@ -1,8 +1,8 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at control, Bucharest on Fri, 25 Sept 2026.
+AEREA is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at control, Bucharest on Fri, 25 Sept 2026.
 
-AEREA is a techno and trance artist tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: control, Bucharest on Fri 25 Sept.
+AEREA is a techno and trance artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: control, Bucharest on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AEREA is a techno and trance artist tracked on soundcheck, with 64 sets logged a
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | control | Bucharest |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
+| Sat, 10 Oct 2026 | Mdlr | Singapore |
 | Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | The Ivy | Sydney |
 | Fri, 23 Oct 2026 | Uebel & Gefährlich | Hamburg |
@@ -19,7 +20,6 @@ AEREA is a techno and trance artist tracked on soundcheck, with 64 sets logged a
 | Thu, 12 Nov 2026 | Tigres de la Noche | Washington DC |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 | Sat, 14 Nov 2026 | Substation | Seattle |
-| Sat, 21 Nov 2026 | TBA - Warehouse | Toronto |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist tracked on soundcheck, with 64 sets logged a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

@@ -1,6 +1,6 @@
 # Anthea
 
-Anthea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Anthea is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
 Anthea is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Anthea is a house and techno artist tracked on soundcheck, with 170 sets logged 
 
 tINI, Oshana, Astral Travel
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

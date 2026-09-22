@@ -1,6 +1,6 @@
 # Atomlui
 
-Atomlui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Frappant, Hamburg on Sat, 3 Oct 2026.
+Atomlui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Frappant, Hamburg on Sat, 3 Oct 2026.
 
 Atomlui is a techno and house artist tracked on soundcheck, with 17 sets logged across Berlin and Hamburg. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Frappant, Hamburg on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Atomlui is a techno and house artist tracked on soundcheck, with 17 sets logged 
 
 Antoine Baiser, Bombe, John Joses
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*

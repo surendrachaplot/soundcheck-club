@@ -1,6 +1,6 @@
 # Yulia Kasa
 
-Yulia Kasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 25 Sept 2026.
+Yulia Kasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 25 Sept 2026.
 
 Yulia Kasa is a techno and house artist based in Australia, tracked on soundcheck, with 27 sets logged across Berlin and Melbourne. Often billed alongside ALIEN-A, CAITY WATSON and WISER. Next up: Sub Club Melbourne, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Yulia Kasa is a techno and house artist based in Australia, tracked on soundchec
 
 ALIEN-A, CAITY WATSON, WISER
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuliakasa/)*

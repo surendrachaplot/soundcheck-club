@@ -1,6 +1,6 @@
 # Duke Of Tokyo
 
-Duke Of Tokyo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "select bookings X TTA " on Wed, 21 Oct 2026.
+Duke Of Tokyo is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "select bookings X TTA " on Wed, 21 Oct 2026.
 
 Duke Of Tokyo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Arnout, ARYA (3), BAY-BUSH-KA and Better Late and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 37, 1017 BK Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Duke Of Tokyo is a music venue in Amsterdam listed on soundcheck. 3 upcoming gig
 
 Reguliersdwarsstraat 37, 1017 BK Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/duke-of-tokyo/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/duke-of-tokyo/)*

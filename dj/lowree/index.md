@@ -1,6 +1,6 @@
 # Lowree
 
-Lowree is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
+Lowree is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
 
 Lowree is a house and garage artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside Fourth Precinct, Macka and DJ Bz. Next up: La Cheetah Club, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Lowree is a house and garage artist based in United Kingdom, tracked on soundche
 
 Fourth Precinct, Macka, DJ Bz
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowree/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowree/)*

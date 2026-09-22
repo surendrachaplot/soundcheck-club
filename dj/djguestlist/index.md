@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
+DJ GUESTLIST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
 DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 128 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

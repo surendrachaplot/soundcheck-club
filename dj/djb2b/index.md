@@ -1,15 +1,17 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Harlem, Tokyo on Wed, 23 Sept 2026.
+DJ B2B is a Hip-Hop and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Harlem, Tokyo on Wed, 23 Sept 2026.
 
-DJ B2B is a hip-hop and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Harlem, Tokyo on Wed 23 Sept.
+DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Harlem, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Harlem | Tokyo |
+| Thu, 1 Oct 2026 | Bonobo | Tokyo |
 | Fri, 2 Oct 2026 | RADION | Amsterdam |
+| Sat, 14 Nov 2026 | IT Athens | Athens |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ DJ B2B is a hip-hop and house artist tracked on soundcheck, with 210 sets logged
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

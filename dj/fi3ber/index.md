@@ -1,6 +1,6 @@
 # FI3BER
 
-FI3BER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
+FI3BER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
 FI3BER is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Anne-Lu, LEAN MARIS and DJ Semisecco. Next up: ://about blank, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ FI3BER is a techno and house artist tracked on soundcheck, with 12 sets logged a
 
 Anne-Lu, LEAN MARIS, DJ Semisecco
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3ber/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3ber/)*

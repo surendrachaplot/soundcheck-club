@@ -1,15 +1,17 @@
 # oulcan
 
-oulcan is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Süss War Gestern, Berlin on Sat, 7 Nov 2026.
+oulcan is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 1 Oct 2026.
 
-oulcan is a house and acid artist tracked on soundcheck, with 37 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Süss War Gestern, Berlin on Sat 7 Nov.
+oulcan is a house and club artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Bulbul Berlin, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Bulbul Berlin | Berlin |
 | Sat, 7 Nov 2026 | Süss War Gestern | Berlin |
 | Thu, 19 Nov 2026 | Crack Bellmer | Berlin |
+| Fri, 27 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ oulcan is a house and acid artist tracked on soundcheck, with 37 sets logged acr
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

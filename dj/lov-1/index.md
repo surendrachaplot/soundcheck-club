@@ -1,6 +1,6 @@
 # LOV (1)
 
-LOV (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+LOV (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
 LOV (1) is a techno and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Brussels, Ghent and London. Often billed alongside 131bpm, 1000raks and ASHTREY. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ LOV (1) is a techno and house artist based in Italy, tracked on soundcheck, with
 
 131bpm, 1000raks, ASHTREY
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lov-1/)*

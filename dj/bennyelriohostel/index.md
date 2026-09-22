@@ -1,6 +1,6 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 25 Sept 2026.
+Benny (El Rio Hostel) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 25 Sept 2026.
 
 Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Adi (CO), Barbaros and David Lenk. Next up: Cobalt Studios, Newcastle on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 
 Adi (CO), Barbaros, David Lenk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "DE DANSVLOER / kimmah (all night long)" on Thu, 24 Sept 2026.
+NAR is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DE DANSVLOER / kimmah (all night long)" on Thu, 24 Sept 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, with line-ups including EYCEE, I-F, Itz3bby and kimmah and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -17,4 +17,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, with line
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

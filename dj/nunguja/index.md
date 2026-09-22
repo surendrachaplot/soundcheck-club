@@ -1,6 +1,6 @@
 # nunguja
 
-nunguja is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+nunguja is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 nunguja is an experimental and club artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Frankfurt and Helsinki and 10 more. Often billed alongside Bill Kouligas, Tzusing and upsammy. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ nunguja is an experimental and club artist based in Germany, tracked on soundche
 
 Bill Kouligas, Tzusing, upsammy
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*

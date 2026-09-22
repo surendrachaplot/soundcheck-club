@@ -1,6 +1,6 @@
 # Nivk Jane
 
-Nivk Jane is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
+Nivk Jane is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
 
 Nivk Jane is a techno and trance artist based in Greece, tracked on soundcheck, with 38 sets logged across Athens. Often billed alongside CHEX, VSSLS and Avatos. Next up: Romantso, Athens on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Nivk Jane is a techno and trance artist based in Greece, tracked on soundcheck, 
 
 CHEX, VSSLS, Avatos
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nivkjane/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nivkjane/)*

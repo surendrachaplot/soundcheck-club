@@ -1,6 +1,6 @@
 # Eli Kapowski
 
-Eli Kapowski is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
+Eli Kapowski is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
 
 Eli Kapowski is a house and electro artist tracked on soundcheck, with 44 sets logged across Barcelona and Madrid. Often billed alongside Jade Rolt, Dadame and Panpe n' u. Next up: Sunseabar Beach Club, Barcelona on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Eli Kapowski is a house and electro artist tracked on soundcheck, with 44 sets l
 
 Jade Rolt, Dadame, Panpe n' u
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elikapowski/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elikapowski/)*

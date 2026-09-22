@@ -1,6 +1,6 @@
 # calypso
 
-calypso is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Munster Munch, London on Sat, 3 Oct 2026.
+calypso is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Munster Munch, London on Sat, 3 Oct 2026.
 
 calypso is a techno and trance artist tracked on soundcheck, with 7 sets logged across Leipzig and London. Often billed alongside LeNil, Sophia Nicole and AMBAM. Next up: Munster Munch, London on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ calypso is a techno and trance artist tracked on soundcheck, with 7 sets logged 
 
 LeNil, Sophia Nicole, AMBAM
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calypso/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calypso/)*

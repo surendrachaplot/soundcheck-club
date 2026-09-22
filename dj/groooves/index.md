@@ -1,6 +1,6 @@
 # Groooves
 
-Groooves is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
+Groooves is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
 
 Groooves is a house and electro artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, Leeds, London and Manchester. Often billed alongside Cam Harrop, Quinlan and Redshift (2). Next up: XLR, Manchester on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Groooves is a house and electro artist based in United Kingdom, tracked on sound
 
 Cam Harrop, Quinlan, Redshift (2)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groooves/)*

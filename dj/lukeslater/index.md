@@ -1,8 +1,8 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
+Luke Slater is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
 
-Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
+Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 | Sat, 7 Nov 2026 | E1 | London |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
 | Sat, 21 Nov 2026 | not/or/ius Club | Turin |
+| Fri, 27 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 JakoJako, Rene Wise, Steffi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeslater/)*

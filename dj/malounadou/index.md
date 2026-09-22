@@ -1,8 +1,8 @@
 # Malounadou
 
-Malounadou is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Malounadou is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
-Malounadou is a tech house and club artist based in Germany, tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside Rayya, Anna Ullrich and Atsuo the Pineapple Donkey. Next up: Funkhaus, Vienna on Sat 3 Oct.
+Malounadou is a house and club artist based in Germany, tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside Rayya, Anna Ullrich and Atsuo the Pineapple Donkey. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Malounadou is a tech house and club artist based in Germany, tracked on soundche
 
 Rayya, Anna Ullrich, Atsuo the Pineapple Donkey
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malounadou/)*

@@ -1,8 +1,8 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "MEGABRESH" on Sat, 26 Sept 2026.
+Fabrik is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MEGABRESH" on Sat, 26 Sept 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Clap, Alex T (UK), Anthony Godfather (2) and Arnaud Le Texier and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Paolo Ferrara, Alex Clap, Alex T (UK) and Alienata and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Fabrik is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 17 Oct 2026 | LA RESISTENCIA - Lethal industry | Brenda Serna (2), Carlos Pérez, Cristian Varela, Gaston Zani, H1pnos1s, K-Style, Pastis & Buenri |
 | Sat, 24 Oct 2026 | 150 by Fabrik - October 2026 Edition | BLNK, Dimitri K, Dual Damage, Ender, KRUELTY, Major Conspiracy, Noxiouz, Pinotello, Satirized, The Dark Horror, Unload, Yoshiko |
 | Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | Anthony Godfather (2), CESAR ALMENA, Charlotte de Witte, Dany Gómez, Darius Syrossian, Detlef, In Verruf, Inox Traxx, Joey Daniel, Nastia, Nuke, Seb Zito, Supergloss, Svetec, future.666 |
-| Sat, 14 Nov 2026 | CODE 23 Anniversary: La Trilogía [Part II] | Freddy K, Grace Dahl, Héctor Oaks, Onlynumbers |
+| Sat, 14 Nov 2026 | CODE 23 Anniversary: La Trilogía [Part II] | Alienata, BIIA, BLANKA, Boris S., CESAR ALMENA, CRAVO, David Meiser, Efdemin, Frank Kvitta, Freddy K, Grace Dahl, Héctor Oaks, Insolate, Marcal, Mario Ranieri, Nuke, Onlynumbers, PETDuo, Paolo Ferrara, Parfait, Polygonia, Rebecca Delle Piane, Rebekah, Temudo, franck |
 | Sat, 21 Nov 2026 | 150 with Dimitri Vegas in Fabrik |  |
 
 ## Address
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

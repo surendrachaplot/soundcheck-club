@@ -1,8 +1,8 @@
 # Dusky
 
-Dusky is a House and Techno artist with 22 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Dusky is a House and Techno artist with 23 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Dusky is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 34 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Dusky is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 34 more. Often billed alongside Dan Shake, Denham Audio and Junior Simba. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dusky is a house and techno artist tracked on soundcheck, with 100 sets logged a
 | Fri, 2 Oct 2026 | Elsewhere | New York City |
 | Sat, 3 Oct 2026 | Newspeak | Montreal |
 | Fri, 9 Oct 2026 | Tigres de la Noche | Washington DC |
+| Sat, 10 Oct 2026 | Prysm Nightclub | Chicago |
 | Sun, 11 Oct 2026 | Standard Time | Toronto |
 | Fri, 16 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 17 Oct 2026 | Hangar 34 | Liverpool |
@@ -19,7 +20,6 @@ Dusky is a house and techno artist tracked on soundcheck, with 100 sets logged a
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Joshua Brooks | Manchester |
 | Fri, 30 Oct 2026 | Electric Bristol | Bristol |
-| Sat, 31 Oct 2026 | Patterns | Brighton |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist tracked on soundcheck, with 100 sets logged a
 
 Dan Shake, Denham Audio, Junior Simba
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

@@ -1,6 +1,6 @@
 # Electrosexual
 
-Electrosexual is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+Electrosexual is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 Electrosexual is a techno and house artist based in France, tracked on soundcheck, with 36 sets logged across Antwerp, Athens, Berlin and Brussels and 5 more. Often billed alongside Mashyno, cristian zanotti and 2FARO. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Electrosexual is a techno and house artist based in France, tracked on soundchec
 
 Mashyno, cristian zanotti, 2FARO
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electrosexual/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electrosexual/)*

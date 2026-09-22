@@ -1,6 +1,6 @@
 # Alas (2)
 
-Alas (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
+Alas (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OST, Berlin on Sat, 3 Oct 2026.
 
 Alas (2) is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Pasat, JADA MORAES and Cleopard2000. Next up: OST, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Alas (2) is a house and techno artist tracked on soundcheck, with 9 sets logged 
 
 Pasat, JADA MORAES, Cleopard2000
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*

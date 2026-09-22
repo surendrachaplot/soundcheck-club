@@ -1,14 +1,15 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Elijah Something is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
-Elijah Something is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Leeds and London and 3 more. Often billed alongside Cassette, Litmus and Caleb Jackson. Next up: The Ivy, Sydney on Sun 4 Oct.
+Elijah Something is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Leeds and London and 3 more. Often billed alongside Cassette, Litmus and Caleb Jackson. Next up: The Ivy, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | The Ivy | Sydney |
+| Sat, 24 Oct 2026 | The Lass O'Gowrie Hotel | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elijah Something is a house and techno artist tracked on soundcheck, with 46 set
 
 Cassette, Litmus, Caleb Jackson
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*

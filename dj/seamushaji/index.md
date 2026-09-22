@@ -1,14 +1,15 @@
 # Seamus Haji
 
-Seamus Haji is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - 6th St Bridge, Los Angeles on Fri, 25 Sept 2026.
+Seamus Haji is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - 6th St Bridge, Los Angeles on Fri, 25 Sept 2026.
 
-Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: TBA - 6th St Bridge, Losangeles on Fri 25 Sept.
+Seamus Haji is a house and disco artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 12 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Roger Sanchez. Next up: TBA - 6th St Bridge, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - 6th St Bridge | Los Angeles |
+| Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seamus Haji is a house and disco artist tracked on soundcheck, with 48 sets logg
 
 Melvo Baptiste, Horse Meat Disco, Roger Sanchez
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seamushaji/)*

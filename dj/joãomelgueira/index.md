@@ -1,6 +1,6 @@
 # João Melgueira
 
-João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at o Bom, o Mau e o Vilão, Lisbon on Fri, 25 Sept 2026.
+João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at o Bom, o Mau e o Vilão, Lisbon on Fri, 25 Sept 2026.
 
 João Melgueira is a techno and house artist based in Portugal, tracked on soundcheck, with 138 sets logged across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: o Bom, o Mau e o Vilão, Lisbon on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ João Melgueira is a techno and house artist based in Portugal, tracked on sound
 
 Vitor Domingos, Paixão, FURAVIA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*

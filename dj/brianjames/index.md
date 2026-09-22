@@ -1,6 +1,6 @@
 # Brian James
 
-Brian James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Liquid Club, Malta on Fri, 16 Oct 2026.
+Brian James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Liquid Club, Malta on Fri, 16 Oct 2026.
 
 Brian James is a techno and house artist tracked on soundcheck, with 5 sets logged across Malta. Often billed alongside Owen Jay, Anthea and BENGY. Next up: Liquid Club, Malta on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Brian James is a techno and house artist tracked on soundcheck, with 5 sets logg
 
 Owen Jay, Anthea, BENGY
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brianjames/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brianjames/)*

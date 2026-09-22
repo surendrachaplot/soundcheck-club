@@ -1,8 +1,8 @@
 # Dshanna
 
-Dshanna is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
+Dshanna is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
 
-Dshanna is a techno and electro artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Chicago. Often billed alongside Julez (live), Dr. Spree and Eira. Next up: Void Club, Berlin on Sat 10 Oct.
+Dshanna is a techno and electro artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Chicago. Often billed alongside Julez (live), Jessica Kert and Dr. Spree. Next up: Void Club, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dshanna is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Julez (live), Dr. Spree, Eira
+Julez (live), Jessica Kert, Dr. Spree
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*

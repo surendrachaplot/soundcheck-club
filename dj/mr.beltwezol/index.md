@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
 
 Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 50 s
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

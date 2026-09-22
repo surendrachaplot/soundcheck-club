@@ -1,8 +1,8 @@
 # Swimming Paul
 
-Swimming Paul is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Loo Loo, Mexico City on Sat, 3 Oct 2026.
+Swimming Paul is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Loo Loo, Mexico City on Sat, 3 Oct 2026.
 
-Swimming Paul is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Loo Loo, Mexicocity on Sat 3 Oct.
+Swimming Paul is a house and garage artist tracked on soundcheck, with 64 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Loo Loo, Mexicocity on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Swimming Paul is a house and techno artist tracked on soundcheck, with 63 sets l
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 7 Nov 2026 | Zoom Club | Frankfurt |
 | Fri, 13 Nov 2026 | Schrotty | Cologne |
+| Fri, 27 Nov 2026 | Circolo Magnolia | Milan |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Swimming Paul is a house and techno artist tracked on soundcheck, with 63 sets l
 
 OGUZ, Alex Wann, Beltran
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*

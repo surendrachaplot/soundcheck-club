@@ -1,6 +1,6 @@
 # Titan Xyphos Complex
 
-Titan Xyphos Complex is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Hard Queens #3" on Fri, 25 Sept 2026.
+Titan Xyphos Complex is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hard Queens #3" on Fri, 25 Sept 2026.
 
 Titan Xyphos Complex is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Glaskeen, Lady Dammage, Plume and uphoria. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Titan Xyphos Complex is a music venue in Lyon listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Hard Queens #3 | Glaskeen, Lady Dammage, Plume, uphoria |
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/titan-xyphos-complex/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/titan-xyphos-complex/)*

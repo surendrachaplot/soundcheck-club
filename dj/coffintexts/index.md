@@ -1,13 +1,14 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
 
-Coffintexts is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Coffintexts is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Smoke & Mirrors, Chicago on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Smoke & Mirrors | Chicago |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 6 Nov 2026 | TBA | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - Private Location | Vancouver |
@@ -27,4 +28,4 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 129 sets lo
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

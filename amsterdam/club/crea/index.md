@@ -1,6 +1,6 @@
 # CREA
 
-CREA is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "ZU HAUSE at ADE" on Thu, 22 Oct 2026.
+CREA is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "ZU HAUSE at ADE" on Thu, 22 Oct 2026.
 
 CREA is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including aksendo, Jana Vitiligo, Judoc and Kevin Kinembe and 2 more. Browse upcoming dates, start times and who's playing. Nieuwe Achtergracht 170; 1018 WV Amsterdam; The Netherlands.
 
@@ -15,4 +15,4 @@ CREA is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with l
 
 Nieuwe Achtergracht 170; 1018 WV Amsterdam; The Netherlands, Amsterdam
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crea/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/crea/)*

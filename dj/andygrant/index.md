@@ -1,6 +1,6 @@
 # Andy Grant
 
-Andy Grant is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
+Andy Grant is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
 
 Andy Grant is a house and deep house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Detroit, Glasgow and Washingtondc. Often billed alongside Katrina Mir, DJ Soul (US) and Rob Da Rhythm. Next up: Flash, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Andy Grant is a house and deep house artist based in United States of America, t
 
 Katrina Mir, DJ Soul (US), Rob Da Rhythm
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andygrant/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andygrant/)*

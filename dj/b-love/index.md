@@ -1,8 +1,8 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Outer Heaven, New York City on Fri, 25 Sept 2026.
+B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Outer Heaven, New York City on Fri, 25 Sept 2026.
 
-B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 15 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Outer Heaven, Newyorkcity on Fri 25 Sept.
+B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 15 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Outer Heaven, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Outer Heaven | New York City |
 | Sat, 26 Sept 2026 | Arcana | San Francisco/Oakland |
+| Thu, 8 Oct 2026 | feedbk | New York City |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Top Floor | Newcastle |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -31,4 +32,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

@@ -1,6 +1,6 @@
 # NOSTÆ ox
 
-NOSTÆ ox is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cross Club, Prague on Thu, 1 Oct 2026.
+NOSTÆ ox is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cross Club, Prague on Thu, 1 Oct 2026.
 
 NOSTÆ ox is a drum & bass and dub artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside Segment. Next up: Cross Club, Prague on Thu 1 Oct.
 
@@ -19,4 +19,4 @@ NOSTÆ ox is a drum & bass and dub artist based in Czech Republic, tracked on so
 
 Segment
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nostæox/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nostæox/)*

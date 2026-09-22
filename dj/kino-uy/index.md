@@ -1,14 +1,15 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at WOMB, Tokyo on Fri, 25 Sept 2026.
+KINO (UY) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at WOMB, Tokyo on Fri, 25 Sept 2026.
 
-KINO (UY) is a techno and house artist based in Uruguay, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside EMilio (2), DJ Masda and Nico Etorena. Next up: WOMB, Tokyo on Fri 25 Sept.
+KINO (UY) is a techno and house artist based in Uruguay, tracked on soundcheck, with 52 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside EMilio (2), DJ Masda and Nico Etorena. Next up: WOMB, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | WOMB | Tokyo |
+| Fri, 16 Oct 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KINO (UY) is a techno and house artist based in Uruguay, tracked on soundcheck, 
 
 EMilio (2), DJ Masda, Nico Etorena
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*

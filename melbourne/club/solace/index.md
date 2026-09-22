@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 13 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Free. Live. Music // Jazz Upstairs" on Wed, 23 Sept 2026.
+Solace is a music venue in Melbourne with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Free. Live. Music // Jazz Upstairs" on Wed, 23 Sept 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming gigs, with line-ups including Ari (AU), Cousin, D-Grade and DJ Possum and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -23,4 +23,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 13 upcoming gigs, wit
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

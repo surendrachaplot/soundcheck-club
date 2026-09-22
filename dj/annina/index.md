@@ -1,13 +1,14 @@
 # Annina
 
-Annina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 10 Oct 2026.
+Annina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Gate, Berlin on Sat, 3 Oct 2026.
 
-Annina is a house and techno artist based in Germany, tracked on soundcheck, with 107 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Scoopsi, Papa K and Jonaku (DE). Next up: TBA - Secret Location, Berlin on Sat 10 Oct.
+Annina is a house and techno artist based in Germany, tracked on soundcheck, with 108 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Scoopsi, Papa K and Jonaku (DE). Next up: Golden Gate, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Golden Gate | Berlin |
 | Sat, 10 Oct 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Annina is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Scoopsi, Papa K, Jonaku (DE)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annina/)*

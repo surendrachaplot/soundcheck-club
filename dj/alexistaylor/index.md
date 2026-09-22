@@ -1,6 +1,6 @@
 # Alexis Taylor
 
-Alexis Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Alexis Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
 Alexis Taylor is a house and disco artist tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brighton and Cork and 12 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alexis Taylor is a house and disco artist tracked on soundcheck, with 47 sets lo
 
 Erol Alkan, Hot Chip, Mike Simonetti
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*

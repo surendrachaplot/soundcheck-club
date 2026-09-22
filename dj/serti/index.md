@@ -1,14 +1,15 @@
 # Serti
 
-Serti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Serti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
-Serti is a techno and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Newyorkcity, Rotterdam and Utrecht. Often billed alongside Delano Legito, Julie and Anouschka. Next up: TBA, Amsterdam on Sun 27 Sept.
+Serti is a techno and house artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Newyorkcity, Rotterdam and Utrecht. Often billed alongside Delano Legito, Julie and Phase Fatale. Next up: TBA, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | TBA | Amsterdam |
+| Fri, 27 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Serti is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Shares bills with
 
-Delano Legito, Julie, Anouschka
+Delano Legito, Julie, Phase Fatale
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serti/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serti/)*

@@ -1,14 +1,15 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
+Danilo Plessow is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
 
-Danilo Plessow is a house and disco artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Quarters, Brighton on Sat 26 Sept.
+Danilo Plessow is a house and disco artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: Quarters, Brighton on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Quarters | Brighton |
+| Sat, 10 Oct 2026 | Arca | Milan |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Fri, 16 Oct 2026 | Sala Villanos | Madrid |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -28,4 +29,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 165 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

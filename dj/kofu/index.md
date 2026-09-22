@@ -1,6 +1,6 @@
 # KOFU
 
-KOFU is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
+KOFU is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
 
 KOFU is a house and bass artist tracked on soundcheck, with 42 sets logged across Helsinki and Tallinn. Often billed alongside Saint Nia, Katerina and MORA (FI). Next up: Ääniwalli, Helsinki on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KOFU is a house and bass artist tracked on soundcheck, with 42 sets logged acros
 
 Saint Nia, Katerina, MORA (FI)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*

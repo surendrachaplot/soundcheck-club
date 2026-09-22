@@ -1,6 +1,6 @@
 # JustJovani
 
-JustJovani is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 1 Oct 2026.
+JustJovani is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 1 Oct 2026.
 
 JustJovani is a techno and acid artist tracked on soundcheck, with 59 sets logged across Sanfrancisco. Often billed alongside SNAQ, Sandra Mane and Suanni. Next up: F8 1192 Folsom, Sanfrancisco on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ JustJovani is a techno and acid artist tracked on soundcheck, with 59 sets logge
 
 SNAQ, Sandra Mane, Suanni
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*

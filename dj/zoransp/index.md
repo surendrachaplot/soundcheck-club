@@ -1,6 +1,6 @@
 # Zoran
 
-Zoran is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
+Zoran is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
 
 Zoran is a bass and techno artist tracked on soundcheck, with 5 sets logged across Berlin and Cologne. Often billed alongside jass:minute, RAW DJ and fraudoktor.. Next up: Mucha, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Zoran is a bass and techno artist tracked on soundcheck, with 5 sets logged acro
 
 jass:minute, RAW DJ, fraudoktor.
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*

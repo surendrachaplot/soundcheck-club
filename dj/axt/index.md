@@ -1,14 +1,14 @@
 # AXT
 
-AXT is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Warschauer Platz 10245 Berlin, Berlin on Fri, 2 Oct 2026.
+AXT is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
-AXT is a techno and bass artist based in Ukraine, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 5 more. Often billed alongside Andriy K., Andrey Kostyukov and NEW MAGIC MEDIA. Next up: TBA - Warschauer Platz 10245 Berlin, Berlin on Fri 2 Oct.
+AXT is a techno and bass artist based in Ukraine, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Budapest and Hamburg and 5 more. Often billed alongside Andriy K., Andrey Kostyukov and NEW MAGIC MEDIA. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Warschauer Platz 10245 Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ AXT is a techno and bass artist based in Ukraine, tracked on soundcheck, with 68
 
 Andriy K., Andrey Kostyukov, NEW MAGIC MEDIA
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axt/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axt/)*

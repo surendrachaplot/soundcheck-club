@@ -1,13 +1,14 @@
 # Roberto Sotgia
 
-Roberto Sotgia is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Pimpernel, Munich on Tue, 29 Sept 2026.
+Roberto Sotgia is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Xolo, Munich on Sat, 26 Sept 2026.
 
-Roberto Sotgia is a house and electro artist based in Germany, tracked on soundcheck, with 57 sets logged across Munich. Often billed alongside Phil Kamp, Thomas Herb and DJ Hell. Next up: Pimpernel, Munich on Tue 29 Sept.
+Roberto Sotgia is a house and electro artist based in Germany, tracked on soundcheck, with 58 sets logged across Munich. Often billed alongside Phil Kamp, Thomas Herb and DJ Hell. Next up: Xolo, Munich on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Xolo | Munich |
 | Tue, 29 Sept 2026 | Pimpernel | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Roberto Sotgia is a house and electro artist based in Germany, tracked on soundc
 
 Phil Kamp, Thomas Herb, DJ Hell
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertosotgia/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertosotgia/)*

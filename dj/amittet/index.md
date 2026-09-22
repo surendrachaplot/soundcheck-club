@@ -1,6 +1,6 @@
 # AMITTET
 
-AMITTET is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
+AMITTET is a Jungle and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Basement Vesterbro, Copenhagen on Fri, 25 Sept 2026.
 
 AMITTET is a jungle and electro artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside MNSTR, Lixin and Maxi Mo. Next up: Basement Vesterbro, Copenhagen on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ AMITTET is a jungle and electro artist based in Denmark, tracked on soundcheck, 
 
 MNSTR, Lixin, Maxi Mo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amittet/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amittet/)*

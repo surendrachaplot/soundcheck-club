@@ -1,8 +1,8 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Yu Yu Cine Club: Softi, Remille, Seagit Arc" on Fri, 25 Sept 2026.
+YuYu Cine Club is a music venue in Mexico City with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Yu Yu Cine Club: Softi, Remille, Seagit Arc" on Fri, 25 Sept 2026.
 
-YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 9 upcoming gigs, with line-ups including acidheaven, Astroboii, Bastard Love and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 10 upcoming gigs, with line-ups including acidheaven, Astroboii, Bastard Love and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 
@@ -17,9 +17,10 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 9 upcoming g
 | Sat, 17 Oct 2026 | Yu Yu Cine Club: DJ Assault | DJ Assault, Marea Marea, Teen Flirt |
 | Fri, 23 Oct 2026 | Yu Yu Cine Club: D. Tiffany | D. Tiffany, NAP (MX) |
 | Fri, 30 Oct 2026 | Yu Yu Cine Club: TEED | Meilgaarden, TEED |
+| Sat, 31 Oct 2026 | Yu Yu Cine Club: Juan Atkins | Juan Atkins, Maseriche |
 
 ## Address
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

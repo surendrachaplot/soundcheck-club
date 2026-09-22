@@ -1,6 +1,6 @@
 # Luz De Gas
 
-Luz De Gas is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Make The Girls Dance" on Sat, 26 Sept 2026.
+Luz De Gas is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Make The Girls Dance" on Sat, 26 Sept 2026.
 
 Luz De Gas is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Bontan, David Tort, Juany Bravo and Massano. Browse upcoming dates, start times and who's playing. Carrer de Muntaner, 246, 08021 Barcelona.
 
@@ -15,4 +15,4 @@ Luz De Gas is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, 
 
 Carrer de Muntaner, 246, 08021 Barcelona, Barcelona
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/luz-de-gas/)*

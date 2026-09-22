@@ -1,13 +1,14 @@
 # Susi&Paula
 
-Susi&Paula is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
+Susi&Paula is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
-Susi&Paula is a techno and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
+Susi&Paula is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bahnwärter Thiel | Munich |
 | Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
@@ -26,4 +27,4 @@ Susi&Paula is a techno and tech house artist tracked on soundcheck, with 26 sets
 
 JUSTICE (DE), Avocado, Baerbel
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*

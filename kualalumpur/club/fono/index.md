@@ -1,6 +1,6 @@
 # fono
 
-fono is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Dub Tings Pres Rub-A-Dub" on Sat, 10 Oct 2026.
+fono is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Dub Tings Pres Rub-A-Dub" on Sat, 10 Oct 2026.
 
 fono is a music venue in Kualalumpur listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur.
 
@@ -15,4 +15,4 @@ fono is a music venue in Kualalumpur listed on soundcheck. 2 upcoming gigs. Brow
 
 80C, Zhongshan Building, Jalan Rotan, Kampung Attap, 50460, Kuala Lumpur, Kuala Lumpur
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/fono/)*

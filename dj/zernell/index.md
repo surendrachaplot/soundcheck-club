@@ -1,6 +1,6 @@
 # Zernell
 
-Zernell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Zernell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Zernell is a house and disco artist tracked on soundcheck, with 24 sets logged across Chicago, Losangeles, Miami and Munich and 5 more. Often billed alongside Juliet Mendoza, Quicktastic and Santiago Salazar. Next up: TBA, Losangeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Zernell is a house and disco artist tracked on soundcheck, with 24 sets logged a
 
 Juliet Mendoza, Quicktastic, Santiago Salazar
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zernell/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zernell/)*

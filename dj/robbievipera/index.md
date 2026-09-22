@@ -1,6 +1,6 @@
 # robbie vipera
 
-robbie vipera is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 26 Sept 2026.
+robbie vipera is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 26 Sept 2026.
 
 robbie vipera is an electronica and electro artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Liverpool. Often billed alongside OP(99), ASAP RICKY and Dj Streaks. Next up: Kazimier Garden, Liverpool on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ robbie vipera is an electronica and electro artist based in United Kingdom, trac
 
 OP(99), ASAP RICKY, Dj Streaks
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbievipera/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbievipera/)*

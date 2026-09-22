@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch at Renate
 
-Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch on Sat 26 Sept, Berlin. 12 acts on the bill: BBYG, Chaques, Cowper and D'Nice and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali, sleeptwitch on Sat 26 Sept, Berlin. 15 acts on the bill: BBYG, Celex, Chaques and Cowper and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali,
 ## Line-up
 
 - BBYG
+- Celex
 - Chaques
 - Cowper
 - D'Nice
@@ -19,7 +20,9 @@ Renate Klubnacht + Open Air (Free Entry) w/ Hanna Baertig, Cowper, Infamous Ali,
 - Hanna Baertig
 - Infamous Ali
 - Luke Blunton
+- MASi
 - Natalia Martinovna
+- Pschukk
 - sleeptwitch
 - young oldmann
 

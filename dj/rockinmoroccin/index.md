@@ -1,6 +1,6 @@
 # Rockin Moroccin
 
-Rockin Moroccin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Rockin Moroccin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundcheck, with 36 sets logged across Amsterdam, Athens, Bali and Barcelona and 13 more. Often billed alongside C.M.A., Guy Gerber and ARODES. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Rockin Moroccin is a house and techno artist based in Morocco, tracked on soundc
 
 C.M.A., Guy Gerber, ARODES
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rockinmoroccin/)*

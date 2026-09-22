@@ -1,14 +1,15 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
+Parallx is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
 
-Parallx is a techno and industrial artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: The Berkeley Suite, Glasgow on Thu 1 Oct.
+Parallx is a techno and industrial artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: The Berkeley Suite, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | The Berkeley Suite | Glasgow |
+| Mon, 26 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
 
@@ -27,4 +28,4 @@ Parallx is a techno and industrial artist tracked on soundcheck, with 119 sets l
 
 Acierate, RIKHTER, Kim She
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parallx/)*

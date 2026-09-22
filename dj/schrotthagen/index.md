@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 26 Sept 2026.
+Schrotthagen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 26 Sept 2026.
 
 Schrotthagen is a techno and trance artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Junkyard Dortmund, Dortmund-essen on Sat 26 Sept.
 
@@ -35,4 +35,4 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 51 sets l
 
 A.N.I., PRADA2000, Somewhen
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

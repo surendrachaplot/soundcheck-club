@@ -1,6 +1,6 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Cadavra, Madrid on Fri, 2 Oct 2026.
+Tornado Wallace is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Fri, 2 Oct 2026.
 
 Tornado Wallace is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: Cadavra, Madrid on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 133 set
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

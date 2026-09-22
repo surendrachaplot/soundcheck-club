@@ -1,6 +1,6 @@
 # Silvente
 
-Silvente is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
+Silvente is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
 
 Silvente is a house and electro artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, London and Tallinn. Often billed alongside Driahn, DJ Service and Quim Clausell. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Silvente is a house and electro artist based in Spain, tracked on soundcheck, wi
 
 Driahn, DJ Service, Quim Clausell
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvente/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silvente/)*

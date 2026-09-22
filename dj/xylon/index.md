@@ -1,6 +1,6 @@
 # xylon
 
-xylon is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Acadana, Hong Kong on Sat, 3 Oct 2026.
+xylon is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Acadana, Hong Kong on Sat, 3 Oct 2026.
 
 xylon is a techno and bass artist based in China, tracked on soundcheck, with 31 sets logged across Bangkok, Hongkong and Shenzhen. Often billed alongside ADRIANNA.C, Faxtory and Dan-neo. Next up: Acadana, Hongkong on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ xylon is a techno and bass artist based in China, tracked on soundcheck, with 31
 
 ADRIANNA.C, Faxtory, Dan-neo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*

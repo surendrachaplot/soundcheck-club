@@ -1,6 +1,6 @@
 # D-Fuse
 
-D-Fuse is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
+D-Fuse is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Classic Grand, Glasgow on Fri, 2 Oct 2026.
 
 D-Fuse is a hardcore and gabber artist tracked on soundcheck, with 11 sets logged across Glasgow. Often billed alongside Malevolent, OBLVN and Bracken. Next up: The Classic Grand, Glasgow on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ D-Fuse is a hardcore and gabber artist tracked on soundcheck, with 11 sets logge
 
 Malevolent, OBLVN, Bracken
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-fuse/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-fuse/)*

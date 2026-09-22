@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
+Young Marco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
 
 Young Marco is a house and techno artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 65 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Kilomètre25, Paris on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Young Marco is a house and techno artist tracked on soundcheck, with 220 sets lo
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

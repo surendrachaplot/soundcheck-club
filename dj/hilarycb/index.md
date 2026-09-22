@@ -1,6 +1,6 @@
 # Hilary C/B
 
-Hilary C/B is a Experimental and Noise artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Hilary C/B is a Experimental and Noise artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Hilary C/B is an experimental and noise artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Dakn, Miri Malek and Abibi. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Hilary C/B is an experimental and noise artist tracked on soundcheck, with 14 se
 
 Dakn, Miri Malek, Abibi
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilarycb/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilarycb/)*

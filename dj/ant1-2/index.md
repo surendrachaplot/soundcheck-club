@@ -1,6 +1,6 @@
 # ANT1 (2)
 
-ANT1 (2) is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Yard, Manchester on Sat, 24 Oct 2026.
+ANT1 (2) is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 ANT1 (2) is a trance and bass artist based in Lebanon, tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside SDJ (1), FAGASH and B1OS. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ ANT1 (2) is a trance and bass artist based in Lebanon, tracked on soundcheck, wi
 
 SDJ (1), FAGASH, B1OS
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ant1-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ant1-2/)*

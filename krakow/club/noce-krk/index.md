@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "WE ARE NASTY - 2 STAGES - FREE ENTRY TILL 23:00" on Fri, 25 Sept 2026.
+Noce KRK is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "WE ARE NASTY - 2 STAGES - FREE ENTRY TILL 23:00" on Fri, 25 Sept 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including Abrew, Adriana Lopez, Dimitri Cooman and Esquita and 2 more. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -20,4 +20,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with 
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

@@ -1,6 +1,6 @@
 # Georj (2)
 
-Georj (2) is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 24 Sept 2026.
+Georj (2) is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 24 Sept 2026.
 
 Georj (2) is a jungle and garage artist tracked on soundcheck, with 3 sets logged across Edinburgh. Often billed alongside Georj, Casement and Drumheller. Next up: Sneaky Pete's, Edinburgh on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ Georj (2) is a jungle and garage artist tracked on soundcheck, with 3 sets logge
 
 Georj, Casement, Drumheller
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georj-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georj-2/)*

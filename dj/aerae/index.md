@@ -1,6 +1,6 @@
 # AERAE
 
-AERAE is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
+AERAE is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
 
 AERAE is a techno and drum & bass artist based in France, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside upsammy, Aaron J and Konduku. Next up: Rastro Live Studio, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ AERAE is a techno and drum & bass artist based in France, tracked on soundcheck,
 
 upsammy, Aaron J, Konduku
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*

@@ -1,6 +1,6 @@
 # Drone (UK)
 
-Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
+Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
 
 Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Budapest and Denver and 7 more. Often billed alongside Monty, SP:MC and Cesco. Next up: Mezzanine - Tooting, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 27 sets 
 
 Monty, SP:MC, Cesco
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*

@@ -1,6 +1,6 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Doka, Amsterdam on Sat, 26 Sept 2026.
+Nathalie Seres is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Doka, Amsterdam on Sat, 26 Sept 2026.
 
 Nathalie Seres is a house and techno artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside DJ Senc, Steffi and Adiel. Next up: Doka, Amsterdam on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Nathalie Seres is a house and techno artist based in Germany, tracked on soundch
 
 DJ Senc, Steffi, Adiel
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

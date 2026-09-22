@@ -1,6 +1,6 @@
 # Brawther
 
-Brawther is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Movers, Nottingham on Sat, 21 Nov 2026.
+Brawther is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Movers, Nottingham on Sat, 21 Nov 2026.
 
 Brawther is a house and deep house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Birmingham and 23 more. Often billed alongside Tristan da Cunha, Dungeon Meat and Doudou MD. Next up: Movers, Nottingham on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Brawther is a house and deep house artist tracked on soundcheck, with 70 sets lo
 
 Tristan da Cunha, Dungeon Meat, Doudou MD
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brawther/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brawther/)*

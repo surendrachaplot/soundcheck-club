@@ -1,6 +1,6 @@
 # Onacity
 
-Onacity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
+Onacity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at ZEROTOKYO, Tokyo on Tue, 22 Sept 2026.
 
 Onacity is a house and tech house artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Keigo (JP), AY (10) and KURIOS(JP). Next up: ZEROTOKYO, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Onacity is a house and tech house artist based in Japan, tracked on soundcheck, 
 
 Keigo (JP), AY (10), KURIOS(JP)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onacity/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onacity/)*

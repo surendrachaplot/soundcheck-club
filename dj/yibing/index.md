@@ -1,6 +1,6 @@
 # Yibing
 
-Yibing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
+Yibing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
 
 Yibing is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Berlin, Miami, Montreal and Newyorkcity. Often billed alongside Alien D, Andrew Devlin and No Sir. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Yibing is a techno and house artist based in United States of America, tracked o
 
 Alien D, Andrew Devlin, No Sir
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*

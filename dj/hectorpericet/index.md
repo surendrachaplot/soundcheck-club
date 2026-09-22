@@ -1,6 +1,6 @@
 # Héctor Pericet
 
-Héctor Pericet is a Tech House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
+Héctor Pericet is a Tech House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
 
 Héctor Pericet is a tech house and minimal artist tracked on soundcheck, with 24 sets logged across Madrid. Often billed alongside Julio Machicado, Grau and Grau (ES). Next up: EL SÓTANO, Madrid on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Héctor Pericet is a tech house and minimal artist tracked on soundcheck, with 2
 
 Julio Machicado, Grau, Grau (ES)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorpericet/)*

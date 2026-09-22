@@ -1,6 +1,6 @@
 # YENKOV
 
-YENKOV is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Cabaret  Aléatoire, Marseille on Sat, 7 Nov 2026.
+YENKOV is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cabaret  Aléatoire, Marseille on Sat, 7 Nov 2026.
 
 YENKOV is a techno and trance artist tracked on soundcheck, with 52 sets logged across Berlin, Brussels, Buenosaires and Copenhagen and 6 more. Often billed alongside Laze, VANROOSE and VOST (3). Next up: Cabaret  Aléatoire, Marseille on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ YENKOV is a techno and trance artist tracked on soundcheck, with 52 sets logged 
 
 Laze, VANROOSE, VOST (3)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yenkov/)*

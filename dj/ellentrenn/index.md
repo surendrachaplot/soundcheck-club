@@ -1,6 +1,6 @@
 # Ellen Trenn
 
-Ellen Trenn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
+Ellen Trenn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
 
 Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Flour, Mondaiji and BLONDEX. Next up: Renate, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck
 
 Flour, Mondaiji, BLONDEX
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*

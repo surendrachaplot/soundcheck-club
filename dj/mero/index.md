@@ -1,6 +1,6 @@
 # MËRO
 
-MËRO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
+MËRO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 25 Nov 2026.
 
 MËRO is a techno and trance artist tracked on soundcheck, with 26 sets logged across Belfast, Berlin, Dublin and Dundee and 9 more. Often billed alongside The Jakob Sister, Sabu! and X&trick. Next up: Lokschuppen Berlin, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ MËRO is a techno and trance artist tracked on soundcheck, with 26 sets logged a
 
 The Jakob Sister, Sabu!, X&trick
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mero/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mero/)*

@@ -1,6 +1,6 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Terrrazza, Barcelona on Wed, 23 Sept 2026.
+Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Terrrazza, Barcelona on Wed, 23 Sept 2026.
 
 Make A Dance is a house and disco artist tracked on soundcheck, with 123 sets logged across Amsterdam, Auckland, Bali and Bangkok and 29 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: La Terrrazza, Barcelona on Wed 23 Sept.
 
@@ -36,4 +36,4 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 123 sets lo
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

@@ -1,6 +1,6 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+D. Tiffany is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 D. Tiffany is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ D. Tiffany is a techno and house artist tracked on soundcheck, with 184 sets log
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

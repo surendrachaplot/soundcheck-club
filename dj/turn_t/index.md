@@ -1,6 +1,6 @@
 # turn_t
 
-turn_t is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at The Greyhound, London on Fri, 27 Nov 2026.
+turn_t is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Greyhound, London on Fri, 27 Nov 2026.
 
 turn_t is a progressive house and trance artist based in France, tracked on soundcheck, with 5 sets logged across London. Often billed alongside dylan.james, DELARA and Modlar. Next up: The Greyhound, London on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ turn_t is a progressive house and trance artist based in France, tracked on soun
 
 dylan.james, DELARA, Modlar
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turn_t/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turn_t/)*

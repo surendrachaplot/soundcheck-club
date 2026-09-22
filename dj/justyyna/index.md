@@ -1,6 +1,6 @@
 # Justyyna
 
-Justyyna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Old Harmony Bar, Glasgow on Sat, 3 Oct 2026.
+Justyyna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Old Harmony Bar, Glasgow on Sat, 3 Oct 2026.
 
 Justyyna is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside eurokels, Anna Barrie and Hollyamorous. Next up: Old Harmony Bar, Glasgow on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Justyyna is a house and techno artist based in United Kingdom, tracked on soundc
 
 eurokels, Anna Barrie, Hollyamorous
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*

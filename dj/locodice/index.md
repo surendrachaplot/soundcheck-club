@@ -1,6 +1,6 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Loco Dice is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
 Loco Dice is a tech house and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 204 sets 
 
 Jamie Jones, Marco Carola, Seth Troxler
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locodice/)*

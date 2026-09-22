@@ -1,6 +1,6 @@
 # miss behave
 
-miss behave is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
+miss behave is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
 
 miss behave is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin, Paris and Sydney. Often billed alongside Command D (1), SILLYBITCHESDIE and Andy Garvey. Next up: TBA, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ miss behave is a techno and trance artist tracked on soundcheck, with 30 sets lo
 
 Command D (1), SILLYBITCHESDIE, Andy Garvey
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missbehave/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missbehave/)*

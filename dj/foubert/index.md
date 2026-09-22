@@ -1,0 +1,26 @@
+# Foubert
+
+Foubert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Chinastraat, Ghent on Sat, 7 Nov 2026.
+
+Foubert is a techno and house artist tracked on soundcheck, with 7 sets logged across Antwerp and Ghent. Often billed alongside DJ Gorgo, DJ Peugeot and Rozevelt. Next up: Chinastraat, Ghent on Sat 7 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 7 Nov 2026 | Chinastraat | Ghent |
+
+## Recently played
+
+- Former Smatch Supermarket, Antwerp — Fri, 28 Aug 2026
+- Funke, Ghent — Fri, 12 Jun 2026
+- Chinastraat, Ghent — Thu, 30 Apr 2026
+- Former Smatch Supermarket, Antwerp — Fri, 22 Aug 2025
+- Former Smatch Supermarket, Antwerp — Fri, 23 Aug 2024
+- TBA - Botermarkt Mechelen, Antwerp — Fri, 25 Aug 2023
+
+## Shares bills with
+
+DJ Gorgo, DJ Peugeot, Rozevelt
+
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foubert/)*

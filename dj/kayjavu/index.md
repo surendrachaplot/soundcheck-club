@@ -1,6 +1,6 @@
 # kayja vu
 
-kayja vu is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at renae, Manchester on Thu, 24 Sept 2026.
+kayja vu is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at renae, Manchester on Thu, 24 Sept 2026.
 
 kayja vu is a club and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside Javan, Tomi From Brockley and Henk. Next up: renae, Manchester on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ kayja vu is a club and house artist based in United Kingdom, tracked on soundche
 
 Javan, Tomi From Brockley, Henk
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayjavu/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayjavu/)*

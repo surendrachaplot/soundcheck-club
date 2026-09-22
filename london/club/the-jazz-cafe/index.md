@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 56 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Richard Spaven" on Wed, 23 Sept 2026.
+The Jazz Cafe is a music venue in London with 58 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Richard Spaven" on Wed, 23 Sept 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including A Guy Called Gerald, Aloka, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 58 upcoming gigs, with line-ups including A Guy Called Gerald, Aloka, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming gigs,
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

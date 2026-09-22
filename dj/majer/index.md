@@ -1,6 +1,6 @@
 # Majer
 
-Majer is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
+Majer is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
 
 Majer is a minimal and house artist based in France, tracked on soundcheck, with 11 sets logged across Paris. Often billed alongside Lano, Céline and DJ STRANGELOVE. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Majer is a minimal and house artist based in France, tracked on soundcheck, with
 
 Lano, Céline, DJ STRANGELOVE
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majer/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majer/)*

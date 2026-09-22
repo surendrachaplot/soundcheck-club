@@ -1,6 +1,6 @@
 # Tiffany Berlin
 
-Tiffany Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Bollywood Mayhem - Party Till Dawn" on Fri, 25 Sept 2026.
+Tiffany Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Bollywood Mayhem - Party Till Dawn" on Fri, 25 Sept 2026.
 
 Tiffany Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rosmarinstraße 8.
 
@@ -14,4 +14,4 @@ Tiffany Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. 
 
 Rosmarinstraße 8, Berlin
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tiffany-berlin/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tiffany-berlin/)*

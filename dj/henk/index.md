@@ -1,8 +1,8 @@
 # Henk
 
-Henk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Humboldthain Club, Berlin on Fri, 2 Oct 2026.
+Henk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Humboldthain Club, Berlin on Fri, 2 Oct 2026.
 
-Henk is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, London and Manchester and 1 more. Often billed alongside Javan, Tomi From Brockley and kayja vu. Next up: Humboldthain Club, Berlin on Fri 2 Oct.
+Henk is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, London and Manchester and 1 more. Often billed alongside Javan, Tomi From Brockley and kayja vu. Next up: Humboldthain Club, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Henk is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Javan, Tomi From Brockley, kayja vu
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henk/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henk/)*

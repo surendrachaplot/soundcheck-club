@@ -1,6 +1,6 @@
 # mark andrew (2)
 
-mark andrew (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Plot 22, Sheffield on Sat, 3 Oct 2026.
+mark andrew (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Plot 22, Sheffield on Sat, 3 Oct 2026.
 
 mark andrew (2) is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Sheffield. Often billed alongside Earl Grey (2), Tommy Badman and Enduser. Next up: Plot 22, Sheffield on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ mark andrew (2) is a jungle and drum & bass artist based in United Kingdom, trac
 
 Earl Grey (2), Tommy Badman, Enduser
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markandrew-2/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markandrew-2/)*

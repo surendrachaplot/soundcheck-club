@@ -1,6 +1,6 @@
 # La Mécanique Ondulatoire
 
-La Mécanique Ondulatoire is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "Leya, En Concert À Paris + Guest : Aesthesis" on Mon, 28 Sept 2026.
+La Mécanique Ondulatoire is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Leya, En Concert À Paris + Guest : Aesthesis" on Mon, 28 Sept 2026.
 
 La Mécanique Ondulatoire is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including LEYA. Browse upcoming dates, start times and who's playing. 8 Passage Thiéré, 75011, Paris.
 
@@ -14,4 +14,4 @@ La Mécanique Ondulatoire is a music venue in Paris listed on soundcheck. 1 upco
 
 8 Passage Thiéré, 75011, Paris, Paris
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-m-canique-ondulatoire/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-m-canique-ondulatoire/)*

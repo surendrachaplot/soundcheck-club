@@ -1,14 +1,15 @@
 # Raeya Chen
 
-Raeya Chen is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Audio Club, Geneva on Sat, 26 Sept 2026.
+Raeya Chen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Audio Club, Geneva on Sat, 26 Sept 2026.
 
-Raeya Chen is a techno and house artist based in China, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Geneva and Milan. Often billed alongside Amour Noir, BDG (1) and DÅwN. Next up: Audio Club, Geneva on Sat 26 Sept.
+Raeya Chen is a techno and house artist based in China, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Geneva and Milan. Often billed alongside Amour Noir, BDG (1) and DÅwN. Next up: Audio Club, Geneva on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Audio Club | Geneva |
+| Fri, 2 Oct 2026 | Audio Club | Geneva |
 | Fri, 9 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Thu, 22 Oct 2026 | Theater de Richel | Amsterdam |
 
@@ -27,4 +28,4 @@ Raeya Chen is a techno and house artist based in China, tracked on soundcheck, w
 
 Amour Noir, BDG (1), DÅwN
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*

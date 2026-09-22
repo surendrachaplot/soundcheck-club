@@ -1,6 +1,6 @@
 # NOWHERE
 
-NOWHERE is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "The History of Jungle: Manchester" on Sat, 3 Oct 2026.
+NOWHERE is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "The History of Jungle: Manchester" on Sat, 3 Oct 2026.
 
 NOWHERE is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including 16BL, Alexander Skancke, Captain Wallop and Dillinja and 2 more. Browse upcoming dates, start times and who's playing. 1 Burstock Street, Manchester, M4 4JD.
 
@@ -17,4 +17,4 @@ NOWHERE is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, wi
 
 1 Burstock Street, Manchester, M4 4JD, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/nowhere/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/nowhere/)*

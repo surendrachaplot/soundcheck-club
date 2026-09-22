@@ -1,6 +1,6 @@
 # Naktics
 
-Naktics is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sabaco Music & Cafe, Tokyo on Wed, 23 Sept 2026.
+Naktics is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sabaco Music & Cafe, Tokyo on Wed, 23 Sept 2026.
 
 Naktics is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside ron3lyscript, Futurebound and INDEX (3). Next up: Sabaco Music & Cafe, Tokyo on Wed 23 Sept.
 
@@ -21,4 +21,4 @@ Naktics is a drum & bass and jungle artist tracked on soundcheck, with 5 sets lo
 
 ron3lyscript, Futurebound, INDEX (3)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naktics/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naktics/)*

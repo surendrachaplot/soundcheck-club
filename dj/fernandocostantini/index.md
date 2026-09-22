@@ -1,6 +1,6 @@
 # Fernando Costantini
 
-Fernando Costantini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at THE MAGICK BAR, Rome on Tue, 22 Sept 2026.
+Fernando Costantini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at THE MAGICK BAR, Rome on Tue, 22 Sept 2026.
 
 Fernando Costantini is a house and techno artist based in Belgium, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Lisbon and 5 more. Often billed alongside Domenico Rosa, Giammarco Orsini and Marcolino. Next up: THE MAGICK BAR, Rome on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Fernando Costantini is a house and techno artist based in Belgium, tracked on so
 
 Domenico Rosa, Giammarco Orsini, Marcolino
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandocostantini/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandocostantini/)*

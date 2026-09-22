@@ -1,6 +1,6 @@
 # Means&3rd
 
-Means&3rd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 26 Sept 2026.
+Means&3rd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 26 Sept 2026.
 
 Means&3rd is a techno and house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Leeds, London and Manchester. Often billed alongside Will A, Jim Bane and Kerrie. Next up: Eastern Bloc Records, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Means&3rd is a techno and house artist based in United Kingdom, tracked on sound
 
 Will A, Jim Bane, Kerrie
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/means3rd/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/means3rd/)*

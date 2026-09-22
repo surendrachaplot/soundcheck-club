@@ -1,6 +1,6 @@
 # Part-Time Lesbian
 
-Part-Time Lesbian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
+Part-Time Lesbian is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
 
 Part-Time Lesbian is a techno and house artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Eira, Kidcat and ilbroccolovolante. Next up: Mucha, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Part-Time Lesbian is a techno and house artist based in Canada, tracked on sound
 
 Eira, Kidcat, ilbroccolovolante
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/part-timelesbian/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/part-timelesbian/)*

@@ -1,6 +1,6 @@
 # Ozzwald
 
-Ozzwald is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
+Ozzwald is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
 
 Ozzwald is a trance and techno artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Cologne and Madrid and 4 more. Often billed alongside Cobb Douglas, Sandwicho and Amøn. Next up: EL SÓTANO, Madrid on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Ozzwald is a trance and techno artist tracked on soundcheck, with 72 sets logged
 
 Cobb Douglas, Sandwicho, Amøn
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*

@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+Fred P is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 Fred P is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Fred P is a house and techno artist tracked on soundcheck, with 91 sets logged a
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

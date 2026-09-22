@@ -1,6 +1,6 @@
 # Jester
 
-Jester is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
+Jester is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Odonien, Cologne on Wed, 23 Sept 2026.
 
 Jester is a techno and hip-hop artist based in Italy, tracked on soundcheck, with 25 sets logged across Cologne, Dusseldorf, London and Tokyo and 1 more. Often billed alongside Dana Roosy, KOHL and Ropemaker. Next up: Odonien, Cologne on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Jester is a techno and hip-hop artist based in Italy, tracked on soundcheck, wit
 
 Dana Roosy, KOHL, Ropemaker
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*

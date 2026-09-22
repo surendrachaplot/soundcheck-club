@@ -1,6 +1,6 @@
 # GiZ
 
-GiZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
+GiZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
 
 GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Ghent and Hamburg and 14 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: Life Park, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 4
 
 Oliver Koletzki, TOOKER, Fabian Krooss
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*

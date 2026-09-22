@@ -1,6 +1,6 @@
 # Système
 
-Système is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Système Soundsystem" on Thu, 24 Sept 2026.
+Système is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Système Soundsystem" on Thu, 24 Sept 2026.
 
 Système is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Anabasine, anise, Barbara Boeing and Claire and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
@@ -21,4 +21,4 @@ Système is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, wit
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

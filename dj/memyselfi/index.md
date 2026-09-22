@@ -1,6 +1,6 @@
 # me, myself &i
 
-me, myself &i is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+me, myself &i is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 me, myself &i are a house and minimal duo based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside House of Lords, Steve Marto and Will Scheffel. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ me, myself &i are a house and minimal duo based in Canada, tracked on soundcheck
 
 House of Lords, Steve Marto, Will Scheffel
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memyselfi/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memyselfi/)*

@@ -1,6 +1,6 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Soul in the Horn FT Natasha Diggs & Friends - September 25" on Fri, 25 Sept 2026.
+The Chocolate Factory is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Soul in the Horn FT Natasha Diggs & Friends - September 25" on Fri, 25 Sept 2026.
 
 The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 9 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, Boy Cordero, Deep Just and DJ Lita and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
@@ -22,4 +22,4 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 9 up
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

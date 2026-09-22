@@ -1,6 +1,6 @@
 # Sutton Barcelona
 
-Sutton Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Mon, 21 Sept 2026; the next is "CHOCOLATE CITY 2ND ANNIVERSARY WITH 2WOBUNNIES" on Sun, 11 Oct 2026.
+Sutton Barcelona is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "CHOCOLATE CITY 2ND ANNIVERSARY WITH 2WOBUNNIES" on Sun, 11 Oct 2026.
 
 Sutton Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Calle Tuset 13, 08006 Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Sutton Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming 
 
 Calle Tuset 13, 08006 Barcelona, Spain, Barcelona
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sutton-barcelona/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sutton-barcelona/)*

@@ -1,13 +1,14 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at BASEMENT, New York City on Fri, 30 Oct 2026.
+Dj Warning is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Process PDX, Portland on Sat, 17 Oct 2026.
 
-Dj Warning is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: BASEMENT, Newyorkcity on Fri 30 Oct.
+Dj Warning is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Process PDX, Portland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Process PDX | Portland |
 | Fri, 30 Oct 2026 | BASEMENT | New York City |
 | Sat, 5 Dec 2026 | TBA | Los Angeles |
 
@@ -26,4 +27,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 82 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

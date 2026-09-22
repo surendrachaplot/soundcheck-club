@@ -1,6 +1,6 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Beatpia in Tokyo" on Tue, 22 Sept 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Beatpia in Tokyo" on Tue, 22 Sept 2026.
 
 BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AEMI, ANiIIIIiiiKii, Ayantula and hidemi and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
@@ -22,4 +22,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, w
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

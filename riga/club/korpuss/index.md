@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Korpuss × RAVE COMMUNITY LATVIA" on Fri, 25 Sept 2026.
+Korpuss is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Korpuss × RAVE COMMUNITY LATVIA" on Fri, 25 Sept 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including Dispoze, EP!C, Et Cetera and Fiedel and 2 more. Browse upcoming dates, start times and who's playing. Viskaļu iela 36.
 
@@ -15,4 +15,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with lin
 
 Viskaļu iela 36, Riga
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

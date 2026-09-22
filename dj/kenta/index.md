@@ -1,14 +1,15 @@
 # Kenta
 
-Kenta is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at R Lounge, Tokyo on Fri, 25 Sept 2026.
+Kenta is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at R Lounge, Tokyo on Fri, 25 Sept 2026.
 
-Kenta is a hip-hop and r&b artist tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside ATAMI, ITSUKI and DJ B2B. Next up: R Lounge, Tokyo on Fri 25 Sept.
+Kenta is a hip-hop and r&b artist tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside ATAMI, ITSUKI and DJ B2B. Next up: R Lounge, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | R Lounge | Tokyo |
+| Fri, 25 Sept 2026 | or | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kenta is a hip-hop and r&b artist tracked on soundcheck, with 11 sets logged acr
 
 ATAMI, ITSUKI, DJ B2B
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenta/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenta/)*

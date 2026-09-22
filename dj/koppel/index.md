@@ -1,6 +1,6 @@
 # koppel
 
-koppel is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 26 Sept 2026.
+koppel is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 26 Sept 2026.
 
 koppel is a techno and bass artist tracked on soundcheck, with 4 sets logged across Mexicocity and Toronto. Often billed alongside KOI (MX), Aria (MX) and Billy Dalessandro. Next up: Japan Monterrey, Mexicocity on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ koppel is a techno and bass artist tracked on soundcheck, with 4 sets logged acr
 
 KOI (MX), Aria (MX), Billy Dalessandro
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koppel/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koppel/)*

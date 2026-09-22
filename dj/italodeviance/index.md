@@ -1,6 +1,6 @@
 # Italo Deviance
 
-Italo Deviance is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Sacré, Paris on Fri, 2 Oct 2026.
+Italo Deviance is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sacré, Paris on Fri, 2 Oct 2026.
 
 Italo Deviance is an italo disco and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Bucharest and Losangeles and 5 more. Often billed alongside Marcello Giordani, I-F and Andreea Veder. Next up: Sacré, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Italo Deviance is an italo disco and house artist tracked on soundcheck, with 11
 
 Marcello Giordani, I-F, Andreea Veder
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italodeviance/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italodeviance/)*

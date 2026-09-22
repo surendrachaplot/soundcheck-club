@@ -1,6 +1,6 @@
 # DJ Morita
 
-DJ Morita is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+DJ Morita is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 DJ Morita is a techno and minimal techno artist tracked on soundcheck, with 34 sets logged across Osaka and Tokyo. Often billed alongside Endurance, Ario and Erik Luebs. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Morita is a techno and minimal techno artist tracked on soundcheck, with 34 s
 
 Endurance, Ario, Erik Luebs
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmorita/)*

@@ -1,6 +1,6 @@
 # Elwood
 
-Elwood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Human Club, Barcelona on Sat, 24 Oct 2026.
+Elwood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Human Club, Barcelona on Sat, 24 Oct 2026.
 
 Elwood is a techno and house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Phosky, S_STEELE and IZAN CRAMER. Next up: Human Club, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Elwood is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Phosky, S_STEELE, IZAN CRAMER
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elwood/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elwood/)*

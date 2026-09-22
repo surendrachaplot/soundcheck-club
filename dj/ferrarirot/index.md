@@ -1,6 +1,6 @@
 # ferrari rot
 
-ferrari rot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
+ferrari rot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
 
 ferrari rot is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside evin, MALUGI and Surf 2 Glory. Next up: TBA - Secret Venue, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ ferrari rot is a techno and house artist tracked on soundcheck, with 137 sets lo
 
 evin, MALUGI, Surf 2 Glory
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrarirot/)*

@@ -1,6 +1,6 @@
 # Miller
 
-Miller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Tomodachi, Ibiza on Sat, 26 Sept 2026.
+Miller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Tomodachi, Ibiza on Sat, 26 Sept 2026.
 
 Miller is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Nicolau, Rossi and Carlos Vila. Next up: Tomodachi, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Miller is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 Nicolau, Rossi, Carlos Vila
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miller/)*

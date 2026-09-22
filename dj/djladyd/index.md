@@ -1,6 +1,6 @@
 # DJ Lady D
 
-DJ Lady D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Elastic Arts, Chicago on Sat, 31 Oct 2026.
+DJ Lady D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Elastic Arts, Chicago on Sat, 31 Oct 2026.
 
 DJ Lady D is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Chicago, Detroit, Miami and Nashville and 3 more. Often billed alongside DJ Heather, VITIGRRL and Carl Craig. Next up: Elastic Arts, Chicago on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DJ Lady D is a house and techno artist based in United States of America, tracke
 
 DJ Heather, VITIGRRL, Carl Craig
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djladyd/)*

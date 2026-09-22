@@ -1,6 +1,6 @@
 # Blooom
 
-Blooom is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+Blooom is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
 Blooom is a drum & bass and dubstep artist tracked on soundcheck, with 28 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 11 more. Often billed alongside Delta Heavy, Black Sun Empire and Camo & Krooked. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Blooom is a drum & bass and dubstep artist tracked on soundcheck, with 28 sets l
 
 Delta Heavy, Black Sun Empire, Camo & Krooked
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*

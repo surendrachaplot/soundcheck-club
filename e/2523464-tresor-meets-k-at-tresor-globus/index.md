@@ -1,6 +1,6 @@
 # Tresor meets ọ́kụ́ at Tresor / Globus
 
-Tresor meets ọ́kụ́ at Tresor / Globus on Fri 9 Oct, Berlin. 9 acts on the bill: DJ LOUI FROM JUPITER4, DJ Travella, Fiyahdred and Jonas Xenon and 5 more. Preview the line-up and save it on soundcheck.
+Tresor meets ọ́kụ́ at Tresor / Globus on Fri 9 Oct, Berlin. 10 acts on the bill: DJ LOUI FROM JUPITER4, DJ Travella, Fiyahdred and Jarreau Vandal and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Tresor meets ọ́kụ́ at Tresor / Globus on Fri 9 Oct, Berlin. 9 acts on the 
 - DJ LOUI FROM JUPITER4
 - DJ Travella
 - Fiyahdred
+- Jarreau Vandal
 - Jonas Xenon
 - Juba
 - Lindsey Herbert

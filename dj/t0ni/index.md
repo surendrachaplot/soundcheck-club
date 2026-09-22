@@ -1,14 +1,15 @@
 # t0ni
 
-t0ni is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at OT301, Amsterdam on Fri, 25 Sept 2026.
+t0ni is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OT301, Amsterdam on Fri, 25 Sept 2026.
 
-t0ni is a club and experimental artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside DJ GHEPARD, gmaail and 7777 の天使. Next up: OT301, Amsterdam on Fri 25 Sept.
+t0ni is an experimental and club artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside DJ GHEPARD, gmaail and 7777 の天使. Next up: OT301, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | OT301 | Amsterdam |
+| Sat, 10 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Thu, 5 Nov 2026 | Atelier 210 | Brussels |
 
 ## Recently played
@@ -26,4 +27,4 @@ t0ni is a club and experimental artist tracked on soundcheck, with 74 sets logge
 
 DJ GHEPARD, gmaail, 7777 の天使
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*

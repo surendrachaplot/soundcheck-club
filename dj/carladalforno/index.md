@@ -1,6 +1,6 @@
 # Carla dal Forno
 
-Carla dal Forno is a Electronica and Pop artist with 6 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Silent Green, Berlin on Tue, 22 Sept 2026.
+Carla dal Forno is a Electronica and Pop artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Silent Green, Berlin on Tue, 22 Sept 2026.
 
 Carla dal Forno is an electronica and pop artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Moopie, 1morning and Alex Zhang Hungtai. Next up: Silent Green, Berlin on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Carla dal Forno is an electronica and pop artist based in Germany, tracked on so
 
 Moopie, 1morning, Alex Zhang Hungtai
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carladalforno/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carladalforno/)*

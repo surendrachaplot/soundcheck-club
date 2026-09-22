@@ -1,6 +1,6 @@
 # blan.trrs
 
-blan.trrs is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Resume Valencia, Valencia on Fri, 25 Sept 2026.
+blan.trrs is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Resume Valencia, Valencia on Fri, 25 Sept 2026.
 
 blan.trrs is a house and tech house artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Brussels and Valencia and 1 more. Often billed alongside Blanch, Ladrillovitz and Pau Pérez. Next up: Resume Valencia, Valencia on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ blan.trrs is a house and tech house artist tracked on soundcheck, with 37 sets l
 
 Blanch, Ladrillovitz, Pau Pérez
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blan.trrs/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blan.trrs/)*

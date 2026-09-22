@@ -1,6 +1,6 @@
 # Navy Pier
 
-Navy Pier is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "House Music is Home. Free w RSVP" on Sat, 26 Sept 2026.
+Navy Pier is a music venue in Chicago with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "House Music is Home. Free w RSVP" on Sat, 26 Sept 2026.
 
 Navy Pier is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, with line-ups including Adorio, Charlotte de Witte, Deadmau5 and DJ Heather and 2 more. Browse upcoming dates, start times and who's playing. 600 E Grand Ave; Chicago; IL 60611.
 
@@ -18,4 +18,4 @@ Navy Pier is a music venue in Chicago listed on soundcheck. 5 upcoming gigs, wit
 
 600 E Grand Ave; Chicago; IL 60611, Chicago
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*

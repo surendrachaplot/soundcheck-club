@@ -1,6 +1,6 @@
 # INDRA TRAFERRI
 
-INDRA TRAFERRI is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
+INDRA TRAFERRI is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 10 Oct 2026.
 
 INDRA TRAFERRI is a house and minimal artist based in Argentina, tracked on soundcheck, with 55 sets logged across Barcelona. Often billed alongside Galu Bla, Mat Spiaggi and Vennegur. Next up: 303 Audiophile Bar, Barcelona on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ INDRA TRAFERRI is a house and minimal artist based in Argentina, tracked on soun
 
 Galu Bla, Mat Spiaggi, Vennegur
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indra-ar/)*

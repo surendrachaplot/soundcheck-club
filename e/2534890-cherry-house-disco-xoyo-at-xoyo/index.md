@@ -1,6 +1,6 @@
 # Cherry - House & Disco - XOYO at XOYO
 
-Cherry - House & Disco - XOYO on Thu 24 Sept, London. 1 act on the bill: BTAY. House and Disco. Preview the line-up and save it on soundcheck.
+Cherry - House & Disco - XOYO on Thu 24 Sept, London. 2 acts on the bill: BTAY and Charles Burrows. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Cherry - House & Disco - XOYO on Thu 24 Sept, London. 1 act on the bill: BTAY. H
 ## Line-up
 
 - BTAY
+- Charles Burrows
 
 *Source: [soundcheck](https://soundcheck.club/e/2534890-cherry-house-disco-xoyo-at-xoyo/)*

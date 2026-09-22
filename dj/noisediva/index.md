@@ -1,6 +1,6 @@
 # Noise Diva
 
-Noise Diva is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Noise Diva is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
 Noise Diva is a club and bass artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 6 more. Often billed alongside YoungWoman, BADER and LazerGazer. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Noise Diva is a club and bass artist tracked on soundcheck, with 38 sets logged 
 
 YoungWoman, BADER, LazerGazer
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisediva/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisediva/)*

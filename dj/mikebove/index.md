@@ -1,6 +1,6 @@
 # Mike Bove
 
-Mike Bove is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at Bunker, Turin on Fri, 2 Oct 2026.
+Mike Bove is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bunker, Turin on Fri, 2 Oct 2026.
 
 Mike Bove is a house and disco artist tracked on soundcheck, with 5 sets logged across Turin. Often billed alongside Stump Valley, Andrea Martello and Andrea Vietti. Next up: Bunker, Turin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Mike Bove is a house and disco artist tracked on soundcheck, with 5 sets logged 
 
 Stump Valley, Andrea Martello, Andrea Vietti
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebove/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikebove/)*

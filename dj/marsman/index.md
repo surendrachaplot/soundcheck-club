@@ -1,6 +1,6 @@
 # Marsman
 
-Marsman is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Marsman is a Italo Disco and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Marsman is an italo disco and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 17 more. Often billed alongside I-F, David Vunk and Charlie. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Marsman is an italo disco and techno artist tracked on soundcheck, with 99 sets 
 
 I-F, David Vunk, Charlie
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsman/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsman/)*

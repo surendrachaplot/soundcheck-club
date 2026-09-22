@@ -1,14 +1,13 @@
 # Koara
 
-Koara is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "KAIROS" on Mon, 21 Sept 2026.
+Koara is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Flap" on Wed, 23 Sept 2026.
 
-Koara is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Aoi Kurihara, finedining, FLEDtokyo and Incarnated Sound and 2 more. Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
+Koara is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Aoi Kurihara, finedining, FLEDtokyo and Incarnated Sound and 2 more. Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 21 Sept 2026 | KAIROS | Ryuji Suganuma |
 | Wed, 23 Sept 2026 | Flap |  |
 | Thu, 24 Sept 2026 | STAMM | Mikio Kaminakamura, TAT2K |
 | Sat, 26 Sept 2026 | Deep House Party 'GASOLINE' vol.97 |  |
@@ -18,4 +17,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

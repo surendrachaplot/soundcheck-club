@@ -1,8 +1,8 @@
 # LM
 
-LM is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at La Textil Collective, Barcelona on Sat, 3 Oct 2026.
+LM is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Textil Collective, Barcelona on Sat, 3 Oct 2026.
 
-LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: La Textil Collective, Barcelona on Sat 3 Oct.
+LM is a house and electro artist tracked on soundcheck, with 143 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, Baffa and ildec. Next up: La Textil Collective, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | La Textil Collective | Barcelona |
 | Wed, 7 Oct 2026 | Switch Bar | Barcelona |
+| Sat, 24 Oct 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 
 ## Shares bills with
 
-Brieela, ildec, Baffa
+Brieela, Baffa, ildec
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

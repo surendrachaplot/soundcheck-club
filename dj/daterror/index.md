@@ -1,6 +1,6 @@
 # Da Terror
 
-Da Terror is a Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 21 Sept 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
+Da Terror is a Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
 Da Terror is a trance artist tracked on soundcheck, with 6 sets logged across Glasgow and Madrid. Often billed alongside DJ Marta, Frank Trax and Juanma (CL). Next up: Fabrik, Madrid on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Da Terror is a trance artist tracked on soundcheck, with 6 sets logged across Gl
 
 DJ Marta, Frank Trax, Juanma (CL)
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daterror/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daterror/)*

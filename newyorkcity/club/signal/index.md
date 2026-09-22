@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Nuclear Cinema presents: We Live In Public screening" on Wed, 23 Sept 2026.
+Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Nuclear Cinema presents: We Live In Public screening" on Wed, 23 Sept 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming gigs, w
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

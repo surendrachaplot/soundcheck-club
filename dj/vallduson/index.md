@@ -1,6 +1,6 @@
 # Vall Du Son
 
-Vall Du Son is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 21 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 25 Sept 2026.
+Vall Du Son is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 25 Sept 2026.
 
 Vall Du Son is a techno and trance artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Funk Tribu, Garbage Delight and Bella Claxton. Next up: De Fik Garden, Amsterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Vall Du Son is a techno and trance artist tracked on soundcheck, with 57 sets lo
 
 Funk Tribu, Garbage Delight, Bella Claxton
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vallduson/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vallduson/)*

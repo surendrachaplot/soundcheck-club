@@ -1,6 +1,6 @@
 # Albert Hall
 
-Albert Hall is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Mon, 21 Sept 2026; the next is "Don't F**k with Disco, Halloween in Manchester" on Sat, 31 Oct 2026.
+Albert Hall is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Don't F**k with Disco, Halloween in Manchester" on Sat, 31 Oct 2026.
 
 Albert Hall is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Adam F, Don't F**k with Disco and Harry Shotta. Browse upcoming dates, start times and who's playing. 27 Peter Street, Manchester, M2 5QR, United Kingdom.
 
@@ -15,4 +15,4 @@ Albert Hall is a music venue in Manchester listed on soundcheck. 2 upcoming gigs
 
 27 Peter Street, Manchester, M2 5QR, United Kingdom, Manchester
 
-*Updated Mon, 21 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/albert-hall/)*
+*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/albert-hall/)*

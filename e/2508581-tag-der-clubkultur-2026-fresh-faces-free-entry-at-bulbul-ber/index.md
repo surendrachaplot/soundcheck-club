@@ -1,6 +1,6 @@
 # TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) at Bulbul Berlin
 
-TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) at Bulbul Berlin on Sat 3 Oct, Berlin. 1 act on the bill: LA BITCHENCIO. House and Club. Preview the line-up and save it on soundcheck.
+TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) at Bulbul Berlin on Sat 3 Oct, Berlin. 2 acts on the bill: LA BITCHENCIO and Reanna Peris. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) at Bulbul Berlin on Sat 3 Oct
 ## Line-up
 
 - LA BITCHENCIO
+- Reanna Peris
 
 *Source: [soundcheck](https://soundcheck.club/e/2508581-tag-der-clubkultur-2026-fresh-faces-free-entry-at-bulbul-ber/)*
