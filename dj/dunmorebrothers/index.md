@@ -1,14 +1,15 @@
 # Dunmore Brothers
 
-Dunmore Brothers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 24 Sept 2026.
+Dunmore Brothers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Dunmore Brothers is a house and tech house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 5 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: Chinois Ibiza, Ibiza on Thu 24 Sept.
+Dunmore Brothers is a house and tech house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 5 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: Chinois Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |
+| Thu, 8 Oct 2026 | Gallery | London |
 
 ## Recently played
 

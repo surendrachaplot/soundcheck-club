@@ -9,7 +9,7 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TU CASA x CACAO HALLOWEEN EDITION | Ale Grooves, Andres Forero, Anthony Godfather (2), CANO (3), Giusy S (2), Matnez (2), Nico Ramírez, Pedro Villa, Tato (2) |
-| Sat, 31 Oct 2026 | SHIFTY's BIRTHDAY |  |
+| Sat, 31 Oct 2026 | SHIFTY's Halloween Birthday  |  |
 | Fri, 4 Dec 2026 | WE WANT MORE TECHNO |  |
 
 ## Address

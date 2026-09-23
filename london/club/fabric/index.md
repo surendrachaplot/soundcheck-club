@@ -8,7 +8,7 @@ fabric is a music venue in London listed on soundcheck. 30 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | On the Mezzanine: Free Entry | Leith |
+| Thu, 24 Sept 2026 | On the Mezzanine: Free Entry | Elektraversion, Leith |
 | Fri, 25 Sept 2026 | fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jïmono B2B The Almanac | Ankhoï, JÏMONO, Kolsch, Laolu, Leeda, Mayssa, Sef Kombo, The Almanac |
 | Sat, 26 Sept 2026 | fabric: Crosstown Rebels - Damian Lazarus, Mano Le Tough, Jonathan Kaspar, OMRI + more | Culoe De Song, Damian Lazarus, Jonathan Kaspar, MEERA (UK), Mano Le Tough, OMRI. |
 | Sun, 27 Sept 2026 | Big Fish Little Fish Family Rave |  |

@@ -1,6 +1,6 @@
 # Batty Bass at The Timber Loft
 
-Batty Bass at The Timber Loft on Sun 25 Oct, London. 1 act on the bill: Hannah Holland. Preview the line-up and save it on soundcheck.
+Batty Bass at The Timber Loft on Sun 25 Oct, London. 2 acts on the bill: Hannah Holland and The Duke. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Batty Bass at The Timber Loft on Sun 25 Oct, London. 1 act on the bill: Hannah H
 ## Line-up
 
 - Hannah Holland
+- The Duke
 
 *Source: [soundcheck](https://soundcheck.club/e/2537822-batty-bass-at-the-timber-loft/)*

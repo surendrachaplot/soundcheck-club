@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 29 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kolter & Friends [Day & Night Party]" on Sat, 26 Sept 2026.
+The Cause is a music venue in London with 30 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kolter & Friends [Day & Night Party]" on Sat, 26 Sept 2026.
 
-The Cause is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including 4000 Hz, KT, Acid Sally and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including 4000 Hz, KT, Acid Sally and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 

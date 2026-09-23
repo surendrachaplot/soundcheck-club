@@ -14,10 +14,10 @@ Gallery is a music venue in London listed on soundcheck. 16 upcoming gigs, with 
 | Thu, 1 Oct 2026 | Paradox Nexus - Thursdays |  |
 | Fri, 2 Oct 2026 | MIROIR: KOKO (IT) | Jackopo, KOKO (IT) |
 | Sat, 3 Oct 2026 |  MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss | Marian BR, Mason Collective, Ramoss, VITO (UK) |
-| Thu, 8 Oct 2026 | Paradox Nexus - Thursdays |  |
+| Thu, 8 Oct 2026 | Paradox Nexus: Dunmore Brothers - Thursdays at Gallery | Dunmore Brothers |
 | Sat, 10 Oct 2026 | Mantrasociety X Gallery |  |
 | Sat, 10 Oct 2026 | Gallery x MANTRA SOCIETY |  |
-| Thu, 15 Oct 2026 | Paradox Nexus - Thursdays |  |
+| Thu, 15 Oct 2026 | Paradox Nexus: Tommy Gold - Thursdays at Gallery  | On-Off, Rocco Han, Tommy Gold |
 
 ## Address
 

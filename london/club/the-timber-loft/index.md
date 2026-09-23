@@ -16,7 +16,7 @@ The Timber Loft is a music venue in London listed on soundcheck. 16 upcoming gig
 | Sun, 18 Oct 2026 | Dirty Saints |  |
 | Sun, 18 Oct 2026 | Dirty Saints - Day Party | AMBRR, Ryan Lovell |
 | Fri, 23 Oct 2026 | Discovery Sessions: London | Ammo Avenue, Antss, Beaton, Ky William |
-| Sun, 25 Oct 2026 | Batty Bass | Hannah Holland |
+| Sun, 25 Oct 2026 | Batty Bass | Hannah Holland, The Duke |
 | Fri, 30 Oct 2026 | Because of Art | Because of Art |
 
 ## Address

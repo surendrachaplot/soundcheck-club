@@ -1,8 +1,8 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Flava D is a Drum & Bass and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: The Regency Ballroom, Sanfrancisco on Fri 2 Oct.
+Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: The Regency Ballroom, Sanfrancisco on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Tigres de la Noche | Washington DC |
 | Sat, 7 Nov 2026 | Elsewhere | New York City |
+| Sat, 21 Nov 2026 | Outernet Live | London |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | Sawmills | Bristol |
 

@@ -3835,13 +3835,15 @@
        Follows the finger rather than appearing at a threshold: a control that
        tracks your thumb tells you how far you still have to go. */
     /* ── Promo strip ──────────────────────────────────────────────────────────
-       One line, above everything, full-bleed. It costs the page 40px and no
-       more: a promo that pushes the first event below the fold is an advert,
+       One line, above everything, full-bleed. It costs the page 44px and no
+       more — 44 because the bar IS the tap target, and .promo's overflow:hidden
+       clips any ::after hit area, so the bar itself has to be the 44px floor
+       (DESIGN-RULES §5). A promo that pushes the first event below the fold is an advert,
        not an invitation. Sunset gradient with ink on it — the bar IS the
        button, which is why there is no pill inside it to make a second one.
        Signed out it asks for a profile; signed in it asks for the app
        waitlist. Never both, and never once dismissed. */
-    .promo{ display:flex; align-items:center; gap:10px; height:40px; padding:0 14px 0 18px;
+    .promo{ display:flex; align-items:center; gap:10px; height:44px; padding:0 14px 0 18px;
             background:var(--accent-grad); color:var(--accent-ink); overflow:hidden; }
     .promo[hidden]{ display:none; }
     /* align-self:stretch — the strip centres its children, so this button was as
@@ -3858,7 +3860,7 @@
               display:flex; align-items:center; justify-content:center; }
     .promo-x:hover{ opacity:1; }
     @media (max-width:640px){
-      .promo{ height:36px; padding:0 10px 0 16px; gap:8px; }
+      .promo{ padding:0 10px 0 16px; gap:8px; }
       .promo-in{ justify-content:flex-start; font-size:var(--fs-xs); }
       .promo-a{ font-size:var(--fs-xs); }
     }
@@ -4557,7 +4559,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790131609963">
+<meta name="sc-build" content="1790161252132">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4616,7 +4618,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-22/">Tue 22 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.

@@ -9,7 +9,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Take Off UK presents: VIKKSTAR & SPECIAL GUESTS! The Freshers Rave |  |
-| Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC, TERRY GOLDEN | P.O.U, Stylo |
+| Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC + MORE | P.O.U, Stylo |
 | Sat, 26 Sept 2026 | BRESH |  |
 | Tue, 29 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 3 |  |
 | Fri, 2 Oct 2026 | MoS 35: Andy C - 3-Hour Extended Set | Andy C, Charlie Tee, Joe NBO |

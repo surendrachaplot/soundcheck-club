@@ -1,6 +1,6 @@
 # LONDON TECHNO NIGHT at Casa Jako
 
-LONDON TECHNO NIGHT at Casa Jako on Sat 26 Sept, London. 2 acts on the bill: Monnay and Vortex (BR). Progressive House and Techno. Preview the line-up and save it on soundcheck.
+LONDON TECHNO NIGHT at Casa Jako on Sat 26 Sept, London. 3 acts on the bill: Monnay, Vortex (BR) and whatlewisdoes. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ LONDON TECHNO NIGHT at Casa Jako on Sat 26 Sept, London. 2 acts on the bill: Mon
 
 - Monnay
 - Vortex (BR)
+- whatlewisdoes
 
 *Source: [soundcheck](https://soundcheck.club/e/2533092-london-techno-night-at-casa-jako/)*
