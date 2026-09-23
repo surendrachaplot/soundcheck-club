@@ -1,8 +1,8 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rex Club, Paris on Fri, 25 Sept 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rex Club, Paris on Fri, 25 Sept 2026.
 
-Charlotte (FR) is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Rex Club, Paris on Fri 25 Sept.
+Charlotte (FR) is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Rex Club, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Charlotte (FR) is a house and techno artist tracked on soundcheck, with 98 sets 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Rex Club | Paris |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
+| Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played
 

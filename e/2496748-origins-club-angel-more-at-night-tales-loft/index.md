@@ -1,6 +1,6 @@
 # Origins: Club Angel + more at Night Tales Loft
 
-Origins: Club Angel + more at Night Tales Loft on Sat 26 Sept, London. 1 act on the bill: Club Angel. House and Garage. Preview the line-up and save it on soundcheck.
+Origins: Club Angel + more at Night Tales Loft on Sat 26 Sept, London. 3 acts on the bill: Club Angel, ESC (5) and Inafekt. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Origins: Club Angel + more at Night Tales Loft on Sat 26 Sept, London. 1 act on 
 ## Line-up
 
 - Club Angel
+- ESC (5)
+- Inafekt
 
 *Source: [soundcheck](https://soundcheck.club/e/2496748-origins-club-angel-more-at-night-tales-loft/)*

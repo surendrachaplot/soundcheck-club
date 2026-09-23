@@ -8,7 +8,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO  | REGGIO, VØLNA |
+| Sat, 26 Sept 2026 | HardNoises x Trocadero.GO$PEL, PENCIL, REGGIO  | REGGIO |
 | Sun, 27 Sept 2026 | Hard noises x Trocadero- SARA KRIN b-day  | INH3LL, SARA KRIN |
 | Sat, 3 Oct 2026 | TechnoZulo pres. HARD RITUAL |  |
 | Sat, 17 Oct 2026 | HARD NOISES - DJ MORE, ALTRAX, SORONELLAS, FLORES, IKEROVSKI, SHIMIKO | ALTRAX |

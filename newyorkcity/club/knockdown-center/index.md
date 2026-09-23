@@ -11,7 +11,7 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcomi
 | Fri, 25 Sept 2026 | Sasha & John Digweed: All Night Long | Sasha & John Digweed |
 | Fri, 25 Sept 2026 | LPR presents: Cabaret Voltaire | Cabaret Voltaire |
 | Fri, 25 Sept 2026 | Chloé Caillet, Dee Diggs, Kim Anh | Chloé Caillet, Dee Diggs, Kim Anh |
-| Sat, 26 Sept 2026 | OUTLINE: Flying Lotus, ∈Y∋, Olof Dreijer, Black Dice, + more | Black Dice, Carrier, Carrier (Aus), Flying Lotus, Olof Dreijer, Silicone Valley, gyrofield |
+| Sat, 26 Sept 2026 | OUTLINE: Flying Lotus, ∈Y∋, Olof Dreijer, Black Dice, + more | Black Dice, Carrier, Flying Lotus, Olof Dreijer, Silicone Valley, gyrofield |
 | Fri, 2 Oct 2026 | 19:26 presents The Passage Between Worlds | 19:26, BELLADONNA, Melissa XYZ, Woo York |
 | Fri, 2 Oct 2026 | Lost Miracle: Sébastien Léger x Roy Rosenfeld | Khen, Nadav Vee, Roy Rosenfeld, Sebastien Leger |
 | Sun, 4 Oct 2026 | Sunday Sunday |  |

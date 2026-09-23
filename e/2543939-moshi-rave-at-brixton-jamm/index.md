@@ -1,10 +1,10 @@
 # Moshi Rave at Brixton Jamm
 
-Moshi Rave at Brixton Jamm on Tue 29 Sept, London. 2 acts on the bill: alterum and Jaymie. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Moshi Rave at Brixton Jamm on Thu 29 Oct, London. 2 acts on the bill: alterum and Jaymie. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 29 Sept 2026 |
+| Date | Thu, 29 Oct 2026 |
 | Venue | Brixton Jamm |
 | City | London |
 

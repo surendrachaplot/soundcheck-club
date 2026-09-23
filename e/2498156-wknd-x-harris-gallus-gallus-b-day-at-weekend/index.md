@@ -1,6 +1,6 @@
 # WKND X HARRIS & GALLUS – GALLUS B-DAY at Weekend
 
-WKND X HARRIS & GALLUS – GALLUS B-DAY at Weekend on Fri 25 Sept, Berlin. 3 acts on the bill: Alex Gallus, Coss and Zettka. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X HARRIS & GALLUS – GALLUS B-DAY at Weekend on Fri 25 Sept, Berlin. 2 acts on the bill: Alex Gallus and Coss. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ WKND X HARRIS & GALLUS – GALLUS B-DAY at Weekend on Fri 25 Sept, Berlin. 3 act
 
 - Alex Gallus
 - Coss
-- Zettka
 
 *Source: [soundcheck](https://soundcheck.club/e/2498156-wknd-x-harris-gallus-gallus-b-day-at-weekend/)*

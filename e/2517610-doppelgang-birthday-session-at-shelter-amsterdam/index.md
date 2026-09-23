@@ -1,6 +1,6 @@
 # Doppelgang Birthday Session at Shelter Amsterdam
 
-Doppelgang Birthday Session at Shelter Amsterdam on Fri 9 Oct, Amsterdam. 6 acts on the bill: 36framez, Bennet, Bennet (DE) and Budino and 2 more. House. Preview the line-up and save it on soundcheck.
+Doppelgang Birthday Session at Shelter Amsterdam on Fri 9 Oct, Amsterdam. 5 acts on the bill: 36framez, Bennet (DE), Budino and Doppelgang and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Doppelgang Birthday Session at Shelter Amsterdam on Fri 9 Oct, Amsterdam. 6 acts
 ## Line-up
 
 - 36framez
-- Bennet
 - Bennet (DE)
 - Budino
 - Doppelgang

@@ -1,6 +1,6 @@
 # Electronic Music Producer Meetup & Demo Feedback Session FYOS ADE at Duke Of Tokyo
 
-Electronic Music Producer Meetup & Demo Feedback Session FYOS ADE at Duke Of Tokyo on Thu 22 Oct, Amsterdam. 8 acts on the bill: ARYA (3), BAY-BUSH-KA, Better Late and Ceri and 4 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Electronic Music Producer Meetup & Demo Feedback Session FYOS ADE at Duke Of Tokyo on Thu 22 Oct, Amsterdam. 6 acts on the bill: ARYA (3), Better Late, Ceri and Fari Mond and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,10 @@ Electronic Music Producer Meetup & Demo Feedback Session FYOS ADE at Duke Of Tok
 ## Line-up
 
 - ARYA (3)
-- BAY-BUSH-KA
 - Better Late
 - Ceri
 - Fari Mond
 - Mica (UK)
-- Niamh (2)
 - Urbi
 
 *Source: [soundcheck](https://soundcheck.club/e/2530980-electronic-music-producer-meetup-demo-feedback-session-fyos/)*

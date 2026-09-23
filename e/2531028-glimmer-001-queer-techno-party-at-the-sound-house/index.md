@@ -1,6 +1,6 @@
 # GLIMMER 001: Queer Techno Party at The Sound House
 
-GLIMMER 001: Queer Techno Party at The Sound House on Fri 23 Oct, Dublin. 3 acts on the bill: Nymed, Sémaé and Wotton. Techno. Preview the line-up and save it on soundcheck.
+GLIMMER 001: Queer Techno Party at The Sound House on Fri 23 Oct, Dublin. 2 acts on the bill: Sémaé and Wotton. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ GLIMMER 001: Queer Techno Party at The Sound House on Fri 23 Oct, Dublin. 3 acts
 
 ## Line-up
 
-- Nymed
 - Sémaé
 - Wotton
 

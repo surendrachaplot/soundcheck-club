@@ -8,7 +8,7 @@ Hotel Butterfly is a music venue in Rome listed on soundcheck. 3 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | MAISON BINARIO with MELODY @Hotel Butterfly | Marais, Melody RA+RE, Melowdee, N0BLE R0T, Nic Siena |
+| Wed, 23 Sept 2026 | MAISON BINARIO with MELODY @Hotel Butterfly | Marais, Melody RA+RE, N0BLE R0T, Nic Siena |
 | Thu, 24 Sept 2026 | Goaultrabeat - Hotel Butterfly | Daniele Pavoni, FRANKIEE |
 | Sun, 27 Sept 2026 | L'Osteria Elettronica - Maison Binario & Bazaar 84th & Face | MaLo, Schatzï |
 

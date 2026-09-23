@@ -12,7 +12,7 @@ Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 9 
 | Wed, 21 Oct 2026 | Becking presents: DAMSKO GARAGE | Becking, Eloquin, Jamie Unknown, Kirilski |
 | Thu, 22 Oct 2026 | WHO Plays x ADE | Johan S (SE), Rue Jay, Trimtone, WHO |
 | Thu, 22 Oct 2026 | Apuliart x ADE |  |
-| Thu, 22 Oct 2026 | ApuliArt DJ School ADE Showcase |  |
+| Thu, 22 Oct 2026 | ApuliArt DJ School ADE Showcase | Gabriele Congedo |
 | Fri, 23 Oct 2026 | HouseU Party Amsterdam ADE |  |
 | Fri, 23 Oct 2026 | HouseU Amsterdam x ADE | Angelo Ferreri, Mattei & Omich, ROOG |
 | Sat, 24 Oct 2026 | STARGUARDZ x ADE | Erick E |

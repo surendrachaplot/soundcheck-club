@@ -1,13 +1,14 @@
 # Tash LC
 
-Tash LC is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Tash LC is a House and Dancehall artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at QUIVR, Brisbane on Fri, 2 Oct 2026.
 
-Tash LC is a dancehall and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Ahadadream, Eris Drew and Jamz Supernova. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Tash LC is a house and dancehall artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Jamz Supernova, Ahadadream and Eris Drew. Next up: QUIVR, Brisbane on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | QUIVR | Brisbane |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 16 Oct 2026 | Ormside Projects | London |
@@ -26,6 +27,6 @@ Tash LC is a dancehall and house artist tracked on soundcheck, with 123 sets log
 
 ## Shares bills with
 
-Ahadadream, Eris Drew, Jamz Supernova
+Jamz Supernova, Ahadadream, Eris Drew
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

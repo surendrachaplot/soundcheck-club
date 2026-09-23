@@ -1,13 +1,14 @@
 # STOFFELA
 
-STOFFELA is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+STOFFELA is a Afro House and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-STOFFELA is an afro house and r&b artist based in South Africa, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 3 more. Often billed alongside Shimza, ARODES and Francis Mercier. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+STOFFELA is an afro house and r&b artist based in South Africa, tracked on soundcheck, with 10 sets logged across All, Amsterdam, Barcelona and Ibiza and 4 more. Often billed alongside Shimza, ARODES and AWEN. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ STOFFELA is an afro house and r&b artist based in South Africa, tracked on sound
 
 ## Shares bills with
 
-Shimza, ARODES, Francis Mercier
+Shimza, ARODES, AWEN
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*

@@ -9,7 +9,7 @@ Abbotsford Convent is a music venue in Melbourne listed on soundcheck. 2 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | -TOPIA Festival 2026 | Amaliah, Cousin, Cutting Room, DJ Fett Burger, DJ JNETT, DJ Luv You, Harold, Kate Miller, Krakatau, LOIF, Lauren Hansom, Mayari (2), Sina (AU), Telephones, Willis Anne, babyxxan |
-| Sat, 14 Nov 2026 | CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III | Aquenta, Ayebatonye, Caucasian Opportunities, DJ Luv You, Dashé, Jesse DM, Junior M (US), Simonetti, TAVONGA |
+| Sat, 14 Nov 2026 | CONFIDE & LUNA Blessings ✽ A Queer Spring Awakening III | Aquenta, Ayebatonye, Caucasian Opportunities, DJ Luv You, Dashé, Jesse DM, Junior M (US), Simona Castricum, Simonetti, TAVONGA |
 
 ## Address
 

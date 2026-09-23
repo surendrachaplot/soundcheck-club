@@ -1,6 +1,6 @@
 # Sameheads x Salon des Amateurs at Salon des Amateurs
 
-Sameheads x Salon des Amateurs on Sat 10 Oct, Dusseldorf. 4 acts on the bill: An-i, Courtney Bailey, Lucas Croon and Tornado Wallace. Preview the line-up and save it on soundcheck.
+Sameheads x Salon des Amateurs on Sat 10 Oct, Dusseldorf. 3 acts on the bill: An-i, Lucas Croon and Tornado Wallace. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Sameheads x Salon des Amateurs on Sat 10 Oct, Dusseldorf. 4 acts on the bill: An
 ## Line-up
 
 - An-i
-- Courtney Bailey
 - Lucas Croon
 - Tornado Wallace
 

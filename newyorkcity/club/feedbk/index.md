@@ -17,7 +17,7 @@ feedbk is a music venue in Newyorkcity listed on soundcheck. 16 upcoming gigs, w
 | Thu, 8 Oct 2026 | feedbk x risk reward with B.Love, Daniel Dutts | B.Love, Daniel Dutts |
 | Fri, 9 Oct 2026 | feedbk with DJ Tree, Dizzy | DJ Tree, Dizzy |
 | Sat, 10 Oct 2026 | feedbk with Taylor Shockley, Hugo | Hugo (US), Taylor Shockley |
-| Fri, 16 Oct 2026 | feedbk with Meligaarden and Amelia Holt, Second Contact | Amelia Holt, Meilgaarden, Second Contact |
+| Fri, 16 Oct 2026 | feedbk with Meilgaarden and Amelia Holt, Second Contact | Amelia Holt, Meilgaarden, Second Contact |
 
 ## Address
 

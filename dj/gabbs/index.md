@@ -1,8 +1,8 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Night Tales Loft, London on Sat, 10 Oct 2026.
+Gabbs is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Night Tales Loft, London on Sat, 10 Oct 2026.
 
-Gabbs is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside Alexia Glensy, Alex Dima and Christian AB. Next up: Night Tales Loft, London on Sat 10 Oct.
+Gabbs is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside Alexia Glensy, Alex Dima and Christian AB. Next up: Night Tales Loft, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,6 @@ Gabbs is a house and techno artist tracked on soundcheck, with 185 sets logged a
 | Sat, 24 Oct 2026 | Under Bron | Stockholm |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 6 Nov 2026 | Lasociaciøn | Madrid |
-| Sat, 14 Nov 2026 | fabric | London |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 

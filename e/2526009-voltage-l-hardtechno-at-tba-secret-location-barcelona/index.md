@@ -1,6 +1,6 @@
 # VOLTAGE l HardTechno at TBA - SECRET LOCATION (BARCELONA)
 
-VOLTAGE l HardTechno at TBA - SECRET LOCATION (BARCELONA) on Fri 2 Oct, Barcelona. 3 acts on the bill: DIDIXX, ERØXX and Kingsmo. Techno and Industrial. Preview the line-up and save it on soundcheck.
+VOLTAGE l HardTechno at TBA - SECRET LOCATION (BARCELONA) on Fri 2 Oct, Barcelona. 2 acts on the bill: ERØXX and Kingsmo. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ VOLTAGE l HardTechno at TBA - SECRET LOCATION (BARCELONA) on Fri 2 Oct, Barcelon
 
 ## Line-up
 
-- DIDIXX
 - ERØXX
 - Kingsmo
 

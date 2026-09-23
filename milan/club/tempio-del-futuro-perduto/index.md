@@ -9,7 +9,7 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upc
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū | KINTEL, SHŪ (1), ZHAZHA WANG |
-| Sat, 26 Sept 2026 | Educazione Techno Sessuale | Acidalia, Alimac, Elisa Bee, Naydiaa, ÆQUAL |
+| Sat, 26 Sept 2026 | Educazione Techno Sessuale | Acidalia, Alimac, Elisa Bee, ÆQUAL |
 | Thu, 1 Oct 2026 | Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes | BIAES, Manuel Di Martino, Niceteed, Subradeon |
 | Fri, 2 Oct 2026 | Oriental Techno Club - 東極玄音寺: vvekapipo, SENAIDA, Morva | SENAIDA, Zenyee, vvekapipo |
 | Sat, 3 Oct 2026 | NOTTE TEKNO: Stiwie (MayDay Soundystem), Dolce Potente, DTS live, Atmosphreal | Atmosphreal, DRUM THE SYSTEM live, Dolce Potente |

@@ -1,6 +1,6 @@
 # Disorder presents: Bryan Gee (V Recordings) & Freddy B [2 HOUR SET] at The Bongo Club
 
-Disorder presents: Bryan Gee (V Recordings) & Freddy B [2 HOUR SET] at The Bongo Club on Fri 9 Oct, Edinburgh. 3 acts on the bill: Bryan Gee, Harry Jackson and MC Gusto. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Disorder presents: Bryan Gee (V Recordings) & Freddy B [2 HOUR SET] at The Bongo Club on Fri 9 Oct, Edinburgh. 2 acts on the bill: Bryan Gee and Harry Jackson. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Disorder presents: Bryan Gee (V Recordings) & Freddy B [2 HOUR SET] at The Bongo
 
 - Bryan Gee
 - Harry Jackson
-- MC Gusto
 
 *Source: [soundcheck](https://soundcheck.club/e/2500764-disorder-presents-bryan-gee-v-recordings-freddy-b-2-hour-set/)*

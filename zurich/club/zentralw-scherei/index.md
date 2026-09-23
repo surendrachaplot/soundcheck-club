@@ -8,7 +8,7 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 2 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR | Elena Colombi, Fantastic Twins |
+| Sat, 26 Sept 2026 | TILT / 20 YRS SAMEHEADS ANNIVERSARY TOUR | Elena Colombi, Fantastic Twins, OG Juan |
 | Sat, 10 Oct 2026 | Dubtopia 15 years in ZW | CRi, F1-PV, Phrex, Timnah, ojoo |
 
 ## Address

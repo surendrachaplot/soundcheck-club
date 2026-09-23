@@ -12,7 +12,7 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 5 upcoming gig
 | Sat, 10 Oct 2026 | Paint Records Open Air 02 | Laughing Man, Pat Hyland |
 | Fri, 16 Oct 2026 | Circles: Moodymann | Moodymann, Sahana, Surka (1) |
 | Sat, 24 Oct 2026 | Circles: Egyptian Lover | Egyptian Lover, hellokt |
-| Sun, 25 Oct 2026 | Bodytonic presents Catz N Dogz | Animwal, Catz 'N Dogz, SHO |
+| Sun, 25 Oct 2026 | Bodytonic presents Catz N Dogz | Animwal, Catz 'N Dogz |
 
 ## Address
 

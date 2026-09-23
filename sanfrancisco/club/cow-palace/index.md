@@ -8,7 +8,7 @@ Cow Palace is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Dom Dolla | Clearcast, DJ Seinfeld, Dom Dolla, HAAi, Saint Ludo, Sam Gellaitry, Skiis |
+| Fri, 16 Oct 2026 | Dom Dolla | Clearcast, DJ Seinfeld, Dom Dolla, HAAi, Skiis |
 | Fri, 13 Nov 2026 | Sammy Virji | Saint Ludo, Sam Gellaitry, Sammy Virji |
 
 ## Address

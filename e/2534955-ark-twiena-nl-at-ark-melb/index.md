@@ -1,6 +1,6 @@
 # ark // TWIENA [NL] at ark (Melb)
 
-ark // TWIENA [NL] at ark (Melb) on Sat 3 Oct, Melbourne. 2 acts on the bill: Mikalah Watego and TWIENA. Techno and House. Preview the line-up and save it on soundcheck.
+ark // TWIENA [NL] at ark (Melb) on Sat 3 Oct, Melbourne. 1 act on the bill: TWIENA. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ ark // TWIENA [NL] at ark (Melb) on Sat 3 Oct, Melbourne. 2 acts on the bill: Mi
 
 ## Line-up
 
-- Mikalah Watego
 - TWIENA
 
 *Source: [soundcheck](https://soundcheck.club/e/2534955-ark-twiena-nl-at-ark-melb/)*

@@ -8,10 +8,10 @@ Weekend is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | WKND X HARRIS & GALLUS – GALLUS B-DAY | Alex Gallus, Coss, Zettka |
+| Fri, 25 Sept 2026 | WKND X HARRIS & GALLUS – GALLUS B-DAY | Alex Gallus, Coss |
 | Sun, 27 Sept 2026 | after hours [Marathon Party by Ante] | icykof |
 | Sat, 3 Oct 2026 | PROPAGANDA – 20TH ANNIVERSARY |  |
-| Fri, 9 Oct 2026 | WKND X MOVE ROOF | Anna Belove, Misha Svirid, Phonique, SOROUSH |
+| Fri, 9 Oct 2026 | WKND X MOVE ROOF | Anna Belove, Phonique, SOROUSH |
 | Sat, 10 Oct 2026 | NOIRE - TAKE ME HIGHER | A.M.R, Us Two |
 | Fri, 16 Oct 2026 | WKND X OFFLINE | DJ PayPaul |
 | Fri, 23 Oct 2026 | WKND X USHA BERLIN | Denno Matini |

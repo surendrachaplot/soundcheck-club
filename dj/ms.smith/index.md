@@ -2,7 +2,7 @@
 
 MS.SMITH is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-MS.SMITH is a techno and bass artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Del (4), Mnemonics and FINISHHER. Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
+MS.SMITH is a techno and bass artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Del (4), FINISHHER and Mnemonics. Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ MS.SMITH is a techno and bass artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Del (4), Mnemonics, FINISHHER
+Del (4), FINISHHER, Mnemonics
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.smith/)*

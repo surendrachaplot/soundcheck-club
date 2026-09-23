@@ -1,14 +1,13 @@
 # Basic Channel
 
-Basic Channel is a Trance and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
+Basic Channel is a Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
 
-Basic Channel is a trance and dub artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam, Dublin, Nantes and Nurnberg. Often billed alongside Moritz von Oswald, Akira Yamagata and Bernossi. Next up: Macadam, Nantes on Sun 18 Oct.
+Basic Channel is a dub artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam, Dublin and Nurnberg. Often billed alongside Moritz von Oswald, Bernossi and Cleric. Next up: Melkweg, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Macadam | Nantes |
 | Sun, 25 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
@@ -18,6 +17,6 @@ Basic Channel is a trance and dub artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-Moritz von Oswald, Akira Yamagata, Bernossi
+Moritz von Oswald, Bernossi, Cleric
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchannel/)*

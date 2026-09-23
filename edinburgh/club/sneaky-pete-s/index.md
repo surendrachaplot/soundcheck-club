@@ -9,7 +9,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Mélange: All Night Long | Gabriel Griffith, Mélanger le Miel |
-| Thu, 24 Sept 2026 | YBZ INVITES // SIERPINSKI (Frisbee Aerobics) | Georj, Georj (2), Gilbo, Texyo, billybawbags |
+| Thu, 24 Sept 2026 | YBZ INVITES // SIERPINSKI (Frisbee Aerobics) | Georj (2), Gilbo, Texyo, billybawbags |
 | Fri, 25 Sept 2026 | Telfort's Good Place: noodle | Telfort, noodle |
 | Sat, 26 Sept 2026 | Soul Jam: Donna Gibson | Donna Gibson, Percy Main, Tuesday Gonzalez |
 | Sun, 27 Sept 2026 | James Lavelle + Kris Wasabi: Free Time - Edinburgh | James Lavelle, Kris Wasabi |

@@ -1,8 +1,8 @@
 # Niotech
 
-Niotech is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
+Niotech is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
 
-Niotech is a techno and trance artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 17 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: OST, Berlin on Fri 9 Oct.
+Niotech is a techno and trance artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 17 more. Often billed alongside AREA ØNE, 3LEEZA and IGDA. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Niotech is a techno and trance artist tracked on soundcheck, with 77 sets logged
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
-| Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 24 Oct 2026 | Hangar 34 | Liverpool |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 

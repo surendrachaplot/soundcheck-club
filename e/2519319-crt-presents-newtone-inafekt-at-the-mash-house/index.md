@@ -1,6 +1,6 @@
 # CRT presents NewTone // Inafekt at The Mash House
 
-CRT presents NewTone // Inafekt at The Mash House on Sat 10 Oct, Edinburgh. 6 acts on the bill: CLEAR UK, DJ PLANE-SPOTTER, DJP (1) and Inafekt and 2 more. House. Preview the line-up and save it on soundcheck.
+CRT presents NewTone // Inafekt at The Mash House on Sat 10 Oct, Edinburgh. 5 acts on the bill: CLEAR UK, DJ PLANE-SPOTTER, Inafekt and NewTone and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ CRT presents NewTone // Inafekt at The Mash House on Sat 10 Oct, Edinburgh. 6 ac
 
 - CLEAR UK
 - DJ PLANE-SPOTTER
-- DJP (1)
 - Inafekt
 - NewTone
 - Phoebe Roper

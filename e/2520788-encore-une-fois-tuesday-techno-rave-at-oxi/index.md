@@ -1,6 +1,6 @@
 # ✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI
 
-✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 29 Sept, Berlin. 5 acts on the bill: BLACK ANTHEM RESTORE, Lola Kay, Majdolen and Rachel Noon and 1 more. Techno. Preview the line-up and save it on soundcheck.
+✦encore.une.fois✦ / TUESDAY TECHNO RAVE at OXI on Tue 29 Sept, Berlin. 4 acts on the bill: BLACK ANTHEM RESTORE, Lola Kay, Rachel Noon and YAZMIN (MT). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@
 
 - BLACK ANTHEM RESTORE
 - Lola Kay
-- Majdolen
 - Rachel Noon
 - YAZMIN (MT)
 

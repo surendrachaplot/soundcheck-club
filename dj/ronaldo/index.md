@@ -1,14 +1,13 @@
 # Ronaldo
 
-Ronaldo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Substance Skatepark, New York City on Sat, 26 Sept 2026.
+Ronaldo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
 
-Ronaldo is a house and techno artist based in Mexico, tracked on soundcheck, with 29 sets logged across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO (2), Adrian Hex and Armii1n. Next up: Substance Skatepark, Newyorkcity on Sat 26 Sept.
+Ronaldo is a house and techno artist based in Mexico, tracked on soundcheck, with 28 sets logged across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO (2), Adrian Hex and Armii1n. Next up: Dead Letter No. 9, Newyorkcity on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Substance Skatepark | New York City |
 | Fri, 30 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 

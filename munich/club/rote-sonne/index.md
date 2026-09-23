@@ -9,7 +9,7 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 3 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | UNTREATED | An Chen, CLOSURE (DE), STARKILLER.DE |
-| Sat, 26 Sept 2026 | slippy series | DJ Yugo, ENERGY TAPE, Knallplatten, Liroy, crystal crimez (2) |
+| Sat, 26 Sept 2026 | slippy series | DJ Yugo, Knallplatten, Liroy, crystal crimez (2) |
 | Sat, 3 Oct 2026 | RAUM Records x Rote Sonne | Obscur, Verhall, manu abeca |
 
 ## Address

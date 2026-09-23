@@ -9,7 +9,7 @@ Panke is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | AJULLIACOSTA | SILVASURFER000 |
-| Thu, 24 Sept 2026 | /pnèu·ma/ | AGILITÄT, E L A, ELA, Marylou, Sentient, Sentient (3), marcio |
+| Thu, 24 Sept 2026 | /pnèu·ma/ | AGILITÄT, E L A, Marylou, Sentient (3), marcio |
 | Fri, 25 Sept 2026 | Asnam presents: BURIDAN's SNARES by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana | Jana, Rama (2) |
 | Thu, 1 Oct 2026 | Matiah Chinasky&Dj Perez in Berlin |  |
 | Wed, 7 Oct 2026 | >>Who got da Props?!?<< (Open Mic with DJ BOOM BAP) ONOSIZO (Walkin´ Large) & DJ DISCJOCKEY) |  |

@@ -2,7 +2,7 @@
 
 Zeeva is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
 
-Zeeva is a tech house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside ALEX PAN, Daizy and Late Replies. Next up: Hart Bar, Newyorkcity on Fri 25 Sept.
+Zeeva is a tech house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside ALEX PAN, Late Replies and LockEight. Next up: Hart Bar, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Zeeva is a tech house and house artist based in United States of America, tracke
 
 ## Shares bills with
 
-ALEX PAN, Daizy, Late Replies
+ALEX PAN, Late Replies, LockEight
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeeva/)*

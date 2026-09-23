@@ -1,14 +1,13 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
+KAVARI is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tunelowa, Warsaw on Sat, 3 Oct 2026.
 
-KAVARI is an experimental and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 34 more. Often billed alongside Blood of Aza, Blawan and KLAUDIO. Next up: The Midway, Sanfrancisco on Sun 27 Sept.
+KAVARI is an experimental and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 33 more. Often billed alongside Blood of Aza, Blawan and KLAUDIO. Next up: Tunelowa, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | The Midway | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Tunelowa | Warsaw |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |

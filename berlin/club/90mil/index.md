@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | POLLEN: 90mil radio festival | 3rd Party Influence, Bernhard Hollinger, Broshuda, Depuratumba, Federico Torres, Hilary C/B, Karim Khelil, Kasei P, Leila Hassan, Mathilde Nobel, Max Volume, Nilgün Özer, Oman Sounds, Panalog, Reinartz, Rocco.fx, Rowan, VictorDiscos, Vile Tensor, jahiht |
+| Fri, 25 Sept 2026 | POLLEN: 90mil radio festival | 3rd Party Influence, Bernhard Hollinger, Broshuda, Depuratumba, Federico Torres, Hilary C/B, Karim Khelil, Kasei P, Mathilde Nobel, Max Volume, Nilgün Özer, Oman Sounds, Panalog, Reinartz, Rocco.fx, VictorDiscos, Vile Tensor, jahiht |
 | Fri, 25 Sept 2026 | BMS59 | 3rd Party Influence, Depuratumba, Rocco.fx, Vile Tensor |
 | Sat, 26 Sept 2026 | OPEN DY*KE | Ami Wokloni, Mahita, Sk [Rain], gugol maps |
 | Wed, 14 Oct 2026 | salox90mil: My New Band Believe + Jasper Llewellyn (Caroline) |  |

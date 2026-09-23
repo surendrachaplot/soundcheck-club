@@ -1,13 +1,14 @@
 # Royksopp
 
-Royksopp is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Royksopp is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Royksopp is a house and electronica artist based in Norway, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Austin and Barcelona and 20 more. Often billed alongside Ben Böhmer, Jayda G and The Blaze. Next up: Stinsen, Stockholm on Fri 27 Nov.
+Royksopp is a house and electronica artist based in Norway, tracked on soundcheck, with 41 sets logged across All, Amsterdam, Athens and Austin and 21 more. Often billed alongside Ben Böhmer, Jayda G and The Blaze. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 18 Dec 2026 | Lula Club | Madrid |
 

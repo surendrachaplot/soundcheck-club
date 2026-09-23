@@ -14,9 +14,9 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming 
 | Sat, 26 Sept 2026 | The Jukeboxx: James Juke + shanty mane | James Juke, shanty mane |
 | Sun, 27 Sept 2026 | Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire | Caire, KIMKILLA, Lily Ardalan, Remniqe, Symonne, yNOTi |
 | Wed, 30 Sept 2026 | Music City: Neil Macc, Jay Boogie, Jon Elliott | Neil Macc |
-| Thu, 1 Oct 2026 | People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY | Han G, Jake From State Pharm, RICK E, emme (2) |
+| Thu, 1 Oct 2026 | People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY | Han G, Jake From State Pharm, RICK E |
 | Sat, 3 Oct 2026 | Office Hours: GIANNA, Arjun Shah, Inés | Arjun Shah, GIANNA, Inés |
-| Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses, Kata (1) |
+| Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses |
 | Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago, Pedestrian Access |
 
 ## Address

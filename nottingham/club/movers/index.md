@@ -10,7 +10,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming gigs, wi
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] | Milzy, TABZ |
 | Fri, 25 Sept 2026 | Electroclash Y2K |  |
-| Sat, 26 Sept 2026 | Jack DiY [DiY Soundsystem] + Lolly | Jack DiY |
+| Sat, 26 Sept 2026 | Jack DiY [DiY Soundsystem] + Lolly - Extended Party | Jack DiY |
 | Sat, 26 Sept 2026 | Free Party: A Folk History [Film Screening 6-8pm] |  |
 | Sat, 26 Sept 2026 | CØMPAKT MINI-MARKET: SMALL PRESS |  |
 | Thu, 1 Oct 2026 | mixclub: electro with Blaze, Elo, Another Place & Leany |  |

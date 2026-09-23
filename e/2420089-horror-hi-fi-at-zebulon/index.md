@@ -1,6 +1,6 @@
 # Horror Hi-Fi at Zebulon
 
-Horror Hi-Fi at Zebulon on Sat 24 Oct, Losangeles. 3 acts on the bill: Alex Oxley, Horror Hi-Fi and Roxanne Roll. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+Horror Hi-Fi at Zebulon on Sat 24 Oct, Losangeles. 2 acts on the bill: Alex Oxley and Roxanne Roll. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Horror Hi-Fi at Zebulon on Sat 24 Oct, Losangeles. 3 acts on the bill: Alex Oxle
 ## Line-up
 
 - Alex Oxley
-- Horror Hi-Fi
 - Roxanne Roll
 
 *Source: [soundcheck](https://soundcheck.club/e/2420089-horror-hi-fi-at-zebulon/)*

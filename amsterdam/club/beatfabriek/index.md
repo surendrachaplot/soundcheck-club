@@ -8,6 +8,6 @@ Beatfabriek is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | House of Chic x GYM: ABV LDN | Bear Winder, CHANNE, Dante Tom, GraceBones, Groove Assassin, James Hurr, Josh Byrne, Josh Byrne (2), Juju, Michael Pieterse, Raw Underground, Seamus Haji, Tough Love, Trimtone |
+| Fri, 23 Oct 2026 | House of Chic x GYM: ABV LDN | Bear Winder, CHANNE, Dante Tom, GraceBones, Groove Assassin, James Hurr, Josh Byrne (2), Juju, Michael Pieterse, Raw Underground, Seamus Haji, Tough Love, Trimtone |
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/beatfabriek/)*

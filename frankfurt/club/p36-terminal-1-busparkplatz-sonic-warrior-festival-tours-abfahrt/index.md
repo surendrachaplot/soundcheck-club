@@ -8,7 +8,7 @@ P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music v
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Bus zum Syndicate Festival 2026 (Hardcore) | Act of Rage, Angerfist, Dr Donk, Host (CA), Korsakoff, Mad Dog, Marc Acardipane, Mish, Neophyte, Panic, Partyraiser, Paul Elstak, Pinotello, Predator, The Dark Horror, vince |
+| Sat, 3 Oct 2026 | Bus zum Syndicate Festival 2026 (Hardcore) | Act of Rage, Angerfist, Dr Donk, Host (CA), Korsakoff, Mad Dog, Marc Acardipane, Mish, Neophyte, Panic, Partyraiser, Paul Elstak, Pinotello, Predator, The Dark Horror |
 | Sat, 3 Oct 2026 | Bus zur Kult Location Sandsteinhöhlen Halberstadt (Tekk mit Alfred Heinrichs) | Abzocka, Compact Grey, aehm |
 | Sat, 10 Oct 2026 | Bus zu Noisekick 's Terrordrang | Stinger, TINNITUS, Tripped |
 | Sat, 10 Oct 2026 | Bus zu 15 Jahre Extaso ins Glashaus, Worbis (Tekk) | Cube |

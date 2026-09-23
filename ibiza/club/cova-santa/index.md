@@ -11,7 +11,7 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with
 | Fri, 25 Sept 2026 | WooMooN | Argia, BOHEM, Bora Uzer, Valentin Huedo |
 | Sat, 26 Sept 2026 | Masaka Africana |  |
 | Sun, 27 Sept 2026 | SIGHT & PANTHEØN | ART NO LOGIA, Abdon, Aca [RO], Detlef, Dimmish, JANSE, Marian, Sante Sansone, Tony Guerra |
-| Tue, 29 Sept 2026 | PIV IBIZA TUESDAYS - September 29 | Boss Priester, Klaudie, Nautica, Prunk, Riordan, TSHA |
+| Tue, 29 Sept 2026 | PIV IBIZA TUESDAYS - September 29 | Boss Priester, Klaudie, Nautica, Prunk, TSHA |
 | Fri, 2 Oct 2026 | WooMooN CLOSING PARTY | Christian Löffler, Deer Jade, Igor Marijuan, Isadora, Jan Blomqvist, Rayco Santos, Super Flu |
 | Tue, 6 Oct 2026 | PIV IBIZA TUESDAYS - The Grand Closing (october 6) | Archie Hamilton, Kellie Allen, Kepler, Klaudie, Prunk, Retrouve, Verso |
 

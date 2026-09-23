@@ -1,15 +1,14 @@
 # Locre
 
-Locre is a Club and R&B artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
+Locre is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
 
-Locre is a club and r&b artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Warlord®, Anthracene and Sugar Barbie. Next up: Marmorbar, Berlin on Sat 26 Sept.
+Locre is a club and r&b artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Warlord®, Anthracene and Freestyler (2). Next up: Marmorbar, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Marmorbar | Berlin |
-| Fri, 2 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 17 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
@@ -25,6 +24,6 @@ Locre is a club and r&b artist based in Germany, tracked on soundcheck, with 17 
 
 ## Shares bills with
 
-Warlord®, Anthracene, Sugar Barbie
+Warlord®, Anthracene, Freestyler (2)
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*

@@ -8,7 +8,7 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // Goh Well | Goh Well, Moontalk, OKAMI, THEMPRESS |
+| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // Goh Well | Goh Well, Moontalk, OKAMI |
 | Sat, 26 Sept 2026 | Kula Collective: Sticky Dub, donwella, Zafeer | Sticky Dub, donwella |
 | Fri, 2 Oct 2026 | OONTS: Kojay B2B P-Lucas // DREY B2B Kanem // Rich B2B Last Nubian | DREY, Kanem, Kojay, Last Nubian, P-Lucas, Rich |
 | Sat, 3 Oct 2026 | Grow PRESENTS: CSGRV & DEMACQUE + SPECIAL GUEST RICK VAYO [LIVE] | CSGRV, Tapefeed |

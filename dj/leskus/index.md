@@ -2,7 +2,7 @@
 
 Leskus is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
-Leskus is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Budapest and Frankfurt. Often billed alongside MAHA, Parallx and Tarkan. Next up: Arzenal, Budapest on Sat 7 Nov.
+Leskus is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Budapest and Frankfurt. Often billed alongside Parallx, Tarkan and AESZTETIK. Next up: Arzenal, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Leskus is a techno artist based in Germany, tracked on soundcheck, with 2 sets l
 
 ## Shares bills with
 
-MAHA, Parallx, Tarkan
+Parallx, Tarkan, AESZTETIK
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*

@@ -8,7 +8,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 39 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Diskotek x Mr. B | Isa Rojas, Mr. B |
+| Wed, 23 Sept 2026 | Diskotek x Mr. B | Mr. B |
 | Thu, 24 Sept 2026 | Kosmic | HeAndMe, Ivan Pugliares, Reezar |
 | Fri, 25 Sept 2026 | United Techno presents Red Room | Gabo Oliveira, Rods Franchin |
 | Sat, 26 Sept 2026 | After Last Night | Fabio Fortino, John Schüller |

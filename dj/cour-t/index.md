@@ -1,15 +1,14 @@
 # Cour T.
 
-Cour T. is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
+Cour T. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
 
-Cour T. is a house and tech house artist tracked on soundcheck, with 11 sets logged across Losangeles, Miami, Newyorkcity and Sandiego and 2 more. Often billed alongside RaeCola, Sprout and Acácio Moura. Next up: D-EDGE, Saopaulo on Fri 25 Sept.
+Cour T. is a house and tech house artist tracked on soundcheck, with 10 sets logged across Losangeles, Miami, Newyorkcity and Sandiego and 2 more. Often billed alongside RaeCola, Sprout and Acácio Moura. Next up: D-EDGE, Saopaulo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | D-EDGE | Sao Paulo |
-| Sat, 12 Dec 2026 | Refuge | New York City |
 
 ## Recently played
 

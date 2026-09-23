@@ -1,14 +1,13 @@
 # Groove
 
-Groove is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+Groove is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at the inner circle vienna / wien, Vienna on Sat, 10 Oct 2026.
 
-Groove is a techno and acid artist based in Bulgaria, tracked on soundcheck, with 24 sets logged across Athens, Bangkok, Berlin and Bristol and 9 more. Often billed alongside DANI8L, ANNA and After X. Next up: Brixton Radio, London on Fri 2 Oct.
+Groove is a techno and acid artist based in Bulgaria, tracked on soundcheck, with 23 sets logged across Athens, Bangkok, Berlin and Bristol and 9 more. Often billed alongside DANI8L, ANNA and After X. Next up: the inner circle vienna / wien, Vienna on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Brixton Radio | London |
 | Sat, 10 Oct 2026 | the inner circle vienna / wien | Vienna |
 
 ## Recently played

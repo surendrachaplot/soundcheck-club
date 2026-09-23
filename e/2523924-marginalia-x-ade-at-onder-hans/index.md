@@ -1,6 +1,6 @@
 # Marginalia x ADE at Onder Hans
 
-Marginalia x ADE at Onder Hans on Thu 22 Oct, Amsterdam. 13 acts on the bill: Alessio Cristiano, Alicia Hahn, Ben Eidani and Beswerda and 9 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Marginalia x ADE at Onder Hans on Thu 22 Oct, Amsterdam. 12 acts on the bill: Alessio Cristiano, Alicia Hahn, Ben Eidani and Beswerda and 8 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Marginalia x ADE at Onder Hans on Thu 22 Oct, Amsterdam. 13 acts on the bill: Al
 - Alicia Hahn
 - Ben Eidani
 - Beswerda
-- Cris-H
 - Ede
 - ELIF
 - FAE (3)

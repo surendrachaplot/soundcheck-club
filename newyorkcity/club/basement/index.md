@@ -8,7 +8,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 12 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Phil Berg, Regent, SHDW, Saia |
+| Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Regent, SHDW, Saia |
 | Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
 | Fri, 2 Oct 2026 | Zenker Brothers / Pangaea / re:ni / The Carry Nation / Analog Soul / ALEXIS DE LA ROSA | ALEXIS DE LA ROSA, Analog Soul, Pangaea, The Carry Nation, Zenker Brothers, re:ni |
 | Sat, 3 Oct 2026 | Wrecked: Julia Govor / Concrete Husband / T.Wan / S4M23 / Ryan Smith / Ron Like Hell | Concrete Husband, Julia Govor, Ron Like Hell, Ryan Smith, S4M23, T.Wan |

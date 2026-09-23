@@ -1,6 +1,6 @@
 # EDEN presents Nicole Moudaber & Grace Dahl at Athens Conservatoire - Ωδείον Αθηνών
 
-EDEN presents Nicole Moudaber & Grace Dahl at Athens Conservatoire - Ωδείον Αθηνών on Sun 22 Nov, Athens. 4 acts on the bill: Bolosis, Grace Dahl, Nicole Moudaber and Saber Rider. Techno and Tech House. Preview the line-up and save it on soundcheck.
+EDEN presents Nicole Moudaber & Grace Dahl at Athens Conservatoire - Ωδείον Αθηνών on Sun 22 Nov, Athens. 3 acts on the bill: Bolosis, Grace Dahl and Nicole Moudaber. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ EDEN presents Nicole Moudaber & Grace Dahl at Athens Conservatoire - Ωδείο�
 - Bolosis
 - Grace Dahl
 - Nicole Moudaber
-- Saber Rider
 
 *Source: [soundcheck](https://soundcheck.club/e/2498738-eden-presents-nicole-moudaber-grace-dahl-at-athens-conservat/)*

@@ -1,8 +1,8 @@
 # M4RY
 
-M4RY is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+M4RY is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-M4RY is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam and Berlin. Often billed alongside Limoncello, alemiko and HAUSBRAND. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+M4RY is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam and Berlin. Often billed alongside Limoncello, alemiko and HAUSBRAND. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ M4RY is a techno and trance artist based in Germany, tracked on soundcheck, with
 | Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
 | Fri, 16 Oct 2026 | Monarch | Berlin |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
-| Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

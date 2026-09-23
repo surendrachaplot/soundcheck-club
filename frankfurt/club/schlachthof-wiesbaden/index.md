@@ -8,7 +8,7 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 2 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys | ANN-LUX, CiKi, Elon Bass, Formale Bassgestaltung, JAZZY (2), Kacy, NIKUSH, Russian Village Boys, TATAKI, The Belgian Stallion |
+| Sat, 17 Oct 2026 | WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys | ANN-LUX, CiKi, Elon Bass, Formale Bassgestaltung, JAZZY (2), Kacy, NIKUSH, TATAKI, The Belgian Stallion |
 | Sat, 24 Oct 2026 | 19 JAHRE AUGEN ZU UND DURCH | George Perry, Mike Väth, TATAKI |
 
 ## Address

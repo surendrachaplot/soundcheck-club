@@ -1,6 +1,6 @@
 # False Idols w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason at DRUMSHEDS
 
-False Idols w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason at DRUMSHEDS on Sat 24 Oct, London. 18 acts on the bill: Cakes Da Killa, Cashu, COBRAH and Donnie Sunshine and 14 more. Club. Preview the line-up and save it on soundcheck.
+False Idols w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason at DRUMSHEDS on Sat 24 Oct, London. 17 acts on the bill: Cakes Da Killa, Cashu, COBRAH and Donnie Sunshine and 13 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ False Idols w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason at DRUM
 - Donnie Sunshine
 - Goth Jafar
 - Josh Caffé
-- Joshua James
 - Joshua James (UK)
 - Julie Desire
 - Lady Shaka

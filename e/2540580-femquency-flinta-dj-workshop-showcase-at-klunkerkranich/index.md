@@ -1,6 +1,6 @@
 # FEMQUENCY FLINTA* DJ-Workshop + Showcase at Klunkerkranich
 
-FEMQUENCY FLINTA* DJ-Workshop + Showcase at Klunkerkranich on Sat 17 Oct, Berlin. 5 acts on the bill: DINA, Lea Chuga, Ligal Tamir and Moni von Pisani and 1 more. Preview the line-up and save it on soundcheck.
+FEMQUENCY FLINTA* DJ-Workshop + Showcase at Klunkerkranich on Sat 17 Oct, Berlin. 4 acts on the bill: Lea Chuga, Ligal Tamir, Moni von Pisani and Yola Rennt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ FEMQUENCY FLINTA* DJ-Workshop + Showcase at Klunkerkranich on Sat 17 Oct, Berlin
 
 ## Line-up
 
-- DINA
 - Lea Chuga
 - Ligal Tamir
 - Moni von Pisani

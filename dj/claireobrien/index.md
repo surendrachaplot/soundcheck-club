@@ -1,13 +1,14 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Claire O'Brien is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Second Story Studios, Melbourne on Fri, 25 Sept 2026.
 
-Claire O'Brien is a techno and house artist based in Australia, tracked on soundcheck, with 37 sets logged across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and DJ PGZ. Next up: Carriageworks, Sydney on Sat 10 Oct.
+Claire O'Brien is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Cousin. Next up: Second Story Studios, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Second Story Studios | Melbourne |
 | Sat, 10 Oct 2026 | Carriageworks | Sydney |
 
 ## Recently played
@@ -23,6 +24,6 @@ Claire O'Brien is a techno and house artist based in Australia, tracked on sound
 
 ## Shares bills with
 
-ATARANGI, Effy, DJ PGZ
+ATARANGI, Effy, Cousin
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

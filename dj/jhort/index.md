@@ -1,14 +1,15 @@
 # Jhort
 
-Jhort is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at LAUT, Barcelona on Fri, 25 Sept 2026.
+Jhort is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at LAUT, Barcelona on Fri, 25 Sept 2026.
 
-Jhort is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside VOID/DIVO, Verushka and ALEKSANDRE. Next up: LAUT, Barcelona on Fri 25 Sept.
+Jhort is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside VOID/DIVO, Verushka and ALEKSANDRE. Next up: LAUT, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | LAUT | Barcelona |
+| Fri, 2 Oct 2026 | Razzmatazz | Barcelona |
 | Sun, 11 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 31 Oct 2026 | Village Underground Barcelona | Barcelona |
 

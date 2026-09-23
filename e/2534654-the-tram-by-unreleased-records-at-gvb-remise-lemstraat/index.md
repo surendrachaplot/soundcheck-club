@@ -1,6 +1,6 @@
 # THE TRAM by Unreleased Records at GVB Remise Lemstraat
 
-THE TRAM by Unreleased Records at GVB Remise Lemstraat on Fri 23 Oct, Amsterdam. 1 act on the bill: ARODES. House and Afro House. Preview the line-up and save it on soundcheck.
+THE TRAM by Unreleased Records at GVB Remise Lemstraat on Fri 23 Oct, Amsterdam. 1 act on the bill: ARODES. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

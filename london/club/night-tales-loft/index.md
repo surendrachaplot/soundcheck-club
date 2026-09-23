@@ -10,8 +10,8 @@ Night Tales Loft is a music venue in London listed on soundcheck. 29 upcoming gi
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | NT's Loft: Tonno Disko, Jamie 3:26, Leroy Rey & Malindi | Jamie 3:26, Leroy Rey, Tonno Disko |
 | Fri, 25 Sept 2026 | PLEASURE: House & Disco All Night Long |  |
-| Sat, 26 Sept 2026 | Origins: Club Angel + more | Club Angel |
-| Fri, 2 Oct 2026 | NT's Loft: n4tee, ELOQ, DAISY | DAISY, ELOQ, ESC (5), n4tee |
+| Sat, 26 Sept 2026 | Origins: Club Angel + more | Club Angel, ESC (5), Inafekt |
+| Fri, 2 Oct 2026 | NT's Loft: n4tee, ELOQ, DAISY | DAISY, ELOQ, n4tee |
 | Sat, 3 Oct 2026 | NT's Loft: John Tejada & De La Reef | De La Reef, John Tejada |
 | Fri, 9 Oct 2026 | NT's Loft: Dam Swindle | Dam Swindle |
 | Sat, 10 Oct 2026 | Origins: Gabbs (All Night Long) | Gabbs |

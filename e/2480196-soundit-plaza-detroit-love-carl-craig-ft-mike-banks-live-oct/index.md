@@ -1,6 +1,6 @@
 # SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle at Plaza Monumental de Barcelona
 
-SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle at Plaza Monumental de Barcelona on Sat 3 Oct, Barcelona. 6 acts on the bill: Carl Craig, Klara Missyle, Laia and Mike Banks and 2 more. Preview the line-up and save it on soundcheck.
+SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle at Plaza Monumental de Barcelona on Sat 3 Oct, Barcelona. 5 acts on the bill: Carl Craig, Klara Missyle, Laia and Mike Banks and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia
 - Klara Missyle
 - Laia
 - Mike Banks
-- Moodymann
 - Octave One
 
 *Source: [soundcheck](https://soundcheck.club/e/2480196-soundit-plaza-detroit-love-carl-craig-ft-mike-banks-live-oct/)*

@@ -10,7 +10,7 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs,
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Trancemaster Krause all night long | Trancemaster Krause |
 | Sat, 26 Sept 2026 | YN x BCCO | FENIM0RE, FX-31, KAROLINA, Sarica, future.666 |
-| Fri, 2 Oct 2026 | Purradox presents ØTTA HOTTIE ALBUM TOUR | Eminelli, PAUNA, PERT, Purrdition, STEYA, VOLTMARIE, ninon., ØTTA |
+| Fri, 2 Oct 2026 | Purradox presents ØTTA HOTTIES ALBUM TOUR | Eminelli, PAUNA, PERT, Purrdition, STEYA, VOLTMARIE, ninon., ØTTA |
 | Sat, 3 Oct 2026 | Feuchte Träume |  |
 | Fri, 9 Oct 2026 | Pan-Pot - Zuckerwatt | Crazy Sonic, Pan-Pot |
 | Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, Vivienna |

@@ -1,6 +1,6 @@
 # DUBMERGE: Moontalk // OKAMI // Goh Well at Grow
 
-DUBMERGE: Moontalk // OKAMI // Goh Well at Grow on Fri 25 Sept, London. 4 acts on the bill: Goh Well, Moontalk, OKAMI and THEMPRESS. Bass and Dub. Preview the line-up and save it on soundcheck.
+DUBMERGE: Moontalk // OKAMI // Goh Well at Grow on Fri 25 Sept, London. 3 acts on the bill: Goh Well, Moontalk and OKAMI. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ DUBMERGE: Moontalk // OKAMI // Goh Well at Grow on Fri 25 Sept, London. 4 acts o
 - Goh Well
 - Moontalk
 - OKAMI
-- THEMPRESS
 
 *Source: [soundcheck](https://soundcheck.club/e/2520617-dubmerge-moontalk-okami-goh-well-at-grow/)*

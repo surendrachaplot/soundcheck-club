@@ -1,6 +1,6 @@
 # SAUCED RADIO X Le Bain at Le Bain
 
-SAUCED RADIO X Le Bain on Thu 24 Sept, Newyorkcity. 4 acts on the bill: Ash, Eddy K, RICK E and Tim Dauz. Preview the line-up and save it on soundcheck.
+SAUCED RADIO X Le Bain on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Eddy K, RICK E and Tim Dauz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ SAUCED RADIO X Le Bain on Thu 24 Sept, Newyorkcity. 4 acts on the bill: Ash, Edd
 
 ## Line-up
 
-- Ash
 - Eddy K
 - RICK E
 - Tim Dauz

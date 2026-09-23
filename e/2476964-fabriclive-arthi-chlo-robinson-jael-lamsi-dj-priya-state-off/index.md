@@ -1,6 +1,6 @@
 # FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO at fabric
 
-FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO at fabric on Fri 30 Oct, London. 10 acts on the bill: Arthi, Chloé Robinson, DJ PRIYA and JAEL and 6 more. Preview the line-up and save it on soundcheck.
+FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO at fabric on Fri 30 Oct, London. 9 acts on the bill: Arthi, Chloé Robinson, DJ PRIYA and JAEL and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ FABRICLIVE: Arthi, Chloé Robinson, JAEL, LAMSI, DJ Priya, State OFFF, TOCCORORO
 - DJ PRIYA
 - JAEL
 - LAMSI
-- Priya
 - Raidaa
 - Shadobeni
 - State OFFF

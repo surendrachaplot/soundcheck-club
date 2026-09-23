@@ -11,7 +11,7 @@ Story Toronto is a music venue in Toronto listed on soundcheck. 4 upcoming gigs,
 | Fri, 25 Sept 2026 | Anyasa (Anjunadeep / Diynamic): Toronto | Anyasa |
 | Fri, 16 Oct 2026 | Ozmozis presents Khen | Andrew McDonnell, Khen |
 | Sat, 31 Oct 2026 | [CANCELLED] 404: system HALLOWEEN | KILL 9 1, Mand0, Tromblon |
-| Sat, 31 Oct 2026 | STEVE LAWLER - HALLOWEEN | TBA, Tash |
+| Sat, 31 Oct 2026 | STEVE LAWLER - HALLOWEEN | TBA |
 
 ## Address
 

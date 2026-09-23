@@ -1,6 +1,6 @@
 # Krem Fest 2026 at Kremwerk-Timbre Room-Cherry Complex
 
-Krem Fest 2026 at Kremwerk-Timbre Room-Cherry Complex on Fri 25 Sept, Seattle. 16 acts on the bill: Black Rave Culture, Ctrl.mp3, DJ SUSH and DJ WIFI and 12 more. Techno and Club. Preview the line-up and save it on soundcheck.
+Krem Fest 2026 at Kremwerk-Timbre Room-Cherry Complex on Fri 25 Sept, Seattle. 15 acts on the bill: Black Rave Culture, Ctrl.mp3, DJ SUSH and DJ WIFI and 11 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ Krem Fest 2026 at Kremwerk-Timbre Room-Cherry Complex on Fri 25 Sept, Seattle. 1
 - DJ WIFI
 - EXIS
 - flotussin
-- Jason Code
 - Jubilee
 - Kilopatrah Jones
 - Korra the Kid

@@ -1,14 +1,15 @@
 # O'SIMMIE
 
-O'SIMMIE is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
+O'SIMMIE is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
 
-O'SIMMIE is a club and baile funk artist based in Belgium, tracked on soundcheck, with 16 sets logged across Amsterdam, Brussels and Ghent. Often billed alongside Erykah, cyvira and gaiko. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
+O'SIMMIE is a bass and club artist based in Belgium, tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Erykah, cyvira and gaiko. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
+| Sat, 24 Oct 2026 | TRAUM | Antwerp |
 
 ## Recently played
 

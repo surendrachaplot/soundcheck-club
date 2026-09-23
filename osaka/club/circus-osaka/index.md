@@ -10,7 +10,7 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, wi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | REJJIE SNOW – DJ SET – |  |
 | Fri, 2 Oct 2026 | Riordan CIRCUS Osaka | Riordan |
-| Sat, 3 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, Kozee, YUVIE |
+| Sat, 3 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, YUVIE |
 | Sun, 11 Oct 2026 | QUERICO 4th Anniversary | ANCHIN, Aliceyuki, Paperkraft, SAMO (JP) |
 | Fri, 16 Oct 2026 | synts presents: Mietze Conte |  |
 | Sat, 24 Oct 2026 | MONZA | AOKI takamasa, Kohei |

@@ -1,13 +1,14 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 4 Oct 2026.
+Pan-Pot is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Pan-Pot is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Hï Ibiza, Ibiza on Sun 4 Oct.
+Pan-Pot is a techno and house artist tracked on soundcheck, with 177 sets logged across All, Amsterdam, Antwerp and Athens and 55 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Grelle Forelle | Vienna |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |

@@ -1,15 +1,14 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+Stinny Stone is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
 
-Stinny Stone is a techno and trance artist tracked on soundcheck, with 91 sets logged across Barcelona, Berlin, Budapest and Dublin and 17 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
+Stinny Stone is a techno and trance artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Budapest and Dublin and 17 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Comfort Zone | Toronto |
-| Sat, 26 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | Casa Nube Wynwood | Miami |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |

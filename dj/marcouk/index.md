@@ -1,15 +1,14 @@
 # Marco (UK)
 
-Marco (UK) is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
+Marco (UK) is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
 
-Marco (UK) is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
+Marco (UK) is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Bunker @ The Rolling Stock | London |
-| Sat, 17 Oct 2026 | Folklore | London |
 | Sat, 24 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played

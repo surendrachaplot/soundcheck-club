@@ -12,10 +12,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 71 upcoming 
 | Wed, 23 Sept 2026 | SIGNALS - 5€ Tickets - with Anna Ullrich, bouncy cat, Tom Forelli | Anna Ullrich, Tom Forelli, bouncy cat |
 | Thu, 24 Sept 2026 | Chantal's House of Shame |  |
 | Fri, 25 Sept 2026 | CANDYFLIP | DICA (FR), DJ Henk, Edgar Os, Florelle, Isabelle Beaucamp, Joey Riot, Kaltgepresst, NSLZ, SUITSIDE, alemiko, bbymeister, jeanska, m4tsch1, stargurl, subga |
-| Sat, 26 Sept 2026 | GOAT BALL SUMMER CLOSING  | DJ 069, DJ Bax, EDNA, Katy Rough, Krash Cora, MIMI404, ROÜGE, SOHOE, Stinny Stone, TERRA TWIINS, cravings320, suki, vizionn |
+| Sat, 26 Sept 2026 | GOAT BALL SUMMER CLOSING  | DJ 069, DJ Bax, EDNA, Katy Rough, Krash Cora, MIMI404, ROÜGE, TERRA TWIINS, cravings320, suki, vizionn |
 | Sun, 27 Sept 2026 | KDW x KØSE BACKYARD 'FALL EDITION' - TECHNO + MARKET & EXHIBITION | Ayham, STŒWE, UniKhatu, XHOUSTED |
 | Sun, 27 Sept 2026 | LOKSCHUPPEN SUMMER CLOSING |  |
-| Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | EGE363, GRMR, JUICY (DE), Jacky Ickx, Nettta |
+| Sun, 27 Sept 2026 | wieder: Jacky Ickx Birthday Bash | GRMR, JUICY (DE), Jacky Ickx, Nettta |
 | Tue, 29 Sept 2026 | PHASE:ONE | Levandream, Shilo |
 | Wed, 30 Sept 2026 | SIGNALS - 5€ Tickets - w/ HOOM, C:KO, DJ Primitivo | CIKO, DJ Primitivo, HOOM |
 

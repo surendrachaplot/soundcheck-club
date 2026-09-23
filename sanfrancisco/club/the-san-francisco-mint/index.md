@@ -8,7 +8,7 @@ The San Francisco Mint is a music venue in Sanfrancisco listed on soundcheck. 3 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | SQUISH x BOOF: FOLSOM | Cashu, D. Tiffany, Ehua, John Bryars, Just Another Bitch, Katie Rex, MILANA, Miss Parker, Papa Xanny, TWINS ONLINE, TYGAPAW, jcore, likeholywine, masato, nonsuit |
+| Fri, 25 Sept 2026 | SQUISH x BOOF: FOLSOM | Cashu, D. Tiffany, Ehua, John Bryars, Just Another Bitch, Katie Rex, Miss Parker, Papa Xanny, TWINS ONLINE, TYGAPAW, jcore, likeholywine, masato, nonsuit |
 | Sat, 3 Oct 2026 | Shingo Nakamura day party - SF Mint | MYRNE, Shingo Nakamura |
 | Sat, 10 Oct 2026 | Bart Skils | Bart Skils |
 

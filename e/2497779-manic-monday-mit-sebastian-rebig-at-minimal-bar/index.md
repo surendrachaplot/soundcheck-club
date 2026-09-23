@@ -1,6 +1,6 @@
 # manic.monday mit Sebastian Rebig at Minimal Bar
 
-manic.monday mit Sebastian Rebig at Minimal Bar on Mon 26 Oct, Berlin. 2 acts on the bill: Pablo Cornejo and Sebastian Rebig. Preview the line-up and save it on soundcheck.
+manic.monday mit Sebastian Rebig at Minimal Bar on Mon 26 Oct, Berlin. 1 act on the bill: Sebastian Rebig. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ manic.monday mit Sebastian Rebig at Minimal Bar on Mon 26 Oct, Berlin. 2 acts on
 
 ## Line-up
 
-- Pablo Cornejo
 - Sebastian Rebig
 
 *Source: [soundcheck](https://soundcheck.club/e/2497779-manic-monday-mit-sebastian-rebig-at-minimal-bar/)*

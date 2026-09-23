@@ -1,6 +1,6 @@
 # PRISM & NOIZER pres Len Faki at INPUT High Fidelity Dance Club
 
-PRISM & NOIZER pres Len Faki at INPUT High Fidelity Dance Club on Sat 26 Sept, Barcelona. 4 acts on the bill: Flug, Hitch, Len Faki and Ronze. Techno. Preview the line-up and save it on soundcheck.
+PRISM & NOIZER pres Len Faki at INPUT High Fidelity Dance Club on Sat 26 Sept, Barcelona. 3 acts on the bill: Flug, Len Faki and Ronze. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ PRISM & NOIZER pres Len Faki at INPUT High Fidelity Dance Club on Sat 26 Sept, B
 ## Line-up
 
 - Flug
-- Hitch
 - Len Faki
 - Ronze
 

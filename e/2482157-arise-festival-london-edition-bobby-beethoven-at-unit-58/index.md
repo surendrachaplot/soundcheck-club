@@ -1,6 +1,6 @@
 # Arise festival: London edition + Bobby Beethoven at Unit 58
 
-Arise festival: London edition + Bobby Beethoven at Unit 58 on Fri 9 Oct, London. 14 acts on the bill: acidhousewife3000, BJ Holy, bod [包家巷] and costi (1) and 10 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Arise festival: London edition + Bobby Beethoven at Unit 58 on Fri 9 Oct, London. 12 acts on the bill: acidhousewife3000, BJ Holy, bod [包家巷] and costi (1) and 8 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,10 +16,8 @@ Arise festival: London edition + Bobby Beethoven at Unit 58 on Fri 9 Oct, London
 - costi (1)
 - dbeater
 - Exploited Body
-- Hovsep
 - Hovsep (AM)
 - Moa Pillar
-- Mori Mori
 - Mujuice
 - Salena
 - Total Freedom

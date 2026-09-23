@@ -16,7 +16,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming 
 | Sat, 3 Oct 2026 | Transmissons x Breakfast Club Afterparty | Eversines, Inner Zone, Marie K (1) |
 | Sat, 3 Oct 2026 | Better Late Goes to Starlane | MUNNI, Malachy |
 | Sat, 10 Oct 2026 | OPM.FM presents Original Pirate Material | Jeremy Sylvester, KAZIA |
-| Sat, 10 Oct 2026 | Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records | Bailey Ibbs, DJ Love, DJ Love UK, Emerald |
+| Sat, 10 Oct 2026 | Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records | Bailey Ibbs, DJ Love UK, Emerald |
 | Fri, 16 Oct 2026 | The Cantina | Freddie Grisbi, Goutham, obviouslyalex |
 
 ## Address

@@ -1,6 +1,6 @@
 # WHALIEN x PISICA pres Creeds, BENNETT, FOVOS, Niotech, HANÀ and more tba at Lokschuppen Berlin
 
-WHALIEN x PISICA pres Creeds, BENNETT, FOVOS, Niotech, HANÀ and more tba at Lokschuppen Berlin on Fri 16 Oct, Berlin. 7 acts on the bill: BENNETT, HANÀ, Niotech and PEAKSOU and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+WHALIEN x PISICA pres Creeds, BENNETT, FOVOS, Niotech, HANÀ and more tba at Lokschuppen Berlin on Fri 16 Oct, Berlin. 6 acts on the bill: BENNETT, HANÀ, PEAKSOU and Saar (FR) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ WHALIEN x PISICA pres Creeds, BENNETT, FOVOS, Niotech, HANÀ and more tba at Lok
 
 - BENNETT
 - HANÀ
-- Niotech
 - PEAKSOU
 - Saar (FR)
 - Treibende Kraft

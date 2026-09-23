@@ -1,14 +1,14 @@
 # Ragoo
 
-Ragoo is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Disco Pastrami: STILL HUNGRY" on Thu, 15 Oct 2026.
+Ragoo is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Disco Pastrami: STILL HUNGRY [OPENING NIGHT]" on Thu, 15 Oct 2026.
 
-Ragoo is a music venue in Milan listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Viale Monza, 140, 20127 Milano MI, Italy.
+Ragoo is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Y-DAPT. Browse upcoming dates, start times and who's playing. Viale Monza, 140, 20127 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Disco Pastrami: STILL HUNGRY |  |
+| Thu, 15 Oct 2026 | Disco Pastrami: STILL HUNGRY [OPENING NIGHT] | Y-DAPT |
 | Thu, 29 Oct 2026 | Disco Pastrami: Must Hard |  |
 | Thu, 12 Nov 2026 | Disco Pastrami: Temple Of Taste |  |
 | Thu, 26 Nov 2026 | Disco Pastrami: Acid Sauce |  |

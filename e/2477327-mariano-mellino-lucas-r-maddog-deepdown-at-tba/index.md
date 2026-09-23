@@ -1,6 +1,6 @@
 # Mariano Mellino, Lucas R, Maddog - DEEPDOWN at TBA
 
-Mariano Mellino, Lucas R, Maddog - DEEPDOWN at TBA on Sat 10 Oct, Melbourne. 2 acts on the bill: Eelke Kleijn and Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino, Lucas R, Maddog - DEEPDOWN at TBA on Sat 10 Oct, Melbourne. 1 act on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Mariano Mellino, Lucas R, Maddog - DEEPDOWN at TBA on Sat 10 Oct, Melbourne. 2 a
 
 ## Line-up
 
-- Eelke Kleijn
 - Mariano Mellino
 
 *Source: [soundcheck](https://soundcheck.club/e/2477327-mariano-mellino-lucas-r-maddog-deepdown-at-tba/)*

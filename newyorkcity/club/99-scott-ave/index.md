@@ -9,7 +9,7 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE | A.K.R, PETERBLUE, Vladimir Dubyshkin |
-| Fri, 9 Oct 2026 | ARODES  & Guests | ARODES, JUNO (DE) |
+| Fri, 9 Oct 2026 | ARODES  & Guests | ARODES |
 | Fri, 16 Oct 2026 | DESCENDANTS with DJ TIRA, Danni Gato & More | Danni Gato, Meedy, Val Fleury, pizzi |
 | Sat, 31 Oct 2026 | Elsewhere presents: The Hellp (DJ Set) at 99 Scott |  |
 | Sat, 7 Nov 2026 | Elsewhere presents: Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM at 99 Scott | Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM |

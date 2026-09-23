@@ -11,7 +11,7 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming
 | Fri, 25 Sept 2026 | Texture Summit Pres. Residents Night | Anderson Chase, Combover, Joe Fro, Philco |
 | Fri, 2 Oct 2026 | Bounce SF: Armin Hermann + Gusted | Armin Hermann, Gusted, Star Eater |
 | Fri, 9 Oct 2026 | CLUB MUSIC |  |
-| Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Dr. Rek, Hydroplane, Xanopticon, Øbsrvr (PDX) |
+| Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Hydroplane, Xanopticon, Øbsrvr (PDX) |
 | Fri, 16 Oct 2026 | RM 303: Ghost in the Host | CHRI5PY, Jehnee, messiuhhh |
 | Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Oso Feo (2), Spiñorita, Three6sashia |
 | Fri, 30 Oct 2026 | 𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺𝑺 𝑯𝑨𝑳𝑳𝑶𝑾𝑬𝑬𝑵 | ALICE STRIBLING |

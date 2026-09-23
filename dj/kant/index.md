@@ -1,8 +1,8 @@
 # KANT
 
-KANT is a Hip-Hop and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at clubasia, Tokyo on Wed, 23 Sept 2026.
+KANT is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at clubasia, Tokyo on Wed, 23 Sept 2026.
 
-KANT is a hip-hop and bass artist tracked on soundcheck, with 23 sets logged across Berlin, Copenhagen and Tokyo. Often billed alongside FUJI TRILL, Frede (NO) and Rt3mis. Next up: clubasia, Tokyo on Wed 23 Sept.
+KANT is a hip-hop and bass artist tracked on soundcheck, with 22 sets logged across Berlin, Copenhagen and Tokyo. Often billed alongside FUJI TRILL, Frede (NO) and Rt3mis. Next up: clubasia, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ KANT is a hip-hop and bass artist tracked on soundcheck, with 23 sets logged acr
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | clubasia | Tokyo |
 | Wed, 30 Sept 2026 | clubasia | Tokyo |
-| Fri, 6 Nov 2026 | Dogenzaka Church | Tokyo |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ RICKY is a techno and gabber artist tracked on soundcheck, with 44 sets logged a
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 3 Oct 2026 | Traffic | Tokyo |
-| Sun, 11 Oct 2026 | ZUBAR | Tokyo |
+| Fri, 23 Oct 2026 | Cube | Tokyo |
 
 ## Recently played
 

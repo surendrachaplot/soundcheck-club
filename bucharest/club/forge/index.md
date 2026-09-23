@@ -16,7 +16,7 @@ Forge is a music venue in Bucharest listed on soundcheck. 15 upcoming gigs, with
 | Sat, 3 Oct 2026 | Solidago — Euphoric Festival |  |
 | Sat, 3 Oct 2026 | Battle MC Romania — Euphoric Festival |  |
 | Fri, 9 Oct 2026 | ALPHA SPECTRUM: LEVEL 05 - THE ABYSS | BBUBU, Neotroxian, Project Morpheus |
-| Fri, 9 Oct 2026 | EELF PRESENTS: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), DJ Colentina  | Paluma Sound, Shaolin Cowboy, Target Demographic |
+| Fri, 9 Oct 2026 | EELF PRESENTS: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), DJ Colentina  | Shaolin Cowboy, Target Demographic |
 | Fri, 9 Oct 2026 | EELF Presents: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), Paluma Sound(NY) | Paluma Sound, Shaolin Cowboy, Target Demographic |
 
 ## Address

@@ -9,7 +9,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | BLXXDNOISE | Neotroxian, Project Morpheus, Sitra Akhra, TRIXIÉ |
-| Fri, 16 Oct 2026 | M.I.L.K. presents HAUNTED FREQUENCY | AMEDEUS, Amnesico, CAT GROOVE, KATHERYNE, LVUR, Sandraz, Stefan Hernandez |
+| Fri, 16 Oct 2026 | M.I.L.K. presents HAUNTED FREQUENCY | AMEDEUS, Amnesico, CAT GROOVE, KATHERYNE, Sandraz |
 | Fri, 20 Nov 2026 | M.I.L.K. feat. DORNATECHNO | AMEDEUS, Amnesico, KATHERYNE, MU/SA, Sandraz, Stefan Hernandez |
 | Fri, 18 Dec 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, Stefan Hernandez |
 

@@ -1,8 +1,8 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Max Dean is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
 
-Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Auckland, Austin and Bali and 38 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: [UNVRS], Ibiza on Wed 23 Sept.
+Max Dean is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Auckland, Austin and Bali and 38 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: [UNVRS], Ibiza on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets l
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
-| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |

@@ -1,6 +1,6 @@
 # 11PME2: HEAVEN IS HARDCORE NIGHT 2 at TBA - given out to ticket holders day before
 
-11PME2: HEAVEN IS HARDCORE NIGHT 2 at TBA - given out to ticket holders day before on Sat 14 Nov, Toronto. 3 acts on the bill: Prince Batrick, SWAP MEET! (2) and Traxman. Hardcore. Preview the line-up and save it on soundcheck.
+11PME2: HEAVEN IS HARDCORE NIGHT 2 at TBA - given out to ticket holders day before on Sat 14 Nov, Toronto. 2 acts on the bill: SWAP MEET! (2) and Traxman. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@
 
 ## Line-up
 
-- Prince Batrick
 - SWAP MEET! (2)
 - Traxman
 

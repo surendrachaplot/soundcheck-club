@@ -16,7 +16,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Sat, 10 Oct 2026 | Machine Lab by Modular Circuit - Tag der Clubkultur | Allexandra, Blosvenn, Dshanna, Electra (2), Frisqo, Gabrielle (DE), Jessica Kert, Julez (live), LEIA (2), Melanchromie, elfie, phlipzee |
 | Fri, 16 Oct 2026 | Enter the Void #82 with Gourski, Exploid, Upzet, Ed Shepherd, Enjean, Crashkitt, Noctunal | Crashkitt, Ed Shepherd, Exploid, Gourski, Kainam, Trippyverse, Upzet |
 | Fri, 23 Oct 2026 | TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors | Cherry Core, Honschu Lee, Marika Rossa, Mathias Birnbaum, Mike Väth, Original Peter, Rene Bourgeois, Rene Oldenburg, Sven Tasnadi, Tanz Unter Freunden |
-| Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | Ewelina Koll, GHOST DE, Jose Bonetto, Lila Kova, Marc van Linden, Rob Robsen, Seimen Dexter |
+| Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | GHOST DE, Jose Bonetto, Lila Kova, Rob Robsen, Seimen Dexter |
 | Sat, 31 Oct 2026 | Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown, Zak McCoy | Current Value, Emma Ro.zn, Gianni Noel, IZA (6), Upzet, Zak McCoy, unknown.dnb |
 
 ## Address

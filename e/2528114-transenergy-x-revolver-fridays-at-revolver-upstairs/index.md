@@ -1,6 +1,6 @@
 # Transenergy x Revolver Fridays at Revolver Upstairs
 
-Transenergy x Revolver Fridays at Revolver Upstairs on Fri 25 Sept, Melbourne. 5 acts on the bill: bbsanii, Davi Bangma, Mike Callander and randals dad and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Transenergy x Revolver Fridays at Revolver Upstairs on Fri 25 Sept, Melbourne. 4 acts on the bill: bbsanii, Mike Callander, randals dad and Sophie Forrest. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Transenergy x Revolver Fridays at Revolver Upstairs on Fri 25 Sept, Melbourne. 5
 ## Line-up
 
 - bbsanii
-- Davi Bangma
 - Mike Callander
 - randals dad
 - Sophie Forrest

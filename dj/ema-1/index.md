@@ -1,8 +1,8 @@
 # EMA (1)
 
-EMA (1) is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
+EMA (1) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
-EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 27 more. Often billed alongside Darwin, SGT Pokes and Beatrice M.. Next up: Saloon, Tokyo on Fri 2 Oct.
+EMA (1) is a bass and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 27 more. Often billed alongside Darwin, Beatrice M. and SGT Pokes. Next up: Saloon, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Saloon | Tokyo |
 | Sat, 3 Oct 2026 | Chika-Ikkai | Osaka |
-| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -25,6 +24,6 @@ EMA (1) is a bass and techno artist tracked on soundcheck, with 112 sets logged 
 
 ## Shares bills with
 
-Darwin, SGT Pokes, Beatrice M.
+Darwin, Beatrice M., SGT Pokes
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ema-1/)*

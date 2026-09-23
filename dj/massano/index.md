@@ -1,8 +1,8 @@
 # Massano
 
-Massano is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
+Massano is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
 
-Massano is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Factory Town, Miami on Fri 25 Sept.
+Massano is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Factory Town, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Massano is a techno and house artist tracked on soundcheck, with 162 sets logged
 | Sat, 17 Oct 2026 | Luz De Gas | Barcelona |
 | Fri, 23 Oct 2026 | Knockdown Center | New York City |
 | Fri, 30 Oct 2026 | Echostage | Washington DC |
+| Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Sat, 14 Nov 2026 | Exchange LA | Los Angeles |
 
 ## Recently played

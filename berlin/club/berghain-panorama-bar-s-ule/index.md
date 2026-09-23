@@ -8,7 +8,7 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Terenor | Agata, Agata (PL), CUNT REMEMBER, Egregore, Jolly (2), Jolly (FR), Ninon |
+| Thu, 24 Sept 2026 | Terenor | Agata (PL), CUNT REMEMBER, Egregore, Jolly (2), Ninon |
 | Fri, 25 Sept 2026 | WSNWG LIVE | Dasha Rush, Megan Leber, Rødhåd, Speedy J, UFO95 |
 | Sat, 26 Sept 2026 | Klubnacht | Auspex, Beste Hira, Bradley Zero, Colin Benders, Fabio Monesi, Jana Falcon, Joline Scheffler, Jorkes, Make A Dance, Marcel Dettmann, Matisa, Patrick Pulsinger, Sam Irl, Tasha, Tripmastaz, UVB, nd_baumecker |
 | Thu, 1 Oct 2026 | PRíNCIPE 15 YEARS | DJ Firmeza, DJ Nigga Fox |

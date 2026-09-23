@@ -16,7 +16,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 13 upcoming gigs, 
 | Mon, 28 Sept 2026 | NRG Closing Party | Ben Hemsley, DART, Kyle Starkey, Paige Tomlinson, Somewhen |
 | Tue, 29 Sept 2026 | Joseph Capriati presents Metamorfosi Closing Party | CHRIS STASSY, DJ Skizzo, Elisa Bee, Freddy K, Jamie Jones, Joseph Capriati, Marco Faraone, Marco Tropeano, Yanamaste |
 | Thu, 1 Oct 2026 | You&Me Closing Party | ALISHA, Alexandria, Enzo Siragusa, Jamie Fielding, Josh Baker, Laidlaw, Local Dub, Marsolo, Max Dean, Moxie, Reeshy, Silva Bumpa, jWave |
-| Fri, 2 Oct 2026 | Glitterbox | Coco & Breezy, Danny Tenaglia, Dave Lee, Denis Sulta, Eats Everything, Jamie Love, The Shapeshifters, Todd Terry |
+| Fri, 2 Oct 2026 | Glitterbox | Coco & Breezy, Danny Tenaglia, Dave Lee, Denis Sulta, Eats Everything, Jamie Love, Todd Terry |
 | Sun, 4 Oct 2026 | Pyramid Closing Party | Adrian Mills, Franco Cinelli, Luca Donzelli, Mar-T, Nina Kraviz, Raresh, Ricardo Villalobos, Seth Troxler, Shanti Celeste |
 
 ## Address

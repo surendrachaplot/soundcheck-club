@@ -1,6 +1,6 @@
 # People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY at Jupiter Disco
 
-People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY at Jupiter Disco on Thu 1 Oct, Newyorkcity. 4 acts on the bill: emme (2), Han G, Jake From State Pharm and RICK E. Preview the line-up and save it on soundcheck.
+People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY at Jupiter Disco on Thu 1 Oct, Newyorkcity. 3 acts on the bill: Han G, Jake From State Pharm and RICK E. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, 
 
 ## Line-up
 
-- emme (2)
 - Han G
 - Jake From State Pharm
 - RICK E

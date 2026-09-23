@@ -1,6 +1,6 @@
 # PTO: Kyle Watson at Noto Philadelphia
 
-PTO: Kyle Watson at Noto Philadelphia on Thu 24 Sept, Philadelphia. 2 acts on the bill: Kyle Watson and Maddalena. Progressive House and House. Preview the line-up and save it on soundcheck.
+PTO: Kyle Watson at Noto Philadelphia on Thu 24 Sept, Philadelphia. 1 act on the bill: Kyle Watson. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ PTO: Kyle Watson at Noto Philadelphia on Thu 24 Sept, Philadelphia. 2 acts on th
 ## Line-up
 
 - Kyle Watson
-- Maddalena
 
 *Source: [soundcheck](https://soundcheck.club/e/2449694-pto-kyle-watson-at-noto-philadelphia/)*

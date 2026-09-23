@@ -1,6 +1,6 @@
 # KAJE Arts & Music at Somewhere in the Mountains.
 
-KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 8 acts on the bill: Bagvs, DJ MARIA., Jonathan Kusuma and Mr. Ho and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 7 acts on the bill: DJ MARIA., Jonathan Kusuma, Mr. Ho and Ouissam and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ KAJE Arts & Music at Somewhere in the Mountains. on Fri 25 Sept, Bali. 8 acts on
 
 ## Line-up
 
-- Bagvs
 - DJ MARIA.
 - Jonathan Kusuma
 - Mr. Ho

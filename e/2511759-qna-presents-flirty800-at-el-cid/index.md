@@ -1,6 +1,6 @@
 # QNA presents flirty800 at El Cid
 
-QNA presents flirty800 at El Cid on Sat 26 Sept, Losangeles. 4 acts on the bill: flirty800, Jae-an, Ly Tran and Pauliewog. Club. Preview the line-up and save it on soundcheck.
+QNA presents flirty800 at El Cid on Sat 26 Sept, Losangeles. 3 acts on the bill: flirty800, Ly Tran and Pauliewog. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ QNA presents flirty800 at El Cid on Sat 26 Sept, Losangeles. 4 acts on the bill:
 ## Line-up
 
 - flirty800
-- Jae-an
 - Ly Tran
 - Pauliewog
 

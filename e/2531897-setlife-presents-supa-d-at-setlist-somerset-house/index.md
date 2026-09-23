@@ -1,6 +1,6 @@
 # SETLIFE presents SUPA D at Setlist @ Somerset House
 
-SETLIFE presents SUPA D at Setlist @ Somerset House on Sat 24 Oct, London. 2 acts on the bill: Larizzle and Supa D. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
+SETLIFE presents SUPA D at Setlist @ Somerset House on Sat 24 Oct, London. 1 act on the bill: Supa D. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ SETLIFE presents SUPA D at Setlist @ Somerset House on Sat 24 Oct, London. 2 act
 
 ## Line-up
 
-- Larizzle
 - Supa D
 
 *Source: [soundcheck](https://soundcheck.club/e/2531897-setlife-presents-supa-d-at-setlist-somerset-house/)*

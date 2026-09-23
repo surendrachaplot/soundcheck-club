@@ -1,6 +1,6 @@
 # The Wonky House presents: Straight On 'til Morning at Tola
 
-The Wonky House presents: Straight On 'til Morning at Tola on Fri 25 Sept, London. 6 acts on the bill: 1KY (1), Harmony, Harry Mason and Josh Wickers and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
+The Wonky House presents: Straight On 'til Morning at Tola on Fri 25 Sept, London. 3 acts on the bill: Josh Wickers, Magpie and ZAZA C. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,6 @@ The Wonky House presents: Straight On 'til Morning at Tola on Fri 25 Sept, Londo
 
 ## Line-up
 
-- 1KY (1)
-- Harmony
-- Harry Mason
 - Josh Wickers
 - Magpie
 - ZAZA C

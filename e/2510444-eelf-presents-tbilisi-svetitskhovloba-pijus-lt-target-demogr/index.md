@@ -1,6 +1,6 @@
 # EELF presents: Tbilisi (Svetitskhovloba) - Pijus (LT), Target Demographic (LA) TBA at TBA - Junkyard Club
 
-EELF presents: Tbilisi (Svetitskhovloba) - Pijus (LT), Target Demographic (LA) TBA at TBA - Junkyard Club on Tue 13 Oct, Tbilisi. 3 acts on the bill: Paluma Sound, Pijus and Target Demographic. House and Garage. Preview the line-up and save it on soundcheck.
+EELF presents: Tbilisi (Svetitskhovloba) - Pijus (LT), Target Demographic (LA) TBA at TBA - Junkyard Club on Tue 13 Oct, Tbilisi. 2 acts on the bill: Pijus and Target Demographic. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ EELF presents: Tbilisi (Svetitskhovloba) - Pijus (LT), Target Demographic (LA) T
 
 ## Line-up
 
-- Paluma Sound
 - Pijus
 - Target Demographic
 

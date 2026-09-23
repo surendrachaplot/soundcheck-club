@@ -10,7 +10,7 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 210 se
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Doka | Amsterdam |
 | Fri, 25 Sept 2026 | Doka | Amsterdam |
-| Sat, 26 Sept 2026 | TBA - Inter-city  | The Hague |
+| Sat, 26 Sept 2026 | Inter-City | The Hague |
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Sat, 10 Oct 2026 | La Cheetah Club | Glasgow |
 | Fri, 16 Oct 2026 | TBA | Detroit |

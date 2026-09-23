@@ -1,6 +1,6 @@
 # YBZ INVITES // SIERPINSKI (Frisbee Aerobics) at Sneaky Pete's
 
-YBZ INVITES // SIERPINSKI (Frisbee Aerobics) at Sneaky Pete's on Thu 24 Sept, Edinburgh. 5 acts on the bill: billybawbags, Georj, Georj (2) and Gilbo and 1 more. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+YBZ INVITES // SIERPINSKI (Frisbee Aerobics) at Sneaky Pete's on Thu 24 Sept, Edinburgh. 4 acts on the bill: billybawbags, Georj (2), Gilbo and Texyo. Footwork and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ YBZ INVITES // SIERPINSKI (Frisbee Aerobics) at Sneaky Pete's on Thu 24 Sept, Ed
 ## Line-up
 
 - billybawbags
-- Georj
 - Georj (2)
 - Gilbo
 - Texyo

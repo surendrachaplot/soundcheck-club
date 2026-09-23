@@ -1,6 +1,6 @@
 # Astradanza X Passion - Last Circus Party at TBA - Cirque Romanes Tzigane
 
-Astradanza X Passion - Last Circus Party at TBA - Cirque Romanes Tzigane on Sat 26 Sept, Paris. 5 acts on the bill: Céline, DJ STRANGELOVE, Kyle Toole and Lano and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Astradanza X Passion - Last Circus Party at TBA - Cirque Romanes Tzigane on Sat 26 Sept, Paris. 4 acts on the bill: Céline, DJ STRANGELOVE, Lano and Majer. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Astradanza X Passion - Last Circus Party at TBA - Cirque Romanes Tzigane on Sat 
 
 - Céline
 - DJ STRANGELOVE
-- Kyle Toole
 - Lano
 - Majer
 

@@ -10,8 +10,8 @@ OXI is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
 | Sat, 26 Sept 2026 | OXI GROOVE AFFAIR (OPEN AIR + INDOOR) | Chris Ku, Marcus Holder, Meggy, Michael Lane, Rina Katen, Rydim, Sam Paradise, Sara Miller, Tereza, le0j |
-| Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Clay, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
-| Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Majdolen, Rachel Noon, YAZMIN (MT) |
+| Sun, 27 Sept 2026 | RAMA X HOMODROP (OPEN AIR + INDOOR) | Cheriii, Gio Goltara, Hunkut, Julie Desire, Mars O10C, Somme Farris, Sub Sahara, clay (DE) |
+| Tue, 29 Sept 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | BLACK ANTHEM RESTORE, Lola Kay, Rachel Noon, YAZMIN (MT) |
 | Sat, 3 Oct 2026 | Small Great House 'Garden Closing 2026' (Open Air + Indoor) | Eva Crystaltips, Kat_Es, Lavan, Loves_kills, Luca Olivotto, Meriem S, Nephews, Quadrakey, Retromigration, Shabi, Siggatunez, Small Great Things. Soundsystem, Valeria |
 | Tue, 6 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE |  |
 | Tue, 6 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | Aero (1), Inverse Element, TONI BA, VINVAR |

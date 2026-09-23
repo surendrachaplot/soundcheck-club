@@ -1,6 +1,6 @@
 # Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ at Chuchle Racecourse
 
-Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ at Chuchle Racecourse on Fri 30 Oct, Prague. 15 acts on the bill: Adiel, Ariane V, Carluschka and DDK (1) and 11 more. Techno and Disco. Preview the line-up and save it on soundcheck.
+Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ at Chuchle Racecourse on Fri 30 Oct, Prague. 14 acts on the bill: Adiel, Ariane V, Carluschka and DDK (1) and 10 more. Techno and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,5 @@ Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ a
 - Riki Boro
 - SJ Yellow
 - TBA
-- Zuzana Hakl
 
 *Source: [soundcheck](https://soundcheck.club/e/2541798-komiks-warehouse-rave-halloween-with-adiel-3-stages-at-the-r/)*

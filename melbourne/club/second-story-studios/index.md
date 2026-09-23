@@ -1,14 +1,14 @@
 # Second Story Studios
 
-Second Story Studios is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gallery: Sleep D, Cousin, FUKHED, Hannah D, Guy Contact, Char, with Ess" on Fri, 25 Sept 2026.
+Second Story Studios is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gallery: Sleep D, Cousin, Claire O'Brien, Hannah D, Guy Contact, Char, with Ess" on Fri, 25 Sept 2026.
 
-Second Story Studios is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Char(k), Cousin, FUKHED and Guy Contact and 2 more. Browse upcoming dates, start times and who's playing. A/222 Johnston St, Collingwood VIC 3066.
+Second Story Studios is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Char(k), Claire O'Brien, Cousin and FUKHED and 2 more. Browse upcoming dates, start times and who's playing. A/222 Johnston St, Collingwood VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Gallery: Sleep D, Cousin, FUKHED, Hannah D, Guy Contact, Char, with Ess | Char(k), Cousin, FUKHED, Guy Contact, Hannah D, Sleep D, With Ess |
+| Fri, 25 Sept 2026 | Gallery: Sleep D, Cousin, Claire O'Brien, Hannah D, Guy Contact, Char, with Ess | Char(k), Claire O'Brien, Cousin, FUKHED, Guy Contact, Hannah D, Sleep D, With Ess |
 | Fri, 13 Nov 2026 | CLUB SAUNA |  |
 
 ## Address

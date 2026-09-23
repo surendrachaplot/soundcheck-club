@@ -1,14 +1,13 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
+Courtney Bailey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-Courtney Bailey is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Berlin and Bucharest and 16 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Salon des Amateurs, Dusseldorf on Sat 10 Oct.
+Courtney Bailey is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Berlin and Bucharest and 15 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Salon des Amateurs | Düsseldorf |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |

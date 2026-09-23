@@ -10,7 +10,7 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, wi
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Compute | Daraio, Didier Dlb, Ole Oetkers, Stephan Hill |
 | Fri, 25 Sept 2026 | AGA Babies | Daya Pruna, Do you know Juno, Red Pig Flower, babxi |
-| Sat, 26 Sept 2026 | Cynosure Nacht | DJ NOB, Hreno, Mike Shannon, NOB (1), Thilini |
+| Sat, 26 Sept 2026 | Cynosure Nacht | DJ NOB, Hreno, Mike Shannon, Thilini |
 | Thu, 1 Oct 2026 | CURA NIGHT | Nathan Homan, Thor Rixon |
 | Fri, 2 Oct 2026 | Wohnzimmer030 + Afterhour | Ana Molina, Anestis, Badanka, Kotelett, heinrich grooves, jiyun kim, smht |
 | Sat, 3 Oct 2026 | Nightshade Family | Annina, Frivolous, Laura de Vasconcelos, Nils Ohrmann |

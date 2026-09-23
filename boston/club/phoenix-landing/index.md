@@ -10,7 +10,7 @@ Phoenix Landing is a music venue in Boston listed on soundcheck. 3 upcoming gigs
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Re:Set with ADMN & Mensh | ADMN |
 | Thu, 24 Sept 2026 | elements presents: Lenore, Mr. Eyeslee & DJ Glowworm | Lenore |
-| Thu, 1 Oct 2026 | elements presents: Serum | Lenore, Serum (UK) |
+| Thu, 1 Oct 2026 | elements - Serum (Kings of the Rollers - UK) Boston debut | Lenore, Serum (UK) |
 
 ## Address
 

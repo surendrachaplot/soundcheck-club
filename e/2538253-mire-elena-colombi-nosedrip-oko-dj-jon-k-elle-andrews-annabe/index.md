@@ -1,6 +1,6 @@
 # MIRE: Elena Colombi / Nosedrip & OKO DJ / Jon K & Elle Andrews / Annabel Fraser / R/E/R at The White Hotel
 
-MIRE: Elena Colombi / Nosedrip & OKO DJ / Jon K & Elle Andrews / Annabel Fraser / R/E/R at The White Hotel on Sat 7 Nov, Manchester. 6 acts on the bill: Annabel Fraser, Elena Colombi, Elle Andrews and Jon K and 2 more. Preview the line-up and save it on soundcheck.
+MIRE: Elena Colombi / Nosedrip & OKO DJ / Jon K & Elle Andrews / Annabel Fraser / R/E/R at The White Hotel on Sat 7 Nov, Manchester. 5 acts on the bill: Elena Colombi, Elle Andrews, Jon K and Nosedrip and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ MIRE: Elena Colombi / Nosedrip & OKO DJ / Jon K & Elle Andrews / Annabel Fraser 
 
 ## Line-up
 
-- Annabel Fraser
 - Elena Colombi
 - Elle Andrews
 - Jon K

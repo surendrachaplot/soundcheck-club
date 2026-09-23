@@ -1,15 +1,14 @@
 # Fernelly
 
-Fernelly is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
+Fernelly is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 25 Sept 2026.
 
-Fernelly is a house and balearic artist tracked on soundcheck, with 54 sets logged across Newyorkcity. Often billed alongside Seedy J, SPF 50 and Miles Robbins. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
+Fernelly is a house and balearic artist tracked on soundcheck, with 53 sets logged across Newyorkcity. Often billed alongside Seedy J, SPF 50 and Miles Robbins. Next up: Dead Letter No. 9, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Dead Letter No. 9 | New York City |
-| Sat, 26 Sept 2026 | Signal | New York City |
 
 ## Recently played
 

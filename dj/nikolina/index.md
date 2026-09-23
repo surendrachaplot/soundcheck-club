@@ -1,13 +1,15 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+Nikolina is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Nikolina is a techno and industrial artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Onlynumbers. Next up: Bootshaus, Cologne on Fri 25 Sept.
+Nikolina is a techno and industrial artist tracked on soundcheck, with 111 sets logged across All, Amsterdam, Athens and Austin and 46 more. Often billed alongside Azyr, Restricted and Onlynumbers. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
+| Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |

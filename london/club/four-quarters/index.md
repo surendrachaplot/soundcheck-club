@@ -16,7 +16,7 @@ Four Quarters is a music venue in London listed on soundcheck. 9 upcoming gigs, 
 | Thu, 29 Oct 2026 | Sendin Outaspace | Alley Cat, DFUSE, Drumskull, Pressa |
 | Fri, 30 Oct 2026 | Aspect DNB: Halloween Special | Exposure (UK), Tianna Franxx |
 | Sat, 31 Oct 2026 | Virtuoso - HALLOWEEN |  |
-| Fri, 27 Nov 2026 | GroundUpCollective presents: Together in Motion | Alfie Fraser, Calm Stiege, Cozen (2), Declan Knapp, Elemental, Griff, PJ Statham |
+| Fri, 27 Nov 2026 | GroundUpCollective presents: Together in Motion | Alfie Fraser, Calm Stiege, Declan Knapp, Elemental |
 
 ## Address
 

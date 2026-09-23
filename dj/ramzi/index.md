@@ -1,14 +1,13 @@
 # RAMZi
 
-RAMZi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+RAMZi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
 
-RAMZi is a house and tech house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ramzilla, Anabasine and D. Tiffany. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
+RAMZi is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ramzilla, Anabasine and D. Tiffany. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Elsewhere | New York City |
 | Sat, 17 Oct 2026 | FOLD | London |
 
 ## Recently played

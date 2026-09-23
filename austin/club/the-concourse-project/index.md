@@ -10,7 +10,7 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 28 upcomi
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) | Deorro |
 | Fri, 25 Sept 2026 | Ben Sterling (Open to Close) | Ben Sterling |
-| Sat, 26 Sept 2026 | Eli Brown with Marie Vaunt + KASIA | Eli Brown, Kasia, Kasia (OFC), Marie Vaunt |
+| Sat, 26 Sept 2026 | Eli Brown with Marie Vaunt + KASIA | Eli Brown, Kasia (OFC), Marie Vaunt |
 | Thu, 1 Oct 2026 | Official 2026 ACL Fest Nights: The Chainsmokers | The Chainsmokers |
 | Fri, 2 Oct 2026 | Official 2026 ACL Fest Nights: Steve Aoki | Steve Aoki |
 | Sat, 3 Oct 2026 | Official 2026 ACL Fest Nights: it's murph |  |

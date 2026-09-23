@@ -2,7 +2,7 @@
 
 Silja Ellis is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BAR15, Stockholm on Sat, 10 Oct 2026.
 
-Silja Ellis is a house and deep house artist based in Sweden, tracked on soundcheck, with 4 sets logged across Stockholm. Often billed alongside Bogeyman, Davide Dev and Kapote. Next up: BAR15, Stockholm on Sat 10 Oct.
+Silja Ellis is a house and deep house artist based in Sweden, tracked on soundcheck, with 4 sets logged across Stockholm. Often billed alongside Bogeyman and Kapote. Next up: BAR15, Stockholm on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Silja Ellis is a house and deep house artist based in Sweden, tracked on soundch
 
 ## Shares bills with
 
-Bogeyman, Davide Dev, Kapote
+Bogeyman, Kapote
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siljaellis/)*

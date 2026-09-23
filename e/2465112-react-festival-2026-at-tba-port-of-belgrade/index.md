@@ -1,6 +1,6 @@
 # REACT Festival 2026 at TBA - Port of Belgrade
 
-REACT Festival 2026 at TBA - Port of Belgrade on Fri 2 Oct, Belgrade. 25 acts on the bill: ACOR, AEREA, Alycia Bezgo and Asarri and 21 more. Techno. Preview the line-up and save it on soundcheck.
+REACT Festival 2026 at TBA - Port of Belgrade on Fri 2 Oct, Belgrade. 24 acts on the bill: ACOR, AEREA, Alycia Bezgo and Asarri and 20 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ REACT Festival 2026 at TBA - Port of Belgrade on Fri 2 Oct, Belgrade. 25 acts on
 - Alycia Bezgo
 - Asarri
 - Boston 168
-- Clara Cuvé
 - I Hate Models
 - Karina Oksa
 - KLOUD

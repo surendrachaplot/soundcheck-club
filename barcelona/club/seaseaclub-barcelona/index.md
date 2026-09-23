@@ -8,7 +8,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 17 upco
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Raxon + Bob Tosh | Bob Tosh, Fedele, Joris Voorn, Raxon |
+| Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Raxon + Bob Tosh | Bob Tosh, Joris Voorn, Raxon |
 | Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros, Tom Banner |
 | Sat, 26 Sept 2026 | The Bcn Coffee Rave Vol XVI |  |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |

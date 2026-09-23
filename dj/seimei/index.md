@@ -1,14 +1,13 @@
 # Seimei
 
-Seimei is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat, 3 Oct 2026.
+Seimei is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
 
-Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 120 sets logged across Kyoto, Newyorkcity, Osaka and Seattle and 1 more. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and MoEPiKA. Next up: TBA - 313 FIRST AVE S in Pioneer Square, Seattle on Sat 3 Oct.
+Seimei is a techno and bass artist based in Japan, tracked on soundcheck, with 119 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside Carpainter, Andrew (TREKKIE TRAX) and MoEPiKA. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - 313 FIRST AVE S in Pioneer Square | Seattle |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sat, 21 Nov 2026 | clubasia | Tokyo |
 

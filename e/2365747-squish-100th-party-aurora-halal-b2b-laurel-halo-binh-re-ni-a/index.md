@@ -1,6 +1,6 @@
 # SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni at Monument SF
 
-SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni at Monument SF on Sat 14 Nov, Sanfrancisco. 8 acts on the bill: Aurora Halal, Binh, Laurel Halo and likeholywine and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni at Monument SF on Sat 14 Nov, Sanfrancisco. 6 acts on the bill: Aurora Halal, Binh, Laurel Halo and likeholywine and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,8 +15,6 @@ SQUISH 100TH PARTY→ Aurora Halal b2b Laurel Halo, Binh, re:ni at Monument SF o
 - Laurel Halo
 - likeholywine
 - nonsuit
-- Papa Xanny
 - re:ni
-- Sholim Eso
 
 *Source: [soundcheck](https://soundcheck.club/e/2365747-squish-100th-party-aurora-halal-b2b-laurel-halo-binh-re-ni-a/)*

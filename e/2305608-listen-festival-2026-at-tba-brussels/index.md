@@ -1,6 +1,6 @@
 # Listen Festival 2026 at TBA - Brussels
 
-Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 63 acts on the bill: acidheaven, Adi, Amelia Holt and Angel D'lite and 59 more. Techno and House. Preview the line-up and save it on soundcheck.
+Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 62 acts on the bill: acidheaven, Adi, Amelia Holt and Angel D'lite and 58 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -55,7 +55,6 @@ Listen Festival 2026 at TBA - Brussels on Sat 21 Nov, Brussels. 63 acts on the b
 - NMSS
 - Nosedrip
 - Otis (BE)
-- Otis (CA)
 - PALA10
 - Running Hot
 - séa (BE)

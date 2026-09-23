@@ -1,13 +1,14 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
+Kr!z is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NWHR, Montreal on Fri, 2 Oct 2026.
 
-Kr!z is a techno and acid artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: TBA, Toronto on Sat 3 Oct.
+Kr!z is a techno and acid artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: NWHR, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | NWHR | Montreal |
 | Sat, 3 Oct 2026 | TBA | Toronto |
 
 ## Recently played

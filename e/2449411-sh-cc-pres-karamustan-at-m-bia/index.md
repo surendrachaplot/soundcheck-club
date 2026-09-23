@@ -1,6 +1,6 @@
 # SHØCC pres. Karamustan at M-BIA
 
-SHØCC pres. Karamustan at M-BIA on Fri 9 Oct, Berlin. 2 acts on the bill: Holy Priest and Karamustan. Trance and Techno. Preview the line-up and save it on soundcheck.
+SHØCC pres. Karamustan at M-BIA on Fri 9 Oct, Berlin. 1 act on the bill: Karamustan. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ SHØCC pres. Karamustan at M-BIA on Fri 9 Oct, Berlin. 2 acts on the bill: Holy 
 
 ## Line-up
 
-- Holy Priest
 - Karamustan
 
 *Source: [soundcheck](https://soundcheck.club/e/2449411-sh-cc-pres-karamustan-at-m-bia/)*

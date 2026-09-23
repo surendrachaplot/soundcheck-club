@@ -8,7 +8,7 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Krem Fest 2026 | Black Rave Culture, Ctrl.mp3, DJ SUSH, DJ WIFI, EXIS, Jason Code, Jubilee, Kilopatrah Jones, Korra the Kid, Manwell, Mijal, Mirin Doja, N SO, Sharlese, Swami Sound, flotussin |
+| Fri, 25 Sept 2026 | Krem Fest 2026 | Black Rave Culture, Ctrl.mp3, DJ SUSH, DJ WIFI, EXIS, Jubilee, Kilopatrah Jones, Korra the Kid, Manwell, Mijal, Mirin Doja, N SO, Sharlese, Swami Sound, flotussin |
 | Fri, 2 Oct 2026 | Atmosphérique: JENNGREEN feat. ROCCO | JENN GREEN, ROCCO (FIGA) |
 | Sat, 10 Oct 2026 | KARAN! at Impact | KARAN! |
 | Sat, 10 Oct 2026 | Disco Dust: All Vinyl Night feat. Eddie C | Eddie C, Théque Support |

@@ -1,6 +1,6 @@
 # Siku Series 6th Anniversary at Les Enfants Brillants
 
-Siku Series 6th Anniversary at Les Enfants Brillants on Fri 27 Nov, Barcelona. 3 acts on the bill: Desyn, Fabrega and Marco Spalletta. Preview the line-up and save it on soundcheck.
+Siku Series 6th Anniversary at Les Enfants Brillants on Fri 27 Nov, Barcelona. 2 acts on the bill: Fabrega and Marco Spalletta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Siku Series 6th Anniversary at Les Enfants Brillants on Fri 27 Nov, Barcelona. 3
 
 ## Line-up
 
-- Desyn
 - Fabrega
 - Marco Spalletta
 

@@ -8,7 +8,7 @@ Brixton Radio is a music venue in London listed on soundcheck. 1 upcoming gig, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Thick Groovy Fridays | B-Pushr, Cecilia Ena, DJ 2C, FEEL (IT), Groove, Koma (1), Miss Nik, Revlow, SEN (PL), Sara P, daaz, djz00p |
+| Fri, 2 Oct 2026 | Thick Groovy Fridays | B-Pushr, Cecilia Ena, DJ 2C, Koma (1), Miss Nik, Revlow, SEN (PL), Sara P, daaz, djz00p |
 
 ## Address
 

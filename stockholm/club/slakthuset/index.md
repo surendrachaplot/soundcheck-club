@@ -8,7 +8,7 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | NORDIC RAVE - TECHNO STOCKHOLM | Anneli, Bara W, Dual Drive, Solo Viking, TBA, Technokid |
+| Fri, 25 Sept 2026 | NORDIC RAVE - TECHNO STOCKHOLM | Anneli, Bara W, Dual Drive, Solo Viking, Technokid |
 | Sat, 3 Oct 2026 | House Mates Invites Djuma Soundsystem | Bara W, Djuma Soundsystem, Erik Sahl |
 | Sat, 10 Oct 2026 | That 90s night - 90s techno, trance, eurodance in 3 floors | Mira Iranpour |
 | Fri, 13 Nov 2026 | DIMENSION - PRE PARTY |  |

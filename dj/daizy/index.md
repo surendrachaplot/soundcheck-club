@@ -1,8 +1,8 @@
 # Daizy
 
-Daizy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
+Daizy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Factory Town, Miami on Fri, 25 Sept 2026.
 
-Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Athens, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Factory Town, Miami on Fri 25 Sept.
+Daizy is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Athens, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Factory Town, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Daizy is a techno and house artist based in United States of America, tracked on
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Factory Town | Miami |
 | Sat, 10 Oct 2026 | TBA - Miami | Miami |
-| Sat, 10 Oct 2026 | Roberta's | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

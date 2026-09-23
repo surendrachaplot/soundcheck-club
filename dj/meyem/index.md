@@ -1,15 +1,14 @@
 # MEYEM
 
-MEYEM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kilomètre25, Paris on Fri, 9 Oct 2026.
+MEYEM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kilomètre25, Paris on Fri, 9 Oct 2026.
 
-MEYEM is a techno and trance artist tracked on soundcheck, with 50 sets logged across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside ADB (FR), Asaya and 4NOUK. Next up: Kilomètre25, Paris on Fri 9 Oct.
+MEYEM is a techno and trance artist tracked on soundcheck, with 49 sets logged across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside ADB (FR), Asaya and Abr.. Next up: Kilomètre25, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Kilomètre25 | Paris |
-| Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -24,6 +23,6 @@ MEYEM is a techno and trance artist tracked on soundcheck, with 50 sets logged a
 
 ## Shares bills with
 
-ADB (FR), Asaya, 4NOUK
+ADB (FR), Asaya, Abr.
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meyem/)*

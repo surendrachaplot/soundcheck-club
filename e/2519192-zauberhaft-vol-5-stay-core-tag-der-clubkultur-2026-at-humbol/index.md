@@ -1,6 +1,6 @@
 # zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) at Humboldthain Club
 
-zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) at Humboldthain Club on Sat 10 Oct, Berlin. 7 acts on the bill: Anne-Sophie Selig, Der olle Kramer, Fabian Fischbach and Pfarrersøn and 3 more. Techno. Preview the line-up and save it on soundcheck.
+zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) at Humboldthain Club on Sat 10 Oct, Berlin. 6 acts on the bill: Anne-Sophie Selig, Der olle Kramer, Pfarrersøn and R2-RO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ zauberhaft! Vol. 5 - STAY CORE (TAG DER CLUBKULTUR 2026) at Humboldthain Club on
 
 - Anne-Sophie Selig
 - Der olle Kramer
-- Fabian Fischbach
 - Pfarrersøn
 - R2-RO
 - tzunamic

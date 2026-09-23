@@ -8,7 +8,7 @@ Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle | Carl Craig, Klara Missyle, Laia, Mike Banks, Moodymann, Octave One |
+| Sat, 3 Oct 2026 | SOUNDIT Plaza:Detroit Love:Carl Craig ft Mike Banks(live),Octave One(live), Laia,Klara Missyle | Carl Craig, Klara Missyle, Laia, Mike Banks, Octave One |
 | Sat, 17 Oct 2026 | SOUNDIT Plaza: Marcel Dettmann, Sugar Free, formica, Eli | Marcel Dettmann, Sugar Free, formica (ES) |
 | Sat, 14 Nov 2026 | SOUNDIT Plaza: Kittin b2b mad miran, Paranoid London live, Spacer, Kudi b2b PEBE | Miss Kittin, Paranoid London, Spacer, mad miran |
 | Sat, 28 Nov 2026 | SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA | Aurora Halal, EYRA, Joy Orbison, TRS |

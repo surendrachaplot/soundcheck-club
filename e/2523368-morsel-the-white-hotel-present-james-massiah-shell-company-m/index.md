@@ -1,6 +1,6 @@
 # Morsel & The White Hotel {present} James Massiah, Shell Company & Maiden at The White Hotel
 
-Morsel & The White Hotel {present} James Massiah, Shell Company & Maiden on Fri 20 Nov, Manchester. 2 acts on the bill: James Massiah and Maiden. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Morsel & The White Hotel {present} James Massiah, Shell Company & Maiden on Fri 20 Nov, Manchester. 1 act on the bill: James Massiah. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Morsel & The White Hotel {present} James Massiah, Shell Company & Maiden on Fri 
 ## Line-up
 
 - James Massiah
-- Maiden
 
 *Source: [soundcheck](https://soundcheck.club/e/2523368-morsel-the-white-hotel-present-james-massiah-shell-company-m/)*

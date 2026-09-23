@@ -1,6 +1,6 @@
 # Eli Brown with Marie Vaunt + KASIA at The Concourse Project
 
-Eli Brown with Marie Vaunt + KASIA at The Concourse Project on Sat 26 Sept, Austin. 4 acts on the bill: Eli Brown, Kasia, Kasia (OFC) and Marie Vaunt. Preview the line-up and save it on soundcheck.
+Eli Brown with Marie Vaunt + KASIA at The Concourse Project on Sat 26 Sept, Austin. 3 acts on the bill: Eli Brown, Kasia (OFC) and Marie Vaunt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Eli Brown with Marie Vaunt + KASIA at The Concourse Project on Sat 26 Sept, Aust
 ## Line-up
 
 - Eli Brown
-- Kasia
 - Kasia (OFC)
 - Marie Vaunt
 

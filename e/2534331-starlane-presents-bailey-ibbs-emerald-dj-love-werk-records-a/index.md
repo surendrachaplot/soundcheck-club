@@ -1,6 +1,6 @@
 # Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records at Starlane Pizza Bar
 
-Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records at Starlane Pizza Bar on Sat 10 Oct, London. 4 acts on the bill: Bailey Ibbs, DJ Love, DJ Love UK and Emerald. House. Preview the line-up and save it on soundcheck.
+Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records at Starlane Pizza Bar on Sat 10 Oct, London. 3 acts on the bill: Bailey Ibbs, DJ Love UK and Emerald. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Starlane presents: Bailey Ibbs, Emerald, DJ Love, Werk Records at Starlane Pizza
 ## Line-up
 
 - Bailey Ibbs
-- DJ Love
 - DJ Love UK
 - Emerald
 

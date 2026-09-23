@@ -8,9 +8,9 @@ MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | WE ARE ONE x MTW w/ KIM AHLF | ANN-LUX, Dana Roosy, Justin Hahn, KIM AHLF, Kiko, NATURTALENT, The Belgian Stallion |
+| Fri, 2 Oct 2026 | WE ARE ONE x MTW w/ KIM AHLF | ANN-LUX, Dana Roosy, Justin Hahn, KIM AHLF, NATURTALENT, The Belgian Stallion |
 | Sat, 7 Nov 2026 | WE ARE ONE x MTW with Karamustan, Zapravka | Karamustan |
-| Sat, 14 Nov 2026 | Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m | Artificial DNA, CLAVD, DJ Sonnenbrand, Leskus, MAHA, MAURER, Maeksll, Maharti, Parallx, Tarkan, co:co |
+| Sat, 14 Nov 2026 | Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m | Artificial DNA, CLAVD, Leskus, MAURER, Maeksll, Maharti, Parallx, Tarkan, co:co |
 | Sat, 28 Nov 2026 | WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton | TAKTSTÖRER, Tiefundton |
 | Sat, 12 Dec 2026 | WE ARE ONE x MTW mit POLTERGST | Poltergeist |
 

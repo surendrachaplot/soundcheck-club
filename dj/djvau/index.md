@@ -2,7 +2,7 @@
 
 dj vau is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club der Visionaere, Berlin on Wed, 30 Sept 2026.
 
-dj vau is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Berlin, London and Madrid. Often billed alongside ALINA (3), Colin Chiddle and Wendy Bkz. Next up: Club der Visionaere, Berlin on Wed 30 Sept.
+dj vau is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Berlin, London and Madrid. Often billed alongside ALINA (3), Wendy Bkz and sohrab.. Next up: Club der Visionaere, Berlin on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ dj vau is a techno and tech house artist tracked on soundcheck, with 5 sets logg
 
 ## Shares bills with
 
-ALINA (3), Colin Chiddle, Wendy Bkz
+ALINA (3), Wendy Bkz, sohrab.
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvau/)*

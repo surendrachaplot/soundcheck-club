@@ -1,8 +1,8 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
+Hemka is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
-Hemka is a techno and minimal techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Boston and Budapest and 15 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
+Hemka is a techno and minimal techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Budapest and 16 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hemka is a techno and minimal techno artist tracked on soundcheck, with 46 sets 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | TBA | Boston |
+| Fri, 2 Oct 2026 | NWHR | Montreal |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played

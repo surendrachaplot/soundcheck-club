@@ -1,6 +1,6 @@
 # SOLACE PRELUDE at TBA
 
-SOLACE PRELUDE at TBA on Sat 7 Nov, Athens. 11 acts on the bill: Amor Satyr, Animistic Beliefs, Astral Bandit and CHEX and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+SOLACE PRELUDE at TBA on Sat 7 Nov, Athens. 7 acts on the bill: Amor Satyr, Astral Bandit, CHEX and DBBD and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,10 @@ SOLACE PRELUDE at TBA on Sat 7 Nov, Athens. 11 acts on the bill: Amor Satyr, Ani
 ## Line-up
 
 - Amor Satyr
-- Animistic Beliefs
 - Astral Bandit
 - CHEX
 - DBBD
-- Fiama
 - MAXImum
-- Only Fire
-- Paralich
 - TOXIMAMI
 - Troy Violens
 

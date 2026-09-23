@@ -16,7 +16,7 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 12 upcoming gigs, w
 | Sat, 3 Oct 2026 | DJ Sonnenbrand // Softdrive // KOLLEKTIV WACH FLOORHOSTING | DJ Sonnenbrand, Softdrive |
 | Fri, 9 Oct 2026 | TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG | DJ Jonne Sins, Hida Douse, TWOFACEDKIMMY |
 | Sat, 10 Oct 2026 | Oldies & Trash Night 90s&Y2K Female Edition |  |
-| Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, IAM (2), MELINA (3), Sindicate, duaba |
+| Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, MELINA (3), Sindicate, duaba |
 | Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
 
 ## Address

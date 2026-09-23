@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 25 Sept 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Top Floor, Newcastle on Fri, 2 Oct 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 286 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside aalice, Steffi and Freddy K. Next up: TBA - Los Angeles, Losangeles on Fri 25 Sept.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 285 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Top Floor, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 2 Oct 2026 | Top Floor | Newcastle |
 | Sat, 3 Oct 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
@@ -20,6 +19,7 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 286 sets 
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 31 Oct 2026 | Gewölbe | Cologne |
+| Sat, 7 Nov 2026 | The Bassement | Madrid |
 
 ## Recently played
 

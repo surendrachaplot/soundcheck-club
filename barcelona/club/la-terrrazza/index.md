@@ -12,7 +12,7 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 22 upcoming gig
 | Thu, 24 Sept 2026 | NEO Open Air Takeover - La Terrrazza Barcelona |  |
 | Fri, 25 Sept 2026 | La Aso | Danny Daze, Eli Kapowski |
 | Sat, 26 Sept 2026 | CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza | Guy Gerber, MARTISTA |
-| Sat, 26 Sept 2026 | Soundmate meets RRR | Alvva, Effy, Effy (DE), RONI, Vandi, Vandi (ES), bernie soundmate |
+| Sat, 26 Sept 2026 | Soundmate meets RRR | Alvva, RONI, Vandi (ES), bernie soundmate |
 | Thu, 1 Oct 2026 | Soundset Sessions with NewTone | CLANDESTINE (2), NewTone, REGOR_ |
 | Fri, 2 Oct 2026 | Tresydos by Mari.te | John Tejada, Jorge Escribano, Mari.te |
 | Sat, 3 Oct 2026 | Jackies Open Air Daytime w/ Jayda G | GIVIO, Jayda G, Piem, The Checkup |

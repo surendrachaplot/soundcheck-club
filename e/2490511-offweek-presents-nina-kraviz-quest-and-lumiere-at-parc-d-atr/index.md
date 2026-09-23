@@ -1,6 +1,6 @@
 # OFFWEEK presents Nina Kraviz, Quest and Lumiere at Parc d’Atraccions del Tibidabo
 
-OFFWEEK presents Nina Kraviz, Quest and Lumiere at Parc d’Atraccions del Tibidabo on Fri 9 Oct, Barcelona. 4 acts on the bill: Christian AB, Lumiere, Nina Kraviz and Quest (IT). Preview the line-up and save it on soundcheck.
+OFFWEEK presents Nina Kraviz, Quest and Lumiere at Parc d’Atraccions del Tibidabo on Fri 9 Oct, Barcelona. 3 acts on the bill: Lumiere, Nina Kraviz and Quest (IT). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ OFFWEEK presents Nina Kraviz, Quest and Lumiere at Parc d’Atraccions del Tibid
 
 ## Line-up
 
-- Christian AB
 - Lumiere
 - Nina Kraviz
 - Quest (IT)

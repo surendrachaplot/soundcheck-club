@@ -17,7 +17,7 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, 
 | Fri, 23 Oct 2026 | Fiesta x Fiesta: PLO Man b2b DJ Spence all night long | DJ Spence, PLO Man |
 | Fri, 30 Oct 2026 | ARACNE 2nd Anniversary - Michel Lauriola, Viels, SPECTRAL & JOHNO | C.R.Y.D, KTV (ES), Michel Lauriola, Viels |
 | Fri, 6 Nov 2026 | Roots [extended] with Gabbs | Alex (ES), Avo (ES), Gabbs, Roberto Amo, Rodrigue Darbon, Varo (ES) |
-| Sat, 21 Nov 2026 | TRAMA | Avo (ES), Babu, Betamax_, Mou, Pablo Ruizgalan, Robert Leiner |
+| Sat, 21 Nov 2026 | TRAMA | Robert Leiner |
 
 ## Address
 

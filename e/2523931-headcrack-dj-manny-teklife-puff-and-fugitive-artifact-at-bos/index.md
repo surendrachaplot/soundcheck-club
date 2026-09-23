@@ -1,6 +1,6 @@
 # HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact at Bossa Nova Civic Club
 
-HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact at Bossa Nova Civic Club on Wed 23 Sept, Newyorkcity. 4 acts on the bill: DJ Manny, Dreams, Fugitive Artifact and PUFF. Bass and Club. Preview the line-up and save it on soundcheck.
+HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact at Bossa Nova Civic Club on Wed 23 Sept, Newyorkcity. 3 acts on the bill: DJ Manny, Fugitive Artifact and PUFF. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact at Bossa Nova Civic C
 ## Line-up
 
 - DJ Manny
-- Dreams
 - Fugitive Artifact
 - PUFF
 

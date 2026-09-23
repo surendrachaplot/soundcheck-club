@@ -17,7 +17,7 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 14 upc
 | Fri, 16 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 17 Oct 2026 | SETLIFE presents European 305 | European 305, Jacinta |
 | Fri, 23 Oct 2026 | R&B and FUNKY HOUSE NIGHT |  |
-| Sat, 24 Oct 2026 | SETLIFE presents SUPA D  | Larizzle, Supa D |
+| Sat, 24 Oct 2026 | SETLIFE presents SUPA D  | Supa D |
 
 ## Address
 

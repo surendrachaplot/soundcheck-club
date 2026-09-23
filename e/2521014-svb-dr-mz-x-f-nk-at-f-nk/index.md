@@ -1,6 +1,6 @@
 # SVB DRÆMZ x Fünk at Fünk
 
-SVB DRÆMZ x Fünk on Thu 24 Sept, Mexicocity. 4 acts on the bill: Blu:sh, Deejay Energy, Enya Botello and Maseriche. Techno and House. Preview the line-up and save it on soundcheck.
+SVB DRÆMZ x Fünk on Thu 24 Sept, Mexicocity. 3 acts on the bill: Blu:sh, Enya Botello and Maseriche. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ SVB DRÆMZ x Fünk on Thu 24 Sept, Mexicocity. 4 acts on the bill: Blu:sh, Deeja
 ## Line-up
 
 - Blu:sh
-- Deejay Energy
 - Enya Botello
 - Maseriche
 

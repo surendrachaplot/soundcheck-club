@@ -1,15 +1,14 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+DJ Travella is a Singeli and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
-DJ Travella is a singeli and club artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: La Fabriek, Brussels on Fri 25 Sept.
+DJ Travella is a singeli and club artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Athens and Auckland and 31 more. Often billed alongside DJ Diaki, Mia Koden and Aunty Rayzor. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | La Fabriek | Brussels |
-| Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
 
 ## Recently played

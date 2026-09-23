@@ -1,6 +1,6 @@
 # Trancecore with Antonym b2b Elon Bass, Amøn b2b DICE, DVAID at Lokschuppen Berlin
 
-Trancecore with Antonym b2b Elon Bass, Amøn b2b DICE, DVAID at Lokschuppen Berlin on Fri 30 Oct, Berlin. 13 acts on the bill: ADEMES, Amøn, Antonym and Athina and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trancecore with Antonym b2b Elon Bass, Amøn b2b DICE, DVAID at Lokschuppen Berlin on Fri 30 Oct, Berlin. 12 acts on the bill: ADEMES, Amøn, Antonym and Athina and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ Trancecore with Antonym b2b Elon Bass, Amøn b2b DICE, DVAID at Lokschuppen Berl
 - Antonym
 - Athina
 - Boltcore
-- Danilo Filipe
 - DETOXX
 - DICE
 - DVAID

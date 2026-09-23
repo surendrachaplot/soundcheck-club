@@ -9,7 +9,7 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 4 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Soliad, blan.trrs | Soliad, blan.trrs |
-| Sat, 26 Sept 2026 | Cristian Sarde, IKAKO | Cristian Sarde, IKAKO |
+| Sat, 26 Sept 2026 | Cristian Sarde / IKAKO | Cristian Sarde, IKAKO |
 | Sun, 27 Sept 2026 | SUNDAYZ VIBEZ |  |
 | Sun, 27 Sept 2026 | SUNDAYZ VIBEB |  |
 

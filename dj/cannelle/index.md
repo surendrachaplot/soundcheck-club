@@ -1,15 +1,14 @@
 # Cannelle
 
-Cannelle is a Techno and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
+Cannelle is a Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
 
-Cannelle is a techno and disco artist based in France, tracked on soundcheck, with 37 sets logged across Antwerp, Barcelona, Berlin and Chicago and 5 more. Often billed alongside LeBRON, Ali RQ and Luksek. Next up: Le Mazette, Paris on Sat 26 Sept.
+Cannelle is a disco and techno artist based in France, tracked on soundcheck, with 36 sets logged across Antwerp, Barcelona, Berlin and Chicago and 5 more. Often billed alongside LeBRON, Ali RQ and Luksek. Next up: Le Mazette, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Le Mazette | Paris |
-| Sat, 3 Oct 2026 | Fvtvr | Paris |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Fri, 13 Nov 2026 | Fairmount Theatre | Montreal |
 | Sat, 14 Nov 2026 | Radius | Chicago |

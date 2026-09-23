@@ -1,6 +1,6 @@
 # Soundmate meets RRR at La Terrrazza
 
-Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 7 acts on the bill: Alvva, bernie soundmate, Effy and Effy (DE) and 3 more. House. Preview the line-up and save it on soundcheck.
+Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 4 acts on the bill: Alvva, bernie soundmate, RONI and Vandi (ES). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,7 @@ Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 7 acts on the bil
 
 - Alvva
 - bernie soundmate
-- Effy
-- Effy (DE)
 - RONI
-- Vandi
 - Vandi (ES)
 
 *Source: [soundcheck](https://soundcheck.club/e/2517893-soundmate-meets-rrr-at-la-terrrazza/)*

@@ -1,6 +1,6 @@
 # Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz at fabric
 
-Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz at fabric on Sat 10 Oct, London. 10 acts on the bill: AANO, Aaron Hibell, BUTZ and ENNIO and 6 more. Preview the line-up and save it on soundcheck.
+Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz at fabric on Sat 10 Oct, London. 9 acts on the bill: AANO, Aaron Hibell, BUTZ and ENNIO and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,7 +17,6 @@ Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz at 
 - KiNK
 - Kotiēr
 - Kwartz
-- Sanaz
 - Sanaz (2)
 - Slam
 

@@ -1,6 +1,6 @@
 # KGR(resident) at KGR(n)
 
-KGR(resident) at KGR(n) on Mon 12 Oct, Tokyo. 4 acts on the bill: In Ray, karanaki, KotaNakano and Moli (3). Techno and Experimental. Preview the line-up and save it on soundcheck.
+KGR(resident) at KGR(n) on Mon 12 Oct, Tokyo. 3 acts on the bill: karanaki, KotaNakano and Moli (3). Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ KGR(resident) at KGR(n) on Mon 12 Oct, Tokyo. 4 acts on the bill: In Ray, karana
 
 ## Line-up
 
-- In Ray
 - karanaki
 - KotaNakano
 - Moli (3)

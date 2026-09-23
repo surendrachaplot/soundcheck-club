@@ -8,7 +8,7 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome | Bart Skils, Oliver Huntemann, Roger Gerressen, Unalome, Victor Ruiz |
+| Fri, 25 Sept 2026 | Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome | Bart Skils, Oliver Huntemann, Unalome, Victor Ruiz |
 | Sat, 26 Sept 2026 | Mindscape - Live set experience | Arthur Robert, Barker, Martinou, VNTM, Vera Logdanidi |
 | Sat, 3 Oct 2026 | Multigroove presents: NoXa Invites | Buzz Fuzz, Luna (1), Pavo |
 | Fri, 9 Oct 2026 | Lofi by D Stone | D Stone, ESTRELLA, La La, Tsepo |

@@ -8,7 +8,7 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Kin - Alex Coly • nik-ey • Travis Allen • Violet | Alex Coly, Travis Allen, Vie Aimee, nik-ey |
+| Thu, 24 Sept 2026 | Kin - Alex Coly • nik-ey • Travis Allen • Violet | Alex Coly, Travis Allen, nik-ey |
 | Fri, 25 Sept 2026 | M-High • Shanne | M-High, Shanne |
 | Sat, 26 Sept 2026 | John Tejada • Monty DJ | John Tejada, Monty DJ |
 | Fri, 2 Oct 2026 | Ian Pooley • Merel Helderman | Ian Pooley, Merel Helderman |

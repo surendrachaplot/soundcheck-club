@@ -8,7 +8,7 @@ The Deep End is a music venue in Newyorkcity listed on soundcheck. 1 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Sector of Groove presents: CONVERGENCE | ELIVVATE, MiGS718, Pablo Vitale, Petite Nhi, S7IK, Sam Valle, a.gar |
+| Fri, 25 Sept 2026 | Sector of Groove presents: CONVERGENCE | ELIVVATE, MiGS718, Pablo Vitale, S7IK, Sam Valle, a.gar |
 
 ## Address
 

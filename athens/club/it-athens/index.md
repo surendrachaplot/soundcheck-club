@@ -12,7 +12,7 @@ IT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, wit
 | Sat, 26 Sept 2026 | Phasma Collective Return | zøntanos |
 | Fri, 2 Oct 2026 | A Psychedelic Night by Beatrip |  |
 | Sat, 3 Oct 2026 | Showcase Tropical Nomads Athens |  |
-| Sat, 10 Oct 2026 | EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN  | Jacopo Sb, Paluma Sound, Target Demographic, VRGN, pink.wav |
+| Sat, 10 Oct 2026 | EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN  | Jacopo Sb, Target Demographic, VRGN, pink.wav |
 | Sat, 17 Oct 2026 | DARA-LEE KOYOTE RECORDS THREE DECADES OF PSYCHEDELIC SOUND |  |
 | Fri, 23 Oct 2026 | Echoes Vol.2 | R4ST |
 | Sat, 24 Oct 2026 | Echoes of the Upper World |  |

@@ -1,6 +1,6 @@
 # Firn Frequency: Restless Planet at Firn
 
-Firn Frequency: Restless Planet on Thu 24 Sept, Seattle. 3 acts on the bill: JENN GREEN, Jono (2) and Misha Mir. House. Preview the line-up and save it on soundcheck.
+Firn Frequency: Restless Planet on Thu 24 Sept, Seattle. 2 acts on the bill: JENN GREEN and Jono (2). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Firn Frequency: Restless Planet on Thu 24 Sept, Seattle. 3 acts on the bill: JEN
 
 - JENN GREEN
 - Jono (2)
-- Misha Mir
 
 *Source: [soundcheck](https://soundcheck.club/e/2524373-firn-frequency-restless-planet-at-firn/)*

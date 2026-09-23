@@ -2,7 +2,7 @@
 
 DJ SUSH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-DJ SUSH is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Seattle. Often billed alongside Jason Code, Manwell and Ash Lauryn. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+DJ SUSH is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Seattle. Often billed alongside Manwell, Ash Lauryn and Chez Damier. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ SUSH is a house and techno artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Jason Code, Manwell, Ash Lauryn
+Manwell, Ash Lauryn, Chez Damier
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsush/)*

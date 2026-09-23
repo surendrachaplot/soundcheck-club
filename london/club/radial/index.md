@@ -16,7 +16,7 @@ radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 10 Oct 2026 | DOOSH V6 | D.G., FIDDI, Tom and Tommer |
 | Sun, 11 Oct 2026 | Satiate | FAFF, J. Aria, Jordan Hearns, Riva, Someone Sunny, Teecra |
 | Sat, 17 Oct 2026 | Soulmates | Dennis Christensen, Rap Saunders |
-| Sun, 18 Oct 2026 | JAM Agency Showcase | Aaron Burr (2), Isabelle Koci, Max Fisher, NOIDMATE |
+| Sun, 18 Oct 2026 | JAM Agency Showcase | Aaron Burr (2), Isabelle Koci, Max Fisher |
 | Fri, 23 Oct 2026 | Ikonika - All Night Long | Ikonika |
 
 ## Address

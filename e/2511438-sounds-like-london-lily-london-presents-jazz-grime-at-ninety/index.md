@@ -1,6 +1,6 @@
 # Sounds Like London: Lily London presents Jazz Grime at Ninety One
 
-Sounds Like London: Lily London presents Jazz Grime at Ninety One on Sat 14 Nov, London. 5 acts on the bill: Lily London, limi, NikNak and Ruggz and 1 more. Grime and Jazz. Preview the line-up and save it on soundcheck.
+Sounds Like London: Lily London presents Jazz Grime at Ninety One on Sat 14 Nov, London. 4 acts on the bill: Lily London, limi, NikNak and SI*BL. Grime and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Sounds Like London: Lily London presents Jazz Grime at Ninety One on Sat 14 Nov,
 - Lily London
 - limi
 - NikNak
-- Ruggz
 - SI*BL
 
 *Source: [soundcheck](https://soundcheck.club/e/2511438-sounds-like-london-lily-london-presents-jazz-grime-at-ninety/)*

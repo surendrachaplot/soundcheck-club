@@ -2,13 +2,13 @@
 
 Refuge is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Refuge Friday: Deep Dish (Open to Close)" on Fri, 25 Sept 2026.
 
-Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including Adam X, A-Trak, Baltra and Cour T. and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including Adam X, A-Trak, Baltra and David Morales and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Refuge Friday: Deep Dish (Open to Close) | Deep Dish, Lost Desert, Lovecraft |
+| Fri, 25 Sept 2026 | Refuge Friday: Deep Dish (Open to Close) | Deep Dish |
 | Sat, 26 Sept 2026 | Refuge 1st Birthday Celebration Marathon with Victor Calderone | Victor Calderone |
 | Sat, 26 Sept 2026 | Refuge Saturday Daytime: Ragie Ban |  |
 | Sat, 26 Sept 2026 | Refuge Saturday: John Dimatteo, Shorty + Special Guest | Dimatteo |

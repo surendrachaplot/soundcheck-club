@@ -1,11 +1,11 @@
-# PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL at TBA - Inter-city 
+# PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL at Inter-City
 
-PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL at TBA - Inter-city  on Sat 26 Sept, Thehague. 2 acts on the bill: Intergalactic Gary and Vladimir Ivkovic. Techno and Electro. Preview the line-up and save it on soundcheck.
+PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL at Inter-City on Sat 26 Sept, Thehague. 2 acts on the bill: Intergalactic Gary and Vladimir Ivkovic. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 26 Sept 2026 |
-| Venue | TBA - Inter-city  |
+| Venue | Inter-City |
 | City | The Hague |
 
 ## Line-up

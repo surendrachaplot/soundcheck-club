@@ -8,7 +8,7 @@ Chuchle Racecourse is a music venue in Prague listed on soundcheck. 1 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ | Adiel, Ariane V, Carluschka, DDK (1), DIVA, DJames, Demonika, Fatty M, Kembe, Misha Jaru, Pink Concrete, Riki Boro, SJ Yellow, TBA, Zuzana Hakl |
+| Fri, 30 Oct 2026 | Komiks Warehouse Rave: Halloween with Adiel ☆ 3 Stages at The Racecourse ☆ | Adiel, Ariane V, Carluschka, DDK (1), DIVA, DJames, Demonika, Fatty M, Kembe, Misha Jaru, Pink Concrete, Riki Boro, SJ Yellow, TBA |
 
 ## Address
 

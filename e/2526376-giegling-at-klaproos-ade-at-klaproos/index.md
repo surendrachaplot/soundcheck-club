@@ -1,6 +1,6 @@
 # giegling at Klaproos - ade at Klaproos
 
-giegling at Klaproos - ade on Sun 25 Oct, Amsterdam. 15 acts on the bill: Alexia (2), Cassy, Cosmo and Cosmo (KR) and 11 more. Preview the line-up and save it on soundcheck.
+giegling at Klaproos - ade on Sun 25 Oct, Amsterdam. 14 acts on the bill: Alexia (2), Cassy, Cosmo (KR) and DJ Dustin and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ giegling at Klaproos - ade on Sun 25 Oct, Amsterdam. 15 acts on the bill: Alexia
 
 - Alexia (2)
 - Cassy
-- Cosmo
 - Cosmo (KR)
 - DJ Dustin
 - Edward

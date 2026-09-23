@@ -1,6 +1,6 @@
 # Audiation welcomes Daniel Bell at Vibehaus ATX
 
-Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 3 acts on the bill: BD Slide, Brett Johnson and Daniel Bell. House and Minimal. Preview the line-up and save it on soundcheck.
+Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 2 acts on the bill: Brett Johnson and Daniel Bell. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Audiation welcomes Daniel Bell at Vibehaus ATX on Fri 6 Nov, Austin. 3 acts on t
 
 ## Line-up
 
-- BD Slide
 - Brett Johnson
 - Daniel Bell
 

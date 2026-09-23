@@ -15,7 +15,7 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with l
 | Fri, 2 Oct 2026 | BRVJ presents LUNAR PALACE / 月下宫殿 | Excultist, HYUNHXEE |
 | Sat, 10 Oct 2026 | Darklight Drum and Bass: Dillinja (Valve, Metalheadz, V Recordings) + Guests | Dillinja |
 | Sat, 17 Oct 2026 | Cakeshop 14th anniv at Cake and Pistil |  |
-| Fri, 6 Nov 2026 | Breaks & Kimchi present Neffa-T | Haney Lee, MOONICE, Neffa-T, Nimvy, Tabris, untitled (2) |
+| Fri, 6 Nov 2026 | Breaks & Kimchi present Neffa-T | MOONICE, Neffa-T, Nimvy, Tabris, untitled (2) |
 
 ## Address
 

@@ -9,7 +9,7 @@ Jungla London is a music venue in London listed on soundcheck. 3 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | AWAKEN V | Arterapsy, Christian J, Elliot Moriarty, Harry Wilson |
-| Fri, 9 Oct 2026 | Tech House Night // Free entry before 12:30am | Areeb Abbasi, Auseeb, Moonz, Phåro (2), Picep |
+| Fri, 9 Oct 2026 | Tech House Night // Free entry before 12:30am | Areeb Abbasi, Auseeb, Phåro (2), Picep |
 | Fri, 9 Oct 2026 | Jungle Frequency presents DJ Hybrid @Jungla | DJ Hybrid |
 
 ## Address

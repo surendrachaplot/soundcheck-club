@@ -1,6 +1,6 @@
 # SQUISH x BOOF: FOLSOM at The San Francisco Mint
 
-SQUISH x BOOF: FOLSOM at The San Francisco Mint on Fri 25 Sept, Sanfrancisco. 15 acts on the bill: Cashu, D. Tiffany, Ehua and jcore and 11 more. Techno and Club. Preview the line-up and save it on soundcheck.
+SQUISH x BOOF: FOLSOM at The San Francisco Mint on Fri 25 Sept, Sanfrancisco. 14 acts on the bill: Cashu, D. Tiffany, Ehua and jcore and 10 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,7 +19,6 @@ SQUISH x BOOF: FOLSOM at The San Francisco Mint on Fri 25 Sept, Sanfrancisco. 15
 - Katie Rex
 - likeholywine
 - masato
-- MILANA
 - Miss Parker
 - nonsuit
 - Papa Xanny

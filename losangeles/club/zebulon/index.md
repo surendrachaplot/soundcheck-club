@@ -9,7 +9,7 @@ Zebulon is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | DUBLAB27: Short Form / Long Memory | Aaron Paar, Ashley Younniä, Chloëdees, Daedelus, Ella Warren, RAVEDAD |
-| Sat, 24 Oct 2026 | Horror Hi-Fi | Alex Oxley, Horror Hi-Fi, Roxanne Roll |
+| Sat, 24 Oct 2026 | Horror Hi-Fi | Alex Oxley, Roxanne Roll |
 
 ## Address
 

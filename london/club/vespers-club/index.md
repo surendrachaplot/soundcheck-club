@@ -13,7 +13,7 @@ Vespers Club is a music venue in London listed on soundcheck. 11 upcoming gigs, 
 | Sat, 3 Oct 2026 | Drum and Babes 2 Babes |  |
 | Fri, 16 Oct 2026 | Pherotone 5.0 with Mx. Blaire (extended set) | Emilia G, Mx. Blaire |
 | Sat, 24 Oct 2026 | Dead Or Alive |  |
-| Fri, 30 Oct 2026 | Ghouls Club | Creep-P, Desiludildo, LUNAx3 |
+| Fri, 30 Oct 2026 | Ghouls Club | Creep-P, Desiludildo |
 | Sat, 31 Oct 2026 | Exquisite Corpse 06 | AAKAARA, DELARA, JON KRIEGER, Jane Darke, LIZAZA, NakedAggressionDJ, New Flesh (2), SIOBHAN., TILEBOI |
 | Thu, 12 Nov 2026 | DUSK presents: Cinna Peyghamy, Detraex Corp, Psyclo | Cinna Peyghamy, Psyclo, SKYAPNEA |
 | Fri, 13 Nov 2026 | Sanctuary Realm |  |

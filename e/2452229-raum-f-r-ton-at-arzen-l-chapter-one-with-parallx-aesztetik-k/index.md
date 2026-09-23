@@ -1,6 +1,6 @@
 # Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT at Arzenal
 
-Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT at Arzenal on Sat 7 Nov, Budapest. 7 acts on the bill: AESZTETIK, Kabay, Leskus and MAHA and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT at Arzenal on Sat 7 Nov, Budapest. 6 acts on the bill: AESZTETIK, Kabay, Leskus and Parallx and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Ta
 - AESZTETIK
 - Kabay
 - Leskus
-- MAHA
 - Parallx
 - Tarkan
 - THIRD 2HIFT

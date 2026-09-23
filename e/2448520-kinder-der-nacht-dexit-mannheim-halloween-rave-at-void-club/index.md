@@ -1,6 +1,6 @@
 # Kinder der Nacht & DEXIT Mannheim - Halloween Rave at Void Club
 
-Kinder der Nacht & DEXIT Mannheim - Halloween Rave at Void Club on Fri 30 Oct, Berlin. 7 acts on the bill: Ewelina Koll, GHOST DE, Jose Bonetto and Lila Kova and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Kinder der Nacht & DEXIT Mannheim - Halloween Rave at Void Club on Fri 30 Oct, Berlin. 5 acts on the bill: GHOST DE, Jose Bonetto, Lila Kova and Rob Robsen and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,9 @@ Kinder der Nacht & DEXIT Mannheim - Halloween Rave at Void Club on Fri 30 Oct, B
 
 ## Line-up
 
-- Ewelina Koll
 - GHOST DE
 - Jose Bonetto
 - Lila Kova
-- Marc van Linden
 - Rob Robsen
 - Seimen Dexter
 

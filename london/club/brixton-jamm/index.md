@@ -9,7 +9,6 @@ Brixton Jamm is a music venue in London listed on soundcheck. 14 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | DOWN TO FUNK PRESENTS: Norman Jay MBE - Day & Night Party | Norman Jay, Tooke |
-| Tue, 29 Sept 2026 | Moshi Rave | Jaymie, alterum |
 | Fri, 9 Oct 2026 | Jungle Splash |  |
 | Sat, 10 Oct 2026 | EXXPLANA - Baile Funk |  |
 | Fri, 16 Oct 2026 | LAJU - Juls & Larizzle | Juls, Larizzle |
@@ -18,6 +17,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 14 upcoming gigs, 
 | Fri, 23 Oct 2026 | ABBA v Fleetwood Mac Disco Party |  |
 | Sat, 24 Oct 2026 | The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) | Harry Wilson, Jawjee, Marco (UK), Nadia, Simon Vuarambon |
 | Sat, 24 Oct 2026 | Slow Jamm: Late Night Special |  |
+| Thu, 29 Oct 2026 | Moshi Rave | Jaymie, alterum |
 
 ## Address
 

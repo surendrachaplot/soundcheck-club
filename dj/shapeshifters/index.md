@@ -1,8 +1,8 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at One77 Brooklyn, New York City on Sat, 26 Sept 2026.
+The Shapeshifters is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at One77 Brooklyn, New York City on Sat, 26 Sept 2026.
 
-The Shapeshifters is a house and disco artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: One77 Brooklyn, Newyorkcity on Sat 26 Sept.
+The Shapeshifters is a house and disco artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 30 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: One77 Brooklyn, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ The Shapeshifters is a house and disco artist tracked on soundcheck, with 122 se
 | Sat, 26 Sept 2026 | One77 Brooklyn | New York City |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Joshua Brooks | Manchester |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 

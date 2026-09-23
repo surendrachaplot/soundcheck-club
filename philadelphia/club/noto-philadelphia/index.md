@@ -8,7 +8,7 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 8 upcom
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | PTO: Kyle Watson | Kyle Watson, Maddalena |
+| Thu, 24 Sept 2026 | PTO: Kyle Watson | Kyle Watson |
 | Fri, 25 Sept 2026 | Philadelphia NOTO 09/25 Ian Asher |  |
 | Thu, 1 Oct 2026 | PTO: Marco Strous | Marco Strous, Oscar N (US) |
 | Thu, 15 Oct 2026 | PTO: Anfisa Letyago | Anfisa Letyago, Miss Powers |

@@ -1,15 +1,14 @@
 # Naicet
 
-Naicet is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
+Naicet is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
 
-Naicet is a techno and tech house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Copenhagen, Hamburg and Munich and 2 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Kater, Berlin on Fri 25 Sept.
+Naicet is a techno and tech house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Copenhagen, Hamburg and Munich and 2 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Kater, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kater | Berlin |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 

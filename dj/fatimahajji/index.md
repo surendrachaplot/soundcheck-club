@@ -1,14 +1,13 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+Fatima Hajji is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Fatima Hajji is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside Alignment, Shlømo and Trym. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hongkong on Fri 2 Oct.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside Alignment, Shlømo and Trym. Next up: TBA - XOX Arena, Kualalumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Fri, 16 Oct 2026 | Nordstern | Basel |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |

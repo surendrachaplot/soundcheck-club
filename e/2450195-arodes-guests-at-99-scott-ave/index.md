@@ -1,6 +1,6 @@
 # ARODES  & Guests at 99 Scott Ave
 
-ARODES  & Guests at 99 Scott Ave on Fri 9 Oct, Newyorkcity. 2 acts on the bill: ARODES and JUNO (DE). Afro House. Preview the line-up and save it on soundcheck.
+ARODES  & Guests at 99 Scott Ave on Fri 9 Oct, Newyorkcity. 1 act on the bill: ARODES. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ ARODES  & Guests at 99 Scott Ave on Fri 9 Oct, Newyorkcity. 2 acts on the bill: 
 ## Line-up
 
 - ARODES
-- JUNO (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2450195-arodes-guests-at-99-scott-ave/)*

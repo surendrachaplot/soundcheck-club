@@ -8,7 +8,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS WOOD ☆ KINKY DISCO ☆ T.B.A | DJ Hell, DJ KILLING, MERILIN, Nina Michelle, Skankstasy |
+| Sat, 26 Sept 2026 | DJ HELL ☆ MERILIN ☆ Nina Michelle ☆ LOUIS WOOD ☆ KINKY DISCO ☆ T.B.A | DJ Hell, MERILIN, Nina Michelle |
 | Sat, 3 Oct 2026 | Skankstasy ☆ MAKODE LINDE ☆ DJ KILLING ☆ BASEMENT BOYS | DJ KILLING, Skankstasy |
 | Sat, 10 Oct 2026 | DJ Godfather >> Psykoterapi at BRONX Stockholm - 10 OCT 2026 | DJ Godfather, Psykoterapi |
 | Sat, 24 Oct 2026 | x3butterfly a Mexican/American DJ and producer from Detroit | x3butterfly |

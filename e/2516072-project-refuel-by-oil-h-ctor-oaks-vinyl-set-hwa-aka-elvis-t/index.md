@@ -1,6 +1,6 @@
 # 续油计划 PROJECT REFUEL by OIL: Héctor Oaks (Vinyl Set) +HWA aka. ELVIS.T at OIL Club
 
-续油计划 PROJECT REFUEL by OIL: Héctor Oaks (Vinyl Set) +HWA aka. ELVIS.T at OIL Club on Sat 26 Sept, Shenzhen. 3 acts on the bill: Héctor Oaks, Jascer and Yangyang. Techno. Preview the line-up and save it on soundcheck.
+续油计划 PROJECT REFUEL by OIL: Héctor Oaks (Vinyl Set) +HWA aka. ELVIS.T at OIL Club on Sat 26 Sept, Shenzhen. 2 acts on the bill: Héctor Oaks and Jascer. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@
 
 - Héctor Oaks
 - Jascer
-- Yangyang
 
 *Source: [soundcheck](https://soundcheck.club/e/2516072-project-refuel-by-oil-h-ctor-oaks-vinyl-set-hwa-aka-elvis-t/)*

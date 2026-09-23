@@ -1,6 +1,6 @@
 # NACHT at TBA
 
-NACHT at TBA on Sat 10 Oct, Ibiza. 2 acts on the bill: Anoul and Luigi Rossi. House and Minimal. Preview the line-up and save it on soundcheck.
+NACHT at TBA on Sat 10 Oct, Ibiza. 1 act on the bill: Anoul. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ NACHT at TBA on Sat 10 Oct, Ibiza. 2 acts on the bill: Anoul and Luigi Rossi. Ho
 ## Line-up
 
 - Anoul
-- Luigi Rossi
 
 *Source: [soundcheck](https://soundcheck.club/e/2535831-nacht-at-tba/)*

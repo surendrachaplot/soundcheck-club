@@ -1,6 +1,6 @@
 # REVERB: HARDBOUNCE at EQ San Diego
 
-REVERB: HARDBOUNCE at EQ San Diego on Thu 24 Sept, Sandiego. 1 act on the bill: DEVZ. Techno. Preview the line-up and save it on soundcheck.
+REVERB: HARDBOUNCE at EQ San Diego on Thu 24 Sept, Sandiego. 2 acts on the bill: badfriday and DEVZ. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ REVERB: HARDBOUNCE at EQ San Diego on Thu 24 Sept, Sandiego. 1 act on the bill: 
 
 ## Line-up
 
+- badfriday
 - DEVZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2538359-reverb-hardbounce-at-eq-san-diego/)*

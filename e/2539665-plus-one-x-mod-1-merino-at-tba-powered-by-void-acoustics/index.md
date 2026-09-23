@@ -1,6 +1,6 @@
 # Plus One X Mod.1 & Merino at TBA - Powered by: Void Acoustics
 
-Plus One X Mod.1 & Merino at TBA - Powered by: Void Acoustics on Sat 10 Oct, Madrid. 6 acts on the bill: Alejandro Franco, Ali-Az, Kevin Matto and Merino and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Plus One X Mod.1 & Merino at TBA - Powered by: Void Acoustics on Sat 10 Oct, Madrid. 5 acts on the bill: Ali-Az, Kevin Matto, Merino and Mod.1 and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Plus One X Mod.1 & Merino at TBA - Powered by: Void Acoustics on Sat 10 Oct, Mad
 
 ## Line-up
 
-- Alejandro Franco
 - Ali-Az
 - Kevin Matto
 - Merino

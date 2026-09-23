@@ -1,14 +1,15 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
+TASSERY is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Vaag, Antwerp on Fri, 25 Sept 2026.
 
-TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Berlin and Geneva and 16 more. Often billed alongside KIRSTY, KLOFAMA and KRUELTY. Next up: Club Vaag, Antwerp on Fri 25 Sept.
+TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 17 more. Often billed alongside KARAH, KIRSTY and KLOFAMA. Next up: Club Vaag, Antwerp on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Club Vaag | Antwerp |
+| Sat, 26 Sept 2026 | Bootshaus | Cologne |
 | Sun, 4 Oct 2026 | Ministerium Club | Lisbon |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
@@ -29,6 +30,6 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 
 ## Shares bills with
 
-KIRSTY, KLOFAMA, KRUELTY
+KARAH, KIRSTY, KLOFAMA
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

@@ -1,6 +1,6 @@
 # Infra connection at Rooftop 105
 
-Infra connection at Rooftop 105 on Sat 10 Oct, Geneva. 2 acts on the bill: Benka and ronch. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Infra connection at Rooftop 105 on Sat 10 Oct, Geneva. 1 act on the bill: ronch. Drum & Bass and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Infra connection at Rooftop 105 on Sat 10 Oct, Geneva. 2 acts on the bill: Benka
 
 ## Line-up
 
-- Benka
 - ronch
 
 *Source: [soundcheck](https://soundcheck.club/e/2532415-infra-connection-at-rooftop-105/)*

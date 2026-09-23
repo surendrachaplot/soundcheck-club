@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | SOJOURN FESTIVAL 2026 | AADJA, Ahadadream, Bambii, Blkvirgo, Chinelo, Chippy Nonstop, Circumscums, DJ SWISHA, Donny Vega, Ellen Allien, FJAAK, Fanndemm, Geezr, Ignez, Jaw Jones, Mac Declos, Manuka Honey, Measure Divide, Milidi, Miss Bible, Neffa-T, Negin, Nino Brown (2), Only Fire, Phillippe, SALOME, Sir Spyro, Steve Marto, TDJ, TOCCORORO, Vadim Khan, Young Teesh, Zellers, me, myself &i, musa |
+| Fri, 25 Sept 2026 | SOJOURN FESTIVAL 2026 | AADJA, Ahadadream, Bambii, Blkvirgo, Chinelo, Chippy Nonstop, Circumscums, DJ SWISHA, Ellen Allien, FJAAK, Fanndemm, Geezr, Ignez, Jaw Jones, Mac Declos, Manuka Honey, Measure Divide, Milidi, Miss Bible, Neffa-T, Negin, Nino Brown (2), Only Fire, Phillippe, SALOME, Sir Spyro, Steve Marto, TDJ, TOCCORORO, Vadim Khan, Young Teesh, Zellers, me, myself &i, musa |
 | Sat, 3 Oct 2026 | PRECIOUS CARGO x Sniffies (WAREHOUSE) |  |
 | Sat, 28 Nov 2026 | 429: El Mefti All Night Long |  |
 

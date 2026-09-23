@@ -10,7 +10,7 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, 
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | DOWN2TECHNO [Every Wednesday] |  |
 | Fri, 25 Sept 2026 | KAÏROS |  |
-| Sat, 26 Sept 2026 | RED | Guillaume Michaud, Special K (CA) |
+| Sat, 26 Sept 2026 | RED | Guillaume Michaud |
 | Sun, 27 Sept 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | IKTAN |
 | Tue, 29 Sept 2026 | 5:14 Sessions with RURU [All Night Long] | DJ RURU |
 | Wed, 30 Sept 2026 | DOWN2TECHNO [Every Wednesday] | POM (1), Pinch (CA) |

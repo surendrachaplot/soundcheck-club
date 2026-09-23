@@ -1,14 +1,14 @@
 # Jaymie
 
-Jaymie is a Gabber and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Brixton Jamm, London on Tue, 29 Sept 2026.
+Jaymie is a Gabber and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Brixton Jamm, London on Thu, 29 Oct 2026.
 
-Jaymie is a gabber and dubstep artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Takenbymarshall, Compulsive Leia and Princess Xixi. Next up: Brixton Jamm, London on Tue 29 Sept.
+Jaymie is a gabber and dubstep artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Takenbymarshall, Compulsive Leia and Princess Xixi. Next up: Brixton Jamm, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Brixton Jamm | London |
+| Thu, 29 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played
 

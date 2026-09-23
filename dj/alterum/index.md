@@ -9,8 +9,8 @@ alterum is a hardcore and gabber artist tracked on soundcheck, with 63 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Drop inn | Birmingham |
-| Tue, 29 Sept 2026 | Brixton Jamm | London |
 | Sat, 24 Oct 2026 | Gorilla | Manchester |
+| Thu, 29 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played
 

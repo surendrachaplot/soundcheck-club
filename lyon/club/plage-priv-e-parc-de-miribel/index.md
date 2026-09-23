@@ -8,7 +8,7 @@ Plage Privée Parc de Miribel is a music venue in Lyon listed on soundcheck. 1 u
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | 23:59 - WEEKENDER 2026 | 2HOT2PLAY, AREA ØNE, Axymt., Blasha & Allatt, Cara Elizabeth, Carla Schmitt, Chami, DBBD, DNNS, Dory, EARGASM GOD, GRAVEDGR, Glaskeen, L.zwo, Mika Heggemann, Niotech, OMAKS, OPH, PRADA2000, Part Time Killer, Protokseed, Russian Village Boys, Schrotthagen, Sköne, Tau Ceti, Tauceti (FR), Zorza |
+| Sat, 10 Oct 2026 | 23:59 - WEEKENDER 2026 | 2HOT2PLAY, AREA ØNE, Axymt., Blasha & Allatt, Cara Elizabeth, Carla Schmitt, Chami, DBBD, DNNS, Dory, EARGASM GOD, GRAVEDGR, Glaskeen, L.zwo, Mika Heggemann, Niotech, OMAKS, OPH, PRADA2000, Part Time Killer, Protokseed, Russian Village Boys, Schrotthagen, Sköne, Tauceti (FR), Zorza |
 
 ## Address
 

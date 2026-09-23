@@ -12,11 +12,11 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 26 upcomin
 | Sat, 26 Sept 2026 | Archie Hamilton, DXNBY, Jhobei | A For Alpha, Archie Hamilton, DXNBY, Elvi (1), Jhobei, Kim April |
 | Fri, 2 Oct 2026 | Alex Dienaar b2b Nathan Alzon, Ellia Jaya | Ellia Jaya, Joris van Gelder, Nathan Alzon, Shanne, Wodda |
 | Sat, 3 Oct 2026 | Apontow Akyi, Joey Daniel, Rooléh | Joey Daniel, Rooléh |
-| Fri, 9 Oct 2026 | Doppelgang Birthday Session | 36framez, Bennet, Bennet (DE), Budino, Doppelgang, Sandrien |
+| Fri, 9 Oct 2026 | Doppelgang Birthday Session | 36framez, Bennet (DE), Budino, Doppelgang, Sandrien |
 | Sat, 10 Oct 2026 | Entasia b2b Freddi, Moody Mehran b2b OLIVIA LENSEN | Entasia, Freddi, Gate 9, Moody Mehran, OLIVIA LENSEN, Saul |
 | Fri, 16 Oct 2026 | Crits Agency W/ nik-ey b2b Ammé, Sun Sol b2b Luis Ripa | Ammé, Capra (2), DORA, ETERNAL JOE, GLEM, Khun, Luis Ripa, Mees Mattern, Renceau, nik-ey |
 | Sat, 17 Oct 2026 | 10SERIES by Shelter - Stef Davidse (all night long) | KINETIKS, Stef Davidse |
-| Wed, 21 Oct 2026 | Modern Funktion x Shelter | Benji King, James Lavelle, Job de Jong, Jude Lenihan, Laidlaw, Locklead, Marsolo, Mya (1), Phill de Janeiro, Tom Da Silva, Truly Madly, bullet tooth, j:me |
+| Wed, 21 Oct 2026 | Modern Funktion x Shelter | Benji King, Job de Jong, Jude Lenihan, Laidlaw, Locklead, Marsolo, Mya (1), Phill de Janeiro, Tom Da Silva, Truly Madly, bullet tooth, j:me |
 | Thu, 22 Oct 2026 | PIV ADE - Shelter Amsterdam | Anil Aras, Cinthie, Daughter In Law, Julian Anthony, Piem, Ryan Elliott, SDK (IT) |
 
 ## Address

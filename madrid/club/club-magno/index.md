@@ -9,7 +9,7 @@ Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Antidoto Club: COUCOU CHLOE + TOCCORORO | COUCOU CHLOE, LA INDIA, TOCCORORO, Yosef (ES) |
-| Thu, 1 Oct 2026 | Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) | Danga, Nori, Ryota (JP), Yosef (ES) |
+| Thu, 1 Oct 2026 | Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) | Danga, Ryota (JP), Yosef (ES) |
 | Thu, 15 Oct 2026 | Antidoto Club: Vigro Deep | Diego Armando, Maxvll |
 | Thu, 22 Oct 2026 | Antidoto Club: Paralich + Klandestina | Atrâm, Klandestina, Paralich, Quka |
 | Thu, 29 Oct 2026 | Antidoto Club: Disobey Soundsystem + Chzter |  |

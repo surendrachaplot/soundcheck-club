@@ -11,7 +11,7 @@ Arzenal is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with
 | Sat, 3 Oct 2026 | Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT | Liquid Soul |
 | Fri, 9 Oct 2026 | UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG | Cloudy |
 | Fri, 16 Oct 2026 | Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT | FUMI |
-| Sat, 7 Nov 2026 | Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT | AESZTETIK, Kabay, Leskus, MAHA, Parallx, THIRD 2HIFT, Tarkan |
+| Sat, 7 Nov 2026 | Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT | AESZTETIK, Kabay, Leskus, Parallx, THIRD 2HIFT, Tarkan |
 | Sat, 14 Nov 2026 | Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal | Paralich, Valenthin |
 | Fri, 27 Nov 2026 | NRG Budapest - Arzenál | Jezza & Jod, KLOFAMA, Vieze Asbak, Winson, Yoshiko |
 | Fri, 4 Dec 2026 | Arzenal X Shangri-La with Hot Since 82 | Hot Since 82 |

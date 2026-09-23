@@ -2,13 +2,13 @@
 
 Tokyo Bar is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tokyo Bar presents Rory Cochrane (Music With Emotion Records)" on Sat, 26 Sept 2026.
 
-Tokyo Bar is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Music P and Rory Cochrane. Browse upcoming dates, start times and who's playing. 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom.
+Tokyo Bar is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including Rory Cochrane. Browse upcoming dates, start times and who's playing. 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Tokyo Bar presents Rory Cochrane (Music With Emotion Records) | Music P, Rory Cochrane |
+| Sat, 26 Sept 2026 | Tokyo Bar presents Rory Cochrane (Music With Emotion Records) | Rory Cochrane |
 | Sun, 27 Sept 2026 | Club 909 |  |
 | Sun, 4 Oct 2026 | Club 909 |  |
 | Sun, 11 Oct 2026 | Club 909 |  |

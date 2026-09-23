@@ -2,7 +2,7 @@
 
 ronch is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Rooftop 105, Geneva on Sat, 10 Oct 2026.
 
-ronch is a techno and bass artist tracked on soundcheck, with 7 sets logged across Geneva and Manchester. Often billed alongside MARCUS THE MARAUDER, Alex Moore and Benka. Next up: Rooftop 105, Geneva on Sat 10 Oct.
+ronch is a techno and bass artist tracked on soundcheck, with 7 sets logged across Geneva and Manchester. Often billed alongside MARCUS THE MARAUDER, Alex Moore and Egg On Toast. Next up: Rooftop 105, Geneva on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ ronch is a techno and bass artist tracked on soundcheck, with 7 sets logged acro
 
 ## Shares bills with
 
-MARCUS THE MARAUDER, Alex Moore, Benka
+MARCUS THE MARAUDER, Alex Moore, Egg On Toast
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronch/)*

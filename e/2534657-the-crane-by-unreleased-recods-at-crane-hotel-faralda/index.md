@@ -1,6 +1,6 @@
 # THE CRANE by Unreleased Recods at Crane Hotel Faralda
 
-THE CRANE by Unreleased Recods at Crane Hotel Faralda on Sat 24 Oct, Amsterdam. 1 act on the bill: ARODES. House and Afro House. Preview the line-up and save it on soundcheck.
+THE CRANE by Unreleased Recods at Crane Hotel Faralda on Sat 24 Oct, Amsterdam. 1 act on the bill: ARODES. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

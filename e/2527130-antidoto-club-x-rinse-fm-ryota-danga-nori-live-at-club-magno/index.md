@@ -1,6 +1,6 @@
 # Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) at Club Magno
 
-Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) at Club Magno on Thu 1 Oct, Madrid. 4 acts on the bill: Danga, Nori, Ryota (JP) and Yosef (ES). Garage and Electronica. Preview the line-up and save it on soundcheck.
+Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) at Club Magno on Thu 1 Oct, Madrid. 3 acts on the bill: Danga, Ryota (JP) and Yosef (ES). Garage and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) at Club Magno on Thu 1 Oct
 ## Line-up
 
 - Danga
-- Nori
 - Ryota (JP)
 - Yosef (ES)
 

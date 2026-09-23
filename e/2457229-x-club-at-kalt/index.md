@@ -1,6 +1,6 @@
 # X-Club at KALT
 
-X-Club at KALT on Sat 3 Oct, Strasbourg. 6 acts on the bill: Deetron, Dimë, Mezza and Perruche and 2 more. Preview the line-up and save it on soundcheck.
+X-Club at KALT on Sat 3 Oct, Strasbourg. 4 acts on the bill: Dimë, Perruche, STU (FR) and X CLUB.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,7 @@ X-Club at KALT on Sat 3 Oct, Strasbourg. 6 acts on the bill: Deetron, Dimë, Mez
 
 ## Line-up
 
-- Deetron
 - Dimë
-- Mezza
 - Perruche
 - STU (FR)
 - X CLUB.

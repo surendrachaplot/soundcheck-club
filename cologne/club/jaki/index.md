@@ -1,13 +1,14 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tom-Tom Discotec presents: Analog Africa" on Sat, 26 Sept 2026.
+JAKI is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim" on Fri, 25 Sept 2026.
 
-JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
+JAKI is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | xyz with Futurę Sounds Of Jazz hosted by Uh-Young Kim | Michael Reinboth, Michael Rütten |
 | Sat, 26 Sept 2026 | Tom-Tom Discotec presents: Analog Africa |  |
 | Fri, 2 Oct 2026 | E.P.I.Q Nights: 5th Birthday Special | AMSL, Anna Cainelli, Nikity, Savsannah, Sedaction |
 | Fri, 9 Oct 2026 | SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK | Cora Lee |

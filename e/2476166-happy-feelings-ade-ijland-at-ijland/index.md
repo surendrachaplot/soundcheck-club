@@ -1,6 +1,6 @@
 # Happy Feelings ADE - Ijland at Ijland
 
-Happy Feelings ADE - Ijland on Sat 24 Oct, Amsterdam. 10 acts on the bill: Camille Doe, DJANGO (NL), Gabriel Muñoz and Girls Don't Sync and 6 more. House and Garage. Preview the line-up and save it on soundcheck.
+Happy Feelings ADE - Ijland on Sat 24 Oct, Amsterdam. 5 acts on the bill: KIM SWIM, Lucky Done Gone, Mike Momburg and Moody Mehran and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,6 @@ Happy Feelings ADE - Ijland on Sat 24 Oct, Amsterdam. 10 acts on the bill: Camil
 
 ## Line-up
 
-- Camille Doe
-- DJANGO (NL)
-- Gabriel Muñoz
-- Girls Don't Sync
-- Itz3bby
 - KIM SWIM
 - Lucky Done Gone
 - Mike Momburg

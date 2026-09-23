@@ -1,6 +1,6 @@
 # HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena at Born 2B Music Bar
 
-HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena at Born 2B Music Bar on Fri 25 Sept, Barcelona. 5 acts on the bill: Drunk At Vogue, Sarah Andersson, Vikki and Yossi Gomez and 1 more. House and Deep House. Preview the line-up and save it on soundcheck.
+HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena at Born 2B Music Bar on Fri 25 Sept, Barcelona. 4 acts on the bill: Drunk At Vogue, Sarah Andersson, Yossi Gomez and Yunaplena. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ HAUS x Drunk At Vogue, Sarah Andersson, Yossi Gomez, Yunaplena at Born 2B Music 
 
 - Drunk At Vogue
 - Sarah Andersson
-- Vikki
 - Yossi Gomez
 - Yunaplena
 

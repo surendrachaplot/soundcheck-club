@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
+Colyn is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
 
-Colyn is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: INPUT High Fidelity Dance Club, Barcelona on Wed 23 Sept.
+Colyn is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: INPUT High Fidelity Dance Club, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Colyn is a techno and house artist tracked on soundcheck, with 162 sets logged a
 | Sat, 26 Sept 2026 | Fitz Mallorca | Mallorca |
 | Fri, 9 Oct 2026 | Zumana Bali | Bali |
 | Sun, 11 Oct 2026 | Savaya Bali | Bali |
+| Sun, 18 Oct 2026 | Revolver Upstairs | Melbourne |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | E1 | London |
 

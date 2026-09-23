@@ -1,6 +1,6 @@
 # friends. THE FACE at Nido Cocktailbar
 
-friends. THE FACE at Nido Cocktailbar on Fri 23 Oct, Amsterdam. 7 acts on the bill: Amber (NL), Marvin Aloys, MAURO and RIØ (DE) and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+friends. THE FACE at Nido Cocktailbar on Fri 23 Oct, Amsterdam. 6 acts on the bill: Amber (NL), Marvin Aloys, MAURO and Roxy Nox and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ friends. THE FACE at Nido Cocktailbar on Fri 23 Oct, Amsterdam. 7 acts on the bi
 - Amber (NL)
 - Marvin Aloys
 - MAURO
-- RIØ (DE)
 - Roxy Nox
 - Static Bloom (DE)
 - YEPIK

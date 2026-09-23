@@ -9,14 +9,14 @@ Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Westfall X Reload: two girls one mom, Westfall, Saphyr &More | Suave (BE), Westfall, two girls one mom |
-| Fri, 25 Sept 2026 | ANUBIS: Paul Seul, RUFFNECK, FLUCC, NAMARA & MORE | FLUCC, NAMARA, Paul Seul |
+| Fri, 25 Sept 2026 | ANUBIS: Paul Seul, RUFFNECK, FLUCC, NAMARA & MORE | FLUCC, Paul Seul |
 | Sat, 26 Sept 2026 | Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ | Alex Nantaya, KX CHR, Night Owl, Popof |
 | Thu, 1 Oct 2026 | Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy | Percy |
 | Fri, 2 Oct 2026 | Pisica: Alba Franch, franck, Antonym B2b George Radsport &… | Alba Franch, Antonym, FØSS, HANÀ, Westfall, franck |
 | Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
 | Thu, 8 Oct 2026 | TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO | HAXO, Ingrid, Mon.To |
 | Fri, 9 Oct 2026 | Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin | Marc Acardipane, ÆSTR |
-| Sat, 10 Oct 2026 | THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE | BLNK, ENFAN, FLKN, Flymeon, Night Owl |
+| Sat, 10 Oct 2026 | THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE | BLNK, ENFAN, Flymeon, Night Owl |
 | Fri, 16 Oct 2026 | ONES AND ZEROS: Boys Noize, Adame DJ, TINKERHELL & MORE | Adame DJ, Boys Noize, MarcelDune, TINKERHELL |
 
 ## Address

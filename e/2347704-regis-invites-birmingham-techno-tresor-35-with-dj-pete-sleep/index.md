@@ -1,6 +1,6 @@
 # Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more at Tunnel Club
 
-Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more at Tunnel Club on Fri 2 Oct, Birmingham. 9 acts on the bill: Choronzon, DJ Pete, Gremlinz and Holsten and 5 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more at Tunnel Club on Fri 2 Oct, Birmingham. 8 acts on the bill: Choronzon, DJ Pete, Gremlinz and OAKE and 4 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more a
 - Choronzon
 - DJ Pete
 - Gremlinz
-- Holsten
 - OAKE
 - Outer Heaven
 - Rangelova

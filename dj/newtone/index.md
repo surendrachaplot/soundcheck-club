@@ -1,8 +1,8 @@
 # NewTone
 
-NewTone is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
+NewTone is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
 
-NewTone is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: BASIS, Utrecht on Sat 26 Sept.
+NewTone is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: BASIS, Utrecht on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ NewTone is a house and techno artist tracked on soundcheck, with 105 sets logged
 | Sat, 26 Sept 2026 | BASIS | Utrecht |
 | Thu, 1 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 10 Oct 2026 | The Mash House | Edinburgh |
-| Thu, 15 Oct 2026 | La Terrrazza | Barcelona |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |

@@ -9,9 +9,9 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Grabe pres. Giac / Angel Mellado / Musta at 303 | Angel Mellado, Lisandro Mustapic, giac. |
-| Thu, 24 Sept 2026 | 303 pres. Liza / Brizas / Merlina | Brizas, LIZA., Liza, Merlina P |
+| Thu, 24 Sept 2026 | 303 pres. Liza / Brizas / Merlina | Brizas, LIZA., Merlina P |
 | Fri, 25 Sept 2026 | Subliminal State x El Bassline pres. Marlie at 303 | Galu Bla, Marlie, _YAI__ |
-| Sat, 26 Sept 2026 | Less Is More with Bassi at 303  | Guedes, Guedes (ES), Kid Moss |
+| Sat, 26 Sept 2026 | Less Is More with Bassi at 303  | Guedes (ES), Kid Moss |
 | Sun, 27 Sept 2026 | AFTER HOURS: ORBITAL 4TH ANNIVERSARY — CARRY ON AT 303 | Alex (ES), Enzo Leep |
 | Thu, 1 Oct 2026 | Wheel Up at 303 | SURUU, Satta B, Sunny Graves |
 | Fri, 2 Oct 2026 | Algorythm Records pres. Rob Pearson at 303 | FRAXA, Pol K, Rob Pearson |

@@ -10,7 +10,7 @@ Intergalactic Gary is an italo disco and disco artist tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Doka | Amsterdam |
 | Fri, 25 Sept 2026 | Doka | Amsterdam |
-| Sat, 26 Sept 2026 | TBA - Inter-city  | The Hague |
+| Sat, 26 Sept 2026 | Inter-City | The Hague |
 | Sat, 17 Oct 2026 | H0L0 | New York City |
 | Sat, 31 Oct 2026 | Radio Radio | Amsterdam |
 

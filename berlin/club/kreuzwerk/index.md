@@ -8,7 +8,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | OVERLOAD #4 | Andrew Moore, Buday, Darren Black, ENGALANAN, Kiar Oscuro, Mar/us, Mohi Neja, Or_ion, Orion |
+| Fri, 25 Sept 2026 | OVERLOAD #4 | Andrew Moore, Buday, Darren Black, ENGALANAN, Kiar Oscuro, Mar/us, Mohi Neja, Or_ion |
 | Fri, 2 Oct 2026 | EAU DE COLOGNE | Citizens Union, MVHY, Natuta, Nene H, VINVAR |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |
 | Sun, 11 Oct 2026 | tracey zero |  |

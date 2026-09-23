@@ -1,6 +1,6 @@
 # NICE ONE WEEKENDER at ZENNER
 
-NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 39 acts on the bill: .VRIL, Aleksi Perälä, Alex Jenkin and Alexia (2) and 35 more. Preview the line-up and save it on soundcheck.
+NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 38 acts on the bill: .VRIL, Aleksi Perälä, Alex Jenkin and Alexia (2) and 34 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -38,7 +38,6 @@ NICE ONE WEEKENDER at ZENNER on Fri 16 Oct, Berlin. 39 acts on the bill: .VRIL, 
 - Margaret Dygas
 - Margaux Gazur
 - Millie McKee
-- Perila
 - Sansibar
 - Shakolin
 - Stella Zekri

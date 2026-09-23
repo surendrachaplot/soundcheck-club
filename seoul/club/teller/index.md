@@ -9,8 +9,8 @@ teller is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Wednesday, September 23, 2026 | Jongho, Kibum, Minuc, Nomal |
-| Fri, 25 Sept 2026 | Friday, September 25, 2026 | Lyumin, Mihak, Soyo, Young Sun |
-| Sat, 26 Sept 2026 | Saturday, September 26, 2026 | Kugel, Mihak, Sunday Lee, Young Sun |
+| Fri, 25 Sept 2026 | Friday, September 25, 2026 | Lyumin, Mihak, Soyo |
+| Sat, 26 Sept 2026 | Saturday, September 26, 2026 | Kugel, Sunday Lee, Young Sun |
 
 ## Address
 

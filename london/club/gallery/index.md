@@ -10,7 +10,7 @@ Gallery is a music venue in London listed on soundcheck. 16 upcoming gigs, with 
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Paradox Nexus: Anna Tur - Thursdays at Gallery | Anna Tur, DEFILE, NOFEX |
 | Fri, 25 Sept 2026 | Pax Arabiana - Gallery 25/09 | Pax Arabiana |
-| Sat, 26 Sept 2026 | Cash Only presents: Chronicles | Carly Carmen, Dj Cash Only, Matt Dawson, Ned Spencer, Philip George, Rue Jay |
+| Sat, 26 Sept 2026 | Cash Only presents: Chronicles | Carly Carmen, Dj Cash Only, Ned Spencer, Philip George, Rue Jay |
 | Thu, 1 Oct 2026 | Paradox Nexus - Thursdays |  |
 | Fri, 2 Oct 2026 | MIROIR: KOKO (IT) | Jackopo, KOKO (IT) |
 | Sat, 3 Oct 2026 |  MVSON PRESENTS: Mason Collective, Marian B2B VITO (UK) & Ramoss | Marian BR, Mason Collective, Ramoss, VITO (UK) |

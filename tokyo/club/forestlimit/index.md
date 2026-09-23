@@ -16,7 +16,7 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, wi
 | Sat, 26 Sept 2026 | 「曇 — DON —」 | seaketa |
 | Sun, 27 Sept 2026 | 吉村政信生誕祭～誕生月TIMELIMIT～ |  |
 | Fri, 2 Oct 2026 | 「秋のドンピシャ！爆踊り祭り！」 |  |
-| Sat, 3 Oct 2026 | Marionette x Forestlimit | Grimwig, Inqapool, Toner, Toner(JP), yolabmi |
+| Sat, 3 Oct 2026 | Marionette x Forestlimit | Grimwig, Inqapool, Toner(JP), yolabmi |
 | Sun, 4 Oct 2026 | New Masterpiece 13th Anniversary ニューマスターピースのテクノ・アティテュード | ANiIIIIiiiKii |
 
 ## Address

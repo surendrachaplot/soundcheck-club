@@ -1,6 +1,6 @@
 # Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TBA at The Warehouse
 
-Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TBA at The Warehouse on Fri 9 Oct, Leeds. 4 acts on the bill: Big Ang, Josi Devil, Main Phase and Osmosis Jones. Garage. Preview the line-up and save it on soundcheck.
+Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TBA at The Warehouse on Fri 9 Oct, Leeds. 3 acts on the bill: Josi Devil, Main Phase and Osmosis Jones. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TBA at The Warehous
 
 ## Line-up
 
-- Big Ang
 - Josi Devil
 - Main Phase
 - Osmosis Jones

@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 28 Oct, Berlin. 3 acts on the bill: pink-panther, Samo Rane and UniKhatu. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 28 Oct, Berlin. 2 acts on the bill: pink-panther and Samo Rane. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ TECHNO MITTWOCH at Sensorium on Wed 28 Oct, Berlin. 3 acts on the bill: pink-pan
 
 - pink-panther
 - Samo Rane
-- UniKhatu
 
 *Source: [soundcheck](https://soundcheck.club/e/2449667-techno-mittwoch-at-sensorium/)*

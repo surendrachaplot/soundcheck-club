@@ -10,7 +10,7 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upc
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | ■ Checkpoint special La Mercè pres. Reptant live | Enzo, Reptant, Sampol |
 | Thu, 24 Sept 2026 | Noizer pres. Kølpøs + Karina Schneider | Karina Schneider |
-| Fri, 25 Sept 2026 | Siku pres. Marco Shuttle | Christian Arcila, Marco Shuttle, Onoffon, Sebastián |
+| Fri, 25 Sept 2026 | Siku pres. Marco Shuttle | Christian Arcila, Marco Shuttle, Sebastián |
 | Sat, 26 Sept 2026 | Orbital 4th Anniversary pres. Dan Andrei 4h set | Dan Andrei |
 | Thu, 1 Oct 2026 | Noizer pres. Chris Liebing + Flug | Chris Liebing, Flug |
 | Fri, 2 Oct 2026 | Bonanza pres. Adi, Benny, Gōdō | Adi, Benny (El Rio Hostel), Gōdō |

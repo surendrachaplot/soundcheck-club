@@ -1,8 +1,8 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
+Chloé Caillet is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Barcelona and Belfast and 49 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Knockdown Center, Newyorkcity on Fri 25 Sept.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Knockdown Center, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 238 sets
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Deseo BS AS | Buenos Aires |
+| Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 
 ## Recently played
 

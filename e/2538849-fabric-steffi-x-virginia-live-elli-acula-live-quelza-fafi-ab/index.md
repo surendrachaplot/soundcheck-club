@@ -1,6 +1,6 @@
 # fabric: Steffi x Virginia (Live), Elli Acula (Live), Quelza, Fafi Abdel Nour, Ø [Phase] at fabric
 
-fabric: Steffi x Virginia (Live), Elli Acula (Live), Quelza, Fafi Abdel Nour, Ø [Phase] on Sat 14 Nov, London. 12 acts on the bill: Elli Acula, Fafi Abdel Nour, Gabbs and Mauro Ferno and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+fabric: Steffi x Virginia (Live), Elli Acula (Live), Quelza, Fafi Abdel Nour, Ø [Phase] on Sat 14 Nov, London. 11 acts on the bill: Elli Acula, Fafi Abdel Nour, Mauro Ferno and Ø [Phase] and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ fabric: Steffi x Virginia (Live), Elli Acula (Live), Quelza, Fafi Abdel Nour, Ø
 
 - Elli Acula
 - Fafi Abdel Nour
-- Gabbs
 - Mauro Ferno
 - Ø [Phase]
 - Oliver Moon

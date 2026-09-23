@@ -1,6 +1,6 @@
 # SUBCERO x IMBOLC at Subcero Club
 
-SUBCERO x IMBOLC at Subcero Club on Sat 10 Oct, Madrid. 3 acts on the bill: Deceit, Fonso Alegría and Nachine. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO x IMBOLC at Subcero Club on Sat 10 Oct, Madrid. 1 act on the bill: Fonso Alegría. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ SUBCERO x IMBOLC at Subcero Club on Sat 10 Oct, Madrid. 3 acts on the bill: Dece
 
 ## Line-up
 
-- Deceit
 - Fonso Alegría
-- Nachine
 
 *Source: [soundcheck](https://soundcheck.club/e/2540808-subcero-x-imbolc-at-subcero-club/)*

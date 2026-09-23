@@ -2,7 +2,7 @@
 
 CLAVD is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
-CLAVD is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt, Hamburg and Paris. Often billed alongside MAHA, Tarkan and Alphabae. Next up: MTW, Frankfurt on Sat 14 Nov.
+CLAVD is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt, Hamburg and Paris. Often billed alongside Tarkan, Alphabae and Ani con Gas. Next up: MTW, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ CLAVD is a techno artist based in Germany, tracked on soundcheck, with 4 sets lo
 
 ## Shares bills with
 
-MAHA, Tarkan, Alphabae
+Tarkan, Alphabae, Ani con Gas
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clavd/)*

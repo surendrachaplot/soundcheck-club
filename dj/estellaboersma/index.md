@@ -1,13 +1,14 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Estella Boersma is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Fabrik, Madrid on Sun 11 Oct.
+Estella Boersma is a techno and house artist tracked on soundcheck, with 174 sets logged across All, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | The Cause | London |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |

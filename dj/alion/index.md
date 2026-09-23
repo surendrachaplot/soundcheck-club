@@ -2,7 +2,7 @@
 
 Alion is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OIL Club, Shenzhen on Thu, 24 Sept 2026.
 
-Alion is a techno and bass artist tracked on soundcheck, with 37 sets logged across Shenzhen. Often billed alongside Fatalis, Warmchainss and Sirens. Next up: OIL Club, Shenzhen on Thu 24 Sept.
+Alion is a techno and bass artist tracked on soundcheck, with 37 sets logged across Shenzhen. Often billed alongside Fatalis, Warmchainss and Jascer. Next up: OIL Club, Shenzhen on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Alion is a techno and bass artist tracked on soundcheck, with 37 sets logged acr
 
 ## Shares bills with
 
-Fatalis, Warmchainss, Sirens
+Fatalis, Warmchainss, Jascer
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alion/)*

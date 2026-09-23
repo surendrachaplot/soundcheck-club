@@ -8,7 +8,7 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Sarah Andersson, Vikki |
+| Wed, 23 Sept 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Sarah Andersson |
 | Thu, 24 Sept 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 29 Sept 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 | Wed, 30 Sept 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Guto Fernandez |

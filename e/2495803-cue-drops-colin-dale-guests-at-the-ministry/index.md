@@ -1,6 +1,6 @@
 # Cue Drops: Colin Dale & guests at The Ministry
 
-Cue Drops: Colin Dale & guests at The Ministry on Sun 4 Oct, London. 4 acts on the bill: Colin Dale, George Plant, HEAVEN-LEE and KABBAGE. House and Tech House. Preview the line-up and save it on soundcheck.
+Cue Drops: Colin Dale & guests at The Ministry on Sun 4 Oct, London. 3 acts on the bill: Colin Dale, HEAVEN-LEE and KABBAGE. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Cue Drops: Colin Dale & guests at The Ministry on Sun 4 Oct, London. 4 acts on t
 ## Line-up
 
 - Colin Dale
-- George Plant
 - HEAVEN-LEE
 - KABBAGE
 

@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Ivan Smagghe is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Jasna 1, Warsaw on Fri 25 Sept.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 189 sets l
 | Sat, 7 Nov 2026 | 宀 Club | Hong Kong |
 | Fri, 13 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | FOLD | London |
+| Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
 
 ## Recently played
 

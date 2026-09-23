@@ -10,7 +10,7 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 27 upcoming gigs
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Daniel Avery (Live), Dopplereffekt (live) | Daniel Avery, Dopplereffekt |
 | Thu, 24 Sept 2026 | Darby, MiiNDS |  |
-| Fri, 25 Sept 2026 | Takuya Nakamura presents: Cosmic Jungle | Aanandi, Bereket, J. Albert, NIGELTHREETIMES, RAMZi, RP Boo, Takuya Nakamura, amita |
+| Fri, 25 Sept 2026 | Takuya Nakamura presents: Cosmic Jungle | Aanandi, Bereket, J. Albert, NIGELTHREETIMES, RP Boo, Takuya Nakamura, amita |
 | Fri, 25 Sept 2026 | Taylah Elaine, BRATATTACK, 444 | 444 (1), BRATATTACK, Taylah Elaine |
 | Sat, 26 Sept 2026 | Mina, LOSTBOYJAY, Losing Stereo, Beneath x ELECTROSOL | Beneath, Blvck Truffle, LOSTBOYJAY, Mike Foch |
 | Sat, 26 Sept 2026 | Phantogram (DJ Set) | Phantogram |

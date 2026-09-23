@@ -1,6 +1,6 @@
 # Somewhen at Nordstern
 
-Somewhen at Nordstern on Fri 23 Oct, Basel. 3 acts on the bill: Sloan, Somewhen and Valorin. Preview the line-up and save it on soundcheck.
+Somewhen at Nordstern on Fri 23 Oct, Basel. 2 acts on the bill: Somewhen and Valorin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Somewhen at Nordstern on Fri 23 Oct, Basel. 3 acts on the bill: Sloan, Somewhen 
 
 ## Line-up
 
-- Sloan
 - Somewhen
 - Valorin
 

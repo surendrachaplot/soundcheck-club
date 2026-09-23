@@ -1,13 +1,14 @@
 # Monolink
 
-Monolink is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
+Monolink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Vintage Culture, Carlita and 999999999. Next up: Santa Monica Pier, Losangeles on Sat 3 Oct.
+Monolink is a techno and house artist tracked on soundcheck, with 82 sets logged across All, Amsterdam, Athens and Austin and 33 more. Often billed alongside Vintage Culture, Bedouin and Carlita. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Etko | All |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 
 ## Recently played
@@ -23,6 +24,6 @@ Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged
 
 ## Shares bills with
 
-Vintage Culture, Carlita, 999999999
+Vintage Culture, Bedouin, Carlita
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*

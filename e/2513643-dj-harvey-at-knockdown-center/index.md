@@ -1,6 +1,6 @@
 # DJ Harvey at Knockdown Center
 
-DJ Harvey at Knockdown Center on Fri 13 Nov, Newyorkcity. 2 acts on the bill: DJ Harvey and Lovie. House. Preview the line-up and save it on soundcheck.
+DJ Harvey at Knockdown Center on Fri 13 Nov, Newyorkcity. 1 act on the bill: DJ Harvey. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ DJ Harvey at Knockdown Center on Fri 13 Nov, Newyorkcity. 2 acts on the bill: DJ
 ## Line-up
 
 - DJ Harvey
-- Lovie
 
 *Source: [soundcheck](https://soundcheck.club/e/2513643-dj-harvey-at-knockdown-center/)*

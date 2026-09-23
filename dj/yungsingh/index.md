@@ -1,8 +1,8 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+Yung Singh is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
 
-Yung Singh is a garage and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside Bakey, Overmono and salute. Next up: World Headquarters, Newcastle on Fri 25 Sept.
+Yung Singh is a garage and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside Bakey, Overmono and salute. Next up: World Headquarters, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 176 sets log
 | Sat, 14 Nov 2026 | The Loft | Manchester |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
+| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
 
 ## Recently played
 

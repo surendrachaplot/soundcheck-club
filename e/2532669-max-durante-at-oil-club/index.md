@@ -1,6 +1,6 @@
 # 殺氣疼疼: MAX DURANTE at OIL Club
 
-殺氣疼疼: MAX DURANTE at OIL Club on Sat 24 Oct, Shenzhen. 5 acts on the bill: Alion, Fatalis, Jascer and MAX DURANTE and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+殺氣疼疼: MAX DURANTE at OIL Club on Sat 24 Oct, Shenzhen. 4 acts on the bill: Alion, Fatalis, Jascer and MAX DURANTE. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,5 @@
 - Fatalis
 - Jascer
 - MAX DURANTE
-- Sirens
 
 *Source: [soundcheck](https://soundcheck.club/e/2532669-max-durante-at-oil-club/)*

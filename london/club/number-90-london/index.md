@@ -14,7 +14,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gi
 | Sun, 27 Sept 2026 | Snooze After Hours | Blenk, Desiree', Field Case, LORKIK, SBBS, Silpagare, Slumber |
 | Sun, 27 Sept 2026 | ONE OF US Madz 'Madagascar' Saleem — A London Club Culture Celebration | Davide Decay, Mr Shiver, Normski, Raymundo Rodriguez, Samantha Blackburn, WOMSO |
 | Sat, 3 Oct 2026 | PLAYGRIL X SEXTOU |  |
-| Sat, 3 Oct 2026 | Half Baked W/ Manfredas, Melody & Sam Bangura | Daddybisht, Manfredas, Melody RA+RE, Sam Bangura |
+| Sat, 3 Oct 2026 | Half Baked W/ Manfredas, Melody, Sam Bangura & Daddybisht | Daddybisht, Manfredas, Melody RA+RE, Sam Bangura |
 | Thu, 8 Oct 2026 | Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent |  |
 | Fri, 9 Oct 2026 | Klub Verboten x LONDON | Desiree', Jeneva, Sybil, TSUNIMAN |
 | Fri, 9 Oct 2026 | Selective Hearing ➜ Number 90 (Bar): FREE ENTRY | Ellzo, Ize (1), Lewis Woodham, Tenzin |

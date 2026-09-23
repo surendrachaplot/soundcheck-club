@@ -9,7 +9,7 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 44 Hertz | Daniel Neuland, Dydaa Forne, Frau Kaufmann, Naicet, Pascale Voltaire, Taberia, vom Feisten |
-| Sat, 26 Sept 2026 | Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more | Anjawah, Beatina, Harry Romero, LENI (DE), Los Cabra, Lulah Francs, Melanie Havens, Mira, Moderna, Peter Schumann, Rotciv, SAM AROHA, eira haul |
+| Sat, 26 Sept 2026 | Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more | Anjawah, Beatina, Harry Romero, LENI (DE), Los Cabra, Lulah Francs, Melanie Havens, Mira, Moderna, Rotciv, SAM AROHA, eira haul |
 | Fri, 2 Oct 2026 | TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy | Anna Almani, Augusto Taito, Carl Bergé, DJ Buona Sara, DJ Fett Burger, DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES, Esther Silex, Euphrat, I$A, Jakob Mäder, Jesse G, Kurilo, Lenny Fuck, M.ono, Pascale Project, Punani, Rosa Kante, Subradeon, Talia Dorr, nd_baumecker |
 | Fri, 9 Oct 2026 | FOREVER 25 curated by Enorm in Form | Adri Tüde, Agustin Giri, Alicia Hahn, Annett Gapstream, CHIEF TORKEL, Caleesi, Cleos, DIEGÖ, Dave Dinger, Fabian Krooss, Foolik, Kon Faber, Luca Saporito (Audiofly), Mabu, Marius Lehnert, Miss Evoice, Mona Moore, Ole Olsen, Rave d‘Amor, Red Pig Flower, Revengedeko, Sarah Kreis, Simon Simono, Stan Starry, Sven Dohse, The Bille, justUS, miAs |
 | Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |

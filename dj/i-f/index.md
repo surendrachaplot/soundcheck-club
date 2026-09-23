@@ -9,7 +9,7 @@ I-F is a disco and italo disco artist tracked on soundcheck, with 87 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Het Sieraad | Amsterdam |
-| Sat, 26 Sept 2026 | TBA - Inter-city  | The Hague |
+| Sat, 26 Sept 2026 | Inter-City | The Hague |
 | Sat, 10 Oct 2026 | Rachdingue | Barcelona |
 | Fri, 23 Oct 2026 | NAR | Utrecht |
 | Sat, 31 Oct 2026 | Radio Radio | Amsterdam |

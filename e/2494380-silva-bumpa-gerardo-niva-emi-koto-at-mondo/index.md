@@ -1,6 +1,6 @@
 # Silva Bumpa / Gerardo Niva / Emi Koto at Mondo
 
-Silva Bumpa / Gerardo Niva / Emi Koto at Mondo on Thu 15 Oct, Madrid. 4 acts on the bill: doccudder, Emi Koto, Gerardo Niva and Silva Bumpa. Preview the line-up and save it on soundcheck.
+Silva Bumpa / Gerardo Niva / Emi Koto at Mondo on Thu 15 Oct, Madrid. 3 acts on the bill: Emi Koto, Gerardo Niva and Silva Bumpa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Silva Bumpa / Gerardo Niva / Emi Koto at Mondo on Thu 15 Oct, Madrid. 4 acts on 
 
 ## Line-up
 
-- doccudder
 - Emi Koto
 - Gerardo Niva
 - Silva Bumpa

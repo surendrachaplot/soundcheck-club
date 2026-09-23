@@ -1,6 +1,6 @@
 # Ear, Nose, & Throat: hazzi, Tagof, Lila, Marz.Attacks, PEET at Jupiter Disco
 
-Ear, Nose, & Throat: hazzi, Tagof, Lila, Marz.Attacks, PEET at Jupiter Disco on Sun 11 Oct, Newyorkcity. 2 acts on the bill: Lila and PEET. Preview the line-up and save it on soundcheck.
+Ear, Nose, & Throat: hazzi, Tagof, Lila, Marz.Attacks, PEET at Jupiter Disco on Sun 11 Oct, Newyorkcity. 1 act on the bill: hazzi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Ear, Nose, & Throat: hazzi, Tagof, Lila, Marz.Attacks, PEET at Jupiter Disco on 
 
 ## Line-up
 
-- Lila
-- PEET
+- hazzi
 
 *Source: [soundcheck](https://soundcheck.club/e/2542556-ear-nose-throat-hazzi-tagof-lila-marz-attacks-peet-at-jupite/)*

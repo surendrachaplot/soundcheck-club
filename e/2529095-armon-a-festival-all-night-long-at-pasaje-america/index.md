@@ -1,6 +1,6 @@
 # ARMONÍA Festival All Night Long at Pasaje America
 
-ARMONÍA Festival All Night Long at Pasaje America on Sat 26 Sept, Mexicocity. 3 acts on the bill: Hyunji-A, Mariano Mellino and Tantum. Progressive House and House. Preview the line-up and save it on soundcheck.
+ARMONÍA Festival All Night Long at Pasaje America on Sat 26 Sept, Mexicocity. 4 acts on the bill: BOREAL, Hyunji-A, Mariano Mellino and Tantum. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ARMONÍA Festival All Night Long at Pasaje America on Sat 26 Sept, Mexicocity. 3
 
 ## Line-up
 
+- BOREAL
 - Hyunji-A
 - Mariano Mellino
 - Tantum

@@ -17,7 +17,7 @@ fabric is a music venue in London listed on soundcheck. 30 upcoming gigs, with l
 | Sat, 3 Oct 2026 | fabric: Max Cooper (All Night Long), DVS1, Dasha Rush, Jasmín, Pattn, Redfreya, Moritz | DVS1, Dasha Rush, Jasmín, Max Cooper, Moritz, Pattn, Redfreya |
 | Sun, 4 Oct 2026 | CAYA by fabric: Way Out - BRADII, Savio Testa, Verso, Kesia, Olimus B2B Maurillexx | BRADII, Kesia (BR), Savio Testa, Verso |
 | Fri, 9 Oct 2026 | fabric: Locklead, bullet tooth, A For Alpha, Papa Nugs, Burnski, Busted + more  | A For Alpha, Burnski, Jude Lenihan, Locklead, Mya (1), Papa Nugs, bullet tooth, j:me |
-| Sat, 10 Oct 2026 | Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz | AANO, Aaron Hibell, BUTZ, ENNIO, KiNK, Kotiēr, Kwartz, Sanaz, Sanaz (2), Slam |
+| Sat, 10 Oct 2026 | Aaron Hibell, KiNK (Live), Slam, The Tunegirl (Live), Sanaz, Kotiēr, Kwartz | AANO, Aaron Hibell, BUTZ, ENNIO, KiNK, Kotiēr, Kwartz, Sanaz (2), Slam |
 
 ## Address
 

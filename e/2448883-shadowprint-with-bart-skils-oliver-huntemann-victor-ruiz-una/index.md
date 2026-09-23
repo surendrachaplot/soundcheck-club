@@ -1,6 +1,6 @@
 # Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome at Lofi
 
-Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome at Lofi on Fri 25 Sept, Amsterdam. 5 acts on the bill: Bart Skils, Oliver Huntemann, Roger Gerressen and Unalome and 1 more. Preview the line-up and save it on soundcheck.
+Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome at Lofi on Fri 25 Sept, Amsterdam. 4 acts on the bill: Bart Skils, Oliver Huntemann, Unalome and Victor Ruiz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Shadowprint with Bart Skils, Oliver Huntemann, Victor Ruiz, Unalome at Lofi on F
 
 - Bart Skils
 - Oliver Huntemann
-- Roger Gerressen
 - Unalome
 - Victor Ruiz
 

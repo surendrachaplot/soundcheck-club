@@ -1,6 +1,6 @@
 # Chorus Social 007: skywalka // Linnemann // April // Esmé at renae
 
-Chorus Social 007: skywalka // Linnemann // April // Esmé at renae on Fri 25 Sept, Manchester. 5 acts on the bill: April (UK), cuci cuci coo, Esmé and Linnemann and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Chorus Social 007: skywalka // Linnemann // April // Esmé at renae on Fri 25 Sept, Manchester. 4 acts on the bill: April (UK), Esmé, Linnemann and skywalka. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Chorus Social 007: skywalka // Linnemann // April // Esmé at renae on Fri 25 Se
 ## Line-up
 
 - April (UK)
-- cuci cuci coo
 - Esmé
 - Linnemann
 - skywalka

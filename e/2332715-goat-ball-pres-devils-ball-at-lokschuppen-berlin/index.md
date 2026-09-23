@@ -16,12 +16,12 @@ GOAT BALL pres. DEVILS BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 13 acts
 - FJUSHA
 - Hang The DJs
 - Krash Cora
+- MISSTAKEN
 - Noise Mafia
 - Ozzwald
 - Salzbauer
 - Shanixx
 - Stinny Stone
-- TERRA TWIINS
 - YOVA
 
 *Source: [soundcheck](https://soundcheck.club/e/2332715-goat-ball-pres-devils-ball-at-lokschuppen-berlin/)*

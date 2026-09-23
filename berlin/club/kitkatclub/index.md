@@ -12,7 +12,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, wi
 | Thu, 24 Sept 2026 | UNITY AT KITKAT CLUB |  |
 | Fri, 25 Sept 2026 | PiepShow - SeptemberPiep | Bi Män, Chris Bekker, David Talzin, Ida Scheppert, KEN (DE), Louis Harshman, Marvin (4), Nićo Lóup, PADERKID, Tobias Sommer, YESOLO |
 | Sun, 27 Sept 2026 | Nachspiel | Chris Veron |
-| Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Funk D'Void, Pornbugs |
+| Mon, 28 Sept 2026 | Electric Monday@KitKat  | Alejandro Molinari, Frankie Flowerz, Pornbugs |
 | Wed, 30 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Diana May, Grace Thompson, RHAPSODIE |
 | Fri, 2 Oct 2026 | Four Play |  |
 | Sun, 4 Oct 2026 | Nachspiel |  |

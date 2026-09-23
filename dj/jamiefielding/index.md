@@ -1,15 +1,17 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Jamie Fielding is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Jamie Fielding is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Jamie Fielding is a house and tech house artist tracked on soundcheck, with 68 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 14 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | Motion Club | Aberdeen |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 3 Oct 2026 | Void Hull | North |
 | Fri, 9 Oct 2026 | Kapsule | Liverpool |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -18,7 +20,6 @@ Jamie Fielding is a house and tech house artist tracked on soundcheck, with 66 s
 | Thu, 19 Nov 2026 | The Loft | Manchester |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sun, 13 Dec 2026 | Sub Club | Glasgow |
-| Mon, 14 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 

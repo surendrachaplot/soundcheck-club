@@ -2,7 +2,7 @@
 
 CyberMoripy is a Psytrance and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Koenji Cave, Tokyo on Fri, 25 Sept 2026.
 
-CyberMoripy is a psytrance and acid artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside BERLINER KINDL, Niko Silencio and Bones. Next up: Koenji Cave, Tokyo on Fri 25 Sept.
+CyberMoripy is a psytrance and acid artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside BERLINER KINDL, Niko Silencio and Takuya Asakura. Next up: Koenji Cave, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ CyberMoripy is a psytrance and acid artist based in Japan, tracked on soundcheck
 
 ## Shares bills with
 
-BERLINER KINDL, Niko Silencio, Bones
+BERLINER KINDL, Niko Silencio, Takuya Asakura
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cybermoripy/)*

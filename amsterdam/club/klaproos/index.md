@@ -12,7 +12,7 @@ Klaproos is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, wi
 | Fri, 23 Oct 2026 | Love On The Rocks - ADE 2026 - Klaproos | Alexia Glensy, BASHKKA, Cassy, Fais Le Beau, Giammarco Orsini, Melody RA+RE, PARAMIDA, Pancratio, Peach, Satoshi Tomiie, Simone de Kunovich, Volkan Akin, Vuur |
 | Sat, 24 Oct 2026 | SLPFNK X Yoyaku ADE | Alexander Skancke, DJ Senc, Magda, Mari.te, Moopie, Nathalie Seres, Tomoki Tamura, Zeina |
 | Sat, 24 Oct 2026 | ZeeZout ADE - Saturday Night | LYLO (NL), OK Williams, Optimo (Espacio), Pariah, Spray |
-| Sun, 25 Oct 2026 | giegling at Klaproos - ade | Alexia (2), Cassy, Cosmo, Cosmo (KR), DJ Dustin, Edward, Just1, Konstantin, Lawrence, Leafar Legov, Map.ache, Mimi (4), Tau Car, Thomas Melchior, Yamour |
+| Sun, 25 Oct 2026 | giegling at Klaproos - ade | Alexia (2), Cassy, Cosmo (KR), DJ Dustin, Edward, Just1, Konstantin, Lawrence, Leafar Legov, Map.ache, Mimi (4), Tau Car, Thomas Melchior, Yamour |
 
 ## Address
 

@@ -15,7 +15,7 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 13 upcoming g
 | Sat, 3 Oct 2026 | Tom Wainwright - Haçienda All Night Long |  |
 | Sat, 10 Oct 2026 | Cristoph - Joshua Brooks Manchester | Cristoph |
 | Sat, 10 Oct 2026 | Day Time Disco: The Shapeshifters + Jade Edwards | Jade Edwards, The Shapeshifters |
-| Fri, 16 Oct 2026 | Badger: Joshua Brooks Manchester | Badger (UK), LARISHKA (UK), Mattik (UK), SHADEV |
+| Fri, 16 Oct 2026 | Badger: Joshua Brooks Manchester | Badger (UK), LARISHKA (UK), SHADEV |
 | Sat, 17 Oct 2026 | RUZE - Joshua Brooks Manchester | RUZE |
 | Sat, 24 Oct 2026 | Dusky: Signals Tour - Manchester | Dusky |
 

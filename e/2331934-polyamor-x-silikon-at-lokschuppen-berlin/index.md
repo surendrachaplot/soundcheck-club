@@ -1,6 +1,6 @@
 # Polyamor x SILIKON at Lokschuppen Berlin
 
-Polyamor x SILIKON at Lokschuppen Berlin on Fri 20 Nov, Berlin. 10 acts on the bill: Alba Franch, Alexa Fluor, DJ Gianni and ELOISA and 6 more. Preview the line-up and save it on soundcheck.
+Polyamor x SILIKON at Lokschuppen Berlin on Fri 20 Nov, Berlin. 9 acts on the bill: Alba Franch, Alexa Fluor, DJ Gianni and ELOISA and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,6 @@ Polyamor x SILIKON at Lokschuppen Berlin on Fri 20 Nov, Berlin. 10 acts on the b
 - DJ Gianni
 - ELOISA
 - Elotrance
-- M4RY
 - The Muffin Man
 - VIVI909
 - Vivienna

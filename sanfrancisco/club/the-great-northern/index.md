@@ -8,7 +8,7 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 14 upc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Ranger Trucco - The Great Northern | Loods, Ranger Trucco |
+| Fri, 25 Sept 2026 | Ranger Trucco - The Great Northern | Ranger Trucco |
 | Sat, 26 Sept 2026 | Groove Armada - The Great Northern | Groove Armada, STRAWBRY |
 | Sun, 27 Sept 2026 | SG Lewis - The Great Northern | PUFFIE, SG Lewis, starfari |
 | Fri, 9 Oct 2026 | Woo York (Live) - San Francisco | Woo York |

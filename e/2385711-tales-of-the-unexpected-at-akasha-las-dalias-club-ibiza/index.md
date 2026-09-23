@@ -1,6 +1,6 @@
 # Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza
 
-Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza on Fri 9 Oct, Ibiza. 3 acts on the bill: Heidi Lawden, Lovefingers and The Brothers Grim. Preview the line-up and save it on soundcheck.
+Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza on Fri 9 Oct, Ibiza. 1 act on the bill: Lovefingers. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ Tales Of The Unexpected at Akasha Las Dalias Club - Ibiza on Fri 9 Oct, Ibiza. 3
 
 ## Line-up
 
-- Heidi Lawden
 - Lovefingers
-- The Brothers Grim
 
 *Source: [soundcheck](https://soundcheck.club/e/2385711-tales-of-the-unexpected-at-akasha-las-dalias-club-ibiza/)*

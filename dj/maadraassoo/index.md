@@ -1,13 +1,14 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - La Pergola de La Marina (Vlc), Valencia on Fri, 2 Oct 2026.
+Maadraassoo is a Pop and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jamboree Dance Club, Barcelona on Wed, 23 Sept 2026.
 
-Maadraassoo is a pop and electro artist tracked on soundcheck, with 210 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: TBA - La Pergola de La Marina (Vlc), Valencia on Fri 2 Oct.
+Maadraassoo is a pop and electro artist tracked on soundcheck, with 211 sets logged across Barcelona, Madrid, Mallorca and Valencia. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Jamboree Dance Club, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | Jamboree Dance Club | Barcelona |
 | Fri, 2 Oct 2026 | TBA - La Pergola de La Marina (Vlc) | Valencia |
 | Sat, 3 Oct 2026 | Jamboree Dance Club | Barcelona |
 

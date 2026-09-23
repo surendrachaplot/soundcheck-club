@@ -1,6 +1,6 @@
 # Collect LX Factory presents Mammo (live) at Collect LX Factory
 
-Collect LX Factory presents Mammo (live) on Sat 3 Oct, Lisbon. 3 acts on the bill: Andre Cascais, Mammo and Solid-Funk. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Collect LX Factory presents Mammo (live) on Sat 3 Oct, Lisbon. 2 acts on the bill: Andre Cascais and Mammo. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Collect LX Factory presents Mammo (live) on Sat 3 Oct, Lisbon. 3 acts on the bil
 
 - Andre Cascais
 - Mammo
-- Solid-Funk
 
 *Source: [soundcheck](https://soundcheck.club/e/2514632-collect-lx-factory-presents-mammo-live-at-collect-lx-factory/)*

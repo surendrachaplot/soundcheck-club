@@ -8,7 +8,7 @@ Folklore is a music venue in London listed on soundcheck. 1 upcoming gig, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The DownTempo Temple | AALEX, Altayef, Apsara (UK), Irene S, Marco (UK), Parra Vie, Sokolyann |
+| Sat, 17 Oct 2026 | The DownTempo Temple | AALEX, Altayef, Apsara (UK), Irene S, Parra Vie, Sokolyann |
 
 ## Address
 

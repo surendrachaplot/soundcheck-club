@@ -1,8 +1,8 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
+Peder Mannerfelt is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
 
-Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Flore, mad miran and Bendik Giske. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
+Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Flore, mad miran and CCL. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundch
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Kildevæld Kulturcenter | Copenhagen |
 | Sat, 3 Oct 2026 | M.O.T | London |
-| Sat, 10 Oct 2026 | Funkhaus Berlin | Berlin |
 
 ## Recently played
 
@@ -25,6 +24,6 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundch
 
 ## Shares bills with
 
-Flore, mad miran, Bendik Giske
+Flore, mad miran, CCL
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

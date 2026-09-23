@@ -1,6 +1,6 @@
 # Bodytonic presents Catz N Dogz at The Bernard Shaw
 
-Bodytonic presents Catz N Dogz at The Bernard Shaw on Sun 25 Oct, Dublin. 3 acts on the bill: Animwal, Catz 'N Dogz and SHO. House and Disco. Preview the line-up and save it on soundcheck.
+Bodytonic presents Catz N Dogz at The Bernard Shaw on Sun 25 Oct, Dublin. 2 acts on the bill: Animwal and Catz 'N Dogz. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ Bodytonic presents Catz N Dogz at The Bernard Shaw on Sun 25 Oct, Dublin. 3 acts
 
 - Animwal
 - Catz 'N Dogz
-- SHO
 
 *Source: [soundcheck](https://soundcheck.club/e/2504369-bodytonic-presents-catz-n-dogz-at-the-bernard-shaw/)*

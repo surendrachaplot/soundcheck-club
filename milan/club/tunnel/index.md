@@ -11,7 +11,7 @@ Tunnel is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with lin
 | Thu, 24 Sept 2026 | DELIRIO - Samm - MFW | Samm, Still.i |
 | Fri, 25 Sept 2026 | PICTURA MFW 2026 - Tunnel CLUB MILAN | Alci, Arapu, Candelaria, Nuel |
 | Sat, 3 Oct 2026 | TRANCE GATE – OPENING PARTY | Andrew Rayel |
-| Sat, 10 Oct 2026 | OWNSPACE x 4amrecords — OPENING SEASON | Ivan Iacobucci, Stella Fiore, Test_One |
+| Sat, 10 Oct 2026 | OWNSPACE x 4amrecords — OPENING SEASON | Stella Fiore, Test_One |
 
 ## Address
 

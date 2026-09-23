@@ -17,7 +17,7 @@ Astoria is a music venue in Turin listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 30 Oct 2026 | TECHNOBULL: Hitam (Eerste Communie, Hayes, Rhiza Semar /NL) Andrea Perna, THEGOD01 | Hitam, Rytm, THEGOD01 |
 | Fri, 6 Nov 2026 | Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse | Jin Synth |
 | Fri, 6 Nov 2026 | Eclisse: Jin Synth (Semantica Records, On Board Music, KR3 Records /TW), FDS, James Nowak | Hellcatz, Jin Synth |
-| Fri, 13 Nov 2026 | TECHNOBULL: BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo + TBA | Aberra, BENZA, Teeo |
+| Fri, 13 Nov 2026 | TECHNOBULL: BENZA (Clergy, Symbole, Vault Records /ES), Teeo Kristo + TBA | BENZA, Teeo |
 
 ## Address
 

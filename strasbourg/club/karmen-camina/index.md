@@ -1,8 +1,8 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TRANCEFUSION by La Co-Lock [DouD, Max-Aqui, Mess-Mew, R-Win]" on Thu, 24 Sept 2026.
+Karmen Camina is a music venue in Strasbourg with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TRANCEFUSION by La Co-Lock [DouD, Max-Aqui, Mess-Mew, R-Win]" on Thu, 24 Sept 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming gigs, with line-ups including Arbo, Dario Zenker, Disguised and ELLLL and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming gigs, with line-ups including Arbo, Dario Zenker, Disguised and ELLLL and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming gi
 | Fri, 25 Sept 2026 | Stitch'n' Bitch - MUSICA FESTIVAL [YARD, SARC, Zoë Mc Pherson, Lullahush, a~a~r~d~e~n~t, ELLLL] | ELLLL, Zoë Mc Pherson |
 | Sat, 26 Sept 2026 | KC [Zenker Brothers • Itaho & Pacôme Orzi • EUROMAX DJ • JeanneTo] | Dario Zenker, EUROMAX DJ, Itaho, Marco Zenker, Pacôme Orzi, Zenker Brothers |
 | Fri, 2 Oct 2026 | CONCERT: ZIDANE (live), LA GRÈLE (live) |  |
+| Fri, 2 Oct 2026 | RAKOR [Saligo • Becker • Greg • Onéguine • Tew • Thomatoufair] | Saligo |
 | Sat, 3 Oct 2026 | MUSICA x HEAR [Acouphène éternel live • Too Cool 2 Schedule live] |  |
 | Sat, 14 Nov 2026 | KC [Nicolas Lutz • Sedef Adasï +TBA] | Nicolas Lutz, Sedef Adasï |
 | Sat, 28 Nov 2026 | HEISSS x 31Hertz [Disguised • Juri Heidemann • Kim She • Aligatou • Arbo & Neurone • Ochenne] | Arbo, Disguised, Juri Heidemann, Kim She |

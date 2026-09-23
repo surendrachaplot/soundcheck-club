@@ -9,7 +9,7 @@ anna andersrum is an electro and bass artist tracked on soundcheck, with 20 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Acud Macht NEU | Berlin |
-| Sat, 5 Dec 2026 | TBA | Berlin |
+| Sat, 5 Dec 2026 | M01 | Berlin |
 
 ## Recently played
 

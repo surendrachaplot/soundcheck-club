@@ -9,7 +9,7 @@ Buda BXL is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Feestgedruis Revival | AMARE, Dee James, Frankey & Sandrino, Lathouwers, Matthew Dekay, Murvin Jay, YokoO |
-| Sat, 10 Oct 2026 | Forward x Euphorie present: Buda BXL | Bapow, Domi (FR), Hofmann (BE), Kensa, Konduku, Sookie (3), Vera, Yela, Z@p |
+| Sat, 10 Oct 2026 | Forward x Euphorie present: Buda BXL | Bapow, Domi (FR), Kensa, Konduku, Sookie (3), Vera, Z@p |
 
 ## Address
 

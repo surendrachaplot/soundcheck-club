@@ -8,8 +8,8 @@ Puma Käfig Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TECHNOAMT PRESENT SEMESTER OPENING PARTY | Alex Friday, Alviker, Amorelie, Andreas Florin, Anhedonia, Anna Ullrich, Blame the Booker, CAIVA, CARGO (DE), Calcifer, Cobb Douglas, DETOXX, DJ ritalino, DTEXX, Dj Andi, EZA (DE), Eurodance2000, Florelle, GM1 (IT), Jimmy Edgar, Lilithh, MIMI404, Milchgeld, NYXEA, Nomi Elektra, RESA UTOPICA, RuBi., The Shredder, Trancestrudel, Ultraviolect, Ultraviolett, VIVI909, Westside Bass, brvder jakob, e.leptic, futurristic, multivitaminmarie, noa boiler |
-| Fri, 2 Oct 2026 | SEMESTER TECHNO OPENING BY TECHNOAMT | Alviker, Andreas Florin, Calcifer, ClubSubbe, FEZZO, FKNSIL, Jambu, Jambu (2), LELO, Maurice Mino, Milchgeld, NYXEA, Romina Mazzini, RuBi., SASAXX, Sievert Serviert, futurristic, riko (DE) |
+| Fri, 2 Oct 2026 | TECHNOAMT PRESENT SEMESTER OPENING PARTY | Alex Friday, Alviker, Amorelie, Andreas Florin, Anhedonia, Anna Ullrich, Blame the Booker, CAIVA, CARGO (DE), Calcifer, Cobb Douglas, DETOXX, DJ ritalino, DTEXX, Dj Andi, EZA (DE), Eurodance2000, Florelle, GM1 (IT), Jimmy Edgar, Lilithh, MIMI404, Milchgeld, NYXEA, Nomi Elektra, RESA UTOPICA, RuBi., The Shredder, Trancestrudel, Ultraviolect, Westside Bass, brvder jakob, e.leptic, futurristic, multivitaminmarie, noa boiler |
+| Fri, 2 Oct 2026 | SEMESTER TECHNO OPENING BY TECHNOAMT | Alviker, Andreas Florin, Calcifer, ClubSubbe, FEZZO, FKNSIL, Jambu, LELO, Milchgeld, NYXEA, Romina Mazzini, RuBi., SASAXX, riko (DE) |
 
 ## Address
 

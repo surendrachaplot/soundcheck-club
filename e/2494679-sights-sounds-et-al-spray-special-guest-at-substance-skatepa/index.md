@@ -1,6 +1,6 @@
 # Sights & Sounds: Et al – Spray + Special Guest at Substance Skatepark
 
-Sights & Sounds: Et al – Spray + Special Guest at Substance Skatepark on Sat 26 Sept, Newyorkcity. 4 acts on the bill: KAITO (2), Ronaldo, RxB‎ and Spray. Trance and Deep House. Preview the line-up and save it on soundcheck.
+Sights & Sounds: Et al – Spray + Special Guest at Substance Skatepark on Sat 26 Sept, Newyorkcity. 2 acts on the bill: RxB‎ and Spray. Trance and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ Sights & Sounds: Et al – Spray + Special Guest at Substance Skatepark on Sat 2
 
 ## Line-up
 
-- KAITO (2)
-- Ronaldo
 - RxB‎
 - Spray
 

@@ -1,6 +1,6 @@
 # In.out.sider Festival #5 at Lavallée
 
-In.out.sider Festival #5 at Lavallée on Fri 9 Oct, Brussels. 6 acts on the bill: Caillou, Caillou (DE), Mikamayonnaise and Oonagh Haines and 2 more. Krautrock and Post-Punk. Preview the line-up and save it on soundcheck.
+In.out.sider Festival #5 at Lavallée on Fri 9 Oct, Brussels. 5 acts on the bill: Caillou, Mikamayonnaise, Oonagh Haines and Third Wave and 1 more. Krautrock and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ In.out.sider Festival #5 at Lavallée on Fri 9 Oct, Brussels. 6 acts on the bill
 ## Line-up
 
 - Caillou
-- Caillou (DE)
 - Mikamayonnaise
 - Oonagh Haines
 - Third Wave

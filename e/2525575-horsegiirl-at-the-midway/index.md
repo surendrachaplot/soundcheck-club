@@ -1,6 +1,6 @@
 # horsegiirL at The Midway
 
-horsegiirL at The Midway on Sun 27 Sept, Sanfrancisco. 6 acts on the bill: espurr, horsegiirL, KAVARI and New Nostalgia and 2 more. Preview the line-up and save it on soundcheck.
+horsegiirL at The Midway on Sun 27 Sept, Sanfrancisco. 5 acts on the bill: espurr, horsegiirL, New Nostalgia and Two Shell and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ horsegiirL at The Midway on Sun 27 Sept, Sanfrancisco. 6 acts on the bill: espur
 
 - espurr
 - horsegiirL
-- KAVARI
 - New Nostalgia
 - Two Shell
 - VTSS

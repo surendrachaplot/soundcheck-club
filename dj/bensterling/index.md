@@ -1,8 +1,8 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
+Ben Sterling is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gallagher Square, San Diego on Thu, 24 Sept 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Gallagher Square, Sandiego on Thu 24 Sept.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: Gallagher Square, Sandiego on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 se
 | Thu, 24 Sept 2026 | Gallagher Square | San Diego |
 | Fri, 25 Sept 2026 | The Concourse Project | Austin |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
-| Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -29,6 +28,6 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 187 se
 
 ## Shares bills with
 
-Marco Carola, Max Dean, Ms. Mada
+Marco Carola, Ms. Mada, Dennis Cruz
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

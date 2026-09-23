@@ -16,7 +16,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 | Fri, 9 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, Eichi Abe, S.H.V, SOGI, YUVIE |
 | Sat, 10 Oct 2026 | Otographic Live 2026 | Dominant Space, Shingo Nakamura |
 | Sat, 10 Oct 2026 | presented by WARRIOR  msft. TOKYO SHOW | msft |
-| Sun, 11 Oct 2026 | SPERA 0006 with Yant | TEI TEI, Uich, XINOVI, Xinobi, Yant, YuWa, k0v- |
+| Sun, 11 Oct 2026 | SPERA 0006 with Yant | TEI TEI, Uich, XINOVI, Yant, YuWa, k0v- |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 
 ## Address

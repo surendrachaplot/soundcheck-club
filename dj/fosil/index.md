@@ -1,14 +1,15 @@
 # Fosil
 
-Fosil is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
+Fosil is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
 
-Fosil is a bass and breakbeat artist based in Turkey, tracked on soundcheck, with 29 sets logged across Bangkok, Istanbul, Prague and Tbilisi and 1 more. Often billed alongside Granul, jtamul and Chaos In The CBD. Next up: Arkaoda, Istanbul on Sat 26 Sept.
+Fosil is a bass and breakbeat artist based in Turkey, tracked on soundcheck, with 30 sets logged across Bangkok, Istanbul, Prague and Tbilisi and 1 more. Often billed alongside Granul, jtamul and Chaos In The CBD. Next up: Arkaoda, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Arkaoda | Istanbul |
+| Sat, 3 Oct 2026 | TBA - Oldskool  | Istanbul |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # VANITY afterhours Old school edition feat.The Sharp Boys / Francesco Poggi at Union Club, Vauxhall
 
-VANITY afterhours Old school edition feat.The Sharp Boys / Francesco Poggi at Union Club, Vauxhall on Sat 10 Oct, London. 3 acts on the bill: Colin Dale, Francesco Poggi and The Sharp Boys. House and Tech House. Preview the line-up and save it on soundcheck.
+VANITY afterhours Old school edition feat.The Sharp Boys / Francesco Poggi at Union Club, Vauxhall on Sat 10 Oct, London. 2 acts on the bill: Francesco Poggi and The Sharp Boys. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ VANITY afterhours Old school edition feat.The Sharp Boys / Francesco Poggi at Un
 
 ## Line-up
 
-- Colin Dale
 - Francesco Poggi
 - The Sharp Boys
 

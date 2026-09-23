@@ -1,6 +1,6 @@
 # Rivo at Savaya Bali
 
-Rivo at Savaya Bali on Sat 10 Oct, Bali. 2 acts on the bill: Franky Wah and Rivo. Afro House. Preview the line-up and save it on soundcheck.
+Rivo at Savaya Bali on Sat 10 Oct, Bali. 1 act on the bill: Rivo. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Rivo at Savaya Bali on Sat 10 Oct, Bali. 2 acts on the bill: Franky Wah and Rivo
 
 ## Line-up
 
-- Franky Wah
 - Rivo
 
 *Source: [soundcheck](https://soundcheck.club/e/2490472-rivo-at-savaya-bali/)*

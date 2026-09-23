@@ -1,14 +1,13 @@
 # Bagvs
 
-Bagvs is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+Bagvs is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
-Bagvs is a house and techno artist based in Indonesia, tracked on soundcheck, with 44 sets logged across Bali, Bangkok, Hongkong and Melbourne and 3 more. Often billed alongside Zoot, Archie and Archie Dennis. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
+Bagvs is a house and techno artist based in Indonesia, tracked on soundcheck, with 43 sets logged across Bali, Bangkok, Hongkong and Melbourne and 3 more. Often billed alongside Archie, Archie Dennis and Latex (1). Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Somewhere in the Mountains. | Bali |
 | Sat, 26 Sept 2026 | Potato Head Beach Club | Bali |
 | Sat, 26 Sept 2026 | Klymax Discotheque | Bali |
 
@@ -25,6 +24,6 @@ Bagvs is a house and techno artist based in Indonesia, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Zoot, Archie, Archie Dennis
+Archie, Archie Dennis, Latex (1)
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bagvs/)*

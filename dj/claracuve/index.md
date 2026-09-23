@@ -1,14 +1,13 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Clara Cuvé is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Clara Cuvé is a techno and house artist tracked on soundcheck, with 234 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Kobosil, 999999999 and I Hate Models. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Clara Cuvé is a techno and house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Kobosil, 999999999 and MCR-T. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | E1 | London |
@@ -32,6 +31,6 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 234 sets lo
 
 ## Shares bills with
 
-Kobosil, 999999999, I Hate Models
+Kobosil, 999999999, MCR-T
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

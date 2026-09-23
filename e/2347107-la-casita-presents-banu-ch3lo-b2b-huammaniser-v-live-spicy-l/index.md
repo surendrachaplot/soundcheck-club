@@ -1,6 +1,6 @@
 # LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More at OHM
 
-LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More at OHM on Thu 24 Sept, Berlin. 7 acts on the bill: Alexy, Banu, CH3LO and Huamaniser and 3 more. House and Experimental. Preview the line-up and save it on soundcheck.
+LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More at OHM on Thu 24 Sept, Berlin. 6 acts on the bill: Banu, CH3LO, Huamaniser and S.O.N.O.S and 2 more. House and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More
 
 ## Line-up
 
-- Alexy
 - Banu
 - CH3LO
 - Huamaniser

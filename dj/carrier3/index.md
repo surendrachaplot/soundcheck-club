@@ -1,14 +1,13 @@
 # Carrier (Aus)
 
-Carrier (Aus) is a Experimental and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+Carrier (Aus) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bozar, Brussels on Thu, 17 Dec 2026.
 
-Carrier (Aus) is an experimental and jungle artist based in Australia, tracked on soundcheck, with 7 sets logged across Amsterdam, Brussels, Ghent and Melbourne and 1 more. Often billed alongside A-Sides, AMORAL and Black Dice. Next up: Knockdown Center, Newyorkcity on Sat 26 Sept.
+Carrier (Aus) is a jungle and drum & bass artist based in Australia, tracked on soundcheck, with 6 sets logged across Amsterdam, Brussels, Ghent and Melbourne. Often billed alongside A-Sides, AMORAL and Blawan. Next up: Bozar, Brussels on Thu 17 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Thu, 17 Dec 2026 | Bozar | Brussels |
 
 ## Recently played
@@ -21,6 +20,6 @@ Carrier (Aus) is an experimental and jungle artist based in Australia, tracked o
 
 ## Shares bills with
 
-A-Sides, AMORAL, Black Dice
+A-Sides, AMORAL, Blawan
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier3/)*

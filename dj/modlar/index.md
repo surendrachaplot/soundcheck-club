@@ -2,7 +2,7 @@
 
 Modlar is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-Modlar is a techno and electro artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside DELARA, CITYTRONIX and nohexcode. Next up: M.O.T, London on Sat 3 Oct.
+Modlar is a techno and electro artist tracked on soundcheck, with 28 sets logged across London. Often billed alongside DELARA, CITYTRONIX and SBBS. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Modlar is a techno and electro artist tracked on soundcheck, with 28 sets logged
 
 ## Shares bills with
 
-DELARA, CITYTRONIX, nohexcode
+DELARA, CITYTRONIX, SBBS
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

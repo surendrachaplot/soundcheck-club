@@ -1,6 +1,6 @@
 # AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa at Mondo
 
-AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa at Mondo on Sun 11 Oct, Madrid. 6 acts on the bill: Bad Boombox, Club Angel, doccudder and Gerardo Niva and 2 more. Preview the line-up and save it on soundcheck.
+AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa at Mondo on Sun 11 Oct, Madrid. 5 acts on the bill: Bad Boombox, Club Angel, Gerardo Niva and Maruwa and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ AFTERPARTY EXTENDED: Bad Boombox B2B Club Angel / salute / Gerardo Niva / Maruwa
 
 - Bad Boombox
 - Club Angel
-- doccudder
 - Gerardo Niva
 - Maruwa
 - salute

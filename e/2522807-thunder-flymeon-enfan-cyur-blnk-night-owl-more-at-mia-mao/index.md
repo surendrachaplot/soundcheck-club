@@ -1,6 +1,6 @@
 # THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE at Mia Mao
 
-THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE at Mia Mao on Sat 10 Oct, Paris. 5 acts on the bill: BLNK, ENFAN, FLKN and Flymeon and 1 more. Techno. Preview the line-up and save it on soundcheck.
+THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE at Mia Mao on Sat 10 Oct, Paris. 4 acts on the bill: BLNK, ENFAN, Flymeon and Night Owl. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE at Mia Mao on Sat 10 Oct, 
 
 - BLNK
 - ENFAN
-- FLKN
 - Flymeon
 - Night Owl
 

@@ -1,8 +1,8 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Billy Bootleggers, Nottingham on Sat, 3 Oct 2026.
+LUNAx3 is a Gabber and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Billy Bootleggers, Nottingham on Sat, 3 Oct 2026.
 
-LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 21 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: Billy Bootleggers, Nottingham on Sat 3 Oct.
+LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 20 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: Billy Bootleggers, Nottingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 21 sets logge
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Billy Bootleggers | Nottingham |
 | Fri, 23 Oct 2026 | Suki10c | Birmingham |
-| Fri, 30 Oct 2026 | Vespers Club | London |
 
 ## Recently played
 

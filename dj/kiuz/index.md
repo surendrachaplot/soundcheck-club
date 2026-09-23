@@ -1,14 +1,13 @@
 # Kiuz
 
-Kiuz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Turbina, Budapest on Fri, 25 Sept 2026.
+Kiuz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Turbina, Budapest on Fri, 9 Oct 2026.
 
-Kiuz is a techno and house artist tracked on soundcheck, with 60 sets logged across Budapest, Paris and Tbilisi. Often billed alongside Arash Ete, CRB and Rovizz. Next up: Turbina, Budapest on Fri 25 Sept.
+Kiuz is a techno and house artist tracked on soundcheck, with 59 sets logged across Budapest, Paris and Tbilisi. Often billed alongside Arash Ete, CRB and Rovizz. Next up: Turbina, Budapest on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Turbina | Budapest |
 | Fri, 9 Oct 2026 | Turbina | Budapest |
 | Sat, 21 Nov 2026 | Palazzo Permanens | Budapest |
 

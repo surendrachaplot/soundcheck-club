@@ -1,8 +1,8 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Verraco is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Verraco is a techno and bass artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
+Verraco is a techno and bass artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside Bitter Babe, CCL and Batu. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Verraco is a techno and bass artist tracked on soundcheck, with 138 sets logged 
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | TBA | Los Angeles |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
-| Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |

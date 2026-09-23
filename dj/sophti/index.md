@@ -2,7 +2,7 @@
 
 Sophti is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at frachtkante, Berlin on Sat, 26 Sept 2026.
 
-Sophti is a techno and house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside DJ Business (2), Cufme and Wall Ra. Next up: frachtkante, Berlin on Sat 26 Sept.
+Sophti is a techno and house artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside DJ Business (2), Cufme and Carl Hang. Next up: frachtkante, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Sophti is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-DJ Business (2), Cufme, Wall Ra
+DJ Business (2), Cufme, Carl Hang
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*

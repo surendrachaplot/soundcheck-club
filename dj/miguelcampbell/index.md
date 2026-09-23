@@ -1,8 +1,8 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Miguel Campbell is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Miguel Campbell is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Birmingham and Edinburgh and 7 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
+Miguel Campbell is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Birmingham and Edinburgh and 7 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, tracke
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sat, 31 Oct 2026 | Sankeys | Manchester |
+| Sat, 7 Nov 2026 | Inception Boat | Sydney |
 
 ## Recently played
 

@@ -8,10 +8,10 @@ Oliva is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Rumours Only x Lotus Labs ADE Showcase | AATMA, ANSWER (IN), Ae:ther, Bullzeye, DON ROHO, Darius Syrossian, Iglesias, Julien Simmons, Mazen (1), Mitch de Klein, RSquared |
+| Thu, 22 Oct 2026 | Rumours Only x Lotus Labs ADE Showcase | AATMA, ANSWER (IN), Ae:ther, Bullzeye, DON ROHO, Darius Syrossian, Iglesias, Julien Simmons, Mitch de Klein, RSquared |
 | Fri, 23 Oct 2026 | E1 x ADE: DXNBY, Jay de Lys, Simon Kidzoo TBA | DXNBY, Jay de Lys, Roxie Li, Simon Kidzoo |
 | Sat, 24 Oct 2026 | Hush ADE with Ranger Trucco, Ellia Jaya & More | Candidate, Ellia Jaya, Lewis Taylor, Ranger Trucco |
-| Sun, 25 Oct 2026 | Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo  | AVALAN, Amethy, Corren Cavini, FR3ADY, GWEN DE LIEN, KARINSMATIC, Patrick Krause, Soofnic, Stylo, Tom Zeta, Usatov |
+| Sun, 25 Oct 2026 | Dive Deep: ADE Closing - Melodic Edition w/ AVALAN, Corren Cavini, Stylo  | AVALAN, Amethy, Corren Cavini, FR3ADY, KARINSMATIC, Patrick Krause, Soofnic, Stylo, Usatov |
 
 ## Address
 

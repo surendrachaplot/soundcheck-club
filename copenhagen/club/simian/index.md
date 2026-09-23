@@ -8,7 +8,7 @@ Simian is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Rewild x TAXI CLUB X Simian | Alfredo92, ELLE FIERCE, Inga Copeland, Lolina, Nova Varnrable, Otis (BE), Otis (CA), Suzie The Cockroach |
+| Sat, 26 Sept 2026 | Rewild x TAXI CLUB X Simian | Alfredo92, ELLE FIERCE, Inga Copeland, Lolina, Nova Varnrable, Otis (BE), Suzie The Cockroach |
 
 ## Address
 

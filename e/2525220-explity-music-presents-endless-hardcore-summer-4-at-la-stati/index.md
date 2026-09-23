@@ -1,6 +1,6 @@
 # Explity Music presents : ENDLESS HARDCORE SUMMER 4 at La Station - Gare des Mines
 
-Explity Music presents : ENDLESS HARDCORE SUMMER 4 at La Station - Gare des Mines on Sat 10 Oct, Paris. 5 acts on the bill: Claude Murder, Karlfroye, Lolalita and Nouminouw and 1 more. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Explity Music presents : ENDLESS HARDCORE SUMMER 4 at La Station - Gare des Mines on Sat 10 Oct, Paris. 4 acts on the bill: Claude Murder, Karlfroye, Nouminouw and Talita Otović. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Explity Music presents : ENDLESS HARDCORE SUMMER 4 at La Station - Gare des Mine
 
 - Claude Murder
 - Karlfroye
-- Lolalita
 - Nouminouw
 - Talita Otović
 

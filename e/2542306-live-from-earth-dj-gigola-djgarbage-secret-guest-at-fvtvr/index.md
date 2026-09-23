@@ -1,6 +1,6 @@
 # LIVE FROM EARTH: DJ Gigola, DJGARBAGE + SECRET GUEST at Fvtvr
 
-LIVE FROM EARTH: DJ Gigola, DJGARBAGE + SECRET GUEST at Fvtvr on Sat 3 Oct, Paris. 4 acts on the bill: Cannelle, DJ Gigola, Lili Castiglioni and Tailtiu. Techno and Electro. Preview the line-up and save it on soundcheck.
+LIVE FROM EARTH: DJ Gigola, DJGARBAGE + SECRET GUEST at Fvtvr on Sat 3 Oct, Paris. 3 acts on the bill: DJ Gigola, Lili Castiglioni and Tailtiu. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ LIVE FROM EARTH: DJ Gigola, DJGARBAGE + SECRET GUEST at Fvtvr on Sat 3 Oct, Pari
 
 ## Line-up
 
-- Cannelle
 - DJ Gigola
 - Lili Castiglioni
 - Tailtiu

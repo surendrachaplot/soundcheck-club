@@ -13,7 +13,7 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with
 | Thu, 22 Oct 2026 | Guy J - all night long | Guy J |
 | Thu, 22 Oct 2026 | Crucast X HIGH TEA ADE | Benny L, Mozey, Skantia |
 | Fri, 23 Oct 2026 | PIV ADE - Ijland | Benny Rodrigues, Caleb Jackson, Kepler, Kim April, Klaudie, Midas Field, Prunk, Retrouve, bullet tooth |
-| Sat, 24 Oct 2026 | Happy Feelings ADE - Ijland | Camille Doe, DJANGO (NL), Gabriel Muñoz, Girls Don't Sync, Itz3bby, KIM SWIM, Lucky Done Gone, Mike Momburg, Moody Mehran, SWIM (AU) |
+| Sat, 24 Oct 2026 | Happy Feelings ADE - Ijland | KIM SWIM, Lucky Done Gone, Mike Momburg, Moody Mehran, SWIM (AU) |
 | Mon, 26 Oct 2026 | Sona presents: Two and A Half Cats |  |
 
 ## Address

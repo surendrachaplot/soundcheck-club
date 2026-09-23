@@ -1,6 +1,6 @@
 # AL.FESTIVAL.2026 at TBA -  VARIOUS
 
-AL.FESTIVAL.2026 at TBA -  VARIOUS on Fri 2 Oct, Berlin. 9 acts on the bill: ABADIR, ADIRA, Amuleto Manuela and Kasja and 5 more. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+AL.FESTIVAL.2026 at TBA -  VARIOUS on Fri 2 Oct, Berlin. 7 acts on the bill: ABADIR, ADIRA, Amuleto Manuela and Noise Diva and 3 more. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,8 +13,6 @@ AL.FESTIVAL.2026 at TBA -  VARIOUS on Fri 2 Oct, Berlin. 9 acts on the bill: ABA
 - ABADIR
 - ADIRA
 - Amuleto Manuela
-- Kasja
-- Milad Samara
 - Noise Diva
 - Paulawar
 - Ubax

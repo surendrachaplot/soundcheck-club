@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 24 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MELODIA -> La Cheetah Club - NO PHONES" on Wed, 23 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 24 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FREE PARTY -- MELODIA -> La Cheetah Club - NO PHONES" on Wed, 23 Sept 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming gigs, with line-ups including Amizl, Antal, Arlo Duke and ArthurDnB and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -8,7 +8,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | MELODIA -> La Cheetah Club - NO PHONES | Burna UK, CRAIGP |
+| Wed, 23 Sept 2026 | FREE PARTY -- MELODIA -> La Cheetah Club - NO PHONES | Burna UK, CRAIGP |
 | Thu, 24 Sept 2026 | Deep Purple: Jade Seatle | Arlo Duke, Jade Seatle |
 | Fri, 25 Sept 2026 | Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) | ArthurDnB, Janaway, SOLECTA |
 | Sat, 26 Sept 2026 | La Cheetah presents: Antal (All Night - 5 Hour Set) | Antal |

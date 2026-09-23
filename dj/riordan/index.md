@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Tue, 29 Sept 2026.
+Riordan is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Circus Tokyo, Tokyo on Thu, 1 Oct 2026.
 
-Riordan is a house and tech house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Cova Santa, Ibiza on Tue 29 Sept.
+Riordan is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside Gorgon City, Prunk and Hot Since 82. Next up: Circus Tokyo, Tokyo on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 1 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 2 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 9 Oct 2026 | 1015 Folsom | San Francisco/Oakland |

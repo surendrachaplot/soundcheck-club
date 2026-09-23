@@ -1,6 +1,6 @@
 # LIBIDOH █ at ROSA
 
-LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 5 acts on the bill: AISHA, Erebos, Hocki and maedchenballern and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 4 acts on the bill: AISHA, Amo (IT), An Chen and Samantha Togni. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,8 @@ LIBIDOH █ at ROSA on Sat 14 Nov, Berlin. 5 acts on the bill: AISHA, Erebos, Ho
 ## Line-up
 
 - AISHA
-- Erebos
-- Hocki
-- maedchenballern
+- Amo (IT)
+- An Chen
 - Samantha Togni
 
 *Source: [soundcheck](https://soundcheck.club/e/2537096-libidoh-at-rosa/)*

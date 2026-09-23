@@ -8,7 +8,7 @@ Fortuna Hall is a music venue in Prague listed on soundcheck. 1 upcoming gig, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Ministry of Rave Prague | ALT8, Golpe, KLOFAMA, NOVAH, Nico Moreno, Onlynumbers, Pawlowski, Svetec, Winson Ngoh |
+| Sat, 5 Dec 2026 | Ministry of Rave Prague | ALT8, Golpe, KLOFAMA, NOVAH, Nico Moreno, Onlynumbers, Svetec, Winson Ngoh |
 
 ## Address
 

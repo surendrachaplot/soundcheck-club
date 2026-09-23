@@ -1,6 +1,6 @@
 # Koenji Cave presents ▷ Laboratory Vol.34 at Koenji Cave
 
-Koenji Cave presents ▷ Laboratory Vol.34 on Fri 25 Sept, Tokyo. 3 acts on the bill: Bones, CyberMoripy and Frank S. Preview the line-up and save it on soundcheck.
+Koenji Cave presents ▷ Laboratory Vol.34 on Fri 25 Sept, Tokyo. 1 act on the bill: CyberMoripy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ Koenji Cave presents ▷ Laboratory Vol.34 on Fri 25 Sept, Tokyo. 3 acts on the 
 
 ## Line-up
 
-- Bones
 - CyberMoripy
-- Frank S
 
 *Source: [soundcheck](https://soundcheck.club/e/2513770-koenji-cave-presents-laboratory-vol-34-at-koenji-cave/)*

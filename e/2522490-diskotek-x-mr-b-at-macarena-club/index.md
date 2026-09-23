@@ -1,6 +1,6 @@
 # Diskotek x Mr. B at Macarena Club
 
-Diskotek x Mr. B at Macarena Club on Wed 23 Sept, Barcelona. 2 acts on the bill: Isa Rojas and Mr. B. Preview the line-up and save it on soundcheck.
+Diskotek x Mr. B at Macarena Club on Wed 23 Sept, Barcelona. 1 act on the bill: Mr. B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Diskotek x Mr. B at Macarena Club on Wed 23 Sept, Barcelona. 2 acts on the bill:
 
 ## Line-up
 
-- Isa Rojas
 - Mr. B
 
 *Source: [soundcheck](https://soundcheck.club/e/2522490-diskotek-x-mr-b-at-macarena-club/)*

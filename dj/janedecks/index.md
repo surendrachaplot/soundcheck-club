@@ -1,8 +1,8 @@
 # Jane Decks
 
-Jane Decks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
+Jane Decks is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
 
-Jane Decks is a house and techno artist tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside Bouki, Max Cherry and Obeido. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
+Jane Decks is a house and techno artist tracked on soundcheck, with 37 sets logged across Melbourne and Sydney. Often billed alongside Max Cherry, Bouki and Obeido. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jane Decks is a house and techno artist tracked on soundcheck, with 36 sets logg
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Heaps Normal Health Club | Sydney |
 | Sat, 10 Oct 2026 | Oxford Art Factory | Sydney |
+| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Jane Decks is a house and techno artist tracked on soundcheck, with 36 sets logg
 
 ## Shares bills with
 
-Bouki, Max Cherry, Obeido
+Max Cherry, Bouki, Obeido
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*

@@ -9,7 +9,7 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Hellp (DJ Set) & Bassvictim (DJ Set) | Bassvictim |
-| Sun, 27 Sept 2026 | horsegiirL | KAVARI, New Nostalgia, Two Shell, VTSS, espurr, horsegiirL |
+| Sun, 27 Sept 2026 | horsegiirL | New Nostalgia, Two Shell, VTSS, espurr, horsegiirL |
 | Sat, 3 Oct 2026 | Global Connect ft J Espinosa, Double B |  |
 | Fri, 9 Oct 2026 | Audien | Audien |
 | Sat, 10 Oct 2026 | Tinlicker | Tinlicker |

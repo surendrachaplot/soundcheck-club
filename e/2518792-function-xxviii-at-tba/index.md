@@ -1,6 +1,6 @@
 # FUNCTION XXVIII at TBA
 
-FUNCTION XXVIII at TBA on Fri 25 Sept, Newyorkcity. 14 acts on the bill: 320 (1), Annie Lew, Baroque Hoe and Caín Lima and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+FUNCTION XXVIII at TBA on Fri 25 Sept, Newyorkcity. 13 acts on the bill: 320 (1), Annie Lew, Baroque Hoe and Caín Lima and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,7 +17,6 @@ FUNCTION XXVIII at TBA on Fri 25 Sept, Newyorkcity. 14 acts on the bill: 320 (1)
 - DJ DEADNAME
 - Juliana Huxtable
 - Kim Ann Foxman
-- Loka
 - LOKA (US)
 - Makadsi
 - Only Fire

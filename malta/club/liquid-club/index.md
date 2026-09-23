@@ -9,7 +9,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | REVOLVER pres TOXIC MACHINERY |  |
-| Sat, 26 Sept 2026 | T6E RESILIENCE (O.S.M.W.S.T.A) × Techno Agency | BOA (1), Chopper, Kate Moss, Philip Ackowsky, Proper Banger |
+| Sat, 26 Sept 2026 | T6E RESILIENCE (O.S.M.W.S.T.A) × Techno Agency | BOA (1), Kate Moss, Philip Ackowsky, Proper Banger |
 | Sat, 26 Sept 2026 | BRUTAL RAVE & UNDERGROUND ROOM PRESENTS RAVE CULTURE |  |
 | Fri, 9 Oct 2026 | KINSIDERS | Rensei |
 | Fri, 9 Oct 2026 | BASSTEK - PART 11 | Billy Hills, DJ Bax, Thibo Verbeke, Unicorn on Ketamine |

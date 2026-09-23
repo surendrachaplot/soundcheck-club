@@ -1,6 +1,6 @@
 # Innen x AVG pres. Manu Oubiña, Mich at Avant Garten
 
-Innen x AVG pres. Manu Oubiña, Mich at Avant Garten on Fri 16 Oct, Buenosaires. 3 acts on the bill: GRETA (2), Manu Oubiña and Mich (10). House. Preview the line-up and save it on soundcheck.
+Innen x AVG pres. Manu Oubiña, Mich at Avant Garten on Fri 16 Oct, Buenosaires. 2 acts on the bill: Manu Oubiña and Mich (10). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Innen x AVG pres. Manu Oubiña, Mich at Avant Garten on Fri 16 Oct, Buenosaires.
 
 ## Line-up
 
-- GRETA (2)
 - Manu Oubiña
 - Mich (10)
 

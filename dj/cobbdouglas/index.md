@@ -1,8 +1,8 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+Cobb Douglas is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
 
-Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 122 sets logged across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
+Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 121 sets logged across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,7 +15,6 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 6 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
-| Sat, 21 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 21 Nov 2026 | DETROIT CLUB | Barcelona |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 

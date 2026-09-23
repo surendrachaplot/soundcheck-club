@@ -1,6 +1,6 @@
 # Club Care at TBA
 
-Club Care at TBA on Sun 11 Oct, Berlin. 2 acts on the bill: tamypro and ZE:NA. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+Club Care at TBA on Sun 11 Oct, Berlin. 1 act on the bill: ZE:NA. Bass and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Club Care at TBA on Sun 11 Oct, Berlin. 2 acts on the bill: tamypro and ZE:NA. B
 
 ## Line-up
 
-- tamypro
 - ZE:NA
 
 *Source: [soundcheck](https://soundcheck.club/e/2524438-club-care-at-tba/)*

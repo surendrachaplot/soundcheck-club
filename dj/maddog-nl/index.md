@@ -1,13 +1,14 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+Mad Dog is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
 
-Mad Dog is a techno and hardcore artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: Bootshaus, Cologne on Fri 25 Sept.
+Mad Dog is a techno and hardcore artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Angerfist, Korsakoff and CLTX. Next up: Bootshaus, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Fri, 2 Oct 2026 | E1 | London |
 | Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |

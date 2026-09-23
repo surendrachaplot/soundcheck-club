@@ -16,7 +16,7 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 19 upcoming 
 | Mon, 28 Sept 2026 | COLLECT RADIO w/ FONZI | Fonzi (2) |
 | Tue, 29 Sept 2026 | COLLECT RADIO w/ DOUBLEIGHT | Doubleight |
 | Wed, 30 Sept 2026 | COLLECT RADIO w/ VIL | VIL (PT) |
-| Sat, 3 Oct 2026 | Collect LX Factory presents Mammo (live) | Andre Cascais, Mammo, Solid-Funk |
+| Sat, 3 Oct 2026 | Collect LX Factory presents Mammo (live) | Andre Cascais, Mammo |
 | Sat, 10 Oct 2026 | 15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) | MARY-B, Patrick Specke, Schlingen, Solid-Funk, Willow, Ze Salvador |
 
 ## Address

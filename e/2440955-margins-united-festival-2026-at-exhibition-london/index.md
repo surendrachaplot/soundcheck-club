@@ -1,6 +1,6 @@
 # MARGINS UNITED FESTIVAL 2026 at Exhibition London
 
-MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 6 acts on the bill: AMANDA SZE, DJ Love, tamanaramen and The Deep and 2 more. Pop and Club. Preview the line-up and save it on soundcheck.
+MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 5 acts on the bill: AMANDA SZE, tamanaramen, The Deep and umru and 1 more. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 6 acts
 ## Line-up
 
 - AMANDA SZE
-- DJ Love
 - tamanaramen
 - The Deep
 - umru

@@ -11,7 +11,7 @@
 | Fri, 25 Sept 2026 | Neil Frances (DJ Set) | Masha Mar, Neil Frances |
 | Sat, 26 Sept 2026 | Boys Noize & Special Guests | Boys Noize |
 | Sun, 27 Sept 2026 | Fatboy Slim | Fatboy Slim, RIRIA |
-| Sat, 31 Oct 2026 | BOOFOWEEN | ANDYLAND, DJ SEXSTASY, Julia Rose, Only Fire, QUEENIE (US) |
+| Sat, 31 Oct 2026 | BOOFOWEEN | ANDYLAND, DJ SEXSTASY, Julia Rose, Only Fire |
 
 ## Address
 

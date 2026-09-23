@@ -1,8 +1,8 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gorge - Public Holiday Eve at onesixone" on Thu, 24 Sept 2026.
+OneSixOne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gorge - Public Holiday Eve at onesixone" on Thu, 24 Sept 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
@@ -13,7 +13,9 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 | Sat, 26 Sept 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Jay Ramon |
 | Fri, 2 Oct 2026 | Moopie - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Moopie, Yarra (2) |
 | Sun, 4 Oct 2026 | Breakfast Club #520 (28hr Daylight Savings Edition) |  |
+| Fri, 9 Oct 2026 | Hans DC - onesixone | Adam Trace, Jay Ramon, Oliver James |
 | Sat, 10 Oct 2026 | Overtake x Hyperfix present: Sgamo (Italy) | EMCD |
+| Fri, 16 Oct 2026 | KELLY TEE - onesixone | Adam Trace, Amber Ferraro, Crozier, FRISCO (AUS), KELLY TEE |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Kraumur
 
-Kraumur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Sat, 3 Oct 2026.
+Kraumur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 25 Sept 2026.
 
-Kraumur is a techno and house artist tracked on soundcheck, with 108 sets logged across Hamburg, Munich and Tbilisi. Often billed alongside Ash Scholem, Memotech and Gio Shengelia. Next up: Bassiani, Tbilisi on Sat 3 Oct.
+Kraumur is a techno and house artist tracked on soundcheck, with 109 sets logged across Hamburg, Munich and Tbilisi. Often billed alongside Ash Scholem, Memotech and Gio Shengelia. Next up: Mtkvarze, Tbilisi on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Mtkvarze | Tbilisi |
 | Sat, 3 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

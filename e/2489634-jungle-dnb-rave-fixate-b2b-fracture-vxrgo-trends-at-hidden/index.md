@@ -1,6 +1,6 @@
 # Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends at Hidden
 
-Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends at Hidden on Thu 24 Sept, Manchester. 8 acts on the bill: Fixate, Fracture, Hanz and Kahn and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends at Hidden on Thu 24 Sept, Manchester. 7 acts on the bill: Fixate, Fracture, Hanz and Kahn and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends at Hidden on Thu 24 Sept, 
 - Fracture
 - Hanz
 - Kahn
-- Sir Spyro
 - Tailor Jae
 - Trends
 - VXRGO

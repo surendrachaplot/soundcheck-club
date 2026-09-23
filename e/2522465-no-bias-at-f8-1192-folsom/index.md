@@ -1,6 +1,6 @@
 # NO BIAS at F8 1192 Folsom
 
-NO BIAS at F8 1192 Folsom on Fri 2 Oct, Sanfrancisco. 4 acts on the bill: Bored Lord, Discnogirl, Mars Kasei and RITCHRD. Bass and Club. Preview the line-up and save it on soundcheck.
+NO BIAS at F8 1192 Folsom on Fri 2 Oct, Sanfrancisco. 3 acts on the bill: Discnogirl, Mars Kasei and RITCHRD. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ NO BIAS at F8 1192 Folsom on Fri 2 Oct, Sanfrancisco. 4 acts on the bill: Bored 
 
 ## Line-up
 
-- Bored Lord
 - Discnogirl
 - Mars Kasei
 - RITCHRD

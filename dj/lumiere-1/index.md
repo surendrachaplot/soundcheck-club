@@ -2,7 +2,7 @@
 
 Lumiere is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
 
-Lumiere is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Christian AB and Francesco Del Garda. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
+Lumiere is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Lumiere is a house and techno artist tracked on soundcheck, with 117 sets logged
 
 ## Shares bills with
 
-Anah, Christian AB, Francesco Del Garda
+Anah, Francesco Del Garda, Binh
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

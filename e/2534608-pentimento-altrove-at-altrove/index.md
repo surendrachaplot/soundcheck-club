@@ -1,6 +1,6 @@
 # Pentimento & Altrove at Altrove
 
-Pentimento & Altrove on Fri 2 Oct, Milan. 4 acts on the bill: David Fogarty, Ddcmp, Gabriele and Pietro Bernasconi. Preview the line-up and save it on soundcheck.
+Pentimento & Altrove on Fri 2 Oct, Milan. 3 acts on the bill: David Fogarty, Gabriele and Pietro Bernasconi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Pentimento & Altrove on Fri 2 Oct, Milan. 4 acts on the bill: David Fogarty, Ddc
 ## Line-up
 
 - David Fogarty
-- Ddcmp
 - Gabriele
 - Pietro Bernasconi
 

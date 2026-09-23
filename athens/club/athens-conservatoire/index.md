@@ -9,7 +9,7 @@ Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens list
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | EDEN presents HAAi b2b Romy | HAAi, Romy, Saber Rider, jayjayGR |
-| Sun, 22 Nov 2026 | EDEN presents Nicole Moudaber & Grace Dahl | Bolosis, Grace Dahl, Nicole Moudaber, Saber Rider |
+| Sun, 22 Nov 2026 | EDEN presents Nicole Moudaber & Grace Dahl | Bolosis, Grace Dahl, Nicole Moudaber |
 
 ## Address
 

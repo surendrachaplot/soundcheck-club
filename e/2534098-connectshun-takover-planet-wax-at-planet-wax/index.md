@@ -1,6 +1,6 @@
 # CONNECTSHUN // Takover Planet Wax at Planet Wax
 
-CONNECTSHUN // Takover Planet Wax on Sat 26 Sept, London. 2 acts on the bill: Aja (FR) and MissinG LinK. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+CONNECTSHUN // Takover Planet Wax on Sat 26 Sept, London. 2 acts on the bill: AJA and MissinG LinK. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ CONNECTSHUN // Takover Planet Wax on Sat 26 Sept, London. 2 acts on the bill: Aj
 
 ## Line-up
 
-- Aja (FR)
+- AJA
 - MissinG LinK
 
 *Source: [soundcheck](https://soundcheck.club/e/2534098-connectshun-takover-planet-wax-at-planet-wax/)*

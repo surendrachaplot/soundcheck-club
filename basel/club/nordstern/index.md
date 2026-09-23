@@ -15,7 +15,7 @@ Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with 
 | Sat, 10 Oct 2026 | RE:BACK |  |
 | Fri, 16 Oct 2026 | Blackworks with Fatima Hajji | Dexphase, Fatima Hajji, Skryption |
 | Sat, 17 Oct 2026 | Double House with Acid Pauli & Recondite | Acid Pauli, Agonis, Dan Dara, Erti Lutaj, Recondite, TAALA, Timnah |
-| Fri, 23 Oct 2026 | Somewhen | Sloan, Somewhen, Valorin |
+| Fri, 23 Oct 2026 | Somewhen | Somewhen, Valorin |
 | Sat, 24 Oct 2026 | Worakls | Worakls |
 
 ## Address

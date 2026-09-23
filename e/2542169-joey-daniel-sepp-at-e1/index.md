@@ -1,6 +1,6 @@
 # Joey Daniel, Sepp at E1
 
-Joey Daniel, Sepp at E1 on Sat 28 Nov, London. 5 acts on the bill: Ciccio (IT), George Morteanu, Joey Daniel and Laumee and 1 more. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Joey Daniel, Sepp at E1 on Sat 28 Nov, London. 4 acts on the bill: Ciccio (IT), Joey Daniel, Laumee and Sepp. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Joey Daniel, Sepp at E1 on Sat 28 Nov, London. 5 acts on the bill: Ciccio (IT), 
 ## Line-up
 
 - Ciccio (IT)
-- George Morteanu
 - Joey Daniel
 - Laumee
 - Sepp

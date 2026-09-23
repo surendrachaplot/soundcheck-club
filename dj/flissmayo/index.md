@@ -1,13 +1,14 @@
 # Fliss Mayo
 
-Fliss Mayo is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Fliss Mayo is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
-Fliss Mayo is a garage and techno artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 12 more. Often billed alongside Dr Dubplate, Bakey and Frazer Ray. Next up: Colour Factory, London on Sat 26 Sept.
+Fliss Mayo is a garage and bass artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, Bristol and Copenhagen and 12 more. Often billed alongside Dr Dubplate, Bakey and Frazer Ray. Next up: Colour Factory, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Colour Factory | London |
 | Sat, 26 Sept 2026 | Colour Factory | London |
 
 ## Recently played

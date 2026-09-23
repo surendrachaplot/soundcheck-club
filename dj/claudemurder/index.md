@@ -2,7 +2,7 @@
 
 Claude Murder is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
 
-Claude Murder is a hardcore and techno artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Edinburgh, Ghent and Marseille and 1 more. Often billed alongside Karlfroye, KimberlaID and Lolalita. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
+Claude Murder is a hardcore and techno artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Edinburgh, Ghent and Marseille and 1 more. Often billed alongside Karlfroye, KimberlaID and Talita Otović. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Claude Murder is a hardcore and techno artist based in France, tracked on soundc
 
 ## Shares bills with
 
-Karlfroye, KimberlaID, Lolalita
+Karlfroye, KimberlaID, Talita Otović
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudemurder/)*

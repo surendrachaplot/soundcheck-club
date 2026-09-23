@@ -8,7 +8,7 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 1 up
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Beyond Beats vol.7 | Adrian Bortolotto, Cornyjava, EXPLICIT, F!NN, Fab Massimo, Limpid, Sophie van Hayden, masada |
+| Fri, 2 Oct 2026 | Beyond Beats vol.7 | Adrian Bortolotto, Cornyjava, EXPLICIT, F!NN, Fab Massimo, Limpid, masada |
 
 ## Address
 

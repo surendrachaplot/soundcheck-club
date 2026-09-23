@@ -1,6 +1,6 @@
 # Bugged Out! 2001 & On w/ 2ManyDJs b2b Erol Alkan, Kitten b2b The Hacker, New Young Pony Club at DRUMSHEDS
 
-Bugged Out! 2001 & On w/ 2ManyDJs b2b Erol Alkan, Kitten b2b The Hacker, New Young Pony Club at DRUMSHEDS on Sat 10 Oct, London. 24 acts on the bill: 2ManyDJs, Alan Braxe, Alexis Taylor and Dave Clarke and 20 more. House and Electro. Preview the line-up and save it on soundcheck.
+Bugged Out! 2001 & On w/ 2ManyDJs b2b Erol Alkan, Kitten b2b The Hacker, New Young Pony Club at DRUMSHEDS on Sat 10 Oct, London. 22 acts on the bill: 2ManyDJs, Alexis Taylor, Dave Clarke and Erol Alkan and 18 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,8 @@ Bugged Out! 2001 & On w/ 2ManyDJs b2b Erol Alkan, Kitten b2b The Hacker, New You
 ## Line-up
 
 - 2ManyDJs
-- Alan Braxe
 - Alexis Taylor
 - Dave Clarke
-- DJ F16 Falcon
 - Erol Alkan
 - Etienne De Crecy
 - Fall Forward

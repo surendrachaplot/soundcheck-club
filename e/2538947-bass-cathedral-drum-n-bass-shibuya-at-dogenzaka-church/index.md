@@ -1,6 +1,6 @@
 # BASS CATHEDRAL – DRUM'N'BASS SHIBUYA at Dogenzaka Church
 
-BASS CATHEDRAL – DRUM'N'BASS SHIBUYA at Dogenzaka Church on Fri 6 Nov, Tokyo. 3 acts on the bill: Hironobu Jyounai, KANT and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+BASS CATHEDRAL – DRUM'N'BASS SHIBUYA at Dogenzaka Church on Fri 6 Nov, Tokyo. 2 acts on the bill: Hironobu Jyounai and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ BASS CATHEDRAL – DRUM'N'BASS SHIBUYA at Dogenzaka Church on Fri 6 Nov, Tokyo. 
 ## Line-up
 
 - Hironobu Jyounai
-- KANT
 - vinylDJ Eiji Takehana
 
 *Source: [soundcheck](https://soundcheck.club/e/2538947-bass-cathedral-drum-n-bass-shibuya-at-dogenzaka-church/)*

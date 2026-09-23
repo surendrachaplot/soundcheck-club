@@ -1,6 +1,6 @@
 # Parameter x SQUISH Weekender at The Loom
 
-Parameter x SQUISH Weekender at The Loom on Fri 2 Oct, Sanfrancisco. 31 acts on the bill: Andy Martin, Ayesha, Bake and Ben Bondy and 27 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Parameter x SQUISH Weekender at The Loom on Fri 2 Oct, Sanfrancisco. 30 acts on the bill: Andy Martin, Ayesha, Ben Bondy and Carré and 26 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Parameter x SQUISH Weekender at The Loom on Fri 2 Oct, Sanfrancisco. 31 acts on 
 
 - Andy Martin
 - Ayesha
-- Bake
 - Ben Bondy
 - Carré
 - CCL

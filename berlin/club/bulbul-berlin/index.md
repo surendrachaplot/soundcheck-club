@@ -15,7 +15,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, 
 | Fri, 2 Oct 2026 | NODE: Anamorphotic, CATAWR, Miss Signals, TUP | CATAWR |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) | LA BITCHENCIO, Reanna Peris |
 | Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS | Triqi, boyyyish, materia hache |
-| Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife, Subassi |
+| Fri, 9 Oct 2026 | TAG DER CLUBKULTUR 2026 - BRONCOS TAKEOVER | Jessica Nightlife |
 | Sat, 10 Oct 2026 | TAG DER CLUBKULTUR 2026 - BULBUL RESIDENTS & FRIENDS | Concentio, Nikklaas, Selin (DE) |
 
 ## Address

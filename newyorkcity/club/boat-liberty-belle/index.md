@@ -1,8 +1,8 @@
 # Boat - Liberty Belle
 
-Boat - Liberty Belle is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Scary Halloween Boat Party" on Sat, 31 Oct 2026.
+Boat - Liberty Belle is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Scary Halloween Boat Party" on Sat, 31 Oct 2026.
 
-Boat - Liberty Belle is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including DJ E.M.. Browse upcoming dates, start times and who's playing. 299 South Street, New York.
+Boat - Liberty Belle is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs, with line-ups including DJ E.M.. Browse upcoming dates, start times and who's playing. 299 South Street, New York.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Boat - Liberty Belle is a music venue in Newyorkcity listed on soundcheck. 3 upc
 | Sat, 31 Oct 2026 | Scary Halloween Boat Party | DJ E.M. |
 | Sat, 31 Oct 2026 | DJ Chen NYC K-Pop Halloween Dance Cruise | DJ E.M. |
 | Sat, 31 Oct 2026 | Halloween Dance Cruise 2026 | DJ E.M. |
+| Sat, 31 Oct 2026 | NYC HALLOWEEN K-POP MEET ANIME PARTY CRUISE WITH DJ CHEN | DJ E.M. |
 
 ## Address
 

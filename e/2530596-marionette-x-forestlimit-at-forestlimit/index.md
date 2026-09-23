@@ -1,6 +1,6 @@
 # Marionette x Forestlimit at Forestlimit
 
-Marionette x Forestlimit on Sat 3 Oct, Tokyo. 5 acts on the bill: Grimwig, Inqapool, Toner and Toner(JP) and 1 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Marionette x Forestlimit on Sat 3 Oct, Tokyo. 4 acts on the bill: Grimwig, Inqapool, Toner(JP) and yolabmi. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Marionette x Forestlimit on Sat 3 Oct, Tokyo. 5 acts on the bill: Grimwig, Inqap
 
 - Grimwig
 - Inqapool
-- Toner
 - Toner(JP)
 - yolabmi
 

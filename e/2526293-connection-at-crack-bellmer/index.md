@@ -1,6 +1,6 @@
 # ★⟡ ݁ connection  ݁ ⟡★ at Crack Bellmer
 
-★⟡ ݁ connection  ݁ ⟡★ at Crack Bellmer on Fri 2 Oct, Berlin. 8 acts on the bill: Azadi, AZADÎ, Blck-Swan and H7 (3) and 4 more. Techno. Preview the line-up and save it on soundcheck.
+★⟡ ݁ connection  ݁ ⟡★ at Crack Bellmer on Fri 2 Oct, Berlin. 6 acts on the bill: AZADÎ, Blck-Swan, H7 (3) and Johannes Astrup and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,11 @@
 
 ## Line-up
 
-- Azadi
 - AZADÎ
 - Blck-Swan
 - H7 (3)
 - Johannes Astrup
 - pink-panther
 - UniKhatu
-- zamara
 
 *Source: [soundcheck](https://soundcheck.club/e/2526293-connection-at-crack-bellmer/)*

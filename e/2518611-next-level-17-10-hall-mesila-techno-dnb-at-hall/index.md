@@ -1,6 +1,6 @@
 # NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB at Hall
 
-NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB on Sat 17 Oct, Tallinn. 2 acts on the bill: Lauri Villau and RENGO. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB on Sat 17 Oct, Tallinn. 1 act on the bill: RENGO. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB on Sat 17 Oct, Tallinn. 2 acts 
 
 ## Line-up
 
-- Lauri Villau
 - RENGO
 
 *Source: [soundcheck](https://soundcheck.club/e/2518611-next-level-17-10-hall-mesila-techno-dnb-at-hall/)*

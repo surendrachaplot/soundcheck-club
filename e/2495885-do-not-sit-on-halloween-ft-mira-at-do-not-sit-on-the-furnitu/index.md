@@ -1,6 +1,6 @@
 # Do Not Sit On Halloween ft Mira at Do Not Sit On The Furniture
 
-Do Not Sit On Halloween ft Mira at Do Not Sit On The Furniture on Fri 30 Oct, Miami. 2 acts on the bill: Lehar and Mira. House and Deep House. Preview the line-up and save it on soundcheck.
+Do Not Sit On Halloween ft Mira at Do Not Sit On The Furniture on Fri 30 Oct, Miami. 1 act on the bill: Mira. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Do Not Sit On Halloween ft Mira at Do Not Sit On The Furniture on Fri 30 Oct, Mi
 
 ## Line-up
 
-- Lehar
 - Mira
 
 *Source: [soundcheck](https://soundcheck.club/e/2495885-do-not-sit-on-halloween-ft-mira-at-do-not-sit-on-the-furnitu/)*

@@ -8,7 +8,7 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | Wellwetツ meets Golden Gate Berlin | Ark3r, De Mode, Edgar Peng, Nils Ohrmann, SERENE, Slurm McKenzie, kuju |
+| Fri, 25 Sept 2026 | Wellwetツ meets Golden Gate Berlin | Ark3r, De Mode, Edgar Peng, Nils Ohrmann, Slurm McKenzie, kuju |
 | Sat, 26 Sept 2026 | Karate Club [Day&Night]: Back to School Edition (Free party) | 3TB (1), Jemazzz, Misha Jaru, S.Tian, Unjack*, Von Riu, aláya |
 | Fri, 2 Oct 2026 | FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu | CEREAL, Dash (CZ), Feenicks, LULU (1), Sandrien, Yan (CZ) |
 | Fri, 9 Oct 2026 | ✭EERIE COLLECTIVE✭ at Bike Jesus | KRISTIE KARDIO, Kaotic, TAUREAN (2), ZiZi, ishka machina, zazitech |

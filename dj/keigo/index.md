@@ -1,0 +1,28 @@
+# Keigo
+
+Keigo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Koara, Tokyo on Sat, 3 Oct 2026.
+
+Keigo is a house and techno artist tracked on soundcheck, with 63 sets logged across Osaka and Tokyo. Often billed alongside 3rill, TAISHI IWAMI and Onométro. Next up: Koara, Tokyo on Sat 3 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 3 Oct 2026 | Koara | Tokyo |
+
+## Recently played
+
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 12 Sept 2026
+- Aoyama Hachi, Tokyo — Tue, 1 Sept 2026
+- Oath, Tokyo — Wed, 19 Aug 2026
+- Koara, Tokyo — Sat, 1 Aug 2026
+- Aoyama Tunnel, Tokyo — Mon, 15 Jun 2026
+- Koara, Tokyo — Sat, 6 Jun 2026
+- Numm, Tokyo — Sat, 16 May 2026
+- Bonobo, Tokyo — Sat, 11 Apr 2026
+
+## Shares bills with
+
+3rill, TAISHI IWAMI, Onométro
+
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keigo/)*

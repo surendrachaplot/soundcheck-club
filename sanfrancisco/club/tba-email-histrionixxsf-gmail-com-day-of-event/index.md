@@ -8,6 +8,6 @@ TBA - email histrionixxsf@gmail.com day of event is a music venue in Sanfrancisc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 27 Sept 2026 | Forced Femme '26 | 2dahlia, Arreola Grande, Del (4), EthicalDrvgs, MS.SMITH, Mnemonics, NECROMANTRESS |
+| Sun, 27 Sept 2026 | Forced Femme '26 | 2dahlia, Arreola Grande, Del (4), EthicalDrvgs, MS.SMITH, NECROMANTRESS |
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tba-email-histrionixxsf-gmail-com-day-of-event/)*

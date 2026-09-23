@@ -9,7 +9,7 @@ fi is a music venue in Cologne listed on soundcheck. 13 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | fi x Kompakt TOTAL 26 | Ada, DJ H0TLINE, Denis Stockhausen, Martinou, Michael Mayer, Reinhard Voigt, Robag Wruhme |
-| Sat, 26 Sept 2026 | fi x u.r. trax & Phonovision & Flinta*Tunes | Arninho, HiHat, alleira, u.r.trax |
+| Sat, 26 Sept 2026 | fi Garten x u.r. trax & Phonovision & Flinta*Tunes | Arninho, HiHat, alleira, u.r.trax |
 | Fri, 2 Oct 2026 | Aura at fi with Chlär | Chlär, Gutkind, Szunflower, Tschatsching |
 | Sat, 3 Oct 2026 | fi x Patrick Mason & Loveselectors | DJ ASS TITS, Juni, Patrick Mason, Rafiki, zinho |
 | Fri, 9 Oct 2026 | fi x LAMMER & Wetdreams & SoundSound | 909 RACING TEAM, Carl Bergé, LAMMER, Lizzle, Mismatch Cologne, Vagabund, alleira |
