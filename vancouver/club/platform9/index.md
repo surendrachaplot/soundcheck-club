@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "BlackBox: The Summer Closing Party" on Fri, 25 Sept 2026.
+Platform9 is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BlackBox: The Summer Closing Party" on Fri, 25 Sept 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including 1morning, AVRY, AWood and DJ dood and 2 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -15,4 +15,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, w
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

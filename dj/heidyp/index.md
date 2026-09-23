@@ -1,13 +1,14 @@
 # Heidy.P
 
-Heidy.P is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Jupiter Disco, New York City on Fri, 23 Oct 2026.
+Heidy.P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
-Heidy.P is a house and disco artist tracked on soundcheck, with 20 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside HONEY B, Kandylion and DJ Shannon. Next up: Jupiter Disco, Newyorkcity on Fri 23 Oct.
+Heidy.P is a house and disco artist tracked on soundcheck, with 21 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside HONEY B, Kandylion and DJ Shannon. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Le Bain | New York City |
 | Fri, 23 Oct 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Heidy.P is a house and disco artist tracked on soundcheck, with 20 sets logged a
 
 HONEY B, Kandylion, DJ Shannon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidyp/)*

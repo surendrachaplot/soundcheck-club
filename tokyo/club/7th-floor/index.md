@@ -1,6 +1,6 @@
 # 7th Floor
 
-7th Floor is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "COZZMIC SONIC 14" on Sat, 7 Nov 2026.
+7th Floor is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "COZZMIC SONIC 14" on Sat, 7 Nov 2026.
 
 7th Floor is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Do Shock Booze, Jun Jikooha and Tomocomo. Browse upcoming dates, start times and who's playing. O-West Bldg 7F, 2-3 Maruyamacho, Shibuya-ku, Tokyo.
 
@@ -14,4 +14,4 @@
 
 O-West Bldg 7F, 2-3 Maruyamacho, Shibuya-ku, Tokyo, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/7th-floor/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/7th-floor/)*

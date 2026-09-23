@@ -1,14 +1,14 @@
 # House Twelve
 
-House Twelve is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Flash, Washington DC on Fri, 16 Oct 2026.
+House Twelve is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
 
-House Twelve is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Washingtondc. Often billed alongside Apollo Dust, Sneakers in the Dryer and BE EZY. Next up: Flash, Washingtondc on Fri 16 Oct.
+House Twelve is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Washingtondc. Often billed alongside Apollo Dust, BE EZY and Sneakers in the Dryer. Next up: Flash, Washingtondc on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Flash | Washington DC |
+| Sat, 17 Oct 2026 | Flash | Washington DC |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ House Twelve is a house and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-Apollo Dust, Sneakers in the Dryer, BE EZY
+Apollo Dust, BE EZY, Sneakers in the Dryer
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housetwelve/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housetwelve/)*

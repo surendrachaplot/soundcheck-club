@@ -1,6 +1,6 @@
 # Can Luis
 
-Can Luis is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "BECCA SORANA + Blonde Brunette - House music - Free Entry" on Fri, 25 Sept 2026.
+Can Luis is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "BECCA SORANA + Blonde Brunette - House music - Free Entry" on Fri, 25 Sept 2026.
 
 Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including BECCA SORANA and Blonde Brunette. Browse upcoming dates, start times and who's playing. Carrer del Portal Nou, 18, 08003 Barcelona.
 
@@ -14,4 +14,4 @@ Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, wit
 
 Carrer del Portal Nou, 18, 08003 Barcelona, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*

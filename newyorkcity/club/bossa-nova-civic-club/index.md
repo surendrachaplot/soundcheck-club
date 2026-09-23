@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Nocturna @ Bossa Nova Civic Club" on Tue, 22 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Nocturna @ Bossa Nova Civic Club" on Tue, 22 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 28 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 29 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A7ba L Jelly and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 28 u
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # D8V!
 
-D8V! is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Egg London, London on Wed, 30 Sept 2026.
+D8V! is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Egg London, London on Wed, 30 Sept 2026.
 
 D8V! is an afro house and house artist based in China, tracked on soundcheck, with 7 sets logged across London, Madrid and Rome. Often billed alongside HAZ (GB), LOKI (3) and PEI Z. Next up: Egg London, London on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ D8V! is an afro house and house artist based in China, tracked on soundcheck, wi
 
 HAZ (GB), LOKI (3), PEI Z
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d8v!/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d8v!/)*

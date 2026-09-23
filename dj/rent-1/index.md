@@ -1,6 +1,6 @@
 # Rent (1)
 
-Rent (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at FLUCC, Vienna on Tue, 6 Oct 2026.
+Rent (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FLUCC, Vienna on Tue, 6 Oct 2026.
 
 Rent (1) is an electronic artist tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Angel D'lite, Bapari and Brother of Set. Next up: FLUCC, Vienna on Tue 6 Oct.
 
@@ -20,4 +20,4 @@ Rent (1) is an electronic artist tracked on soundcheck, with 4 sets logged acros
 
 Angel D'lite, Bapari, Brother of Set
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rent-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rent-1/)*

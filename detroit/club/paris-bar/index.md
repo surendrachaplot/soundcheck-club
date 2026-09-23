@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Siren: Venus In Furs" on Sat, 10 Oct 2026.
+Paris Bar is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Siren: Venus In Furs" on Sat, 10 Oct 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including Ashton Swinton, Auntie Chanel, Doula and joycxi and 2 more. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -16,4 +16,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, wit
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

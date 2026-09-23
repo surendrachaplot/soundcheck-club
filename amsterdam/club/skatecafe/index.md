@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PIP BLOM 10 YEARS" on Thu, 24 Sept 2026.
+Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PIP BLOM 10 YEARS" on Thu, 24 Sept 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including A For Alpha, amara, Amz and Anèl and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

@@ -1,6 +1,6 @@
 # B (379)
 
-B (379) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Zouk Tokyo, Tokyo on Thu, 24 Sept 2026.
+B (379) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Zouk Tokyo, Tokyo on Thu, 24 Sept 2026.
 
 B (379) is a tech house and house artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside ANDY DEDE, Andreas Vural and CLESENT. Next up: Zouk Tokyo, Tokyo on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ B (379) is a tech house and house artist based in Japan, tracked on soundcheck, 
 
 ANDY DEDE, Andreas Vural, CLESENT
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-379/)*

@@ -1,6 +1,6 @@
 # Aiiro Cafe
 
-Aiiro Cafe is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "A HOUSE vol 78 ~Ver. S~" on Sat, 26 Sept 2026.
+Aiiro Cafe is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "A HOUSE vol 78 ~Ver. S~" on Sat, 26 Sept 2026.
 
 Aiiro Cafe is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Issyo, KDT, Kitano and MAXIM (8) and 1 more. Browse upcoming dates, start times and who's playing. 7th TENKA BLD 1F , 2-18-1 Shinjuku , Shinjuku-Ku , Tokyo , 160-0022 , JAPAN.
 
@@ -15,4 +15,4 @@ Aiiro Cafe is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with
 
 7th TENKA BLD 1F , 2-18-1 Shinjuku , Shinjuku-Ku , Tokyo , 160-0022 , JAPAN, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aiiro-cafe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aiiro-cafe/)*

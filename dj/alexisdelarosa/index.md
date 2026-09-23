@@ -1,6 +1,6 @@
 # ALEXIS DE LA ROSA
 
-ALEXIS DE LA ROSA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
+ALEXIS DE LA ROSA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Chocolate Factory, New York City on Sat, 26 Sept 2026.
 
 ALEXIS DE LA ROSA is a house and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across Mexicocity and Newyorkcity. Often billed alongside Sterling Juan Diaz, MORENXXX and Leonce. Next up: The Chocolate Factory, Newyorkcity on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ ALEXIS DE LA ROSA is a house and techno artist based in United States of America
 
 Sterling Juan Diaz, MORENXXX, Leonce
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*

@@ -1,11 +1,11 @@
-# ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes at TBA - La Fayette
+# ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes at TBA - Lafayette 64
 
-ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes at TBA - La Fayette on Sat 26 Sept, Mexicocity. 1 act on the bill: Dj Luigi. Baile Funk and UK Funky. Preview the line-up and save it on soundcheck.
+ANIVERSARIO GOYA TALLER X ZEZZIONS: dj mir, belikosa, dj luigi, bby blue, sin nubes at TBA - Lafayette 64 on Sat 26 Sept, Mexicocity. 1 act on the bill: Dj Luigi. Baile Funk and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 26 Sept 2026 |
-| Venue | TBA - La Fayette |
+| Venue | TBA - Lafayette 64 |
 | City | Mexico City |
 
 ## Line-up

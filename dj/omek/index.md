@@ -1,6 +1,6 @@
 # Omek
 
-Omek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bukanyr Boat, Prague on Sat, 31 Oct 2026.
+Omek is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bukanyr Boat, Prague on Sat, 31 Oct 2026.
 
 Omek is a house and techno artist tracked on soundcheck, with 22 sets logged across Prague. Often billed alongside aros, Biodan and Identic. Next up: Bukanyr Boat, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Omek is a house and techno artist tracked on soundcheck, with 22 sets logged acr
 
 aros, Biodan, Identic
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omek/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omek/)*

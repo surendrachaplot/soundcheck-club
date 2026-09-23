@@ -1,6 +1,6 @@
 # Sala (3)
 
-Sala (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
+Sala (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
 
 Sala (3) is a house and techno artist tracked on soundcheck, with 17 sets logged across Helsinki and Oslo. Often billed alongside Saint Nia, Nea2k and KOFU. Next up: Ääniwalli, Helsinki on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sala (3) is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 Saint Nia, Nea2k, KOFU
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*

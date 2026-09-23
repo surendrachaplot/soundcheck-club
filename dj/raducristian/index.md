@@ -1,6 +1,6 @@
 # Radu Cristian
 
-Radu Cristian is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Dalston Den, London on Sat, 26 Sept 2026.
+Radu Cristian is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dalston Den, London on Sat, 26 Sept 2026.
 
 Radu Cristian is a tech house and house artist tracked on soundcheck, with 8 sets logged across Bucharest and London. Often billed alongside Francesco Poggi, Enrico Chirchiello and Steve Andrew. Next up: Dalston Den, London on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Radu Cristian is a tech house and house artist tracked on soundcheck, with 8 set
 
 Francesco Poggi, Enrico Chirchiello, Steve Andrew
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raducristian/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raducristian/)*

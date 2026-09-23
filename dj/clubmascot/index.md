@@ -1,6 +1,6 @@
 # Club Mascot
 
-Club Mascot is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Club Mascot is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Club Mascot is a techno and experimental artist based in Thailand, tracked on soundcheck, with 44 sets logged across Bangkok. Often billed alongside DJ Sweed, Winkieb and Marmosets. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Club Mascot is a techno and experimental artist based in Thailand, tracked on so
 
 DJ Sweed, Winkieb, Marmosets
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubmascot/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubmascot/)*

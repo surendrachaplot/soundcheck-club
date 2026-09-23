@@ -1,6 +1,6 @@
 # Kalou
 
-Kalou is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at BASIS, Utrecht on Fri, 27 Nov 2026.
+Kalou is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BASIS, Utrecht on Fri, 27 Nov 2026.
 
 Kalou is a trance and house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Madrid and Utrecht. Often billed alongside S3PPA, Alex Gallus and Black Box. Next up: BASIS, Utrecht on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Kalou is a trance and house artist tracked on soundcheck, with 6 sets logged acr
 
 S3PPA, Alex Gallus, Black Box
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalou-ne/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalou-ne/)*

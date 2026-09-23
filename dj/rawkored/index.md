@@ -1,6 +1,6 @@
 # RAWKORED
 
-RAWKORED is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Poseidons, Riga on Fri, 9 Oct 2026.
+RAWKORED is a Techno and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Poseidons, Riga on Fri, 9 Oct 2026.
 
 RAWKORED is a techno and drum & bass artist based in Latvia, tracked on soundcheck, with 4 sets logged across Riga and Sheffield. Often billed alongside XSYNC19, AIVISO and ARRISHA. Next up: Poseidons, Riga on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ RAWKORED is a techno and drum & bass artist based in Latvia, tracked on soundche
 
 XSYNC19, AIVISO, ARRISHA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawkored/)*

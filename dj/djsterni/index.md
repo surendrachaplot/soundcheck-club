@@ -1,6 +1,6 @@
 # DJ Sterni
 
-DJ Sterni is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
+DJ Sterni is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ÆDEN, Berlin on Sat, 10 Oct 2026.
 
 DJ Sterni is a trance and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside JUICY (DE), 4NOUK and 5euroGoldi. Next up: ÆDEN, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ DJ Sterni is a trance and techno artist tracked on soundcheck, with 5 sets logge
 
 JUICY (DE), 4NOUK, 5euroGoldi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*

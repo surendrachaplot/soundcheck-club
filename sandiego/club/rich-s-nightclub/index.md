@@ -1,6 +1,6 @@
 # Rich's Nightclub
 
-Rich's Nightclub is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Big Fat Gay Rave: San Diego Edition" on Thu, 24 Sept 2026.
+Rich's Nightclub is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Big Fat Gay Rave: San Diego Edition" on Thu, 24 Sept 2026.
 
 Rich's Nightclub is a music venue in Sandiego listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1051 University Avenue, San Diego, CA 92103.
 
@@ -14,4 +14,4 @@ Rich's Nightclub is a music venue in Sandiego listed on soundcheck. 1 upcoming g
 
 1051 University Avenue, San Diego, CA 92103, San Diego
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/rich-s-nightclub/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/rich-s-nightclub/)*

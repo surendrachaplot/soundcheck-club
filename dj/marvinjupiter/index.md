@@ -1,6 +1,6 @@
 # Marvin Jupiter
 
-Marvin Jupiter is a Broken Beat and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
+Marvin Jupiter is a Broken Beat and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Carpet Shop, London on Sat, 10 Oct 2026.
 
 Marvin Jupiter is a broken beat and jazz artist tracked on soundcheck, with 15 sets logged across Leeds and London. Often billed alongside CasuallyClued, Juno (4) and REO (UK). Next up: The Carpet Shop, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Marvin Jupiter is a broken beat and jazz artist tracked on soundcheck, with 15 s
 
 CasuallyClued, Juno (4), REO (UK)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*

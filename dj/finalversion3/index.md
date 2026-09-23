@@ -1,6 +1,6 @@
 # Finalversion3
 
-Finalversion3 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Finalversion3 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
 Finalversion3 is a techno and house artist tracked on soundcheck, with 58 sets logged across Barcelona, Madrid, Paris and Valencia. Often billed alongside Lucía Gea, Dj badtrip and KenYi. Next up: Spook Club, Valencia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Finalversion3 is a techno and house artist tracked on soundcheck, with 58 sets l
 
 Lucía Gea, Dj badtrip, KenYi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finalversion3/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finalversion3/)*

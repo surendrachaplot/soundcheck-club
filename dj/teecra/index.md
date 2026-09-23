@@ -1,6 +1,6 @@
 # Teecra
 
-Teecra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
+Teecra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
 
 Teecra is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brussels, Copenhagen and London and 1 more. Often billed alongside Riva, TEDESCO and Jaye Ward. Next up: radial, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Teecra is a techno and trance artist based in United Kingdom, tracked on soundch
 
 Riva, TEDESCO, Jaye Ward
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teecra/)*

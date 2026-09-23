@@ -1,6 +1,6 @@
 # Karla Amaro
 
-Karla Amaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Macarena Club, Barcelona on Fri, 2 Oct 2026.
+Karla Amaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Fri, 2 Oct 2026.
 
 Karla Amaro is a techno and house artist tracked on soundcheck, with 20 sets logged across Barcelona and Malaga. Often billed alongside André Butano, ATMEN and Jean Pierre. Next up: Macarena Club, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Karla Amaro is a techno and house artist tracked on soundcheck, with 20 sets log
 
 André Butano, ATMEN, Jean Pierre
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*

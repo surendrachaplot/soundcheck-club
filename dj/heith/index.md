@@ -1,6 +1,6 @@
 # Heith
 
-Heith is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Volksbühne, Berlin on Fri, 9 Oct 2026.
+Heith is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volksbühne, Berlin on Fri, 9 Oct 2026.
 
 Heith is an experimental and electronica artist based in Italy, tracked on soundcheck, with 43 sets logged across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside ojoo, Amnesia Scanner and Azu Tiwaline. Next up: Volksbühne, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Heith is an experimental and electronica artist based in Italy, tracked on sound
 
 ojoo, Amnesia Scanner, Azu Tiwaline
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*

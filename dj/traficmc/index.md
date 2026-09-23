@@ -1,6 +1,6 @@
 # Trafic MC
 
-Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Nest, Nottingham on Sat, 28 Nov 2026.
+Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Nest, Nottingham on Sat, 28 Nov 2026.
 
 Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 29 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Crossy, Aries and Inja. Next up: The Nest, Nottingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 29 sets
 
 Crossy, Aries, Inja
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*

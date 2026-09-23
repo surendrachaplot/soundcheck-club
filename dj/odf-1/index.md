@@ -1,20 +1,20 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sneaky Pete's, Edinburgh on Tue, 22 Sept 2026.
+ODF (1) is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
-ODF (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Brighton, Brisbane, Bristol and Cork and 9 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: Sneaky Pete's, Edinburgh on Tue 22 Sept.
+ODF (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Brighton, Brisbane, Bristol and Cork and 9 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
 | Fri, 6 Nov 2026 | Stealth | Nottingham |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh — Tue, 22 Sept 2026
 - Boston Manor Park, London — Fri, 31 Jul 2026
 - The Cause, London — Sat, 27 Jun 2026
 - XLR, Manchester — Fri, 8 May 2026
@@ -22,10 +22,9 @@ ODF (1) is a garage and house artist based in United Kingdom, tracked on soundch
 - Rowans Tenpin Bowl, London — Thu, 23 Apr 2026
 - Quarters, Brighton — Fri, 13 Mar 2026
 - XOYO, London — Sat, 7 Mar 2026
-- Tamesis Boat Dock, London — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Fiaa, Jackum, Just Jane
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

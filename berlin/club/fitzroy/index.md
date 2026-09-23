@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Kosmopolis powered by Au. Die Agentur" on Thu, 24 Sept 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kosmopolis powered by Au. Die Agentur" on Thu, 24 Sept 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 5RVZ, AGILY, Akua and Atavi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -22,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hangaren, Copenhagen on Fri, 25 Sept 2026.
+Mira is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hangaren, Copenhagen on Fri, 25 Sept 2026.
 
 Mira is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Hangaren, Copenhagen on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Mira is a house and techno artist tracked on soundcheck, with 197 sets logged ac
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

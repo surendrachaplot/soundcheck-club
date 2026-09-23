@@ -1,6 +1,6 @@
 # FUGE
 
-FUGE is a Experimental and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
+FUGE is a Experimental and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Bed Stuy, New York City on Sat, 3 Oct 2026.
 
 FUGE is an experimental and latin bass artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Ari & Dro, Authentically Plastic and FEDRA.. Next up: TBA - Secret Location, Bed Stuy, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ FUGE is an experimental and latin bass artist tracked on soundcheck, with 9 sets
 
 Ari & Dro, Authentically Plastic, FEDRA.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuge/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuge/)*

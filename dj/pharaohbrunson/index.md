@@ -1,6 +1,6 @@
 # Pharaoh Brunson
 
-Pharaoh Brunson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 27 Sept 2026.
+Pharaoh Brunson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Pudel Club, Hamburg on Sun, 27 Sept 2026.
 
 Pharaoh Brunson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Hamburg, Leeds, London and Manchester. Often billed alongside Il Bosco, Kickin Pigeon and Royal Male. Next up: Golden Pudel Club, Hamburg on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Pharaoh Brunson is a house and disco artist based in United Kingdom, tracked on 
 
 Il Bosco, Kickin Pigeon, Royal Male
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharaohbrunson/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharaohbrunson/)*

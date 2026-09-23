@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
+Gene On Earth is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 25 Sept 2026.
 
 Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Gene On Earth is a house and tech house artist tracked on soundcheck, with 204 s
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

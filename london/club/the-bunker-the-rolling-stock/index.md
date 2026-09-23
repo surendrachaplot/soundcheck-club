@@ -1,6 +1,6 @@
 # The Bunker @ The Rolling Stock
 
-The Bunker @ The Rolling Stock is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Gemini Sounds 'There Is A Light' EP Release Party" on Thu, 24 Sept 2026.
+The Bunker @ The Rolling Stock is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gemini Sounds 'There Is A Light' EP Release Party" on Thu, 24 Sept 2026.
 
 The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Floyd Lavine, GYS (TT), Marcelina Wick and Marco (UK) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Bunker @ The Rolling Stock is a music venue in London listed on soundcheck. 
 | Fri, 2 Oct 2026 | ULU RISING  | Floyd Lavine, N1NJA, Robin M |
 | Fri, 9 Oct 2026 | Microdose 002 | Marcelina Wick |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bunker-the-rolling-stock/)*

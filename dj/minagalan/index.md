@@ -1,6 +1,6 @@
 # Mina Galán
 
-Mina Galán is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
+Mina Galán is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nitsa Club, Barcelona on Fri, 9 Oct 2026.
 
 Mina Galán is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: Nitsa Club, Barcelona on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mina Galán is a techno and house artist tracked on soundcheck, with 26 sets log
 
 Manuka Honey, TEDESCO, DIORA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minagalan/)*

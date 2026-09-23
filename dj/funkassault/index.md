@@ -1,6 +1,6 @@
 # Funk Assault
 
-Funk Assault is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+Funk Assault is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
 Funk Assault is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Basel and Belfast and 27 more. Often billed alongside Chlär, Alarico and 999999999. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Funk Assault is a techno and house artist tracked on soundcheck, with 72 sets lo
 
 Chlär, Alarico, 999999999
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkassault/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkassault/)*

@@ -1,6 +1,6 @@
 # Korea Town Acid
 
-Korea Town Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mod Club Theatre, Toronto on Fri, 2 Oct 2026.
+Korea Town Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mod Club Theatre, Toronto on Fri, 2 Oct 2026.
 
 Korea Town Acid is a techno and house artist tracked on soundcheck, with 68 sets logged across Hongkong, Lyon, Montreal and Newyorkcity and 5 more. Often billed alongside Eejungmi, JIALING and SINAHILL. Next up: Mod Club Theatre, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Korea Town Acid is a techno and house artist tracked on soundcheck, with 68 sets
 
 Eejungmi, JIALING, SINAHILL
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*

@@ -1,6 +1,6 @@
 # HSC (1)
 
-HSC (1) is a Deep House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Upsidedown, Osaka on Sat, 26 Sept 2026.
+HSC (1) is a Deep House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Upsidedown, Osaka on Sat, 26 Sept 2026.
 
 HSC (1) is a deep house and minimal techno artist tracked on soundcheck, with 242 sets logged across Osaka, Seoul and Tokyo. Often billed alongside ALTF4, Cine and OSHALEY. Next up: Upsidedown, Osaka on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ HSC (1) is a deep house and minimal techno artist tracked on soundcheck, with 24
 
 ALTF4, Cine, OSHALEY
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hsc-1/)*

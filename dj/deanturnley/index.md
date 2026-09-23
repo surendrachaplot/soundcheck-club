@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Substation, Seattle on Wed, 23 Sept 2026.
+Dean Turnley is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Substation, Seattle on Wed, 23 Sept 2026.
 
 Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Prospa, Beltran and Ben Sterling. Next up: Substation, Seattle on Wed 23 Sept.
 
@@ -31,4 +31,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 set
 
 Prospa, Beltran, Ben Sterling
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

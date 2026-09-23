@@ -1,6 +1,6 @@
 # ceza
 
-ceza is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kaiki, Tokyo on Fri, 2 Oct 2026.
+ceza is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kaiki, Tokyo on Fri, 2 Oct 2026.
 
 ceza is a bass and techno artist based in Brazil, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside DJ PS2 DESBLOQUEADO, cera and Aliceyuki. Next up: Kaiki, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ceza is a bass and techno artist based in Brazil, tracked on soundcheck, with 21
 
 DJ PS2 DESBLOQUEADO, cera, Aliceyuki
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceza/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ceza/)*

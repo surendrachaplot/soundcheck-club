@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
+Akira is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
 
 Akira is a techno and hip-hop artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 14 more. Often billed alongside Kanti, BiBiYUA and Hermanez. Next up: Veronica Schip, Amsterdam on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Akira is a techno and hip-hop artist tracked on soundcheck, with 65 sets logged 
 
 Kanti, BiBiYUA, Hermanez
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

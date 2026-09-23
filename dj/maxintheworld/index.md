@@ -1,6 +1,6 @@
 # Max In The World
 
-Max In The World is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mansions, New York City on Thu, 24 Sept 2026.
+Max In The World is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mansions, New York City on Thu, 24 Sept 2026.
 
 Max In The World is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Kyoto, Montreal, Newyorkcity and Osaka and 1 more. Often billed alongside aka-Sol, Nema Hän and Matük. Next up: Mansions, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Max In The World is a house and techno artist based in United States of America,
 
 aka-Sol, Nema Hän, Matük
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxintheworld/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxintheworld/)*

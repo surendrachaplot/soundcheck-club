@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
+Dasha Rush is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
 
 Dasha Rush is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Dasha Rush is a techno and house artist tracked on soundcheck, with 166 sets log
 
 DVS1, Adriana Lopez, JakoJako
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

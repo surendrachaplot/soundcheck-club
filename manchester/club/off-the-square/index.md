@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Gruve Collective: Jungle Edition with Revurbia and Automatic Selectas" on Thu, 24 Sept 2026.
+Off The Square is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gruve Collective: Jungle Edition with Revurbia and Automatic Selectas" on Thu, 24 Sept 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chael-UK, Indeva, MAD Beats and Mistress de Funk and 2 more. Browse upcoming dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -16,4 +16,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 3 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

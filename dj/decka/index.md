@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
+Decka is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
 
 Decka is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Barcelona, Belgrade, Berlin and Birmingham and 11 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Superlove, Milan on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Decka is a techno and electronica artist based in United Kingdom, tracked on sou
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

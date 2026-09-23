@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Rhadoo is a Minimal and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 181 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

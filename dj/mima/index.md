@@ -1,6 +1,6 @@
 # MIMA
 
-MIMA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
+MIMA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
 
 MIMA is a house and electro artist tracked on soundcheck, with 22 sets logged across Barcelona and Prague. Often billed alongside Sam Gittis, Pink Concrete and Sebastian Paiza. Next up: Stalin, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MIMA is a house and electro artist tracked on soundcheck, with 22 sets logged ac
 
 Sam Gittis, Pink Concrete, Sebastian Paiza
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*

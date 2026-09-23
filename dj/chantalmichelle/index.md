@@ -1,8 +1,8 @@
 # Chantal Michelle
 
-Chantal Michelle is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Chantal Michelle is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Chantal Michelle is an experimental and ambient artist tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, London and Mexicocity and 2 more. Often billed alongside Alliyah Enyo, William Basinski and Abby Echiverri. Next up: public records, Newyorkcity on Mon 9 Nov.
+Chantal Michelle is an experimental and ambient artist tracked on soundcheck, with 17 sets logged across Berlin, Glasgow, London and Mexicocity and 2 more. Often billed alongside Alliyah Enyo, William Basinski and Abby Echiverri. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chantal Michelle is an experimental and ambient artist tracked on soundcheck, wi
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Wed, 11 Nov 2026 | public records | New York City |
+| Tue, 17 Nov 2026 | Bar Laika | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Chantal Michelle is an experimental and ambient artist tracked on soundcheck, wi
 
 Alliyah Enyo, William Basinski, Abby Echiverri
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chantalmichelle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chantalmichelle/)*

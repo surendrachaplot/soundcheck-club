@@ -1,6 +1,6 @@
 # R1D1
 
-R1D1 is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kilomètre25, Paris on Sat, 10 Oct 2026.
+R1D1 is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kilomètre25, Paris on Sat, 10 Oct 2026.
 
 R1D1 is a house and minimal techno artist based in France, tracked on soundcheck, with 9 sets logged across Berlin and Paris. Often billed alongside STO_DJ, Mad Rey and Maruwa. Next up: Kilomètre25, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ R1D1 is a house and minimal techno artist based in France, tracked on soundcheck
 
 STO_DJ, Mad Rey, Maruwa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r1d1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r1d1/)*

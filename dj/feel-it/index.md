@@ -1,6 +1,6 @@
 # FEEL (IT)
 
-FEEL (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+FEEL (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 FEEL (IT) is a techno and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, London, Paris and Rome. Often billed alongside Sarah Lois, B-Pushr and Cecilia Ena. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ FEEL (IT) is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 Sarah Lois, B-Pushr, Cecilia Ena
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feel-it/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feel-it/)*

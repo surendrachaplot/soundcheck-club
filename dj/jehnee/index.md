@@ -1,6 +1,6 @@
 # Jehnee
 
-Jehnee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 16 Oct 2026.
+Jehnee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Jehnee is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Aaron F, Amatric and CHRI5PY. Next up: Underground SF, Sanfrancisco on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jehnee is a techno and house artist based in United States of America, tracked o
 
 Aaron F, Amatric, CHRI5PY
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jehnee/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jehnee/)*

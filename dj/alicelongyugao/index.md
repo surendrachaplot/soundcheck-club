@@ -1,6 +1,6 @@
 # Alice Longyu Gao
 
-Alice Longyu Gao is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
+Alice Longyu Gao is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
 
 Alice Longyu Gao is a pop and electronica artist based in China, tracked on soundcheck, with 28 sets logged across Chicago, Denver, Losangeles and Manchester and 8 more. Often billed alongside 2ManyDJs, Bimini and COBRAH. Next up: Industry City, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alice Longyu Gao is a pop and electronica artist based in China, tracked on soun
 
 2ManyDJs, Bimini, COBRAH
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*

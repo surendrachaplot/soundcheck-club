@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at EQ San Diego, San Diego on Fri, 25 Sept 2026.
+1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at EQ San Diego, San Diego on Fri, 25 Sept 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: EQ San Diego, Sandiego on Fri 25 Sept.
 
@@ -29,4 +29,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

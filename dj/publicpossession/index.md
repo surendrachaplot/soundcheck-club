@@ -1,6 +1,6 @@
 # Public Possession
 
-Public Possession is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Haus der Kunst, Munich on Fri, 25 Sept 2026.
+Public Possession is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Haus der Kunst, Munich on Fri, 25 Sept 2026.
 
 Public Possession is an electro and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Munich and Paris. Often billed alongside DJ City, Sedef Adasï and Bell Towers. Next up: Haus der Kunst, Munich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Public Possession is an electro and house artist based in Germany, tracked on so
 
 DJ City, Sedef Adasï, Bell Towers
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicpossession/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicpossession/)*

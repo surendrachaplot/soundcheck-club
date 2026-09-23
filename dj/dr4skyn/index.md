@@ -1,6 +1,6 @@
 # DR 4SKYN
 
-DR 4SKYN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
+DR 4SKYN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
 
 DR 4SKYN is a house and techno artist based in Canada, tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside XANGA, EMRYSLAZULI and emmy.wav. Next up: Longboat Hall, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DR 4SKYN is a house and techno artist based in Canada, tracked on soundcheck, wi
 
 XANGA, EMRYSLAZULI, emmy.wav
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4skyn/)*

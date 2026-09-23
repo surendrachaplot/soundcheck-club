@@ -1,6 +1,6 @@
 # Chromic Disease
 
-Chromic Disease is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+Chromic Disease is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 Chromic Disease is a bass and electro artist tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside A/PM, Powder Ranger and Mother Menace. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Chromic Disease is a bass and electro artist tracked on soundcheck, with 3 sets 
 
 A/PM, Powder Ranger, Mother Menace
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chromicdisease/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chromicdisease/)*

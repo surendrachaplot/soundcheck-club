@@ -1,6 +1,6 @@
 # ZOBAYDA
 
-ZOBAYDA is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Moezeum, Rotterdam on Fri, 25 Sept 2026.
+ZOBAYDA is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Moezeum, Rotterdam on Fri, 25 Sept 2026.
 
 ZOBAYDA is a bass and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 3 more. Often billed alongside YoungWoman, DIORA and Slimfit. Next up: Moezeum, Rotterdam on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ZOBAYDA is a bass and techno artist tracked on soundcheck, with 48 sets logged a
 
 YoungWoman, DIORA, Slimfit
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zobayda/)*

@@ -1,6 +1,6 @@
 # Detour Los Angeles
 
-Detour Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Hands On Your Hips" on Sat, 3 Oct 2026.
+Detour Los Angeles is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Hands On Your Hips" on Sat, 3 Oct 2026.
 
 Detour Los Angeles is a music venue in Losangeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 7065 1/2 Sunset Blvd Los Angeles, CA 90028.
 
@@ -14,4 +14,4 @@ Detour Los Angeles is a music venue in Losangeles listed on soundcheck. 1 upcomi
 
 7065 1/2 Sunset Blvd Los Angeles, CA 90028, Los Angeles
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/detour-los-angeles/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/detour-los-angeles/)*

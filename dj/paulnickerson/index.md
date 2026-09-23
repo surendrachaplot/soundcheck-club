@@ -1,6 +1,6 @@
 # Paul Nickerson
 
-Paul Nickerson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cosmic Arts, New York City on Sat, 24 Oct 2026.
+Paul Nickerson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cosmic Arts, New York City on Sat, 24 Oct 2026.
 
 Paul Nickerson is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Philadelphia. Often billed alongside Slow To Speak, Joe Claussell and Jonny Romero. Next up: Cosmic Arts, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Paul Nickerson is a house and disco artist based in United States of America, tr
 
 Slow To Speak, Joe Claussell, Jonny Romero
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnickerson/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnickerson/)*

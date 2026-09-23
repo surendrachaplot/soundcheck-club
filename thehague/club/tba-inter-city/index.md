@@ -1,6 +1,6 @@
 # TBA - Inter-city 
 
-TBA - Inter-city  is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL" on Sat, 26 Sept 2026.
+TBA - Inter-city  is a music venue in The Hague with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL" on Sat, 26 Sept 2026.
 
 TBA - Inter-city  is a music venue in Thehague listed on soundcheck. 2 upcoming gigs, with line-ups including Alden Tyrell, Droom, Dynamic D and Esther Dune and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Inter-city  is a music venue in Thehague listed on soundcheck. 2 upcoming 
 | Sat, 26 Sept 2026 | PIP Stage w/ Vladimir Ivkovic B2B Intergalactic Gary at DISCO FETISH XXL | Intergalactic Gary, Vladimir Ivkovic |
 | Sat, 26 Sept 2026 | Intergalactic FM presents Disco Fetish XXL | Alden Tyrell, Droom, Dynamic D, Esther Dune, Fred Ventura, I-F, Ian Martin, Luca dell'Orso, Marsman |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-inter-city/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-inter-city/)*

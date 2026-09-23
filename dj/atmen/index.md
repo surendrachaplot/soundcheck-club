@@ -1,6 +1,6 @@
 # ATMEN
 
-ATMEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
+ATMEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 24 Sept 2026.
 
 ATMEN is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Cesar Martino, ALUSH and Elwei. Next up: Sunseabar Beach Club, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ ATMEN is a techno and house artist tracked on soundcheck, with 101 sets logged a
 
 Cesar Martino, ALUSH, Elwei
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atmen/)*

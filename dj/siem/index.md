@@ -1,6 +1,6 @@
 # Siem
 
-Siem is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Siem is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Siem is a funk / soul and house artist tracked on soundcheck, with 4 sets logged across Amsterdam and Ghent. Often billed alongside ABIBA, An Dy and Bass Toast. Next up: SISSI'S Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Siem is a funk / soul and house artist tracked on soundcheck, with 4 sets logged
 
 ABIBA, An Dy, Bass Toast
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siem/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siem/)*

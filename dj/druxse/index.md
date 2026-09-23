@@ -1,6 +1,6 @@
 # Drux (SE)
 
-Drux (SE) is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Södra Teatern, Stockholm on Sat, 26 Sept 2026.
+Drux (SE) is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Södra Teatern, Stockholm on Sat, 26 Sept 2026.
 
 Drux (SE) is an experimental and hip-hop artist tracked on soundcheck, with 5 sets logged across London, Stockholm and Vienna. Often billed alongside D1v (SE), Gweilo Ghost and Mayh3mp. Next up: Södra Teatern, Stockholm on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Drux (SE) is an experimental and hip-hop artist tracked on soundcheck, with 5 se
 
 D1v (SE), Gweilo Ghost, Mayh3mp
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druxse/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druxse/)*

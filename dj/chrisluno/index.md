@@ -1,6 +1,6 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Prince Consort, Brisbane on Fri, 2 Oct 2026.
+Chris Luno is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prince Consort, Brisbane on Fri, 2 Oct 2026.
 
 Chris Luno is a house and deep house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: The Prince Consort, Brisbane on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Chris Luno is a house and deep house artist tracked on soundcheck, with 78 sets 
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

@@ -1,6 +1,6 @@
 # Het Bos
 
-Het Bos is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Vruchtbare Grond #12" on Thu, 17 Sept 2026.
+Het Bos is a music venue in Antwerp with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Vruchtbare Grond #12" on Thu, 17 Sept 2026.
 
 Het Bos is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Ankerrui 5-7 B-2000 Antwerpen.
 
@@ -16,4 +16,4 @@ Het Bos is a music venue in Antwerp listed on soundcheck. 3 upcoming gigs. Brows
 
 Ankerrui 5-7 B-2000 Antwerpen, Antwerp
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*

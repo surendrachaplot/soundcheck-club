@@ -1,6 +1,6 @@
 # NikNak
 
-NikNak is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
+NikNak is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
 
 NikNak is an experimental and dub artist tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Brussels and 9 more. Often billed alongside Breakfake, Iration Steppas and Dub Athlete. Next up: The Golden Lion, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ NikNak is an experimental and dub artist tracked on soundcheck, with 52 sets log
 
 Breakfake, Iration Steppas, Dub Athlete
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*

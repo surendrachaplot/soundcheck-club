@@ -1,6 +1,6 @@
 # Reforesters Laboratory
 
-Reforesters Laboratory is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Word Passed the Time - Charlotte Jacobs - Listening Session" on Wed, 23 Sept 2026.
+Reforesters Laboratory is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Word Passed the Time - Charlotte Jacobs - Listening Session" on Wed, 23 Sept 2026.
 
 Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 147 Metropolitan Avenue.
 
@@ -15,4 +15,4 @@ Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 2 u
 
 147 Metropolitan Avenue, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*

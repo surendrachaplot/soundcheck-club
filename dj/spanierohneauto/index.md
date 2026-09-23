@@ -1,6 +1,6 @@
 # SpanierOhneAuto
 
-SpanierOhneAuto is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DNA Club, Munich on Fri, 25 Sept 2026.
+SpanierOhneAuto is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at DNA Club, Munich on Fri, 25 Sept 2026.
 
 SpanierOhneAuto is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Munich. Often billed alongside DJ Ty-Rex, Roshan (DE) and Tyrellativ. Next up: DNA Club, Munich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SpanierOhneAuto is a trance and techno artist based in Germany, tracked on sound
 
 DJ Ty-Rex, Roshan (DE), Tyrellativ
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spanierohneauto/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spanierohneauto/)*

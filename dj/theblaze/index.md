@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Magazzini Generali, Milan on Fri, 2 Oct 2026.
+The Blaze is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Magazzini Generali, Milan on Fri, 2 Oct 2026.
 
 The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 25 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: Magazzini Generali, Milan on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ The Blaze is a house and techno artist tracked on soundcheck, with 52 sets logge
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

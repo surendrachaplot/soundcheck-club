@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Jazz artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
+Bass is a Drum & Bass and Jazz artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
 
 Bass is a drum & bass and jazz artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Bali and Bangkok and 39 more. Often billed alongside Jungle (UK), Tekk and A². Next up: The Button Factory, Auckland on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Bass is a drum & bass and jazz artist tracked on soundcheck, with 117 sets logge
 
 Jungle (UK), Tekk, A²
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

@@ -1,6 +1,6 @@
 # 23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel
 
-23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel on Sat 10 Oct, Lyon. 23 acts on the bill: 2HOT2PLAY, AREA ØNE, Blasha & Allatt and Cara Elizabeth and 19 more. Preview the line-up and save it on soundcheck.
+23:59 - WEEKENDER 2026 at Plage Privée Parc de Miribel on Sat 10 Oct, Lyon. 27 acts on the bill: 2HOT2PLAY, AREA ØNE, Axymt. and Blasha & Allatt and 23 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,11 @@
 
 - 2HOT2PLAY
 - AREA ØNE
+- Axymt.
 - Blasha & Allatt
 - Cara Elizabeth
 - Carla Schmitt
+- Chami
 - DBBD
 - DNNS
 - Dory
@@ -25,6 +27,7 @@
 - Mika Heggemann
 - Niotech
 - OMAKS
+- OPH
 - Part Time Killer
 - PRADA2000
 - Protokseed
@@ -32,6 +35,7 @@
 - Schrotthagen
 - Sköne
 - Tau Ceti
+- Tauceti (FR)
 - Zorza
 
 *Source: [soundcheck](https://soundcheck.club/e/2461617-23-59-weekender-2026-at-plage-priv-e-parc-de-miribel/)*

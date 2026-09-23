@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "pluko extra show" on Fri, 25 Sept 2026.
+Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "pluko extra show" on Fri, 25 Sept 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including Kaibshr, Ben Sims, Bou (UK) and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including Kaibshr, Ben Sims, Blacky and Bou (UK) and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, w
 | Fri, 9 Oct 2026 | SECRET WEAPONS -Ben Sims- | Ben Sims, Eichi Abe, S.H.V, SOGI, YUVIE |
 | Sat, 10 Oct 2026 | Otographic Live 2026 | Dominant Space, Shingo Nakamura |
 | Sat, 10 Oct 2026 | presented by WARRIOR  msft. TOKYO SHOW | msft |
-| Sun, 11 Oct 2026 | SPERA 0006 | TEI TEI, Uich, Xinobi, Yant, YuWa, k0v- |
+| Sun, 11 Oct 2026 | SPERA 0006 with Yant | TEI TEI, Uich, XINOVI, Xinobi, Yant, YuWa, k0v- |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 | Sat, 31 Oct 2026 | RIP with Osmosis Jones | Osmosis Jones |
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

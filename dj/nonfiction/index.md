@@ -1,6 +1,6 @@
 # Nonfiction
 
-Nonfiction is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Nonfiction is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Nonfiction is a house and deep house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Jason Merle, Kenny Dope and Michael Moog. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Nonfiction is a house and deep house artist tracked on soundcheck, with 6 sets l
 
 Jason Merle, Kenny Dope, Michael Moog
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonfiction/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonfiction/)*

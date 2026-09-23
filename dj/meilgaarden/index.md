@@ -1,6 +1,6 @@
 # Meilgaarden
 
-Meilgaarden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
+Meilgaarden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
 Meilgaarden is a techno and house artist based in Sweden, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Boston and Chicago and 9 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: BASEMENT, Newyorkcity on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Meilgaarden is a techno and house artist based in Sweden, tracked on soundcheck,
 
 Ian Crane, x3butterfly, LYDO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*

@@ -1,6 +1,6 @@
 # Maria Theresia von Eberg
 
-Maria Theresia von Eberg is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Maria Theresia von Eberg is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Corios, J.WOCKENFUSS and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, 
 
 Corios, J.WOCKENFUSS, Horst Haller
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*

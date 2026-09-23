@@ -1,6 +1,6 @@
 # Time Warp
 
-Time Warp is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "DNB @3 presents: WARP SPEED" on Fri, 2 Oct 2026.
+Time Warp is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "DNB @3 presents: WARP SPEED" on Fri, 2 Oct 2026.
 
 Time Warp is a music venue in Seattle listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Time Warp is a music venue in Seattle listed on soundcheck. 1 upcoming gig. Brow
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | DNB @3 presents: WARP SPEED |  |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/time-warp/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/time-warp/)*

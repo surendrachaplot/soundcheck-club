@@ -1,8 +1,8 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Special Guest DJ is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Special Guest DJ is a techno and bass artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Special Guest DJ is a techno and bass artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Special Guest DJ is a techno and bass artist based in United States of America, 
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Thu, 8 Oct 2026 | Process PDX | Portland |
 | Fri, 9 Oct 2026 | Good Room | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Special Guest DJ is a techno and bass artist based in United States of America, 
 
 Ben Bondy, CCL, Vlada
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

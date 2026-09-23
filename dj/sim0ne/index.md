@@ -1,6 +1,6 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+sim0ne is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
 sim0ne is a techno and house artist tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 37 more. Often billed alongside Juicy Romance, DJ Heartstring and MALUGI. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
@@ -31,4 +31,4 @@ sim0ne is a techno and house artist tracked on soundcheck, with 110 sets logged 
 
 Juicy Romance, DJ Heartstring, MALUGI
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

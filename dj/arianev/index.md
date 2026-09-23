@@ -1,6 +1,6 @@
 # Ariane V
 
-Ariane V is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Ariane V is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Ariane V is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 4 more. Often billed alongside Ben Gomori, Gaucho (UK) and Liv Ayers. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ariane V is a house and techno artist tracked on soundcheck, with 103 sets logge
 
 Ben Gomori, Gaucho (UK), Liv Ayers
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arianev/)*

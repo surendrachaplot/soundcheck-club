@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Ms. Nina with SWDEJAY and Psy-Chick" on Fri, 25 Sept 2026.
+Lincoln Factory is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Ms. Nina with SWDEJAY and Psy-Chick" on Fri, 25 Sept 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including Ahadadream, A K, Blake Baxter and Dasha Rush and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 11 upcoming gi
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Whipped #6 with Alarico" on Fri, 25 Sept 2026.
+Den Anden Side is a music venue in Copenhagen with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Whipped #6 with Alarico" on Fri, 25 Sept 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, Aldonna, AMORAL and Anastasia Kristensen and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 12 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

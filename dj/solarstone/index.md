@@ -1,6 +1,6 @@
 # Solarstone
 
-Solarstone is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Solarstone is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Solarstone is a trance and progressive house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Chicago, London and Losangeles and 10 more. Often billed alongside Billy Gillies, Amy Wiles and Ferry Corsten. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Solarstone is a trance and progressive house artist tracked on soundcheck, with 
 
 Billy Gillies, Amy Wiles, Ferry Corsten
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*

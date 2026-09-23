@@ -1,6 +1,6 @@
 # Gio Goltara
 
-Gio Goltara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
+Gio Goltara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Sun, 27 Sept 2026.
 
 Gio Goltara is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Frankfurt, Hamburg and Madrid. Often billed alongside Feasting, Pleasure and DJ Putilla. Next up: OXI, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Gio Goltara is a house and techno artist tracked on soundcheck, with 31 sets log
 
 Feasting, Pleasure, DJ Putilla
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/GIOgoltara/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/GIOgoltara/)*

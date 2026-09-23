@@ -1,6 +1,6 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kavka Oudaan, Antwerp on Fri, 16 Oct 2026.
+Gabriel Muñoz is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kavka Oudaan, Antwerp on Fri, 16 Oct 2026.
 
 Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, WOLTERS and Bella Claxton. Next up: Kavka Oudaan, Antwerp on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 38 sets 
 
 Milion, WOLTERS, Bella Claxton
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

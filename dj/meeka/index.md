@@ -1,6 +1,6 @@
 # Meeka
 
-Meeka is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 26 Sept 2026.
+Meeka is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 26 Sept 2026.
 
 Meeka is a techno and tech house artist tracked on soundcheck, with 3 sets logged across Melbourne and Sydney. Often billed alongside Matteo Freyrie, Bastian Bux and LINUS. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Meeka is a techno and tech house artist tracked on soundcheck, with 3 sets logge
 
 Matteo Freyrie, Bastian Bux, LINUS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeka/)*

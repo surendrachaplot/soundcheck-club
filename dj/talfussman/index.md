@@ -1,6 +1,6 @@
 # Tal Fussman
 
-Tal Fussman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
+Tal Fussman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
 
 Tal Fussman is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside Radio Slave, Hard To Tell and Anja Schneider. Next up: Nowadays, Newyorkcity on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Tal Fussman is a house and techno artist tracked on soundcheck, with 105 sets lo
 
 Radio Slave, Hard To Tell, Anja Schneider
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talfussman/)*

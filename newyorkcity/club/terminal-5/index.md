@@ -1,14 +1,13 @@
 # Terminal 5
 
-Terminal 5 is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Jane Remover" on Tue, 22 Sept 2026.
+Terminal 5 is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kruder & Dorfmeister" on Thu, 1 Oct 2026.
 
-Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs, with line-ups including Dazegxd, Jane Remover, Kruder & Dorfmeister and nimino and 1 more. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
+Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including Kruder & Dorfmeister, nimino and Overmono. Browse upcoming dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Jane Remover | Dazegxd, Jane Remover |
 | Thu, 1 Oct 2026 | Kruder & Dorfmeister | Kruder & Dorfmeister |
 | Fri, 9 Oct 2026 | Overmono | Overmono |
 | Sat, 7 Nov 2026 | nimino | nimino |
@@ -17,4 +16,4 @@ Terminal 5 is a music venue in Newyorkcity listed on soundcheck. 4 upcoming gigs
 
 610 West 56th Street; New York, NY 10019; United States, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*

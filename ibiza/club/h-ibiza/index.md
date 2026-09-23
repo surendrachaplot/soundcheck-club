@@ -1,6 +1,6 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "East End Dubs presents Eastenderz" on Tue, 22 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 16 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "East End Dubs presents Eastenderz" on Tue, 22 Sept 2026.
 
 Hï Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AMÉMÉ and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
@@ -23,4 +23,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, with
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

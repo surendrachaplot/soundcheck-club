@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Pisco Bar, Kuala Lumpur on Fri, 25 Sept 2026.
+RUIZ OSC1 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pisco Bar, Kuala Lumpur on Fri, 25 Sept 2026.
 
 RUIZ OSC1 is a techno and trance artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 40 more. Often billed alongside Carmen Electro, Tarkno and Beau Didier. Next up: Pisco Bar, Kualalumpur on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ RUIZ OSC1 is a techno and trance artist tracked on soundcheck, with 148 sets log
 
 Carmen Electro, Tarkno, Beau Didier
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

@@ -1,6 +1,6 @@
 # baby ganoush
 
-baby ganoush is a Ambient and Gqom artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bogen 43, Berlin on Thu, 24 Sept 2026.
+baby ganoush is a Ambient and Gqom artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bogen 43, Berlin on Thu, 24 Sept 2026.
 
 baby ganoush is an ambient and gqom artist based in Sweden, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Montreal and Rotterdam and 2 more. Often billed alongside Isla Den, YoungWoman and ZOBAYDA. Next up: Bogen 43, Berlin on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ baby ganoush is an ambient and gqom artist based in Sweden, tracked on soundchec
 
 Isla Den, YoungWoman, ZOBAYDA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyganoush/)*

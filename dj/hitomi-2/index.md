@@ -1,6 +1,6 @@
 # Hitomi (DE)
 
-Hitomi (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Java, Paris on Sat, 26 Sept 2026.
+Hitomi (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Java, Paris on Sat, 26 Sept 2026.
 
 Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin and Paris. Often billed alongside João Comazzi, Alexander Arpeggio and Alicia Carrera. Next up: La Java, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Hitomi (DE) is a house and techno artist based in Japan, tracked on soundcheck, 
 
 João Comazzi, Alexander Arpeggio, Alicia Carrera
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitomi-2/)*

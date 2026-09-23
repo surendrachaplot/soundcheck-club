@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at E1, London on Fri, 6 Nov 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at E1, London on Fri, 6 Nov 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Lorenzo Raganzini, BIIA and Alignment. Next up: E1, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 86 set
 
 Lorenzo Raganzini, BIIA, Alignment
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

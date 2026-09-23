@@ -1,13 +1,14 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Cabros Chicos - Underground Y2K & Top 40 Parrty (18+)" on Fri, 25 Sept 2026.
+Mehanata Bar is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CLUBSESSION VOL. 11: STUDY HALL" on Thu, 24 Sept 2026.
 
-Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 16 upcoming gigs. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
+Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 17 upcoming gigs, with line-ups including MAXWELL HöUSE. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | CLUBSESSION VOL. 11: STUDY HALL | MAXWELL HöUSE |
 | Fri, 25 Sept 2026 | Cabros Chicos - Underground Y2K & Top 40 Parrty (18+) |  |
 | Fri, 25 Sept 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Sat, 26 Sept 2026 | Cabros Chicos - Underground Y2K & Top 40 Parrty (18+) |  |
@@ -17,10 +18,9 @@ Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 16 upcoming g
 | Fri, 16 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Fri, 16 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 | Fri, 23 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
-| Fri, 30 Oct 2026 | THE Y2K Parrty at the Legendary Mehanata NYC - 18 |  |
 
 ## Address
 
 113, Ludlow street, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mehanata-bar/)*

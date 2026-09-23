@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "'ALLE BLUM' WOLLEN BLÜHEN' RELEASE-KONZERT" on Thu, 24 Sept 2026.
+Badehaus Berlin is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "'ALLE BLUM' WOLLEN BLÜHEN' RELEASE-KONZERT" on Thu, 24 Sept 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Anna Æther, Beqqi, Carl Hang and JADA MORAES and 2 more. Browse upcoming dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

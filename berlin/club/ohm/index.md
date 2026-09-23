@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More" on Thu, 24 Sept 2026.
+OHM is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More" on Thu, 24 Sept 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including Aaronovsky, aeriform, Alexy and AliA and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

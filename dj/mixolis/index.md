@@ -1,6 +1,6 @@
 # Mixolis
 
-Mixolis is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Freight Brixton, London on Sun, 4 Oct 2026.
+Mixolis is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Freight Brixton, London on Sun, 4 Oct 2026.
 
 Mixolis is an amapiano and afro house artist tracked on soundcheck, with 41 sets logged across London and Paris. Often billed alongside INTUIT, Golden Lady and Via Seri. Next up: Freight Brixton, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mixolis is an amapiano and afro house artist tracked on soundcheck, with 41 sets
 
 INTUIT, Golden Lady, Via Seri
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolis/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixolis/)*

@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Debit is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Debit is a techno and experimental artist based in United States of America, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside APP, AMEX (UK) and Alaska (2). Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -30,4 +30,4 @@ Debit is a techno and experimental artist based in United States of America, tra
 
 APP, AMEX (UK), Alaska (2)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

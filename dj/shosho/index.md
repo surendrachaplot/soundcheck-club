@@ -1,6 +1,6 @@
 # Shosho
 
-Shosho is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Oath, Tokyo on Sat, 26 Sept 2026.
+Shosho is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Oath, Tokyo on Sat, 26 Sept 2026.
 
 Shosho is a house and jazz artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside JINI, Leo Gabriel and Kiyo. Next up: Oath, Tokyo on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Shosho is a house and jazz artist tracked on soundcheck, with 5 sets logged acro
 
 JINI, Leo Gabriel, Kiyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*

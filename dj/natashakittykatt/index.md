@@ -1,6 +1,6 @@
 # Natasha Kitty Katt
 
-Natasha Kitty Katt is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hootananny Brixton, London on Fri, 25 Sept 2026.
+Natasha Kitty Katt is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hootananny Brixton, London on Fri, 25 Sept 2026.
 
 Natasha Kitty Katt is a disco and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Dundee, Edinburgh, Glasgow and Leeds and 8 more. Often billed alongside Dicky Trisco, Craig Smith and Young Pulse. Next up: Hootananny Brixton, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Natasha Kitty Katt is a disco and house artist based in United Kingdom, tracked 
 
 Dicky Trisco, Craig Smith, Young Pulse
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natashakittykatt/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natashakittykatt/)*

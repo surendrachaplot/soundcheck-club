@@ -1,6 +1,6 @@
 # LYOM
 
-LYOM is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
+LYOM is a Techno and Gabber artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Luka, Seoul on Fri, 25 Sept 2026.
 
 LYOM is a techno and gabber artist based in Japan, tracked on soundcheck, with 10 sets logged across Seoul and Tokyo. Often billed alongside EMILIO (3), STRATAH and Calavera. Next up: Luka, Seoul on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ LYOM is a techno and gabber artist based in Japan, tracked on soundcheck, with 1
 
 EMILIO (3), STRATAH, Calavera
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

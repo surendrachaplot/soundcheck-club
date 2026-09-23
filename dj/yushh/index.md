@@ -1,6 +1,6 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Post Bar, Helsinki on Sat, 3 Oct 2026.
+Yushh is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Post Bar, Helsinki on Sat, 3 Oct 2026.
 
 Yushh is a bass and techno artist tracked on soundcheck, with 112 sets logged across Adelaide, Amsterdam, Athens and Basel and 28 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Post Bar, Helsinki on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Yushh is a bass and techno artist tracked on soundcheck, with 112 sets logged ac
 
 Breaka, Dubrunner, Batu
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

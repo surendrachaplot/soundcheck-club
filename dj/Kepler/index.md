@@ -1,6 +1,6 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Kepler is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
 Kepler is a house and tech house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: Document, Bristol on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Kepler is a house and tech house artist tracked on soundcheck, with 161 sets log
 
 Burnski, Job de Jong, L.P. Rhythm
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

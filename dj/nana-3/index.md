@@ -1,6 +1,6 @@
 # NANA (3)
 
-NANA (3) is a Hip-Hop and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at or, Tokyo on Fri, 25 Sept 2026.
+NANA (3) is a Hip-Hop and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at or, Tokyo on Fri, 25 Sept 2026.
 
 NANA (3) is a hip-hop and psytrance artist tracked on soundcheck, with 21 sets logged across Athens, Madrid, Seoul and Tokyo. Often billed alongside SALIN, Até. and Jinzo. Next up: or, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NANA (3) is a hip-hop and psytrance artist tracked on soundcheck, with 21 sets l
 
 SALIN, Até., Jinzo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*

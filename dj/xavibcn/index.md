@@ -1,6 +1,6 @@
 # Xavi BCN
 
-Xavi BCN is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at M7 Club, Barcelona on Sat, 3 Oct 2026.
+Xavi BCN is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Club, Barcelona on Sat, 3 Oct 2026.
 
 Xavi BCN is a techno and hardcore artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Tokyo. Often billed alongside Ricardo F, Ruben XXL and BreakStyle. Next up: M7 Club, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Xavi BCN is a techno and hardcore artist tracked on soundcheck, with 15 sets log
 
 Ricardo F, Ruben XXL, BreakStyle
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xavibcn/)*

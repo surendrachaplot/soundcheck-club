@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "BOOF x Foundry: MCMLXXXV (Herrensauna) Folsom Street Fair Takeover" on Sun, 27 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BOOF x Foundry: MCMLXXXV (Herrensauna) Folsom Street Fair Takeover" on Sun, 27 Sept 2026.
 
 The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, at-at, Cali Rose and Jojo Lorenzo and 2 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -18,4 +18,4 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming gi
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

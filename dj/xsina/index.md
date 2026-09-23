@@ -1,6 +1,6 @@
 # X(S)INA
 
-X(S)INA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
+X(S)INA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Menjo's, Detroit on Sat, 26 Sept 2026.
 
 X(S)INA is a techno and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Garrison XR, AIDEL and Amino. Next up: Menjo's, Detroit on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ X(S)INA is a techno and electro artist based in United States of America, tracke
 
 Garrison XR, AIDEL, Amino
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*

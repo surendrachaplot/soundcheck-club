@@ -1,6 +1,6 @@
 # Fabio Stingo
 
-Fabio Stingo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Basic Club, Naples on Sat, 3 Oct 2026.
+Fabio Stingo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Basic Club, Naples on Sat, 3 Oct 2026.
 
 Fabio Stingo is a house and tech house artist based in Italy, tracked on soundcheck, with 15 sets logged across Naples. Often billed alongside Cvmpanile, Gabriele Russo and Joëlla Jackson. Next up: Basic Club, Naples on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fabio Stingo is a house and tech house artist based in Italy, tracked on soundch
 
 Cvmpanile, Gabriele Russo, Joëlla Jackson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiostingo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiostingo/)*

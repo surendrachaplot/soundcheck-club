@@ -1,6 +1,6 @@
 # YoYo - Palais de Tokyo
 
-YoYo - Palais de Tokyo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "ATARASHI Paris at YOYO with Marco Carola, Ale De Tuglie & II FACES" on Sat, 3 Oct 2026.
+YoYo - Palais de Tokyo is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "ATARASHI Paris at YOYO with Marco Carola, Ale De Tuglie & II FACES" on Sat, 3 Oct 2026.
 
 YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Ale De Tuglie, II FACES and Marco Carola. Browse upcoming dates, start times and who's playing. 13 avenue du Président Wilson 75016 Paris.
 
@@ -14,4 +14,4 @@ YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 1 upcomin
 
 13 avenue du Président Wilson 75016 Paris, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*

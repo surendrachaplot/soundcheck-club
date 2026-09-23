@@ -1,6 +1,6 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Freaky Freshers" on Thu, 24 Sept 2026.
+Oculist is a music venue in Brighton with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Freaky Freshers" on Thu, 24 Sept 2026.
 
 Oculist is a music venue in Brighton listed on soundcheck. 2 upcoming gigs, with line-ups including SKYE.7.7.7. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
@@ -15,4 +15,4 @@ Oculist is a music venue in Brighton listed on soundcheck. 2 upcoming gigs, with
 
 2 Boyce's St, Brighton BN1 1AN, Brighton
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*

@@ -1,6 +1,6 @@
 # Hipp-e
 
-Hipp-e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+Hipp-e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
 Hipp-e is a tech house and deep house artist tracked on soundcheck, with 4 sets logged across Denver, London and Losangeles. Often billed alongside H-Foundation, Halo Varga and Acid Sally. Next up: The Cause, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Hipp-e is a tech house and deep house artist tracked on soundcheck, with 4 sets 
 
 H-Foundation, Halo Varga, Acid Sally
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*

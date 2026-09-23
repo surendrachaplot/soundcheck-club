@@ -1,6 +1,6 @@
 # Bruce Sangster
 
-Bruce Sangster is a Dub Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 29 Sept 2026.
+Bruce Sangster is a Dub Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Cheetah Club, Glasgow on Tue, 29 Sept 2026.
 
 Bruce Sangster is a dub techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Glasgow. Often billed alongside AKA DISPLAY, ALWAYS 8:15 and Babyccino. Next up: La Cheetah Club, Glasgow on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Bruce Sangster is a dub techno and trance artist based in United Kingdom, tracke
 
 AKA DISPLAY, ALWAYS 8:15, Babyccino
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brucesangster/)*

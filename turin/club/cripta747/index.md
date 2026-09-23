@@ -1,6 +1,6 @@
 # Cripta747
 
-Cripta747 is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "SUN CRASH" on Sat, 3 Oct 2026.
+Cripta747 is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "SUN CRASH" on Sat, 3 Oct 2026.
 
 Cripta747 is a music venue in Turin listed on soundcheck. 1 upcoming gig, with line-ups including eeeaeeeeaee and VIBRISSE. Browse upcoming dates, start times and who's playing. Via Catania, 15/f, 10153 Torino TO.
 
@@ -14,4 +14,4 @@ Cripta747 is a music venue in Turin listed on soundcheck. 1 upcoming gig, with l
 
 Via Catania, 15/f, 10153 Torino TO, Turin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/cripta747/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/cripta747/)*

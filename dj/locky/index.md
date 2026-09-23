@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Locky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
 Locky is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Luke Dean_ and Liam Palmer. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Locky is a house and tech house artist tracked on soundcheck, with 145 sets logg
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

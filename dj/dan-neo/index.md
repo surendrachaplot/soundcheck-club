@@ -1,6 +1,6 @@
 # Dan-neo
 
-Dan-neo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Acadana, Hong Kong on Sat, 3 Oct 2026.
+Dan-neo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Acadana, Hong Kong on Sat, 3 Oct 2026.
 
 Dan-neo is a techno and house artist tracked on soundcheck, with 51 sets logged across Hongkong, Kyoto, Seoul and Tokyo. Often billed alongside Finsent C, Konnection and MarcoYu. Next up: Acadana, Hongkong on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dan-neo is a techno and house artist tracked on soundcheck, with 51 sets logged 
 
 Finsent C, Konnection, MarcoYu
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*

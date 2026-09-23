@@ -1,6 +1,6 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 23 Sept 2026.
+YELLOWUHURU is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 23 Sept 2026.
 
 YELLOWUHURU is a house and techno artist tracked on soundcheck, with 198 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 5 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 23 Sept.
 
@@ -29,4 +29,4 @@ YELLOWUHURU is a house and techno artist tracked on soundcheck, with 198 sets lo
 
 suimin, YAMARCHY, bungo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*

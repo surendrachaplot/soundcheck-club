@@ -1,6 +1,6 @@
 # Ginza Music Bar
 
-Ginza Music Bar is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "MISSION (Tokyo Crossover Week 2026) " on Wed, 23 Sept 2026.
+Ginza Music Bar is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "MISSION (Tokyo Crossover Week 2026) " on Wed, 23 Sept 2026.
 
 Ginza Music Bar is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ginza Music Bar is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | MISSION (Tokyo Crossover Week 2026)  |  |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ginza-music-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/ginza-music-bar/)*

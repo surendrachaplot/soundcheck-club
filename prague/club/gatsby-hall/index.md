@@ -1,6 +1,6 @@
 # Gatsby Hall
 
-Gatsby Hall is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Masquerade Dating - BIG EDITION Official Pre-Party" on Thu, 5 Nov 2026.
+Gatsby Hall is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Masquerade Dating - BIG EDITION Official Pre-Party" on Thu, 5 Nov 2026.
 
 Gatsby Hall is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including SAVBEA. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gatsby Hall is a music venue in Prague listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Masquerade Dating - BIG EDITION Official Pre-Party | SAVBEA |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/gatsby-hall/)*

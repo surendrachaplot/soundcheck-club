@@ -1,6 +1,6 @@
 # Dukwa
 
-Dukwa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
+Dukwa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 22 Oct 2026.
 
 Dukwa is a house and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 8 more. Often billed alongside Seth Troxler, AGELESS and ANOTR. Next up: The Berkeley Suite, Glasgow on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Dukwa is a house and techno artist based in Italy, tracked on soundcheck, with 2
 
 Seth Troxler, AGELESS, ANOTR
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukwa/)*

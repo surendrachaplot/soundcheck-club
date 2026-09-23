@@ -1,6 +1,6 @@
 # Halfcab
 
-Halfcab is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
+Halfcab is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
 
 Halfcab is a house and tech house artist tracked on soundcheck, with 22 sets logged across Liverpool, Malta and Saopaulo. Often billed alongside L_cio, Solarce Brothers and Ashibah. Next up: Hangar 34, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Halfcab is a house and tech house artist tracked on soundcheck, with 22 sets log
 
 L_cio, Solarce Brothers, Ashibah
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halfcab/)*

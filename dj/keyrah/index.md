@@ -1,6 +1,6 @@
 # Keyrah
 
-Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
+Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
 
 Keyrah is a house and hip-hop artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 8 more. Often billed alongside Tiffany Calver, Casnova and Izco. Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Keyrah is a house and hip-hop artist tracked on soundcheck, with 66 sets logged 
 
 Tiffany Calver, Casnova, Izco
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*

@@ -1,6 +1,6 @@
 # Oldboy (UK)
 
-Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stealth, Nottingham on Fri, 9 Oct 2026.
+Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stealth, Nottingham on Fri, 9 Oct 2026.
 
 Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Brighton, Edinburgh, London and Nottingham. Often billed alongside DJ Cosworth, Oldboy and Oldboy (2). Next up: Stealth, Nottingham on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on sou
 
 DJ Cosworth, Oldboy, Oldboy (2)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*

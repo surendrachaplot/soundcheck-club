@@ -1,6 +1,6 @@
 # COBRAH
 
-COBRAH is a Club and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+COBRAH is a Club and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 COBRAH is a club and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Job Jobse, TAAHLIAH and Adam Kraft. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ COBRAH is a club and house artist tracked on soundcheck, with 44 sets logged acr
 
 Job Jobse, TAAHLIAH, Adam Kraft
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrah/)*

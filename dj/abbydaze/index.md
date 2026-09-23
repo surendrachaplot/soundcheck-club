@@ -1,6 +1,6 @@
 # Abby Daze
 
-Abby Daze is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
+Abby Daze is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
 
 Abby Daze is a jungle and drum & bass artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bristol and London. Often billed alongside A.N.T, Uncle G and Yasmine (UK). Next up: The Greyhound, London on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Abby Daze is a jungle and drum & bass artist tracked on soundcheck, with 62 sets
 
 A.N.T, Uncle G, Yasmine (UK)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbydaze/)*

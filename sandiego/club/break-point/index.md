@@ -1,6 +1,6 @@
 # Break Point
 
-Break Point is a music venue in San Diego with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "OVERDRIVE & SOUNDS GOOD PRESENT: RELOAD BASS" on Fri, 2 Oct 2026.
+Break Point is a music venue in San Diego with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "OVERDRIVE & SOUNDS GOOD PRESENT: RELOAD BASS" on Fri, 2 Oct 2026.
 
 Break Point is a music venue in Sandiego listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 945 Garnet Ave, San Diego, CA 92109.
 
@@ -15,4 +15,4 @@ Break Point is a music venue in Sandiego listed on soundcheck. 2 upcoming gigs. 
 
 945 Garnet Ave, San Diego, CA 92109, San Diego
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/break-point/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/break-point/)*

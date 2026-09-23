@@ -1,6 +1,6 @@
 # Casper (FIN)
 
-Casper (FIN) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
+Casper (FIN) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
 Casper (FIN) is a house and techno artist tracked on soundcheck, with 8 sets logged across Antwerp, Bangkok, Brussels and Losangeles and 2 more. Often billed alongside Liem, Adi and April. Next up: Triangle, Osaka on Tue 22 Sept.
 
@@ -13,6 +13,7 @@ Casper (FIN) is a house and techno artist tracked on soundcheck, with 8 sets log
 
 ## Recently played
 
+- Triangle, Osaka — Tue, 22 Sept 2026
 - De Studio, Antwerp — Fri, 11 Sept 2026
 - UMI, Brussels — Sat, 13 Jun 2026
 - Elsewhere, Bangkok — Fri, 23 Jan 2026
@@ -24,4 +25,4 @@ Casper (FIN) is a house and techno artist tracked on soundcheck, with 8 sets log
 
 Liem, Adi, April
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casper-fin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casper-fin/)*

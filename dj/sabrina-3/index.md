@@ -1,6 +1,6 @@
 # SABRINA (3)
 
-SABRINA (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sunday Sunday, Mexico City on Sat, 26 Sept 2026.
+SABRINA (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sunday Sunday, Mexico City on Sat, 26 Sept 2026.
 
 SABRINA (3) is a house and techno artist based in Mexico, tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Losangeles and Mexicocity and 1 more. Often billed alongside Iñigo Vontier, ATMEN and Aida Blanco. Next up: Sunday Sunday, Mexicocity on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ SABRINA (3) is a house and techno artist based in Mexico, tracked on soundcheck,
 
 Iñigo Vontier, ATMEN, Aida Blanco
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina-3/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina-3/)*

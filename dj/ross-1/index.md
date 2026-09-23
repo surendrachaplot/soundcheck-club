@@ -1,6 +1,6 @@
 # Ross (1)
 
-Ross (1) is a Deep House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bridge 48, Barcelona on Thu, 1 Oct 2026.
+Ross (1) is a Deep House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bridge 48, Barcelona on Thu, 1 Oct 2026.
 
 Ross (1) is a deep house and bass artist tracked on soundcheck, with 5 sets logged across Barcelona, Lyon and Mexicocity. Often billed alongside Elwei, 1Night Only and Adriana Roma. Next up: Bridge 48, Barcelona on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ Ross (1) is a deep house and bass artist tracked on soundcheck, with 5 sets logg
 
 Elwei, 1Night Only, Adriana Roma
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ross-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ross-1/)*

@@ -1,6 +1,6 @@
 # Jėck
 
-Jėck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
+Jėck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
 
 Jėck is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Redax, KICK (DET) and Tormented. Next up: Lincoln Factory, Detroit on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Jėck is a techno and house artist based in United States of America, tracked on
 
 Redax, KICK (DET), Tormented
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeck/)*

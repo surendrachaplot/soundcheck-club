@@ -1,6 +1,6 @@
 # SUZé
 
-SUZé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Docks, Hamburg on Sat, 7 Nov 2026.
+SUZé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Docks, Hamburg on Sat, 7 Nov 2026.
 
 SUZé is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Frankfurt and Geneva and 2 more. Often billed alongside Miyagi, MikAH and Dirty Doering. Next up: Docks, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SUZé is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Miyagi, MikAH, Dirty Doering
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suze/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suze/)*

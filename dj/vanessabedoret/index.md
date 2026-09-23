@@ -1,6 +1,6 @@
 # Vanessa Bedoret
 
-Vanessa Bedoret is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The White Hotel, Manchester on Thu, 8 Oct 2026.
+Vanessa Bedoret is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The White Hotel, Manchester on Thu, 8 Oct 2026.
 
 Vanessa Bedoret is an experimental and ambient artist tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Brussels and Dublin and 5 more. Often billed alongside Ekaterina Bazhenova-Yamasaki, Alex Zhang Hungtai and Autumns. Next up: The White Hotel, Manchester on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Vanessa Bedoret is an experimental and ambient artist tracked on soundcheck, wit
 
 Ekaterina Bazhenova-Yamasaki, Alex Zhang Hungtai, Autumns
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessabedoret/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessabedoret/)*

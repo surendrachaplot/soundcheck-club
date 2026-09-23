@@ -4,6 +4,16 @@
   <meta charset="utf-8" />
   <title>The Vigils at The Redwood Bar And Grill · 21 Oct 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,11 +45,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.990853bcb2f9.css">
+  <link rel="stylesheet" href="/app.3562779acd62.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
+<meta name="sc-build" content="1790131609963">
 <meta name="description" content="The Vigils at The Redwood Bar And Grill on Wed 21 Oct, Losangeles. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2530659-the-vigils-at-the-redwood-bar-and-grill/">
 <meta property="og:type" content="website">
@@ -50,7 +60,7 @@
 <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&amp;t=The%20Vigils&amp;s=The%20Vigils%20at%20The%20Redwood%20Bar%20And%20Grill%20on%20Wed%2021%20Oct%2C%20Losangeles.">
 <meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=2&amp;t=The%20Vigils&amp;s=The%20Vigils%20at%20The%20Redwood%20Bar%20And%20Grill%20on%20Wed%2021%20Oct%2C%20Losangeles.">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"The Vigils","url":"https://soundcheck.club/e/2530659-the-vigils-at-the-redwood-bar-and-grill/","description":"The Vigils at The Redwood Bar And Grill on Wed 21 Oct, Losangeles. Preview the line-up and save it on soundcheck.","startDate":"2026-10-21T20:00:00-07:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"The Redwood Bar And Grill","address":{"@type":"PostalAddress","streetAddress":"316 W. 2nd Street, Los Angeles, CA  90012","addressLocality":"Los Angeles","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":34.052648,"longitude":-118.247418},"url":"https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/"},"organizer":[{"@type":"Organization","name":"The Redwood Bar"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2530659-the-vigils-at-the-redwood-bar-and-grill/","price":"10","priceCurrency":"USD","availability":"https://schema.org/InStock","validFrom":"2026-09-22"}}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"The Vigils","url":"https://soundcheck.club/e/2530659-the-vigils-at-the-redwood-bar-and-grill/","description":"The Vigils at The Redwood Bar And Grill on Wed 21 Oct, Losangeles. Preview the line-up and save it on soundcheck.","startDate":"2026-10-21T20:00:00-07:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"The Redwood Bar And Grill","address":{"@type":"PostalAddress","streetAddress":"316 W. 2nd Street, Los Angeles, CA  90012","addressLocality":"Los Angeles","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":34.052648,"longitude":-118.247418},"url":"https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/"},"organizer":[{"@type":"Organization","name":"The Redwood Bar"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2530659-the-vigils-at-the-redwood-bar-and-grill/","price":"10","priceCurrency":"USD","availability":"https://schema.org/InStock","validFrom":"2026-09-23"}}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Los Angeles","item":"https://soundcheck.club/losangeles/"},{"@type":"ListItem","position":3,"name":"The Vigils"}]}</script>
 </head>
 <body>
@@ -228,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.990853bcb2f9.js" defer></script>
+  <script src="/app.3562779acd62.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

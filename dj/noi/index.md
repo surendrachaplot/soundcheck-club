@@ -1,6 +1,6 @@
 # Noi
 
-Noi is a Drum & Bass and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
+Noi is a Drum & Bass and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
 
 Noi is a drum & bass and vaporwave artist tracked on soundcheck, with 6 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Uman Therma, DJ yesyes and HALU(Tribal Connection). Next up: Triangle, Osaka on Sun 11 Oct.
 
@@ -22,4 +22,4 @@ Noi is a drum & bass and vaporwave artist tracked on soundcheck, with 6 sets log
 
 Uman Therma, DJ yesyes, HALU(Tribal Connection)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noi/)*

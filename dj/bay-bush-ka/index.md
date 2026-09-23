@@ -1,6 +1,6 @@
 # BAY-BUSH-KA
 
-BAY-BUSH-KA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+BAY-BUSH-KA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Leeds and London and 2 more. Often billed alongside Will Druid, Elianne and ChaRita. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 42 sets log
 
 Will Druid, Elianne, ChaRita
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*

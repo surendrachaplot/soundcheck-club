@@ -1,6 +1,6 @@
 # LAR (UK)
 
-LAR (UK) is a Breakbeat and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 21 Nov 2026.
+LAR (UK) is a Breakbeat and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 21 Nov 2026.
 
 LAR (UK) is a breakbeat and progressive house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Amsterdam, Prague and Stockholm. Often billed alongside Klur, MXV (UK) and Slow Ted. Next up: Blique by Nobis Rooftop, Stockholm on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ LAR (UK) is a breakbeat and progressive house artist based in United Kingdom, tr
 
 Klur, MXV (UK), Slow Ted
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laruk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laruk/)*

@@ -1,6 +1,6 @@
 # Waqar
 
-Waqar is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
+Waqar is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
 
 Waqar is a house and electronica artist based in Denmark, tracked on soundcheck, with 18 sets logged across Copenhagen. Often billed alongside Kawun, Prom Night and Benster. Next up: Klub Werkstatt, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Waqar is a house and electronica artist based in Denmark, tracked on soundcheck,
 
 Kawun, Prom Night, Benster
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waqar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waqar/)*

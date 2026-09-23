@@ -1,6 +1,6 @@
 # Denso
 
-Denso is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
+Denso is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
 Denso is an electronica and techno artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Madrid. Often billed alongside Valleyk, MSKS and Modesto. Next up: Cadavra, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Denso is an electronica and techno artist based in Spain, tracked on soundcheck,
 
 Valleyk, MSKS, Modesto
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denso/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denso/)*

@@ -1,6 +1,6 @@
 # berta (ES)
 
-berta (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Fri, 16 Oct 2026.
+berta (ES) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Fri, 16 Oct 2026.
 
 berta (ES) is a techno and electronica artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside FUKCNORMAL, Baldman and Maya B. Next up: Cadavra, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ berta (ES) is a techno and electronica artist based in Spain, tracked on soundch
 
 FUKCNORMAL, Baldman, Maya B
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*

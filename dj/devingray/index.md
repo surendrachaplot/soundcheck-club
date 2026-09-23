@@ -1,6 +1,6 @@
 # Devin Gray
 
-Devin Gray is a Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Madame Claude, Berlin on Mon, 12 Oct 2026.
+Devin Gray is a Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Madame Claude, Berlin on Mon, 12 Oct 2026.
 
 Devin Gray is an experimental artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Orson Hentschel and ZHED. Next up: Madame Claude, Berlin on Mon 12 Oct.
 
@@ -19,4 +19,4 @@ Devin Gray is an experimental artist tracked on soundcheck, with 3 sets logged a
 
 Orson Hentschel, ZHED
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devingray/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devingray/)*

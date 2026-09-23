@@ -1,6 +1,6 @@
 # Renton
 
-Renton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bar Oriente, Mexico City on Wed, 23 Sept 2026.
+Renton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar Oriente, Mexico City on Wed, 23 Sept 2026.
 
 Renton is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Bristol, Melbourne and Mexicocity. Often billed alongside AARON, BigFish and Deenia. Next up: Bar Oriente, Mexicocity on Wed 23 Sept.
 
@@ -24,4 +24,4 @@ Renton is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 AARON, BigFish, Deenia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renton/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renton/)*

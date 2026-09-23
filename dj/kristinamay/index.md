@@ -1,6 +1,6 @@
 # Kristina May
 
-Kristina May is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
+Kristina May is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Avalon Cafe Bermondsey, London on Sat, 24 Oct 2026.
 
 Kristina May is a techno and electro artist based in Moldova, tracked on soundcheck, with 19 sets logged across Hamburg and London. Often billed alongside Alien Communications, CRL (1) and 50PHIE. Next up: Avalon Cafe Bermondsey, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Kristina May is a techno and electro artist based in Moldova, tracked on soundch
 
 Alien Communications, CRL (1), 50PHIE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*

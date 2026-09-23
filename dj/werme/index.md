@@ -1,6 +1,6 @@
 # WERME
 
-WERME is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Jeanie Johnston Pub, Boston on Fri, 2 Oct 2026.
+WERME is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Jeanie Johnston Pub, Boston on Fri, 2 Oct 2026.
 
 WERME is a house and deep house artist tracked on soundcheck, with 17 sets logged across Boston and Miami. Often billed alongside Devon James, Alex Cecil and Will OB. Next up: The Jeanie Johnston Pub, Boston on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ WERME is a house and deep house artist tracked on soundcheck, with 17 sets logge
 
 Devon James, Alex Cecil, Will OB
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/werme/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/werme/)*

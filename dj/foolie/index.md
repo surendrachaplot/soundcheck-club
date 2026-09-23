@@ -1,6 +1,6 @@
 # FOOLiE
 
-FOOLiE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SVN West, San Francisco/Oakland on Sat, 3 Oct 2026.
+FOOLiE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SVN West, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 FOOLiE is a tech house and house artist tracked on soundcheck, with 12 sets logged across Losangeles, Miami, Newyorkcity and Sanfrancisco. Often billed alongside Walker & Royce, An Dres and Ardalan. Next up: SVN West, Sanfrancisco on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ FOOLiE is a tech house and house artist tracked on soundcheck, with 12 sets logg
 
 Walker & Royce, An Dres, Ardalan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foolie/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foolie/)*

@@ -1,6 +1,6 @@
 # Union Market
 
-Union Market is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Nü Androids x Union Market Block Party feat. Marc Rebillet" on Sat, 3 Oct 2026.
+Union Market is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Nü Androids x Union Market Block Party feat. Marc Rebillet" on Sat, 3 Oct 2026.
 
 Union Market is a music venue in Washingtondc listed on soundcheck. 1 upcoming gig, with line-ups including Marc Rebillet. Browse upcoming dates, start times and who's playing. 1309 5th St NE, Washington, DC 20002.
 
@@ -14,4 +14,4 @@ Union Market is a music venue in Washingtondc listed on soundcheck. 1 upcoming g
 
 1309 5th St NE, Washington, DC 20002, Washington DC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-market/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-market/)*

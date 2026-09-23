@@ -1,6 +1,6 @@
 # cadeu
 
-cadeu is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ikii, Berlin on Fri, 23 Oct 2026.
+cadeu is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ikii, Berlin on Fri, 23 Oct 2026.
 
 cadeu is an experimental and electro artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Alejandro Mosso, Eigenform and Mad Dim. Next up: Ikii, Berlin on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ cadeu is an experimental and electro artist tracked on soundcheck, with 5 sets l
 
 Alejandro Mosso, Eigenform, Mad Dim
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeu/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cadeu/)*

@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "TEKNOTEKA" on Wed, 23 Sept 2026.
+Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TEKNOTEKA" on Wed, 23 Sept 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Giuseppe Rizza, Huebl, Jules and Kristy Plam and 2 more. Browse upcoming dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -18,4 +18,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

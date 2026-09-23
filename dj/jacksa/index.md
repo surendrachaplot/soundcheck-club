@@ -1,6 +1,6 @@
 # Jacksa
 
-Jacksa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gut Level, Sheffield on Fri, 16 Oct 2026.
+Jacksa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gut Level, Sheffield on Fri, 16 Oct 2026.
 
 Jacksa is a techno and bass artist tracked on soundcheck, with 16 sets logged across Sheffield. Often billed alongside FM Arlo, Erst and Chris Jackson. Next up: Gut Level, Sheffield on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jacksa is a techno and bass artist tracked on soundcheck, with 16 sets logged ac
 
 FM Arlo, Erst, Chris Jackson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksa/)*

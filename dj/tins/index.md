@@ -1,6 +1,6 @@
 # TINS
 
-TINS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
+TINS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
 TINS is a house and techno artist based in Netherlands, tracked on soundcheck, with 94 sets logged across Amsterdam, Geneva, Milan and Munich and 5 more. Often billed alongside Trippy Tins, Boris Coelman and BELLA (NL). Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ TINS is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Trippy Tins, Boris Coelman, BELLA (NL)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tins/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tins/)*

@@ -1,6 +1,6 @@
 # ADMN
 
-ADMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Phoenix Landing, Boston on Wed, 23 Sept 2026.
+ADMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Phoenix Landing, Boston on Wed, 23 Sept 2026.
 
 ADMN is a techno and house artist tracked on soundcheck, with 35 sets logged across Boston, Detroit and Sanfrancisco. Often billed alongside Ashton Swinton, Mister Joshooa and Jorissen. Next up: Phoenix Landing, Boston on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ ADMN is a techno and house artist tracked on soundcheck, with 35 sets logged acr
 
 Ashton Swinton, Mister Joshooa, Jorissen
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ADMN/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ADMN/)*

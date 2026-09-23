@@ -1,6 +1,6 @@
 # BUTZ
 
-BUTZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+BUTZ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, London and Paris. Often billed alongside Moritz Biebl, Dj handbag and ENNIO. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ BUTZ is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Moritz Biebl, Dj handbag, ENNIO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butz/)*

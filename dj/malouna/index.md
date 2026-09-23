@@ -1,6 +1,6 @@
 # Malouna
 
-Malouna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Malouna is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
 
 Malouna is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Markus Klee, Prismode and Solvane. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Malouna is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Markus Klee, Prismode, Solvane
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malouna/)*

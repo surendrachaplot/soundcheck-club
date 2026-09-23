@@ -1,6 +1,6 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+Ouissam is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
 Ouissam is a house and techno artist tracked on soundcheck, with 62 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Ouissam is a house and techno artist tracked on soundcheck, with 62 sets logged 
 
 Emel, Di Linh, Saint Guel
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

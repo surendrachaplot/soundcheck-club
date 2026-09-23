@@ -1,6 +1,6 @@
 # Thee-O
 
-Thee-O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
+Thee-O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
 
 Thee-O is a house and techno artist tracked on soundcheck, with 22 sets logged across Losangeles and Sandiego. Often billed alongside Bret Wallace, Donald Glaude and Fester. Next up: TBA - Ventura , Losangeles on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Thee-O is a house and techno artist tracked on soundcheck, with 22 sets logged a
 
 Bret Wallace, Donald Glaude, Fester
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*

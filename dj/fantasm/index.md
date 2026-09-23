@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at IFEMA, Madrid on Fri, 25 Sept 2026.
+Fantasm is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at IFEMA, Madrid on Fri, 25 Sept 2026.
 
 Fantasm is a techno and hardcore artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: IFEMA, Madrid on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 79 sets logg
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

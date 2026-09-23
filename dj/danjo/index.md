@@ -1,6 +1,6 @@
 # Danjo
 
-Danjo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
+Danjo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
 Danjo is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 2 more. Often billed alongside Verena, Mollono.Bass and Katzengold. Next up: Triangle, Osaka on Tue 22 Sept.
 
@@ -13,6 +13,7 @@ Danjo is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 
 ## Recently played
 
+- Triangle, Osaka — Tue, 22 Sept 2026
 - Hangaren, Copenhagen — Wed, 3 Jun 2026
 - Ritter Butzke, Berlin — Sat, 31 Jan 2026
 - Südpol, Hamburg — Fri, 12 Dec 2025
@@ -20,10 +21,9 @@ Danjo is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 - Klunkerkranich, Berlin — Fri, 5 Sept 2025
 - TBA - Kulturbunker, Stuttgart — Sat, 31 May 2025
 - Kulturkosmos Müritz e.V., Berlin — Sat, 7 Dec 2024
-- Ritter Butzke, Berlin — Sat, 19 Oct 2024
 
 ## Shares bills with
 
 Verena, Mollono.Bass, Katzengold
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjo/)*

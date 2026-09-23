@@ -1,6 +1,6 @@
 # AETLL
 
-AETLL is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - ROOM 526, Singapore on Sat, 26 Sept 2026.
+AETLL is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - ROOM 526, Singapore on Sat, 26 Sept 2026.
 
 AETLL is a techno and experimental artist tracked on soundcheck, with 5 sets logged across Singapore. Often billed alongside Matty Judah, New Masculine and A/K/A Sounds. Next up: TBA - ROOM 526, Singapore on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ AETLL is a techno and experimental artist tracked on soundcheck, with 5 sets log
 
 Matty Judah, New Masculine, A/K/A Sounds
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aetll/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aetll/)*

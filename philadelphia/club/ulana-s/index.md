@@ -1,6 +1,6 @@
 # Ulana's
 
-Ulana's is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Melt You Down with Zillas on Acid & keekee" on Fri, 9 Oct 2026.
+Ulana's is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Melt You Down with Zillas on Acid & keekee" on Fri, 9 Oct 2026.
 
 Ulana's is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Alien Body, Blueverbs, Caiya and DJ Strawberry and 2 more. Browse upcoming dates, start times and who's playing. 205 Bainbridge St; Philadelphia, PA 19147; United States.
 
@@ -15,4 +15,4 @@ Ulana's is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, 
 
 205 Bainbridge St; Philadelphia, PA 19147; United States, Philadelphia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ulana-s/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/ulana-s/)*

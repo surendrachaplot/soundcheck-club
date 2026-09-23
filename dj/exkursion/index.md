@@ -1,6 +1,6 @@
 # Exkursion
 
-Exkursion is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Super5, Lyon on Fri, 25 Sept 2026.
+Exkursion is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Super5, Lyon on Fri, 25 Sept 2026.
 
 Exkursion is a garage and house artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Lyon and Zurich. Often billed alongside Sanctus Libido, Das Firmament and Bonnie OK. Next up: Super5, Lyon on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Exkursion is a garage and house artist based in Switzerland, tracked on soundche
 
 Sanctus Libido, Das Firmament, Bonnie OK
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exkursion/)*

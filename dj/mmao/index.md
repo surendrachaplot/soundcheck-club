@@ -1,6 +1,6 @@
 # MMAO
 
-MMAO is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Thelema, Tbilisi on Sat, 26 Sept 2026.
+MMAO is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Thelema, Tbilisi on Sat, 26 Sept 2026.
 
 MMAO is an electro and house artist tracked on soundcheck, with 5 sets logged across Berlin and Tbilisi. Often billed alongside IKKS, BLACKOUT (2) and Meyra. Next up: Thelema, Tbilisi on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ MMAO is an electro and house artist tracked on soundcheck, with 5 sets logged ac
 
 IKKS, BLACKOUT (2), Meyra
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mmao/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mmao/)*

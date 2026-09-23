@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
 Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside JADALAREIGN, The AM/AMX and Ben UFO. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 126 sets log
 
 JADALAREIGN, The AM/AMX, Ben UFO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

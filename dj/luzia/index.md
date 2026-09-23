@@ -1,6 +1,6 @@
 # LUZIA
 
-LUZIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Silbergold, Frankfurt on Fri, 25 Sept 2026.
+LUZIA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Silbergold, Frankfurt on Fri, 25 Sept 2026.
 
 LUZIA is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Lianka, OSKAMAXX and Jaycut. Next up: Silbergold, Frankfurt on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ LUZIA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Lianka, OSKAMAXX, Jaycut
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzia/)*

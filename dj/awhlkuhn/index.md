@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 25 Sept 2026.
+awhlkuhn is a Dancehall and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 25 Sept 2026.
 
 awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, London and Newyorkcity and 2 more. Often billed alongside amara, Jarreau Vandal and Shinshan Salazar. Next up: The Grey Space In The Middle, Thehague on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundch
 
 amara, Jarreau Vandal, Shinshan Salazar
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

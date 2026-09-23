@@ -1,8 +1,8 @@
 # Notwelcome
 
-Notwelcome is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Teritorija, Riga on Fri, 9 Oct 2026.
+Notwelcome is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Teritorija, Riga on Fri, 9 Oct 2026.
 
-Notwelcome is a house and techno artist tracked on soundcheck, with 46 sets logged across Riga. Often billed alongside ARRISHA, Kelvin and Aniri Chan. Next up: Teritorija, Riga on Fri 9 Oct.
+Notwelcome is a house and techno artist tracked on soundcheck, with 47 sets logged across Riga. Often billed alongside ARRISHA, Kelvin and Aniri Chan. Next up: Teritorija, Riga on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Notwelcome is a house and techno artist tracked on soundcheck, with 46 sets logg
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Teritorija | Riga |
 | Fri, 16 Oct 2026 | Teritorija | Riga |
+| Fri, 13 Nov 2026 | TBA - Kroņu iela 23B, Riga, Latvia. | Riga |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Notwelcome is a house and techno artist tracked on soundcheck, with 46 sets logg
 
 ARRISHA, Kelvin, Aniri Chan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notwelcome/)*

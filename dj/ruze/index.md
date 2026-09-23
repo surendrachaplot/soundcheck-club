@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
 
 RUZE is a house and tech house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: World Headquarters, Newcastle on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ RUZE is a house and tech house artist tracked on soundcheck, with 123 sets logge
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

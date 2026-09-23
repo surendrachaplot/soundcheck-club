@@ -1,6 +1,6 @@
 # Kaito
 
-Kaito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Socore Factory, Osaka on Fri, 30 Oct 2026.
+Kaito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Socore Factory, Osaka on Fri, 30 Oct 2026.
 
 Kaito is a techno and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Detroit, Hongkong, Kyoto and Melbourne and 4 more. Often billed alongside DALJAE, CHIKA and DICE. Next up: Socore Factory, Osaka on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kaito is a techno and house artist based in Japan, tracked on soundcheck, with 5
 
 DALJAE, CHIKA, DICE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*

@@ -1,6 +1,6 @@
 # Kylie Minogue
 
-Kylie Minogue is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Oxford Hotel, Sydney on Sat, 3 Oct 2026.
+Kylie Minogue is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Oxford Hotel, Sydney on Sat, 3 Oct 2026.
 
 Kylie Minogue is a pop and disco artist tracked on soundcheck, with 4 sets logged across Losangeles, Melbourne and Sydney. Often billed alongside Madonna. Next up: The Oxford Hotel, Sydney on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Kylie Minogue is a pop and disco artist tracked on soundcheck, with 4 sets logge
 
 Madonna
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylieminogue/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylieminogue/)*

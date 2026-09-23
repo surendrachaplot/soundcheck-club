@@ -1,6 +1,6 @@
 # Tyra
 
-Tyra is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
+Tyra is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
 
 Tyra is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged across Munich. Often billed alongside Polaster, Cosimoto and Kamikatze. Next up: Unter Deck, Munich on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Tyra is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged
 
 Polaster, Cosimoto, Kamikatze
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyra/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyra/)*

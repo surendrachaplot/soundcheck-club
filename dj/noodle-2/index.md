@@ -1,6 +1,6 @@
 # noodle
 
-noodle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 25 Sept 2026.
+noodle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sneaky Pete's, Edinburgh on Fri, 25 Sept 2026.
 
 noodle is a house and techno artist tracked on soundcheck, with 62 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 2 more. Often billed alongside Iris Pertegaz, Domenic Cappello and Telfort. Next up: Sneaky Pete's, Edinburgh on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ noodle is a house and techno artist tracked on soundcheck, with 62 sets logged a
 
 Iris Pertegaz, Domenic Cappello, Telfort
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noodle-2/)*

@@ -1,6 +1,6 @@
 # Darco
 
-Darco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
+Darco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
 
 Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with 9 sets logged across Chicago, Ibiza, Losangeles and Mexicocity and 3 more. Often billed alongside BLOND:ISH, SIEGEL (2) and Yamagucci. Next up: La Clairière, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Darco is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 BLOND:ISH, SIEGEL (2), Yamagucci
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darco/)*

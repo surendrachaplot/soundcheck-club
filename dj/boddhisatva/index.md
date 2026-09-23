@@ -1,6 +1,6 @@
 # Boddhi Satva
 
-Boddhi Satva is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Djoon, Paris on Sat, 26 Sept 2026.
+Boddhi Satva is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Djoon, Paris on Sat, 26 Sept 2026.
 
 Boddhi Satva is an afro house and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Lisbon, London and Mexicocity and 3 more. Often billed alongside Manoo, Mr Silk and DJ IC. Next up: Djoon, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Boddhi Satva is an afro house and house artist tracked on soundcheck, with 26 se
 
 Manoo, Mr Silk, DJ IC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boddhisatva/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boddhisatva/)*

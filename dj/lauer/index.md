@@ -1,6 +1,6 @@
 # Lauer
 
-Lauer is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
+Lauer is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
 
 Lauer is a house and italo disco artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Sam Goku, Rosa Red and Sara Miller. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lauer is a house and italo disco artist tracked on soundcheck, with 79 sets logg
 
 Sam Goku, Rosa Red, Sara Miller
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauer/)*

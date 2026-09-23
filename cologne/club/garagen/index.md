@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "TECHNOLIEBE A.M. VOL. 47 w\ YELIZ" on Wed, 23 Sept 2026.
+Garagen is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TECHNOLIEBE A.M. VOL. 47 w\ YELIZ" on Wed, 23 Sept 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including Belasto, Cufme, DJ Business (2) and DJ DURSTLÖSCHER and 2 more. Browse upcoming dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -19,4 +19,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

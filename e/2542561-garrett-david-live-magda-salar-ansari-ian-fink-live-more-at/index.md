@@ -1,10 +1,10 @@
 # Garrett David (live), Magda, Salar Ansari & Ian Fink (live), + more at Marble Bar
 
-Garrett David (live), Magda, Salar Ansari & Ian Fink (live), + more at Marble Bar on Sat 26 Sept, Detroit. 7 acts on the bill: Curmudgeon, Garrett David, Ian Finkelstein and John Johr and 3 more. Preview the line-up and save it on soundcheck.
+Garrett David (live), Magda, Salar Ansari & Ian Fink (live), + more at Marble Bar on Fri 25 Sept, Detroit. 7 acts on the bill: Curmudgeon, Garrett David, Ian Finkelstein and John Johr and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Fri, 25 Sept 2026 |
 | Venue | Marble Bar |
 | City | Detroit |
 

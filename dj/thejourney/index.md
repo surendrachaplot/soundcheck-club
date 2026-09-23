@@ -1,6 +1,6 @@
 # The Journey
 
-The Journey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+The Journey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 The Journey is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Auckland, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Mike Callander, Rachel May and Rem Siman. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ The Journey is a house and techno artist based in Australia, tracked on soundche
 
 Mike Callander, Rachel May, Rem Siman
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*

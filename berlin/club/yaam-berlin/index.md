@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Jungle Sunset Session III" on Sat, 26 Sept 2026.
+YAAM Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Jungle Sunset Session III" on Sat, 26 Sept 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including alllone, Boogie Dan, DJ Chromz and Dj Quien and 2 more. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -17,4 +17,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wi
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

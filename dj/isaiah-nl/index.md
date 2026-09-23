@@ -1,6 +1,6 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
+Isaiah (NL) is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Oma Doris, Dortmund-essen on Sat, 10 Oct 2026.
 
 Isaiah (NL) is a techno and club artist tracked on soundcheck, with 103 sets logged across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: Oma Doris, Dortmund-essen on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Isaiah (NL) is a techno and club artist tracked on soundcheck, with 103 sets log
 
 Beau Didier, Flits, Lasse
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

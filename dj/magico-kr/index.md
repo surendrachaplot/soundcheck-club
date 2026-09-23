@@ -1,6 +1,6 @@
 # Magico.
 
-Magico. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Modeci, Seoul on Wed, 23 Sept 2026.
+Magico. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Modeci, Seoul on Wed, 23 Sept 2026.
 
 Magico. is a techno and house artist based in South Korea, tracked on soundcheck, with 45 sets logged across Bali, Barcelona, Berlin and Frankfurt and 11 more. Often billed alongside Minkyu, .2ndfloor and Antwork. Next up: Modeci, Seoul on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Magico. is a techno and house artist based in South Korea, tracked on soundcheck
 
 Minkyu, .2ndfloor, Antwork
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*

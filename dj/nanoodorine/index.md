@@ -1,6 +1,6 @@
 # nano odorine
 
-nano odorine is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at clubasia, Tokyo on Thu, 24 Sept 2026.
+nano odorine is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at clubasia, Tokyo on Thu, 24 Sept 2026.
 
 nano odorine is an electronica and techno artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside AMIDAdrive, COLA REN and HIMAWARI. Next up: clubasia, Tokyo on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ nano odorine is an electronica and techno artist based in Japan, tracked on soun
 
 AMIDAdrive, COLA REN, HIMAWARI
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoodorine/)*

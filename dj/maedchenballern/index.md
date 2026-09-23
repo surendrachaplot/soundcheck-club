@@ -1,6 +1,6 @@
 # maedchenballern
 
-maedchenballern is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Insomnia, Berlin on Sat, 17 Oct 2026.
+maedchenballern is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Insomnia, Berlin on Sat, 17 Oct 2026.
 
 maedchenballern is a trance and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside Erebos, Hocki and MARRE. Next up: Insomnia, Berlin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ maedchenballern is a trance and techno artist tracked on soundcheck, with 20 set
 
 Erebos, Hocki, MARRE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maedchenballern/)*

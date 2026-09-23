@@ -1,6 +1,6 @@
 # Dangel Twins
 
-Dangel Twins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
+Dangel Twins is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
 
 Dangel Twins is a house and tech house artist tracked on soundcheck, with 5 sets logged across Zurich. Often billed alongside ARWIN AZIZ, :DARREN and ACID FLORA. Next up: Warehouse ZRH, Zurich on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Dangel Twins is a house and tech house artist tracked on soundcheck, with 5 sets
 
 ARWIN AZIZ, :DARREN, ACID FLORA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangeltwins/)*

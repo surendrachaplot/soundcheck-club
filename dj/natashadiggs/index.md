@@ -1,8 +1,8 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
+Natasha Diggs is a House and Funk / Soul artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
 
-Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 122 sets logged across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: The Chocolate Factory, Newyorkcity on Fri 25 Sept.
+Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 123 sets logged across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: The Chocolate Factory, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 122 
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | TBA | New York City |
 | Fri, 9 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
 | Fri, 23 Oct 2026 | The Chocolate Factory | New York City |
 | Fri, 6 Nov 2026 | TBA | New York City |
 | Wed, 25 Nov 2026 | The Chocolate Factory | New York City |
@@ -33,4 +34,4 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 122 
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

@@ -1,6 +1,6 @@
 # PAULITTAHH
 
-PAULITTAHH is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at EL SÓTANO, Madrid on Sat, 10 Oct 2026.
+PAULITTAHH is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at EL SÓTANO, Madrid on Sat, 10 Oct 2026.
 
 PAULITTAHH is a techno artist based in Argentina, tracked on soundcheck, with 16 sets logged across Madrid. Often billed alongside MILA DUCH, Linda Lenor and CARMESEGUER. Next up: EL SÓTANO, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ PAULITTAHH is a techno artist based in Argentina, tracked on soundcheck, with 16
 
 MILA DUCH, Linda Lenor, CARMESEGUER
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulittahh/)*

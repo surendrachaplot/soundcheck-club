@@ -1,6 +1,6 @@
 # MelFerdi
 
-MelFerdi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 2 Oct 2026.
+MelFerdi is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 2 Oct 2026.
 
 MelFerdi is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Rotterdam. Often billed alongside All Dave, Baliology and Chess. Next up: Veronica Schip, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MelFerdi is a techno and tech house artist based in Netherlands, tracked on soun
 
 All Dave, Baliology, Chess
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*

@@ -1,6 +1,6 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sub Club presents: Amotik" on Fri, 25 Sept 2026.
+Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sub Club presents: Amotik" on Fri, 25 Sept 2026.
 
 Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Amotik, Black Dave, Craig McWhinney and DJ ALI (AU) and 2 more. Browse upcoming dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
@@ -19,4 +19,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

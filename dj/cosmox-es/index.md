@@ -1,6 +1,6 @@
 # Cosmo X
 
-Cosmo X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - secret location, Barcelona on Fri, 25 Sept 2026.
+Cosmo X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - secret location, Barcelona on Fri, 25 Sept 2026.
 
 Cosmo X is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Antwerp and Barcelona. Often billed alongside Elwei, Mila Morr and Jesooria. Next up: TBA - secret location, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Cosmo X is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Elwei, Mila Morr, Jesooria
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*

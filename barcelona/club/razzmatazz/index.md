@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE" on Fri, 25 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE" on Fri, 25 Sept 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -21,4 +21,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

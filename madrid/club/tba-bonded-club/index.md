@@ -1,6 +1,6 @@
 # TBA - Bonded Club
 
-TBA - Bonded Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "TECHROOM AT BONDED CLUB W/ JC - TABU VIVAR - ALBERTO FANDOS (FREE UNTIL 01:00)" on Sat, 26 Sept 2026.
+TBA - Bonded Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "TECHROOM AT BONDED CLUB W/ JC - TABU VIVAR - ALBERTO FANDOS (FREE UNTIL 01:00)" on Sat, 26 Sept 2026.
 
 TBA - Bonded Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bonded Club is a music venue in Madrid listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TECHROOM AT BONDED CLUB W/ JC - TABU VIVAR - ALBERTO FANDOS (FREE UNTIL 01:00) |  |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-bonded-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-bonded-club/)*

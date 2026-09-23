@@ -1,6 +1,6 @@
 # Casimir von Oettingen
 
-Casimir von Oettingen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
+Casimir von Oettingen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 10 Oct 2026.
 
 Casimir von Oettingen is a house and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Detroit and Hamburg and 4 more. Often billed alongside Leon Licht, Electronic Elephant and Erhardt Schuster. Next up: Bahnwärter Thiel, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Casimir von Oettingen is a house and techno artist based in Germany, tracked on 
 
 Leon Licht, Electronic Elephant, Erhardt Schuster
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casimirvonoettingen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casimirvonoettingen/)*

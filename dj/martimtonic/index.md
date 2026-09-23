@@ -1,6 +1,6 @@
 # Martim Tonic
 
-Martim Tonic is a House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Rūmu, Lisbon on Wed, 23 Sept 2026.
+Martim Tonic is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rūmu, Lisbon on Wed, 23 Sept 2026.
 
 Martim Tonic is a house artist tracked on soundcheck, with 27 sets logged across Amsterdam and Lisbon. Often billed alongside Lou de Melo, MURI and C4STRO. Next up: Rūmu, Lisbon on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Martim Tonic is a house artist tracked on soundcheck, with 27 sets logged across
 
 Lou de Melo, MURI, C4STRO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*

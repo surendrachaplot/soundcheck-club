@@ -1,6 +1,6 @@
 # IZZIT
 
-IZZIT is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lakota, Bristol on Fri, 30 Oct 2026.
+IZZIT is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lakota, Bristol on Fri, 30 Oct 2026.
 
 IZZIT is a house and tech house artist tracked on soundcheck, with 45 sets logged across Bristol, Cardiff and London. Often billed alongside Lily Huu, Phia500 and DASHY. Next up: Lakota, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ IZZIT is a house and tech house artist tracked on soundcheck, with 45 sets logge
 
 Lily Huu, Phia500, DASHY
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*

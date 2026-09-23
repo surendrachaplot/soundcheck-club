@@ -1,6 +1,6 @@
 # Catarina Silva
 
-Catarina Silva is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Catarina Silva is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Catarina Silva is a techno and electronica artist based in Portugal, tracked on soundcheck, with 59 sets logged across Berlin, Lisbon, Porto and Washingtondc. Often billed alongside Amulador, Kokeshi and MARRØN. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Catarina Silva is a techno and electronica artist based in Portugal, tracked on 
 
 Amulador, Kokeshi, MARRØN
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*

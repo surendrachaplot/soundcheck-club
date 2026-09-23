@@ -1,6 +1,6 @@
 # Less
 
-Less is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Less is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Less is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin, Buenosaires and Hamburg. Often billed alongside Arca, Carlos Willengton and Cera Khin. Next up: Club Ciudad de Buenos Aires, Buenosaires on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Less is a techno and house artist tracked on soundcheck, with 3 sets logged acro
 
 Arca, Carlos Willengton, Cera Khin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*

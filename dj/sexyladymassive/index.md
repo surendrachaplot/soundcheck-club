@@ -1,14 +1,13 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 24 Kitchen Street, Liverpool on Tue, 22 Sept 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
-Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brighton and Bristol and 7 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: 24 Kitchen Street, Liverpool on Tue 22 Sept.
+Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brighton and Bristol and 7 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 25 Sept 2026 | The Jazz Cafe | London |
 | Sat, 26 Sept 2026 | Hidden | Manchester |
 | Sat, 3 Oct 2026 | World Headquarters | Newcastle |
@@ -17,6 +16,7 @@ Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 70 s
 
 ## Recently played
 
+- 24 Kitchen Street, Liverpool — Tue, 22 Sept 2026
 - Phonox, London — Fri, 7 Aug 2026
 - Night Tales Loft, London — Sat, 11 Jul 2026
 - The Cause, London — Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ Sexy Lady Massive is a jungle and garage artist tracked on soundcheck, with 70 s
 - Camp and Furnace, Liverpool — Sat, 30 May 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- TBA - KINGS CROSS, London — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

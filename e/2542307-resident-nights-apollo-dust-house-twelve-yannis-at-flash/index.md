@@ -1,10 +1,10 @@
 # Resident Nights: Apollo Dust - House Twelve - Yannis at Flash
 
-Resident Nights: Apollo Dust - House Twelve - Yannis at Flash on Fri 16 Oct, Washingtondc. 6 acts on the bill: Adyy Love, Apollo Dust, E-QUE and House Twelve and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Resident Nights: Apollo Dust - House Twelve - Yannis at Flash on Sat 17 Oct, Washingtondc. 7 acts on the bill: Adyy Love, Apollo Dust, BE EZY and E-QUE and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 16 Oct 2026 |
+| Date | Sat, 17 Oct 2026 |
 | Venue | Flash |
 | City | Washington DC |
 
@@ -12,6 +12,7 @@ Resident Nights: Apollo Dust - House Twelve - Yannis at Flash on Fri 16 Oct, Was
 
 - Adyy Love
 - Apollo Dust
+- BE EZY
 - E-QUE
 - House Twelve
 - MANNE

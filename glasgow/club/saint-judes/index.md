@@ -1,6 +1,6 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "CASADURA PRESENTS: CASA020 Saint X Judes" on Fri, 25 Sept 2026.
+Saint Judes is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CASADURA PRESENTS: CASA020 Saint X Judes" on Fri, 25 Sept 2026.
 
 Saint Judes is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Calder and DJ Zitkus. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
@@ -16,4 +16,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, w
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

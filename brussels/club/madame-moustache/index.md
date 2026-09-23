@@ -1,6 +1,6 @@
 # Madame Moustache
 
-Madame Moustache is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "BACK TO THE BEST HITS – BACK TO SCHOOL EDITION - BY PartyFinder" on Sat, 26 Sept 2026.
+Madame Moustache is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "BACK TO THE BEST HITS – BACK TO SCHOOL EDITION - BY PartyFinder" on Sat, 26 Sept 2026.
 
 Madame Moustache is a music venue in Brussels listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Quai au Bois à Brûler 5-7, 1000 Bruxelles.
 
@@ -14,4 +14,4 @@ Madame Moustache is a music venue in Brussels listed on soundcheck. 1 upcoming g
 
 Quai au Bois à Brûler 5-7, 1000 Bruxelles, Brussels
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*

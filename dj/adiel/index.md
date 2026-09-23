@@ -1,6 +1,6 @@
 # Adiel
 
-Adiel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Forte Antenne, Rome on Fri, 25 Sept 2026.
+Adiel is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Forte Antenne, Rome on Fri, 25 Sept 2026.
 
 Adiel is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Héctor Oaks, Nina Kraviz and Marcel Dettmann. Next up: Forte Antenne, Rome on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Adiel is a techno and house artist tracked on soundcheck, with 217 sets logged a
 
 Héctor Oaks, Nina Kraviz, Marcel Dettmann
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adiel/)*

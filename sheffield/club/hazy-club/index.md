@@ -1,6 +1,6 @@
 # Hazy Club
 
-Hazy Club is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DICED | 26-9 | Hazy" on Sat, 26 Sept 2026.
+Hazy Club is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DICED | 26-9 | Hazy" on Sat, 26 Sept 2026.
 
 Hazy Club is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Boss Priester, Captain Wallop, DJ Cosworth and Jhobei and 2 more. Browse upcoming dates, start times and who's playing. 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY.
 
@@ -16,4 +16,4 @@ Hazy Club is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, w
 
 28 Eyre St, Sheffield City Centre, Sheffield S1 4QY, Sheffield
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hazy-club/)*

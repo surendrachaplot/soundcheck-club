@@ -1,6 +1,6 @@
 # Felix Lücke
 
-Felix Lücke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
+Felix Lücke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 26 Sept 2026.
 
 Felix Lücke is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Klix (3), Monti1one and OLIV. Next up: Tokonoma Club, Frankfurt on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Felix Lücke is a house and techno artist based in Germany, tracked on soundchec
 
 Klix (3), Monti1one, OLIV
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixlucke/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixlucke/)*

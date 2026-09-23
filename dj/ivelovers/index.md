@@ -1,6 +1,6 @@
 # Ive Lovers
 
-Ive Lovers is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
+Ive Lovers is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
 
 Ive Lovers is a house and tech house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Michael Pieterse, Julian Wijn and DJANGO (NL). Next up: Planet Wax, London on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Ive Lovers is a house and tech house artist based in Netherlands, tracked on sou
 
 Michael Pieterse, Julian Wijn, DJANGO (NL)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*

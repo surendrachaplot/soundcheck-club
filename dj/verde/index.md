@@ -1,6 +1,6 @@
 # Verde
 
-Verde is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sekta Selekta, Krakow on Sat, 26 Sept 2026.
+Verde is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sekta Selekta, Krakow on Sat, 26 Sept 2026.
 
 Verde is a tech house and minimal artist tracked on soundcheck, with 30 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Salut 80, Viikatory and Badalian. Next up: Sekta Selekta, Krakow on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Verde is a tech house and minimal artist tracked on soundcheck, with 30 sets log
 
 Salut 80, Viikatory, Badalian
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*

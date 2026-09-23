@@ -1,6 +1,6 @@
 # Gilda Haus
 
-Gilda Haus is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "CHESSBIAN X FEMME FATALE" on Sun, 27 Sept 2026.
+Gilda Haus is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "CHESSBIAN X FEMME FATALE" on Sun, 27 Sept 2026.
 
 Gilda Haus is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including BLCKWA. Browse upcoming dates, start times and who's playing. C. de San Mateo, 6, Centro, 28004 Madrid.
 
@@ -14,4 +14,4 @@ Gilda Haus is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with
 
 C. de San Mateo, 6, Centro, 28004 Madrid, Madrid
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/gilda-haus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/gilda-haus/)*

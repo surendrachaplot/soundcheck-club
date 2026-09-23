@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK]  Caleb Jackson  PARTIGIRL" on Fri, 25 Sept 2026.
+Chinese Laundry is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK]  Caleb Jackson  PARTIGIRL" on Fri, 25 Sept 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including AMMARA, Amotik, bradeazy and Caleb Jackson and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming gigs
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

@@ -1,6 +1,6 @@
 # Ghosts Of Dance
 
-Ghosts Of Dance is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
+Ghosts Of Dance is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
 Ghosts Of Dance is a house and tech house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Project 2, Lucky Penny and 3 Minds. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ghosts Of Dance is a house and tech house artist tracked on soundcheck, with 9 s
 
 Project 2, Lucky Penny, 3 Minds
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostsofdance/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostsofdance/)*

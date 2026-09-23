@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Danger Danger, New York City on Fri, 25 Sept 2026.
+SMURFOUDIRTY is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Danger Danger, New York City on Fri, 25 Sept 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Newyorkcity. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Danger Danger, Newyorkcity on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, trac
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

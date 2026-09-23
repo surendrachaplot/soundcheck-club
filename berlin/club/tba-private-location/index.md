@@ -1,6 +1,6 @@
 # TBA - Private Location
 
-TBA - Private Location is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SOLUNE ft Lee Burridge" on Sun, 4 Oct 2026.
+TBA - Private Location is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SOLUNE ft Lee Burridge" on Sun, 4 Oct 2026.
 
 TBA - Private Location is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Angel Science, Bella Mode, Brendocha and Coffintexts and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Private Location is a music venue in Berlin listed on soundcheck. 7 upcomi
 | Sat, 14 Nov 2026 | DOLLY presents... Coffintexts (Tratratrax, omnidisc, Clasico) with Brendocha & 3C-MD | Brendocha, Coffintexts |
 | Fri, 11 Dec 2026 | DOLLY presents... Diodore b2b dj_2button with Xiumei & Matthew Situ (Live) | Angel Science, Xiumei, dj_2button |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-location/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-location/)*

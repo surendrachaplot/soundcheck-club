@@ -1,6 +1,6 @@
 # Korjaamo
 
-Korjaamo is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Aavistus Festival 2026" on Wed, 30 Sept 2026.
+Korjaamo is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Aavistus Festival 2026" on Wed, 30 Sept 2026.
 
 Korjaamo is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, with line-ups including Aleksi Myllykoski, DJ Aleksi, Fever Dream and Jonas Johansson and 2 more. Browse upcoming dates, start times and who's playing. Töölönkatu 51b, 00250 Helsinki, Finland.
 
@@ -14,4 +14,4 @@ Korjaamo is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, with
 
 Töölönkatu 51b, 00250 Helsinki, Finland, Helsinki
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/korjaamo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/korjaamo/)*

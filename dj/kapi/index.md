@@ -1,6 +1,6 @@
 # KAPI
 
-KAPI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+KAPI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
 KAPI is a techno and house artist tracked on soundcheck, with 5 sets logged across Barcelona, Madrid, Osaka and Tokyo. Often billed alongside SAITO, lostbaggage and APEPA. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ KAPI is a techno and house artist tracked on soundcheck, with 5 sets logged acro
 
 SAITO, lostbaggage, APEPA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapi/)*

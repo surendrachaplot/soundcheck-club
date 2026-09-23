@@ -1,6 +1,6 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Elias Sternin is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
 Elias Sternin is a techno and electro artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Rufo, Audri and Daura. Next up: FOLD, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Elias Sternin is a techno and electro artist tracked on soundcheck, with 22 sets
 
 Rufo, Audri, Daura
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

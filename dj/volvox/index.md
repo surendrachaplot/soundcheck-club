@@ -1,6 +1,6 @@
 # Volvox
 
-Volvox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
+Volvox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
 Volvox is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Ellen Allien, Boris and Elli Acula. Next up: RADION, Amsterdam on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Volvox is a techno and house artist tracked on soundcheck, with 152 sets logged 
 
 Ellen Allien, Boris, Elli Acula
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

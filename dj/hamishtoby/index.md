@@ -1,6 +1,6 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Moon Club, Bristol on Fri, 25 Sept 2026.
+Hamish & Toby is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Moon Club, Bristol on Fri, 25 Sept 2026.
 
 Hamish & Toby are a house and tech house duo tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Moon Club, Bristol on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Hamish & Toby are a house and tech house duo tracked on soundcheck, with 136 set
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

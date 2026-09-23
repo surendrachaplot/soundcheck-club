@@ -1,6 +1,6 @@
 # The Blackmailer
 
-The Blackmailer is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Spät, Berlin on Sat, 10 Oct 2026.
+The Blackmailer is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Spät, Berlin on Sat, 10 Oct 2026.
 
 The Blackmailer is a techno artist tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside Marc Moeller, ROJI and Basstronauten. Next up: TBA - Spät, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ The Blackmailer is a techno artist tracked on soundcheck, with 12 sets logged ac
 
 Marc Moeller, ROJI, Basstronauten
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*

@@ -1,22 +1,22 @@
 # Magda
 
-Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
+Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
-Magda is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Austin, Barcelona and Berlin and 48 more. Often billed alongside Mike Servito, Morgan and Mari.te. Next up: Green Room NYC, Newyorkcity on Sat 26 Sept.
+Magda is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Austin, Barcelona and Berlin and 48 more. Often billed alongside Mike Servito, Morgan and Mari.te. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Marble Bar | Detroit |
 | Sat, 26 Sept 2026 | Green Room NYC | New York City |
-| Sat, 26 Sept 2026 | Marble Bar | Detroit |
 | Fri, 2 Oct 2026 | Laak | The Hague |
 | Sat, 17 Oct 2026 | Kater | Berlin |
 | Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
-| Sat, 31 Oct 2026 | TBA | Liverpool |
+| Sat, 31 Oct 2026 | Invisible Wind Factory | Liverpool |
 
 ## Recently played
 
@@ -33,4 +33,4 @@ Magda is a techno and house artist tracked on soundcheck, with 165 sets logged a
 
 Mike Servito, Morgan, Mari.te
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

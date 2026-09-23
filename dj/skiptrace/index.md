@@ -1,6 +1,6 @@
 # Skiptrace
 
-Skiptrace is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Liquidate, Manchester on Fri, 30 Oct 2026.
+Skiptrace is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Liquidate, Manchester on Fri, 30 Oct 2026.
 
 Skiptrace is a funk / soul and house artist tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Acid Chess Club, Bobo and Hannah O'Gorman. Next up: Liquidate, Manchester on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Skiptrace is a funk / soul and house artist tracked on soundcheck, with 4 sets l
 
 Acid Chess Club, Bobo, Hannah O'Gorman
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skiptrace/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skiptrace/)*

@@ -1,6 +1,6 @@
 # lostbaggage
 
-lostbaggage is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
+lostbaggage is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 9 Oct 2026.
 
 lostbaggage is a house and techno artist tracked on soundcheck, with 161 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside YELLOWUHURU, arow and AKIRAM EN. Next up: MIDNIGHT EAST, Tokyo on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ lostbaggage is a house and techno artist tracked on soundcheck, with 161 sets lo
 
 YELLOWUHURU, arow, AKIRAM EN
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostbaggage/)*

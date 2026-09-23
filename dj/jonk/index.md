@@ -1,6 +1,6 @@
 # Jon K
 
-Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Wharf Chambers, Leeds on Fri, 9 Oct 2026.
+Jon K is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Wharf Chambers, Leeds on Fri, 9 Oct 2026.
 
 Jon K is a techno and bass artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Elle Andrews, Annabel Fraser and Conrad Pack. Next up: Wharf Chambers, Leeds on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Jon K is a techno and bass artist tracked on soundcheck, with 82 sets logged acr
 
 Elle Andrews, Annabel Fraser, Conrad Pack
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonk/)*

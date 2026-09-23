@@ -1,6 +1,6 @@
 # MAGA
 
-MAGA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
+MAGA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
 
 MAGA is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Sean Doron, Emanuel Satie and Tim Engelhardt. Next up: Lula Club, Madrid on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ MAGA is a house and techno artist tracked on soundcheck, with 86 sets logged acr
 
 Sean Doron, Emanuel Satie, Tim Engelhardt
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maga/)*

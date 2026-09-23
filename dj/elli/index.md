@@ -1,6 +1,6 @@
 # elli
 
-elli is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Shacklewell Arms, London on Wed, 23 Sept 2026.
+elli is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Shacklewell Arms, London on Wed, 23 Sept 2026.
 
 elli is an electronic artist tracked on soundcheck, with 4 sets logged across Hamburg, London and Oslo. Often billed alongside Acid Pablo, Aii PS and Finona Rider. Next up: The Shacklewell Arms, London on Wed 23 Sept.
 
@@ -20,4 +20,4 @@ elli is an electronic artist tracked on soundcheck, with 4 sets logged across Ha
 
 Acid Pablo, Aii PS, Finona Rider
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elli/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elli/)*

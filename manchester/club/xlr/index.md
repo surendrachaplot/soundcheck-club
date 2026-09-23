@@ -1,14 +1,13 @@
 # XLR
 
-XLR is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DISCO PUSS x XLR [B.Y.O.B]" on Tue, 22 Sept 2026.
+XLR is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "House. Garage. Disco. Grove Thursdays by Linden Grove @ XLR; BYOB" on Thu, 24 Sept 2026.
 
-XLR is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including 0akley, abejizaza, AZEH and Azrel and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
+XLR is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including 0akley, abejizaza, AZEH and Azrel and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | DISCO PUSS x XLR [B.Y.O.B] |  |
 | Thu, 24 Sept 2026 | House. Garage. Disco. Grove Thursdays by Linden Grove @ XLR; BYOB | Emile, Groooves, Mase (2), Quinlan |
 | Fri, 25 Sept 2026 | 23 Degrees x XLR: G33 - All Night Long [B.Y.O.B] | G33 (UK) |
 | Sat, 26 Sept 2026 | Beg Steal & Borrow x XLR presents Beg Steal Boogie [B.Y.O.B] |  |
@@ -23,4 +22,4 @@ XLR is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with 
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

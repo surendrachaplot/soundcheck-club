@@ -1,6 +1,6 @@
 # Kitsunee
 
-Kitsunee is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at CHICO, Mexico City on Fri, 23 Oct 2026.
+Kitsunee is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at CHICO, Mexico City on Fri, 23 Oct 2026.
 
 Kitsunee is a techno and hardcore artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Alan Palacios and Alby Esc. Next up: CHICO, Mexicocity on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Kitsunee is a techno and hardcore artist tracked on soundcheck, with 6 sets logg
 
 Magnolia Coronado, Alan Palacios, Alby Esc
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsunee/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsunee/)*

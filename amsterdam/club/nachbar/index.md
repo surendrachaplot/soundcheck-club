@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave" on Wed, 23 Sept 2026.
+nachbar is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave" on Wed, 23 Sept 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, wi
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

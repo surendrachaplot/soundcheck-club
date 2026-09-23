@@ -1,6 +1,6 @@
 # Pysh
 
-Pysh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klunkerkranich, Berlin on Thu, 24 Sept 2026.
+Pysh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klunkerkranich, Berlin on Thu, 24 Sept 2026.
 
 Pysh is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Krakow, Prague and Stuttgart and 1 more. Often billed alongside Kuvau, Angelo Mike and Sincz. Next up: Klunkerkranich, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Pysh is a techno and house artist tracked on soundcheck, with 34 sets logged acr
 
 Kuvau, Angelo Mike, Sincz
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*

@@ -1,6 +1,6 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
 Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside LAMSI, Conducta and Franky Sticks. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on so
 
 LAMSI, Conducta, Franky Sticks
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jarreauvandal/)*

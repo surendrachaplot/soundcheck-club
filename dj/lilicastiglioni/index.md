@@ -1,6 +1,6 @@
 # Lili Castiglioni
 
-Lili Castiglioni is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
+Lili Castiglioni is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
 
 Lili Castiglioni is an electronica and experimental artist based in France, tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside 9oodkid, Acid Souljah and Cannelle. Next up: Fvtvr, Paris on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Lili Castiglioni is an electronica and experimental artist based in France, trac
 
 9oodkid, Acid Souljah, Cannelle
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilicastiglioni/)*

@@ -4,6 +4,16 @@
   <meta charset="utf-8" />
   <title>Karate Club [Day&amp;Night]: Back to School Edition (Free party) at Bike Jesus · 26 Sept 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,11 +45,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.990853bcb2f9.css">
+  <link rel="stylesheet" href="/app.3562779acd62.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
+<meta name="sc-build" content="1790131609963">
 <meta name="description" content="ATTENTION STUDENTS. Karate Club [Day&amp;Night] BACK TO SCHOOL! One year of Karate Club is behind us. The next session is right ahead. Take a look at what we’ve built. A beautiful community of passionate souls standing shoulder to shoulder. Together for freedom. For loud music. For unity. For something better.">
 <link rel="canonical" href="https://soundcheck.club/e/2531160-karate-club-day-night-back-to-school-edition-free-party-at-b/">
 <meta property="og:type" content="website">
@@ -50,7 +60,7 @@
 <meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Karate%20Club%20%5BDay%26Night%5D%3A%20Back%20to%20School%20Edition%20(Free%20party)&amp;s=Bike%20Jesus%20%C2%B7%203TB%20(1)%2C%20al%C3%A1ya%2C%20Jemazzz%2C%20Misha%20Jaru&amp;e=SAT%2C%2026%20SEPT%20%C2%B7%20PRAGUE&amp;p=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&amp;q=%2Fe%2F2531160%2F">
 <meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Karate%20Club%20%5BDay%26Night%5D%3A%20Back%20to%20School%20Edition%20(Free%20party)&amp;s=Bike%20Jesus%20%C2%B7%203TB%20(1)%2C%20al%C3%A1ya%2C%20Jemazzz%2C%20Misha%20Jaru&amp;e=SAT%2C%2026%20SEPT%20%C2%B7%20PRAGUE&amp;p=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&amp;q=%2Fe%2F2531160%2F">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Karate Club [Day&Night]: Back to School Edition (Free party)","url":"https://soundcheck.club/e/2531160-karate-club-day-night-back-to-school-edition-free-party-at-b/","description":"ATTENTION STUDENTS. Karate Club [Day&Night] BACK TO SCHOOL! One year of Karate Club is behind us. The next session is right ahead. Take a look at what we’ve built. A beautiful community of passionate souls standing shoulder to shoulder. Together for freedom. For loud music. For unity. For something better.","startDate":"2026-09-26T12:00:00+02:00","endDate":"2026-09-26T08:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Bike Jesus","address":{"@type":"PostalAddress","streetAddress":"ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia","addressLocality":"Prague","addressCountry":"CZ"},"geo":{"@type":"GeoCoordinates","latitude":50.095245,"longitude":14.436335},"url":"https://soundcheck.club/prague/club/bike-jesus/"},"performer":[{"@type":"MusicGroup","name":"3TB (1)","url":"https://soundcheck.club/dj/3tb-1/"},{"@type":"MusicGroup","name":"aláya","url":"https://soundcheck.club/dj/al-ya/"},{"@type":"MusicGroup","name":"Jemazzz","url":"https://soundcheck.club/dj/jemazzz/"},{"@type":"MusicGroup","name":"Misha Jaru","url":"https://soundcheck.club/dj/misha-jaru/"},{"@type":"MusicGroup","name":"S.Tian","url":"https://soundcheck.club/dj/s-tian/"},{"@type":"MusicGroup","name":"Unjack*","url":"https://soundcheck.club/dj/unjack/"},{"@type":"MusicGroup","name":"Von Riu","url":"https://soundcheck.club/dj/von-riu/"}],"organizer":[{"@type":"Organization","name":"Karate Club"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2531160-karate-club-day-night-back-to-school-edition-free-party-at-b/","price":"350","priceCurrency":"CZK","availability":"https://schema.org/InStock","validFrom":"2026-09-22"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=675&fit=cover"]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Karate Club [Day&Night]: Back to School Edition (Free party)","url":"https://soundcheck.club/e/2531160-karate-club-day-night-back-to-school-edition-free-party-at-b/","description":"ATTENTION STUDENTS. Karate Club [Day&Night] BACK TO SCHOOL! One year of Karate Club is behind us. The next session is right ahead. Take a look at what we’ve built. A beautiful community of passionate souls standing shoulder to shoulder. Together for freedom. For loud music. For unity. For something better.","startDate":"2026-09-26T12:00:00+02:00","endDate":"2026-09-26T08:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Bike Jesus","address":{"@type":"PostalAddress","streetAddress":"ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia","addressLocality":"Prague","addressCountry":"CZ"},"geo":{"@type":"GeoCoordinates","latitude":50.095245,"longitude":14.436335},"url":"https://soundcheck.club/prague/club/bike-jesus/"},"performer":[{"@type":"MusicGroup","name":"3TB (1)","url":"https://soundcheck.club/dj/3tb-1/"},{"@type":"MusicGroup","name":"aláya","url":"https://soundcheck.club/dj/al-ya/"},{"@type":"MusicGroup","name":"Jemazzz","url":"https://soundcheck.club/dj/jemazzz/"},{"@type":"MusicGroup","name":"Misha Jaru","url":"https://soundcheck.club/dj/misha-jaru/"},{"@type":"MusicGroup","name":"S.Tian","url":"https://soundcheck.club/dj/s-tian/"},{"@type":"MusicGroup","name":"Unjack*","url":"https://soundcheck.club/dj/unjack/"},{"@type":"MusicGroup","name":"Von Riu","url":"https://soundcheck.club/dj/von-riu/"}],"organizer":[{"@type":"Organization","name":"Karate Club"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2531160-karate-club-day-night-back-to-school-edition-free-party-at-b/","price":"350","priceCurrency":"CZK","availability":"https://schema.org/InStock","validFrom":"2026-09-23"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2848a312b0e869e4c055abbd7555cb2a5a0b5285.jpg&w=1200&h=675&fit=cover"]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Prague","item":"https://soundcheck.club/prague/"},{"@type":"ListItem","position":3,"name":"Karate Club [Day&Night]: Back to School Edition (Free party)"}]}</script>
 </head>
 <body>
@@ -228,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.990853bcb2f9.js" defer></script>
+  <script src="/app.3562779acd62.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

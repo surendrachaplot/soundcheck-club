@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Absolute Deck Shellings presents: Freshers" on Fri, 25 Sept 2026.
+Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Absolute Deck Shellings presents: Freshers" on Fri, 25 Sept 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Blink Twice, calypso, Dimanté and DJ Leeloo and 2 more. Browse upcoming dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -18,4 +18,4 @@ Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, 
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

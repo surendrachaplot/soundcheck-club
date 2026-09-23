@@ -1,6 +1,6 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
+Grace Dahl is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Domicile, Miami on Sat, 26 Sept 2026.
 
 Grace Dahl is a techno and house artist tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Domicile, Miami on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Grace Dahl is a techno and house artist tracked on soundcheck, with 236 sets log
 
 Lobster (NL), Blasha & Allatt, Yanamaste
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*

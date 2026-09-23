@@ -1,6 +1,6 @@
 # CATAWR
 
-CATAWR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 2 Oct 2026.
+CATAWR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 2 Oct 2026.
 
 CATAWR is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Ibiza. Often billed alongside Bøgen, Miguel Silva and Not Stereo. Next up: Bulbul Berlin, Berlin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ CATAWR is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Bøgen, Miguel Silva, Not Stereo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*

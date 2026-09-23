@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "5 Years Animarum – A Club Festival For Your Soul" on Fri, 25 Sept 2026.
+Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "5 Years Animarum – A Club Festival For Your Soul" on Fri, 25 Sept 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Agem, Alex Xandra, Alienata and Allexandra and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Agem, Alex Xandra, Alienata and Allexandra and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

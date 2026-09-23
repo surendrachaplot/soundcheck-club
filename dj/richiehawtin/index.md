@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+Richie Hawtin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Richie Hawtin is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
@@ -30,4 +30,4 @@ Richie Hawtin is a techno and house artist tracked on soundcheck, with 180 sets 
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

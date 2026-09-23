@@ -1,6 +1,6 @@
 # Paul Cut
 
-Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Nido Marseille, Marseille on Sat, 3 Oct 2026.
+Paul Cut is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Nido Marseille, Marseille on Sat, 3 Oct 2026.
 
 Paul Cut is a house and deep house artist based in France, tracked on soundcheck, with 41 sets logged across Brussels, Lisbon, Madrid and Marseille and 2 more. Often billed alongside Flabaire, Sara Wual and DVDE. Next up: Nido Marseille, Marseille on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Paul Cut is a house and deep house artist based in France, tracked on soundcheck
 
 Flabaire, Sara Wual, DVDE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulcut/)*

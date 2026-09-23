@@ -1,6 +1,6 @@
 # Yen Sung
 
-Yen Sung is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
+Yen Sung is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lx Factory, Lisbon on Sat, 14 Nov 2026.
 
 Yen Sung is a house and electronica artist tracked on soundcheck, with 97 sets logged across Bali, Berlin, Frankfurt and Lisbon and 5 more. Often billed alongside Rui Vargas, Varela and Dexter Lux. Next up: Lx Factory, Lisbon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yen Sung is a house and electronica artist tracked on soundcheck, with 97 sets l
 
 Rui Vargas, Varela, Dexter Lux
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yensung/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yensung/)*

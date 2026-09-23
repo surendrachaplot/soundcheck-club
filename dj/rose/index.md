@@ -1,6 +1,6 @@
 # Rose
 
-Rose is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+Rose is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
 Rose is a techno and hardcore artist tracked on soundcheck, with 11 sets logged across Bangkok, Berlin, London and Losangeles and 4 more. Often billed alongside Ziggy, AMMARA and Andreas Henneberg. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rose is a techno and hardcore artist tracked on soundcheck, with 11 sets logged 
 
 Ziggy, AMMARA, Andreas Henneberg
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rose/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rose/)*

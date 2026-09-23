@@ -1,6 +1,6 @@
 # Tye Turner
 
-Tye Turner is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Big Night Live, Boston on Fri, 25 Sept 2026.
+Tye Turner is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Big Night Live, Boston on Fri, 25 Sept 2026.
 
 Tye Turner is a baile funk and club artist tracked on soundcheck, with 10 sets logged across Austin, Boston, Bristol and Kualalumpur and 6 more. Often billed alongside Baby J (2), LARISHKA (UK) and IN PARALLEL. Next up: Big Night Live, Boston on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tye Turner is a baile funk and club artist tracked on soundcheck, with 10 sets l
 
 Baby J (2), LARISHKA (UK), IN PARALLEL
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*

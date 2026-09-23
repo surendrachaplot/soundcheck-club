@@ -1,6 +1,6 @@
 # MAMA LOVE
 
-MAMA LOVE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Muller Bar, Madrid on Fri, 25 Sept 2026.
+MAMA LOVE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Muller Bar, Madrid on Fri, 25 Sept 2026.
 
 MAMA LOVE is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Hamburg and Madrid and 1 more. Often billed alongside caipora, materia hache and Bizzarro Universe. Next up: Muller Bar, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ MAMA LOVE is a techno and house artist tracked on soundcheck, with 37 sets logge
 
 caipora, materia hache, Bizzarro Universe
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalove/)*

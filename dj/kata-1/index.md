@@ -1,6 +1,6 @@
 # Kata (1)
 
-Kata (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Jupiter Disco, New York City on Sun, 4 Oct 2026.
+Kata (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jupiter Disco, New York City on Sun, 4 Oct 2026.
 
 Kata (1) is an electronic artist tracked on soundcheck, with 5 sets logged across Copenhagen, Hamburg and Newyorkcity. Often billed alongside /KATA/, Alibi (5) and Billy Bam. Next up: Jupiter Disco, Newyorkcity on Sun 4 Oct.
 
@@ -21,4 +21,4 @@ Kata (1) is an electronic artist tracked on soundcheck, with 5 sets logged acros
 
 /KATA/, Alibi (5), Billy Bam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kata-1/)*

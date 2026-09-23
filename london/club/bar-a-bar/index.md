@@ -1,6 +1,6 @@
 # Bar A Bar
 
-Bar A Bar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "ECHO 4" on Sat, 26 Sept 2026.
+Bar A Bar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ECHO 4" on Sat, 26 Sept 2026.
 
 Bar A Bar is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Any Koh, Biji, D LAI and Domenico Crisci and 2 more. Browse upcoming dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
 
@@ -18,4 +18,4 @@ Bar A Bar is a music venue in London listed on soundcheck. 5 upcoming gigs, with
 
 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*

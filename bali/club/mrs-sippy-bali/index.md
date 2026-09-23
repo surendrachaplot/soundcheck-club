@@ -1,6 +1,6 @@
 # Mrs Sippy Bali
 
-Mrs Sippy Bali is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "SUCK MY DISCO presents R.SQUARED" on Sat, 26 Sept 2026.
+Mrs Sippy Bali is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "SUCK MY DISCO presents R.SQUARED" on Sat, 26 Sept 2026.
 
 Mrs Sippy Bali is a music venue in Bali listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Jl. Taman Ganesha, Gang Gagak 8, Kerobokan Kelod, Kuta Utara, Kerobokan Kelod, Kuta Utara, Seminyak, Bali 80361, Indonesia.
 
@@ -14,4 +14,4 @@ Mrs Sippy Bali is a music venue in Bali listed on soundcheck. 1 upcoming gig. Br
 
 Jl. Taman Ganesha, Gang Gagak 8, Kerobokan Kelod, Kuta Utara, Kerobokan Kelod, Kuta Utara, Seminyak, Bali 80361, Indonesia, Bali
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/mrs-sippy-bali/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/mrs-sippy-bali/)*

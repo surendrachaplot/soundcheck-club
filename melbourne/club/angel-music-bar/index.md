@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Slow Grind Fever" on Wed, 23 Sept 2026.
+Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Slow Grind Fever" on Wed, 23 Sept 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including ADMINISTRATOR, afreckle, CLAIR (BAI) and Coloursound and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -19,4 +19,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

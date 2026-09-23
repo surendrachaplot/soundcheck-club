@@ -1,6 +1,6 @@
 # hOLysHiT
 
-hOLysHiT is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
+hOLysHiT is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
 
 hOLysHiT is a techno and footwork artist tracked on soundcheck, with 16 sets logged across Osaka. Often billed alongside Violent Magic Orchestra, VMO and Ascalypso. Next up: Conpass, Osaka on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ hOLysHiT is a techno and footwork artist tracked on soundcheck, with 16 sets log
 
 Violent Magic Orchestra, VMO, Ascalypso
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyshit/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyshit/)*

@@ -1,6 +1,6 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
+DJ Seinfeld is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
 DJ Seinfeld is a house and techno artist tracked on soundcheck, with 191 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: DC-10, Ibiza on Mon 28 Sept.
 
@@ -36,4 +36,4 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 191 sets lo
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

@@ -1,6 +1,6 @@
 # BRADII
 
-BRADII is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at fabric, London on Sun, 4 Oct 2026.
+BRADII is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sun, 4 Oct 2026.
 
 BRADII is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Savio Testa, Verso and BECKIE ADAMS. Next up: fabric, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ BRADII is a tech house and minimal artist based in United Kingdom, tracked on so
 
 Savio Testa, Verso, BECKIE ADAMS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradii/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradii/)*

@@ -1,6 +1,6 @@
 # Diode Eins
 
-Diode Eins is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Diode Eins is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Diode Eins is a techno and deep house artist tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 2 more. Often billed alongside Alchemiah, Kos:mo and Another Life. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Diode Eins is a techno and deep house artist tracked on soundcheck, with 52 sets
 
 Alchemiah, Kos:mo, Another Life
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diodeeins/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diodeeins/)*

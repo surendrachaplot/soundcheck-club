@@ -1,6 +1,6 @@
 # Demuja
 
-Demuja is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 3 Oct 2026.
+Demuja is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 3 Oct 2026.
 
 Demuja is a house and disco artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Black Loops, Cinthie and EG (1). Next up: Klub Werkstatt, Copenhagen on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Demuja is a house and disco artist tracked on soundcheck, with 105 sets logged a
 
 Black Loops, Cinthie, EG (1)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

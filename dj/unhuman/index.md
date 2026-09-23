@@ -1,6 +1,6 @@
 # Unhuman
 
-Unhuman is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Astron Club, Athens on Fri, 25 Sept 2026.
+Unhuman is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Astron Club, Athens on Fri, 25 Sept 2026.
 
 Unhuman is a techno and industrial artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Bali and Bangkok and 16 more. Often billed alongside Phase Fatale, Petra Flurr and 00rt. Next up: Astron Club, Athens on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Unhuman is a techno and industrial artist tracked on soundcheck, with 85 sets lo
 
 Phase Fatale, Petra Flurr, 00rt
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unhuman/)*

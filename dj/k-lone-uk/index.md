@@ -1,6 +1,6 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Soup, Manchester on Fri, 16 Oct 2026.
+K-LONE is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Soup, Manchester on Fri, 16 Oct 2026.
 
 K-LONE is a house and bass artist tracked on soundcheck, with 64 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: Soup, Manchester on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ K-LONE is a house and bass artist tracked on soundcheck, with 64 sets logged acr
 
 Facta, Jorg Kuning, Yushh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*

@@ -1,6 +1,6 @@
 # Molly Penney
 
-Molly Penney is a R&B and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
+Molly Penney is a R&B and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
 
 Molly Penney is a r&b and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, Edinburgh and London. Often billed alongside Chickie, HOLY C and Huns N' Roses. Next up: Ballroom at Palais, London on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Molly Penney is a r&b and electro artist based in United Kingdom, tracked on sou
 
 Chickie, HOLY C, Huns N' Roses
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollypenney/)*

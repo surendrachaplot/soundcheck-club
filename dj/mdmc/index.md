@@ -1,6 +1,6 @@
 # MDMC
 
-MDMC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
+MDMC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
 
 MDMC is a techno and house artist tracked on soundcheck, with 8 sets logged across Brighton, Kyoto, Osaka and Tokyo. Often billed alongside HOBOBRAZIL, Abiu and Aiconga. Next up: Heavy Sick Zero, Tokyo on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ MDMC is a techno and house artist tracked on soundcheck, with 8 sets logged acro
 
 HOBOBRAZIL, Abiu, Aiconga
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmc/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmc/)*

@@ -1,6 +1,6 @@
 # Ximxim Bar
 
-Ximxim Bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MOONLIT GATHERING" on Fri, 25 Sept 2026.
+Ximxim Bar is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MOONLIT GATHERING" on Fri, 25 Sept 2026.
 
 Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including AM (8) and PM. Browse upcoming dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
 
@@ -15,4 +15,4 @@ Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with
 
 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*

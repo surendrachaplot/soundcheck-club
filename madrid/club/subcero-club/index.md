@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "SUBCERO CLUB x GLOW UP" on Thu, 24 Sept 2026.
+Subcero Club is a music venue in Madrid with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SUBCERO CLUB x GLOW UP" on Thu, 24 Sept 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, with line-ups including Adrian Mart, AL MANDO, DAVID MEYER . and Deceit and 2 more. Browse upcoming dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -23,4 +23,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, 
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

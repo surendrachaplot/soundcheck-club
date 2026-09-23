@@ -1,6 +1,6 @@
 # Cesare vs Disorder
 
-Cesare vs Disorder is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
+Cesare vs Disorder is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
 Cesare vs Disorder are a house and minimal duo tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Hongkong and London and 3 more. Often billed alongside Rhom Omit, Weg (DE) and Ocean Lam. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Cesare vs Disorder are a house and minimal duo tracked on soundcheck, with 50 se
 
 Rhom Omit, Weg (DE), Ocean Lam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarevsdisorder/)*

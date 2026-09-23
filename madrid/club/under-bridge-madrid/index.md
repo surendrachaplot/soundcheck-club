@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "A Disco in da House x Under Bridge" on Fri, 25 Sept 2026.
+Under Bridge Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "A Disco in da House x Under Bridge" on Fri, 25 Sept 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Palimpseste and Petunia Clark. Browse upcoming dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -15,4 +15,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

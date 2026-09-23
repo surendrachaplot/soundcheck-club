@@ -1,6 +1,6 @@
 # Decibel Bar
 
-Decibel Bar is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Guilty Pleasures" on Tue, 29 Sept 2026.
+Decibel Bar is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Guilty Pleasures" on Tue, 29 Sept 2026.
 
 Decibel Bar is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Ilana Ariella and samantha rad. Browse upcoming dates, start times and who's playing. 4437 N Broadway, Chicago, FL.
 
@@ -14,4 +14,4 @@ Decibel Bar is a music venue in Chicago listed on soundcheck. 1 upcoming gig, wi
 
 4437 N Broadway, Chicago, FL, Chicago
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/decibel-bar/)*

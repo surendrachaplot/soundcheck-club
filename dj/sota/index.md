@@ -1,6 +1,6 @@
 # SOTA
 
-SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Logan Campbell Centre, Auckland on Fri, 25 Sept 2026.
+SOTA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Logan Campbell Centre, Auckland on Fri, 25 Sept 2026.
 
 SOTA is a house and techno artist tracked on soundcheck, with 121 sets logged across Antwerp, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Logan Campbell Centre, Auckland on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ SOTA is a house and techno artist tracked on soundcheck, with 121 sets logged ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

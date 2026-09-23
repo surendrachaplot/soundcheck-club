@@ -1,6 +1,6 @@
 # Kohan
 
-Kohan is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Kohan is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 Kohan is an experimental and electro artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Eva Selezneva, bod [包家巷] and 0111001101110100. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -15,4 +15,4 @@ Kohan is an experimental and electro artist based in Ukraine, tracked on soundch
 
 Eva Selezneva, bod [包家巷], 0111001101110100
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kohan/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kohan/)*

@@ -1,6 +1,6 @@
 # WE ARE ONE x MTW w/ KIM AHLF at MTW
 
-WE ARE ONE x MTW w/ KIM AHLF on Fri 2 Oct, Frankfurt. 5 acts on the bill: Justin Hahn, Kiko, KIM AHLF and NATURTALENT and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+WE ARE ONE x MTW w/ KIM AHLF on Fri 2 Oct, Frankfurt. 7 acts on the bill: ANN-LUX, Dana Roosy, Justin Hahn and Kiko and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ WE ARE ONE x MTW w/ KIM AHLF on Fri 2 Oct, Frankfurt. 5 acts on the bill: Justin
 
 ## Line-up
 
+- ANN-LUX
+- Dana Roosy
 - Justin Hahn
 - Kiko
 - KIM AHLF

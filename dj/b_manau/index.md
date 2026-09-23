@@ -1,6 +1,6 @@
 # b_man (AU)
 
-b_man (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club 77, Sydney on Sun, 25 Oct 2026.
+b_man (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club 77, Sydney on Sun, 25 Oct 2026.
 
 b_man (AU) is a techno and house artist tracked on soundcheck, with 15 sets logged across Melbourne and Sydney. Often billed alongside Alison Belle, Justin Muscat and Lilac. Next up: Club 77, Sydney on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ b_man (AU) is a techno and house artist tracked on soundcheck, with 15 sets logg
 
 Alison Belle, Justin Muscat, Lilac
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b_manau/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b_manau/)*

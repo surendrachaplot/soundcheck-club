@@ -1,6 +1,6 @@
 # TEMPLE
 
-TEMPLE is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "UND3RT3MPL3" on Sat, 26 Sept 2026.
+TEMPLE is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "UND3RT3MPL3" on Sat, 26 Sept 2026.
 
 TEMPLE is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Oscar Rosmano and Zehv. Browse upcoming dates, start times and who's playing. Pátio do Pinzaleiro 26, 1200-869 Lisboa.
 
@@ -14,4 +14,4 @@ TEMPLE is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with lin
 
 Pátio do Pinzaleiro 26, 1200-869 Lisboa, Lisbon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/temple/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/temple/)*

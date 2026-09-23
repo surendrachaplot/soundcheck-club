@@ -1,6 +1,6 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sing Sing Theater, Bangkok on Wed, 23 Sept 2026.
+Monkey Safari is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sing Sing Theater, Bangkok on Wed, 23 Sept 2026.
 
 Monkey Safari is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Sing Sing Theater, Bangkok on Wed 23 Sept.
 
@@ -31,4 +31,4 @@ Monkey Safari is a house and techno artist tracked on soundcheck, with 107 sets 
 
 Einmusik, Surreal Flight, ELIF
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

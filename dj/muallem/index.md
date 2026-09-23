@@ -1,6 +1,6 @@
 # Muallem
 
-Muallem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
+Muallem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 9 Oct 2026.
 
 Muallem is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Berlin and Cologne and 4 more. Often billed alongside BASHKKA, vince and Yamour. Next up: Golden Pudel Club, Hamburg on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Muallem is a house and techno artist tracked on soundcheck, with 74 sets logged 
 
 BASHKKA, vince, Yamour
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*

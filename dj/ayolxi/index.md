@@ -1,6 +1,6 @@
 # Ayolxi
 
-Ayolxi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
+Ayolxi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Wigwam, Dublin on Sun, 25 Oct 2026.
 
 Ayolxi is a techno and house artist tracked on soundcheck, with 53 sets logged across Berlin, Cork, Dublin and Krakow and 1 more. Often billed alongside Rustal, Aero (1) and Aeron. Next up: Wigwam, Dublin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Ayolxi is a techno and house artist tracked on soundcheck, with 53 sets logged a
 
 Rustal, Aero (1), Aeron
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*

@@ -1,6 +1,6 @@
 # CYBERMISSION
 
-CYBERMISSION is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+CYBERMISSION is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
 CYBERMISSION is an experimental and club artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Glasgow and Newyorkcity. Often billed alongside Xenia Reaper, Conna Haraway and ex wiish. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ CYBERMISSION is an experimental and club artist based in Germany, tracked on sou
 
 Xenia Reaper, Conna Haraway, ex wiish
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cybermission/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cybermission/)*

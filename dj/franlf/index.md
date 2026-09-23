@@ -1,6 +1,6 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
+Fran LF is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
 
 Fran LF is a techno and trance artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Berlin and Istanbul and 10 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: AUX Club, Athens on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Fran LF is a techno and trance artist based in Netherlands, tracked on soundchec
 
 Sinergy, Bours?, HUJUS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*

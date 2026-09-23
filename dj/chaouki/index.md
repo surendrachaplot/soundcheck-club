@@ -1,6 +1,6 @@
 # Chaouki Alba
 
-Chaouki Alba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 26 Sept 2026.
+Chaouki Alba is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 26 Sept 2026.
 
 Chaouki Alba is a house and techno artist tracked on soundcheck, with 35 sets logged across Boston and Newyorkcity. Often billed alongside Rasaaq, Bintokin and Joe Rizk. Next up: TBA - Secret Warehouse Location, Boston on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Chaouki Alba is a house and techno artist tracked on soundcheck, with 35 sets lo
 
 Rasaaq, Bintokin, Joe Rizk
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaouki/)*

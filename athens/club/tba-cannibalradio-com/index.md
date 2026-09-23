@@ -1,6 +1,6 @@
 # TBA - cannibalradio.com
 
-TBA - cannibalradio.com is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Cannibal Radio Season Begins | Streaming" on Mon, 28 Sept 2026.
+TBA - cannibalradio.com is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Cannibal Radio Season Begins | Streaming" on Mon, 28 Sept 2026.
 
 TBA - cannibalradio.com is a music venue in Athens listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - cannibalradio.com is a music venue in Athens listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | Cannibal Radio Season Begins / Streaming |  |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-cannibalradio-com/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-cannibalradio-com/)*

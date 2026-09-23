@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+Marie Montexier is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Marie Montexier is a techno and house artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
@@ -33,4 +33,4 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 218 set
 
 DVS1, Ryan Elliott, Anetha
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

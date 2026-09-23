@@ -1,18 +1,18 @@
 # peak2soon
 
-peak2soon is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Prisma, Berlin on Tue, 22 Sept 2026.
+peak2soon is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sensorium, Berlin on Wed, 7 Oct 2026.
 
-peak2soon is a techno and tech house artist based in Ireland, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside k.meower, Baumeister (2) and DaSoMaZo. Next up: Prisma, Berlin on Tue 22 Sept.
+peak2soon is a techno and tech house artist based in Ireland, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside k.meower, Baumeister (2) and DaSoMaZo. Next up: Sensorium, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Prisma | Berlin |
 | Wed, 7 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played
 
+- Prisma, Berlin — Tue, 22 Sept 2026
 - Void Hall, Berlin — Fri, 18 Sept 2026
 - Sensorium, Berlin — Fri, 14 Aug 2026
 - Lokschuppen Berlin, Berlin — Tue, 23 Jun 2026
@@ -21,4 +21,4 @@ peak2soon is a techno and tech house artist based in Ireland, tracked on soundch
 
 k.meower, Baumeister (2), DaSoMaZo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peak2soon/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peak2soon/)*

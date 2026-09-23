@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "PLAYGROUND with Make A Dance" on Wed, 23 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PLAYGROUND with Make A Dance" on Wed, 23 Sept 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 22 upcoming gigs, with line-ups including Alvaro Medina, Alvva, Baldman and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 22 upcoming gig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

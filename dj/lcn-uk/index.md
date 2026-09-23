@@ -1,6 +1,6 @@
 # LCN
 
-LCN is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
+LCN is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
 
 LCN is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Blawan, FAFF and DJ Stingray 313. Next up: Vespers Club, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LCN is a bass and techno artist based in United Kingdom, tracked on soundcheck, 
 
 Blawan, FAFF, DJ Stingray 313
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lcn-uk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lcn-uk/)*

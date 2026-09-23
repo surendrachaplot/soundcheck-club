@@ -1,6 +1,6 @@
 # Bonzai Bonner
 
-Bonzai Bonner is a House and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Bonzai Bonner is a House and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
 
 Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 72 sets logged across Belfast, Berlin, Dublin and Edinburgh and 6 more. Often billed alongside Anna Gram, Katiee.eem and LEZZER QUEST. Next up: The Art School, Glasgow on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Bonzai Bonner is a house and italo disco artist tracked on soundcheck, with 72 s
 
 Anna Gram, Katiee.eem, LEZZER QUEST
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzaibonner/)*

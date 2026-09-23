@@ -1,6 +1,6 @@
 # Optical Collusion
 
-Optical Collusion is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at DOCK 11, Berlin on Fri, 25 Sept 2026.
+Optical Collusion is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at DOCK 11, Berlin on Fri, 25 Sept 2026.
 
 Optical Collusion is an idm and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Robin Burke, Freya Algiz and FridaY (DE). Next up: DOCK 11, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Optical Collusion is an idm and techno artist tracked on soundcheck, with 10 set
 
 Robin Burke, Freya Algiz, FridaY (DE)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opticalcollusion/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opticalcollusion/)*

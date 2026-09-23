@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Dante's Hifi Ibiza, Ibiza on Wed, 23 Sept 2026.
+Thabo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dante's Hifi Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Thabo is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Bali and Barcelona and 17 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: Dante's Hifi Ibiza, Ibiza on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ Thabo is a house and techno artist tracked on soundcheck, with 85 sets logged ac
 
 Thalo Santana, Blame Anthony, Butterhands
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

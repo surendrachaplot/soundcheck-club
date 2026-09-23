@@ -1,6 +1,6 @@
 # Mystral
 
-Mystral is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+Mystral is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
 
 Mystral is a techno and house artist based in Spain, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Andy Garvey, Andy Martin and Anika Kunst. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
 
@@ -15,4 +15,4 @@ Mystral is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Andy Garvey, Andy Martin, Anika Kunst
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*

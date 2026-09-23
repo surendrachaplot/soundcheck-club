@@ -1,6 +1,6 @@
 # Kesselhaus
 
-Kesselhaus is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DJ Seinfeld" on Fri, 2 Oct 2026.
+Kesselhaus is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DJ Seinfeld" on Fri, 2 Oct 2026.
 
 Kesselhaus is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Seinfeld, KREAM, Lane 8 and Township Rebellion. Browse upcoming dates, start times and who's playing. Knaackstraße 97, 10435 Berlin.
 
@@ -19,4 +19,4 @@ Kesselhaus is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wit
 
 Knaackstraße 97, 10435 Berlin, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kesselhaus/)*

@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
+Mike Shannon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
 
 Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside DeWalta, Stipé and Deadbeat. Next up: Golden Gate, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck
 
 DeWalta, Stipé, Deadbeat
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

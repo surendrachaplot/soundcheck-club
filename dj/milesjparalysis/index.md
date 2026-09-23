@@ -1,6 +1,6 @@
 # Miles J Paralysis
 
-Miles J Paralysis is a Dub and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
+Miles J Paralysis is a Dub and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
 
 Miles J Paralysis is a dub and dub techno artist tracked on soundcheck, with 10 sets logged across Aberdeen, Berlin, Glasgow and Leeds and 1 more. Often billed alongside GK Machine, LOVELL and Mike BC. Next up: Paloma, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Miles J Paralysis is a dub and dub techno artist tracked on soundcheck, with 10 
 
 GK Machine, LOVELL, Mike BC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*

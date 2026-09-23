@@ -1,6 +1,6 @@
 # DJ PGZ
 
-DJ PGZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Club 77, Sydney on Sat, 17 Oct 2026.
+DJ PGZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club 77, Sydney on Sat, 17 Oct 2026.
 
 DJ PGZ is a techno and house artist based in Australia, tracked on soundcheck, with 72 sets logged across Bali, Melbourne, Paris and Sydney. Often billed alongside Moopie, Yikes and dameeeela. Next up: Club 77, Sydney on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ PGZ is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Moopie, Yikes, dameeeela
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpgz/)*

@@ -1,6 +1,6 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Movers, Nottingham on Sat, 3 Oct 2026.
+Felix Dickinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Movers, Nottingham on Sat, 3 Oct 2026.
 
 Felix Dickinson is a house and techno artist tracked on soundcheck, with 49 sets logged across Athens, Belgrade, Berlin and Brighton and 13 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: Movers, Nottingham on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Felix Dickinson is a house and techno artist tracked on soundcheck, with 49 sets
 
 Dave Harvey, Chez de Milo, Ellie Stokes
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*

@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
+JUWLZ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
 JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and Ravejezuz. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Lisatrix, cell1, Ravejezuz
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

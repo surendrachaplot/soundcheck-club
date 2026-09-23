@@ -1,6 +1,6 @@
 # Luigi Rossi
 
-Luigi Rossi is a Minimal and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 30 Sept 2026.
+Luigi Rossi is a Minimal and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Playa Soleil Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 Luigi Rossi is a minimal and minimal techno artist based in Italy, tracked on soundcheck, with 58 sets logged across Berlin, Frankfurt, Ibiza and Prague and 1 more. Often billed alongside Eclud, The Liquid Dude and Cesar Vinzent. Next up: Playa Soleil Ibiza, Ibiza on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Luigi Rossi is a minimal and minimal techno artist based in Italy, tracked on so
 
 Eclud, The Liquid Dude, Cesar Vinzent
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigirossi/)*

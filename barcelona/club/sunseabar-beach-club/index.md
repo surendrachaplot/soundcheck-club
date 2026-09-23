@@ -1,6 +1,6 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "(FREE BEACH PARTY) SIDEWAYS w// Borja S" on Wed, 23 Sept 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "(FREE BEACH PARTY) SIDEWAYS w// Borja S" on Wed, 23 Sept 2026.
 
 Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including acidheaven, Alex (ES), Alex Pott and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
@@ -20,4 +20,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcom
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

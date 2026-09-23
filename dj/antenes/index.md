@@ -1,6 +1,6 @@
 # Antenes
 
-Antenes is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
+Antenes is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, New York City on Fri, 9 Oct 2026.
 
 Antenes is a techno and experimental artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Chicago and Denver and 9 more. Often billed alongside Mike Servito, Wata Igarashi and Clarisa Kimskii. Next up: TBA, Newyorkcity on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Antenes is a techno and experimental artist based in United States of America, t
 
 Mike Servito, Wata Igarashi, Clarisa Kimskii
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*

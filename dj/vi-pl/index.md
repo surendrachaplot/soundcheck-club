@@ -1,6 +1,6 @@
 # Vi (PL)
 
-Vi (PL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
+Vi (PL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
 
 Vi (PL) is a techno and house artist tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Krakow and London and 2 more. Often billed alongside ANDRØMEDA, Tving Stage Design and Mordeaux. Next up: Jasna 1, Warsaw on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Vi (PL) is a techno and house artist tracked on soundcheck, with 22 sets logged 
 
 ANDRØMEDA, Tving Stage Design, Mordeaux
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*

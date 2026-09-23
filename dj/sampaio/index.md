@@ -1,6 +1,6 @@
 # Sampaio
 
-Sampaio is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at La Gravière, Geneva on Sat, 26 Sept 2026.
+Sampaio is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Gravière, Geneva on Sat, 26 Sept 2026.
 
 Sampaio is a baile funk and afrobeat artist based in Switzerland, tracked on soundcheck, with 39 sets logged across Geneva and Lisbon. Often billed alongside Hirma, Spice & Curls and Habiboo. Next up: La Gravière, Geneva on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sampaio is a baile funk and afrobeat artist based in Switzerland, tracked on sou
 
 Hirma, Spice & Curls, Habiboo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaio/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaio/)*

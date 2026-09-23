@@ -1,6 +1,6 @@
 # Astroloop
 
-Astroloop is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Aura Lake Como, Milan on Sat, 26 Sept 2026.
+Astroloop is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Aura Lake Como, Milan on Sat, 26 Sept 2026.
 
 Astroloop is a house and electro artist tracked on soundcheck, with 15 sets logged across Barcelona and Milan. Often billed alongside 131bpm, Ambarcita and Caro Losa. Next up: TBA - Aura Lake Como, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Astroloop is a house and electro artist tracked on soundcheck, with 15 sets logg
 
 131bpm, Ambarcita, Caro Losa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astroloop/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astroloop/)*

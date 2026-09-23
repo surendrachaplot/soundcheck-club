@@ -1,6 +1,6 @@
 # Sel.6
 
-Sel.6 is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hollywood Live, Miami on Wed, 7 Oct 2026.
+Sel.6 is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hollywood Live, Miami on Wed, 7 Oct 2026.
 
 Sel.6 is a bass and techno artist tracked on soundcheck, with 54 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: Hollywood Live, Miami on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Sel.6 is a bass and techno artist tracked on soundcheck, with 54 sets logged acr
 
 Alexx in Chainss, DJ Tamsom, Pressure Point (US)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*

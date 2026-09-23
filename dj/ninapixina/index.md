@@ -1,6 +1,6 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Nina Pixina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Nina Pixina is a techno and trance artist tracked on soundcheck, with 38 sets logged across Barcelona, Brighton, Bucharest and Leeds and 1 more. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: FOLD, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 38 sets lo
 
 Gloria Rose, RayRay, Amphia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

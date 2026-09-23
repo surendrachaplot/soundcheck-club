@@ -1,6 +1,6 @@
 # --- mr ---
 
---- mr --- is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at R Lounge, Tokyo on Mon, 5 Oct 2026.
+--- mr --- is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at R Lounge, Tokyo on Mon, 5 Oct 2026.
 
 --- mr --- is a techno and house artist based in Japan, tracked on soundcheck, with 107 sets logged across Kyoto and Tokyo. Often billed alongside tom2, TIKE and Zeqoo. Next up: R Lounge, Tokyo on Mon 5 Oct.
 
@@ -25,4 +25,4 @@
 
 tom2, TIKE, Zeqoo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/---mr---/)*

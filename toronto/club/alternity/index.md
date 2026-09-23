@@ -1,6 +1,6 @@
 # Alternity
 
-Alternity is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "CØNTRA" on Fri, 25 Sept 2026.
+Alternity is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CØNTRA" on Fri, 25 Sept 2026.
 
 Alternity is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Living~Stone. Browse upcoming dates, start times and who's playing. 333 Bloor St West.
 
@@ -15,4 +15,4 @@ Alternity is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, wit
 
 333 Bloor St West, Toronto
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/alternity/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/alternity/)*

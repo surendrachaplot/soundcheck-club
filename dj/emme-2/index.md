@@ -1,6 +1,6 @@
 # emme (2)
 
-emme (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Palau Dalmases, Barcelona on Thu, 24 Sept 2026.
+emme (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Palau Dalmases, Barcelona on Thu, 24 Sept 2026.
 
 emme (2) is a techno and house artist tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside ARMIX, Arieshandmodel and Binks (CA). Next up: Palau Dalmases, Barcelona on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ emme (2) is a techno and house artist tracked on soundcheck, with 12 sets logged
 
 ARMIX, Arieshandmodel, Binks (CA)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*

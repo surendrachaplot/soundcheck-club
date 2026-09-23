@@ -1,6 +1,6 @@
 # AEMI
 
-AEMI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at BRAND SHIBUYA, Tokyo on Fri, 25 Sept 2026.
+AEMI is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BRAND SHIBUYA, Tokyo on Fri, 25 Sept 2026.
 
 AEMI is a trance and techno artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside DJ 34, BEPPU and Okamon. Next up: BRAND SHIBUYA, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ AEMI is a trance and techno artist based in Japan, tracked on soundcheck, with 2
 
 DJ 34, BEPPU, Okamon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aemi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aemi/)*

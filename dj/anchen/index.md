@@ -1,6 +1,6 @@
 # An Chen
 
-An Chen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Rote Sonne, Munich on Fri, 25 Sept 2026.
+An Chen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rote Sonne, Munich on Fri, 25 Sept 2026.
 
 An Chen is a techno and trance artist based in Taiwan, tracked on soundcheck, with 22 sets logged across Berlin, Hamburg, Miami and Munich and 2 more. Often billed alongside Meka, Purdy and ANDRÉS GARCIL. Next up: Rote Sonne, Munich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ An Chen is a techno and trance artist based in Taiwan, tracked on soundcheck, wi
 
 Meka, Purdy, ANDRÉS GARCIL
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*

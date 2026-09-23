@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 91 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "go.play mit Freya Algiz" on Tue, 22 Sept 2026.
+Minimal Bar is a music venue in Berlin with 91 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "go.play mit Freya Algiz" on Tue, 22 Sept 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 91 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 91 upcoming gigs, w
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

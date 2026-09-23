@@ -1,6 +1,6 @@
 # Valody
 
-Valody is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
+Valody is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hito Scheveningen, The Hague on Sun, 4 Oct 2026.
 
 Valody is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Lisbon and Paris and 4 more. Often billed alongside Maria Cue, Anika Kunst and Chlär. Next up: Hito Scheveningen, Thehague on Sun 4 Oct.
 
@@ -29,4 +29,4 @@ Valody is a techno and house artist tracked on soundcheck, with 77 sets logged a
 
 Maria Cue, Anika Kunst, Chlär
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valody-pt/)*

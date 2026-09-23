@@ -1,6 +1,6 @@
 # Hangar 34
 
-Hangar 34 is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Macky Gee: Liverpool" on Sat, 3 Oct 2026.
+Hangar 34 is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Macky Gee: Liverpool" on Sat, 3 Oct 2026.
 
 Hangar 34 is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Amy Dabbs, DJ Hybrid, Dusky and Eat Static and 2 more. Browse upcoming dates, start times and who's playing. 34 Greenland St, Liverpool L1 0BS, United Kingdom.
 
@@ -19,4 +19,4 @@ Hangar 34 is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, w
 
 34 Greenland St, Liverpool L1 0BS, United Kingdom, Liverpool
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/hangar-34/)*

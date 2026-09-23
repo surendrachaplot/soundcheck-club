@@ -1,6 +1,6 @@
 # Rompa
 
-Rompa is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at OHM, Berlin on Thu, 15 Oct 2026.
+Rompa is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OHM, Berlin on Thu, 15 Oct 2026.
 
 Rompa is a bass and experimental artist tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside Brootworth, Dangermami and Delta Division. Next up: OHM, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Rompa is a bass and experimental artist tracked on soundcheck, with 11 sets logg
 
 Brootworth, Dangermami, Delta Division
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rompa/)*

@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Juliet Fox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 112 sets log
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

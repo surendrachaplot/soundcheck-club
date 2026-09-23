@@ -1,14 +1,15 @@
 # Mand0
 
-Mand0 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Story Toronto, Toronto on Sat, 31 Oct 2026.
+Mand0 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Story Toronto, Toronto on Sat, 31 Oct 2026.
 
-Mand0 is a techno and house artist tracked on soundcheck, with 13 sets logged across Chicago and Toronto. Often billed alongside KILL 9 1, Pretence and Alley Kay. Next up: Story Toronto, Toronto on Sat 31 Oct.
+Mand0 is a techno and house artist tracked on soundcheck, with 14 sets logged across Chicago and Toronto. Often billed alongside KILL 9 1, Pretence and R4TS. Next up: Story Toronto, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Story Toronto | Toronto |
+| Sat, 31 Oct 2026 | Trinity Drug Store | Toronto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mand0 is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 ## Shares bills with
 
-KILL 9 1, Pretence, Alley Kay
+KILL 9 1, Pretence, R4TS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*

@@ -1,6 +1,6 @@
 # DJ Roach
 
-DJ Roach is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+DJ Roach is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Roach is a techno and electro artist tracked on soundcheck, with 40 sets logged across Amsterdam, Boston, Detroit and Toronto and 1 more. Often billed alongside DJ Godfather, Detroit Techno Militia 2x4 and Neil V. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ DJ Roach is a techno and electro artist tracked on soundcheck, with 40 sets logg
 
 DJ Godfather, Detroit Techno Militia 2x4, Neil V
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*

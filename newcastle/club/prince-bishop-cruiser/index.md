@@ -1,6 +1,6 @@
 # Prince Bishop Cruiser
 
-Prince Bishop Cruiser is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Shy Bairns Boat Party" on Sat, 10 Oct 2026.
+Prince Bishop Cruiser is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Shy Bairns Boat Party" on Sat, 10 Oct 2026.
 
 Prince Bishop Cruiser is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, with line-ups including FroD, Garbo (2) and Weston. Browse upcoming dates, start times and who's playing. The Boat Ho/Elvet Bridge, Durham DH1 3AF.
 
@@ -14,4 +14,4 @@ Prince Bishop Cruiser is a music venue in Newcastle listed on soundcheck. 1 upco
 
 The Boat Ho/Elvet Bridge, Durham DH1 3AF, Newcastle
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/prince-bishop-cruiser/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/prince-bishop-cruiser/)*

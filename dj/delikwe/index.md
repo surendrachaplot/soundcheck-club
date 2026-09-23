@@ -1,6 +1,6 @@
 # Delikwe
 
-Delikwe is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Collect LX Factory, Lisbon on Wed, 23 Sept 2026.
+Delikwe is a Ambient and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Collect LX Factory, Lisbon on Wed, 23 Sept 2026.
 
 Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Lisbon and Milan. Often billed alongside SALTI, .VRIL and Al Paino. Next up: Collect LX Factory, Lisbon on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Delikwe is an ambient and dub artist based in Italy, tracked on soundcheck, with
 
 SALTI, .VRIL, Al Paino
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delikwe/)*

@@ -1,6 +1,6 @@
 # Jacques-André
 
-Jacques-André is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Xuxa, Austin on Sat, 26 Sept 2026.
+Jacques-André is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Xuxa, Austin on Sat, 26 Sept 2026.
 
 Jacques-André is a house and deep house artist tracked on soundcheck, with 18 sets logged across Austin. Often billed alongside Slyde Drexler, El Zárate and Robert Roman. Next up: Xuxa, Austin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jacques-André is a house and deep house artist tracked on soundcheck, with 18 s
 
 Slyde Drexler, El Zárate, Robert Roman
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacques-andre/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacques-andre/)*

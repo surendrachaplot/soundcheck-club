@@ -1,6 +1,6 @@
 # Colombian Drone Mafia
 
-Colombian Drone Mafia is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bar Laika, New York City on Wed, 23 Sept 2026.
+Colombian Drone Mafia is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar Laika, New York City on Wed, 23 Sept 2026.
 
 Colombian Drone Mafia is a techno and latin bass artist tracked on soundcheck, with 20 sets logged across Berlin, London, Newyorkcity and Philadelphia. Often billed alongside Nyksan, Ehua and Nick León. Next up: Bar Laika, Newyorkcity on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Colombian Drone Mafia is a techno and latin bass artist tracked on soundcheck, w
 
 Nyksan, Ehua, Nick León
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colombiandronemafia/)*

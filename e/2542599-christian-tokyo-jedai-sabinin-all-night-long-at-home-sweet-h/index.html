@@ -4,6 +4,16 @@
   <meta charset="utf-8" />
   <title>Christian Tokyo, Jedai &amp; Sabinin: All Night Long at Home Sweet Home · 24 Sept 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,11 +45,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.990853bcb2f9.css">
+  <link rel="stylesheet" href="/app.3562779acd62.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
+<meta name="sc-build" content="1790131609963">
 <meta name="description" content="Christian Tokyo, Jedai &amp; Sabinin: All Night Long at Home Sweet Home on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Christian Tokyo, Jedai and Sabinin. Techno and House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2542599-christian-tokyo-jedai-sabinin-all-night-long-at-home-sweet-h/">
 <meta property="og:type" content="website">
@@ -50,7 +60,7 @@
 <meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Christian%20Tokyo%2C%20Jedai%20%26%20Sabinin%3A%20All%20Night%20Long&amp;s=Home%20Sweet%20Home%20%C2%B7%20Christian%20Tokyo%2C%20Jedai%2C%20Sabinin&amp;e=THU%2C%2024%20SEPT%20%C2%B7%20NEW%20YORK%20CITY&amp;p=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&amp;q=%2Fe%2F2542599%2F">
 <meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Christian%20Tokyo%2C%20Jedai%20%26%20Sabinin%3A%20All%20Night%20Long&amp;s=Home%20Sweet%20Home%20%C2%B7%20Christian%20Tokyo%2C%20Jedai%2C%20Sabinin&amp;e=THU%2C%2024%20SEPT%20%C2%B7%20NEW%20YORK%20CITY&amp;p=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&amp;q=%2Fe%2F2542599%2F">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Christian Tokyo, Jedai & Sabinin: All Night Long","url":"https://soundcheck.club/e/2542599-christian-tokyo-jedai-sabinin-all-night-long-at-home-sweet-h/","description":"Christian Tokyo, Jedai & Sabinin: All Night Long at Home Sweet Home on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Christian Tokyo, Jedai and Sabinin. Techno and House. Preview the line-up and save it on soundcheck.","startDate":"2026-09-24T22:00:00-04:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Home Sweet Home","address":{"@type":"PostalAddress","streetAddress":"131 Chrystie Street; New York, NY 10002; United States","addressLocality":"New York City","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":40.719504,"longitude":-73.99352},"url":"https://soundcheck.club/newyorkcity/club/home-sweet-home/"},"performer":[{"@type":"MusicGroup","name":"Christian Tokyo","url":"https://soundcheck.club/dj/christian-tokyo/"},{"@type":"MusicGroup","name":"Jedai","url":"https://soundcheck.club/dj/jedai/"},{"@type":"MusicGroup","name":"Sabinin","url":"https://soundcheck.club/dj/sabinin/"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2542599-christian-tokyo-jedai-sabinin-all-night-long-at-home-sweet-h/","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock","validFrom":"2026-09-22"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Christian Tokyo, Jedai & Sabinin: All Night Long","url":"https://soundcheck.club/e/2542599-christian-tokyo-jedai-sabinin-all-night-long-at-home-sweet-h/","description":"Christian Tokyo, Jedai & Sabinin: All Night Long at Home Sweet Home on Thu 24 Sept, Newyorkcity. 3 acts on the bill: Christian Tokyo, Jedai and Sabinin. Techno and House. Preview the line-up and save it on soundcheck.","startDate":"2026-09-24T22:00:00-04:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Home Sweet Home","address":{"@type":"PostalAddress","streetAddress":"131 Chrystie Street; New York, NY 10002; United States","addressLocality":"New York City","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":40.719504,"longitude":-73.99352},"url":"https://soundcheck.club/newyorkcity/club/home-sweet-home/"},"performer":[{"@type":"MusicGroup","name":"Christian Tokyo","url":"https://soundcheck.club/dj/christian-tokyo/"},{"@type":"MusicGroup","name":"Jedai","url":"https://soundcheck.club/dj/jedai/"},{"@type":"MusicGroup","name":"Sabinin","url":"https://soundcheck.club/dj/sabinin/"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2542599-christian-tokyo-jedai-sabinin-all-night-long-at-home-sweet-h/","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock","validFrom":"2026-09-23"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F9f0e02ad38923761aacdb433a459cd5018c5e0af.png&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"New York City","item":"https://soundcheck.club/newyorkcity/"},{"@type":"ListItem","position":3,"name":"Christian Tokyo, Jedai & Sabinin: All Night Long"}]}</script>
 </head>
 <body>
@@ -228,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.990853bcb2f9.js" defer></script>
+  <script src="/app.3562779acd62.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

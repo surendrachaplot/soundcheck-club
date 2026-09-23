@@ -1,6 +1,6 @@
 # Vasco
 
-Vasco is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at NAR, Utrecht on Sun, 4 Oct 2026.
+Vasco is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NAR, Utrecht on Sun, 4 Oct 2026.
 
 Vasco is a house and disco artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Buenosaires and Detroit and 6 more. Often billed alongside Mowgli (NL), Ajuma and I-F. Next up: NAR, Utrecht on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Vasco is a house and disco artist based in Netherlands, tracked on soundcheck, w
 
 Mowgli (NL), Ajuma, I-F
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasco/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasco/)*

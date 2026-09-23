@@ -1,6 +1,6 @@
 # anise
 
-anise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Système, Montreal on Sat, 3 Oct 2026.
+anise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Système, Montreal on Sat, 3 Oct 2026.
 
 anise is a techno and house artist tracked on soundcheck, with 22 sets logged across Montreal, Singapore and Toronto. Often billed alongside Chafic, Negin and Daragma. Next up: Système, Montreal on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ anise is a techno and house artist tracked on soundcheck, with 22 sets logged ac
 
 Chafic, Negin, Daragma
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anise/)*

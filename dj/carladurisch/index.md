@@ -1,6 +1,6 @@
 # Carla Durisch
 
-Carla Durisch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
+Carla Durisch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
 
 Carla Durisch is a house and techno artist based in Switzerland, tracked on soundcheck, with 40 sets logged across Basel, Berlin, Dusseldorf and Ibiza and 2 more. Often billed alongside MARCISM, Damian Lazarus and Black Coffee. Next up: Kauz, Zurich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Carla Durisch is a house and techno artist based in Switzerland, tracked on soun
 
 MARCISM, Damian Lazarus, Black Coffee
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carladurisch/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carladurisch/)*

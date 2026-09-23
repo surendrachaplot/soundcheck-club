@@ -1,6 +1,6 @@
 # Luisa
 
-Luisa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
+Luisa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Sat, 10 Oct 2026.
 
 Luisa is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Cadavra, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Luisa is a techno and house artist tracked on soundcheck, with 105 sets logged a
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

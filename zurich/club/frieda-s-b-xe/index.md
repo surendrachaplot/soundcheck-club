@@ -1,6 +1,6 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Rummelnacht" on Sat, 26 Sept 2026.
+Frieda's Büxe is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Rummelnacht" on Sat, 26 Sept 2026.
 
 Frieda's Büxe is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including And Hazel, Andreas Ramos, Aron (CH) and André Butano and 2 more. Browse upcoming dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
@@ -18,4 +18,4 @@ Frieda's Büxe is a music venue in Zurich listed on soundcheck. 5 upcoming gigs,
 
 Friedaustrasse 23; 8003, Zürich; Switzerland, Zurich
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/frieda-s-b-xe/)*

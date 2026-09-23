@@ -1,6 +1,6 @@
 # DIVY
 
-DIVY is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Department 184, Milan on Sun, 18 Oct 2026.
+DIVY is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Department 184, Milan on Sun, 18 Oct 2026.
 
 DIVY is a techno and electronica artist based in Italy, tracked on soundcheck, with 31 sets logged across Milan. Often billed alongside ALXV, Alex Brasile and Mark Wark. Next up: Department 184, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ DIVY is a techno and electronica artist based in Italy, tracked on soundcheck, w
 
 ALXV, Alex Brasile, Mark Wark
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divy/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divy/)*

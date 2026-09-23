@@ -1,6 +1,6 @@
 # Sippin' T
 
-Sippin' T is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ninety One, London on Sat, 3 Oct 2026.
+Sippin' T is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ninety One, London on Sat, 3 Oct 2026.
 
 Sippin' T is a techno and club artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Ninety One, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Sippin' T is a techno and club artist based in United Kingdom, tracked on soundc
 
 TEDESCO, THEMPRESS, GIDEÖN
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

@@ -1,6 +1,6 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Station - Gare des Mines, Paris on Wed, 23 Sept 2026.
+Devon Rexi is a Dub and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Wed, 23 Sept 2026.
 
 Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside John T. Gast, DJ Marcelle and Chinnamasta. Next up: La Station - Gare des Mines, Paris on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soun
 
 John T. Gast, DJ Marcelle, Chinnamasta
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*

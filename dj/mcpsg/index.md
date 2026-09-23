@@ -1,6 +1,6 @@
 # MC PSG
 
-MC PSG is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
+MC PSG is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dunnings 2, London on Sat, 3 Oct 2026.
 
 MC PSG is a garage and house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside MC Creed, MC DT and MC CKP. Next up: Dunnings 2, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ MC PSG is a garage and house artist tracked on soundcheck, with 15 sets logged a
 
 MC Creed, MC DT, MC CKP
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpsg/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpsg/)*

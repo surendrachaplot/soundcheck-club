@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund" on Thu, 24 Sept 2026.
+Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Redirect: Clarisa Kimskii, KYRUH, Adrian Hex, HNDRNC, Bags, Erik Braun, skoglund" on Thu, 24 Sept 2026.
 
-Good Room is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Adrian Hex and A lana and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in Newyorkcity listed on soundcheck. 16 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Adrian Hex and A lana and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 15 upcoming gigs
 | Sat, 3 Oct 2026 | Jordan Nocturne, Arvin T, Laila Amira and Lady Harley (all night) | Arvin T, Jordan Nocturne, Lady Harley, Laila Amira |
 | Fri, 9 Oct 2026 | RA25: New York City | Baalti, Galcher Lustwerk, Kilopatrah Jones, Nick León, Special Guest DJ, Stacey Hotwaxx Hale, adobeprincess |
 | Sat, 10 Oct 2026 | STUNTSZ: HOME SHOPPING NETWORK | Drew Baker, Memphy, Mike Servito, Prince Rose, Ty Sunderland |
+| Sun, 11 Oct 2026 | 718 Sessions with Danny Krivit + That Matt | Danny Krivit, That Matt |
 | Fri, 16 Oct 2026 | 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) | 4AM NYC, DJ Holographic, Lee Cash, Perna |
-| Sat, 17 Oct 2026 | 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 | JÄK-87, The Carry Nation, Timo Lee |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

@@ -1,6 +1,6 @@
 # The Biscuit Factory
 
-The Biscuit Factory is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "REDEMPTION DAY PARTY" on Sun, 27 Sept 2026.
+The Biscuit Factory is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "REDEMPTION DAY PARTY" on Sun, 27 Sept 2026.
 
 The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Casi (UK), Cormac and Simonotron. Browse upcoming dates, start times and who's playing. 4-6 Anderson Place, Edinburgh, EH6 5NP.
 
@@ -16,4 +16,4 @@ The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 3 upcomi
 
 4-6 Anderson Place, Edinburgh, EH6 5NP, Edinburgh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-biscuit-factory/)*

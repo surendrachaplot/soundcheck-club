@@ -1,6 +1,6 @@
 # Jamie React
 
-Jamie React is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Exit Reality, Singapore on Fri, 25 Sept 2026.
+Jamie React is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Exit Reality, Singapore on Fri, 25 Sept 2026.
 
 Jamie React is a techno and house artist tracked on soundcheck, with 8 sets logged across Singapore. Often billed alongside Nino Blink, HAAN A. and 3MZY. Next up: Exit Reality, Singapore on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Jamie React is a techno and house artist tracked on soundcheck, with 8 sets logg
 
 Nino Blink, HAAN A., 3MZY
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiereact-sg/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiereact-sg/)*

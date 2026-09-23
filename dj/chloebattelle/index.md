@@ -1,13 +1,14 @@
 # Chloe Battelle
 
-Chloe Battelle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Chloe Battelle is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outer Heaven, New York City on Fri, 16 Oct 2026.
 
-Chloe Battelle is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside gabby cocco, 98dots and Kurilo. Next up: Signal, Newyorkcity on Fri 30 Oct.
+Chloe Battelle is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside gabby cocco, 98dots and Kurilo. Next up: Outer Heaven, Newyorkcity on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Outer Heaven | New York City |
 | Fri, 30 Oct 2026 | Signal | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Chloe Battelle is a house and techno artist based in United States of America, t
 
 gabby cocco, 98dots, Kurilo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*

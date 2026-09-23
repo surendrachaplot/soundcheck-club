@@ -1,6 +1,6 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi" on Sat, 26 Sept 2026.
+Le Trabendo is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Basses Fréquences Club: Dasha Rush + Boskøw + Léa Occhi" on Sat, 26 Sept 2026.
 
 Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Boskøw, Cardopusher, Dasha Rush and Domi (FR) and 2 more. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -19,4 +19,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 6 upcoming gigs, wit
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

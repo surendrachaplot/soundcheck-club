@@ -1,6 +1,6 @@
 # oskø
 
-oskø is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gewölbe, Cologne on Sat, 17 Oct 2026.
+oskø is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gewölbe, Cologne on Sat, 17 Oct 2026.
 
 oskø is a techno artist tracked on soundcheck, with 17 sets logged across Berlin and Cologne. Often billed alongside Michael Mayer, Visky and Denis Stockhausen. Next up: Gewölbe, Cologne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ oskø is a techno artist tracked on soundcheck, with 17 sets logged across Berli
 
 Michael Mayer, Visky, Denis Stockhausen
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osko/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osko/)*

@@ -1,6 +1,6 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Wiggle Room Records Release Party: CARLOS MENACA [Spain]" on Sat, 26 Sept 2026.
+Wiggle Room is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Wiggle Room Records Release Party: CARLOS MENACA [Spain]" on Sat, 26 Sept 2026.
 
 Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
@@ -22,4 +22,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, w
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

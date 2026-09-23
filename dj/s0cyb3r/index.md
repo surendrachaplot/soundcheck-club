@@ -1,6 +1,6 @@
 # S0 CYB3R
 
-S0 CYB3R is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - 818-724-7836, Los Angeles on Fri, 30 Oct 2026.
+S0 CYB3R is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - 818-724-7836, Los Angeles on Fri, 30 Oct 2026.
 
 S0 CYB3R is a techno and hardcore artist tracked on soundcheck, with 9 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside BL4ZE, Borgore and Lucinee. Next up: TBA - 818-724-7836, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ S0 CYB3R is a techno and hardcore artist tracked on soundcheck, with 9 sets logg
 
 BL4ZE, Borgore, Lucinee
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s0cyb3r/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s0cyb3r/)*

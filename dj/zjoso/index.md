@@ -1,6 +1,6 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Tender, Melbourne on Sat, 26 Sept 2026.
+Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tender, Melbourne on Sat, 26 Sept 2026.
 
 Zjoso is a house and deep house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Ed Kent. Next up: Tender, Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Zjoso is a house and deep house artist tracked on soundcheck, with 94 sets logge
 
 Zepherin Saint, DJ JNETT, Ed Kent
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*

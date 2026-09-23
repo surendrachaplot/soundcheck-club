@@ -1,6 +1,6 @@
 # Hideto Omura
 
-Hideto Omura is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paloma, Berlin on Thu, 15 Oct 2026.
+Hideto Omura is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Thu, 15 Oct 2026.
 
 Hideto Omura is a house and disco artist tracked on soundcheck, with 45 sets logged across Berlin and Tokyo. Often billed alongside Mini Nik, Akirahawks and Mat Fink. Next up: Paloma, Berlin on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Hideto Omura is a house and disco artist tracked on soundcheck, with 45 sets log
 
 Mini Nik, Akirahawks, Mat Fink
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidetoomura/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hidetoomura/)*

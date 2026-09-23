@@ -1,6 +1,6 @@
 # Nicco Lupen
 
-Nicco Lupen is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Richy Happy Bar, Prague on Sat, 26 Sept 2026.
+Nicco Lupen is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Richy Happy Bar, Prague on Sat, 26 Sept 2026.
 
 Nicco Lupen is a house and tech house artist tracked on soundcheck, with 37 sets logged across Prague. Often billed alongside Romerlin, Sam Gittis and Chris Rosewarne. Next up: Richy Happy Bar, Prague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Nicco Lupen is a house and tech house artist tracked on soundcheck, with 37 sets
 
 Romerlin, Sam Gittis, Chris Rosewarne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niccolupen/)*

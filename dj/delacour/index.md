@@ -1,6 +1,6 @@
 # DELACOUR
 
-DELACOUR is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Barbary, Philadelphia on Sat, 26 Sept 2026.
+DELACOUR is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Barbary, Philadelphia on Sat, 26 Sept 2026.
 
 DELACOUR is a minimal and house artist based in Bhutan, tracked on soundcheck, with 13 sets logged across Austin, Berlin, Losangeles and Newyorkcity and 3 more. Often billed alongside Amy Jor, AC Slater and ANATTA. Next up: The Barbary, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DELACOUR is a minimal and house artist based in Bhutan, tracked on soundcheck, w
 
 Amy Jor, AC Slater, ANATTA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delacour/)*

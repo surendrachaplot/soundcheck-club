@@ -1,6 +1,6 @@
 # Ponybarker
 
-Ponybarker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
+Ponybarker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
 
 Ponybarker is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg and Nurnberg. Often billed alongside Phauna, Leon Licht and Luca Hagenmüller. Next up: Mellowpark, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ponybarker is a techno and house artist based in Germany, tracked on soundcheck,
 
 Phauna, Leon Licht, Luca Hagenmüller
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponybarker/)*

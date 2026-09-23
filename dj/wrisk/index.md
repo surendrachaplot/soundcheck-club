@@ -1,6 +1,6 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 11 Oct 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 11 Oct 2026.
 
 Wrisk is a techno and hardcore artist tracked on soundcheck, with 77 sets logged across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: Sneaky Pete's, Edinburgh on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Wrisk is a techno and hardcore artist tracked on soundcheck, with 77 sets logged
 
 DV60, Smiff, Sea Urchin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

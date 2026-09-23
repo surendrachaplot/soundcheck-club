@@ -1,6 +1,6 @@
 # 2M
 
-2M is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Supermarket, Zurich on Sat, 14 Nov 2026.
+2M is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Supermarket, Zurich on Sat, 14 Nov 2026.
 
 2M is a techno and deep house artist based in Germany, tracked on soundcheck, with 16 sets logged across Brussels, Copenhagen, Dublin and Madrid and 2 more. Often billed alongside Alex Dallas, Manuel Fischer and Kalabrese. Next up: Supermarket, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@
 
 Alex Dallas, Manuel Fischer, Kalabrese
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*

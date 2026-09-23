@@ -1,6 +1,6 @@
 # Bensonius
 
-Bensonius is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Helios37, Cologne on Fri, 16 Oct 2026.
+Bensonius is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Helios37, Cologne on Fri, 16 Oct 2026.
 
 Bensonius is a techno and trance artist based in Germany, tracked on soundcheck, with 55 sets logged across Cologne. Often billed alongside Marco Eisenberg, DJ SODBRENNEN and ADEMES. Next up: Helios37, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bensonius is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Marco Eisenberg, DJ SODBRENNEN, ADEMES
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensonius/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensonius/)*

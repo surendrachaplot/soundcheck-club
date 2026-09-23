@@ -1,6 +1,6 @@
 # Rocky Valley Garden
 
-Rocky Valley Garden is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "JUNGLE + DRUM & BASS / MIB CREW SHOWCASE" on Fri, 9 Oct 2026.
+Rocky Valley Garden is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "JUNGLE + DRUM & BASS / MIB CREW SHOWCASE" on Fri, 9 Oct 2026.
 
 Rocky Valley Garden is a music venue in Malta listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Triq Mikel Ang Borg, Spinola Bay, San Giljan, Malta.
 
@@ -14,4 +14,4 @@ Rocky Valley Garden is a music venue in Malta listed on soundcheck. 1 upcoming g
 
 Triq Mikel Ang Borg, Spinola Bay, San Giljan, Malta, Malta
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/rocky-valley-garden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/rocky-valley-garden/)*

@@ -1,6 +1,6 @@
 # Basement Jaxx
 
-Basement Jaxx is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
+Basement Jaxx is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Basement Jaxx is a house and disco artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Auckland, Barcelona, Bristol and Chicago and 13 more. Often billed alongside Melvo Baptiste, DJ Paulette and Eats Everything. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Basement Jaxx is a house and disco artist based in United Kingdom, tracked on so
 
 Melvo Baptiste, DJ Paulette, Eats Everything
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basementjaxx/)*

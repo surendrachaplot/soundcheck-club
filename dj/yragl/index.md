@@ -1,6 +1,6 @@
 # Yrag L
 
-Yrag L is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
+Yrag L is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
 
 Yrag L is a techno and industrial artist based in Malaysia, tracked on soundcheck, with 30 sets logged across Kualalumpur. Often billed alongside Roobs, Ozeryeha and 96000hz. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Yrag L is a techno and industrial artist based in Malaysia, tracked on soundchec
 
 Roobs, Ozeryeha, 96000hz
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yragl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yragl/)*

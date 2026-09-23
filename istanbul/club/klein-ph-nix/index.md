@@ -1,6 +1,6 @@
 # Klein Phönix
 
-Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Cristoph + Krey b2b Alter + HZR + Faruk" on Fri, 25 Sept 2026.
+Klein Phönix is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Cristoph + Krey b2b Alter + HZR + Faruk" on Fri, 25 Sept 2026.
 
 Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Anfisa Letyago, Black Batu, Cenk Tripper and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Klein Phönix is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs
 
 Atatürk Oto Sanayi Sitesi 52 Sokak No: 12/1, Maslak, Istanbul, Turkey, Istanbul
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/klein-ph-nix/)*

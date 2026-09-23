@@ -1,6 +1,6 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
+Tala Berg is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
 
 Tala Berg is a techno and downtempo artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Munich. Often billed alongside Wanda Wild, ANASTASÍA and Amøn. Next up: gART.n, Berlin on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ Tala Berg is a techno and downtempo artist based in Germany, tracked on soundche
 
 Wanda Wild, ANASTASÍA, Amøn
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

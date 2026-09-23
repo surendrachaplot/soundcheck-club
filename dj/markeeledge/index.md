@@ -1,6 +1,6 @@
 # Markee Ledge
 
-Markee Ledge is a Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
+Markee Ledge is a Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
 
 Markee Ledge is a drum & bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Prague. Often billed alongside Eska, S.P.Y and J:Kenzo. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Markee Ledge is a drum & bass artist based in United Kingdom, tracked on soundch
 
 Eska, S.P.Y, J:Kenzo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markeeledge/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markeeledge/)*

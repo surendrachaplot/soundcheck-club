@@ -1,6 +1,6 @@
 # SurfingDJs
 
-SurfingDJs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Rose, New York City on Fri, 9 Oct 2026.
+SurfingDJs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Rose, New York City on Fri, 9 Oct 2026.
 
 SurfingDJs is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Ibiza and Newyorkcity. Often billed alongside ROBOTRAN, FTZGRLD and DJ Sauci Soni. Next up: The Rose, Newyorkcity on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ SurfingDJs is a techno and house artist based in United States of America, track
 
 ROBOTRAN, FTZGRLD, DJ Sauci Soni
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*

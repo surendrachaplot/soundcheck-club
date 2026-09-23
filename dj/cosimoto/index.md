@@ -1,6 +1,6 @@
 # Cosimoto
 
-Cosimoto is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
+Cosimoto is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
 
 Cosimoto is a bass and drum & bass artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Munich. Often billed alongside Polaster, Tyra and Kamikatze. Next up: Unter Deck, Munich on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Cosimoto is a bass and drum & bass artist based in Germany, tracked on soundchec
 
 Polaster, Tyra, Kamikatze
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimoto/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosimoto/)*

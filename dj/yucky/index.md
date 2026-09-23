@@ -1,6 +1,6 @@
 # Yucky
 
-Yucky is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Toffler, Rotterdam on Fri, 9 Oct 2026.
+Yucky is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Toffler, Rotterdam on Fri, 9 Oct 2026.
 
 Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Rotterdam, Sanfrancisco and Sydney and 1 more. Often billed alongside Nala, Styn and A For Alpha. Next up: Toffler, Rotterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Yucky is a dubstep and house artist based in Netherlands, tracked on soundcheck,
 
 Nala, Styn, A For Alpha
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yucky/)*

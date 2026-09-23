@@ -1,6 +1,6 @@
 # Chris Wilson
 
-Chris Wilson is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Chris Wilson is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Chris Wilson is a pop and house artist tracked on soundcheck, with 3 sets logged across Brisbane and Detroit. Often billed alongside Al Ester, Anna Sonnenburg and Ashton Swinton. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -19,4 +19,4 @@ Chris Wilson is a pop and house artist tracked on soundcheck, with 3 sets logged
 
 Al Ester, Anna Sonnenburg, Ashton Swinton
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswilson/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswilson/)*

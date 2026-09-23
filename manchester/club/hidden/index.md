@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends " on Thu, 24 Sept 2026.
+Hidden is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Jungle & DnB Rave: Fixate b2b Fracture, VXRGO, Trends " on Thu, 24 Sept 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including Agnelli & Nelson, Amelia Leigh, Amoss and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

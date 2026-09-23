@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice" on Wed, 23 Sept 2026.
+Jupiter Disco is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice" on Wed, 23 Sept 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

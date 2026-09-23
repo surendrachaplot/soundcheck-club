@@ -1,6 +1,6 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fuse, Brussels on Fri, 2 Oct 2026.
+The Ghost is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fuse, Brussels on Fri, 2 Oct 2026.
 
 The Ghost is a house and tech house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 38 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Fuse, Brussels on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 177 sets 
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

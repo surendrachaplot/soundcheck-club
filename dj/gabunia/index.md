@@ -1,6 +1,6 @@
 # Gabunia
 
-Gabunia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
+Gabunia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
 
 Gabunia is a club and house artist tracked on soundcheck, with 7 sets logged across Newyorkcity and Tbilisi. Often billed alongside Ash Scholem, Rati and Vakho. Next up: The 1896, Newyorkcity on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Gabunia is a club and house artist tracked on soundcheck, with 7 sets logged acr
 
 Ash Scholem, Rati, Vakho
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabunia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabunia/)*

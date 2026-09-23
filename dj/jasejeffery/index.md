@@ -1,6 +1,6 @@
 # Jase Jeffery
 
-Jase Jeffery is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Honey Street Studio, Manchester on Sat, 31 Oct 2026.
+Jase Jeffery is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Honey Street Studio, Manchester on Sat, 31 Oct 2026.
 
 Jase Jeffery is a house and techno artist tracked on soundcheck, with 49 sets logged across London, Manchester and Sheffield. Often billed alongside David James MCR, Esmé and Aiden Francis. Next up: Honey Street Studio, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jase Jeffery is a house and techno artist tracked on soundcheck, with 49 sets lo
 
 David James MCR, Esmé, Aiden Francis
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasejeffery/)*

@@ -1,6 +1,6 @@
 # La Cigale
 
-La Cigale is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Parra for Cuva" on Fri, 2 Oct 2026.
+La Cigale is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Parra for Cuva" on Fri, 2 Oct 2026.
 
 La Cigale is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Bellaire and Parra for Cuva. Browse upcoming dates, start times and who's playing. 120 boulevard Rochechouart; 75018; Paris; France.
 
@@ -15,4 +15,4 @@ La Cigale is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with 
 
 120 boulevard Rochechouart; 75018; Paris; France, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cigale/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cigale/)*

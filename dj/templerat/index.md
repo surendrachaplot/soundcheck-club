@@ -1,6 +1,6 @@
 # Temple Rat
 
-Temple Rat is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
+Temple Rat is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Cheek, London on Sun, 27 Sept 2026.
 
 Temple Rat is a techno and house artist based in China, tracked on soundcheck, with 51 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Alicia Carrera. Next up: Club Cheek, London on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ Temple Rat is a techno and house artist based in China, tracked on soundcheck, w
 
 David Fogarty, Sound Metaphors Djs, Alicia Carrera
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/templerat/)*

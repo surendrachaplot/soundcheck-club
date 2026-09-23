@@ -1,6 +1,6 @@
 # Finnebassen
 
-Finnebassen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Finnebassen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Finnebassen is a house and deep house artist tracked on soundcheck, with 22 sets logged across London, Malta, Manchester and Melbourne and 1 more. Often billed alongside G-HA, Olanskii and George Mensah. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Finnebassen is a house and deep house artist tracked on soundcheck, with 22 sets
 
 G-HA, Olanskii, George Mensah
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finnebassen/)*

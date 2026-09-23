@@ -1,6 +1,6 @@
 # deadfish eyes
 
-deadfish eyes is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Forestlimit, Tokyo on Wed, 23 Sept 2026.
+deadfish eyes is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Forestlimit, Tokyo on Wed, 23 Sept 2026.
 
 deadfish eyes is an experimental and bass artist tracked on soundcheck, with 37 sets logged across Tokyo. Often billed alongside ippaida storage, BBBBBBB and ato夢. Next up: Forestlimit, Tokyo on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ deadfish eyes is an experimental and bass artist tracked on soundcheck, with 37 
 
 ippaida storage, BBBBBBB, ato夢
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadfisheyes/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadfisheyes/)*

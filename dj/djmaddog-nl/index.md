@@ -1,6 +1,6 @@
 # DJ Mad Dog
 
-DJ Mad Dog is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Parc Des Expositions, Paris on Sat, 19 Dec 2026.
+DJ Mad Dog is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Parc Des Expositions, Paris on Sat, 19 Dec 2026.
 
 DJ Mad Dog is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Antwerp, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Ghost in the Machine, Mad Dog and OGUZ. Next up: Parc Des Expositions, Paris on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ DJ Mad Dog is a techno and hardcore artist tracked on soundcheck, with 17 sets l
 
 Ghost in the Machine, Mad Dog, OGUZ
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaddog-nl/)*

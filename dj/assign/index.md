@@ -1,6 +1,6 @@
 # ASSIGN
 
-ASSIGN is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at R Lounge, Tokyo on Fri, 23 Oct 2026.
+ASSIGN is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at R Lounge, Tokyo on Fri, 23 Oct 2026.
 
 ASSIGN is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside Velocity, ATAMI and CRAZYHYUGA. Next up: R Lounge, Tokyo on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ ASSIGN is a drum & bass and techno artist based in Japan, tracked on soundcheck,
 
 Velocity, ATAMI, CRAZYHYUGA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assign/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assign/)*

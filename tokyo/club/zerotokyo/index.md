@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "NETHER TOKYO vol.2" on Tue, 22 Sept 2026.
+ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "NETHER TOKYO vol.2" on Tue, 22 Sept 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including akii, Altemica, ATAMI and AVALON and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

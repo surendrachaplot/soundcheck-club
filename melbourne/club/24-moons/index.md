@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GHARnd Final Eve with FOURA (All profits to Dhadjowa)" on Fri, 25 Sept 2026.
+24 Moons is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "GHARnd Final Eve with FOURA (All profits to Dhadjowa)" on Fri, 25 Sept 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Amber Ferraro, Crozier, DJ Luv You and FOURA and 2 more. Browse upcoming dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -17,4 +17,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

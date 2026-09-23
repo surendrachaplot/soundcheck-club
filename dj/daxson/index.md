@@ -1,6 +1,6 @@
 # Daxson
 
-Daxson is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Daxson is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Daxson is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Glasgow, Liverpool and London and 11 more. Often billed alongside Amy Wiles, Billy Gillies and Ciaran McAuley. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Daxson is a trance and progressive house artist based in United Kingdom, tracked
 
 Amy Wiles, Billy Gillies, Ciaran McAuley
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxson/)*

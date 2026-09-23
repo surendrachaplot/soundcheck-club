@@ -1,6 +1,6 @@
 # fraudoktor.
 
-fraudoktor. is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
+fraudoktor. is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
 
 fraudoktor. is a techno and bass artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside RAW DJ, Zoran and jass:minute. Next up: Mucha, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ fraudoktor. is a techno and bass artist tracked on soundcheck, with 5 sets logge
 
 RAW DJ, Zoran, jass:minute
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraudoktor/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraudoktor/)*

@@ -1,14 +1,15 @@
 # Fig (DYN)
 
-Fig (DYN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
+Fig (DYN) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
 
-Fig (DYN) is a house and techno artist based in Mexico, tracked on soundcheck, with 65 sets logged across Bristol and Mexicocity. Often billed alongside Toledano, Vanilla Storm and DJ B2B. Next up: YuYu Cine Club, Mexicocity on Sat 3 Oct.
+Fig (DYN) is a house and techno artist based in Mexico, tracked on soundcheck, with 66 sets logged across Bristol and Mexicocity. Often billed alongside Toledano, Fina and Vanilla Storm. Next up: YuYu Cine Club, Mexicocity on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | YuYu Cine Club | Mexico City |
+| Sun, 1 Nov 2026 | Salon Palomilla | Mexico City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Fig (DYN) is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 ## Shares bills with
 
-Toledano, Vanilla Storm, DJ B2B
+Toledano, Fina, Vanilla Storm
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/figdyn/)*

@@ -1,6 +1,6 @@
 # MAURER
 
-MAURER is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OST, Berlin on Thu, 24 Sept 2026.
+MAURER is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Thu, 24 Sept 2026.
 
 MAURER is a techno and trance artist based in Spain, tracked on soundcheck, with 30 sets logged across Berlin, Buenosaires, Cologne and Frankfurt and 5 more. Often billed alongside VOICEX, FILTRACK and PØVE. Next up: OST, Berlin on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ MAURER is a techno and trance artist based in Spain, tracked on soundcheck, with
 
 VOICEX, FILTRACK, PØVE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*

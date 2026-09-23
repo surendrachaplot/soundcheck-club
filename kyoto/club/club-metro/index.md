@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 34 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GREENS & SECOND ROYAL presents 「優游涵泳 5」" on Tue, 22 Sept 2026.
+Club Metro is a music venue in Kyoto with 34 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "GREENS & SECOND ROYAL presents 「優游涵泳 5」" on Tue, 22 Sept 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 34 upcoming gigs, with line-ups including CH.0, DJ Krush, DJ Mitsu The Beats and DMITRI ABSINTHE and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 34 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,6 +1,6 @@
 # Main Identity
 
-Main Identity is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 3 Oct 2026.
+Main Identity is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 3 Oct 2026.
 
 Main Identity is a techno and progressive house artist tracked on soundcheck, with 32 sets logged across Amsterdam and Berlin. Often billed alongside Alex Sharp, RTUR and Ides of March. Next up: Kadinsky Cafe, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Main Identity is a techno and progressive house artist tracked on soundcheck, wi
 
 Alex Sharp, RTUR, Ides of March
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainidentity/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainidentity/)*

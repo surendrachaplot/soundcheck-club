@@ -1,6 +1,6 @@
 # Villain
 
-Villain is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Villain is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Villain is a hardcore and techno artist tracked on soundcheck, with 5 sets logged across Cologne, Frankfurt, Munich and Paris and 1 more. Often billed alongside Brennan Heart, Adjuzt and Dual Damage. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Villain is a hardcore and techno artist tracked on soundcheck, with 5 sets logge
 
 Brennan Heart, Adjuzt, Dual Damage
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villain/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villain/)*

@@ -1,6 +1,6 @@
 # Shawn Ryan
 
-Shawn Ryan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Johnny Brenda's, Philadelphia on Thu, 24 Sept 2026.
+Shawn Ryan is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Johnny Brenda's, Philadelphia on Thu, 24 Sept 2026.
 
 Shawn Ryan is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Philadelphia and Washingtondc. Often billed alongside Universal Cave, Michael The Lion and DEL (11). Next up: Johnny Brenda's, Philadelphia on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Shawn Ryan is a house and disco artist based in United States of America, tracke
 
 Universal Cave, Michael The Lion, DEL (11)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnryan/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnryan/)*

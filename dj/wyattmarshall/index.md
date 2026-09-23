@@ -1,13 +1,14 @@
 # Wyatt Marshall
 
-Wyatt Marshall is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
+Wyatt Marshall is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Sun, 1 Nov 2026.
 
-Wyatt Marshall is a house and minimal artist tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Lubelski, Cristoph and Hannah Wants. Next up: TBA - DTLA, Losangeles on Sat 7 Nov.
+Wyatt Marshall is a house and deep house artist tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Lubelski, Cristoph and Hannah Wants. Next up: TBA, Losangeles on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | TBA | Los Angeles |
 | Sat, 7 Nov 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Wyatt Marshall is a house and minimal artist tracked on soundcheck, with 13 sets
 
 Lubelski, Cristoph, Hannah Wants
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyattmarshall/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyattmarshall/)*

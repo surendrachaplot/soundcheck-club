@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "TECLIPSE: LUSU × Ken Ishii — ONE NIGHT IN TOKYO(TECHNO)" on Tue, 22 Sept 2026.
+Z Maruyama is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TECLIPSE: LUSU × Ken Ishii — ONE NIGHT IN TOKYO(TECHNO)" on Tue, 22 Sept 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including AHREUM, ALEXANDER M, ATAMI and DJ Shufflemaster and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -22,4 +22,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

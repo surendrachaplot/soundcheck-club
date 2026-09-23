@@ -1,6 +1,6 @@
 # Santeria Toscana 31
 
-Santeria Toscana 31 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "GESTALT" on Thu, 24 Sept 2026.
+Santeria Toscana 31 is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "GESTALT" on Thu, 24 Sept 2026.
 
 Santeria Toscana 31 is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Guayaba and Violett Moon. Browse upcoming dates, start times and who's playing. Viale Toscana 31, 20136 Milan (MI).
 
@@ -17,4 +17,4 @@ Santeria Toscana 31 is a music venue in Milan listed on soundcheck. 4 upcoming g
 
 Viale Toscana 31, 20136 Milan (MI), Milan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/santeria-toscana-31/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/santeria-toscana-31/)*

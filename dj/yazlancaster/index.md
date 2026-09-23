@@ -1,6 +1,6 @@
 # Yaz Lancaster
 
-Yaz Lancaster is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Nowadays, New York City on Thu, 24 Sept 2026.
+Yaz Lancaster is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nowadays, New York City on Thu, 24 Sept 2026.
 
 Yaz Lancaster is a club and experimental artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, London and Newyorkcity. Often billed alongside Soo Intoit, ARCHANGEL (US) and Kilbourne. Next up: Nowadays, Newyorkcity on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Yaz Lancaster is a club and experimental artist based in United States of Americ
 
 Soo Intoit, ARCHANGEL (US), Kilbourne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazlancaster/)*

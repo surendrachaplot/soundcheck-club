@@ -1,6 +1,6 @@
 # Masa Saji
 
-Masa Saji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club der Visionaere, Berlin on Mon, 28 Sept 2026.
+Masa Saji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club der Visionaere, Berlin on Mon, 28 Sept 2026.
 
 Masa Saji is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin and Tokyo. Often billed alongside Christopher Lawrenz, RAFAELO and Clovis. Next up: Club der Visionaere, Berlin on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Masa Saji is a techno and house artist tracked on soundcheck, with 12 sets logge
 
 Christopher Lawrenz, RAFAELO, Clovis
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masasaji/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masasaji/)*

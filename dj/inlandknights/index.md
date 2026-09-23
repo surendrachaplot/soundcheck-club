@@ -1,6 +1,6 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Fri, 9 Oct 2026.
+Inland Knights is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Fri, 9 Oct 2026.
 
 Inland Knights is a house and deep house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Cadavra, Madrid on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Inland Knights is a house and deep house artist tracked on soundcheck, with 33 s
 
 Buckley, Elliot Schooling, Fleur Shore
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

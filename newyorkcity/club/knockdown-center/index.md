@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sasha & John Digweed: All Night Long" on Fri, 25 Sept 2026.
+Knockdown Center is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sasha & John Digweed: All Night Long" on Fri, 25 Sept 2026.
 
 Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcoming gigs, with line-ups including 19:26, Afem Syko, Anastazja and BELLADONNA and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -23,4 +23,4 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 19 upcomi
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

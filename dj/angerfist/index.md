@@ -1,6 +1,6 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Angerfist is a techno and hardcore artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Mad Dog, Partyraiser and Alignment. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 68 sets lo
 
 Mad Dog, Partyraiser, Alignment
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

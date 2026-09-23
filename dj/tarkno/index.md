@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Badaboum, Paris on Sat, 24 Oct 2026.
+Tarkno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Badaboum, Paris on Sat, 24 Oct 2026.
 
 Tarkno is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 30 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Badaboum, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tarkno is a techno and house artist tracked on soundcheck, with 106 sets logged 
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

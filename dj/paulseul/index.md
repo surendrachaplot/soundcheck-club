@@ -1,6 +1,6 @@
 # Paul Seul
 
-Paul Seul is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
+Paul Seul is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
 
 Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Brussels and 15 more. Often billed alongside Glayden, Von Bikräv and Goffbaby. Next up: Mia Mao, Paris on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Paul Seul is a techno and hardcore artist based in France, tracked on soundcheck
 
 Glayden, Von Bikräv, Goffbaby
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulseul/)*

@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Smolna, Warsaw on Fri, 2 Oct 2026.
+Anetha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Smolna, Warsaw on Fri, 2 Oct 2026.
 
 Anetha is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: Smolna, Warsaw on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Anetha is a techno and house artist tracked on soundcheck, with 207 sets logged 
 
 Mac Declos, VEL (MA), DJ Gigola
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

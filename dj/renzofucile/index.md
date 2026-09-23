@@ -1,6 +1,6 @@
 # Renzo Fucile
 
-Renzo Fucile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 27 Sept 2026.
+Renzo Fucile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 27 Sept 2026.
 
 Renzo Fucile is a house and electro artist based in Argentina, tracked on soundcheck, with 5 sets logged across Barcelona and Paris. Often billed alongside Dimarziio, AM IN and Aldo. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Renzo Fucile is a house and electro artist based in Argentina, tracked on soundc
 
 Dimarziio, AM IN, Aldo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renzofucile/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renzofucile/)*

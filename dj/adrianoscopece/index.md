@@ -1,6 +1,6 @@
 # Adriano Scopece
 
-Adriano Scopece is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paloma, Berlin on Sat, 28 Nov 2026.
+Adriano Scopece is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Sat, 28 Nov 2026.
 
 Adriano Scopece is a disco and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Milan, Naples and Rome and 1 more. Often billed alongside Love Connection, ARMANDO and Ben Reymann. Next up: Paloma, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Adriano Scopece is a disco and house artist based in Italy, tracked on soundchec
 
 Love Connection, ARMANDO, Ben Reymann
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoscopece/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoscopece/)*

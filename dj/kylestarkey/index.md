@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Kyle Starkey is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
 Kyle Starkey is a techno and house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 38 more. Often billed alongside DART, Benwal and Faster Horses. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 171 sets l
 
 DART, Benwal, Faster Horses
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

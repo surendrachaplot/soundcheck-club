@@ -1,6 +1,6 @@
 # 17 Little Portland Street
 
-17 Little Portland Street is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Seeing Double in Little Portland with Jade Seatle" on Thu, 1 Oct 2026.
+17 Little Portland Street is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Seeing Double in Little Portland with Jade Seatle" on Thu, 1 Oct 2026.
 
 17 Little Portland Street is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including B.Love, E.LINA, Harry McCanna and Jade Seatle. Browse upcoming dates, start times and who's playing. 17 Little Portland Street, London W1W 8BP.
 
@@ -15,4 +15,4 @@
 
 17 Little Portland Street, London W1W 8BP, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/17-little-portland-street/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/17-little-portland-street/)*

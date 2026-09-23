@@ -1,6 +1,6 @@
 # Chihoshi
 
-Chihoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
+Chihoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
 
 Chihoshi is a house and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Kengo Groove, YOYOHEI and kRs (2). Next up: VENT, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Chihoshi is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Kengo Groove, YOYOHEI, kRs (2)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chihoshi/)*

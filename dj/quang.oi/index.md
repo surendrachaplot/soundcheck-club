@@ -1,6 +1,6 @@
 # quang.oi
 
-quang.oi is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Denver on Fri, 2 Oct 2026.
+quang.oi is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Denver on Fri, 2 Oct 2026.
 
 quang.oi is a techno and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Austin, Denver, Portland and Toronto. Often billed alongside 2HZY, Clarisa Kimskii and DINO (3). Next up: TBA, Denver on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ quang.oi is a techno and ambient artist based in United States of America, track
 
 2HZY, Clarisa Kimskii, DINO (3)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quang.oi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quang.oi/)*

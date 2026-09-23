@@ -1,6 +1,6 @@
 # BUSSI
 
-BUSSI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kater, Berlin on Sat, 14 Nov 2026.
+BUSSI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kater, Berlin on Sat, 14 Nov 2026.
 
 BUSSI is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside ONNI, Ozarc and FEVZEE. Next up: Kater, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BUSSI is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 ONNI, Ozarc, FEVZEE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*

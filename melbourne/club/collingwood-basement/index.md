@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "INDIGO 4YRS - Ft. Anyo, bellxsxs, Casey Leaver, INDIGO DJS - Collingwood Basement" on Sat, 26 Sept 2026.
+Collingwood Basement is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "INDIGO 4YRS - Ft. Anyo, bellxsxs, Casey Leaver, INDIGO DJS - Collingwood Basement" on Sat, 26 Sept 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including AROHA, bellxsxs, Casey Leaver and James Curd and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -17,4 +17,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 4 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

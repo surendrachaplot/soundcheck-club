@@ -1,8 +1,8 @@
 # Monk (2)
 
-Monk (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Outer Heaven, New York City on Fri, 9 Oct 2026.
+Monk (2) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outer Heaven, New York City on Fri, 9 Oct 2026.
 
-Monk (2) is a house and techno artist based in Switzerland, tracked on soundcheck, with 37 sets logged across Boston, Geneva, Miami and Newyorkcity and 1 more. Often billed alongside Armii1n, Choukroun and Zayd. Next up: Outer Heaven, Newyorkcity on Fri 9 Oct.
+Monk (2) is a house and techno artist based in Switzerland, tracked on soundcheck, with 38 sets logged across Boston, Geneva, Miami and Newyorkcity and 1 more. Often billed alongside Armii1n, Choukroun and Zayd. Next up: Outer Heaven, Newyorkcity on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Monk (2) is a house and techno artist based in Switzerland, tracked on soundchec
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Outer Heaven | New York City |
 | Fri, 9 Oct 2026 | Outer Heaven | New York City |
+| Wed, 21 Oct 2026 | Outer Heaven | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Monk (2) is a house and techno artist based in Switzerland, tracked on soundchec
 
 Armii1n, Choukroun, Zayd
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*

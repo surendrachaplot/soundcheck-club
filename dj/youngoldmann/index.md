@@ -1,6 +1,6 @@
 # young oldmann
 
-young oldmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+young oldmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 young oldmann is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Felix Cornelsen, BBYG and DJ CHICHI. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ young oldmann is a house and techno artist tracked on soundcheck, with 5 sets lo
 
 Felix Cornelsen, BBYG, DJ CHICHI
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngoldmann/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngoldmann/)*

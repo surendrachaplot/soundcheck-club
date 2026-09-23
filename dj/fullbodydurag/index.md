@@ -1,6 +1,6 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - TULUM DETROIT 3400 Bagley St, Detroit on Sat, 26 Sept 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - TULUM DETROIT 3400 Bagley St, Detroit on Sat, 26 Sept 2026.
 
 Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 83 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: TBA - TULUM DETROIT 3400 Bagley St, Detroit on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*

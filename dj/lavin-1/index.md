@@ -1,6 +1,6 @@
 # Lavin (1)
 
-Lavin (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Flux, Istanbul on Fri, 16 Oct 2026.
+Lavin (1) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Flux, Istanbul on Fri, 16 Oct 2026.
 
 Lavin (1) is a house and club artist based in Turkey, tracked on soundcheck, with 9 sets logged across Istanbul. Often billed alongside Queto, Philip Ackowsky and Teenage Mutants. Next up: Flux, Istanbul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lavin (1) is a house and club artist based in Turkey, tracked on soundcheck, wit
 
 Queto, Philip Ackowsky, Teenage Mutants
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavin-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavin-1/)*

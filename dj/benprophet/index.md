@@ -1,6 +1,6 @@
 # Ben Prophet
 
-Ben Prophet is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at NX Newcastle, Newcastle on Sat, 17 Oct 2026.
+Ben Prophet is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NX Newcastle, Newcastle on Sat, 17 Oct 2026.
 
 Ben Prophet is a techno and breakbeat artist tracked on soundcheck, with 15 sets logged across Cork, Dublin, Manchester and Melbourne and 2 more. Often billed alongside Faster Horses, Alousea and Bella Claxton. Next up: NX Newcastle, Newcastle on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ben Prophet is a techno and breakbeat artist tracked on soundcheck, with 15 sets
 
 Faster Horses, Alousea, Bella Claxton
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benprophet/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benprophet/)*

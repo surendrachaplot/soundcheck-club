@@ -1,6 +1,6 @@
 # Huey Mnemonic
 
-Huey Mnemonic is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Berry Gordy Motown Mansion, Detroit on Sun, 27 Sept 2026.
+Huey Mnemonic is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Berry Gordy Motown Mansion, Detroit on Sun, 27 Sept 2026.
 
 Huey Mnemonic is a techno and house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Berry Gordy Motown Mansion, Detroit on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Huey Mnemonic is a techno and house artist based in United States of America, tr
 
 D. Strange, Underground Resistance, 2Lanes
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*

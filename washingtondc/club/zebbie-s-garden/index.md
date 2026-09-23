@@ -1,6 +1,6 @@
 # Zebbie's Garden
 
-Zebbie's Garden is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Flower Factory feat. Shaun J. Wright" on Sun, 11 Oct 2026.
+Zebbie's Garden is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Flower Factory feat. Shaun J. Wright" on Sun, 11 Oct 2026.
 
 Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 3 upcoming gigs, with line-ups including Gail Force One, Joann Fabrixx, Prince Rose and PWRPUFF and 1 more. Browse upcoming dates, start times and who's playing. 1223 Connecticut Ave NW, Washington, DC 20036.
 
@@ -16,4 +16,4 @@ Zebbie's Garden is a music venue in Washingtondc listed on soundcheck. 3 upcomin
 
 1223 Connecticut Ave NW, Washington, DC 20036, Washington DC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/zebbie-s-garden/)*

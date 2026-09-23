@@ -1,6 +1,6 @@
 # Korsakoff
 
-Korsakoff is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Korsakoff is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Korsakoff is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Dortmund-essen and Frankfurt and 9 more. Often billed alongside Angerfist, Mad Dog and The Dark Horror. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Korsakoff is a hardcore and gabber artist based in Netherlands, tracked on sound
 
 Angerfist, Mad Dog, The Dark Horror
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*

@@ -1,6 +1,6 @@
 # Franklin Music Hall
 
-Franklin Music Hall is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Making Time PURE HALLOWEEN with Boy Harsher, Model/Actriz, Conducta, Marie Davidson & MORE " on Sat, 31 Oct 2026.
+Franklin Music Hall is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Making Time PURE HALLOWEEN with Boy Harsher, Model/Actriz, Conducta, Marie Davidson & MORE " on Sat, 31 Oct 2026.
 
 Franklin Music Hall is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Boy Harsher, Conducta, Dave P and Kassie Krut and 1 more. Browse upcoming dates, start times and who's playing. 421 N 7th St, Philadelphia, PA 19123, USA.
 
@@ -14,4 +14,4 @@ Franklin Music Hall is a music venue in Philadelphia listed on soundcheck. 1 upc
 
 421 N 7th St, Philadelphia, PA 19123, USA, Philadelphia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/franklin-music-hall/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/franklin-music-hall/)*

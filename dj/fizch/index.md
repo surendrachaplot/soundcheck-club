@@ -1,6 +1,6 @@
 # Fizch
 
-Fizch is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
+Fizch is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 20 Nov 2026.
 
 Fizch is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Losangeles, Toronto and Vancouver. Often billed alongside DK PAU, C-Star and POPU. Next up: TBA - Los Angeles, Losangeles on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Fizch is a techno and house artist tracked on soundcheck, with 79 sets logged ac
 
 DK PAU, C-Star, POPU
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fizch/)*

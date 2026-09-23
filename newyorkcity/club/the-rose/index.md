@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Duality" on Thu, 24 Sept 2026.
+The Rose is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Duality" on Thu, 24 Sept 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, with line-ups including 7ACHIEF, DJ Sauci Soni, FTZGRLD and Gino Santos and 2 more. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -18,4 +18,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs, 
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

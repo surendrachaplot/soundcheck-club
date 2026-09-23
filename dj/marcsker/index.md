@@ -1,6 +1,6 @@
 # Marc Sker
 
-Marc Sker is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Marc Sker is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
 Marc Sker is a progressive house and house artist based in Austria, tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside NESS T, Aside (AT) and Esther. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Marc Sker is a progressive house and house artist based in Austria, tracked on s
 
 NESS T, Aside (AT), Esther
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsker/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcsker/)*

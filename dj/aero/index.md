@@ -1,6 +1,6 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OXI, Berlin on Tue, 6 Oct 2026.
+Aero (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Tue, 6 Oct 2026.
 
 Aero (1) is a techno and house artist tracked on soundcheck, with 49 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Ayolxi, Cailín and MEJMI. Next up: OXI, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Aero (1) is a techno and house artist tracked on soundcheck, with 49 sets logged
 
 Ayolxi, Cailín, MEJMI
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aero/)*

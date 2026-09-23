@@ -1,6 +1,6 @@
 # Martyr Princess
 
-Martyr Princess is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+Martyr Princess is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Martyr Princess is a techno and reggaeton artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside @djlobottomy, PALE YELLOW and xtcemi. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Martyr Princess is a techno and reggaeton artist based in United States of Ameri
 
 @djlobottomy, PALE YELLOW, xtcemi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyrprincess/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyrprincess/)*

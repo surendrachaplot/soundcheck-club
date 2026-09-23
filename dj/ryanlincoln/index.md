@@ -1,6 +1,6 @@
 # Ryan Lincoln
 
-Ryan Lincoln is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Motiv, San Francisco/Oakland on Wed, 7 Oct 2026.
+Ryan Lincoln is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Motiv, San Francisco/Oakland on Wed, 7 Oct 2026.
 
 Ryan Lincoln is a garage and breakbeat artist tracked on soundcheck, with 7 sets logged across Sanfrancisco. Often billed alongside Alex Edward, AceMo and Adware. Next up: Motiv, Sanfrancisco on Wed 7 Oct.
 
@@ -23,4 +23,4 @@ Ryan Lincoln is a garage and breakbeat artist tracked on soundcheck, with 7 sets
 
 Alex Edward, AceMo, Adware
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlincoln/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlincoln/)*

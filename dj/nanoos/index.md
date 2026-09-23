@@ -1,8 +1,8 @@
 # Nanoos
 
-Nanoos is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
+Nanoos is a Ghetto Tech and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
 
-Nanoos is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 85 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Fullbodydurag and Nadim Maghzal. Next up: TBA - Wicker Park, Chicago on Sat 26 Sept.
+Nanoos is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 86 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Fullbodydurag and Nadim Maghzal. Next up: TBA - Wicker Park, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nanoos is a ghetto tech and club artist based in United States of America, track
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Wicker Park | Chicago |
 | Fri, 2 Oct 2026 | Big Pink | Detroit |
+| Fri, 30 Oct 2026 | smartbar | Chicago |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nanoos is a ghetto tech and club artist based in United States of America, track
 
 Dj Nico, Fullbodydurag, Nadim Maghzal
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

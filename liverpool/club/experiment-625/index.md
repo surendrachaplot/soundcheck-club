@@ -1,6 +1,6 @@
 # Experiment 625
 
-Experiment 625 is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Wax Museum" on Sat, 3 Oct 2026.
+Experiment 625 is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Wax Museum" on Sat, 3 Oct 2026.
 
 Experiment 625 is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 77 Lark Ln, Aigburth, Liverpool L17 8UP.
 
@@ -15,4 +15,4 @@ Experiment 625 is a music venue in Liverpool listed on soundcheck. 2 upcoming gi
 
 77 Lark Ln, Aigburth, Liverpool L17 8UP, Liverpool
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/experiment-625/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/experiment-625/)*

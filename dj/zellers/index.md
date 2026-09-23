@@ -1,6 +1,6 @@
 # Zellers
 
-Zellers is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Rhythm, Toronto on Wed, 23 Sept 2026.
+Zellers is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rhythm, Toronto on Wed, 23 Sept 2026.
 
 Zellers is a techno and trance artist tracked on soundcheck, with 68 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: Rhythm, Toronto on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ Zellers is a techno and trance artist tracked on soundcheck, with 68 sets logged
 
 Marnigurl, Jaw Jones, DJ RATA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*

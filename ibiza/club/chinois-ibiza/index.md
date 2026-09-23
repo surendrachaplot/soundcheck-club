@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Defected: Carl Craig, Dunmore Brothers, Eats Everything, Jordan Peak, Shae Reid b2b Sian Owen" on Thu, 24 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 17 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Defected: Carl Craig, Dunmore Brothers, Eats Everything, Jordan Peak, Shae Reid b2b Sian Owen" on Thu, 24 Sept 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, with line-ups including Andrea Oliva, Antdot, Anthony James and Avangart Tabldot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming gigs, 
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

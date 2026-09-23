@@ -1,6 +1,6 @@
 # Ryoma Sasaki
 
-Ryoma Sasaki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Club Daphnia, Osaka on Fri, 25 Sept 2026.
+Ryoma Sasaki is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Daphnia, Osaka on Fri, 25 Sept 2026.
 
 Ryoma Sasaki is a house and techno artist tracked on soundcheck, with 137 sets logged across Kyoto and Osaka. Often billed alongside Ouchi-S, Paul Leonard and Koichi (Koichiro Okada). Next up: Club Daphnia, Osaka on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Ryoma Sasaki is a house and techno artist tracked on soundcheck, with 137 sets l
 
 Ouchi-S, Paul Leonard, Koichi (Koichiro Okada)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryomasasaki/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryomasasaki/)*

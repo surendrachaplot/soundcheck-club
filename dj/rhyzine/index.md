@@ -1,6 +1,6 @@
 # Rhyzine
 
-Rhyzine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Rhyzine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
 Rhyzine is a techno and house artist based in Ireland, tracked on soundcheck, with 83 sets logged across Belfast, Dublin, Galway and Glasgow and 2 more. Often billed alongside Lúnasa, DJ Baby Tee and E The Artist. Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rhyzine is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Lúnasa, DJ Baby Tee, E The Artist
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyzine/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhyzine/)*

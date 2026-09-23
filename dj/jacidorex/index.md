@@ -1,6 +1,6 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
+Jacidorex is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
 
 Jacidorex is a techno and trance artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: C12, Brussels on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Jacidorex is a techno and trance artist tracked on soundcheck, with 108 sets log
 
 Airod, LESSSS, Nico Moreno
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*

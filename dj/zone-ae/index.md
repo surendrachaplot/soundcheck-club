@@ -1,6 +1,6 @@
 # Zone+
 
-Zone+ is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+Zone+ is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
 Zone+ is a deep house and house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, Losangeles and Miami and 1 more. Often billed alongside Jim Rider, Lee Burridge and Brawther. Next up: TBA, Losangeles on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Zone+ is a deep house and house artist tracked on soundcheck, with 7 sets logged
 
 Jim Rider, Lee Burridge, Brawther
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*

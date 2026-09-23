@@ -1,6 +1,6 @@
 # KEPK
 
-KEPK is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "XTC presents Blood of Aza (XTC HEAVEN AND HELL)" on Sat, 3 Oct 2026.
+KEPK is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "XTC presents Blood of Aza (XTC HEAVEN AND HELL)" on Sat, 3 Oct 2026.
 
 KEPK is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Alice 4Ever and Blood of Aza. Browse upcoming dates, start times and who's playing. Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia.
 
@@ -15,4 +15,4 @@ KEPK is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with li
 
 Unit J2/241 Station Rd, Yeerongpilly QLD 4105, Australia, Brisbane
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/kepk/)*

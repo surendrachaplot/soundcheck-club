@@ -1,6 +1,6 @@
 # Meduza
 
-Meduza is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 23 Sept 2026.
+Meduza is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Meduza is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Hï Ibiza, Ibiza on Wed 23 Sept.
 
@@ -31,4 +31,4 @@ Meduza is a house and techno artist tracked on soundcheck, with 171 sets logged 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

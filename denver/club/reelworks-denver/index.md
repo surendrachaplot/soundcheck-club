@@ -1,6 +1,6 @@
 # Reelworks Denver
 
-Reelworks Denver is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DJ Habibeats: Habibi's House" on Fri, 25 Sept 2026.
+Reelworks Denver is a music venue in Denver with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DJ Habibeats: Habibi's House" on Fri, 25 Sept 2026.
 
 Reelworks Denver is a music venue in Denver listed on soundcheck. 3 upcoming gigs, with line-ups including Deep Dish, DJ Habibeats, Doc Martin and Maceo Plex and 2 more. Browse upcoming dates, start times and who's playing. 1399 35th St. Denver CO. 80205.
 
@@ -16,4 +16,4 @@ Reelworks Denver is a music venue in Denver listed on soundcheck. 3 upcoming gig
 
 1399 35th St. Denver CO. 80205, Denver
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*

@@ -1,6 +1,6 @@
 # Yvo J
 
-Yvo J is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Yvo J is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 Yvo J is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Baliology, DJ Ruby and NOIYSE PROJECT. Next up: Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Yvo J is a progressive house and deep house artist based in Netherlands, tracked
 
 Baliology, DJ Ruby, NOIYSE PROJECT
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvoj/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvoj/)*

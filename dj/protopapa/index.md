@@ -1,6 +1,6 @@
 # Protopapa
 
-Protopapa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Life Club Milano, Milan on Fri, 25 Sept 2026.
+Protopapa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Life Club Milano, Milan on Fri, 25 Sept 2026.
 
 Protopapa is a house and electronica artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brussels, Geneva and London and 5 more. Often billed alongside ASHTATTZ, Absoluut and ArmaDisco. Next up: Life Club Milano, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Protopapa is a house and electronica artist tracked on soundcheck, with 26 sets 
 
 ASHTATTZ, Absoluut, ArmaDisco
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/protopapa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/protopapa/)*

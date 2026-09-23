@@ -1,6 +1,6 @@
 # Klaps
 
-Klaps is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
+Klaps is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lehmann Club, Stuttgart on Fri, 25 Sept 2026.
 
 Klaps is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Reinier Zonneveld, Jane Muss and Maharti. Next up: Lehmann Club, Stuttgart on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Klaps is a techno and house artist tracked on soundcheck, with 27 sets logged ac
 
 Reinier Zonneveld, Jane Muss, Maharti
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*

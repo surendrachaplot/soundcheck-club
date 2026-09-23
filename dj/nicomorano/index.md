@@ -1,6 +1,6 @@
 # Nico Morano
 
-Nico Morano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Villa Blanca Lifestyle, Los Angeles on Sat, 31 Oct 2026.
+Nico Morano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Villa Blanca Lifestyle, Los Angeles on Sat, 31 Oct 2026.
 
 Nico Morano is a house and techno artist based in Belgium, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Villa Blanca Lifestyle, Losangeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Nico Morano is a house and techno artist based in Belgium, tracked on soundcheck
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

@@ -1,6 +1,6 @@
 # Lerosa
 
-Lerosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 3 Oct 2026.
+Lerosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 3 Oct 2026.
 
 Lerosa is a techno and electro artist tracked on soundcheck, with 7 sets logged across Dublin and Lisbon. Often billed alongside Eliza, Andre Cascais and Ayolxi. Next up: Yamamori Tengu, Dublin on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Lerosa is a techno and electro artist tracked on soundcheck, with 7 sets logged 
 
 Eliza, Andre Cascais, Ayolxi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*

@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "-Suree presents- R de Sf スペシャル" on Wed, 23 Sept 2026.
+R Lounge is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "-Suree presents- R de Sf スペシャル" on Wed, 23 Sept 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including --- mr ---, AKIRAM EN, ASSIGN and DJ Shimamura and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

@@ -1,6 +1,6 @@
 # Spiritjack
 
-Spiritjack is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Koenji Cave, Tokyo on Fri, 16 Oct 2026.
+Spiritjack is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Koenji Cave, Tokyo on Fri, 16 Oct 2026.
 
 Spiritjack is a psytrance and techno artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside BERLINER KINDL, ako and kgee. Next up: Koenji Cave, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Spiritjack is a psytrance and techno artist based in Japan, tracked on soundchec
 
 BERLINER KINDL, ako, kgee
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiritjack/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiritjack/)*

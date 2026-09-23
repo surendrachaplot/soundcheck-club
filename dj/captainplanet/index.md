@@ -1,6 +1,6 @@
 # Captain Planet
 
-Captain Planet is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
+Captain Planet is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
 
 Captain Planet is a disco and afro house artist tracked on soundcheck, with 46 sets logged across London, Losangeles, Mexicocity and Newyorkcity and 3 more. Often billed alongside Jeremy Sole, Mysticism and Alena Vox. Next up: The Airliner, Losangeles on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Captain Planet is a disco and afro house artist tracked on soundcheck, with 46 s
 
 Jeremy Sole, Mysticism, Alena Vox
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainplanet/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainplanet/)*

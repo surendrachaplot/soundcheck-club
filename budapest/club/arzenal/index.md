@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT" on Sat, 3 Oct 2026.
+Arzenal is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT" on Sat, 3 Oct 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including AESZTETIK, Cloudy, FUMI and Hot Since 82 and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -20,4 +20,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

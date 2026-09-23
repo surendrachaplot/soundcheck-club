@@ -1,6 +1,6 @@
 # Colin
 
-Colin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Colin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
 
 Colin is a disco and house artist tracked on soundcheck, with 3 sets logged across Cologne, Glasgow and Manchester. Often billed alongside Bonzai Bonner, David Schreiber and Dieser Philip. Next up: The Art School, Glasgow on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ Colin is a disco and house artist tracked on soundcheck, with 3 sets logged acro
 
 Bonzai Bonner, David Schreiber, Dieser Philip
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colin/)*

@@ -1,6 +1,6 @@
 # GG (2)
 
-GG (2) is a Hip-Hop and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
+GG (2) is a Hip-Hop and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
 
 GG (2) is a hip-hop and disco artist tracked on soundcheck, with 5 sets logged across London, Seoul and Tokyo. Often billed alongside Bliss (1), Yuka and Dorothy (NL). Next up: Lion Super Club, Seoul on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ GG (2) is a hip-hop and disco artist tracked on soundcheck, with 5 sets logged a
 
 Bliss (1), Yuka, Dorothy (NL)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gg-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gg-2/)*

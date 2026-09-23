@@ -1,6 +1,6 @@
 # GHOST MILK
 
-GHOST MILK is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at El Rio, San Francisco/Oakland on Thu, 24 Sept 2026.
+GHOST MILK is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at El Rio, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 GHOST MILK is a club and techno artist tracked on soundcheck, with 11 sets logged across Losangeles and Sanfrancisco. Often billed alongside DJ Ari B, DJ Saratonin and Profesito. Next up: El Rio, Sanfrancisco on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ GHOST MILK is a club and techno artist tracked on soundcheck, with 11 sets logge
 
 DJ Ari B, DJ Saratonin, Profesito
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostmilk/)*

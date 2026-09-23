@@ -1,6 +1,6 @@
 # The Marquee Moon
 
-The Marquee Moon is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "catharsis - blankfacebails: listening party" on Thu, 24 Sept 2026.
+The Marquee Moon is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "catharsis - blankfacebails: listening party" on Thu, 24 Sept 2026.
 
 The Marquee Moon is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Alfaz, Bowlcut and Steely. Browse upcoming dates, start times and who's playing. 48 Stoke Newington Road, N16 7XJ.
 
@@ -17,4 +17,4 @@ The Marquee Moon is a music venue in London listed on soundcheck. 4 upcoming gig
 
 48 Stoke Newington Road, N16 7XJ, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-marquee-moon/)*

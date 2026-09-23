@@ -1,6 +1,6 @@
 # Rickie (Overground)
 
-Rickie (Overground) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
+Rickie (Overground) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 3 Oct 2026.
 
 Rickie (Overground) is a techno and progressive house artist tracked on soundcheck, with 12 sets logged across Berlin, Ghent, Malaga and Rome. Often billed alongside Robs (1), Adriano and Ancut. Next up: TBA - Secret Location, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rickie (Overground) is a techno and progressive house artist tracked on soundche
 
 Robs (1), Adriano, Ancut
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickieoverground/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickieoverground/)*

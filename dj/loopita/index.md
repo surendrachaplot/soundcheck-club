@@ -1,6 +1,6 @@
 # Loopita
 
-Loopita is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
+Loopita is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at EL SÓTANO, Madrid on Fri, 23 Oct 2026.
 
 Loopita is a house and afro house artist tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Karretero, fajardo and jose fajardo. Next up: EL SÓTANO, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Loopita is a house and afro house artist tracked on soundcheck, with 12 sets log
 
 Karretero, fajardo, jose fajardo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*

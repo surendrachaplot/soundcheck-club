@@ -1,6 +1,6 @@
 # U-Khan
 
-U-Khan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Sub Club Melbourne, Melbourne on Sat, 3 Oct 2026.
+U-Khan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sub Club Melbourne, Melbourne on Sat, 3 Oct 2026.
 
 U-Khan is a techno and house artist tracked on soundcheck, with 27 sets logged across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Modulor. Next up: Sub Club Melbourne, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ U-Khan is a techno and house artist tracked on soundcheck, with 27 sets logged a
 
 DJ Stingray 313, Garth Linton, Modulor
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u-khan/)*

@@ -1,6 +1,6 @@
 # Panyer
 
-Panyer is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 18 Oct 2026.
+Panyer is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 18 Oct 2026.
 
 Panyer is an electronic artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam and Ibiza. Often billed alongside Words of Niō, Awka and Igor Marijuan. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Panyer is an electronic artist based in Spain, tracked on soundcheck, with 20 se
 
 Words of Niō, Awka, Igor Marijuan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panyer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panyer/)*

@@ -1,6 +1,6 @@
 # synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV at Jupiter Disco
 
-synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV at Jupiter Disco on Wed 14 Oct, Newyorkcity. 2 acts on the bill: Sam Valle and SUPER WAV. Preview the line-up and save it on soundcheck.
+synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV at Jupiter Disco on Wed 14 Oct, Newyorkcity. 3 acts on the bill: Bella Mode, Sam Valle and SUPER WAV. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV at J
 
 ## Line-up
 
+- Bella Mode
 - Sam Valle
 - SUPER WAV
 

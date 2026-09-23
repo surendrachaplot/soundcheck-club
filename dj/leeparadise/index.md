@@ -1,6 +1,6 @@
 # Lee Paradise
 
-Lee Paradise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bsmt 254, Toronto on Sat, 3 Oct 2026.
+Lee Paradise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bsmt 254, Toronto on Sat, 3 Oct 2026.
 
 Lee Paradise is a techno and house artist tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Antwon Faulkner, Bodywaltz and Container. Next up: Bsmt 254, Toronto on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Lee Paradise is a techno and house artist tracked on soundcheck, with 6 sets log
 
 Antwon Faulkner, Bodywaltz, Container
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeparadise/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeparadise/)*

@@ -1,6 +1,6 @@
 # Brent Honey
 
-Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
+Brent Honey is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASIS, Utrecht on Sat, 26 Sept 2026.
 
 Brent Honey is a techno and trance artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 12 more. Often billed alongside AKEYLAH, Baron Von Trax and KSMBA. Next up: BASIS, Utrecht on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Brent Honey is a techno and trance artist tracked on soundcheck, with 72 sets lo
 
 AKEYLAH, Baron Von Trax, KSMBA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*

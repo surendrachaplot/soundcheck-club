@@ -1,6 +1,6 @@
 # Olga Zhaldak
 
-Olga Zhaldak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bukanyr Boat, Prague on Sat, 17 Oct 2026.
+Olga Zhaldak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bukanyr Boat, Prague on Sat, 17 Oct 2026.
 
 Olga Zhaldak is a techno and house artist tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Cosmodan, NCOL and Raphael Kosmos. Next up: Bukanyr Boat, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Olga Zhaldak is a techno and house artist tracked on soundcheck, with 24 sets lo
 
 Cosmodan, NCOL, Raphael Kosmos
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgazhaldak/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olgazhaldak/)*

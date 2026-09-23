@@ -1,6 +1,6 @@
 # Blipsy Bar
 
-Blipsy Bar is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Blips n Bass vol 15" on Thu, 24 Sept 2026.
+Blipsy Bar is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Blips n Bass vol 15" on Thu, 24 Sept 2026.
 
 Blipsy Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs, with line-ups including Amelia Holt, Jane Margarette, Kaleb Marshall and Luke Mele. Browse upcoming dates, start times and who's playing. 369 N Western Ave, Los Angeles, CA 90004.
 
@@ -15,4 +15,4 @@ Blipsy Bar is a music venue in Losangeles listed on soundcheck. 2 upcoming gigs,
 
 369 N Western Ave, Los Angeles, CA 90004, Los Angeles
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/blipsy-bar/)*

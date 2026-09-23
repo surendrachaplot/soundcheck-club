@@ -1,6 +1,6 @@
 # J-Cush
 
-J-Cush is a Hip-Hop and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 26 Sept 2026.
+J-Cush is a Hip-Hop and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 26 Sept 2026.
 
 J-Cush is a hip-hop and footwork artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Uche, SAY3 and DJ TiGa. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ J-Cush is a hip-hop and footwork artist based in United States of America, track
 
 Uche, SAY3, DJ TiGa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-cush/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-cush/)*

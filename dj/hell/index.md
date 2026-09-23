@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
+DJ Hell is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 528 Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 DJ Hell is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: 528 Ibiza, Ibiza on Wed 23 Sept.
 
@@ -34,4 +34,4 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 129 sets logged
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

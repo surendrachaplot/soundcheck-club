@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Rum Tings September Session – Oliver (Silly Walks) & Selecta Ahoy" on Thu, 24 Sept 2026.
+Locke is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Rum Tings September Session – Oliver (Silly Walks) & Selecta Ahoy" on Thu, 24 Sept 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Darimel and Phil Abaddon. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with li
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

@@ -1,6 +1,6 @@
 # Giuseppe Ottaviani
 
-Giuseppe Ottaviani is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Giuseppe Ottaviani is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 48 sets logged across Budapest, Buenosaires, Glasgow and Houston and 23 more. Often billed alongside Billy Gillies, Ferry Corsten and Amy Wiles. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 48 
 
 Billy Gillies, Ferry Corsten, Amy Wiles
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*

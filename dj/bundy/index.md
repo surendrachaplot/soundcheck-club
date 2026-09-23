@@ -1,6 +1,6 @@
 # bundy
 
-bundy is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at PINK, Manchester on Fri, 6 Nov 2026.
+bundy is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at PINK, Manchester on Fri, 6 Nov 2026.
 
 bundy is an experimental and noise artist tracked on soundcheck, with 3 sets logged across London, Manchester and Sheffield. Often billed alongside James Holden, MYNA and #pastagang. Next up: PINK, Manchester on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ bundy is an experimental and noise artist tracked on soundcheck, with 3 sets log
 
 James Holden, MYNA, #pastagang
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bundy/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bundy/)*

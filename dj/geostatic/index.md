@@ -1,14 +1,15 @@
 # Geostatic
 
-Geostatic is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Lucia, Vienna on Fri, 25 Sept 2026.
+Geostatic is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Lucia, Vienna on Fri, 25 Sept 2026.
 
-Geostatic is a drum & bass and dubstep artist based in Austria, tracked on soundcheck, with 11 sets logged across Basel, Berlin, Bristol and Prague and 1 more. Often billed alongside Anton Quasi, Upzet and Spektiv. Next up: Club Lucia, Vienna on Fri 25 Sept.
+Geostatic is a drum & bass and dubstep artist based in Austria, tracked on soundcheck, with 12 sets logged across Amsterdam, Basel, Berlin and Bristol and 2 more. Often billed alongside Anton Quasi, Upzet and Spektiv. Next up: Club Lucia, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Club Lucia | Vienna |
+| Mon, 12 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Geostatic is a drum & bass and dubstep artist based in Austria, tracked on sound
 
 Anton Quasi, Upzet, Spektiv
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geostatic/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geostatic/)*

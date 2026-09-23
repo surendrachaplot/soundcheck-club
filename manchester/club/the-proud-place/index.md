@@ -1,6 +1,6 @@
 # The Proud Place
 
-The Proud Place is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Proud Time - Coffee Rave" on Sat, 3 Oct 2026.
+The Proud Place is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Proud Time - Coffee Rave" on Sat, 3 Oct 2026.
 
 The Proud Place is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Hello From Ben. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Proud Place is a music venue in Manchester listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Proud Time - Coffee Rave | Hello From Ben |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-proud-place/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-proud-place/)*

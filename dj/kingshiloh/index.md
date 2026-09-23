@@ -1,6 +1,6 @@
 # King Shiloh
 
-King Shiloh is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Le Ministère, Montreal on Sat, 17 Oct 2026.
+King Shiloh is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Ministère, Montreal on Sat, 17 Oct 2026.
 
 King Shiloh is a dub and bass artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Ghent, Leeds and Losangeles and 4 more. Often billed alongside Iration Steppas, Mala and Channel One Sound. Next up: Le Ministère, Montreal on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ King Shiloh is a dub and bass artist based in Netherlands, tracked on soundcheck
 
 Iration Steppas, Mala, Channel One Sound
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*

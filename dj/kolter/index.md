@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Kolter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Kolter is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: The Cause, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Kolter is a house and tech house artist tracked on soundcheck, with 154 sets log
 
 East End Dubs, Jamback, M-High
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

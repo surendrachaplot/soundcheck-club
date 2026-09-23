@@ -1,6 +1,6 @@
 # Filou (DE)
 
-Filou (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
+Filou (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
 
 Filou (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Bangkok, Berlin, Hamburg and London and 1 more. Often billed alongside HiTMiLØW, XIMA and Zetson. Next up: Südpol, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Filou (DE) is a techno and house artist based in Germany, tracked on soundcheck,
 
 HiTMiLØW, XIMA, Zetson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filoude/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filoude/)*

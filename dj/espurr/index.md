@@ -1,6 +1,6 @@
 # espurr
 
-espurr is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
+espurr is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 espurr is a club and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside moth (US), Chloe Scarlett and erika (SF). Next up: The Midway, Sanfrancisco on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ espurr is a club and techno artist based in United States of America, tracked on
 
 moth (US), Chloe Scarlett, erika (SF)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espurr/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espurr/)*

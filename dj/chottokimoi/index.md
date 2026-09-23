@@ -1,6 +1,6 @@
 # ChottoKimoi
 
-ChottoKimoi is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Teranoma Tidepool, Osaka on Sat, 17 Oct 2026.
+ChottoKimoi is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Teranoma Tidepool, Osaka on Sat, 17 Oct 2026.
 
 ChottoKimoi is a bass and techno artist based in Philippines, tracked on soundcheck, with 10 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside MileZ, 0neo and 1LDK. Next up: Teranoma Tidepool, Osaka on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ChottoKimoi is a bass and techno artist based in Philippines, tracked on soundch
 
 MileZ, 0neo, 1LDK
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chottokimoi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chottokimoi/)*

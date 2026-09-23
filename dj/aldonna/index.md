@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
+Aldonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 10 Oct 2026.
 
 Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Den Anden Side, Copenhagen on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ Aldonna is a house and techno artist tracked on soundcheck, with 134 sets logged
 
 Tjade, D Stone, DAWS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

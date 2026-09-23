@@ -1,6 +1,6 @@
 # Mystic Bill
 
-Mystic Bill is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 9 Oct 2026.
+Mystic Bill is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 9 Oct 2026.
 
 Mystic Bill is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Austin, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Danny Daze, Sister System and Terence Tabeau. Next up: Dead Letter No. 9, Newyorkcity on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Mystic Bill is a house and disco artist based in United States of America, track
 
 Danny Daze, Sister System, Terence Tabeau
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*

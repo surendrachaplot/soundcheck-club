@@ -1,6 +1,6 @@
 # HAY:LI
 
-HAY:LI is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 25 Sept 2026.
+HAY:LI is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 25 Sept 2026.
 
 HAY:LI is a deep house and house artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Pj Winterman and Sebteque. Next up: Almar Beach Club, Barcelona on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ HAY:LI is a deep house and house artist based in Spain, tracked on soundcheck, w
 
 Pj Winterman, Sebteque
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayli/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hayli/)*

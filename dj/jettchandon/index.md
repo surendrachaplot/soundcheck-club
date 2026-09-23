@@ -1,6 +1,6 @@
 # Jett
 
-Jett is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
+Jett is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 25 Sept 2026.
 
 Jett is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Detroit and Washingtondc. Often billed alongside B_X_R_N_X_R_D, Djoser and Juana. Next up: TRANSMISSION DC, Washingtondc on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jett is a techno and house artist based in United States of America, tracked on 
 
 B_X_R_N_X_R_D, Djoser, Juana
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jettchandon/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jettchandon/)*

@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Toffler presents CLAESSENS" on Fri, 25 Sept 2026.
+Toffler is a music venue in Rotterdam with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Toffler presents CLAESSENS" on Fri, 25 Sept 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming gigs, with line-ups including AIS (2), Chess, Chris Gialanze and CLAESSENS and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming gigs, wi
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

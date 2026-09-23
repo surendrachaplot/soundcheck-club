@@ -1,6 +1,6 @@
 # DJ MEGA
 
-DJ MEGA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat, 24 Oct 2026.
+DJ MEGA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat, 24 Oct 2026.
 
 DJ MEGA is a trance and techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Plugin Ears, Hovercat and 11th Hour. Next up: TBA - join our Telegram group to get the exact location in Neukölln!, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ DJ MEGA is a trance and techno artist tracked on soundcheck, with 7 sets logged 
 
 Plugin Ears, Hovercat, 11th Hour
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmega/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmega/)*

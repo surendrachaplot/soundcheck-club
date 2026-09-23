@@ -1,6 +1,6 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
+Hue Ray is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
 
 Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís (1) and arow. Next up: Chika-Ikkai, Osaka on Tue 22 Sept.
 
@@ -14,6 +14,7 @@ Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged 
 
 ## Recently played
 
+- Chika-Ikkai, Osaka — Tue, 22 Sept 2026
 - WOMB, Tokyo — Mon, 21 Sept 2026
 - Saloon, Tokyo — Sat, 19 Sept 2026
 - Forestlimit, Tokyo — Wed, 9 Sept 2026
@@ -21,10 +22,9 @@ Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged 
 - Forestlimit, Tokyo — Sat, 15 Aug 2026
 - Forestlimit, Tokyo — Fri, 31 Jul 2026
 - WWW X, Tokyo — Sat, 11 Jul 2026
-- West Harlem, Kyoto — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 E.O.U, Vís (1), arow
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*

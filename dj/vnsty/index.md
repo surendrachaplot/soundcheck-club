@@ -1,6 +1,6 @@
 # VNSTY
 
-VNSTY is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
+VNSTY is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Doggy Klœb, Malaga on Sat, 3 Oct 2026.
 
 VNSTY is a techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid and Malaga. Often billed alongside Reisender, Noctive and Ana Sant. Next up: Doggy Klœb, Malaga on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ VNSTY is a techno artist based in Spain, tracked on soundcheck, with 6 sets logg
 
 Reisender, Noctive, Ana Sant
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnsty/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnsty/)*

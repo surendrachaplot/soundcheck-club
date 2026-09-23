@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
+Jonathan Kaspar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
 
 Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Mano Le Tough and Robag Wruhme. Next up: Veronica Schip, Amsterdam on Thu 24 Sept.
 
@@ -31,4 +31,4 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 194 set
 
 Mira, Mano Le Tough, Robag Wruhme
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

@@ -1,6 +1,6 @@
 # Cannelle
 
-Cannelle is a Techno and Pop artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
+Cannelle is a Techno and Pop artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
 
 Cannelle is a techno and pop artist based in France, tracked on soundcheck, with 36 sets logged across Antwerp, Barcelona, Berlin and Chicago and 5 more. Often billed alongside LeBRON, Ali RQ and Richard Fribert. Next up: Fvtvr, Paris on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Cannelle is a techno and pop artist based in France, tracked on soundcheck, with
 
 LeBRON, Ali RQ, Richard Fribert
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*

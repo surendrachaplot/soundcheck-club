@@ -1,6 +1,6 @@
 # Nate S.U
 
-Nate S.U is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
+Nate S.U is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 2 Oct 2026.
 
 Nate S.U is a house and electro artist based in Australia, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Elijah Something, Monile and DJ Botermelk. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nate S.U is a house and electro artist based in Australia, tracked on soundcheck
 
 Elijah Something, Monile, DJ Botermelk
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natesu-au/)*

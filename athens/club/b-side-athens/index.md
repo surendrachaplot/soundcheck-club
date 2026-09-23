@@ -1,6 +1,6 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Cannibal Radio Season Begins - Mavrokordatou Street Party" on Sun, 27 Sept 2026.
+B side Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Cannibal Radio Season Begins - Mavrokordatou Street Party" on Sun, 27 Sept 2026.
 
 B side Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
@@ -14,4 +14,4 @@ B side Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig. B
 
 Mavrokordatou 6, Athina 106 78, Greece, Athens
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*

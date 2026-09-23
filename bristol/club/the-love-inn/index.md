@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "QUANTO residency #01 w/ Alexandria" on Wed, 23 Sept 2026.
+The Love Inn is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "QUANTO residency #01 w/ Alexandria" on Wed, 23 Sept 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including A For Alpha, Alexandria, Andy Martin and Caragh and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -19,4 +19,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, 
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

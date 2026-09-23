@@ -1,14 +1,13 @@
 # 8MM
 
-8MM is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "8MM & Shameless/Limitless present: Meril Wubslin (Bongo Joe)" on Tue, 22 Sept 2026.
+8MM is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "8MM & Shameless/Limitless present: Morgan Garrett + Keith Leaf (DJ)" on Wed, 30 Sept 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | 8MM & Shameless/Limitless present: Meril Wubslin (Bongo Joe) |  |
 | Wed, 30 Sept 2026 | 8MM & Shameless/Limitless present: Morgan Garrett + Keith Leaf (DJ) |  |
 | Wed, 7 Oct 2026 | 8MM & Shameless/Limitless present: Devon Rexi | Devon Rexi |
 | Thu, 15 Oct 2026 | 8MM & Shameless/Limitless present: The Strokes Afterparty W/ Alex Cameron (DJ) |  |
@@ -21,4 +20,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

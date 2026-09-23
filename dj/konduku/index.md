@@ -1,6 +1,6 @@
 # Konduku
 
-Konduku is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Konduku is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Konduku is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 39 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -35,4 +35,4 @@ Konduku is a techno and house artist tracked on soundcheck, with 175 sets logged
 
 DJ Nobu, Kia (AU), Woody92
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

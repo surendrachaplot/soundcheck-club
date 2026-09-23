@@ -1,6 +1,6 @@
 # Central Chapelle
 
-Central Chapelle is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MANARËM" on Thu, 1 Oct 2026.
+Central Chapelle is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MANARËM" on Thu, 1 Oct 2026.
 
 Central Chapelle is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Ely Oaks, Mosimann, nimino and Sam Feldt and 1 more. Browse upcoming dates, start times and who's playing. 4 Esp. Alice Milliat, 75018 Paris.
 
@@ -22,4 +22,4 @@ Central Chapelle is a music venue in Paris listed on soundcheck. 9 upcoming gigs
 
 4 Esp. Alice Milliat, 75018 Paris, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/central-chapelle/)*

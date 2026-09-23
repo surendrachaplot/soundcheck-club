@@ -1,6 +1,6 @@
 # John Crosby
 
-John Crosby is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 24 Sept 2026.
+John Crosby is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 24 Sept 2026.
 
 John Crosby is a house and deep house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Aaronovsky, Acidfinky and Aezron. Next up: Phantom Bar Berlin, Berlin on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ John Crosby is a house and deep house artist tracked on soundcheck, with 6 sets 
 
 Aaronovsky, Acidfinky, Aezron
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johncrosby/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johncrosby/)*

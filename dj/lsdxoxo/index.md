@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+LSDXOXO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 LSDXOXO is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ LSDXOXO is a techno and house artist tracked on soundcheck, with 200 sets logged
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

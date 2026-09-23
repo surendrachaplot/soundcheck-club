@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
+SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
 
 SHERELLE is a jungle and techno artist tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 53 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ SHERELLE is a jungle and techno artist tracked on soundcheck, with 183 sets logg
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

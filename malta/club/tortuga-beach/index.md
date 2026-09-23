@@ -1,6 +1,6 @@
 # Tortuga Beach
 
-Tortuga Beach is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Music Summit Malta Closing Party: Oracles x Big Ron's" on Sat, 10 Oct 2026.
+Tortuga Beach is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Music Summit Malta Closing Party: Oracles x Big Ron's" on Sat, 10 Oct 2026.
 
 Tortuga Beach is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Kenny Larkin, Luca Cordina, MATO and Víctor Güell. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tortuga Beach is a music venue in Malta listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Music Summit Malta Closing Party: Oracles x Big Ron's | Kenny Larkin, Luca Cordina, MATO, Víctor Güell |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tortuga-beach/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tortuga-beach/)*

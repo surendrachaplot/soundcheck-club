@@ -1,6 +1,6 @@
 # Daxta
 
-Daxta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Black Box, Denver on Thu, 24 Sept 2026.
+Daxta is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Black Box, Denver on Thu, 24 Sept 2026.
 
 Daxta is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Boston, Bristol, Cologne and Denver and 8 more. Often billed alongside Camo & Krooked, Mefjus and Fred V. Next up: The Black Box, Denver on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Daxta is a drum & bass and jungle artist tracked on soundcheck, with 16 sets log
 
 Camo & Krooked, Mefjus, Fred V
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxta/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxta/)*

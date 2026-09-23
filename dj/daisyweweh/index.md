@@ -1,6 +1,6 @@
 # Daisy Weweh
 
-Daisy Weweh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Camarat, Amsterdam on Fri, 23 Oct 2026.
+Daisy Weweh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Camarat, Amsterdam on Fri, 23 Oct 2026.
 
 Daisy Weweh is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Jean Mauj, Anton Jonathan and Aimé You. Next up: Camarat, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Daisy Weweh is a house and techno artist tracked on soundcheck, with 76 sets log
 
 Jean Mauj, Anton Jonathan, Aimé You
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*

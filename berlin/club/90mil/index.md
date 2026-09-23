@@ -1,6 +1,6 @@
 # 90mil
 
-90mil is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "POLLEN: 90mil radio festival" on Fri, 25 Sept 2026.
+90mil is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "POLLEN: 90mil radio festival" on Fri, 25 Sept 2026.
 
 90mil is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including 3rd Party Influence, Ami Wokloni, Bernhard Hollinger and Broshuda and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
 
@@ -20,4 +20,4 @@
 
 Holzmarktstrasse 19-23, 10243 Berlin, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/90mil/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/90mil/)*

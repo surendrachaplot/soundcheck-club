@@ -1,6 +1,6 @@
 # Aloka
 
-Aloka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+Aloka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 Aloka is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 24 more. Often billed alongside RONI, DJ Stingray 313 and Dusty Dan. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Aloka is a techno and electro artist based in United Kingdom, tracked on soundch
 
 RONI, DJ Stingray 313, Dusty Dan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloka/)*

@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Fuse Records: One Last Open Air (Free Entry till 5 pm)" on Sat, 26 Sept 2026.
+Village Underground Lisboa is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Fuse Records: One Last Open Air (Free Entry till 5 pm)" on Sat, 26 Sept 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including Bryto, Camps (1), David Rodrigues and DJ Nox and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -21,4 +21,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 8 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

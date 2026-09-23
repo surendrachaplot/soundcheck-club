@@ -1,6 +1,6 @@
 # The Model
 
-The Model is a music venue in Nottingham with 13 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Duty Free #5" on Fri, 25 Sept 2026.
+The Model is a music venue in Nottingham with 13 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Duty Free #5" on Fri, 25 Sept 2026.
 
 The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming gigs, with line-ups including Brad Bradley, Burly Chassis, CHEZA LUCINA and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
@@ -23,4 +23,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 13 upcoming gigs,
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

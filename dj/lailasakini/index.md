@@ -1,6 +1,6 @@
 # Laila Sakini
 
-Laila Sakini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
+Laila Sakini is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
 
 Laila Sakini is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Copenhagen and Lisbon and 4 more. Often billed alongside Kenichi Iwasa, ojoo and A Guy Called Gerald. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Laila Sakini is an experimental and electronica artist based in United Kingdom, 
 
 Kenichi Iwasa, ojoo, A Guy Called Gerald
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*

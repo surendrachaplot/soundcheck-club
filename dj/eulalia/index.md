@@ -1,6 +1,6 @@
 # Eulalia
 
-Eulalia is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Radius, Chicago on Sat, 3 Oct 2026.
+Eulalia is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Radius, Chicago on Sat, 3 Oct 2026.
 
 Eulalia is a techno and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago and Detroit. Often billed alongside Sian, Siann and xtelma. Next up: Radius, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eulalia is a techno and electronica artist based in United States of America, tr
 
 Sian, Siann, xtelma
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eulalia/)*

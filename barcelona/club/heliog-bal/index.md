@@ -1,6 +1,6 @@
 # Heliogàbal
 
-Heliogàbal is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Blu Nana + Bomboyage" on Thu, 24 Sept 2026.
+Heliogàbal is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Blu Nana + Bomboyage" on Thu, 24 Sept 2026.
 
 Heliogàbal is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Carrer de Ramón y Cajal, 80, 08012 Barcelona.
 
@@ -14,4 +14,4 @@ Heliogàbal is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. 
 
 Carrer de Ramón y Cajal, 80, 08012 Barcelona, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/heliog-bal/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/heliog-bal/)*

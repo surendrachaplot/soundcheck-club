@@ -1,6 +1,6 @@
 # MEAKIN
 
-MEAKIN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+MEAKIN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 MEAKIN is a techno and trance artist tracked on soundcheck, with 25 sets logged across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ MEAKIN is a techno and trance artist tracked on soundcheck, with 25 sets logged 
 
 MARIUS SEBASTIAN, MAXYM, I-DA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*

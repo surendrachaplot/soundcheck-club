@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Mosher is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Buenosaires and Leipzig and 2 more. Often billed alongside Sebastian Mora, Diana May and Patrick Scuro. Next up: Void Club, Berlin on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 Sebastian Mora, Diana May, Patrick Scuro
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

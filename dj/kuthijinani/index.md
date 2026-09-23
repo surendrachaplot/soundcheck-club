@@ -1,6 +1,6 @@
 # Kuthi Jinani
 
-Kuthi Jinani is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Kuthi Jinani is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Kuthi Jinani is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Athens, Berlin, Budapest and Lisbon and 3 more. Often billed alongside Voronhil, Oliver Torr and Apu Nanu. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Kuthi Jinani is an experimental and electronica artist tracked on soundcheck, wi
 
 Voronhil, Oliver Torr, Apu Nanu
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuthijinani/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuthijinani/)*

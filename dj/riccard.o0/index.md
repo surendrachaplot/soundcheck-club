@@ -1,6 +1,6 @@
 # riccard.o0
 
-riccard.o0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+riccard.o0 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 riccard.o0 is a techno and electro artist tracked on soundcheck, with 29 sets logged across Liverpool, London, Manchester and Tbilisi. Often billed alongside Concierge, OP(99) and Desiree'. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ riccard.o0 is a techno and electro artist tracked on soundcheck, with 29 sets lo
 
 Concierge, OP(99), Desiree'
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riccard.o0/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riccard.o0/)*

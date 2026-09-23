@@ -1,8 +1,8 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 21 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "FUQIT: WHIPPED CREAM" on Thu, 24 Sept 2026.
+Q Nightclub is a music venue in Seattle with 23 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FUQIT: WHIPPED CREAM" on Thu, 24 Sept 2026.
 
-Q Nightclub is a music venue in Seattle listed on soundcheck. 21 upcoming gigs, with line-ups including Arlo, Broken Hill, Calcium and Joseph Capriati and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
+Q Nightclub is a music venue in Seattle listed on soundcheck. 23 upcoming gigs, with line-ups including Arlo, Broken Hill, Calcium and Ely Oaks and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
 ## What's on
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 21 upcoming gigs, 
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

@@ -1,6 +1,6 @@
 # DiSALAZAR
 
-DiSALAZAR is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Dr. Dou Social Club, Barcelona on Sat, 26 Sept 2026.
+DiSALAZAR is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dr. Dou Social Club, Barcelona on Sat, 26 Sept 2026.
 
 DiSALAZAR is an afro house and deep house artist based in Venezuela, tracked on soundcheck, with 7 sets logged across Barcelona and Marseille. Next up: Dr. Dou Social Club, Barcelona on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ DiSALAZAR is an afro house and deep house artist based in Venezuela, tracked on 
 - Dr. Dou Social Club, Barcelona — Sun, 15 Mar 2026
 - TBA - TBA - Boat Party - Viux Port - Marseille - France, Marseille — Sat, 26 Aug 2023
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disalazar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disalazar/)*

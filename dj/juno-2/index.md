@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Juno (NY) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Juno (NY) is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Chicago and Cologne and 4 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 36 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

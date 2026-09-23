@@ -1,6 +1,6 @@
 # ellzyb
 
-ellzyb is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
+ellzyb is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Old Nun's Head, London on Fri, 2 Oct 2026.
 
 ellzyb is a house and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Herberta, Luca Perry and Mas Que Nada Brothers. Next up: The Old Nun's Head, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ellzyb is a house and acid artist based in United Kingdom, tracked on soundcheck
 
 Herberta, Luca Perry, Mas Que Nada Brothers
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellzyb/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellzyb/)*

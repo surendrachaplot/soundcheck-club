@@ -1,6 +1,6 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Vendex is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
 
 Vendex is a techno and industrial artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside CARV, DYEN and Alignment. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 196 sets lo
 
 CARV, DYEN, Alignment
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

@@ -1,6 +1,6 @@
 # Maximilian FD
 
-Maximilian FD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Headrow House, Leeds on Sat, 21 Nov 2026.
+Maximilian FD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Headrow House, Leeds on Sat, 21 Nov 2026.
 
 Maximilian FD is a techno and house artist tracked on soundcheck, with 25 sets logged across Bangkok, Brighton, Leeds and London. Often billed alongside ALIX (UK), Woos and Bowyer. Next up: Headrow House, Leeds on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Maximilian FD is a techno and house artist tracked on soundcheck, with 25 sets l
 
 ALIX (UK), Woos, Bowyer
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianfd/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianfd/)*

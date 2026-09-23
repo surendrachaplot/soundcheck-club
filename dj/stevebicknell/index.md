@@ -1,6 +1,6 @@
 # Steve Bicknell
 
-Steve Bicknell is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 17 Oct 2026.
+Steve Bicknell is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 17 Oct 2026.
 
 Steve Bicknell is a techno and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Basel and 10 more. Often billed alongside Kerrie, Mareena and Bloody Mary. Next up: CLUB RAUM, Amsterdam on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Steve Bicknell is a techno and house artist based in United Kingdom, tracked on 
 
 Kerrie, Mareena, Bloody Mary
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*

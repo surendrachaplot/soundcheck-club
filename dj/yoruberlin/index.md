@@ -1,6 +1,6 @@
 # Yoru (Berlin)
 
-Yoru (Berlin) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+Yoru (Berlin) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
 Yoru (Berlin) is a jungle and drum & bass artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Dub Isotope, Kenzura and Migz. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Yoru (Berlin) is a jungle and drum & bass artist based in Germany, tracked on so
 
 Dub Isotope, Kenzura, Migz
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoruberlin/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoruberlin/)*

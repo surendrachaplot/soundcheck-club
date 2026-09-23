@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Zumana Bali, Bali on Fri, 16 Oct 2026.
+Artbat is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Zumana Bali, Bali on Fri, 16 Oct 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Austin and Bali and 35 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Zumana Bali, Bali on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 123 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

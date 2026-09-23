@@ -1,6 +1,6 @@
 # Arlo
 
-Arlo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Q Nightclub, Seattle on Sat, 26 Sept 2026.
+Arlo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Q Nightclub, Seattle on Sat, 26 Sept 2026.
 
 Arlo is a house and tech house artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Bristol, Chicago and Miami and 4 more. Often billed alongside Martini Raw, AMARI and ARTIIC. Next up: Q Nightclub, Seattle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Arlo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Martini Raw, AMARI, ARTIIC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo/)*

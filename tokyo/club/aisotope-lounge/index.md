@@ -1,6 +1,6 @@
 # Aisotope Lounge
 
-Aisotope Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "FIRST KISS" on Sat, 26 Sept 2026.
+Aisotope Lounge is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FIRST KISS" on Sat, 26 Sept 2026.
 
 Aisotope Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including tiger&dragon. Browse upcoming dates, start times and who's playing. Saint Four BLD. 1F, 2-12-16 Shinjuku, Shinjuku-Ku, Tokyo, 160-0022 JAPAN.
 
@@ -15,4 +15,4 @@ Aisotope Lounge is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs,
 
 Saint Four BLD. 1F, 2-12-16 Shinjuku, Shinjuku-Ku, Tokyo, 160-0022 JAPAN, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aisotope-lounge/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aisotope-lounge/)*

@@ -1,6 +1,6 @@
 # avas
 
-avas is a Club and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Podlasie Club, Chicago on Fri, 16 Oct 2026.
+avas is a Club and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Podlasie Club, Chicago on Fri, 16 Oct 2026.
 
 avas is a club and hard drum artist based in United States of America, tracked on soundcheck, with 33 sets logged across Barcelona, Chicago, Losangeles and Newyorkcity and 3 more. Often billed alongside Ghozt (NYC), Heavee and sulffffffur. Next up: Podlasie Club, Chicago on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ avas is a club and hard drum artist based in United States of America, tracked o
 
 Ghozt (NYC), Heavee, sulffffffur
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avas/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avas/)*

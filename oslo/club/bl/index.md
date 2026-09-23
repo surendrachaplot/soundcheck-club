@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Glayden (FI) / BLÅ" on Fri, 25 Sept 2026.
+Blå is a music venue in Oslo with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Glayden (FI) / BLÅ" on Fri, 25 Sept 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with line-ups including Fredfades, Glayden, Los Thuthanaka and Mad Professor and 1 more. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -19,4 +19,4 @@ Blå is a music venue in Oslo listed on soundcheck. 6 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

@@ -1,6 +1,6 @@
 # Randwick Racecourse
 
-Randwick Racecourse is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "HYPERSONIC SYDNEY" on Sat, 21 Nov 2026.
+Randwick Racecourse is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "HYPERSONIC SYDNEY" on Sat, 21 Nov 2026.
 
 Randwick Racecourse is a music venue in Sydney listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Alison Rd; Randwick, NSW 2031; Australia.
 
@@ -14,4 +14,4 @@ Randwick Racecourse is a music venue in Sydney listed on soundcheck. 1 upcoming 
 
 Alison Rd; Randwick, NSW 2031; Australia, Sydney
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/randwick-racecourse/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/randwick-racecourse/)*

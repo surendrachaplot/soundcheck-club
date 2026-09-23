@@ -1,6 +1,6 @@
 # Viscerale
 
-Viscerale is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
+Viscerale is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
 
 Viscerale is a techno and trance artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 9 more. Often billed alongside LØUS, FLUCC and Dagobird. Next up: Kassa Boat, Budapest on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Viscerale is a techno and trance artist tracked on soundcheck, with 60 sets logg
 
 LØUS, FLUCC, Dagobird
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*

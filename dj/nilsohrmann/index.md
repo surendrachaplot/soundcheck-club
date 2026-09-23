@@ -1,6 +1,6 @@
 # Nils Ohrmann
 
-Nils Ohrmann is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
+Nils Ohrmann is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bike Jesus, Prague on Fri, 25 Sept 2026.
 
 Nils Ohrmann is a house and techno artist based in Germany, tracked on soundcheck, with 91 sets logged across Berlin, Hamburg and Prague. Often billed alongside Edgar Peng, Sqim and Dompe. Next up: Bike Jesus, Prague on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Nils Ohrmann is a house and techno artist based in Germany, tracked on soundchec
 
 Edgar Peng, Sqim, Dompe
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsohrmann/)*

@@ -1,6 +1,6 @@
 # yuitty
 
-yuitty is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+yuitty is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 yuitty is a bass and drum & bass artist tracked on soundcheck, with 72 sets logged across Tokyo. Often billed alongside CITY1, Azumai and DJ MIYU. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ yuitty is a bass and drum & bass artist tracked on soundcheck, with 72 sets logg
 
 CITY1, Azumai, DJ MIYU
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuitty/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuitty/)*

@@ -1,6 +1,6 @@
 # D.E.F
 
-D.E.F is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Luka, Seoul on Wed, 23 Sept 2026.
+D.E.F is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Luka, Seoul on Wed, 23 Sept 2026.
 
 D.E.F is a techno and hardcore artist tracked on soundcheck, with 102 sets logged across Seoul. Often billed alongside Rivako, PONGPONG and NANAH. Next up: Luka, Seoul on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ D.E.F is a techno and hardcore artist tracked on soundcheck, with 102 sets logge
 
 Rivako, PONGPONG, NANAH
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.e.f/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.e.f/)*

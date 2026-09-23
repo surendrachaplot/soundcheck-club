@@ -1,6 +1,6 @@
 # Psycho Mind Transmission
 
-Psycho Mind Transmission is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Milan on Sat, 3 Oct 2026.
+Psycho Mind Transmission is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Milan on Sat, 3 Oct 2026.
 
 Psycho Mind Transmission is an electro and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Milan and Rome. Often billed alongside Enrico Vivaldi, Dove Quiete and Marc Anthony Bowen. Next up: TBA, Milan on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Psycho Mind Transmission is an electro and techno artist tracked on soundcheck, 
 
 Enrico Vivaldi, Dove Quiete, Marc Anthony Bowen
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psychomindtransmission/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psychomindtransmission/)*

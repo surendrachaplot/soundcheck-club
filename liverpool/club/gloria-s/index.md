@@ -1,6 +1,6 @@
 # Gloria's
 
-Gloria's is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "The Disco Express: Liverpool" on Sat, 7 Nov 2026.
+Gloria's is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "The Disco Express: Liverpool" on Sat, 7 Nov 2026.
 
 Gloria's is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, with line-ups including Bustin' Loose. Browse upcoming dates, start times and who's playing. The Stables, Back Berry Street, Liverpool L1 4LG.
 
@@ -14,4 +14,4 @@ Gloria's is a music venue in Liverpool listed on soundcheck. 1 upcoming gig, wit
 
 The Stables, Back Berry Street, Liverpool L1 4LG, Liverpool
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/gloria-s/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/gloria-s/)*

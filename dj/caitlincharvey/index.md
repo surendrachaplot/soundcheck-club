@@ -1,6 +1,6 @@
 # caitlin c. harvey
 
-caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The High Dive, Detroit on Fri, 2 Oct 2026.
+caitlin c. harvey is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The High Dive, Detroit on Fri, 2 Oct 2026.
 
 caitlin c. harvey is an experimental and ambient artist tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside otodojo, Bccording and King Sophia. Next up: The High Dive, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ caitlin c. harvey is an experimental and ambient artist tracked on soundcheck, w
 
 otodojo, Bccording, King Sophia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caitlincharvey/)*

@@ -1,6 +1,6 @@
 # Swarobski
 
-Swarobski is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kompass Klub, Ghent on Sat, 28 Nov 2026.
+Swarobski is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kompass Klub, Ghent on Sat, 28 Nov 2026.
 
 Swarobski is a techno and trance artist based in Belgium, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Ghent. Often billed alongside Jane Muss, DJ MELL G and Maharti. Next up: Kompass Klub, Ghent on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Swarobski is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 Jane Muss, DJ MELL G, Maharti
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swarobski/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swarobski/)*

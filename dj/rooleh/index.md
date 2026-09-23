@@ -1,6 +1,6 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
 Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets log
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

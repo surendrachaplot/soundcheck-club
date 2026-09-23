@@ -1,8 +1,8 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Colour Factory, London on Fri, 2 Oct 2026.
+X-Coast is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Fri, 2 Oct 2026.
 
-X-Coast is a techno and house artist tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 60 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Colour Factory, London on Fri 2 Oct.
+X-Coast is a techno and house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 60 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Colour Factory, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ X-Coast is a techno and house artist tracked on soundcheck, with 178 sets logged
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Colour Factory | London |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 14 Nov 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ X-Coast is a techno and house artist tracked on soundcheck, with 178 sets logged
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

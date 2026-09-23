@@ -1,6 +1,6 @@
 # EL GARO
 
-EL GARO is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mr Melo, New York City on Thu, 24 Sept 2026.
+EL GARO is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mr Melo, New York City on Thu, 24 Sept 2026.
 
 EL GARO is a disco and house artist based in Cuba, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Mickey Perez. Next up: Mr Melo, Newyorkcity on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ EL GARO is a disco and house artist based in Cuba, tracked on soundcheck, with 3
 
 Mickey Perez
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elgaro/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elgaro/)*

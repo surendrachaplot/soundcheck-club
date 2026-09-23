@@ -1,6 +1,6 @@
 # Sprat
 
-Sprat is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Valid & DJ Head live" on Sat, 3 Oct 2026.
+Sprat is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Valid & DJ Head live" on Sat, 3 Oct 2026.
 
 Sprat is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Cetinjska 15 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Sprat is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse 
 
 Cetinjska 15 Belgrade, Serbia, Belgrade
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/sprat/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/sprat/)*

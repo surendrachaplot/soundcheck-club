@@ -1,6 +1,6 @@
 # morelo
 
-morelo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
+morelo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
 
 morelo is a house and techno artist tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside Mignon (2), DJ Botermelk and DJ Soulscape. Next up: Stoked&stoned, Seoul on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ morelo is a house and techno artist tracked on soundcheck, with 9 sets logged ac
 
 Mignon (2), DJ Botermelk, DJ Soulscape
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morelo/)*

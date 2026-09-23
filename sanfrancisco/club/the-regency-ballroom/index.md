@@ -1,6 +1,6 @@
 # The Regency Ballroom
 
-The Regency Ballroom is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Channel Tres, Jyoty, Gelli Haha - Portola Pre-Party" on Fri, 25 Sept 2026.
+The Regency Ballroom is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Channel Tres, Jyoty, Gelli Haha - Portola Pre-Party" on Fri, 25 Sept 2026.
 
 The Regency Ballroom is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming gigs, with line-ups including Cesco, Channel Tres, Conducta and Flava D and 2 more. Browse upcoming dates, start times and who's playing. 1290 Sutter St, San Francisco, CA 94109, USA.
 
@@ -17,4 +17,4 @@ The Regency Ballroom is a music venue in Sanfrancisco listed on soundcheck. 4 up
 
 1290 Sutter St, San Francisco, CA 94109, USA, San Francisco/Oakland
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*

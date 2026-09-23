@@ -1,6 +1,6 @@
 # siasios
 
-siasios is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at AUX Club, Athens on Sat, 3 Oct 2026.
+siasios is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at AUX Club, Athens on Sat, 3 Oct 2026.
 
 siasios is a techno and acid artist tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Tbilisi and Vienna. Often billed alongside Imperium, Pelany and KLD (1). Next up: AUX Club, Athens on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ siasios is a techno and acid artist tracked on soundcheck, with 35 sets logged a
 
 Imperium, Pelany, KLD (1)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siasios/)*

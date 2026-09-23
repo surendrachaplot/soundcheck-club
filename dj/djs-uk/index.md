@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bangkok Island, Bangkok on Sat, 26 Sept 2026.
+DJ S (UK) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bangkok Island, Bangkok on Sat, 26 Sept 2026.
 
 DJ S (UK) is a tech house and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Bangkok and Belfast and 29 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Bangkok Island, Bangkok on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ DJ S (UK) is a tech house and house artist tracked on soundcheck, with 171 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

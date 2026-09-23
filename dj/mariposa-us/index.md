@@ -1,6 +1,6 @@
 # Mariposa
 
-Mariposa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+Mariposa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
 Mariposa is a house and techno artist based in United States of America, tracked on soundcheck, with 61 sets logged across Hamburg, Leipzig, Newyorkcity and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: Signal, Newyorkcity on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Mariposa is a house and techno artist based in United States of America, tracked
 
 Perna, Ladiez Drink Free, Drupe Jam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*

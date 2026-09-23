@@ -1,6 +1,6 @@
 # Blake Baxter
 
-Blake Baxter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+Blake Baxter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
 Blake Baxter is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Buenosaires and Detroit and 1 more. Often billed alongside Huey Mnemonic, D. Strange and Juan Atkins. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Blake Baxter is a techno and house artist based in United States of America, tra
 
 Huey Mnemonic, D. Strange, Juan Atkins
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blakebaxter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blakebaxter/)*

@@ -1,6 +1,6 @@
 # Lizatron
 
-Lizatron is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
+Lizatron is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Giri, Berlin on Thu, 1 Oct 2026.
 
 Lizatron is a downtempo and ambient artist tracked on soundcheck, with 23 sets logged across Berlin, Edinburgh, Lisbon and Porto. Often billed alongside Idle Rich, Sibson and ALISHIA PEAS. Next up: Giri, Berlin on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Lizatron is a downtempo and ambient artist tracked on soundcheck, with 23 sets l
 
 Idle Rich, Sibson, ALISHIA PEAS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizatron/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizatron/)*

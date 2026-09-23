@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
+Connor Wall is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
 
 Connor Wall is a techno and house artist based in Australia, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Belgrade and Berlin and 19 more. Often billed alongside Alison Belle, Anthony Linell and Lilac. Next up: Ankali & Planeta Za, Prague on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Connor Wall is a techno and house artist based in Australia, tracked on soundche
 
 Alison Belle, Anthony Linell, Lilac
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

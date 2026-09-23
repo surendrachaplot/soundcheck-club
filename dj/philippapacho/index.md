@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
+Philippa Pacho is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
 
 Philippa Pacho is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 56 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Amnesia Ibiza, Ibiza on Tue 22 Sept.
 
@@ -22,6 +22,7 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 225 sets
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
 - Circolo Amelia, Milan — Sat, 19 Sept 2026
 - Fvtvr, Paris — Fri, 11 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 5 Sept 2026
@@ -29,10 +30,9 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 225 sets
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Macadam, Nantes — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Else, Berlin — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

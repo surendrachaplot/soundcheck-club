@@ -1,6 +1,6 @@
 # FlökosH
 
-FlökosH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SMUT Athens, Athens on Sat, 26 Sept 2026.
+FlökosH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SMUT Athens, Athens on Sat, 26 Sept 2026.
 
 FlökosH is a techno and club artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside Ayshel, GRETA (GR) and Apu Nanu. Next up: SMUT Athens, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FlökosH is a techno and club artist based in Greece, tracked on soundcheck, wit
 
 Ayshel, GRETA (GR), Apu Nanu
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flokosh/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flokosh/)*

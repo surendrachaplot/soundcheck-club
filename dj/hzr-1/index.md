@@ -1,6 +1,6 @@
 # HZR (1)
 
-HZR (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
+HZR (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klein Phönix, Istanbul on Fri, 25 Sept 2026.
 
 HZR (1) is an electronic artist based in Turkey, tracked on soundcheck, with 4 sets logged across Istanbul. Often billed alongside Krey, Alexandr Grecov and Avis Vox. Next up: Klein Phönix, Istanbul on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ HZR (1) is an electronic artist based in Turkey, tracked on soundcheck, with 4 s
 
 Krey, Alexandr Grecov, Avis Vox
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hzr-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hzr-1/)*

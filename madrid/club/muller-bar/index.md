@@ -1,6 +1,6 @@
 # Muller Bar
 
-Muller Bar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "5 años de Kommune,12 horas de música. Parte 1: fiesta" on Fri, 25 Sept 2026.
+Muller Bar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "5 años de Kommune,12 horas de música. Parte 1: fiesta" on Fri, 25 Sept 2026.
 
 Muller Bar is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including MAMA LOVE, Sito and WO KEM. Browse upcoming dates, start times and who's playing. C. de las Huertas, 38, Centro, 28014 Madrid, Spain.
 
@@ -14,4 +14,4 @@ Muller Bar is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with
 
 C. de las Huertas, 38, Centro, 28014 Madrid, Spain, Madrid
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*

@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Charlie Tee presents Unitee" on Sat, 26 Sept 2026.
+Volks is a music venue in Brighton with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Charlie Tee presents Unitee" on Sat, 26 Sept 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 12 upcoming gigs, with line-ups including A.M.C., Business As Usual, Channel One Sound and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 12 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

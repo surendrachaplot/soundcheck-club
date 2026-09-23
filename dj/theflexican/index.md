@@ -1,6 +1,6 @@
 # The Flexican
 
-The Flexican is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+The Flexican is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 The Flexican is a house and bass artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside Berkan V8, De Sluwe Vos and Eileen (NL). Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ The Flexican is a house and bass artist based in Netherlands, tracked on soundch
 
 Berkan V8, De Sluwe Vos, Eileen (NL)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*

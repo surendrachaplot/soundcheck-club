@@ -1,6 +1,6 @@
 # Okarim
 
-Okarim is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Unter Deck, Munich on Sat, 26 Sept 2026.
+Okarim is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unter Deck, Munich on Sat, 26 Sept 2026.
 
 Okarim is a tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Munich. Often billed alongside Cody Currie, Danca and Haze (GER). Next up: Unter Deck, Munich on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Okarim is a tech house artist based in Germany, tracked on soundcheck, with 4 se
 
 Cody Currie, Danca, Haze (GER)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*

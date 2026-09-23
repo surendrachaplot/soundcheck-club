@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "KOKO Electronic: Lee Burridge" on Fri, 25 Sept 2026.
+KOKO is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "KOKO Electronic: Lee Burridge" on Fri, 25 Sept 2026.
 
 KOKO is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including ARODES, Benji B, Birds of Mind and Charisse C and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 15 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

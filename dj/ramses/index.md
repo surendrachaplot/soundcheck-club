@@ -1,6 +1,6 @@
 # Ramses
 
-Ramses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
+Ramses is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
 
 Ramses is a techno and house artist tracked on soundcheck, with 22 sets logged across Munich and Newyorkcity. Often billed alongside Chocolate Chaos, Love Higher and bossy boots. Next up: Unter Deck, Munich on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Ramses is a techno and house artist tracked on soundcheck, with 22 sets logged a
 
 Chocolate Chaos, Love Higher, bossy boots
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramses/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramses/)*

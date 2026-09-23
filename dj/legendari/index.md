@@ -1,6 +1,6 @@
 # LegenDari
 
-LegenDari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at MAD Radio NYC, New York City on Fri, 25 Sept 2026.
+LegenDari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MAD Radio NYC, New York City on Fri, 25 Sept 2026.
 
 LegenDari is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami and Newyorkcity. Often billed alongside Rei Calero, A.Arias and CAÑITA. Next up: MAD Radio NYC, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LegenDari is a house and techno artist based in United States of America, tracke
 
 Rei Calero, A.Arias, CAÑITA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legendari/)*

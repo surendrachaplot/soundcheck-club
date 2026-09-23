@@ -1,6 +1,6 @@
 # Blue Method
 
-Blue Method is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Palais Mascotte, Zurich on Fri, 25 Sept 2026.
+Blue Method is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Palais Mascotte, Zurich on Fri, 25 Sept 2026.
 
 Blue Method is a house and uk funky artist tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside Serge P, Ada and Blue Method (2). Next up: Palais Mascotte, Zurich on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Blue Method is a house and uk funky artist tracked on soundcheck, with 4 sets lo
 
 Serge P, Ada, Blue Method (2)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*

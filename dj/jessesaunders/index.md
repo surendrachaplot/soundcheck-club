@@ -1,6 +1,6 @@
 # Jesse Saunders
 
-Jesse Saunders is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
+Jesse Saunders is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
 
 Jesse Saunders is a house and deep house artist tracked on soundcheck, with 9 sets logged across Chicago and Losangeles. Often billed alongside Terry Hunter, Mike Dunn and Wayne Williams. Next up: Soulwerks, Losangeles on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jesse Saunders is a house and deep house artist tracked on soundcheck, with 9 se
 
 Terry Hunter, Mike Dunn, Wayne Williams
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesaunders/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesaunders/)*

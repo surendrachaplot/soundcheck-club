@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
 
 Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Mint XL, Leeds on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 196 s
 
 Laidlaw, Traumer, Rossi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

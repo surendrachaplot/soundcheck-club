@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "COLLECT RADIO w/ DELIKWE" on Wed, 23 Sept 2026.
+Collect LX Factory is a music venue in Lisbon with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "COLLECT RADIO w/ DELIKWE" on Wed, 23 Sept 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 19 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -23,4 +23,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 19 upcoming 
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

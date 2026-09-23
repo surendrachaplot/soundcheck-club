@@ -1,6 +1,6 @@
 # Hugo Carter
 
-Hugo Carter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Subcero Club, Madrid on Fri, 30 Oct 2026.
+Hugo Carter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Subcero Club, Madrid on Fri, 30 Oct 2026.
 
 Hugo Carter is a house and tech house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Dubai and Ibiza and 4 more. Often billed alongside Jay Luna, Foie Gras and Ian Storm. Next up: Subcero Club, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hugo Carter is a house and tech house artist tracked on soundcheck, with 39 sets
 
 Jay Luna, Foie Gras, Ian Storm
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugocarter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugocarter/)*

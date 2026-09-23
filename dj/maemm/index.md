@@ -1,6 +1,6 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at WOMB, Tokyo on Wed, 30 Sept 2026.
+Maemm is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at WOMB, Tokyo on Wed, 30 Sept 2026.
 
 Maemm is a techno and trance artist tracked on soundcheck, with 92 sets logged across Berlin, Edinburgh, Kyoto and Lisbon and 7 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: WOMB, Tokyo on Wed 30 Sept.
 
@@ -28,4 +28,4 @@ Maemm is a techno and trance artist tracked on soundcheck, with 92 sets logged a
 
 Aérienne, GiGi FM, Atomic moog
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maemm/)*

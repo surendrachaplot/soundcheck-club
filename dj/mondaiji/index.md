@@ -1,6 +1,6 @@
 # Mondaiji
 
-Mondaiji is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
+Mondaiji is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
 
 Mondaiji is a techno and trance artist tracked on soundcheck, with 30 sets logged across Berlin, Leipzig, Munich and Nurnberg and 1 more. Often billed alongside Bernossi, DJ Mischkonsum and Elotrance. Next up: Renate, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mondaiji is a techno and trance artist tracked on soundcheck, with 30 sets logge
 
 Bernossi, DJ Mischkonsum, Elotrance
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mondaiji/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mondaiji/)*

@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Tresor New Faces hosted by Sabine Hoffmann" on Wed, 23 Sept 2026.
+Tresor / Globus is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tresor New Faces hosted by Sabine Hoffmann" on Wed, 23 Sept 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including Adam X, Afra, AgainstMe and Akua and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming gig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

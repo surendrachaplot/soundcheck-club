@@ -1,6 +1,6 @@
 # The Eagle
 
-The Eagle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Horse Meat Disco at Eagle London" on Sun, 27 Sept 2026.
+The Eagle is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Horse Meat Disco at Eagle London" on Sun, 27 Sept 2026.
 
 The Eagle is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Giles Smith and Horse Meat Disco. Browse upcoming dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
 
@@ -15,4 +15,4 @@ The Eagle is a music venue in London listed on soundcheck. 2 upcoming gigs, with
 
 349 Kennington Ln, London SE11 5QY, United Kingdom, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*

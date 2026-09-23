@@ -1,6 +1,6 @@
 # Take1More
 
-Take1More is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
+Take1More is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
 
 Take1More is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bucharest, London and Munich and 1 more. Often billed alongside Erica (IT), Jonas Lesitoc and DA NA. Next up: Theata, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Take1More is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Erica (IT), Jonas Lesitoc, DA NA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*

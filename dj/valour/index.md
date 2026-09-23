@@ -1,6 +1,6 @@
 # VALOUR
 
-VALOUR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Xolo, Munich on Fri, 25 Sept 2026.
+VALOUR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Xolo, Munich on Fri, 25 Sept 2026.
 
 VALOUR is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Istanbul and Munich and 1 more. Often billed alongside Dan Mlinar, CHOOSE WHITE and Mlinar. Next up: Xolo, Munich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ VALOUR is a techno and house artist tracked on soundcheck, with 39 sets logged a
 
 Dan Mlinar, CHOOSE WHITE, Mlinar
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valour/)*

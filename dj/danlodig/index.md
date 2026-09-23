@@ -1,6 +1,6 @@
 # Dan Lodig
 
-Dan Lodig is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
+Dan Lodig is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
 
 Dan Lodig is an ambient and acid artist tracked on soundcheck, with 17 sets logged across Berlin, Chicago and Vienna. Often billed alongside m50, DJ Glow and Conoley Ospovat. Next up: Otto Wagner Areal, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Dan Lodig is an ambient and acid artist tracked on soundcheck, with 17 sets logg
 
 m50, DJ Glow, Conoley Ospovat
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danlodig/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danlodig/)*

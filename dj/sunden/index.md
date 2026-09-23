@@ -1,6 +1,6 @@
 # Sunden
 
-Sunden is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
+Sunden is a Ambient and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at radial, London on Fri, 9 Oct 2026.
 
 Sunden is an ambient and acid artist tracked on soundcheck, with 10 sets logged across Chicago and London. Often billed alongside Medallion Man, Charlie Boy Manson and Rommek. Next up: radial, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sunden is an ambient and acid artist tracked on soundcheck, with 10 sets logged 
 
 Medallion Man, Charlie Boy Manson, Rommek
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunden/)*

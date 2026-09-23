@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "UNREAL WEEKENDER NIGHT I" on Fri, 25 Sept 2026.
+Bootshaus is a music venue in Cologne with 16 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "UNREAL WEEKENDER NIGHT I" on Fri, 25 Sept 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 16 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

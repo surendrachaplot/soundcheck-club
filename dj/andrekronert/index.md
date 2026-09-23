@@ -1,6 +1,6 @@
 # Andre Kronert
 
-Andre Kronert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Library Square Public House, Vancouver on Fri, 25 Sept 2026.
+Andre Kronert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Library Square Public House, Vancouver on Fri, 25 Sept 2026.
 
 Andre Kronert is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Detroit and 4 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: Library Square Public House, Vancouver on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Andre Kronert is a techno and house artist based in Germany, tracked on soundche
 
 Claus Bachor, Edgar Peng, 909 RACING TEAM
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*

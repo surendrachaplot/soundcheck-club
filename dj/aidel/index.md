@@ -1,6 +1,6 @@
 # AIDEL
 
-AIDEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Outer Limits Lounge, Detroit on Thu, 24 Sept 2026.
+AIDEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outer Limits Lounge, Detroit on Thu, 24 Sept 2026.
 
 AIDEL is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit. Often billed alongside Amino, Wax Assassin and we1sman. Next up: Outer Limits Lounge, Detroit on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ AIDEL is a techno and house artist based in United States of America, tracked on
 
 Amino, Wax Assassin, we1sman
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidel/)*

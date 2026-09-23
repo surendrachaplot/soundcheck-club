@@ -1,6 +1,6 @@
 # Jakka
 
-Jakka is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Cadavra, Madrid on Thu, 22 Oct 2026.
+Jakka is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Thu, 22 Oct 2026.
 
 Jakka is a techno and electronica artist tracked on soundcheck, with 22 sets logged across Madrid. Often billed alongside Trasto, Unkle Fon and Angelo Stasi. Next up: Cadavra, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jakka is a techno and electronica artist tracked on soundcheck, with 22 sets log
 
 Trasto, Unkle Fon, Angelo Stasi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakka/)*

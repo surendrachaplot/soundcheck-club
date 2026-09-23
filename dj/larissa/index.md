@@ -1,6 +1,6 @@
 # larissa
 
-larissa is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mad Radio Miami, Miami on Wed, 23 Sept 2026.
+larissa is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mad Radio Miami, Miami on Wed, 23 Sept 2026.
 
 larissa is a bass and house artist tracked on soundcheck, with 18 sets logged across Miami and Warsaw. Often billed alongside DiV4, ALLG and monka. Next up: Mad Radio Miami, Miami on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ larissa is a bass and house artist tracked on soundcheck, with 18 sets logged ac
 
 DiV4, ALLG, monka
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larissa/)*

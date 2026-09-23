@@ -1,6 +1,6 @@
 # Afriqua
 
-Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Apophis Club, Milan on Fri, 2 Oct 2026.
+Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Apophis Club, Milan on Fri, 2 Oct 2026.
 
 Afriqua is a house and techno artist tracked on soundcheck, with 52 sets logged across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: Apophis Club, Milan on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Afriqua is a house and techno artist tracked on soundcheck, with 52 sets logged 
 
 Lubelski, Ardalan, Club Tularosa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*

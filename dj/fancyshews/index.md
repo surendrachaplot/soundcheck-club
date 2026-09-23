@@ -1,6 +1,6 @@
 # Fancy Shews
 
-Fancy Shews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
+Fancy Shews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
 
 Fancy Shews is a house and techno artist tracked on soundcheck, with 20 sets logged across Athens, Berlin, Brighton and Cardiff and 3 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Plex, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fancy Shews is a house and techno artist tracked on soundcheck, with 20 sets log
 
 FAFF, Angel D'lite, David Elimelech
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*

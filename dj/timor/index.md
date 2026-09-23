@@ -1,6 +1,6 @@
 # Timor
 
-Timor is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bricks, London on Sat, 14 Nov 2026.
+Timor is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bricks, London on Sat, 14 Nov 2026.
 
 Timor is an electro and house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Kyle Parsley, ANNX and Dj wiggles. Next up: Bricks, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Timor is an electro and house artist tracked on soundcheck, with 10 sets logged 
 
 Kyle Parsley, ANNX, Dj wiggles
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timor/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timor/)*

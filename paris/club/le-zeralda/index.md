@@ -1,6 +1,6 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ..." on Fri, 25 Sept 2026.
+Le Zeralda is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Intervision : Sarcoma, Fotocopia, Hajj, Evesdescent ..." on Fri, 25 Sept 2026.
 
 Le Zeralda is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Hajj and NZIRIA. Browse upcoming dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
@@ -15,4 +15,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

@@ -1,6 +1,6 @@
 # Kosta Kritikos
 
-Kosta Kritikos is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Kosta Kritikos is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
 Kosta Kritikos is a techno and afro house artist tracked on soundcheck, with 4 sets logged across Berlin and Leipzig. Often billed alongside Angie (CY), Ben Dust and Bondi (DE). Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Kosta Kritikos is a techno and afro house artist tracked on soundcheck, with 4 s
 
 Angie (CY), Ben Dust, Bondi (DE)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*

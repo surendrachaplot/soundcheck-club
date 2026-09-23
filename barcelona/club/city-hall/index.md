@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "City Hall pres. INSIDE 86 II Tuesday II DOWNLOAD YOUR FREE PASS" on Tue, 22 Sept 2026.
+City Hall is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "City Hall pres. INSIDE 86 II Tuesday II DOWNLOAD YOUR FREE PASS" on Tue, 22 Sept 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including ALTRAX, Civaro, Cristian Varela and Eli Ercolani and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

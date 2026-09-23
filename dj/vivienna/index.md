@@ -1,6 +1,6 @@
 # Vivienna
 
-Vivienna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+Vivienna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 Vivienna is a techno and trance artist tracked on soundcheck, with 28 sets logged across Berlin, Leipzig, Munich and Vienna. Often billed alongside ELOISA, Armin Hermann and Bitschu Batschu. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Vivienna is a techno and trance artist tracked on soundcheck, with 28 sets logge
 
 ELOISA, Armin Hermann, Bitschu Batschu
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivienna/)*

@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Kin - Alex Coly • nik-ey • Travis Allen • Violet" on Thu, 24 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kin - Alex Coly • nik-ey • Travis Allen • Violet" on Thu, 24 Sept 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including Aldonna, Alex Coly, Bambii and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

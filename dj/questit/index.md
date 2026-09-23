@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
+Quest (IT) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
 
 Quest (IT) is a house and techno artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Q35 WAREHOUSE, Turin on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 172 sets log
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

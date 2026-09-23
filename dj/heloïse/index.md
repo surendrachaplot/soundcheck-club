@@ -1,6 +1,6 @@
 # Héloïse
 
-Héloïse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+Héloïse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 Héloïse is a techno and house artist based in France, tracked on soundcheck, with 18 sets logged across Hamburg and Sanfrancisco. Often billed alongside MARRGIAN, Ek-sistenz and Lucinee. Next up: Underground SF, Sanfrancisco on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Héloïse is a techno and house artist based in France, tracked on soundcheck, w
 
 MARRGIAN, Ek-sistenz, Lucinee
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heloïse/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heloïse/)*

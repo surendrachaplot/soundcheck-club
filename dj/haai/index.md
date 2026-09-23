@@ -1,6 +1,6 @@
 # HAAi
 
-HAAi is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
+HAAi is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kilomètre25, Paris on Sat, 26 Sept 2026.
 
 HAAi is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and salute. Next up: Kilomètre25, Paris on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ HAAi is a techno and house artist tracked on soundcheck, with 210 sets logged ac
 
 DJ Tennis, Saoirse, salute
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

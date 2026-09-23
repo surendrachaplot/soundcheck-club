@@ -1,6 +1,6 @@
 # babsko
 
-babsko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
+babsko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gaffe, London on Fri, 23 Oct 2026.
 
 babsko is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Copenhagen, London and Warsaw. Often billed alongside WE.LL, dgbt and Saroor. Next up: Gaffe, London on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ babsko is a techno and trance artist based in United Kingdom, tracked on soundch
 
 WE.LL, dgbt, Saroor
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*

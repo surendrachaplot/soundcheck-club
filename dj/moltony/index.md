@@ -1,6 +1,6 @@
 # MOLTØNY
 
-MOLTØNY is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at H0L0, New York City on Thu, 24 Sept 2026.
+MOLTØNY is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at H0L0, New York City on Thu, 24 Sept 2026.
 
 MOLTØNY is a techno artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside SYTHRA, BMG and Devoye. Next up: H0L0, Newyorkcity on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ MOLTØNY is a techno artist tracked on soundcheck, with 4 sets logged across New
 
 SYTHRA, BMG, Devoye
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moltony/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moltony/)*

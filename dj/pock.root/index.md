@@ -1,6 +1,6 @@
 # pock.root
 
-pock.root is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
+pock.root is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 10 Oct 2026.
 
 pock.root is an experimental and ambient artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Dmytro Filatov, markoshmarko and Mykola Lebed. Next up: Chausseestrasse 131, Berlin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ pock.root is an experimental and ambient artist tracked on soundcheck, with 8 se
 
 Dmytro Filatov, markoshmarko, Mykola Lebed
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pock.root/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pock.root/)*

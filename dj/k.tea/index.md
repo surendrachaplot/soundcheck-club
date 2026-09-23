@@ -1,6 +1,6 @@
 # k.tea
 
-k.tea is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Industry City, New York City on Sat, 26 Sept 2026.
+k.tea is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Industry City, New York City on Sat, 26 Sept 2026.
 
 k.tea is a house and deep house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside Donis, CTRLZORA and Kim Lightfoot. Next up: Industry City, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ k.tea is a house and deep house artist based in United States of America, tracke
 
 Donis, CTRLZORA, Kim Lightfoot
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*

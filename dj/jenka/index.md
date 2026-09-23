@@ -1,6 +1,6 @@
 # JENKA
 
-JENKA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+JENKA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
 JENKA is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside FRÆNCIS, DJ Dios and L X S. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ JENKA is a techno and trance artist tracked on soundcheck, with 15 sets logged a
 
 FRÆNCIS, DJ Dios, L X S
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenka/)*

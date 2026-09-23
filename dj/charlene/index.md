@@ -1,6 +1,6 @@
 # Charlene
 
-Charlene is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Charlene is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
 Charlene is an electronic artist tracked on soundcheck, with 12 sets logged across London and Newyorkcity. Often billed alongside W. Jeremy, Tommie Sunshine and boyyyish. Next up: Lccm, London on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Charlene is an electronic artist tracked on soundcheck, with 12 sets logged acro
 
 W. Jeremy, Tommie Sunshine, boyyyish
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlene/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlene/)*

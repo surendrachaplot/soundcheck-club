@@ -1,6 +1,6 @@
 # Stevano
 
-Stevano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+Stevano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
 Stevano is a house and techno artist based in United States of America, tracked on soundcheck, with 121 sets logged across Detroit. Often billed alongside Tylr, Al Ester and Savannah G. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Stevano is a house and techno artist based in United States of America, tracked 
 
 Tylr, Al Ester, Savannah G
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevano/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevano/)*

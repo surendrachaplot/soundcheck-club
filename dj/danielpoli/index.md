@@ -1,6 +1,6 @@
 # Daniel Poli
 
-Daniel Poli is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 24 Oct 2026.
+Daniel Poli is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 24 Oct 2026.
 
 Daniel Poli is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside 3 Minds, HEAVEN-LEE and Jake Hodgkinson. Next up: NUMBER 90 LONDON, London on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Daniel Poli is a tech house and deep house artist based in United Kingdom, track
 
 3 Minds, HEAVEN-LEE, Jake Hodgkinson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpoli/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpoli/)*

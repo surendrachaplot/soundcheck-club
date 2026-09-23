@@ -1,6 +1,6 @@
 # Paisley Jensen
 
-Paisley Jensen is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
+Paisley Jensen is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
 
 Paisley Jensen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Birmingham and Bristol and 6 more. Often billed alongside Danny Howard, Prunk and Sam Divine. Next up: Cova Santa, Ibiza on Tue 22 Sept.
 
@@ -15,6 +15,7 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, tracked
 
 ## Recently played
 
+- Cova Santa, Ibiza — Tue, 22 Sept 2026
 - DRUMSHEDS, London — Sat, 19 Sept 2026
 - 528 Ibiza, Ibiza — Thu, 3 Sept 2026
 - Hï Ibiza, Ibiza — Wed, 2 Sept 2026
@@ -22,10 +23,9 @@ Paisley Jensen is a house and tech house artist based in United Kingdom, tracked
 - XOYO, London — Sat, 1 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
 - Cavo Paradiso, Mykonos — Sun, 19 Jul 2026
-- Boxpark Shoreditch, London — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Danny Howard, Prunk, Sam Divine
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paisleyjensen/)*

@@ -1,6 +1,6 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
+DJ Strawberry is a Footwork and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Alte Feuerwache THF, Berlin on Sat, 3 Oct 2026.
 
 DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundcheck, with 51 sets logged across Berlin, Denver, Hamburg and Istanbul and 9 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Alte Feuerwache THF, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DJ Strawberry is a footwork and bass artist based in Turkey, tracked on soundche
 
 King Softy, Jonah P., freedjom
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*

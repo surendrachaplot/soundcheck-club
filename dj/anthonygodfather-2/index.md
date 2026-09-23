@@ -1,6 +1,6 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Basement (Amsterdam), Amsterdam on Sun, 25 Oct 2026.
+Anthony Godfather (2) is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Basement (Amsterdam), Amsterdam on Sun, 25 Oct 2026.
 
 Anthony Godfather (2) is a tech house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, London and Madrid. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Basement (Amsterdam), Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Anthony Godfather (2) is a tech house and techno artist tracked on soundcheck, w
 
 Abdon, Darius Syrossian, Joey Daniel
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

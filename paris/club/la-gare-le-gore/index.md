@@ -1,6 +1,6 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "JAM DU BPM CONTEST" on Tue, 22 Sept 2026.
+La Gare / Le Gore is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "JAM DU BPM CONTEST" on Tue, 22 Sept 2026.
 
 La Gare / Le Gore is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Amelia Leigh, Ian Maur, Shfoosja and TILDA (2). Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
@@ -17,4 +17,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 4 upcoming gig
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

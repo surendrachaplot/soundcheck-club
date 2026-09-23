@@ -1,6 +1,6 @@
 # Azadi
 
-Azadi is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
+Azadi is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Fri, 2 Oct 2026.
 
 Azadi is a techno and minimal artist tracked on soundcheck, with 4 sets logged across Berlin, Copenhagen and Seoul. Often billed alongside zamara, AZADÎ and Bambi Milan. Next up: Crack Bellmer, Berlin on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Azadi is a techno and minimal artist tracked on soundcheck, with 4 sets logged a
 
 zamara, AZADÎ, Bambi Milan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi/)*

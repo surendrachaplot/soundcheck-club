@@ -1,6 +1,6 @@
 # R4ST
 
-R4ST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at IT Athens, Athens on Fri, 23 Oct 2026.
+R4ST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at IT Athens, Athens on Fri, 23 Oct 2026.
 
 R4ST is a techno and trance artist based in Greece, tracked on soundcheck, with 4 sets logged across Athens. Often billed alongside LEFTYT, Mariø and AQUILES.. Next up: IT Athens, Athens on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ R4ST is a techno and trance artist based in Greece, tracked on soundcheck, with 
 
 LEFTYT, Mariø, AQUILES.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4st/)*

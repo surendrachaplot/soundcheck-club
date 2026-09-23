@@ -1,6 +1,6 @@
 # FREAK POV
 
-FREAK POV is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
+FREAK POV is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 FREAK POV is a techno and club artist tracked on soundcheck, with 3 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Tom Marsi, Bad Leather and Bored Lord. Next up: F8 1192 Folsom, Sanfrancisco on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ FREAK POV is a techno and club artist tracked on soundcheck, with 3 sets logged 
 
 Tom Marsi, Bad Leather, Bored Lord
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakpov/)*

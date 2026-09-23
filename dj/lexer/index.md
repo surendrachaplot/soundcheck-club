@@ -1,6 +1,6 @@
 # Lexer
 
-Lexer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Pracht, Frankfurt on Sat, 10 Oct 2026.
+Lexer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pracht, Frankfurt on Sat, 10 Oct 2026.
 
 Lexer is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Berlin and Brussels and 16 more. Often billed alongside Matchy, A.D.H.S. and Anahit Vardanyan. Next up: Pracht, Frankfurt on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lexer is a techno and house artist tracked on soundcheck, with 65 sets logged ac
 
 Matchy, A.D.H.S., Anahit Vardanyan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*

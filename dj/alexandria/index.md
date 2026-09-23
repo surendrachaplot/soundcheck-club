@@ -1,6 +1,6 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Love Inn, Bristol on Wed, 23 Sept 2026.
+Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Love Inn, Bristol on Wed, 23 Sept 2026.
 
 Alexandria is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: The Love Inn, Bristol on Wed 23 Sept.
 
@@ -31,4 +31,4 @@ Alexandria is a house and tech house artist tracked on soundcheck, with 62 sets 
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

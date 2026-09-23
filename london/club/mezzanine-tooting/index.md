@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Groovy Juice" on Fri, 25 Sept 2026.
+Mezzanine - Tooting is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Groovy Juice" on Fri, 25 Sept 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including B_LOVE, DJ Mods, Drone (UK) and flux vortex and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -23,4 +23,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 10 upcoming
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

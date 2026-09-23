@@ -1,6 +1,6 @@
 # TonyDeepDisco
 
-TonyDeepDisco is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at MAD Radio NYC, New York City on Wed, 23 Sept 2026.
+TonyDeepDisco is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MAD Radio NYC, New York City on Wed, 23 Sept 2026.
 
 TonyDeepDisco is a house and funk / soul artist tracked on soundcheck, with 59 sets logged across Newyorkcity. Often billed alongside wesfourth, Onakan Disko and Tommaso (IT). Next up: MAD Radio NYC, Newyorkcity on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ TonyDeepDisco is a house and funk / soul artist tracked on soundcheck, with 59 s
 
 wesfourth, Onakan Disko, Tommaso (IT)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydeepdisco/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonydeepdisco/)*

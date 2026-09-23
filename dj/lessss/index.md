@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
+LESSSS is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
 
 LESSSS is a techno and hardcore artist tracked on soundcheck, with 161 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 50 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: BASIS, Utrecht on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ LESSSS is a techno and hardcore artist tracked on soundcheck, with 161 sets logg
 
 Azyr, Basswell, Charlie Sparks
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

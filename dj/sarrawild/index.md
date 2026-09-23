@@ -1,6 +1,6 @@
 # Sarra Wild
 
-Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Unité.22, Marseille on Fri, 25 Sept 2026.
+Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unité.22, Marseille on Fri, 25 Sept 2026.
 
 Sarra Wild is a bass and techno artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Bristol and Brussels and 14 more. Often billed alongside TEDESCO, ASHTREY and Alo3. Next up: Unité.22, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sarra Wild is a bass and techno artist tracked on soundcheck, with 73 sets logge
 
 TEDESCO, ASHTREY, Alo3
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*

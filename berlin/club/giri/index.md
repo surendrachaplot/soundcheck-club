@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Giri x Amour Africain" on Thu, 24 Sept 2026.
+Giri is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Giri x Amour Africain" on Thu, 24 Sept 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including ANTRO, Aunty Nora, aya and Bakläxa and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with lin
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

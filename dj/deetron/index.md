@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at KALT, Strasbourg on Sat, 3 Oct 2026.
+Deetron is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at KALT, Strasbourg on Sat, 3 Oct 2026.
 
 Deetron is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: KALT, Strasbourg on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Deetron is a techno and house artist tracked on soundcheck, with 57 sets logged 
 
 Zenker Brothers, SG Lewis, AMMARA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Timeout Motion : Afro House, Afro Tech, 3 Step & Gqom | Kwamzy, Blackseid, Femicodes, Perrie" on Fri, 25 Sept 2026.
+Bricks is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Timeout Motion : Afro House, Afro Tech, 3 Step & Gqom | Kwamzy, Blackseid, Femicodes, Perrie" on Fri, 25 Sept 2026.
 
 Bricks is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Adela, AHARDS, AVANTIME and Azaleh and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -22,4 +22,4 @@ Bricks is a music venue in London listed on soundcheck. 9 upcoming gigs, with li
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

@@ -1,6 +1,6 @@
 # Alan Harman
 
-Alan Harman is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bambi's, Toronto on Thu, 1 Oct 2026.
+Alan Harman is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bambi's, Toronto on Thu, 1 Oct 2026.
 
 Alan Harman is a techno and new wave artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal and Toronto. Often billed alongside M Salaciak, Con Secuencias and El Ángel Exterminador. Next up: Bambi's, Toronto on Thu 1 Oct.
 
@@ -22,4 +22,4 @@ Alan Harman is a techno and new wave artist based in Canada, tracked on soundche
 
 M Salaciak, Con Secuencias, El Ángel Exterminador
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*

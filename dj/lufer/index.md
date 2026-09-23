@@ -1,14 +1,15 @@
 # Lufer
 
-Lufer is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
+Lufer is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bsmnt, Boston on Thu, 24 Sept 2026.
 
-Lufer is a techno and acid artist tracked on soundcheck, with 29 sets logged across Boston, Melbourne and Newyorkcity. Often billed alongside The Consciousness, Egg In The Morning and Elizabëth. Next up: Bsmnt, Boston on Thu 24 Sept.
+Lufer is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Boston, Melbourne and Newyorkcity. Often billed alongside The Consciousness, Egg In The Morning and Elizabëth. Next up: Bsmnt, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Bsmnt | Boston |
+| Wed, 7 Oct 2026 | The Chemist | Boston |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lufer is a techno and acid artist tracked on soundcheck, with 29 sets logged acr
 
 The Consciousness, Egg In The Morning, Elizabëth
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*

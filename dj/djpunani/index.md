@@ -1,0 +1,28 @@
+# DJ Punani
+
+DJ Punani is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
+
+DJ Punani is a reggaeton and latin bass artist based in Canada, tracked on soundcheck, with 12 sets logged across Montreal and Stockholm. Often billed alongside mCherry, La Niña Kiwi and JASHIM. Next up: ESC, Montreal on Sat 3 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 3 Oct 2026 | ESC | Montreal |
+
+## Recently played
+
+- Bar Datcha, Montreal — Thu, 3 Sept 2026
+- Société des arts technologiques, Montreal — Sat, 8 Aug 2026
+- Village au Pied-du-Courant, Montreal — Sat, 18 Jul 2026
+- Village au Pied-du-Courant, Montreal — Sat, 6 Jun 2026
+- La Graine Brûlée, Montreal — Sat, 9 May 2026
+- La Récré, Montreal — Fri, 8 May 2026
+- La Toscadura, Montreal — Sat, 28 Mar 2026
+- Bain Mathieu, Montreal — Sat, 16 Aug 2025
+
+## Shares bills with
+
+mCherry, La Niña Kiwi, JASHIM
+
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpunani/)*

@@ -1,6 +1,6 @@
 # 1LDK
 
-1LDK is a Pop and Noise artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
+1LDK is a Pop and Noise artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
 
 1LDK is a pop and noise artist based in Japan, tracked on soundcheck, with 3 sets logged across London, Paris and Tokyo. Often billed alongside Albino Sound, ChottoKimoi and DJ Love. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
 
@@ -19,4 +19,4 @@
 
 Albino Sound, ChottoKimoi, DJ Love
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

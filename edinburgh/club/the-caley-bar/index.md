@@ -1,6 +1,6 @@
 # The Caley Bar
 
-The Caley Bar is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Toki-O Nights: Powered by Technics (Scott Pelloux)" on Wed, 23 Sept 2026.
+The Caley Bar is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Toki-O Nights: Powered by Technics (Scott Pelloux)" on Wed, 23 Sept 2026.
 
 The Caley Bar is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Ann Tweak. Browse upcoming dates, start times and who's playing. Princes Street, Edinburgh, United Kingdom EH1 2AB.
 
@@ -16,4 +16,4 @@ The Caley Bar is a music venue in Edinburgh listed on soundcheck. 3 upcoming gig
 
 Princes Street, Edinburgh, United Kingdom EH1 2AB, Edinburgh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*

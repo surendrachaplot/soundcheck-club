@@ -1,6 +1,6 @@
 # Soul Goodman
 
-Soul Goodman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TV Lounge, Detroit on Sat, 3 Oct 2026.
+Soul Goodman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TV Lounge, Detroit on Sat, 3 Oct 2026.
 
 Soul Goodman is a house and techno artist tracked on soundcheck, with 10 sets logged across Detroit and Nashville. Often billed alongside Aboudi Issa, Dabura and Eddie Fowlkes. Next up: TV Lounge, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Soul Goodman is a house and techno artist tracked on soundcheck, with 10 sets lo
 
 Aboudi Issa, Dabura, Eddie Fowlkes
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulgoodman/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulgoodman/)*

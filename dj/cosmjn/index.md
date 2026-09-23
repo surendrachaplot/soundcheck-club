@@ -1,6 +1,6 @@
 # Cosmjn
 
-Cosmjn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Silent Studios, Auckland on Sat, 17 Oct 2026.
+Cosmjn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Silent Studios, Auckland on Sat, 17 Oct 2026.
 
 Cosmjn is a minimal and house artist tracked on soundcheck, with 61 sets logged across Auckland, Barcelona, Berlin and Boston and 23 more. Often billed alongside Lizz, Andrei Ciubuc and Herodot. Next up: Silent Studios, Auckland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Cosmjn is a minimal and house artist tracked on soundcheck, with 61 sets logged 
 
 Lizz, Andrei Ciubuc, Herodot
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmjn/)*

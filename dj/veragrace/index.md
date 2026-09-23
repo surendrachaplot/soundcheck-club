@@ -1,6 +1,6 @@
 # Vera Grace
 
-Vera Grace is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Vera Grace is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
 Vera Grace is a techno and industrial artist tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SEMMUS, Cynthia Spiering and SNTS. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Vera Grace is a techno and industrial artist tracked on soundcheck, with 127 set
 
 SEMMUS, Cynthia Spiering, SNTS
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veragrace/)*

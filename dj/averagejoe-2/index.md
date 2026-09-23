@@ -1,6 +1,6 @@
 # Average Joe (2)
 
-Average Joe (2) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Stereo, Glasgow on Thu, 24 Sept 2026.
+Average Joe (2) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stereo, Glasgow on Thu, 24 Sept 2026.
 
 Average Joe (2) is a breakbeat and electro artist tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Loose E, Orla Halligan and Patrick McCotter. Next up: Stereo, Glasgow on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ Average Joe (2) is a breakbeat and electro artist tracked on soundcheck, with 3 
 
 Loose E, Orla Halligan, Patrick McCotter
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/averagejoe-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/averagejoe-2/)*

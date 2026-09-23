@@ -1,6 +1,6 @@
 # Glen West
 
-Glen West is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+Glen West is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 Glen West is a trance and techno artist based in Australia, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Ghent and Melbourne. Often billed alongside Amøn, nordcorreia.mp3 and 3LEEZA. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Glen West is a trance and techno artist based in Australia, tracked on soundchec
 
 Amøn, nordcorreia.mp3, 3LEEZA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glenwest/)*

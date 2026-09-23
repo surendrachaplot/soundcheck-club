@@ -1,6 +1,6 @@
 # Céline
 
-Céline is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
+Céline is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
 
 Céline is a house and disco artist based in France, tracked on soundcheck, with 43 sets logged across Naples, Oslo, Paris and Porto and 1 more. Often billed alongside Molly, Belaria and Chloé. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Céline is a house and disco artist based in France, tracked on soundcheck, with
 
 Molly, Belaria, Chloé
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celine/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celine/)*

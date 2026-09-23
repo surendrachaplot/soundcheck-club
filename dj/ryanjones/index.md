@@ -1,6 +1,6 @@
 # Ryan Jones
 
-Ryan Jones is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
+Ryan Jones is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
 
 Ryan Jones is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Voigtmann, Amaliah and Eddie Richards. Next up: Vittoria Wharf Studio, London on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Ryan Jones is a house and tech house artist based in United Kingdom, tracked on 
 
 Voigtmann, Amaliah, Eddie Richards
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*

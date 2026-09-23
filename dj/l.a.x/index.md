@@ -1,6 +1,6 @@
 # L.A.X
 
-L.A.X is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
+L.A.X is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 29 Oct 2026.
 
 L.A.X is an electronic artist tracked on soundcheck, with 10 sets logged across Munich. Often billed alongside Punktmidi, Roshan (DE) and SpanierOhneAuto. Next up: Bahnwärter Thiel, Munich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ L.A.X is an electronic artist tracked on soundcheck, with 10 sets logged across 
 
 Punktmidi, Roshan (DE), SpanierOhneAuto
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*

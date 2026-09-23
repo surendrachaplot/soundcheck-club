@@ -1,6 +1,6 @@
 # Mogus
 
-Mogus is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Paramour, Brussels on Sat, 17 Oct 2026.
+Mogus is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paramour, Brussels on Sat, 17 Oct 2026.
 
 Mogus is a house and minimal artist tracked on soundcheck, with 18 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Davy, Sips and T.A.M.22. Next up: Paramour, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mogus is a house and minimal artist tracked on soundcheck, with 18 sets logged a
 
 Davy, Sips, T.A.M.22
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogus/)*

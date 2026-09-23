@@ -1,6 +1,6 @@
 # MEMBRILLA
 
-MEMBRILLA is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
+MEMBRILLA is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
 
 MEMBRILLA is a progressive house and house artist based in Uruguay, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside mita-es, Emme Musik and Mai Lawson (3). Next up: Bridge 48, Barcelona on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ MEMBRILLA is a progressive house and house artist based in Uruguay, tracked on s
 
 mita-es, Emme Musik, Mai Lawson (3)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/membrilla/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/membrilla/)*

@@ -1,6 +1,6 @@
 # Warehouse 34
 
-Warehouse 34 is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "[CANCELLED] Granville Collective - 4th Birthday" on Fri, 25 Sept 2026.
+Warehouse 34 is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Granville Collective - 4th Birthday" on Fri, 25 Sept 2026.
 
 Warehouse 34 is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including Binh, Ethan McNamara, JYE. and LEN.. Browse upcoming dates, start times and who's playing. Warehouse 34, Hoults Yard, Byker, Newcastle upon Tyne NE6 2HL.
 
@@ -8,7 +8,7 @@ Warehouse 34 is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | [CANCELLED] Granville Collective - 4th Birthday | Ethan McNamara, JYE., LEN. |
+| Fri, 25 Sept 2026 | Granville Collective - 4th Birthday | Ethan McNamara, JYE., LEN. |
 | Fri, 30 Oct 2026 | Granville Collective - Halloween w/ Binh  | Binh, JYE. |
 | Sat, 31 Oct 2026 | Big Fat Rave: Halloween 2026 / Warehouse Sessions |  |
 
@@ -16,4 +16,4 @@ Warehouse 34 is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs
 
 Warehouse 34, Hoults Yard, Byker, Newcastle upon Tyne NE6 2HL, Newcastle
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/warehouse-34/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/warehouse-34/)*

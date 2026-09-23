@@ -1,6 +1,6 @@
 # TBA - Museum of Contemporary Art Australia
 
-TBA - Museum of Contemporary Art Australia is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Divine Playhouse Presents: An Unholy Funeral" on Thu, 8 Oct 2026.
+TBA - Museum of Contemporary Art Australia is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Divine Playhouse Presents: An Unholy Funeral" on Thu, 8 Oct 2026.
 
 TBA - Museum of Contemporary Art Australia is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including La Figa, Lorna Clarkson, Matt Vaughan and Stereogamous. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Museum of Contemporary Art Australia is a music venue in Sydney listed on 
 | Thu, 22 Oct 2026 | Divine Playhouse Presents: An Eternal Love Affair | La Figa, Matt Vaughan |
 | Thu, 29 Oct 2026 | Divine Playhouse Presents: A Delicious Indiscretion | La Figa |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-museum-of-contemporary-art-australia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-museum-of-contemporary-art-australia/)*

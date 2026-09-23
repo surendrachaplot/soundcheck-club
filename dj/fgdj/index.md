@@ -1,6 +1,6 @@
 # Fgdj
 
-Fgdj is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
+Fgdj is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
 
 Fgdj is a techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Pylerinstinct1, Wisje Dj and Rodri Martin. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Fgdj is a techno artist based in Spain, tracked on soundcheck, with 14 sets logg
 
 Pylerinstinct1, Wisje Dj, Rodri Martin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fgdj/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fgdj/)*

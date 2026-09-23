@@ -1,6 +1,6 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+Ehua is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Ehua is a techno and bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Auckland, Barcelona and Basel and 32 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ehua is a techno and bass artist tracked on soundcheck, with 121 sets logged acr
 
 AliA, Bitter Babe, Flore
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

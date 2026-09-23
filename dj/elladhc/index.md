@@ -1,6 +1,6 @@
 # ELLADHC
 
-ELLADHC is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
+ELLADHC is a Dancehall and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
 
 ELLADHC is a dancehall and r&b artist tracked on soundcheck, with 43 sets logged across Brighton and London. Often billed alongside AyChibs, Chey Selecta and Donnie Sunshine. Next up: The Orange Room, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ELLADHC is a dancehall and r&b artist tracked on soundcheck, with 43 sets logged
 
 AyChibs, Chey Selecta, Donnie Sunshine
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elladhc/)*

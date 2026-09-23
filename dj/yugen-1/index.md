@@ -1,6 +1,6 @@
 # Yūgen
 
-Yūgen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
+Yūgen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
 
 Yūgen is a techno and electro artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Lazy Bones, Racso Renniks and CristianLND. Next up: The Glove That Fits, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Yūgen is a techno and electro artist tracked on soundcheck, with 4 sets logged 
 
 Lazy Bones, Racso Renniks, CristianLND
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yugen-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yugen-1/)*

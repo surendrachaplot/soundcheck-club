@@ -1,6 +1,6 @@
 # nøvae
 
-nøvae is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+nøvae is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 nøvae is a techno and house artist tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Rn86, Simon Phil.ter and Ri0D.. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ nøvae is a techno and house artist tracked on soundcheck, with 60 sets logged a
 
 Rn86, Simon Phil.ter, Ri0D.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novae/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novae/)*

@@ -1,6 +1,6 @@
 # Matteo Bigliardi
 
-Matteo Bigliardi is a Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
+Matteo Bigliardi is a Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bridge 48, Barcelona on Sat, 26 Sept 2026.
 
 Matteo Bigliardi is a progressive house artist tracked on soundcheck, with 6 sets logged across Barcelona and Madrid. Often billed alongside Angie (CY), DD.MATTS and Emme Musik. Next up: Bridge 48, Barcelona on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Matteo Bigliardi is a progressive house artist tracked on soundcheck, with 6 set
 
 Angie (CY), DD.MATTS, Emme Musik
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobigliardi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteobigliardi/)*

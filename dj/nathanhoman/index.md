@@ -1,6 +1,6 @@
 # Nathan Homan
 
-Nathan Homan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Gate, Berlin on Thu, 1 Oct 2026.
+Nathan Homan is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Gate, Berlin on Thu, 1 Oct 2026.
 
 Nathan Homan is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: Golden Gate, Berlin on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Nathan Homan is a house and techno artist tracked on soundcheck, with 47 sets lo
 
 Tsepo, Merel Helderman, SOLIT
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*

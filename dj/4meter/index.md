@@ -1,6 +1,6 @@
 # 4meter
 
-4meter is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Crack Bellmer, Berlin on Thu, 24 Sept 2026.
+4meter is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Thu, 24 Sept 2026.
 
 4meter is a techno and trance artist tracked on soundcheck, with 18 sets logged across Berlin, Frankfurt and Warsaw. Often billed alongside Dreimal T, dom.koski and Leone Knight. Next up: Crack Bellmer, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@
 
 Dreimal T, dom.koski, Leone Knight
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4meter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4meter/)*

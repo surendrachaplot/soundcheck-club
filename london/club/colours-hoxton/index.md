@@ -1,6 +1,6 @@
 # Colours Hoxton
 
-Colours Hoxton is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "DARK DISCO BERLIN x DARK ROOM" on Fri, 25 Sept 2026.
+Colours Hoxton is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DARK DISCO BERLIN x DARK ROOM" on Fri, 25 Sept 2026.
 
 Colours Hoxton is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Arrosa, Berlin Bunny, CatMint and Dina Summer and 2 more. Browse upcoming dates, start times and who's playing. 2-4 Hoxton Square, London N1 6NU, United Kingdom.
 
@@ -17,4 +17,4 @@ Colours Hoxton is a music venue in London listed on soundcheck. 4 upcoming gigs,
 
 2-4 Hoxton Square, London N1 6NU, United Kingdom, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*

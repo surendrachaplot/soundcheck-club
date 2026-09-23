@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Untitled x 2ndface x Noctrnl presents: DJ Plant Texture (IT)" on Fri, 25 Sept 2026.
+The Mash House is a music venue in Edinburgh with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Untitled x 2ndface x Noctrnl presents: DJ Plant Texture (IT)" on Fri, 25 Sept 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gigs, with line-ups including Ben Kok (2), Chris Astrojazz, CLEAR UK and DJP (1) and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -19,4 +19,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 6 upcoming gi
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

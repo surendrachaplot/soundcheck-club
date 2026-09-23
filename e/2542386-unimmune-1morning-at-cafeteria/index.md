@@ -1,6 +1,6 @@
 # unimmune: 1morning at Cafeteria
 
-unimmune: 1morning at Cafeteria on Sat 10 Oct, Toronto. 3 acts on the bill: 1morning, Amedeo (CA) and Invisible City. Techno. Preview the line-up and save it on soundcheck.
+unimmune: 1morning at Cafeteria on Sat 10 Oct, Toronto. 4 acts on the bill: 1morning, Amedeo (CA), Blackman and Invisible City. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ unimmune: 1morning at Cafeteria on Sat 10 Oct, Toronto. 3 acts on the bill: 1mor
 
 - 1morning
 - Amedeo (CA)
+- Blackman
 - Invisible City
 
 *Source: [soundcheck](https://soundcheck.club/e/2542386-unimmune-1morning-at-cafeteria/)*

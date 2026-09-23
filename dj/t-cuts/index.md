@@ -1,6 +1,6 @@
 # T-Cuts
 
-T-Cuts is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
+T-Cuts is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 T-Cuts is a jungle and drum & bass artist tracked on soundcheck, with 27 sets logged across Berlin, Brighton, Bristol and Frankfurt and 2 more. Often billed alongside Swankout, Billy Daniel Bunter and Arkyn. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ T-Cuts is a jungle and drum & bass artist tracked on soundcheck, with 27 sets lo
 
 Swankout, Billy Daniel Bunter, Arkyn
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-cuts/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-cuts/)*

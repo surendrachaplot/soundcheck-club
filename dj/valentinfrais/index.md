@@ -1,6 +1,6 @@
 # VALENTIN FRAIS
 
-VALENTIN FRAIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
+VALENTIN FRAIS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
 
 VALENTIN FRAIS is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig. Often billed alongside adamoandiamo, gin (DE) and Hypnosta. Next up: elipamanoke, Leipzig on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ VALENTIN FRAIS is a techno and house artist based in Germany, tracked on soundch
 
 adamoandiamo, gin (DE), Hypnosta
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinfrais/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinfrais/)*

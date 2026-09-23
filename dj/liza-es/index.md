@@ -1,6 +1,6 @@
 # LIZA.
 
-LIZA. is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
+LIZA. is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Wed, 23 Sept 2026.
 
 LIZA. is a techno and deep house artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenosaires and Frankfurt and 1 more. Often billed alongside Rivellino, Brizas and Michael Ritter. Next up: INPUT High Fidelity Dance Club, Barcelona on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ LIZA. is a techno and deep house artist based in Spain, tracked on soundcheck, w
 
 Rivellino, Brizas, Michael Ritter
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-es/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-es/)*

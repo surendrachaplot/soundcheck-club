@@ -1,6 +1,6 @@
 # aykanakdag
 
-aykanakdag is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+aykanakdag is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 aykanakdag is an electro and breakbeat artist tracked on soundcheck, with 10 sets logged across Berlin, Leipzig, Nurnberg and Prague and 1 more. Often billed alongside DJ Regret, 3diz and A/PM. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ aykanakdag is an electro and breakbeat artist tracked on soundcheck, with 10 set
 
 DJ Regret, 3diz, A/PM
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aykanakdag/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aykanakdag/)*

@@ -1,6 +1,6 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Cinthie is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
 Cinthie is a house and techno artist tracked on soundcheck, with 289 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Dan Shake and Gabrielle Kwarteng. Next up: The Cause, London on Sat 26 Sept.
 
@@ -36,4 +36,4 @@ Cinthie is a house and techno artist tracked on soundcheck, with 289 sets logged
 
 Meat, Dan Shake, Gabrielle Kwarteng
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

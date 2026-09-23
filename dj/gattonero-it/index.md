@@ -1,6 +1,6 @@
 # Gattonero
 
-Gattonero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 24 Sept 2026.
+Gattonero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 24 Sept 2026.
 
 Gattonero is a techno and house artist tracked on soundcheck, with 49 sets logged across Milan and Rome. Often billed alongside Cosimo Damiano, Bluemarina and DJ Red. Next up: THE MAGICK BAR, Rome on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Gattonero is a techno and house artist tracked on soundcheck, with 49 sets logge
 
 Cosimo Damiano, Bluemarina, DJ Red
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero-it/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gattonero-it/)*

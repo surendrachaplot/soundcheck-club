@@ -1,6 +1,6 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Tausend Electronica: Nimue" on Thu, 24 Sept 2026.
+Tausend is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tausend Electronica: Nimue" on Thu, 24 Sept 2026.
 
 Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Florian Kruse, LIZZN, Nimue and Reanna Peris. Browse upcoming dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

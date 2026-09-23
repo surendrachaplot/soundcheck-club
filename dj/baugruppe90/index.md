@@ -1,6 +1,6 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at OST, Berlin on Sat, 31 Oct 2026.
+BAUGRUPPE90 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Sat, 31 Oct 2026.
 
 BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 46 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: OST, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 159 sets lo
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

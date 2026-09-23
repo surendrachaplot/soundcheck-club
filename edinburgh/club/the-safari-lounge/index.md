@@ -1,6 +1,6 @@
 # The Safari Lounge
 
-The Safari Lounge is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Stepback with Bash Man b2b Jack Brown" on Fri, 25 Sept 2026.
+The Safari Lounge is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Stepback with Bash Man b2b Jack Brown" on Fri, 25 Sept 2026.
 
 The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Bash Man, Keyte, ona:v and Thornback and 2 more. Browse upcoming dates, start times and who's playing. 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 3 upcoming
 
 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom, Edinburgh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-safari-lounge/)*

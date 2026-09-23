@@ -1,6 +1,6 @@
 # ESH
 
-ESH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at O der Klub, Vienna on Fri, 25 Sept 2026.
+ESH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at O der Klub, Vienna on Fri, 25 Sept 2026.
 
 ESH is a house and techno artist based in Austria, tracked on soundcheck, with 22 sets logged across Vienna. Often billed alongside Albin Brezlan, Mark Michael and Manuel Petrik. Next up: O der Klub, Vienna on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ESH is a house and techno artist based in Austria, tracked on soundcheck, with 2
 
 Albin Brezlan, Mark Michael, Manuel Petrik
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esh-1/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esh-1/)*

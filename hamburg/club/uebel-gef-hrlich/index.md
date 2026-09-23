@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Liquicity Hamburg 2026" on Fri, 25 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Liquicity Hamburg 2026" on Fri, 25 Sept 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming gigs, with line-ups including AEREA, Aiden (DE), Andre Winter and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

@@ -1,6 +1,6 @@
 # Safiye
 
-Safiye is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
+Safiye is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 17 Oct 2026.
 
 Safiye is a house and disco artist tracked on soundcheck, with 46 sets logged across Bristol, Bucharest, Cardiff and London and 1 more. Often billed alongside SPICYIVY, Burly Chassis and Brad Bradley. Next up: The Prospect Building, Bristol on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Safiye is a house and disco artist tracked on soundcheck, with 46 sets logged ac
 
 SPICYIVY, Burly Chassis, Brad Bradley
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*

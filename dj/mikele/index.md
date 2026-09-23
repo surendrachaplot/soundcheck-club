@@ -1,6 +1,6 @@
 # Mikele
 
-Mikele is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at 2ten, Athens on Sat, 10 Oct 2026.
+Mikele is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 2ten, Athens on Sat, 10 Oct 2026.
 
 Mikele is a progressive house and tech house artist tracked on soundcheck, with 44 sets logged across Athens and Tbilisi. Often billed alongside George Apergis, Tolis Q and Marthe. Next up: 2ten, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mikele is a progressive house and tech house artist tracked on soundcheck, with 
 
 George Apergis, Tolis Q, Marthe
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikele/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikele/)*

@@ -4,6 +4,16 @@
   <meta charset="utf-8" />
   <title>Symposium Records at Jupiter Disco · 29 Oct 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,11 +45,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.990853bcb2f9.css">
+  <link rel="stylesheet" href="/app.3562779acd62.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
+<meta name="sc-build" content="1790131609963">
 <meta name="description" content="Symposium Records at Jupiter Disco on Thu 29 Oct, Newyorkcity. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2542553-symposium-records-at-jupiter-disco/">
 <meta property="og:type" content="website">
@@ -228,7 +238,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.990853bcb2f9.js" defer></script>
+  <script src="/app.3562779acd62.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

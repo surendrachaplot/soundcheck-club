@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Sta" on Thu, 24 Sept 2026.
+Twist Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sta" on Thu, 24 Sept 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Atlaskin, Takē and VNNUK. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with
 | Fri, 25 Sept 2026 | VNNUK, Atlaskin | Atlaskin, VNNUK |
 | Sat, 26 Sept 2026 | x.m., Takē | Takē |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

@@ -1,6 +1,6 @@
 # Super5
 
-Super5 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "HAPPINESS THERAPY RESIDENCY - Crowd Control" on Wed, 23 Sept 2026.
+Super5 is a music venue in Lyon with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "HAPPINESS THERAPY RESIDENCY - Crowd Control" on Wed, 23 Sept 2026.
 
 Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line-ups including Crowd Control, Exkursion, Floorfillers (1) and Innuendo and 1 more. Browse upcoming dates, start times and who's playing. 2 Rue de Savy - Lyon.
 
@@ -17,4 +17,4 @@ Super5 is a music venue in Lyon listed on soundcheck. 4 upcoming gigs, with line
 
 2 Rue de Savy - Lyon, Lyon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super5/)*

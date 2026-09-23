@@ -1,6 +1,6 @@
 # Club Six
 
-Club Six is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "program audio: Black Rave Culture (Official Portola Week Party)" on Thu, 24 Sept 2026.
+Club Six is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "program audio: Black Rave Culture (Official Portola Week Party)" on Thu, 24 Sept 2026.
 
 Club Six is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs, with line-ups including Alec Fursman, bastiengoat, Black Rave Culture and Buck Wilson and 2 more. Browse upcoming dates, start times and who's playing. 60 6th St, San Francisco, CA 94103, United States.
 
@@ -16,4 +16,4 @@ Club Six is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs,
 
 60 6th St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*

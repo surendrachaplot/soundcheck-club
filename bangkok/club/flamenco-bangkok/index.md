@@ -1,6 +1,6 @@
 # Flamenco Bangkok
 
-Flamenco Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "MŌCANA SOUND II" on Sat, 26 Sept 2026.
+Flamenco Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "MŌCANA SOUND II" on Sat, 26 Sept 2026.
 
 Flamenco Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 9th Floor, Building A, Em Quartier, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand.
 
@@ -14,4 +14,4 @@ Flamenco Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gi
 
 9th Floor, Building A, Em Quartier, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand, Bangkok
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/flamenco-bangkok/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/flamenco-bangkok/)*

@@ -1,6 +1,6 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Heidi Lawden is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Heidi Lawden is a house and disco artist tracked on soundcheck, with 171 sets logged across Athens, Bali, Barcelona and Belfast and 20 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA, Losangeles on Sun 27 Sept.
 
@@ -31,4 +31,4 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 171 sets lo
 
 Masha Mar, Lovefingers, Masha
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidilawden/)*

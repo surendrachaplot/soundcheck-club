@@ -1,6 +1,6 @@
 # Saligo
 
-Saligo is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Saligo is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
 Saligo is a breakbeat and bass artist based in France, tracked on soundcheck, with 8 sets logged across Paris, Sandiego and Toronto. Often billed alongside Cannonbar, 999ADJ and AA/XX. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Saligo is a breakbeat and bass artist based in France, tracked on soundcheck, wi
 
 Cannonbar, 999ADJ, AA/XX
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saligo/)*

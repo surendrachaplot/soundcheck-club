@@ -1,6 +1,6 @@
 # Jamie Payne
 
-Jamie Payne is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at XOYO, London on Wed, 30 Sept 2026.
+Jamie Payne is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at XOYO, London on Wed, 30 Sept 2026.
 
 Jamie Payne is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Ibiza and London. Often billed alongside Ben Sterling, Chanel Carmichael and Darius Syrossian. Next up: XOYO, London on Wed 30 Sept.
 
@@ -20,4 +20,4 @@ Jamie Payne is a tech house and deep house artist based in United Kingdom, track
 
 Ben Sterling, Chanel Carmichael, Darius Syrossian
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepayne/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiepayne/)*

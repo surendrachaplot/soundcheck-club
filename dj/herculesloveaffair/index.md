@@ -1,6 +1,6 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at BASEMENT, New York City on Sat, 24 Oct 2026.
+Hercules & Love Affair is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Sat, 24 Oct 2026.
 
 Hercules & Love Affair are a house and disco duo tracked on soundcheck, with 59 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: BASEMENT, Newyorkcity on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Hercules & Love Affair are a house and disco duo tracked on soundcheck, with 59 
 
 COBRAH, HAAi, TAAHLIAH
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

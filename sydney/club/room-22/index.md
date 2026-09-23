@@ -1,6 +1,6 @@
 # Room 22
 
-Room 22 is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Domino's New Yorker Block Party" on Thu, 24 Sept 2026.
+Room 22 is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Domino's New Yorker Block Party" on Thu, 24 Sept 2026.
 
 Room 22 is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Aaiste, Gaston Gari, Kamilo Sanclemente and NOIYSE PROJECT. Browse upcoming dates, start times and who's playing. 22 Bayswater Rd, Potts Point, NSW 2011.
 
@@ -16,4 +16,4 @@ Room 22 is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with l
 
 22 Bayswater Rd, Potts Point, NSW 2011, Sydney
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*

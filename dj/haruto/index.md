@@ -1,6 +1,6 @@
 # HARUTO
 
-HARUTO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 25 Sept 2026.
+HARUTO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 25 Sept 2026.
 
 HARUTO is a house and techno artist based in Japan, tracked on soundcheck, with 106 sets logged across Osaka and Tokyo. Often billed alongside YASUHARU MOTOMIYA, CALPISS and KUBOTA. Next up: Enter Shibuya, Tokyo on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ HARUTO is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 YASUHARU MOTOMIYA, CALPISS, KUBOTA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruto/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruto/)*

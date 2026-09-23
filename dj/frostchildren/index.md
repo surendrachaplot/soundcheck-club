@@ -1,6 +1,6 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Radius, Chicago on Thu, 12 Nov 2026.
+Frost Children is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Radius, Chicago on Thu, 12 Nov 2026.
 
 Frost Children is a pop and electronica artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: Radius, Chicago on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Frost Children is a pop and electronica artist tracked on soundcheck, with 55 se
 
 10cust, Ali RQ, DJ Trick
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

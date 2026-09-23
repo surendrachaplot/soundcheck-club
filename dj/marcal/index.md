@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stereo, Montreal on Fri, 25 Sept 2026.
+Marcal is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Stereo, Montreal on Fri, 25 Sept 2026.
 
 Marcal is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Ignez, Efdemin and Zisko. Next up: Stereo, Montreal on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 98 sets logged a
 
 Ignez, Efdemin, Zisko
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

@@ -1,6 +1,6 @@
 # uj (JP)
 
-uj (JP) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Forestlimit, Tokyo on Tue, 22 Sept 2026.
+uj (JP) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Forestlimit, Tokyo on Tue, 22 Sept 2026.
 
 uj (JP) is a techno and minimal techno artist tracked on soundcheck, with 8 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside Akito, LUTA and Hisashi Aochi. Next up: Forestlimit, Tokyo on Tue 22 Sept.
 
@@ -12,6 +12,7 @@ uj (JP) is a techno and minimal techno artist tracked on soundcheck, with 8 sets
 
 ## Recently played
 
+- Forestlimit, Tokyo — Tue, 22 Sept 2026
 - Enter Shibuya, Tokyo — Thu, 30 Apr 2026
 - Enter Shibuya, Tokyo — Thu, 30 Oct 2025
 - Enter Shibuya, Tokyo — Thu, 12 Jun 2025
@@ -24,4 +25,4 @@ uj (JP) is a techno and minimal techno artist tracked on soundcheck, with 8 sets
 
 Akito, LUTA, Hisashi Aochi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uj-jp/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uj-jp/)*

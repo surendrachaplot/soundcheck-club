@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 41 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "[PHANTOM GROUP] KLUBNACHT w Jøel" on Tue, 22 Sept 2026.
+John Doe is a music venue in Amsterdam with 42 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "[PHANTOM GROUP] KLUBNACHT w Jøel" on Tue, 22 Sept 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 41 upcoming gigs, with line-ups including A.L.A.E, ADRIANNA, ADRIELY and Alex Medina and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 42 upcoming gigs, with line-ups including A.L.A.E, ADRIANNA, ADRIELY and Alex Medina and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 41 upcoming gigs, w
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

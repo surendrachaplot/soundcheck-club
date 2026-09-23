@@ -1,6 +1,6 @@
 # Bermondsey Social Club
 
-Bermondsey Social Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House" on Fri, 25 Sept 2026.
+Bermondsey Social Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Continental Jam Selection: A Night of Global Jazz, Funk, Disco & House" on Fri, 25 Sept 2026.
 
 Bermondsey Social Club is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Edible, Honeydrip and Jamie Adam. Browse upcoming dates, start times and who's playing. Arch 19 Almond Road, Bermondsey, London, SE16 3LR.
 
@@ -16,4 +16,4 @@ Bermondsey Social Club is a music venue in London listed on soundcheck. 3 upcomi
 
 Arch 19 Almond Road, Bermondsey, London, SE16 3LR, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bermondsey-social-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bermondsey-social-club/)*

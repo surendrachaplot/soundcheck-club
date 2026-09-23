@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Suma Han, Istanbul on Sat, 26 Sept 2026.
+Rafael Cerato is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Suma Han, Istanbul on Sat, 26 Sept 2026.
 
 Rafael Cerato is a house and techno artist tracked on soundcheck, with 64 sets logged across Austin, Barcelona, Basel and Belgrade and 32 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Suma Han, Istanbul on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Rafael Cerato is a house and techno artist tracked on soundcheck, with 64 sets l
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

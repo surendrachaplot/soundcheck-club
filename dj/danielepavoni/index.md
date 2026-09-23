@@ -1,6 +1,6 @@
 # Daniele Pavoni
 
-Daniele Pavoni is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hotel Butterfly, Rome on Thu, 24 Sept 2026.
+Daniele Pavoni is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hotel Butterfly, Rome on Thu, 24 Sept 2026.
 
 Daniele Pavoni is a club and techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Milan and Rome. Often billed alongside GNMR, IRIDE and Francesco Maria. Next up: Hotel Butterfly, Rome on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Daniele Pavoni is a club and techno artist based in Italy, tracked on soundcheck
 
 GNMR, IRIDE, Francesco Maria
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*

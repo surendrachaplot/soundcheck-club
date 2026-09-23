@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 25 Sept 2026.
+Ranger Trucco is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Great Northern, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Ranger Trucco is a house and tech house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 22 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: The Great Northern, Sanfrancisco on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 95 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

@@ -1,6 +1,6 @@
 # V3NÜ5
 
-V3NÜ5 is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
+V3NÜ5 is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Sat, 3 Oct 2026.
 
 V3NÜ5 is a techno and industrial artist based in Colombia, tracked on soundcheck, with 8 sets logged across Berlin, Helsinki and Madrid. Often billed alongside Dj handbag, JESUZ X and Cristian Marras. Next up: Renate, Berlin on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ V3NÜ5 is a techno and industrial artist based in Colombia, tracked on soundchec
 
 Dj handbag, JESUZ X, Cristian Marras
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/v3nu5/)*

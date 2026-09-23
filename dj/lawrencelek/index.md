@@ -1,6 +1,6 @@
 # Lawrence Lek
 
-Lawrence Lek is a Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Wapping Hydraulic Power Station, London on Fri, 16 Oct 2026.
+Lawrence Lek is a Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Wapping Hydraulic Power Station, London on Fri, 16 Oct 2026.
 
 Lawrence Lek is an experimental artist tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Kode9, Cooly G and DJ Haram. Next up: Wapping Hydraulic Power Station, London on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Lawrence Lek is an experimental artist tracked on soundcheck, with 4 sets logged
 
 Kode9, Cooly G, DJ Haram
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelek/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelek/)*

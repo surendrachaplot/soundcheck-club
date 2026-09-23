@@ -1,6 +1,6 @@
 # Mick Harris
 
-Mick Harris is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
+Mick Harris is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
 
 Mick Harris is an experimental and techno artist tracked on soundcheck, with 3 sets logged across Amsterdam, Birmingham and Manchester. Often billed alongside Antonym, Ben Vince and Brent Jacko. Next up: International Anthony Burgess Foundation, Manchester on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Mick Harris is an experimental and techno artist tracked on soundcheck, with 3 s
 
 Antonym, Ben Vince, Brent Jacko
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickharris/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickharris/)*

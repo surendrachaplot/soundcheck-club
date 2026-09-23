@@ -1,6 +1,6 @@
 # Marc Noble
 
-Marc Noble is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at XOYO, London on Wed, 23 Sept 2026.
+Marc Noble is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at XOYO, London on Wed, 23 Sept 2026.
 
 Marc Noble is a house and disco artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Adam Romo, Bazil and Elisa Nau.. Next up: XOYO, London on Wed 23 Sept.
 
@@ -21,4 +21,4 @@ Marc Noble is a house and disco artist tracked on soundcheck, with 5 sets logged
 
 Adam Romo, Bazil, Elisa Nau.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcnoble/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcnoble/)*

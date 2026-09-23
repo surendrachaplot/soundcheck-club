@@ -1,6 +1,6 @@
 # Raffa Guido
 
-Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Theata, London on Sat, 3 Oct 2026.
+Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Theata, London on Sat, 3 Oct 2026.
 
 Raffa Guido is a house and afro house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 14 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Theata, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Raffa Guido is a house and afro house artist tracked on soundcheck, with 31 sets
 
 Bernis, Qazi, SKAI (LT)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*

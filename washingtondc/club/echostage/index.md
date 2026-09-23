@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 15 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Factory 93: I Hate Models with BENNETT, JADE CAO" on Sat, 26 Sept 2026.
+Echostage is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Factory 93: I Hate Models with BENNETT, JADE CAO" on Sat, 26 Sept 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming gigs, with line-ups including 10cust, Afrojack, Aldor and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 16 upcoming gigs, with line-ups including 10cust, Afrojack, Aldor and BENNETT and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 15 upcoming gig
 | Sat, 17 Oct 2026 | San Holo with Taiki Nulight, Atura | San Holo |
 | Fri, 23 Oct 2026 | Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK | Chris Lorenzo, Mai iachetti |
 | Sat, 24 Oct 2026 | Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
+| Thu, 29 Oct 2026 | Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool | Darling Cool, Kaytranada |
 | Fri, 30 Oct 2026 | Factory 93: Eli Brown with Massano (360° SetS) | Eli Brown, Massano |
-| Fri, 6 Nov 2026 | Nico Moreno | Nico Moreno |
 
 ## Address
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

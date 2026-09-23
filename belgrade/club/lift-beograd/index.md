@@ -1,6 +1,6 @@
 # Lift Beograd
 
-Lift Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Angel Proto & Gentofunk at LIFT" on Fri, 25 Sept 2026.
+Lift Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Angel Proto & Gentofunk at LIFT" on Fri, 25 Sept 2026.
 
 Lift Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Feloneezy. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -15,4 +15,4 @@ Lift Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs,
 
 Cetinjska 15, Belgrade
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*

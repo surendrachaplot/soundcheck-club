@@ -1,6 +1,6 @@
 # LAZLO
 
-LAZLO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
+LAZLO is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
 
 LAZLO is a techno and trance artist tracked on soundcheck, with 85 sets logged across Berlin, Dundee, Edinburgh and Galway and 3 more. Often billed alongside Quail, DDSIX and Schism. Next up: The Berkeley Suite, Glasgow on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ LAZLO is a techno and trance artist tracked on soundcheck, with 85 sets logged a
 
 Quail, DDSIX, Schism
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazlo/)*

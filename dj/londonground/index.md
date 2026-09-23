@@ -1,6 +1,6 @@
 # LondonGround
 
-LondonGround is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
+LondonGround is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
 
 LondonGround is a house and tech house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and BizZa. Next up: BORIS CLUB, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ LondonGround is a house and tech house artist tracked on soundcheck, with 39 set
 
 De La Swing, Easttown, BizZa
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*

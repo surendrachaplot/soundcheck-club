@@ -1,6 +1,6 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
+DJ Subaru is a Italo Disco and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
 
 DJ Subaru is an italo disco and disco artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 13 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: The Carpet Shop, London on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ DJ Subaru is an italo disco and disco artist tracked on soundcheck, with 74 sets
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

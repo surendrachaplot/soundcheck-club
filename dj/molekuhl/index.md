@@ -1,6 +1,6 @@
 # molekühl
 
-molekühl is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Kauz, Zurich on Sun, 25 Oct 2026.
+molekühl is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kauz, Zurich on Sun, 25 Oct 2026.
 
 molekühl is an experimental and house artist tracked on soundcheck, with 17 sets logged across Basel, Berlin, Strasbourg and Zurich. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: Kauz, Zurich on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ molekühl is an experimental and house artist tracked on soundcheck, with 17 set
 
 fabulus, Atrice, Black Mirror Park
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*

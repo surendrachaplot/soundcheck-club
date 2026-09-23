@@ -1,6 +1,6 @@
 # SAMMIE
 
-SAMMIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
+SAMMIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
 
 SAMMIE is a house and techno artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Estée Louder, Koletsas and Mike Callander. Next up: Chinese Laundry, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SAMMIE is a house and techno artist based in New Zealand, tracked on soundcheck,
 
 Estée Louder, Koletsas, Mike Callander
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammie/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammie/)*

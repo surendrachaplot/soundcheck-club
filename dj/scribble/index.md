@@ -1,6 +1,6 @@
 # Scribble
 
-Scribble is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
+Scribble is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hart Bar, New York City on Fri, 25 Sept 2026.
 
 Scribble is a house and garage artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity and Tokyo. Often billed alongside ceviché, LoKho and Choo Choo. Next up: Hart Bar, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Scribble is a house and garage artist based in United States of America, tracked
 
 ceviché, LoKho, Choo Choo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*

@@ -1,6 +1,6 @@
 # Lady Goccia
 
-Lady Goccia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
+Lady Goccia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
 
 Lady Goccia is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Berlin, Milan and Rome. Often billed alongside IKIIR, ARMANDO and AMBRA. Next up: Department 184, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lady Goccia is a techno and house artist based in Italy, tracked on soundcheck, 
 
 IKIIR, ARMANDO, AMBRA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladygoccia/)*

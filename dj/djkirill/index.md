@@ -1,6 +1,6 @@
 # DJ KIRILL
 
-DJ KIRILL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
+DJ KIRILL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 DJ KIRILL is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Sanfrancisco. Often billed alongside DevilDoll, Nyctea and Alkemiss Erika. Next up: F8 1192 Folsom, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ DJ KIRILL is a house and tech house artist based in United States of America, tr
 
 DevilDoll, Nyctea, Alkemiss Erika
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirill/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirill/)*

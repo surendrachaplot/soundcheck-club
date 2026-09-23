@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Fadi Mohem is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Fadi Mohem is a techno and house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Ben Klock, Ogazón and Rødhåd. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 230 sets log
 
 Ben Klock, Ogazón, Rødhåd
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

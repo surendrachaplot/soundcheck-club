@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Midnight Riot! with Hayley Zalassi" on Wed, 23 Sept 2026.
+The Art School is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Midnight Riot! with Hayley Zalassi" on Wed, 23 Sept 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRĀ, Bash Man, Bonzai Bonner and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 14 upcoming gig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

@@ -1,6 +1,6 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Cecilio is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Cecilio is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Cecilio is a house and techno artist tracked on soundcheck, with 109 sets logged
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

@@ -1,6 +1,6 @@
 # Doruksen
 
-Doruksen is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at 74 Hall, Istanbul on Sat, 10 Oct 2026.
+Doruksen is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 74 Hall, Istanbul on Sat, 10 Oct 2026.
 
 Doruksen is a techno and hardcore artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside Raxeller, Cloudy and Jan Vercauteren. Next up: 74 Hall, Istanbul on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Doruksen is a techno and hardcore artist tracked on soundcheck, with 108 sets lo
 
 Raxeller, Cloudy, Jan Vercauteren
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*

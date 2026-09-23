@@ -1,6 +1,6 @@
 # Astra Kulturhaus
 
-Astra Kulturhaus is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "FKJ - Tyber Tour" on Wed, 21 Oct 2026.
+Astra Kulturhaus is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FKJ - Tyber Tour" on Wed, 21 Oct 2026.
 
 Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alfred Heinrichs, Alle Farben, FKJ and Lahos. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Astra Kulturhaus is a music venue in Berlin listed on soundcheck. 3 upcoming gig
 
 Revaler Strasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/astra-kulturhaus/)*

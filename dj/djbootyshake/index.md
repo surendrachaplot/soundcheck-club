@@ -1,14 +1,15 @@
 # DJ BootyShake
 
-DJ BootyShake is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+DJ BootyShake is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
-DJ BootyShake is a drum & bass and jungle artist tracked on soundcheck, with 15 sets logged across Bristol, Leeds, London and Newcastle. Often billed alongside NEENZY (UK), PB (UK) and Amelia Leigh. Next up: The Clayshed, Newcastle on Sat 26 Sept.
+DJ BootyShake is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Bristol, Leeds, London and Newcastle. Often billed alongside PB (UK), NEENZY (UK) and Amelia Leigh. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Clayshed | Newcastle |
+| Sat, 10 Oct 2026 | Downcast Studios | Newcastle |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ BootyShake is a drum & bass and jungle artist tracked on soundcheck, with 15 
 
 ## Shares bills with
 
-NEENZY (UK), PB (UK), Amelia Leigh
+PB (UK), NEENZY (UK), Amelia Leigh
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbootyshake/)*

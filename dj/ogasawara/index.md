@@ -1,6 +1,6 @@
 # Ogasawara
 
-Ogasawara is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
+Ogasawara is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
 
 Ogasawara is a garage and bass artist based in Japan, tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside MOOTOE, VECSILLE and Genick. Next up: TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ogasawara is a garage and bass artist based in Japan, tracked on soundcheck, wit
 
 MOOTOE, VECSILLE, Genick
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*

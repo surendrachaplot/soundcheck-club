@@ -1,6 +1,6 @@
 # Ian Maur
 
-Ian Maur is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 24 Sept 2026.
+Ian Maur is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Gare / Le Gore, Paris on Thu, 24 Sept 2026.
 
 Ian Maur is a techno and ambient artist tracked on soundcheck, with 54 sets logged across Berlin and Paris. Often billed alongside Sklaer, Ben Hamama and Lefblom. Next up: La Gare / Le Gore, Paris on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Ian Maur is a techno and ambient artist tracked on soundcheck, with 54 sets logg
 
 Sklaer, Ben Hamama, Lefblom
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmaur/)*

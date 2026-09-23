@@ -1,6 +1,6 @@
 # DSGNRPSSY
 
-DSGNRPSSY is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
+DSGNRPSSY is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
 
 DSGNRPSSY is an electro and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Glasgow and Hamburg. Often billed alongside La Carpio, Khloe and Liad Krispin. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DSGNRPSSY is an electro and techno artist based in Germany, tracked on soundchec
 
 La Carpio, Khloe, Liad Krispin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*

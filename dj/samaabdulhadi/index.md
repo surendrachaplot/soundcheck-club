@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Sama' Abdulhadi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 142 set
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

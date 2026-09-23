@@ -1,6 +1,6 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "HELLO WEEKEND: APEIDON" on Thu, 24 Sept 2026.
+The Club (Málaga) is a music venue in Malaga with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "HELLO WEEKEND: APEIDON" on Thu, 24 Sept 2026.
 
 The Club (Málaga) is a music venue in Malaga listed on soundcheck. 2 upcoming gigs, with line-ups including Daniel Kelsan. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
@@ -15,4 +15,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 2 upcoming g
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

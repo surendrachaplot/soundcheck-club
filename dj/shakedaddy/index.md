@@ -1,6 +1,6 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
+Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
 
 Shake Daddy is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brisbane and Edinburgh and 8 more. Often billed alongside GEN97, SATYS FYRE and DJ YARAK. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Shake Daddy is a techno and trance artist tracked on soundcheck, with 55 sets lo
 
 GEN97, SATYS FYRE, DJ YARAK
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

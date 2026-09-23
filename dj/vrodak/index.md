@@ -1,6 +1,6 @@
 # VRODAK
 
-VRODAK is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+VRODAK is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
 VRODAK is a techno and industrial artist tracked on soundcheck, with 19 sets logged across Amsterdam, Budapest, London and Prague and 4 more. Often billed alongside 5ogol, Sørenga and 2FEL. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ VRODAK is a techno and industrial artist tracked on soundcheck, with 19 sets log
 
 5ogol, Sørenga, 2FEL
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vrodak/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vrodak/)*

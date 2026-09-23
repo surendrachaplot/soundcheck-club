@@ -1,6 +1,6 @@
 # Night Format
 
-Night Format is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - Secret Location, Vancouver on Fri, 25 Sept 2026.
+Night Format is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Vancouver on Fri, 25 Sept 2026.
 
 Night Format is a techno and hardcore artist tracked on soundcheck, with 4 sets logged across Vancouver. Often billed alongside BRNT, C-Star and DK PAU. Next up: TBA - Secret Location, Vancouver on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Night Format is a techno and hardcore artist tracked on soundcheck, with 4 sets 
 
 BRNT, C-Star, DK PAU
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightformat/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightformat/)*

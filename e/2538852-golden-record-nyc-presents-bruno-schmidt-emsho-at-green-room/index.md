@@ -1,6 +1,6 @@
 # Golden Record NYC presents Bruno Schmidt, Emsho at Green Room NYC
 
-Golden Record NYC presents Bruno Schmidt, Emsho at Green Room NYC on Thu 24 Sept, Newyorkcity. 2 acts on the bill: Bruno Schmidt and Emsho. Techno and House. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents Bruno Schmidt, Emsho at Green Room NYC on Thu 24 Sept, Newyorkcity. 5 acts on the bill: Amy Jor, Bruno Schmidt, Emsho and Jack D and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Golden Record NYC presents Bruno Schmidt, Emsho at Green Room NYC on Thu 24 Sept
 
 ## Line-up
 
+- Amy Jor
 - Bruno Schmidt
 - Emsho
+- Jack D
+- Lubelski
 
 *Source: [soundcheck](https://soundcheck.club/e/2538852-golden-record-nyc-presents-bruno-schmidt-emsho-at-green-room/)*

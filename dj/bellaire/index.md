@@ -1,6 +1,6 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at La Cigale, Paris on Thu, 8 Oct 2026.
+Bellaire is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Cigale, Paris on Thu, 8 Oct 2026.
 
 Bellaire is a house and disco artist based in France, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 19 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: La Cigale, Paris on Thu 8 Oct.
 
@@ -30,4 +30,4 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 
 Contrecoeur, Armand Van Helden, Breakbot
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*

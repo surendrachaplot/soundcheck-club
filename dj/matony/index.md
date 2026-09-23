@@ -1,6 +1,6 @@
 # Matony
 
-Matony is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
+Matony is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 30 Sept 2026.
 
 Matony is a tech house and progressive house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside SAGMO, Emanate and Kohbain. Next up: F8 1192 Folsom, Sanfrancisco on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Matony is a tech house and progressive house artist based in United States of Am
 
 SAGMO, Emanate, Kohbain
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matony/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matony/)*

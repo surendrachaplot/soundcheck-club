@@ -1,6 +1,6 @@
 # The Lighthouse
 
-The Lighthouse is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Bashment & Afrobeats - Shoreditch Party" on Sat, 26 Sept 2026.
+The Lighthouse is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Bashment & Afrobeats - Shoreditch Party" on Sat, 26 Sept 2026.
 
 The Lighthouse is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Tomahawk Bang. Browse upcoming dates, start times and who's playing. 62-68 Rivington Street, Shoreditch, London EC2A 3AY.
 
@@ -23,4 +23,4 @@ The Lighthouse is a music venue in London listed on soundcheck. 14 upcoming gigs
 
 62-68 Rivington Street, Shoreditch, London EC2A 3AY, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse/)*

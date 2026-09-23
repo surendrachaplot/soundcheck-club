@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "MissVergnügen presents AUGELEKTRIK - live" on Wed, 23 Sept 2026.
+Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MissVergnügen presents AUGELEKTRIK - live" on Wed, 23 Sept 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Blame (EC), Daniel Jaramillo, DAZA and MissVergnügen. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Kapsule, Liverpool on Fri, 25 Sept 2026.
+tINI is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kapsule, Liverpool on Fri, 25 Sept 2026.
 
 tINI is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Athens, Austin and Barcelona and 53 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Kapsule, Liverpool on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ tINI is a house and techno artist tracked on soundcheck, with 241 sets logged ac
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

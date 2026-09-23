@@ -1,6 +1,6 @@
 # OSKAMAXX
 
-OSKAMAXX is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Schrotty, Cologne on Wed, 23 Sept 2026.
+OSKAMAXX is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Schrotty, Cologne on Wed, 23 Sept 2026.
 
 OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, Baumeister98 and Pueblo Gelb. Next up: Schrotty, Cologne on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ OSKAMAXX is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 BabaBass3000, Baumeister98, Pueblo Gelb
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*

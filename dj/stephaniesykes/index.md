@@ -1,6 +1,6 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Stephanie Sykes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
 Stephanie Sykes is a techno and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Stephanie Sykes is a techno and house artist tracked on soundcheck, with 135 set
 
 Remco Beekwilder, Beau Didier, Grace Dahl
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*

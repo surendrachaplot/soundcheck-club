@@ -1,6 +1,6 @@
 # Domenik Deckert
 
-Domenik Deckert is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Artheater, Cologne on Fri, 20 Nov 2026.
+Domenik Deckert is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Artheater, Cologne on Fri, 20 Nov 2026.
 
 Domenik Deckert is a house and trance artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Mike Momburg, DAVINA and Tom Velden. Next up: Artheater, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Domenik Deckert is a house and trance artist based in Germany, tracked on soundc
 
 Mike Momburg, DAVINA, Tom Velden
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domenikdeckert/)*

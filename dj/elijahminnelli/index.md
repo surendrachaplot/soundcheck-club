@@ -1,6 +1,6 @@
 # Elijah Minnelli
 
-Elijah Minnelli is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Club Cheek, London on Sat, 10 Oct 2026.
+Elijah Minnelli is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Cheek, London on Sat, 10 Oct 2026.
 
 Elijah Minnelli is a dub and experimental artist tracked on soundcheck, with 20 sets logged across Amsterdam, Bristol, Brussels and Edinburgh and 4 more. Often billed alongside i-sha, Dennis Bovell and Hermeneia. Next up: Club Cheek, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Elijah Minnelli is a dub and experimental artist tracked on soundcheck, with 20 
 
 i-sha, Dennis Bovell, Hermeneia
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*

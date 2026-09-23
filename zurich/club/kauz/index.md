@@ -1,6 +1,6 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 8 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "bck clubnacht" on Fri, 25 Sept 2026.
+Kauz is a music venue in Zurich with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "bck clubnacht" on Fri, 25 Sept 2026.
 
 Kauz is a music venue in Zurich listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Dallas, Aline (CH), Annyrock and Bonnie OK and 2 more. Browse upcoming dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
@@ -21,4 +21,4 @@ Kauz is a music venue in Zurich listed on soundcheck. 8 upcoming gigs, with line
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

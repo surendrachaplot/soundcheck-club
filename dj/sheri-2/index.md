@@ -1,6 +1,6 @@
 # SHERI (2)
 
-SHERI (2) is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The White Hotel, Manchester on Fri, 23 Oct 2026.
+SHERI (2) is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The White Hotel, Manchester on Fri, 23 Oct 2026.
 
 SHERI (2) is a trance and club artist tracked on soundcheck, with 17 sets logged across Manchester. Often billed alongside Anop, ASHTYLR and Deventi. Next up: The White Hotel, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SHERI (2) is a trance and club artist tracked on soundcheck, with 17 sets logged
 
 Anop, ASHTYLR, Deventi
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*

@@ -1,6 +1,6 @@
-# Queers For Beers + FORGE = DJ FUCKOFF, SYNTAX, DJ EGOSHOOTER ೃ⁀➷ at FORGE
+# Queers For Beers + FORGE = DJ Fuckoff, SYNTAX, dj egoshooter ೃ⁀➷ at FORGE
 
-Queers For Beers + FORGE = DJ FUCKOFF, SYNTAX, DJ EGOSHOOTER ೃ⁀➷ on Fri 6 Nov, Sheffield. Trance and Techno. Preview the line-up and save it on soundcheck.
+Queers For Beers + FORGE = DJ Fuckoff, SYNTAX, dj egoshooter ೃ⁀➷ on Fri 6 Nov, Sheffield. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

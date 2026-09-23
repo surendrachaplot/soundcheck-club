@@ -1,6 +1,6 @@
 # HeAndMe
 
-HeAndMe is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Macarena Club, Barcelona on Thu, 24 Sept 2026.
+HeAndMe is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Thu, 24 Sept 2026.
 
 HeAndMe is a house and deep house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside Ivan Pugliares, Samm (BE) and Reezar. Next up: Macarena Club, Barcelona on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ HeAndMe is a house and deep house artist based in Spain, tracked on soundcheck, 
 
 Ivan Pugliares, Samm (BE), Reezar
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heandme/)*

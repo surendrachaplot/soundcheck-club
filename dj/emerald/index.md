@@ -1,6 +1,6 @@
 # Emerald
 
-Emerald is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+Emerald is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
 Emerald is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Special Request, Aletha and KILIMANJARO. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Emerald is a house and techno artist tracked on soundcheck, with 72 sets logged 
 
 Special Request, Aletha, KILIMANJARO
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emerald/)*

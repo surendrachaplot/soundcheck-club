@@ -1,6 +1,6 @@
 # Lister
 
-Lister is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+Lister is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
 Lister is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Edinburgh, Leeds, Melbourne and Newcastle. Often billed alongside Sedds, Nooney and DJ Bz. Next up: Distrikt, Leeds on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Lister is a house and minimal artist based in United Kingdom, tracked on soundch
 
 Sedds, Nooney, DJ Bz
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lister/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lister/)*

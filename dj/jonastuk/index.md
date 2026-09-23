@@ -1,6 +1,6 @@
 # Jonas Tuk
 
-Jonas Tuk is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
+Jonas Tuk is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klub Werkstatt, Copenhagen on Sat, 31 Oct 2026.
 
 Jonas Tuk is a house and electronica artist tracked on soundcheck, with 18 sets logged across Copenhagen. Often billed alongside Ryan Dank (2), DJ Spice and SCHAARUP. Next up: Klub Werkstatt, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jonas Tuk is a house and electronica artist tracked on soundcheck, with 18 sets 
 
 Ryan Dank (2), DJ Spice, SCHAARUP
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonastuk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonastuk/)*

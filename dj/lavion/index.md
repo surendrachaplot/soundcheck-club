@@ -1,6 +1,6 @@
 # LAVION
 
-LAVION is a Italo Disco and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Le Trabendo, Paris on Fri, 16 Oct 2026.
+LAVION is a Italo Disco and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Trabendo, Paris on Fri, 16 Oct 2026.
 
 LAVION is an italo disco and ebm artist based in France, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Lyon and Paris and 1 more. Often billed alongside Kendal, Andi and Zaatar. Next up: Le Trabendo, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ LAVION is an italo disco and ebm artist based in France, tracked on soundcheck, 
 
 Kendal, Andi, Zaatar
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*

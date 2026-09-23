@@ -1,6 +1,6 @@
 # takumar
 
-takumar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+takumar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
 
 takumar is a house and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Tokyo. Often billed alongside Onométro, Terax and 3rill. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ takumar is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Onométro, Terax, 3rill
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumar/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumar/)*

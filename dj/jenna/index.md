@@ -1,6 +1,6 @@
 # Jenna
 
-Jenna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
+Jenna is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
 
 Jenna is a house and techno artist tracked on soundcheck, with 19 sets logged across Seoul. Often billed alongside DJ Botermelk, E3 and Kim.Qna. Next up: Stoked&stoned, Seoul on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Jenna is a house and techno artist tracked on soundcheck, with 19 sets logged ac
 
 DJ Botermelk, E3, Kim.Qna
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*

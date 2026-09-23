@@ -1,6 +1,6 @@
 # MZR
 
-MZR is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+MZR is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
 MZR is a techno and tech house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Budapest and Frankfurt and 6 more. Often billed alongside KETCH, Maris Shilton and no.name (IT). Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MZR is a techno and tech house artist tracked on soundcheck, with 48 sets logged
 
 KETCH, Maris Shilton, no.name (IT)
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzr-de/)*

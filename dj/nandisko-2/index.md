@@ -1,6 +1,6 @@
 # Nandisko (2)
 
-Nandisko (2) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at M7 Club, Barcelona on Sat, 31 Oct 2026.
+Nandisko (2) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Club, Barcelona on Sat, 31 Oct 2026.
 
 Nandisko (2) is a house and progressive house artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Beto Delgado, Joey Plastic and KARELBLADE. Next up: M7 Club, Barcelona on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Nandisko (2) is a house and progressive house artist tracked on soundcheck, with
 
 Beto Delgado, Joey Plastic, KARELBLADE
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandisko-2/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandisko-2/)*

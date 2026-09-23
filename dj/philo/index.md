@@ -1,6 +1,6 @@
 # Philo
 
-Philo is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at SASS Music Club, Vienna on Thu, 24 Sept 2026.
+Philo is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SASS Music Club, Vienna on Thu, 24 Sept 2026.
 
 Philo is a drum & bass and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Birmingham and Cologne and 3 more. Often billed alongside 24hr Garage Girls, 4am Kru and A Little Sound. Next up: SASS Music Club, Vienna on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Philo is a drum & bass and trance artist based in Germany, tracked on soundcheck
 
 24hr Garage Girls, 4am Kru, A Little Sound
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philo/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philo/)*

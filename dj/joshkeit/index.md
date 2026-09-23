@@ -1,6 +1,6 @@
 # Josh Keit
 
-Josh Keit is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at fabric, London on Sat, 7 Nov 2026.
+Josh Keit is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sat, 7 Nov 2026.
 
 Josh Keit is a house and electro artist tracked on soundcheck, with 50 sets logged across Brighton, Leeds, London and Manchester. Often billed alongside Oldfield, Jardine (UK) and Jenson.. Next up: fabric, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Josh Keit is a house and electro artist tracked on soundcheck, with 50 sets logg
 
 Oldfield, Jardine (UK), Jenson.
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkeit/)*

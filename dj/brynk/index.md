@@ -1,6 +1,6 @@
 # Brynk
 
-Brynk is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 29 Sept 2026.
+Brynk is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Bongo Club, Edinburgh on Tue, 29 Sept 2026.
 
 Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Edinburgh, Glasgow and Warsaw. Often billed alongside Nabee, Faultlines and Janverse. Next up: The Bongo Club, Edinburgh on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Nabee, Faultlines, Janverse
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*

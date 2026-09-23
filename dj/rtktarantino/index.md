@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
+RTK Tarantino is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
 RTK Tarantino is a house and garage artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: M.O.T, London on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ RTK Tarantino is a house and garage artist tracked on soundcheck, with 33 sets l
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

@@ -1,6 +1,6 @@
 # Dvize
 
-Dvize is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Dante's HiFi, Miami on Thu, 24 Sept 2026.
+Dvize is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dante's HiFi, Miami on Thu, 24 Sept 2026.
 
 Dvize is a hip-hop and house artist tracked on soundcheck, with 98 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Lumin, Rich Medina and JT Donaldson. Next up: Dante's HiFi, Miami on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Dvize is a hip-hop and house artist tracked on soundcheck, with 98 sets logged a
 
 Lumin, Rich Medina, JT Donaldson
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvize/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvize/)*

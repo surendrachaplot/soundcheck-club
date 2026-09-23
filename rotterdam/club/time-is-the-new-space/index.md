@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "HIDDEN BEHIND X TITNS VOL. 22" on Wed, 23 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "HIDDEN BEHIND X TITNS VOL. 22" on Wed, 23 Sept 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Helmond Lang, Leon, Lotus (2) and Pims and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -20,4 +20,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

@@ -1,6 +1,6 @@
 # TBA - L2 Sant Martí
 
-TBA - L2 Sant Martí is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999" on Sat, 3 Oct 2026.
+TBA - L2 Sant Martí is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999" on Sat, 3 Oct 2026.
 
 TBA - L2 Sant Martí is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - L2 Sant Martí is a music venue in Barcelona listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999 |  |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-l2-sant-mart/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-l2-sant-mart/)*

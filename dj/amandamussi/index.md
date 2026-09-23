@@ -1,14 +1,15 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Amanda Mussi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Amanda Mussi is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Amanda Mussi is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
+| Sun, 11 Oct 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Amanda Mussi is a techno and house artist tracked on soundcheck, with 111 sets l
 
 Sept, Nick Moody, Rachel Noon
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

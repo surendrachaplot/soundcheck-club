@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Villano Antillano · PETERBLUE · Solsi / Stef Mendesidis Live · Altinbas · Laia" on Fri, 25 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Villano Antillano · PETERBLUE · Solsi / Stef Mendesidis Live · Altinbas · Laia" on Fri, 25 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including acidheaven, Altinbas, Anetha and Answer Code Request and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including acidheaven, Altinbas, Anetha and Answer Code Request and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 | Sat, 10 Oct 2026 | DJ Tennis All Night Long / Batu · Answer Code Request Live · Kenya Arakama | Answer Code Request, Batu, DJ Tennis, Kenya Arakama |
 | Fri, 16 Oct 2026 | Silva Bumpa · Laidlaw / PRADA2000 | Laidlaw, PRADA2000, Silva Bumpa |
 | Fri, 23 Oct 2026 | ONES and ZEROS: Boys Noize · Schacke | Boys Noize, Schacke |
+| Sat, 24 Oct 2026 | Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei | Erol Alkan, Ferdiyei |
 | Sat, 31 Oct 2026 | Oscar Mulero | Oscar Mulero |
-| Fri, 13 Nov 2026 | oskar med k | oskar med k |
 
 ## Address
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

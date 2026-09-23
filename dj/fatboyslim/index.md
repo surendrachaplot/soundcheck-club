@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Malkin Bowl, Vancouver on Fri, 25 Sept 2026.
+Fatboy Slim is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Malkin Bowl, Vancouver on Fri, 25 Sept 2026.
 
 Fatboy Slim is a house and tech house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Malkin Bowl, Vancouver on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 99 sets
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

@@ -1,6 +1,6 @@
 # Athens of the North
 
-Athens of the North is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 16 Oct 2026.
+Athens of the North is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 16 Oct 2026.
 
 Athens of the North is a disco and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Edinburgh and Glasgow and 2 more. Often billed alongside Lel Palfrey, Euan Fryer and James Alexander Bright. Next up: Leith FAB Cricket Club, Edinburgh on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Athens of the North is a disco and house artist based in United Kingdom, tracked
 
 Lel Palfrey, Euan Fryer, James Alexander Bright
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*

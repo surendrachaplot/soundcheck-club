@@ -1,6 +1,6 @@
 # Exodus Rooftop
 
-Exodus Rooftop is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 22 Sept 2026; the next is "Afterlite: Open Air" on Sat, 26 Sept 2026.
+Exodus Rooftop is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Afterlite: Open Air" on Sat, 26 Sept 2026.
 
 Exodus Rooftop is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including ARCS and DYNODA. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Exodus Rooftop is a music venue in Detroit listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Afterlite: Open Air | ARCS, DYNODA |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/exodus-rooftop/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/exodus-rooftop/)*

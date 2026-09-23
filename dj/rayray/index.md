@@ -1,6 +1,6 @@
 # RayRay
 
-RayRay is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ÆDEN, Berlin on Wed, 23 Sept 2026.
+RayRay is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ÆDEN, Berlin on Wed, 23 Sept 2026.
 
 RayRay is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: ÆDEN, Berlin on Wed 23 Sept.
 
@@ -28,4 +28,4 @@ RayRay is a techno and house artist tracked on soundcheck, with 41 sets logged a
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

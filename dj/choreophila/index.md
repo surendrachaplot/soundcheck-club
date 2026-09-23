@@ -1,6 +1,6 @@
 # CHOREOPHILA
 
-CHOREOPHILA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
+CHOREOPHILA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 CHOREOPHILA is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin and Krakow. Often billed alongside Multifun, Schorli and SACID. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ CHOREOPHILA is a techno and trance artist based in Germany, tracked on soundchec
 
 Multifun, Schorli, SACID
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*

@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "(Free) La Mercè electronic - Roger Eastwood, Keyblow" on Wed, 23 Sept 2026.
+Garage 442 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "(Free) La Mercè electronic - Roger Eastwood, Keyblow" on Wed, 23 Sept 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Alen, KARI (Ø), Keyblow and NEONKOLA. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -22,4 +22,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, 
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

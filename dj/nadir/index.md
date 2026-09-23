@@ -1,6 +1,6 @@
 # Nadir
 
-Nadir is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at THE MAGICK BAR, Rome on Wed, 23 Sept 2026.
+Nadir is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at THE MAGICK BAR, Rome on Wed, 23 Sept 2026.
 
 Nadir is a techno and tech house artist based in Italy, tracked on soundcheck, with 13 sets logged across London, Milan and Rome. Often billed alongside Mordak, Kodacci and Petra. Next up: THE MAGICK BAR, Rome on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Nadir is a techno and tech house artist based in Italy, tracked on soundcheck, w
 
 Mordak, Kodacci, Petra
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadir/)*

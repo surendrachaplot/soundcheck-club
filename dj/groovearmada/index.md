@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Groove Armada is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Groove Armada is a house and disco artist tracked on soundcheck, with 84 sets logged across Antwerp, Athens, Auckland and Belfast and 20 more. Often billed alongside The Shapeshifters, Natasha Diggs and Eats Everything. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Groove Armada is a house and disco artist tracked on soundcheck, with 84 sets lo
 
 The Shapeshifters, Natasha Diggs, Eats Everything
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

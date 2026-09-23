@@ -1,6 +1,6 @@
 # Total Refreshment Centre
 
-Total Refreshment Centre is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Ships of the Pharaohs EP Launch" on Fri, 25 Sept 2026.
+Total Refreshment Centre is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Ships of the Pharaohs EP Launch" on Fri, 25 Sept 2026.
 
 Total Refreshment Centre is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Andrea Montalto, DJ Gilla, Goldbar and Joseph Russell and 1 more. Browse upcoming dates, start times and who's playing. Unit 2, Farleigh Place, N16 7SX.
 
@@ -15,4 +15,4 @@ Total Refreshment Centre is a music venue in London listed on soundcheck. 2 upco
 
 Unit 2, Farleigh Place, N16 7SX, London
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/total-refreshment-centre/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/total-refreshment-centre/)*

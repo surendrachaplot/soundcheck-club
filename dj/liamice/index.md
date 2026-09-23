@@ -1,6 +1,6 @@
 # Lia Mice
 
-Lia Mice is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at King Alfred Phoenix Theatre, London on Sat, 12 Dec 2026.
+Lia Mice is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at King Alfred Phoenix Theatre, London on Sat, 12 Dec 2026.
 
 Lia Mice is an experimental and acid artist tracked on soundcheck, with 8 sets logged across Belfast and London. Often billed alongside Odd Lust, Kid Who and A'Bear. Next up: King Alfred Phoenix Theatre, London on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Lia Mice is an experimental and acid artist tracked on soundcheck, with 8 sets l
 
 Odd Lust, Kid Who, A'Bear
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamice/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamice/)*

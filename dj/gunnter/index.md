@@ -1,6 +1,6 @@
 # Gunnter
 
-Gunnter is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at TBA - 13 Rue Marguerite Moret, 75011 Paris, Paris on Fri, 9 Oct 2026.
+Gunnter is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - 13 Rue Marguerite Moret, 75011 Paris, Paris on Fri, 9 Oct 2026.
 
 Gunnter is a house and electro artist tracked on soundcheck, with 7 sets logged across Lyon and Paris. Often billed alongside A.Pringle, Acid Astrid and Axel Blanc. Next up: TBA - 13 Rue Marguerite Moret, 75011 Paris, Paris on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Gunnter is a house and electro artist tracked on soundcheck, with 7 sets logged 
 
 A.Pringle, Acid Astrid, Axel Blanc
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnter/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnter/)*

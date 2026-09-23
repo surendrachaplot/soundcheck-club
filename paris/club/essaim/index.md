@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "tribalism - DJ Nobu - all night long" on Fri, 25 Sept 2026.
+essaim is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "tribalism - DJ Nobu - all night long" on Fri, 25 Sept 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including AgainstMe, Altinbas, Binh and Cabanne and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with li
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

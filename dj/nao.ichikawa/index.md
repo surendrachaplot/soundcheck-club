@@ -1,6 +1,6 @@
 # Nao.Ichikawa
 
-Nao.Ichikawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 22 Sept 2026, next at Azumaya, Tokyo on Wed, 23 Sept 2026.
+Nao.Ichikawa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Azumaya, Tokyo on Wed, 23 Sept 2026.
 
 Nao.Ichikawa is a techno and house artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside Kaw (1), SIGNAL (JP) and MOTOKA. Next up: Azumaya, Tokyo on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Nao.Ichikawa is a techno and house artist based in Japan, tracked on soundcheck,
 
 Kaw (1), SIGNAL (JP), MOTOKA
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nao.ichikawa/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nao.ichikawa/)*

@@ -1,6 +1,6 @@
 # Jedai
 
-Jedai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Home Sweet Home, New York City on Thu, 24 Sept 2026.
+Jedai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Home Sweet Home, New York City on Thu, 24 Sept 2026.
 
 Jedai is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Christian Tokyo, Sabinin and Sight -Beyond- Sound. Next up: Home Sweet Home, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jedai is a house and techno artist based in United States of America, tracked on
 
 Christian Tokyo, Sabinin, Sight -Beyond- Sound
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jedai/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jedai/)*

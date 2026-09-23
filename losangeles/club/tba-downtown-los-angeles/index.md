@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "Certified Groovers: Gene On Earth in LA" on Fri, 25 Sept 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Certified Groovers: Gene On Earth in LA" on Fri, 25 Sept 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 11 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 7 Nov 2026 | Lights Down Low feat. yaego | yaego |
 | Sat, 21 Nov 2026 | Midnight Lovers with Cinthie (All Night Long) | Cinthie |
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

@@ -1,8 +1,8 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Tue, 22 Sept 2026; the next is "YAGI BPM EXHIBITION 2026" on Tue, 22 Sept 2026.
+WOMB is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "YAGI BPM EXHIBITION 2026" on Tue, 22 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Akie, Akua, ASIN and Atsuki and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Akie, Akua, ASIN and Atsuki and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

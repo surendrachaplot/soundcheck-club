@@ -1,6 +1,6 @@
 # Violett Moon
 
-Violett Moon is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 22 Sept 2026, next at Santeria Toscana 31, Milan on Sat, 26 Sept 2026.
+Violett Moon is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Santeria Toscana 31, Milan on Sat, 26 Sept 2026.
 
 Violett Moon is an electronic artist tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside Guayaba and o! michello!. Next up: Santeria Toscana 31, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Violett Moon is an electronic artist tracked on soundcheck, with 10 sets logged 
 
 Guayaba, o! michello!
 
-*Updated Tue, 22 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violettmoon/)*
+*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violettmoon/)*
