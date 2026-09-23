@@ -1,14 +1,15 @@
 # H-R-Z
 
-H-R-Z is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Club, Barcelona on Fri, 2 Oct 2026.
+H-R-Z is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Club, Barcelona on Fri, 2 Oct 2026.
 
-H-R-Z is a techno and acid artist tracked on soundcheck, with 29 sets logged across Barcelona and Ibiza. Often billed alongside SYM, Ronze and Julian Nardi. Next up: M7 Club, Barcelona on Fri 2 Oct.
+H-R-Z is a techno and acid artist tracked on soundcheck, with 30 sets logged across Barcelona, Ibiza and Valencia. Often billed alongside SYM, Ronze and Julian Nardi. Next up: M7 Club, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | M7 Club | Barcelona |
+| Sat, 10 Oct 2026 | 33/45 Club | Valencia |
 
 ## Recently played
 

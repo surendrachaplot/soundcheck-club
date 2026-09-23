@@ -1,14 +1,13 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
+Hue Ray is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
 
-Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís (1) and arow. Next up: Chika-Ikkai, Osaka on Tue 22 Sept.
+Hue Ray is a techno and house artist tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís (1) and arow. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Chika-Ikkai | Osaka |
 | Sat, 17 Oct 2026 | TBA - Jogashima Park | Tokyo |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 

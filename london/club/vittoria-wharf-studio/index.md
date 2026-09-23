@@ -15,7 +15,7 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcomi
 | Tue, 6 Oct 2026 | Life Imitates Art: Live in London with DJ Lucas, Papo2oo4, Subjxct 5 |  |
 | Fri, 16 Oct 2026 | Nicky Elisabeth | Nicky Elisabeth |
 | Sat, 17 Oct 2026 | PRISM: Aldonna, ASHTREY, Elkka, r:elise | ASHTREY, Aldonna, Elkka, r:elise |
-| Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Seb Wildblood |
+| Fri, 23 Oct 2026 | Seb Wildblood pres. all my thoughts | BAILE, Blossom Hill, Seb Wildblood |
 | Sun, 25 Oct 2026 | Sundays - Voigtmann, Ste Roberts, Ryan Jones | Ryan Jones, Ste Roberts, Voigtmann |
 | Sat, 31 Oct 2026 | Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May | Alien Communications, CRL (1), DMX Krew, Kristina May |
 

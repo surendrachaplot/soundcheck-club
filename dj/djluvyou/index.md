@@ -1,8 +1,8 @@
 # DJ Luv You
 
-DJ Luv You is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 24 Moons, Melbourne on Sat, 26 Sept 2026.
+DJ Luv You is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 24 Moons, Melbourne on Sat, 26 Sept 2026.
 
-DJ Luv You is a house and progressive house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: 24 Moons, Melbourne on Sat 26 Sept.
+DJ Luv You is a house and progressive house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 13 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: 24 Moons, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Luv You is a house and progressive house artist tracked on soundcheck, with 9
 | Sat, 26 Sept 2026 | 24 Moons | Melbourne |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 | Sat, 31 Oct 2026 | ark (Melb) | Melbourne |
+| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played

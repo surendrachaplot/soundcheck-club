@@ -1,14 +1,13 @@
 # AKIRAM EN
 
-AKIRAM EN is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
+AKIRAM EN is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
 
-AKIRAM EN is a techno and experimental artist tracked on soundcheck, with 162 sets logged across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: Chika-Ikkai, Osaka on Tue 22 Sept.
+AKIRAM EN is a techno and experimental artist tracked on soundcheck, with 162 sets logged across Amsterdam, Berlin, Kyoto and Osaka and 3 more. Often billed alongside Ginji, KIMURA and SAITO. Next up: VENT, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Chika-Ikkai | Osaka |
 | Fri, 25 Sept 2026 | VENT | Tokyo |
 | Sun, 4 Oct 2026 | or | Tokyo |
 | Sat, 17 Oct 2026 | R Lounge | Tokyo |

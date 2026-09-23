@@ -1,14 +1,13 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Z Maruyama, Tokyo on Tue, 22 Sept 2026.
+Ken Ishii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 27 Sept 2026.
 
-Ken Ishii is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 14 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Z Maruyama, Tokyo on Tue 22 Sept.
+Ken Ishii is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 14 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Z Maruyama | Tokyo |
 | Sun, 27 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Fri, 9 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 23 Oct 2026 | Signal | New York City |

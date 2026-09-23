@@ -1,14 +1,13 @@
 # ast midori
 
-ast midori is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chika-Ikkai, Osaka on Tue, 22 Sept 2026.
+ast midori is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at WWWβ, Tokyo on Sat, 26 Sept 2026.
 
-ast midori is a techno and electro artist based in Japan, tracked on soundcheck, with 82 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside 春麗 Chun Li, E.O.U and HSC (1). Next up: Chika-Ikkai, Osaka on Tue 22 Sept.
+ast midori is a techno and electro artist based in Japan, tracked on soundcheck, with 82 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside 春麗 Chun Li, E.O.U and HSC (1). Next up: WWWβ, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Chika-Ikkai | Osaka |
 | Sat, 26 Sept 2026 | WWWβ | Tokyo |
 | Fri, 2 Oct 2026 | Conpass | Osaka |
 | Sat, 17 Oct 2026 | Club Daphnia | Osaka |

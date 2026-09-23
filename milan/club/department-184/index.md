@@ -10,7 +10,7 @@ Department 184 is a music venue in Milan listed on soundcheck. 5 upcoming gigs, 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | INNER CIRCLE Vol.4 // with Mathys Lenne | Lady Goccia, MISERIA, Mathys Lenne, R.ocks, RIBLX |
 | Sat, 26 Sept 2026 | Saskia Lab: with Yazmin (Glitch Festival) | Dusk Poem, Enygma, Solopeter, YAZMIN (MT) |
-| Sun, 4 Oct 2026 | IDOL - After The Last Track | Simon T, THE LUMENS |
+| Sun, 4 Oct 2026 | IDOL - After The Last Track | GENE, Simon T, THE LUMENS |
 | Fri, 9 Oct 2026 | OKTOBERFAST Festival |  |
 | Sun, 18 Oct 2026 | Technocrazia Season Opening - 12H All Day Long | ALXV, Alex Brasile, AllaDerivaLontano, DIVY, Daichi Wada, Fran LF, HIBA.KNTK, Kora Lyssa, Rorschack, Spad |
 

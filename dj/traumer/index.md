@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
+Traumer is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Audio Club, Geneva on Fri, 25 Sept 2026.
 
-Traumer is a house and techno artist tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Amnesia Ibiza, Ibiza on Tue 22 Sept.
+Traumer is a house and techno artist tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Audio Club, Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Audio Club | Geneva |
 | Sat, 26 Sept 2026 | Postkantine | Basel |
 | Wed, 30 Sept 2026 | Chinois Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Traumer is a house and techno artist tracked on soundcheck, with 316 sets logged
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
 | Fri, 20 Nov 2026 | fi | Cologne |
+| Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 

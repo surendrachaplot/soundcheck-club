@@ -1,14 +1,15 @@
 # Kenjiro
 
-Kenjiro is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Strays, Detroit on Thu, 24 Sept 2026.
+Kenjiro is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Strays, Detroit on Thu, 24 Sept 2026.
 
-Kenjiro is a house and techno artist based in United States of America, tracked on soundcheck, with 195 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: The Strays, Detroit on Thu 24 Sept.
+Kenjiro is a house and techno artist based in United States of America, tracked on soundcheck, with 196 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: The Strays, Detroit on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Strays | Detroit |
+| Fri, 25 Sept 2026 | Tangent Gallery | Detroit |
 | Fri, 25 Sept 2026 | Tangent Gallery | Detroit |
 | Sat, 3 Oct 2026 | Tangent Gallery | Detroit |
 | Sun, 1 Nov 2026 | Paris Bar | Detroit |

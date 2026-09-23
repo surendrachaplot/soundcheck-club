@@ -1,14 +1,13 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 22 Sept 2026.
+Reeshy is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Electric Studios, Sheffield on Fri, 25 Sept 2026.
 
-Reeshy is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Hï Ibiza, Ibiza on Tue 22 Sept.
+Reeshy is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Electric Studios, Sheffield on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Electric Studios | Sheffield |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Loft | Manchester |

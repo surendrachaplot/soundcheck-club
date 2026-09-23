@@ -1,13 +1,14 @@
 # Rhom Omit
 
-Rhom Omit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Elsewhere, Bangkok on Sat, 26 Sept 2026.
+Rhom Omit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 12 x 12, Bangkok on Fri, 25 Sept 2026.
 
-Rhom Omit is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Bangkok, Barcelona, Berlin and Prague and 1 more. Often billed alongside Cesare vs Disorder, Weg (DE) and Isaac Elejalde. Next up: Elsewhere, Bangkok on Sat 26 Sept.
+Rhom Omit is a house and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Bangkok, Barcelona, Berlin and Prague and 1 more. Often billed alongside Cesare vs Disorder, Weg (DE) and Isaac Elejalde. Next up: 12 x 12, Bangkok on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | 12 x 12 | Bangkok |
 | Sat, 26 Sept 2026 | Elsewhere | Bangkok |
 
 ## Recently played

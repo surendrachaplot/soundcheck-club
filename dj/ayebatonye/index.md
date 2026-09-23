@@ -1,14 +1,15 @@
 # Ayebatonye
 
-Ayebatonye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Miscellania, Melbourne on Fri, 16 Oct 2026.
+Ayebatonye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Miscellania, Melbourne on Fri, 16 Oct 2026.
 
-Ayebatonye is a house and techno artist tracked on soundcheck, with 32 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Four Tet, Jyoty and Soju Gang. Next up: Miscellania, Melbourne on Fri 16 Oct.
+Ayebatonye is a house and techno artist tracked on soundcheck, with 33 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Four Tet, Jyoty and Simonetti. Next up: Miscellania, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Miscellania | Melbourne |
+| Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ayebatonye is a house and techno artist tracked on soundcheck, with 32 sets logg
 
 ## Shares bills with
 
-Four Tet, Jyoty, Soju Gang
+Four Tet, Jyoty, Simonetti
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*

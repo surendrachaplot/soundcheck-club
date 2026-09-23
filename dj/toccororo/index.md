@@ -10,7 +10,7 @@ TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 135 sets 
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Club Magno | Madrid |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
-| Fri, 25 Sept 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |
+| Fri, 25 Sept 2026 | Danzhaus/The Gingerbread House | San Francisco/Oakland |
 | Fri, 30 Oct 2026 | fabric | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 

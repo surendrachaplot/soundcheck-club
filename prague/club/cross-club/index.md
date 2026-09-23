@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TECHNO NIGHT" on Tue, 22 Sept 2026.
+Cross Club is a music venue in Prague with 18 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "KŘIŽOVATKA" on Wed, 23 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 19 upcoming gigs, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 18 upcoming gigs, with line-ups including Akira, AMAR DURGA, BBBBBBB and Cut Road and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | TECHNO NIGHT |  |
 | Wed, 23 Sept 2026 | KŘIŽOVATKA |  |
 | Thu, 24 Sept 2026 | KONCERT & DNB NIGHT AFTERPARTY |  |
 | Fri, 25 Sept 2026 | CROSS SQUARE with NEVEREŠ & DOUBLE TROUBLE with ANAIS (UK) and MC COLECTIVE | Cut Road, Plus One (1) |
@@ -18,6 +17,7 @@ Cross Club is a music venue in Prague listed on soundcheck. 19 upcoming gigs, wi
 | Tue, 29 Sept 2026 | POEZIE VOLE |  |
 | Wed, 30 Sept 2026 | BIOCROSS |  |
 | Thu, 1 Oct 2026 | PSEUDO3 | NOSTÆ ox |
+| Fri, 2 Oct 2026 | NEBE, PEKLO & RAVE with ESKEI83 | ESKEI83, Muzaman |
 
 ## Address
 

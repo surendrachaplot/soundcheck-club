@@ -1,14 +1,15 @@
 # yung_womb
 
-yung_womb is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
+yung_womb is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at KREUZWERK, Berlin on Fri, 16 Oct 2026.
 
-yung_womb is a bass and house artist tracked on soundcheck, with 76 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Nissa Carrington, SLIC Unit and Slimgirl fat. Next up: KREUZWERK, Berlin on Fri 16 Oct.
+yung_womb is a bass and house artist tracked on soundcheck, with 77 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Nissa Carrington, SLIC Unit and Slimgirl fat. Next up: KREUZWERK, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | KREUZWERK | Berlin |
+| Sat, 31 Oct 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Manuka Honey is a Club and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 146 sets logged across Amsterdam, Auckland, Austin and Barcelona and 40 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 147 sets logged across Amsterdam, Auckland, Austin and Barcelona and 40 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 146 sets
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 9 Oct 2026 | New Century Locker | Manchester |
 | Sat, 24 Oct 2026 | Paragon | New York City |
+| Sat, 31 Oct 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 

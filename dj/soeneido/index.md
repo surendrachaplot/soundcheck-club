@@ -1,14 +1,14 @@
 # Soeneido
 
-Soeneido is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - NAMELESS, Philadelphia on Sat, 26 Sept 2026.
+Soeneido is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Nameless, Philadelphia on Sat, 26 Sept 2026.
 
-Soeneido is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Denver, Helsinki and London and 4 more. Often billed alongside Soulox, Bored Lord and Discnogirl. Next up: TBA - NAMELESS, Philadelphia on Sat 26 Sept.
+Soeneido is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Denver, Helsinki and London and 4 more. Often billed alongside Soulox, Bored Lord and Discnogirl. Next up: Nameless, Philadelphia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - NAMELESS | Philadelphia |
+| Sat, 26 Sept 2026 | Nameless | Philadelphia |
 
 ## Recently played
 

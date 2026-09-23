@@ -1,14 +1,13 @@
 # SARA
 
-SARA is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
+SARA is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Débris, Tokyo on Fri, 25 Sept 2026.
 
-SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside MAO, PUNK N MATRIX and Roy (PT). Next up: VENT, Tokyo on Tue 22 Sept.
+SARA is a house and hip-hop artist based in Colombia, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside MAO, PUNK N MATRIX and Roy (PT). Next up: Débris, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | VENT | Tokyo |
 | Fri, 25 Sept 2026 | Débris | Tokyo |
 | Tue, 29 Sept 2026 | Enter Shibuya | Tokyo |
 

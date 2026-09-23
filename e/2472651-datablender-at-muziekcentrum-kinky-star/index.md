@@ -1,6 +1,6 @@
 # DATABLENDER at Muziekcentrum Kinky Star
 
-DATABLENDER at Muziekcentrum Kinky Star on Fri 13 Nov, Ghent. 2 acts on the bill: Castor W. and Jaquarius. Electro and Acid. Preview the line-up and save it on soundcheck.
+DATABLENDER at Muziekcentrum Kinky Star on Fri 13 Nov, Ghent. 2 acts on the bill: Castor W. and Jaquarius. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

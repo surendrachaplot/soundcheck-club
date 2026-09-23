@@ -1,14 +1,13 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Koenji Cave presents - EL DORADO - XXII" on Tue, 22 Sept 2026.
+Koenji Cave is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Koenji Cave presents ▷ Laboratory Vol.34" on Fri, 25 Sept 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including AMON (1), BERLINER KINDL, Bones and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including AMON (1), BERLINER KINDL, Bones and CATRONICA and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Koenji Cave presents - EL DORADO - XXII | CATRONICA, NAGEE |
 | Fri, 25 Sept 2026 | Koenji Cave presents ▷ Laboratory Vol.34 | Bones, CyberMoripy, Frank S |
 | Sat, 26 Sept 2026 | Koenji Cave presents - Tempest - Vol.23 |  |
 | Fri, 2 Oct 2026 | Koenji Cave presents - Psychedelic Friday Vol.30 - | BERLINER KINDL |
@@ -18,6 +17,7 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 16 Oct 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.34 | BERLINER KINDL, CyberMoripy, Frank S, RAPHAËL (2), Spiritjack |
 | Sat, 17 Oct 2026 | Puzzle |  |
 | Fri, 23 Oct 2026 | Koenji Cave presents ▷ Laboratory Vol.35 |  |
+| Sat, 24 Oct 2026 | Koenji Cave presents - Tempest - Vol.24 |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Tue, 22 Sept 2026.
+Gordo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Opium Barcelona, Barcelona on Wed, 23 Sept 2026.
 
-Gordo is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Pacha Ibiza, Ibiza on Tue 22 Sept.
+Gordo is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Opium Barcelona, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Pacha Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | Opium Barcelona | Barcelona |
 | Fri, 2 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 

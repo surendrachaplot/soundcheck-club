@@ -1,14 +1,13 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "♦️ DVOTION ♦️" on Tue, 22 Sept 2026.
+The Warehouse is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Skin On Skin, Effy & Benwal" on Fri, 25 Sept 2026.
 
-The Warehouse is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including ATRIP, Benwal, Big Ang and Champion and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
+The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including ATRIP, Benwal, Big Ang and Champion and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | ♦️ DVOTION ♦️ |  |
 | Fri, 25 Sept 2026 | Skin On Skin, Effy & Benwal | Benwal, Effy, Skin On Skin, t e s t p r e s s |
 | Sat, 26 Sept 2026 | Oppidan, Prozak, Larishka + Special Guest Champion | Champion, LARISHKA (UK), Oppidan, Prozak (IRL) |
 | Tue, 29 Sept 2026 | ♦️ DVOTION ♦️ |  |
@@ -18,6 +17,7 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, 
 | Sat, 7 Nov 2026 | Culture Shock | Culture Shock |
 | Thu, 19 Nov 2026 | LUKAS & FRANK | LUKAS & FRANK |
 | Thu, 19 Nov 2026 | Lukas & Frank live in Leeds | LUKAS & FRANK |
+| Sat, 21 Nov 2026 | PIV Leeds | Kellie Allen, Ozzie Guven, Prunk |
 
 ## Address
 

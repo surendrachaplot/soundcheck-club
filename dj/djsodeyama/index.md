@@ -1,14 +1,13 @@
 # DJ Sodeyama
 
-DJ Sodeyama is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
+DJ Sodeyama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at WOMB, Tokyo on Wed, 30 Sept 2026.
 
-DJ Sodeyama is a techno and house artist tracked on soundcheck, with 139 sets logged across Istanbul, Kyoto, Lisbon and Madrid and 5 more. Often billed alongside OCCA, SIGNAL (JP) and Tsutomu. Next up: Traffic, Tokyo on Tue 22 Sept.
+DJ Sodeyama is a techno and house artist tracked on soundcheck, with 139 sets logged across Istanbul, Kyoto, Lisbon and Madrid and 5 more. Often billed alongside OCCA, SIGNAL (JP) and Tsutomu. Next up: WOMB, Tokyo on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Traffic | Tokyo |
 | Wed, 30 Sept 2026 | WOMB | Tokyo |
 | Sat, 3 Oct 2026 | Z Maruyama | Tokyo |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |

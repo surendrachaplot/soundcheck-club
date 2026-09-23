@@ -1,14 +1,15 @@
 # MIASALAV
 
-MIASALAV is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+MIASALAV is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
-MIASALAV is a techno and bass artist tracked on soundcheck, with 66 sets logged across Mexicocity, Montreal, Newyorkcity and Toronto. Often billed alongside Venus in Foil, Runa and Asha (4). Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
+MIASALAV is a techno and bass artist tracked on soundcheck, with 67 sets logged across Mexicocity, Montreal, Newyorkcity and Toronto. Often billed alongside Venus in Foil, Runa and Asha (4). Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Sat, 17 Oct 2026 | ESC | Montreal |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Ava Blank
 
-Ava Blank is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Hollywood, Los Angeles on Fri, 2 Oct 2026.
+Ava Blank is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Hollywood, Los Angeles on Fri, 2 Oct 2026.
 
-Ava Blank is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: TBA - Hollywood, Losangeles on Fri 2 Oct.
+Ava Blank is a house and deep house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: TBA - Hollywood, Losangeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Hollywood | Los Angeles |
+| Fri, 2 Oct 2026 | The Airliner | Los Angeles |
 | Sat, 17 Oct 2026 | The Airliner | Los Angeles |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Paco Osuna
 
-Paco Osuna is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 22 Sept 2026.
+Paco Osuna is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at SWG3, Glasgow on Sun, 27 Sept 2026.
 
-Paco Osuna is a tech house and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside The Martinez Brothers, Melanie Ribbe and Marco Carola. Next up: Hï Ibiza, Ibiza on Tue 22 Sept.
+Paco Osuna is a tech house and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside The Martinez Brothers, Melanie Ribbe and Marco Carola. Next up: SWG3, Glasgow on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | SWG3 | Glasgow |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | [UNVRS] | Ibiza |

@@ -1,6 +1,6 @@
 # Flesh & Fangs: Jayda G - Tomoki Tamura at Flash
 
-Flesh & Fangs: Jayda G - Tomoki Tamura at Flash on Sat 31 Oct, Washingtondc. 2 acts on the bill: Jayda G and Tomoki Tamura. House and Deep House. Preview the line-up and save it on soundcheck.
+Flesh & Fangs: Jayda G - Tomoki Tamura at Flash on Sat 31 Oct, Washingtondc. 4 acts on the bill: DJ Soul (US), G.E.N.E., Jayda G and Tomoki Tamura. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Flesh & Fangs: Jayda G - Tomoki Tamura at Flash on Sat 31 Oct, Washingtondc. 2 a
 
 ## Line-up
 
+- DJ Soul (US)
+- G.E.N.E.
 - Jayda G
 - Tomoki Tamura
 

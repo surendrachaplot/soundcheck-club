@@ -1,14 +1,13 @@
 # MINAMI
 
-MINAMI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
+MINAMI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Numm, Tokyo on Sun, 11 Oct 2026.
 
-MINAMI is a house and techno artist based in Japan, tracked on soundcheck, with 213 sets logged across Barcelona, Osaka and Tokyo. Often billed alongside Dazzle Drums, HEAVEN and Kengo. Next up: VENT, Tokyo on Tue 22 Sept.
+MINAMI is a house and techno artist based in Japan, tracked on soundcheck, with 213 sets logged across Barcelona, Osaka and Tokyo. Often billed alongside Dazzle Drums, HEAVEN and Kengo. Next up: Numm, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | VENT | Tokyo |
 | Sun, 11 Oct 2026 | Numm | Tokyo |
 | Sun, 8 Nov 2026 | Numm | Tokyo |
 | Sun, 13 Dec 2026 | Numm | Tokyo |

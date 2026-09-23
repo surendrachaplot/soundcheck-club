@@ -1,8 +1,8 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Autonomy: SHERELLE, Bok Bok, & Introspekt" on Fri, 25 Sept 2026.
+The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Autonomy: SHERELLE, Bok Bok, & Introspekt" on Fri, 25 Sept 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 12 upco
 | Sun, 18 Oct 2026 | Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More | 1tbsp, Safety Trance |
 | Fri, 23 Oct 2026 | BABY J | 1-800-Lolita, Baby J (2), Berrakka, SUCIA! |
 | Fri, 30 Oct 2026 | Halloweek: Emo Nite |  |
+| Sat, 31 Oct 2026 | PERREO DEL FUTURO Halloween | Anunaku, MARACUYá, Manuka Honey, Mr. Bitch, SATURNSARii, TSVI, yung_womb |
 | Fri, 6 Nov 2026 | Paige Tomlinson + LAMMER + STÜM | ALEJO (US), LAMMER, Paige Tomlinson, STÜM |
-| Fri, 13 Nov 2026 | Notion | Dj Flashdrive, Notion, Violeta |
 
 ## Address
 

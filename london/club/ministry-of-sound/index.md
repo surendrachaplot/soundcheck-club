@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 23 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Ministry Of Sound, Milkshake - Official London Freshers Launch PART 2" on Tue, 22 Sept 2026.
+Ministry Of Sound is a music venue in London with 22 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Take Off UK presents: VIKKSTAR & SPECIAL GUESTS! The Freshers Rave" on Thu, 24 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 2 |  |
 | Thu, 24 Sept 2026 | Take Off UK presents: VIKKSTAR & SPECIAL GUESTS! The Freshers Rave |  |
 | Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC, TERRY GOLDEN | P.O.U, Stylo |
 | Sat, 26 Sept 2026 | BRESH |  |
@@ -18,6 +17,7 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 23 upcoming g
 | Sat, 3 Oct 2026 | MoS Birthday - 35 years: URGE: Loco Dice | Joëlla Jackson, Loco Dice |
 | Tue, 6 Oct 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 9 Oct 2026 | Parable: Eli & Fur, Eynka, NOHR + more | Asch Pintura, Eli & Fur, Eynka, Innerstice, NOHR, Skimming, ZIYING |
+| Sat, 10 Oct 2026 | Housework presents Tales of the Unexpected | Jonathan Ulysses, Lizzie Curious, Pagano, Rob Tissera, Tenacious |
 
 ## Address
 

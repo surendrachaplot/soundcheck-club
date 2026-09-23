@@ -1,14 +1,13 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 22 Sept 2026.
+Luciano is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha New York, New York City on Sat, 26 Sept 2026.
 
-Luciano is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 17 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Hï Ibiza, Ibiza on Tue 22 Sept.
+Luciano is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 17 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Pacha New York, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Pacha New York | New York City |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

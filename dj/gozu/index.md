@@ -1,14 +1,14 @@
 # gozu
 
-gozu is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - NAMELESS, Philadelphia on Sat, 26 Sept 2026.
+gozu is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Nameless, Philadelphia on Sat, 26 Sept 2026.
 
-gozu is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Asat, ADAB and Art Cuebik. Next up: TBA - NAMELESS, Philadelphia on Sat 26 Sept.
+gozu is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Asat, ADAB and Art Cuebik. Next up: Nameless, Philadelphia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA - NAMELESS | Philadelphia |
+| Sat, 26 Sept 2026 | Nameless | Philadelphia |
 
 ## Recently played
 

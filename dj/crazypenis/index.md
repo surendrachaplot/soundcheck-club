@@ -1,14 +1,13 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
+Crazy P is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
+Crazy P is a disco and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Charlies Loft | Glasgow |
 | Sat, 10 Oct 2026 | Sala Villanos | Madrid |
 | Sat, 24 Oct 2026 | The Golden Lion | Manchester |

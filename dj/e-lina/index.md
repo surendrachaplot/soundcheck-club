@@ -13,7 +13,7 @@ E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
-| Thu, 29 Oct 2026 | 17 Little Portland Street | London |
+| Thu, 29 Oct 2026 | TBA | London |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played

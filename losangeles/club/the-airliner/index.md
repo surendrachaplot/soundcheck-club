@@ -1,8 +1,8 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ÆFFECT RADIO 16-Year Anniversary Party" on Thu, 24 Sept 2026.
+The Airliner is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ÆFFECT RADIO 16-Year Anniversary Party" on Thu, 24 Sept 2026.
 
-The Airliner is a music venue in Losangeles listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Paar, Andy Oro, Ava Blank and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Losangeles listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Paar, Andy Oro, Ava Blank and Baltra and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
@@ -11,6 +11,7 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 7 upcoming gig
 | Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Codiac, Freeman 713, Infinity Edge, Songco, Wheez-ie, Yessi |
 | Fri, 25 Sept 2026 | Made to Move presents Latinas in the House | Andy Oro, Guaparda, Juliet Mendoza, SEEPS, Spiñorita |
 | Sat, 26 Sept 2026 | Reflections: Lando Polo, Evade Robots, Olive |  |
+| Fri, 2 Oct 2026 | anemone | Ava Blank, DIZI, Guaparda |
 | Sat, 10 Oct 2026 | Aaron Paar, Darone Sassounian, SEEPS | Aaron Paar, Darone Sassounian, SEEPS |
 | Sun, 11 Oct 2026 | Uniting Entity presents: cranes + katmoji |  |
 | Fri, 16 Oct 2026 | BAJO w. Jeremy Sole & Captain Planet | Captain Planet, Jeremy Sole |

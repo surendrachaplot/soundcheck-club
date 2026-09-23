@@ -1,8 +1,8 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 22 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 23 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
+Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Takuya Nakamura is a jungle and jazz artist tracked on soundcheck, with 117 sets
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Mon, 12 Oct 2026 | Belgrave Music Hall | Leeds |
 | Tue, 13 Oct 2026 | The Grove | Newcastle |
+| Thu, 15 Oct 2026 | FORGE | Sheffield |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | EartH | London |
 | Sun, 18 Oct 2026 | Gretchen | Berlin |
 | Thu, 22 Oct 2026 | main room | Paris |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Sun, 25 Oct 2026 | Sneaky Pete's | Edinburgh |
-| Fri, 30 Oct 2026 | The Limelight | Belfast |
 
 ## Recently played
 

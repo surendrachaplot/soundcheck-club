@@ -1,14 +1,13 @@
 # Traffic
 
-Traffic is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BBCB 10YRS - SOUTHBOUND ROUTE: TOKYO" on Tue, 22 Sept 2026.
+Traffic is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "ABBADON VOL.05 - DEFUSION -" on Sat, 3 Oct 2026.
 
-Traffic is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including DJ SO, DJ Sodeyama, ERIMIYA and FECROMASS and 2 more. Browse upcoming dates, start times and who's playing. 1-4-48 B2F, Nishiazabu, Minato-ku, Tokyo, 106-0031 Japan.
+Traffic is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including FECROMASS, Mars89, Nanogram and Ottoman Grüw and 1 more. Browse upcoming dates, start times and who's playing. 1-4-48 B2F, Nishiazabu, Minato-ku, Tokyo, 106-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | BBCB 10YRS - SOUTHBOUND ROUTE: TOKYO | DJ SO, DJ Sodeyama, ERIMIYA, JAMIEST, Kim.Qna, RINALUCKY |
 | Sat, 3 Oct 2026 | ABBADON VOL.05 - DEFUSION - | FECROMASS, Mars89, Nanogram, Ottoman Grüw, RICKY |
 
 ## Address

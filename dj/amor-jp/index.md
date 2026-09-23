@@ -1,14 +1,13 @@
 # amor (JP)
 
-amor (JP) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Blvck Water, Osaka on Tue, 22 Sept 2026.
+amor (JP) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Blvck Water, Osaka on Tue, 29 Sept 2026.
 
-amor (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 18 sets logged across Osaka. Often billed alongside ZAGUN, dyn (JP) and 死者蘇生CH. Next up: Blvck Water, Osaka on Tue 22 Sept.
+amor (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 18 sets logged across Osaka. Often billed alongside ZAGUN, dyn (JP) and 死者蘇生CH. Next up: Blvck Water, Osaka on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Blvck Water | Osaka |
 | Tue, 29 Sept 2026 | Blvck Water | Osaka |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "YAGI BPM EXHIBITION 2026" on Tue, 22 Sept 2026.
+WOMB is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "WTW" on Wed, 23 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Akie, Akua, ASIN and Atsuki and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Akie, Akua, ASIN and Atsuki and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | YAGI BPM EXHIBITION 2026 | CYBERHACKSYSTEM, HIMAWARI, JUN INAGAWA, YUVIE, Yohji Igarashi, ecec, kengotaki, pinponpanpon |
 | Wed, 23 Sept 2026 | WTW | Ayantula, RIHO ASAEDA, kuniii |
 | Thu, 24 Sept 2026 | PARADIGM × WTW |  |
 | Fri, 25 Sept 2026 | A.S.F (TECHNO/HOUSE) | KINO (UY), Karuta, P-YAN, RYOKEI, ildec |
@@ -18,6 +17,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line
 | Sat, 3 Oct 2026 | J × BEYOND | DJ Shibata, Daniel Bell, Nehan, discopants |
 | Thu, 8 Oct 2026 | Cromwell by WTW (TECHNO) | LiaRako, Toki Fuko, UG (1), the2$ |
 | Fri, 9 Oct 2026 | Modest | Atsuki, KABUTO, KILLER BONG, Karuta, Sakuma, Sunga, Tonbo |
+| Sat, 10 Oct 2026 | TIME HOLE -REALROCKDESIGN 30TH ANNIVERSARY- (TECHNO/HOUSE) | Akie, CHIDA, DOTT, Kikiorix, Nicolas Lutz, Rio Kawamoto, Satoshi Otsuki, Wada Yosuke |
 
 ## Address
 

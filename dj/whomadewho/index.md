@@ -1,13 +1,14 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Scorpios, Mykonos on Sun, 4 Oct 2026.
+WhoMadeWho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
 
-WhoMadeWho is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Scorpios, Mykonos on Sun 4 Oct.
+WhoMadeWho is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Sunday Sunday, Mexicocity on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | Sunday Sunday | Mexico City |
 | Sun, 4 Oct 2026 | Scorpios | Mykonos |
 | Wed, 21 Oct 2026 | Westerkerk | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |

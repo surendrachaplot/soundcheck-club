@@ -1,18 +1,20 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Commune, Lyon on Thu, 1 Oct 2026.
+Vice Experience is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Club Banana Café, Paris on Fri, 25 Sept 2026.
 
-Vice Experience is a techno and house artist tracked on soundcheck, with 141 sets logged across Brussels, Buenosaires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: La Commune, Lyon on Thu 1 Oct.
+Vice Experience is a techno and house artist tracked on soundcheck, with 143 sets logged across Brussels, Buenosaires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - Club Banana Café, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | TBA - Club Banana Café | Paris |
 | Thu, 1 Oct 2026 | La Commune | Lyon |
 | Thu, 1 Oct 2026 | Radio Campus Paris | Paris |
 | Fri, 9 Oct 2026 | TBA - The People Lyon | Lyon |
 | Wed, 14 Oct 2026 | Panic Room | Paris |
 | Sat, 17 Oct 2026 | TBA - Césure Paris | Paris |
+| Sun, 1 Nov 2026 | GIMIC | Brussels |
 
 ## Recently played
 

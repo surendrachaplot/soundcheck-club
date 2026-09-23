@@ -1,14 +1,15 @@
 # Nicol
 
-Nicol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Glazart, Paris on Sun, 27 Sept 2026.
+Nicol is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Glazart, Paris on Sun, 27 Sept 2026.
 
-Nicol is a techno and house artist based in France, tracked on soundcheck, with 77 sets logged across Berlin, Dundee, Lyon and Marseille and 2 more. Often billed alongside Ceyda Yagiz, Aubry and COCKO. Next up: Glazart, Paris on Sun 27 Sept.
+Nicol is a techno and house artist based in France, tracked on soundcheck, with 78 sets logged across Berlin, Dundee, Lyon and Marseille and 2 more. Often billed alongside Ceyda Yagiz, Aubry and PEPIITA. Next up: Glazart, Paris on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Glazart | Paris |
+| Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nicol is a techno and house artist based in France, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Ceyda Yagiz, Aubry, COCKO
+Ceyda Yagiz, Aubry, PEPIITA
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicol/)*

@@ -1,14 +1,13 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
+Rich NXT is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
 
-Rich NXT is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Cova Santa, Ibiza on Tue 22 Sept.
+Rich NXT is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Mint XL, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Fri, 2 Oct 2026 | Green Room NYC | New York City |
 | Sat, 3 Oct 2026 | TBA - HOURS (Denver Art District) | Denver |

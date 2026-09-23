@@ -1,8 +1,8 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "oksional: HIDRA" on Thu, 1 Oct 2026.
+Mothership is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "oksional: HIDRA" on Thu, 1 Oct 2026.
 
-Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gigs, with line-ups including HIDRA, Justyn Myers and Yaz. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
+Mothership is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming gigs, with line-ups including HIDRA, Justyn Myers and Yaz. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming gig
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | oksional: HIDRA | HIDRA, Justyn Myers |
 | Sun, 4 Oct 2026 | Tromac in San Francisco 10/4 |  |
+| Thu, 5 Nov 2026 | oksional: Tyler Ross |  |
 | Thu, 3 Dec 2026 | oksional: Yaz | Justyn Myers, Yaz |
 
 ## Address

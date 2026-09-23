@@ -1,14 +1,13 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tomodachi, Ibiza on Tue, 22 Sept 2026.
+Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 42 Marches, Paris on Fri, 16 Oct 2026.
 
-Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Boston and 31 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: Tomodachi, Ibiza on Tue 22 Sept.
+Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Boston and 31 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: 42 Marches, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Tomodachi | Ibiza |
 | Fri, 16 Oct 2026 | 42 Marches | Paris |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 

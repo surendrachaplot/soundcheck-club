@@ -1,14 +1,15 @@
 # Sasha Zlykh
 
-Sasha Zlykh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
+Sasha Zlykh is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 26 Sept 2026.
 
-Sasha Zlykh is a techno and house artist based in Ukraine, tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Krakow and Leipzig and 5 more. Often billed alongside Ilja Franz, Katia Curie and Finona Rider. Next up: TBA - Secret Location, Berlin on Sat 26 Sept.
+Sasha Zlykh is a techno and house artist based in Ukraine, tracked on soundcheck, with 48 sets logged across Berlin, Hamburg, Krakow and Leipzig and 5 more. Often billed alongside Ilja Franz, Katia Curie and Finona Rider. Next up: TBA - Secret Location, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Secret Location | Berlin |
+| Fri, 2 Oct 2026 | Südpol | Hamburg |
 
 ## Recently played
 

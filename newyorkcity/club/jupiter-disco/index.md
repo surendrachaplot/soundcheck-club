@@ -9,7 +9,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice | DJ Fat Frog, LILLA, chicas over rice, dj 5spice, satandoll |
-| Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon George, Reyer, Sibley | Reyer |
+| Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon Georges, Reyer, Sibley | Reyer |
 | Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Mommy Husband, Pedestrian Access, dj goodboy (BK) |
 | Sat, 26 Sept 2026 | The Jukeboxx: James Juke + shanty mane | James Juke, shanty mane |
 | Sun, 27 Sept 2026 | Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire | Caire, KIMKILLA, Lily Ardalan, Remniqe, Symonne, yNOTi |

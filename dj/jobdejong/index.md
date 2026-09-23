@@ -1,14 +1,13 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
-Job de Jong is a house and tech house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Cova Santa, Ibiza on Tue 22 Sept.
+Job de Jong is a house and tech house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 171 set
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 6 Nov 2026 | Invisible Wind Factory | Liverpool |
 | Fri, 6 Nov 2026 | Invisible Wind Factory | Liverpool |
+| Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

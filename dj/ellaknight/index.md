@@ -1,14 +1,13 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Tue, 22 Sept 2026.
+Ella Knight is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: Cova Santa, Ibiza on Tue 22 Sept.
+Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |

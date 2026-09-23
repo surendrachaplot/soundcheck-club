@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Ariel Assault at E11EVEN" on Tue, 22 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Chizzle at E11EVEN" on Thu, 24 Sept 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Ariel Assault at E11EVEN |  |
 | Thu, 24 Sept 2026 | Chizzle at E11EVEN |  |
 | Fri, 25 Sept 2026 | Afrojack at E11EVEN | Afrojack |
 | Sat, 26 Sept 2026 | Ruckus at E11EVEN |  |

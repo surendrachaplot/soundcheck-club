@@ -1,13 +1,14 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+ryota dj is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Circus Tokyo, Tokyo on Wed, 23 Sept 2026.
 
-ryota dj is a bass and house artist tracked on soundcheck, with 90 sets logged across Bali, Bangkok, Barcelona and Brighton and 16 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
+ryota dj is a bass and house artist tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Barcelona and Brighton and 16 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Circus Tokyo, Tokyo on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | Circus Tokyo | Tokyo |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Sun, 11 Oct 2026 | World Kyoto | Kyoto |
 | Sat, 24 Oct 2026 | M.O.T | London |

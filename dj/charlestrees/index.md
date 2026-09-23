@@ -1,13 +1,14 @@
 # Charles Trees
 
-Charles Trees is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tangent Gallery, Detroit on Fri, 25 Sept 2026.
+Charles Trees is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tangent Gallery, Detroit on Fri, 25 Sept 2026.
 
-Charles Trees is a house and techno artist based in United States of America, tracked on soundcheck, with 184 sets logged across Detroit, Newyorkcity and Seattle. Often billed alongside Kenjiro, Shigeto and Ryan Spencer. Next up: Tangent Gallery, Detroit on Fri 25 Sept.
+Charles Trees is a house and techno artist based in United States of America, tracked on soundcheck, with 185 sets logged across Detroit, Newyorkcity and Seattle. Often billed alongside Kenjiro, Shigeto and Ryan Spencer. Next up: Tangent Gallery, Detroit on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Tangent Gallery | Detroit |
 | Fri, 25 Sept 2026 | Tangent Gallery | Detroit |
 
 ## Recently played

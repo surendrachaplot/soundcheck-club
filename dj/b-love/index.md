@@ -14,7 +14,7 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Top Floor | Newcastle |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
-| Thu, 29 Oct 2026 | 17 Little Portland Street | London |
+| Thu, 29 Oct 2026 | TBA | London |
 | Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played

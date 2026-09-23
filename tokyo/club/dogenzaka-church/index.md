@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CANDELA OF MUSIC" on Tue, 22 Sept 2026.
+Dogenzaka Church is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tree of AMAPiANO" on Sun, 27 Sept 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including AMANE, EIJI, Hironobu Jyounai and KANT and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including AMANE, EIJI, Hironobu Jyounai and KANT and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | CANDELA OF MUSIC |  |
 | Sun, 27 Sept 2026 | Tree of AMAPiANO | Okehazama |
 | Mon, 28 Sept 2026 | 頭の中のうじむし |  |
 | Wed, 30 Sept 2026 | inori | MOTOKA |

@@ -1,14 +1,13 @@
 # Ryogo
 
-Ryogo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Forestlimit, Tokyo on Tue, 22 Sept 2026.
+Ryogo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Daphnia, Osaka on Fri, 9 Oct 2026.
 
-Ryogo is a techno and house artist tracked on soundcheck, with 156 sets logged across Hongkong, Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), Naco (2) and imazutsubasa. Next up: Forestlimit, Tokyo on Tue 22 Sept.
+Ryogo is a techno and house artist tracked on soundcheck, with 156 sets logged across Hongkong, Kyoto, Osaka and Tokyo. Often billed alongside Vís (1), Naco (2) and imazutsubasa. Next up: Club Daphnia, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 22 Sept 2026 | Forestlimit | Tokyo |
 | Fri, 9 Oct 2026 | Club Daphnia | Osaka |
 | Sat, 17 Oct 2026 | West Harlem | Kyoto |
 
