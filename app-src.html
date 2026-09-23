@@ -14,8 +14,12 @@
        edit a diary entry, save, and the profile comes back magnified (23 Sep).
        maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
        iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
-       auto-zooms on focus anyway. The fields are also sized >=16px on touch. -->
-  <script>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
