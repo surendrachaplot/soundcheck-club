@@ -1,6 +1,6 @@
 # SETLIFE presents Larizzle ( SETLIFE 1 YEAR anniversary) at Setlist @ Somerset House
 
-SETLIFE presents Larizzle ( SETLIFE 1 YEAR anniversary) at Setlist @ Somerset House on Sat 26 Sept, London. 1 act on the bill: Larizzle. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+SETLIFE presents Larizzle ( SETLIFE 1 YEAR anniversary) at Setlist @ Somerset House on Sat 26 Sept, London. 2 acts on the bill: Larizzle and S FLY. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SETLIFE presents Larizzle ( SETLIFE 1 YEAR anniversary) at Setlist @ Somerset Ho
 ## Line-up
 
 - Larizzle
+- S FLY
 
 *Source: [soundcheck](https://soundcheck.club/e/2492400-setlife-presents-larizzle-setlife-1-year-anniversary-at-setl/)*

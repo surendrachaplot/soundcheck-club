@@ -9,7 +9,7 @@ M.O.T is a music venue in London listed on soundcheck. 34 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | JACKZEBRA |  |
-| Fri, 25 Sept 2026 | Skeptic + RTK Tarantino | RTK Tarantino, Skeptic |
+| Fri, 25 Sept 2026 | Skeptic b2b RTK Tarantino - All Night Long | RTK Tarantino, Skeptic |
 | Fri, 25 Sept 2026 | Jungyals and Gays presents: Back 2 the Club | 3DMA, JuicyJards, NEENZY (UK), PEPPA (2), Princess Elf Bar, chlow333 |
 | Thu, 1 Oct 2026 | Twinspinsz ⋆˚𖥔 Reformist & Friends  | N1L, Reformist, TENFOLD |
 | Thu, 1 Oct 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
