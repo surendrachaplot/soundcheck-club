@@ -10,6 +10,12 @@
   <meta property="og:description" content="Find your music for tonight. Gigs and artist line-ups across 104 cities in 40 countries — see who's playing, follow artists and venues, log your gigs and stream every set." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch. -->
+  <script>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -4373,6 +4379,15 @@
     .adm-field input, .adm-field textarea { width:100%; background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); padding:10px 12px; font:500 var(--fs-sm)/var(--lh-sm) var(--body); }
     .adm-field textarea { resize:vertical; min-height:88px; }
     .adm-field input:focus, .adm-field textarea:focus { outline:none; border-color:var(--accent); }
+    /* iOS Safari zooms the page on focus of any field under 16px and does NOT zoom
+       back out when the sheet closes — you land on the profile magnified. Every
+       field on a touch screen reads at --fs-md (17). 23 Sep: the diary edit sheet's
+       inline font:inherit put its two fields at 15px. */
+    @media (pointer:coarse){
+      .vp-compose textarea, .ob-compose textarea, .ee-box input, .ee-box textarea,
+      .sc-sheet textarea, .pf-suggest textarea, .pb-search input,
+      .adm-field input, .adm-field textarea { font-size:var(--fs-md); }
+    }
     /* the crawled value, shown under its field so an editor sees WHAT they override */
     .adm-was { font:500 var(--fs-2xs)/var(--lh-2xs) var(--body); color:var(--faint); margin-top:var(--sp-2); word-break:break-word; }
     .adm-was b { color:var(--muted); font-weight:700; }
@@ -4538,7 +4553,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790114415592">
+<meta name="sc-build" content="1790131609963">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -8744,8 +8759,8 @@
         '<div class="eyebrow">Edit diary entry</div>'+
         '<h3>'+esc(d.venue||'Gig')+(diaryDateLabel(d)?' <small style="color:var(--muted);font-weight:600">'+esc(diaryDateLabel(d))+'</small>':'')+'</h3>'+
         '<div class="vrv-q">Artists &amp; ratings</div><div class="lg-rate" id="de-arts">'+artRows()+'</div>'+
-        '<input type="text" id="de-add" placeholder="Add an artist&hellip;" autocomplete="off" autocapitalize="off" style="width:100%;margin-top:8px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:9px 11px;font:inherit"><div class="lg-chips" id="de-sugg" style="margin-top:6px"></div>'+
-        '<div class="vrv-q">Note</div><textarea id="de-note" style="width:100%;min-height:80px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:10px;font:inherit">'+esc(d.note||'')+'</textarea>'+
+        '<input type="text" id="de-add" placeholder="Add an artist&hellip;" autocomplete="off" autocapitalize="off" style="width:100%;margin-top:8px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:9px 11px"><div class="lg-chips" id="de-sugg" style="margin-top:6px"></div>'+
+        '<div class="vrv-q">Note</div><textarea id="de-note" style="width:100%;min-height:80px;background:var(--surface-2);border:1px solid var(--border);border-radius:var(--radius);color:var(--fg);padding:10px;font:500 var(--fs-md)/var(--lh-md) var(--body)">'+esc(d.note||'')+'</textarea>'+
         '<button class="go" id="de-save" type="button">Save changes</button><div class="rv-msg" id="de-msg"></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
