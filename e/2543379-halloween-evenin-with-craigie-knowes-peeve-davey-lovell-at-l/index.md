@@ -1,10 +1,10 @@
 # Halloween Evenin' with Craigie Knowes + Peeve + Davey & LOVELL at La Cheetah Club
 
-Halloween Evenin' with Craigie Knowes + Peeve + Davey & LOVELL at La Cheetah Club on Sat 26 Sept, Glasgow. 3 acts on the bill: Craigie Knowes, LOVELL and Peeve. House and Electro. Preview the line-up and save it on soundcheck.
+Halloween Evenin' with Craigie Knowes + Peeve + Davey & LOVELL at La Cheetah Club on Sat 31 Oct, Glasgow. 3 acts on the bill: Craigie Knowes, LOVELL and Peeve. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Sat, 31 Oct 2026 |
 | Venue | La Cheetah Club |
 | City | Glasgow |
 

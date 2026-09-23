@@ -9,8 +9,8 @@ Peeve is a house and techno artist tracked on soundcheck, with 25 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Sub Club | Glasgow |
-| Sat, 26 Sept 2026 | La Cheetah Club | Glasgow |
 | Tue, 29 Sept 2026 | La Cheetah Club | Glasgow |
+| Sat, 31 Oct 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 2
 | Sat, 26 Sept 2026 | SUPERNOVA | Audera, Claudio Ricci, Enamour, Landikhan |
 | Sun, 27 Sept 2026 | Nido | Paloma, Yamil |
 | Mon, 28 Sept 2026 | Peace N´Music Closing Party |  |
-| Tue, 29 Sept 2026 | Ethereal |  |
+| Tue, 29 Sept 2026 | Ethereal | Clint Lee, Pako S, Words of Niō |
 | Wed, 30 Sept 2026 | Namaste | Defex, IBÁN MENDOZA |
 | Thu, 1 Oct 2026 | Sven Väth - T.R.A.N.C.E | Maurizio Schmitz, Sven Vath |
 | Sat, 3 Oct 2026 | SUPERNOVA x KAMAYA | Bill Hates, CJ Jeff, Igor Marijuan, M.A.N.D.Y. |

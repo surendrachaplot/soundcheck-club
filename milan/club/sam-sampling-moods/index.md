@@ -10,7 +10,7 @@ SAM Sampling Moods is a music venue in Milan listed on soundcheck. 3 upcoming gi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | RITUALIA - Begin To Fall | Giamma Soren, Luce Clandestina |
 | Sat, 26 Sept 2026 | RITUALIA: Begin To Fall | Giamma Soren, Luca Ruiz, Luce Clandestina, e.nzo |
-| Sun, 18 Oct 2026 | Log Out x Sam - Sampling Moods |  |
+| Sun, 18 Oct 2026 | Log Out x Sam - Sampling Moods (Free Entry) |  |
 
 ## Address
 

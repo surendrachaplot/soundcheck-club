@@ -9,7 +9,7 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming gig
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | Cruzz, KICKREY, Madson Carpenter, NOQIA, Pharah, Shogun, Thaïs LORME, VLB (1) |
-| Fri, 25 Sept 2026 | Ministerium Club // Kevin Saunderson | Kevin Saunderson |
+| Fri, 25 Sept 2026 | Ministerium Club // Kevin Saunderson, GGGG & Hélio | GGGG, Helio, Kevin Saunderson |
 | Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions Second Shift | Client, John Wick, Salbany, aalice |
 | Thu, 1 Oct 2026 | Riktus Invites Hard Bock Drauf with DeGuzman, PENELOPE, JOSH YOB | Anastasiya Ty, DeGuzman, Kafox, Penelope (2) |
 | Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |

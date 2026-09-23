@@ -1,8 +1,8 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
+Benny Rodrigues is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sun, 27 Sept 2026.
 
-Benny Rodrigues is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 4 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
+Benny Rodrigues is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 4 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Thuishaven, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 200 set
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |

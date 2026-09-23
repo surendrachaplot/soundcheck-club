@@ -1,8 +1,8 @@
 # Squaric
 
-Squaric is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
+Squaric is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
 
-Squaric is a techno and experimental artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: DNA. CLUB, Berlin on Fri 25 Sept.
+Squaric is a techno and experimental artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: DNA. CLUB, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Squaric is a techno and experimental artist tracked on soundcheck, with 99 sets 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 | Fri, 23 Oct 2026 | TBA - Secret Location | Amsterdam |
+| Sat, 31 Oct 2026 | TBA - Secret Warehouse (Barcelona) | Barcelona |
 
 ## Recently played
 

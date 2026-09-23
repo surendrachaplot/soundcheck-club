@@ -1,8 +1,8 @@
 # VNTM
 
-VNTM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
+VNTM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
 
-VNTM is a techno and house artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Beswerda, Hedda Stenberg and Mees Salomé. Next up: Lofi, Amsterdam on Sat 26 Sept.
+VNTM is a techno and house artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Beswerda, Hedda Stenberg and Mees Salomé. Next up: Lofi, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VNTM is a techno and house artist based in Netherlands, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Sat, 14 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
 

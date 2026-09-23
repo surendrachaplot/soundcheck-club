@@ -1,13 +1,15 @@
 # Caim
 
-Caim is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DURO, Milan on Sat, 17 Oct 2026.
+Caim is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gehør, Oslo on Fri, 25 Sept 2026.
 
-Caim is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 22 more. Often billed alongside Marie K (1), Eversines and Pieter Jansen. Next up: DURO, Milan on Sat 17 Oct.
+Caim is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Marie K (1), Eversines and Pieter Jansen. Next up: Gehør, Oslo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Gehør | Oslo |
+| Fri, 25 Sept 2026 | Gehør | Oslo |
 | Sat, 17 Oct 2026 | DURO | Milan |
 | Sat, 17 Oct 2026 | DURO | Milan |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |

@@ -13,7 +13,7 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, 
 | Sat, 26 Sept 2026 | 1-2-3-4 x Sekta Selekta | Kurilo, O'FortyFour, Salut 80, Verde |
 | Sat, 26 Sept 2026 | Overtime: Kondrat | Kondrat |
 | Sun, 27 Sept 2026 | Sekta Selekta: Juan Gorizzizzo ALL NIGHT LONG |  |
-| Sat, 3 Oct 2026 | Blotski Beat: Robodrum, Pawel Bolt, Dekoszula, Badalian | Badalian, Pawel Blot |
+| Sat, 3 Oct 2026 | Blotski Beat: Robodrum, Pawel Blot, DeKoszula, Badalian | Badalian, Pawel Blot |
 | Sat, 10 Oct 2026 | TAXOPHONE by Emil Zenko | BUDZKO, Emil Zenko, Sakrum |
 
 ## Address

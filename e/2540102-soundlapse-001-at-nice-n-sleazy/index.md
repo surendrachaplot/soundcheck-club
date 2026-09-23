@@ -1,6 +1,6 @@
 # SOUNDLAPSE 001 at Nice N Sleazy
 
-SOUNDLAPSE 001 at Nice N Sleazy on Thu 29 Oct, Glasgow. 2 acts on the bill: Julz Lever and Sirius Alza. Techno. Preview the line-up and save it on soundcheck.
+SOUNDLAPSE 001 at Nice N Sleazy on Thu 29 Oct, Glasgow. 3 acts on the bill: Jordan smith, Julz Lever and Sirius Alza. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SOUNDLAPSE 001 at Nice N Sleazy on Thu 29 Oct, Glasgow. 2 acts on the bill: Julz
 
 ## Line-up
 
+- Jordan smith
 - Julz Lever
 - Sirius Alza
 

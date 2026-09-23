@@ -14,7 +14,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam | Alexandra, DJ Slim Fit, Enchanted Rhythms, Meat, metaverde |
 | Sat, 10 Oct 2026 | Mission: Hajdar's Bday | Dorian Paic, Franco Cinelli, Tobi Neumann |
-| Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
+| Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro [Free Entry with RA] | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
 | Fri, 16 Oct 2026 | Healing Channel: Ron Obvious, Nina Yamada, DJ Pipe b2b SiSi, Garrett David | DJ Pipe, Garrett David, Nina Yamada, Ron Obvious, SiSi (2) |
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY | Berto (DE), Fab Massimo, Fast (DE), Kaufmann, Leon Licht, Roman Adam, Rosa Kante, Sarah Wild, unDs |
 | Fri, 23 Oct 2026 | OFF THE GRID x IKIGAI | Diamin, Kithers, Levat, Onirik, Royston Bassmann |

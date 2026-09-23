@@ -9,7 +9,7 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 4 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | ADE 26: Melodic Deep - Ten Years In Motion Club Train | Ape Drums, Ede, Fairplay, Floyd Lavine, Ivan Masa, KENZA KAYATI, Megatronic, Yulia Niko |
-| Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience [Last Backstage Tickets]  | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Van Moon, ZARE |
+| Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Van Moon, ZARE |
 | Sat, 24 Oct 2026 | TDE x ADE - Club Train by Night | Barbara Tucker, Bustin' Loose, Crystal Touch, Dan Cluskey, Fusco Stefano, Georgie Porgie, Javier Anxiety, Magnolia_, Marcel Vogel, Monsieur Van Pratt, Old as Funk, Poppi, Sam Karlson, Stacy Kidd, Tatiana |
 | Sun, 25 Oct 2026 | ADE Train Sunrise Express - IAM Productions | Albin Brezlan, Joris Turenhout, Joyhauser, Juliet Fox, KAS:ST, Nelayan, Sanel |
 

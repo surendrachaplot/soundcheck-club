@@ -1,13 +1,14 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
+HIJINX is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-HIJINX is a dubstep and bass artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Chicago and Leeds and 7 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
+HIJINX is a dubstep and bass artist tracked on soundcheck, with 24 sets logged across Berlin, Bristol, Chicago and Leeds and 7 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Thu, 12 Nov 2026 | Chop Shop & 1st Ward | Chicago |
 
 ## Recently played

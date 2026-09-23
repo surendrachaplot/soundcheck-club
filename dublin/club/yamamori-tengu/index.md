@@ -10,7 +10,7 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 26 upcoming gigs
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UCDJS present: Back To Basics |  |
 | Fri, 25 Sept 2026 | Tengu presents: Prozak's Residency with Lorcan Kelly b2b DIEBYVEG + Benson | Benson, DIEBYVEG, Lorcan Kelly, Prozak (IRL) |
-| Sat, 26 Sept 2026 | Tengu presents: Sonja Moonear | Dufi, Dufi (2), Sonja Moonear |
+| Sat, 26 Sept 2026 | Tengu presents: Sonja Moonear | Dufi, Sonja Moonear |
 | Thu, 1 Oct 2026 | MAZE X - TENGU TAKEOVER |  |
 | Thu, 1 Oct 2026 | chroma4ever003: Subtle, 2manycolours, Lainxoxo, Murky, Omniscient | 2manycolours |
 | Fri, 2 Oct 2026 | Tengu presents: Cormac's Residency with Tender | Bull Horris, Cormac, Mercorn |

@@ -1,14 +1,15 @@
 # MUCK
 
-MUCK is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sala Apolo, Barcelona on Sat, 26 Sept 2026.
+MUCK is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sala Apolo, Barcelona on Sat, 26 Sept 2026.
 
-MUCK is a bass and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside EYRA, Just Claudia and Adrasha. Next up: Sala Apolo, Barcelona on Sat 26 Sept.
+MUCK is a club and bass artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Barcelona. Often billed alongside EYRA, Just Claudia and Adrasha. Next up: Sala Apolo, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Sala Apolo | Barcelona |
+| Sat, 24 Oct 2026 | El Pumarejo Barcelona | Barcelona |
 
 ## Recently played
 

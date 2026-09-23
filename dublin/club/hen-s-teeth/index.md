@@ -10,7 +10,7 @@ Hen's Teeth is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | STOP THE LIGHTS! |  |
 | Sat, 17 Oct 2026 | Imbas presents Blimp | Blimp, LIAL, Sémaé |
-| Sat, 17 Oct 2026 | Imbas presents Workshop | Blimp, LIAL |
+| Sat, 17 Oct 2026 | Imbas presents Music Producers Workshop  | Blimp, LIAL |
 | Sat, 31 Oct 2026 | Disco Dána with Cian Ó Cíobháin | Cian Ó Cíobháin |
 | Sat, 19 Dec 2026 | Hotel Danesfield | DJ-CK, Tyvion Valentine, iasc |
 

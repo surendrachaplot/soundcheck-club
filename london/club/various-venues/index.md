@@ -8,7 +8,7 @@ Various Venues is a music venue in London listed on soundcheck. 1 upcoming gig, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | AVA London 2026 | AliA, Bitter Babe, Blawan, Body Clinic, Bonobo, Croatian Amor, Elkka, Evian Christ, Fabio, Footsie, Grooverider, Holly Lester, JWY (1), Jamz Supernova, Mala, Moby, Nadine Noor, Oklou, Optimo (Espacio), Richie Hawtin, Sama' Abdulhadi, Shy One, Skin On Skin, Swoose, The Avalanches, mi-el, patten |
+| Thu, 24 Sept 2026 | AVA London 2026 | AliA, Bitter Babe, Blawan, Body Clinic, Bonobo, Croatian Amor, Elkka, Evian Christ, Fabio, Footsie, Grooverider, Holly Lester, JWY (1), Jamz Supernova, Mala, Moby, Nadine Noor, Oklou, Optimo (Espacio), Sama' Abdulhadi, Shy One, Skin On Skin, Swoose, The Avalanches, mi-el, patten |
 
 ## Address
 

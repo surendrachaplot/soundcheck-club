@@ -1,14 +1,15 @@
 # Michael Lane
 
-Michael Lane is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Michael Lane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
-Michael Lane is a house and disco artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin and London. Often billed alongside Malte Süß, DJ Petite and ADAM MUNNINGS. Next up: OXI, Berlin on Sat 26 Sept.
+Michael Lane is a house and disco artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and London. Often billed alongside Malte Süß, DJ Petite and ADAM MUNNINGS. Next up: OXI, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | OXI | Berlin |
+| Sat, 31 Oct 2026 | OXI | Berlin |
 
 ## Recently played
 

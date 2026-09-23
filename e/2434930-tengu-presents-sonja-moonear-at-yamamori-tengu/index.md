@@ -1,6 +1,6 @@
 # Tengu presents: Sonja Moonear at Yamamori Tengu
 
-Tengu presents: Sonja Moonear at Yamamori Tengu on Sat 26 Sept, Dublin. 3 acts on the bill: Dufi, Dufi (2) and Sonja Moonear. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Tengu presents: Sonja Moonear at Yamamori Tengu on Sat 26 Sept, Dublin. 2 acts on the bill: Dufi and Sonja Moonear. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Tengu presents: Sonja Moonear at Yamamori Tengu on Sat 26 Sept, Dublin. 3 acts o
 ## Line-up
 
 - Dufi
-- Dufi (2)
 - Sonja Moonear
 
 *Source: [soundcheck](https://soundcheck.club/e/2434930-tengu-presents-sonja-moonear-at-yamamori-tengu/)*

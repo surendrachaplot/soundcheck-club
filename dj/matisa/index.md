@@ -1,8 +1,8 @@
 # Matisa
 
-Matisa is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Fri, 25 Sept 2026.
+Matisa is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Fri, 25 Sept 2026.
 
-Matisa is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside CHRIS STASSY, DJ Tennis and Josh Baker. Next up: Volt Club Milano, Milan on Fri 25 Sept.
+Matisa is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside CHRIS STASSY, DJ Tennis and Josh Baker. Next up: Volt Club Milano, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Matisa is a house and techno artist tracked on soundcheck, with 124 sets logged 
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
+| Sat, 14 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
 

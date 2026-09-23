@@ -1,8 +1,8 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Etnica 30 Years Celebration - Origin Of Trance" on Fri, 25 Sept 2026.
+Pumpehuset is a music venue in Copenhagen with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Etnica 30 Years Celebration - Origin Of Trance" on Fri, 25 Sept 2026.
 
-Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Cassius, Conway, nimino and Nyboe. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
+Pumpehuset is a music venue in Copenhagen listed on soundcheck. 7 upcoming gigs, with line-ups including Cassius, Conway, MASIV and nimino and 1 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs,
 | Thu, 15 Oct 2026 | nimino | nimino |
 | Wed, 21 Oct 2026 | Conway The Machine feat. Daringer (US) + Trepac + Nyboe | Conway, Nyboe |
 | Fri, 30 Oct 2026 | ESCAPISM presents: Cassius Club 360° + Speciel Guest | Cassius |
+| Thu, 5 Nov 2026 | Headline Flip | MASIV |
 
 ## Address
 

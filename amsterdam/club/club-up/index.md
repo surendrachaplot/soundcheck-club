@@ -1,14 +1,15 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SKINNYJEANS" on Fri, 25 Sept 2026.
+Club Up is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SKINNYJEANS" on Fri, 25 Sept 2026.
 
-Club Up is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Becking, Chunky, Danny Snowden and DART and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
+Club Up is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Becking, Chunky, Danny Snowden and DART and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | SKINNYJEANS |  |
+| Sat, 26 Sept 2026 | Studio 10 |  |
 | Fri, 2 Oct 2026 | Afro Slush |  |
 | Wed, 21 Oct 2026 | Re'Mind invites DJ Q & Douvelle19 - ADE edition | Becking, DART, DJ Q, Douvelle19, Mar'One, Yemi |
 | Thu, 22 Oct 2026 | ADE Club Up Take-over with Stef Davidse, Danny Snowden, Ryan Nicholls, TBA, TBA | Danny Snowden, Lauren Steel, Micky Hurts, Ryan Nicholls, Stef Davidse, Timmy P |

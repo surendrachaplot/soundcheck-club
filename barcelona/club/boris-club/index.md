@@ -16,7 +16,7 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 | Sat, 3 Oct 2026 | Boris pres. SAMM B2B AJNA | AJNA, HeAndMe, Samm (BE) |
 | Fri, 9 Oct 2026 | Boris Club | Marcel BS, Odrik |
 | Sat, 10 Oct 2026 | Boris pres. Dimitri From Paris, YALL | Dimitri From Paris, K:ROL |
-| Fri, 16 Oct 2026 | Boris pres. Catz 'N Dogz | Catz 'N Dogz |
+| Fri, 16 Oct 2026 | Boris pres. Catz 'N Dogz | Catz 'N Dogz, Oriol Calvo |
 | Sat, 31 Oct 2026 | Funkey (Halloween) | Jordi Carreras |
 
 ## Address

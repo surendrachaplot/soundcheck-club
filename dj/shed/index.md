@@ -1,8 +1,8 @@
 # Shed
 
-Shed is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+Shed is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
-Shed is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Bassiani, Tbilisi on Fri 25 Sept.
+Shed is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Shed is a techno and house artist based in Germany, tracked on soundcheck, with 
 | Fri, 16 Oct 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | Standard Time | Toronto |
 | Sat, 24 Oct 2026 | TBA | Mexico City |
+| Sat, 14 Nov 2026 | Lofi | Amsterdam |
 
 ## Recently played
 

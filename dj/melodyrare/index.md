@@ -1,8 +1,8 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
+Melody RA+RE is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
 
-Melody RA+RE is a house and electro artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Hotel Butterfly, Rome on Wed 23 Sept.
+Melody RA+RE is a house and electro artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Hotel Butterfly, Rome on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 126 sets 
 | Fri, 9 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 17 Oct 2026 | Distrikt | Leeds |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 24 Oct 2026 | Rex Club | Paris |
 
 ## Recently played
 

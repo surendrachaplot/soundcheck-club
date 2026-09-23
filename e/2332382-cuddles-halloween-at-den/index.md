@@ -1,6 +1,6 @@
 # Cuddles Halloween at ÆDEN
 
-Cuddles Halloween at ÆDEN on Sat 31 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Cuddles Halloween at ÆDEN on Sat 31 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

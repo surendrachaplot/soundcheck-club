@@ -3574,7 +3574,7 @@
     .fp-ev-share-ic{ position:absolute; top:14px; right:14px; z-index:4; width:38px; height:38px; border-radius:50%; border:1px solid var(--border); background:rgba(22,16,42,.6); color:var(--fg); display:inline-flex; align-items:center; justify-content:center; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color var(--dur-1), color var(--dur-1); }
     .fp-ev-share-ic:hover{ border-color:var(--sel); color:var(--sel-text); }
     .fp-ev-share-ic svg{ width:17px; height:17px; }
-    .fp-event{ position:relative; }
+    .fp-event, .fp-artist{ position:relative; }   /* the share disc is absolute to the page */
     /* WHO PUT THE NIGHT ON — a credit under the description, above Tickets.
        It has to carry its own link colour: the promoter line used to live inside
        .fp-ev-venue and borrowed that block's .pr-link rule, so moving the markup
@@ -4559,7 +4559,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790161252132">
+<meta name="sc-build" content="1790167074060">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4618,7 +4618,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">141 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">6 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7532,7 +7532,10 @@
       window.prompt('Copy this link:', opts.url);
     }
     function shareArtist(slug, name){
-      var url=shareUrl({artist:slug, d:currentDate||null});
+      // The artist's OWN page, not the page you happened to be on — the same
+      // canonical-path rule shareEvent follows. A shared link must open what it
+      // names on any device, signed in or not.
+      var url=location.origin+djHref(slug);
       doShare({ title:name||'Listen on soundcheck', text:'Listen to '+(name||'this artist')+' on soundcheck', url:url });
     }
     function shareEvent(id, title, venue){
@@ -10343,6 +10346,8 @@
         var gemLine=(a.hiddenGem&&a.hiddenGem.level)?'<div class="fp-gemline"><span class="gem-pill"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</span></div>':'';
         var nextVenueAttr=(nextGig&&nextGig.venue)?' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"':'';
         var h='<div class="fp-artist">'+
+          // SAME control as the event page — one share button in the product.
+          '<button class="fp-ev-share-ic" id="fp-art-share" type="button" aria-label="Share this artist"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
           '<div class="fp-hero">'+
             '<div class="fp-photo">'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+
             '<div class="fp-hx">'+
@@ -10391,6 +10396,7 @@
         if(!a.isOwner) h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Are you '+esc(a.name||slug)+' (or your team)?</div><div class="cb-s">Claim this page to edit your bio, confirm your tour dates and post to the people who follow you — free, always.</div></div><button class="cb-btn" id="ap-claim" type="button">Claim this page</button></div>';
         h+='</div>';
         openPanel(h);
+        var ashr=document.getElementById('fp-art-share'); if(ashr) ashr.addEventListener('click',function(){ shareArtist(slug, a.name||slug); });
         wireEntityOwner('artist', slug, a.name||slug, a);
         var apClaim=document.getElementById('ap-claim'); if(apClaim) apClaim.addEventListener('click',function(){ openClaimModal('artist', a.name||slug, slug); });
         var _acanon=location.origin+SC_BASE+'dj/'+slug+'/';

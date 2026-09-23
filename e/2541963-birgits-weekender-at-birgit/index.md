@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 25 Sept, Berlin. 1 act on the bill: gem.ini. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 25 Sept, Berlin. 2 acts on the bill: gem.ini and MARIE CLAIRE. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Birgits WEEKENDER on Fri 25 Sept, Berlin. 1 act on the bill: gem.ini. Techno and
 ## Line-up
 
 - gem.ini
+- MARIE CLAIRE
 
 *Source: [soundcheck](https://soundcheck.club/e/2541963-birgits-weekender-at-birgit/)*

@@ -1,14 +1,15 @@
 # Abstract Division
 
-Abstract Division is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
+Abstract Division is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
 
-Abstract Division is a techno and house artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside ROD, Beste Hira and Grace Dahl. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
+Abstract Division is a techno and house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside ROD, Beste Hira and Grace Dahl. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 28 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

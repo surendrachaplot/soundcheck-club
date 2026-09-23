@@ -17,7 +17,7 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs
 | Sun, 4 Oct 2026 | CTC x 333: Elcammgguod | elcammgguod |
 | Wed, 7 Oct 2026 | LOLITE x TECHNO CULTURE |  |
 | Sat, 10 Oct 2026 | Finesse: Ángel Negrín | Angel Negrin, ITEM9, SunēX, TiLA |
-| Sat, 24 Oct 2026 | Dark Protocol W / ona:v / Residents  | ona:v |
+| Sat, 24 Oct 2026 | Dark Protocol W / ona:v / Residents  | Jordan smith, ona:v |
 
 ## Address
 

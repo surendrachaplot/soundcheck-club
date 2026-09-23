@@ -1,8 +1,8 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey" on Fri, 25 Sept 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey" on Fri, 25 Sept 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Absoluut, Alberta Balsam, Alex (ES) and Annett Gapstream and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Absoluut, Alberta Balsam, Alex (ES) and Annett Gapstream and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 

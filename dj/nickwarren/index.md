@@ -1,8 +1,8 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 26 Sept 2026.
+Nick Warren is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 26 Sept 2026.
 
-Nick Warren is a progressive house and house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Jolene Downtown Miami, Miami on Sat 26 Sept.
+Nick Warren is a progressive house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: Jolene Downtown Miami, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 | Fri, 2 Oct 2026 | The Limelight | Belfast |
 | Sat, 3 Oct 2026 | Palm House | Liverpool |
 | Fri, 9 Oct 2026 | Reddo Warsaw Club | Warsaw |
+| Sat, 17 Oct 2026 | Óbuda Bay | Budapest |
 | Sun, 18 Oct 2026 | Bridge Gardens | Glasgow |
 | Wed, 21 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - AMK Club, Almagro | Buenos Aires |

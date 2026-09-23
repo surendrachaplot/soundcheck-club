@@ -1,6 +1,6 @@
 # southstar  /  Gerardo Niva  /  doccudder at Mondo
 
-southstar  /  Gerardo Niva  /  doccudder at Mondo on Thu 24 Sept, Madrid. 4 acts on the bill: DJ SWISHERMAN, doccudder, Gerardo Niva and southstar. Preview the line-up and save it on soundcheck.
+southstar  /  Gerardo Niva  /  doccudder at Mondo on Thu 24 Sept, Madrid. 3 acts on the bill: doccudder, Gerardo Niva and southstar. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ southstar  /  Gerardo Niva  /  doccudder at Mondo on Thu 24 Sept, Madrid. 4 acts
 
 ## Line-up
 
-- DJ SWISHERMAN
 - doccudder
 - Gerardo Niva
 - southstar

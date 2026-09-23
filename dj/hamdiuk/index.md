@@ -1,8 +1,8 @@
 # Hamdi (UK)
 
-Hamdi (UK) is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Radius, Chicago on Sat, 10 Oct 2026.
+Hamdi (UK) is a Dubstep and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Radius, Chicago on Sat, 10 Oct 2026.
 
-Hamdi (UK) is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Austin and Berlin and 33 more. Often billed alongside SICARIA, Ahadadream and MPH (1). Next up: Radius, Chicago on Sat 10 Oct.
+Hamdi (UK) is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Austin and Berlin and 33 more. Often billed alongside SICARIA, Ahadadream and MPH (1). Next up: Radius, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hamdi (UK) is a dubstep and bass artist based in United Kingdom, tracked on soun
 | Sat, 24 Oct 2026 | Lincoln Factory | Detroit |
 | Thu, 12 Nov 2026 | Club Magno | Madrid |
 | Sat, 21 Nov 2026 | Outernet Live | London |
+| Fri, 27 Nov 2026 | Parallel | Amsterdam |
 | Sat, 28 Nov 2026 | Sawmills | Bristol |
 
 ## Recently played

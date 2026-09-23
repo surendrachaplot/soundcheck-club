@@ -9,7 +9,7 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 u
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lumya X Azul Rooftop | Althoff, ERRANT, YOKER |
-| Sun, 27 Sept 2026 | Sunset Rooftop Party - Barceloneta [Free Access] | Dimarziio, Gaston Zagha, Renzo Fucile |
+| Sun, 27 Sept 2026 | Sunset Rooftop Party La Merce - Barceloneta [Free Access] | Dimarziio, Gaston Zagha, Renzo Fucile |
 
 ## Address
 

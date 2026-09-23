@@ -1,8 +1,8 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BAZAAR" on Wed, 23 Sept 2026.
+Panic Room is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BAZAAR" on Wed, 23 Sept 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including Perdu, Shonen Bat and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Perdu, Shonen Bat and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 

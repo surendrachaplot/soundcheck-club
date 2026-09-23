@@ -1,14 +1,15 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Toru Ikemoto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ingang, Amsterdam on Thu, 22 Oct 2026.
 
-Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Brisbane and Kyoto and 8 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: ingang, Amsterdam on Thu 22 Oct.
+Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brisbane and Kyoto and 8 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: ingang, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
+| Sat, 31 Oct 2026 | OXI | Berlin |
 | Fri, 4 Dec 2026 | Astoria | Turin |
 
 ## Recently played

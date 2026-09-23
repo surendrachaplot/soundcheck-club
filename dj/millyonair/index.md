@@ -1,14 +1,15 @@
 # Milly on Air
 
-Milly on Air is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
+Milly on Air is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
 
-Milly on Air is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and Eats Everything. Next up: Algha's Plantroom, London on Sat 26 Sept.
+Milly on Air is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Brighton, Bristol and London and 2 more. Often billed alongside Gallegos, J.Rains and A For Alpha. Next up: Algha's Plantroom, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Algha's Plantroom | London |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Milly on Air is a house and techno artist tracked on soundcheck, with 72 sets lo
 
 ## Shares bills with
 
-Gallegos, J.Rains, Eats Everything
+Gallegos, J.Rains, A For Alpha
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millyonair/)*

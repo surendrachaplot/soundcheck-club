@@ -1,8 +1,8 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE" on Fri, 25 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "RAZZCLUBS: Lizz presenta La Chismoteka: Dale Mami + BADSISTA The residency & MORE" on Fri, 25 Sept 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Anthony Linell, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Andrae Durden, Anthony Linell, Antiribeiro and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 | Sun, 11 Oct 2026 | Torax x Journeys: Anthony Linell, Claudio PRC, Philippa Pacho, Rrose, mad miran, oma totem | Anthony Linell, Claudio PRC, Jhort, Philippa Pacho, Rrose, Verushka, mad miran, oma totem |
 | Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 13 Nov 2026 | SPORTS |  |
+| Sat, 21 Nov 2026 | Pre-human x Refractor | Andrae Durden, Convoluted Mental Mirror, Malesa |
 | Thu, 26 Nov 2026 | COBRAH | COBRAH |
 
 ## Address

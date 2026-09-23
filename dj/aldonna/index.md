@@ -1,8 +1,8 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Aldonna is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
-Aldonna is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
+Aldonna is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Aldonna is a house and techno artist tracked on soundcheck, with 135 sets logged
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Loft Studios | London |
+| Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

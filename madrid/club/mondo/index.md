@@ -8,7 +8,7 @@ Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | southstar  /  Gerardo Niva  /  doccudder   | DJ SWISHERMAN, Gerardo Niva, doccudder, southstar |
+| Thu, 24 Sept 2026 | southstar  /  Gerardo Niva  /  doccudder   | Gerardo Niva, doccudder, southstar |
 | Sat, 26 Sept 2026 | AFTERPARTY: Funk Tribu / Gerardo Niva / Kara Okay B2B Freddi | Freddi, Funk Tribu, Gerardo Niva, Kara Okay |
 | Thu, 1 Oct 2026 | DJ Fuckoff / Gerardo Niva / doccudder | DJ Fuckoff, Gerardo Niva, doccudder |
 | Sat, 3 Oct 2026 | AFTERPARTY: Andres Campo B2B Gerardo Niva / Ollie Lishman / BIXBITA B2B pavvvvvvlo | Andres Campo, BIXBITA, DJ SWISHERMAN, Gerardo Niva, Ollie Lishman, pavvvvvvlo |

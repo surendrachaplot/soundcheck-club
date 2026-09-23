@@ -1,6 +1,6 @@
 # EDEN presents HAAi b2b Romy at Athens Conservatoire - Ωδείον Αθηνών
 
-EDEN presents HAAi b2b Romy at Athens Conservatoire - Ωδείον Αθηνών on Sun 25 Oct, Athens. 3 acts on the bill: HAAi, jayjayGR and Romy. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+EDEN presents HAAi b2b Romy at Athens Conservatoire - Ωδείον Αθηνών on Sun 25 Oct, Athens. 4 acts on the bill: HAAi, jayjayGR, Romy and Saber Rider. Tech House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ EDEN presents HAAi b2b Romy at Athens Conservatoire - Ωδείον Αθηνών 
 - HAAi
 - jayjayGR
 - Romy
+- Saber Rider
 
 *Source: [soundcheck](https://soundcheck.club/e/2493688-eden-presents-haai-b2b-romy-at-athens-conservatoire/)*

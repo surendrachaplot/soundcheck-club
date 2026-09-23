@@ -1,13 +1,14 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
 
-Rooléh is a house and tech house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
+Rooléh is a house and tech house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Volt Club Milano, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 3 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |

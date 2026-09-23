@@ -1,14 +1,15 @@
 # Cobahn
 
-Cobahn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Cobahn is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ingang, Amsterdam on Thu, 22 Oct 2026.
 
-Cobahn is a techno and experimental artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 8 more. Often billed alongside Woody92, Remma and Konduku. Next up: ingang, Amsterdam on Thu 22 Oct.
+Cobahn is a techno and experimental artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 8 more. Often billed alongside Woody92, Remma and Konduku. Next up: ingang, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | ingang | Amsterdam |
+| Sat, 31 Oct 2026 | OXI | Berlin |
 
 ## Recently played
 

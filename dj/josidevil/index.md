@@ -1,14 +1,15 @@
 # Josi Devil
 
-Josi Devil is a Garage and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
+Josi Devil is a Garage and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
-Josi Devil is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside Joy Orbison, Just Jane and TSVI. Next up: The Warehouse, Leeds on Fri 9 Oct.
+Josi Devil is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside Joy Orbison, Just Jane and TSVI. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Warehouse | Leeds |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

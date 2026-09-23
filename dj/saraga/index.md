@@ -1,8 +1,8 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Saraga is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Saraga is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and AGELESS. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Saraga is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Saraga is a house and tech house artist tracked on soundcheck, with 75 sets logg
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | Floyd | Miami |
+| Fri, 23 Oct 2026 | Fosbury and Sons | Amsterdam |
 | Fri, 6 Nov 2026 | TBA | Sao Paulo |
 | Fri, 6 Nov 2026 | Hotel Unique | Sao Paulo |
 
@@ -26,6 +27,6 @@ Saraga is a house and tech house artist tracked on soundcheck, with 75 sets logg
 
 ## Shares bills with
 
-Guy Gerber, Bedouin, AGELESS
+Guy Gerber, Bedouin, Ramyen
 
 *Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

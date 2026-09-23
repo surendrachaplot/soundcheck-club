@@ -1,13 +1,14 @@
 # IZZIT
 
-IZZIT is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lakota, Bristol on Fri, 30 Oct 2026.
+IZZIT is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-IZZIT is a house and tech house artist tracked on soundcheck, with 45 sets logged across Bristol, Cardiff and London. Often billed alongside Lily Huu, Phia500 and DASHY. Next up: Lakota, Bristol on Fri 30 Oct.
+IZZIT is a house and tech house artist tracked on soundcheck, with 46 sets logged across Bristol, Cardiff and London. Often billed alongside Lily Huu, Phia500 and DASHY. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Fri, 30 Oct 2026 | Lakota | Bristol |
 
 ## Recently played

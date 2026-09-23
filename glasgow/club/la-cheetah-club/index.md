@@ -12,12 +12,12 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming gi
 | Thu, 24 Sept 2026 | Deep Purple: Jade Seatle | Arlo Duke, Jade Seatle |
 | Fri, 25 Sept 2026 | Midnight Bass 9th Birthday with Janaway (Up Ya Archives / Da Demolition Squad) | ArthurDnB, Janaway, SOLECTA |
 | Sat, 26 Sept 2026 | La Cheetah presents: Antal (All Night - 5 Hour Set) | Antal |
-| Sat, 26 Sept 2026 | Halloween Evenin' with Craigie Knowes + Peeve + Davey & LOVELL | Craigie Knowes, LOVELL, Peeve |
 | Sun, 27 Sept 2026 | KEEP ON with ButhoTheWarrior | ButhoTheWarrior, David Barbarossa, OOFT |
 | Tue, 29 Sept 2026 | CLUB CUT | Babyccino, Bruce Sangster, Peeve |
 | Thu, 1 Oct 2026 | Sidechain Vol. V: Loz, Taos Hum and Jos.heat | Jos.heat |
 | Fri, 2 Oct 2026 | Lezure 088: Eclair Fifi b2b Parts Unknown, Lowree b2b Sloan of Lezure | Eclair Fifi, Lowree, Sloan (2) |
 | Sat, 3 Oct 2026 | Deface x MXER x Euravya Launch Party |  |
+| Tue, 6 Oct 2026 | CLUB CUT: WAX ONLY | Brody James, SMK (1), Surplus |
 
 ## Address
 

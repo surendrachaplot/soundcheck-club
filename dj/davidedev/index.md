@@ -1,14 +1,15 @@
 # Davide Dev
 
-Davide Dev is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
+Davide Dev is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
 
-Davide Dev is a house and disco artist based in Italy, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, London and Milan and 4 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: PRST, Vienna on Sat 26 Sept.
+Davide Dev is a house and disco artist based in Italy, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, London and Milan and 5 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: PRST, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | PRST | Vienna |
+| Fri, 9 Oct 2026 | Palais Mascotte | Zurich |
 | Sat, 10 Oct 2026 | BAR15 | Stockholm |
 | Sat, 24 Oct 2026 | Aahhh Rooftop | Munich |
 

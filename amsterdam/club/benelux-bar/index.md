@@ -1,14 +1,15 @@
 # Benelux BAR
 
-Benelux BAR is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Curated by Aems" on Fri, 25 Sept 2026.
+Benelux BAR is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Curated by Aems" on Fri, 25 Sept 2026.
 
-Benelux BAR is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Berkan V8, Fais Le Beau, Fakear and Hector Moralez and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
+Benelux BAR is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Berkan V8, DJ Dazy, Dj Jes and Fais Le Beau and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Curated by Aems |  |
+| Sat, 26 Sept 2026 | Vessel presents: Inland Knights, along with Hector Moralez, Jason Hodges, + more | DJ Dazy, Dj Jes, Hector Moralez, Inland Knights, J-Dub, Jason Hodges, Jason Merle, Rosie Love, Wally Callerio |
 | Wed, 21 Oct 2026 | ADE: okgiorgio, Fakear + more names TBA | Fakear, okgiorgio |
 | Thu, 22 Oct 2026 | ADE: Klub Analog x Benelux | Fais Le Beau, Tomoki Tamura, Varuna Agosti |
 | Thu, 22 Oct 2026 | Klub Analog | Fais Le Beau, Tomoki Tamura, Varuna Agosti |

@@ -1,8 +1,8 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BERHTA, Washington DC on Sat, 26 Sept 2026.
+John Digweed is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BERHTA, Washington DC on Sat, 26 Sept 2026.
 
-John Digweed is a progressive house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: BERHTA, Washingtondc on Sat 26 Sept.
+John Digweed is a progressive house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: BERHTA, Washingtondc on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 | Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Sat, 31 Oct 2026 | Bikini Club | Barcelona |
 | Sat, 7 Nov 2026 | WestWeelde | Amsterdam |
+| Sat, 21 Nov 2026 | Óbuda Bay | Budapest |
 | Sat, 28 Nov 2026 | block. | Dublin |
 | Sat, 5 Dec 2026 | The Roundhouse | London |
 

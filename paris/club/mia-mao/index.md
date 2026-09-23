@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Westfall X Reload: two girls one mom, Westfall, Saphyr &More" on Thu, 24 Sept 2026.
+Mia Mao is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Westfall X Reload: two girls one mom, Westfall, Saphyr &More" on Thu, 24 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Adame DJ, AISHA, Alba Franch and Alex Nantaya and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including Adame DJ, AISHA, Alba Franch and Alex Nantaya and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 

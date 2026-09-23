@@ -1,8 +1,8 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
+Shannen SP is a Amapiano and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ääniwalli, Helsinki on Sat, 26 Sept 2026.
 
-Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Basel and Berlin and 17 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Ääniwalli, Helsinki on Sat 26 Sept.
+Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Barcelona and Basel and 18 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Ääniwalli, Helsinki on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shannen SP is an amapiano and club artist based in United Kingdom, tracked on so
 | Sat, 26 Sept 2026 | Ääniwalli | Helsinki |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 | Sat, 10 Oct 2026 | Ormside Projects | London |
+| Sat, 24 Oct 2026 | El Pumarejo Barcelona | Barcelona |
 | Sat, 31 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played

@@ -8,7 +8,7 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Insomnia London: DJ JM, sooyeon, Carmen Baía | Carmen Baía, DJ JM, TBA, sooyeon |
+| Thu, 24 Sept 2026 | Insomnia London: DJ JM, sooyeon, Carmen Baía | Carmen Baía, DJ JM, sooyeon |
 | Fri, 25 Sept 2026 | Signal: Dillinja, DRS, Benny L, Dogger, Peshay, Digital | Benny L, DRS, Dillinja, Peshay, dogger |
 | Sat, 26 Sept 2026 | Phonox: Roi Perez, Amaliah | Amaliah, Roi Perez |
 | Thu, 1 Oct 2026 | Insomnia London: Megan Wroe, JuicyJards & Badturk | JuicyJards, Megan Wroe, TBA |

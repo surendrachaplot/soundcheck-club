@@ -1,13 +1,14 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Jakes is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-Jakes is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Jakes is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logged across Bali, Bristol, Bucharest and Budapest and 5 more. Often billed alongside Carasel, SP:MC and Enei. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 20 Nov 2026 | Thekla | Bristol |

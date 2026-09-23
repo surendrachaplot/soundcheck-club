@@ -1,8 +1,8 @@
 # Havenpark
 
-Havenpark is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Mystic Garden Festival ADE" on Sat, 24 Oct 2026.
+Havenpark is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Mystic Garden Festival ADE" on Sat, 24 Oct 2026.
 
-Havenpark is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Benny Rodrigues, BLANKA, DAX J and DJ EZ and 2 more. Browse upcoming dates, start times and who's playing. Wethouder van Essenweg.
+Havenpark is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Benny Rodrigues, BLANKA, DAX J and DJ EZ and 2 more. Browse upcoming dates, start times and who's playing. Wethouder van Essenweg.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Havenpark is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mystic Garden Festival ADE | BLANKA, Benny Rodrigues, DAX J, DJ EZ, DJ Heartstring, Ely Oaks, Fiene, HI-LO, HNTR, Helena Lauwaert, Jen Cardini, Joran van Pol, Oscar Mulero, Partiboi69, Rayzir, SYREETA, Space 92, Supergloss, Yanamaste |
 | Sat, 24 Oct 2026 | Dockyard Festival ADE | BLANKA, Benny Rodrigues, DAX J, DJ EZ, DJ Heartstring, Ely Oaks, Fiene, HI-LO, HNTR, Helena Lauwaert, Jen Cardini, Joran van Pol, Oscar Mulero, Partiboi69, Rayzir, SYREETA, Space 92, Supergloss, Yanamaste |
+| Sat, 24 Oct 2026 | HE.SHE.THEY. X Dockyard Festival X Mystic Garden ADE 2026: Stage Takeover | Benny Rodrigues, DJ EZ, Jen Cardini, Rayzir, SYREETA |
 
 ## Address
 

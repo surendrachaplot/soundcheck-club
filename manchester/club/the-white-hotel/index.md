@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 38 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz" on Wed, 23 Sept 2026.
+The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SELN presents Celebrating New Industrial: Years of Denial, Imminent [live], Esmé, Conrad + Gonz" on Wed, 23 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming gigs, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming gigs, with line-ups including Fastlove, ABADIR, Abena and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
