@@ -13,7 +13,7 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, wit
 | Sat, 26 Sept 2026 | Subculture w/ Harri + Sedef Adasï | DJ Harri, Sedef Adasï |
 | Sun, 27 Sept 2026 | TBA | Frazi.er, Reece Pritchard |
 | Fri, 2 Oct 2026 | Mungo's Hi Fi | Mungo's Hi Fi |
-| Sat, 3 Oct 2026 | Subculture w/ Stevie Cox + Telford | Stevie Cox, Telford |
+| Sat, 3 Oct 2026 | Subculture w/ Telford & Stevie Cox | Stevie Cox, Telford |
 | Thu, 8 Oct 2026 | RARE Club // Saoirse | Carmen Baía, Saoirse |
 | Fri, 9 Oct 2026 | RTM: Alarico & Slam & Babyccino | Alarico, Babyccino, Slam |
 | Sat, 10 Oct 2026 | Subculture w/ Domenic Cappello + Jane Fitz | Domenic Cappello, Jane Fitz |

@@ -1,14 +1,15 @@
 # Aircraft
 
-Aircraft is a New Wave and Post-Punk artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kantine am Berghain, Berlin on Mon, 28 Sept 2026.
+Aircraft is a New Wave and Post-Punk artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kantine am Berghain, Berlin on Mon, 28 Sept 2026.
 
-Aircraft is a new wave and post-punk artist based in Ukraine, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 6 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Kantine am Berghain, Berlin on Mon 28 Sept.
+Aircraft is a new wave and post-punk artist based in Ukraine, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 7 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Kantine am Berghain, Berlin on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 28 Sept 2026 | Kantine am Berghain | Berlin |
+| Fri, 6 Nov 2026 | Lieberscholli | Munich |
 | Wed, 25 Nov 2026 | Hydrozagadka | Warsaw |
 | Fri, 27 Nov 2026 | TBA - Depo | Riga |
 | Sat, 28 Nov 2026 | Fort Bar | Tallinn |

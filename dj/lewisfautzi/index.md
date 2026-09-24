@@ -1,8 +1,8 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Lewis Fautzi is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
-Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
+Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lewis Fautzi is a techno and acid artist based in Portugal, tracked on soundchec
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
+| Sat, 24 Oct 2026 | Artheater | Cologne |
 
 ## Recently played
 

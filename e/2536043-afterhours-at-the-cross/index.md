@@ -1,6 +1,6 @@
 # AFTERHOURS at The Cross
 
-AFTERHOURS at The Cross on Fri 23 Oct, London. 2 acts on the bill: Clara Rosa and D1 x Samir (DVS). House. Preview the line-up and save it on soundcheck.
+AFTERHOURS at The Cross on Fri 23 Oct, London. 2 acts on the bill: Clara Rosa and Shifa Ligero. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ AFTERHOURS at The Cross on Fri 23 Oct, London. 2 acts on the bill: Clara Rosa an
 ## Line-up
 
 - Clara Rosa
-- D1 x Samir (DVS)
+- Shifa Ligero
 
 *Source: [soundcheck](https://soundcheck.club/e/2536043-afterhours-at-the-cross/)*

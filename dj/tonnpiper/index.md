@@ -1,8 +1,8 @@
 # Tonn Piper
 
-Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roxy, Prague on Sat, 26 Sept 2026.
+Tonn Piper is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roxy, Prague on Sat, 26 Sept 2026.
 
-Tonn Piper is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Austin and Birmingham and 21 more. Often billed alongside Andy C, IC3 and Mozey. Next up: Roxy, Prague on Sat 26 Sept.
+Tonn Piper is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Austin and Birmingham and 22 more. Often billed alongside Andy C, IC3 and Mozey. Next up: Roxy, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tonn Piper is a drum & bass and jungle artist based in United Kingdom, tracked o
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Roxy | Prague |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Prieste5s is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-Prieste5s is a techno and bass artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Tetsumasa, Aksamit and Andy Stott. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Prieste5s is a techno and bass artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Tetsumasa, Aksamit and Andy Stott. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 

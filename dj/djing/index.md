@@ -1,14 +1,13 @@
 # DJ ing
 
-DJ ing is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
+DJ ing is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
-DJ ing is a house and club artist based in United States of America, tracked on soundcheck, with 31 sets logged across Newyorkcity, Paris and Tokyo. Often billed alongside Brant Wolff, To The End. and Mozn. Next up: La Cité Fertile, Paris on Sat 26 Sept.
+DJ ing is a house and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity and Tokyo. Often billed alongside Brant Wolff, To The End. and Mozn. Next up: Mood Ring, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | La Cité Fertile | Paris |
 | Sat, 10 Oct 2026 | Mood Ring | New York City |
 
 ## Recently played

@@ -10,7 +10,7 @@ NEO CLUB ROMA is a music venue in Rome listed on soundcheck. 6 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | OUR FRIDAY | Max Beat |
 | Sat, 26 Sept 2026 | Clubbing | Flavio Rago, Marco Rea |
-| Fri, 2 Oct 2026 | OUR FRIDAY | Flavio Rago, Marco Rea |
+| Fri, 2 Oct 2026 | UPNEO | Flavio Rago, Marco Rea |
 | Sat, 3 Oct 2026 | clubbing meets ARTICHOKE | Mike Steva |
 | Fri, 9 Oct 2026 | UPNEO vs OUR FRIDAY | Flavio Rago, Marco Rea |
 | Sat, 10 Oct 2026 | barberini Sound |  |

@@ -1,8 +1,8 @@
 # blk.
 
-blk. is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
+blk. is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 3 Oct 2026.
 
-blk. is a techno and trance artist based in Ireland, tracked on soundcheck, with 140 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
+blk. is a techno and trance artist based in Ireland, tracked on soundcheck, with 141 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 39 more. Often billed alongside Azyr, Black Traffic and Charlie Sparks. Next up: Blackstone Street Warehouse, Liverpool on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ blk. is a techno and trance artist based in Ireland, tracked on soundcheck, with
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 28 Nov 2026 | Akvárium Klub | Budapest |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

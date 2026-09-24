@@ -1,8 +1,8 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+Luuk van Dijk is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
 
-Luuk van Dijk is a house and tech house artist based in Netherlands, tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: SWG3, Glasgow on Fri 25 Sept.
+Luuk van Dijk is a house and tech house artist based in Netherlands, tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: SWG3, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, tracked on 
 | Fri, 23 Oct 2026 | Coda | Toronto |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Wed, 9 Dec 2026 | Zumana Bali | Bali |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

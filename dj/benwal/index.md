@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
+Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Warehouse, Leeds on Fri, 25 Sept 2026.
 
-Benwal is a techno and house artist based in Netherlands, tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: The Warehouse, Leeds on Fri 25 Sept.
+Benwal is a techno and house artist based in Netherlands, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: The Warehouse, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 

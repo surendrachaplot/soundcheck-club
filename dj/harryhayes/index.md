@@ -1,8 +1,8 @@
 # Harry Hayes
 
-Harry Hayes is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
+Harry Hayes is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cockatoo Island, Sydney on Sun, 4 Oct 2026.
 
-Harry Hayes is a house and garage artist based in Australia, tracked on soundcheck, with 24 sets logged across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Mike McCaskill and Mimi J. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
+Harry Hayes is a house and garage artist based in Australia, tracked on soundcheck, with 25 sets logged across Dublin, London, Manchester and Melbourne and 1 more. Often billed alongside LUPO.THEBOY, Mike McCaskill and Mimi J. Next up: Cockatoo Island, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Harry Hayes is a house and garage artist based in Australia, tracked on soundche
 | Sat, 10 Oct 2026 | Yes | Manchester |
 | Fri, 16 Oct 2026 | Hootananny Brixton | London |
 | Sat, 24 Oct 2026 | Wigwam | Dublin |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

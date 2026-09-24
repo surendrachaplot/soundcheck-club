@@ -1,8 +1,8 @@
 # Solee
 
-Solee is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Odonien, Cologne on Sat, 10 Oct 2026.
+Solee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Odonien, Cologne on Sat, 10 Oct 2026.
 
-Solee is a techno and house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Copenhagen and Dublin and 7 more. Often billed alongside Prismode, Solvane and Super Flu. Next up: Odonien, Cologne on Sat 10 Oct.
+Solee is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Copenhagen and Dublin and 7 more. Often billed alongside Prismode, Solvane and Super Flu. Next up: Odonien, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Solee is a techno and house artist based in Germany, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Odonien | Cologne |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
+| Sat, 24 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 

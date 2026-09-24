@@ -11,7 +11,7 @@ Onder Hans is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, 
 | Thu, 1 Oct 2026 | Opening Onderhans x Bubble House | Munay, Wouter S |
 | Thu, 8 Oct 2026 | Authentic Afterhours | Anthity, Pulziv |
 | Thu, 22 Oct 2026 | Marginalia x ADE | Alessio Cristiano, Alicia Hahn, Ben Eidani, Beswerda, ELIF, Ede, FAE (3), Jamin, Jonas Fritz, Liminal MX, Predex, Sinca |
-| Fri, 23 Oct 2026 | Perspectives x Melodic Room x VVISSIONN ADE Showcase | Almost Human (DJ), Althoff, Cris-H, Darin Epsilon, EdOne, Emanate, Gadouh, John Cala, Jono Stephenson, Joshlane, KARINSMATIC, Min the Universe, Miss Melera, Moodayz, OIBAF, Olivier Weiter, Rivellino, SHAZZE, Sezer Uysal, Syntonos, TNY, Tumzz, Varoc |
+| Fri, 23 Oct 2026 | Perspectives x Melodic Room x VVISSIONN ADE Showcase | Almost Human (DJ), Althoff, Cris-H, Darin Epsilon, EdOne, Emanate, Gadouh, Gulec, John Cala, Jono Stephenson, Joshlane, KARINSMATIC, Min the Universe, Miss Melera, Moodayz, OIBAF, Olivier Weiter, Rivellino, SHAZZE, Sezer Uysal, Syntonos, Tumzz, Varoc |
 | Sat, 24 Oct 2026 | EVOQUE x ADE | 16BL, Cris-H, Demattei, Dilby, Elliot Moriarty, Frankey & Sandrino, GINO GENTILI, Henry Saiz, Iovino, KELO AR, Kiko, Nick Muir, Paul Sparkes |
 | Mon, 26 Oct 2026 | Cheeky Monday: Onderhans | Gibbo, Insom |
 

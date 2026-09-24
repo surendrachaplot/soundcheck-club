@@ -1,8 +1,8 @@
-# ŌKAMI
+# OKAMI
 
-ŌKAMI is a Jungle and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
+OKAMI is a Jungle and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
 
-ŌKAMI is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London, Losangeles, Osaka and Tokyo. Often billed alongside Deejay Nye, Vince Lam and BlackMagicWoman. Next up: Grow, London on Fri 25 Sept.
+OKAMI is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London, Losangeles, Osaka and Tokyo. Often billed alongside Deejay Nye, Vince Lam and BlackMagicWoman. Next up: Grow, London on Fri 25 Sept.
 
 ## Upcoming shows
 

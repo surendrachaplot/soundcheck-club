@@ -1,14 +1,15 @@
 # ascendant vierge
 
-ascendant vierge is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Theatre National, Brussels on Sun, 11 Oct 2026.
+ascendant vierge is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Theatre National, Brussels on Sun, 11 Oct 2026.
 
-ascendant vierge is a techno and pop artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Anetha, Vladimir Cauchemar and 999999999. Next up: Theatre National, Brussels on Sun 11 Oct.
+ascendant vierge is a techno and pop artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Vladimir Cauchemar, Anetha and Angerfist. Next up: Theatre National, Brussels on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Theatre National | Brussels |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ascendant vierge is a techno and pop artist based in France, tracked on soundche
 
 ## Shares bills with
 
-Anetha, Vladimir Cauchemar, 999999999
+Vladimir Cauchemar, Anetha, Angerfist
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ascendantvierge/)*

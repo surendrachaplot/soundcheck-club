@@ -1,8 +1,8 @@
 # Dylan C
 
-Dylan C is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
+Dylan C is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
 
-Dylan C is a drum & bass and bass artist based in New Zealand, tracked on soundcheck, with 23 sets logged across Auckland. Often billed alongside Mia Kober, DirdyGerdi and Paige Julia. Next up: The Button Factory, Auckland on Sat 26 Sept.
+Dylan C is a drum & bass and bass artist based in New Zealand, tracked on soundcheck, with 24 sets logged across Auckland and North-island. Often billed alongside Mia Kober, DirdyGerdi and Paige Julia. Next up: The Button Factory, Auckland on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dylan C is a drum & bass and bass artist based in New Zealand, tracked on soundc
 | Sat, 26 Sept 2026 | The Button Factory | Auckland |
 | Fri, 9 Oct 2026 | Silent Studios | Auckland |
 | Sat, 7 Nov 2026 | Silent Studios | Auckland |
+| Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
 ## Recently played
 

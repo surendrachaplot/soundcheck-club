@@ -14,7 +14,7 @@ City Hall is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 | Sat, 26 Sept 2026 | Y |  |
 | Thu, 1 Oct 2026 | REBORN - PENÚLTIMO CAPÍTULO | Revenja |
 | Sat, 17 Oct 2026 | CITY OF MAKINA | Ruben XXL |
-| Tue, 20 Oct 2026 | AGRESSIVE HARD HALLOWEEN |  |
+| Thu, 22 Oct 2026 | AGRESSIVE HARD HALLOWEEN |  |
 | Thu, 29 Oct 2026 | CITY HELL pres. ?????? HALLOWEEN II Hard Techno II 2 Rooms | Kynexis |
 | Sat, 31 Oct 2026 | HALLOWEEN Parche OFFICIAL |  |
 | Sat, 14 Nov 2026 | HARDCORE MANIAKS x MASIA |  |

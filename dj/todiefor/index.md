@@ -1,8 +1,8 @@
 # Todiefor
 
-Todiefor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse, Nantes on Fri, 20 Nov 2026.
+Todiefor is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse, Nantes on Fri, 20 Nov 2026.
 
-Todiefor is a techno and electro artist based in Belgium, tracked on soundcheck, with 14 sets logged across Brussels, Geneva, Montreal and Nantes and 2 more. Often billed alongside Vladimir Cauchemar, Dj Schnake and Mandragora. Next up: Warehouse, Nantes on Fri 20 Nov.
+Todiefor is a techno and electro artist based in Belgium, tracked on soundcheck, with 15 sets logged across Brussels, Geneva, Montreal and Nantes and 2 more. Often billed alongside Vladimir Cauchemar, Angerfist and Dj Schnake. Next up: Warehouse, Nantes on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Todiefor is a techno and electro artist based in Belgium, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Warehouse | Nantes |
 | Fri, 4 Dec 2026 | Phantom, Paris | Paris |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Todiefor is a techno and electro artist based in Belgium, tracked on soundcheck,
 
 ## Shares bills with
 
-Vladimir Cauchemar, Dj Schnake, Mandragora
+Vladimir Cauchemar, Angerfist, Dj Schnake
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/todiefor/)*

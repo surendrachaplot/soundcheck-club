@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
+Konfusia is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
-Konfusia is a techno and electro artist based in Germany, tracked on soundcheck, with 109 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
+Konfusia is a techno and electro artist based in Germany, tracked on soundcheck, with 110 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Die Rakete, Nurnberg on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Konfusia is a techno and electro artist based in Germany, tracked on soundcheck,
 | Fri, 16 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 6 Nov 2026 | Fridas Pier | Stuttgart |
 | Sat, 21 Nov 2026 | Basing House | London |
+| Sat, 19 Dec 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 

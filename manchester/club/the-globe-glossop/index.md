@@ -15,7 +15,7 @@ The Globe, Glossop is a music venue in Manchester listed on soundcheck. 8 upcomi
 | Thu, 22 Oct 2026 | Slowpoke presents: Jo Quail + Greet |  |
 | Fri, 23 Oct 2026 | KVLT presents: Kode9 (Hyperdub) | Kode9 |
 | Wed, 28 Oct 2026 | Grey Lantern presents: Garefowl [AD93] |  |
-| Sat, 7 Nov 2026 | Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthomor Soma | Chilly (LDN), Conor Thomas, Faux Naif |
+| Sat, 7 Nov 2026 | Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthonor Soma | Chilly (LDN), Conor Thomas, Faux Naif |
 
 ## Address
 

@@ -11,7 +11,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with
 | Fri, 25 Sept 2026 | Systematic Cologne | An On Bast, Drumcomplex, Frank Sonic, Marc Romboy, Robert Babicz |
 | Sat, 26 Sept 2026 | Lichtblick in Odonien - 3 Clubs 1 Rave |  |
 | Sat, 26 Sept 2026 | Odonien Open Air x Dominik Eulberg & Jonathan Kaspar | Dominik Eulberg, Jonathan Kaspar |
-| Wed, 30 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
+| Wed, 30 Sept 2026 | #MITTWOCHENENDE in Odonien | Enaly, Jaelo, Leenberger, Shandy |
 | Sat, 3 Oct 2026 | Odonien End Of Summer Rave |  |
 | Sat, 10 Oct 2026 | 18 Jahre BergWacht in Odonien with Solee, Moto Moto, Daniel Krau uvm | Liho, Moto Moto, Solee |
 | Sat, 24 Oct 2026 | Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL | Avocado, David Hasert, Diode Eins, Dirty Doering, EXIT (2), Minoas Cirillo, Yannick Müller |

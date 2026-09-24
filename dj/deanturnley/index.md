@@ -1,8 +1,8 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Studios, Vancouver on Fri, 25 Sept 2026.
+Dean Turnley is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Studios, Vancouver on Fri, 25 Sept 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 20 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Prospa, Beltran and Ben Sterling. Next up: Village Studios, Vancouver on Fri 25 Sept.
+Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 22 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 17 more. Often billed alongside Jamback, Prospa and Sam Alfred. Next up: Village Studios, Vancouver on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 | Fri, 9 Oct 2026 | Big Pink | Detroit |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Art Club | Houston |
+| Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -28,6 +30,6 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 ## Shares bills with
 
-Prospa, Beltran, Ben Sterling
+Jamback, Prospa, Sam Alfred
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

@@ -1,6 +1,6 @@
 # WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys at Schlachthof Wiesbaden
 
-WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys at Schlachthof Wiesbaden on Sat 17 Oct, Frankfurt. 9 acts on the bill: ANN-LUX, CiKi, Elon Bass and Formale Bassgestaltung and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys at Schlachthof Wiesbaden on Sat 17 Oct, Frankfurt. 10 acts on the bill: ANN-LUX, CiKi, DeGuzman and Elon Bass and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WE ARE ONE x SCHLACHTHOF FESTIVAL mit JAZZY, Russian Village Boys at Schlachthof
 
 - ANN-LUX
 - CiKi
+- DeGuzman
 - Elon Bass
 - Formale Bassgestaltung
 - JAZZY (2)

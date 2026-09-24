@@ -9,7 +9,7 @@ Shackleton is an experimental and techno artist based in United Kingdom, tracked
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Gut Level | Sheffield |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 
 ## Recently played
 

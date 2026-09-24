@@ -1,8 +1,8 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
+Papa Nugs is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
-Papa Nugs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: TBA, Melbourne on Sat 26 Sept.
+Papa Nugs is a house and techno artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: TBA, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Papa Nugs is a house and techno artist based in United Kingdom, tracked on sound
 | Sat, 26 Sept 2026 | ark (Melb) | Melbourne |
 | Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | fabric | London |
+| Fri, 16 Oct 2026 | Meraki | Liverpool |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 29 Oct 2026 | Mondo | Madrid |

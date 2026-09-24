@@ -1,8 +1,8 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Holocene, Portland on Sun, 11 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Holocene, Portland on Sun, 11 Oct 2026.
 
-Lens (2) is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Barcelona, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Mozey, Culture Shock and Dimension. Next up: Holocene, Portland on Sun 11 Oct.
+Lens (2) is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Barcelona, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Mozey, Culture Shock and Dimension. Next up: Holocene, Portland on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Lens (2) is a drum & bass and dubstep artist based in United Kingdom, tracked on
 | Sat, 14 Nov 2026 | Hidden | Manchester |
 | Sat, 28 Nov 2026 | Patterns | Brighton |
 | Thu, 10 Dec 2026 | The Woodshop | New York City |
+| Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 
 ## Recently played
 

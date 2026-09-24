@@ -12,7 +12,7 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 | Fri, 25 Sept 2026 | SOL: After Dark | AZZA, Adela, Dimanté, El Cassar, Goldhawk |
 | Sat, 26 Sept 2026 | Billion Dollar Babes | Jeremy Healy |
 | Fri, 2 Oct 2026 | Urge To Dance - London 001  | Anya (UK), DEFAM, Modelers, Tear of Joy, VENERE |
-| Fri, 23 Oct 2026 | AFTERHOURS | Clara Rosa, D1 x Samir (DVS) |
+| Fri, 23 Oct 2026 | AFTERHOURS | Clara Rosa, Shifa Ligero |
 | Sat, 31 Oct 2026 | Access: Six Levels Of Hell (feat. Atlas Project, Mission Control, Sweet Greens) |  |
 
 ## Address

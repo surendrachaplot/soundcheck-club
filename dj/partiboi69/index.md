@@ -1,8 +1,8 @@
 # Partiboi69
 
-Partiboi69 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Partiboi69 is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Partiboi69 is a techno and house artist based in Australia, tracked on soundcheck, with 196 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 65 more. Often billed alongside KETTAMA, Juicy Romance and DJ Heartstring. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Partiboi69 is a techno and house artist based in Australia, tracked on soundchec
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

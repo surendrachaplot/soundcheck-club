@@ -1,14 +1,15 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
+Luke Alessi is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Quinta Mira Rio, Lisbon on Sat, 26 Sept 2026.
 
-Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and VTSS. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
+Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Quinta Mira Rio, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Quinta Mira Rio | Lisbon |
+| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -16,6 +17,7 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | 3oz Dive Club | San Diego |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -30,6 +32,6 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 ## Shares bills with
 
-Jordan Brando, DJ Tennis, VTSS
+Jordan Brando, DJ Tennis, William Kiss
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

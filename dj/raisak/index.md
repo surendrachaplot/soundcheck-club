@@ -1,14 +1,14 @@
 # Raisa K
 
-Raisa K is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Raisa K is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
-Raisa K is a downtempo and experimental artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow, London, Manchester and Paris and 1 more. Often billed alongside John T. Gast, Rocheman and Ugnė Uma. Next up: Ormside Projects, London on Sat 26 Sept.
+Raisa K is a downtempo and experimental artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow, London, Manchester and Paris and 1 more. Often billed alongside John T. Gast, Rocheman and Ugnė Uma. Next up: M.O.T, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 
 ## Recently played
 

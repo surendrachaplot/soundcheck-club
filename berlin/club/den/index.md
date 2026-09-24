@@ -1,8 +1,8 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fornax Collective at ÆDEN" on Thu, 24 Sept 2026.
+ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fornax Collective at ÆDEN" on Thu, 24 Sept 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amed Nheiro and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amed Nheiro and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 

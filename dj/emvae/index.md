@@ -1,13 +1,14 @@
 # Emvae
 
-Emvae is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Emvae is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Emvae is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
+Emvae is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Ibiza and Thehague and 1 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played

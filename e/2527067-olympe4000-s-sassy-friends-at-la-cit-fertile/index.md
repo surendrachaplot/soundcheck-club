@@ -1,6 +1,6 @@
 # OLYMPE4000'S SASSY FRIENDS at La Cité Fertile
 
-OLYMPE4000'S SASSY FRIENDS at La Cité Fertile on Sat 26 Sept, Paris. 5 acts on the bill: DJ ing, dUb, Naone and sa+ga and 1 more. Techno. Preview the line-up and save it on soundcheck.
+OLYMPE4000'S SASSY FRIENDS at La Cité Fertile on Sat 26 Sept, Paris. 3 acts on the bill: Naone, sa+ga and THC. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,6 @@ OLYMPE4000'S SASSY FRIENDS at La Cité Fertile on Sat 26 Sept, Paris. 5 acts on 
 
 ## Line-up
 
-- DJ ing
-- dUb
 - Naone
 - sa+ga
 - THC

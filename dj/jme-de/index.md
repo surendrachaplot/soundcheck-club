@@ -1,13 +1,14 @@
 # JME
 
-JME is a Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
+JME is a Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-JME is a grime artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol, Copenhagen, Dublin and London and 1 more. Often billed alongside Duppy, Kruz Leone and Bluetoof. Next up: Liberty Hall, Sydney on Sat 9 Jan.
+JME is a grime artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Copenhagen, Dublin and London and 2 more. Often billed alongside Duppy, Kruz Leone and 4am Kru. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |
 
 ## Recently played
@@ -22,6 +23,6 @@ JME is a grime artist based in United Kingdom, tracked on soundcheck, with 8 set
 
 ## Shares bills with
 
-Duppy, Kruz Leone, Bluetoof
+Duppy, Kruz Leone, 4am Kru
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jme-de/)*

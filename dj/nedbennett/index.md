@@ -1,8 +1,8 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Neck of the Woods, Auckland on Fri, 25 Sept 2026.
+Ned Bennett is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Neck of the Woods, Auckland on Fri, 25 Sept 2026.
 
-Ned Bennett is a techno and house artist based in Australia, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 11 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Neck of the Woods, Auckland on Fri 25 Sept.
+Ned Bennett is a techno and house artist based in Australia, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 11 more. Often billed alongside KSMBA, 6 SENSE and Prizefight. Next up: Neck of the Woods, Auckland on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Ned Bennett is a techno and house artist based in Australia, tracked on soundche
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | UNLOCKED | London |
 | Wed, 11 Nov 2026 | TBA | Ghent |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

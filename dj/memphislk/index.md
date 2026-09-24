@@ -1,8 +1,8 @@
 # Memphis LK
 
-Memphis LK is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Memphis LK is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, with 20 sets logged across Auckland, Brisbane, Brussels and Edinburgh and 5 more. Often billed alongside Hasvat Informant, KSMBA and Ash Lauryn. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, with 21 sets logged across Auckland, Brisbane, Brussels and Edinburgh and 5 more. Often billed alongside Harry Hayes, Hasvat Informant and KSMBA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, 
 
 ## Shares bills with
 
-Hasvat Informant, KSMBA, Ash Lauryn
+Harry Hayes, Hasvat Informant, KSMBA
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*

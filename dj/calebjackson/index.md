@@ -1,8 +1,8 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
+Caleb Jackson is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinese Laundry, Sydney on Fri, 25 Sept 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Bali and Berlin and 8 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Chinese Laundry, Sydney on Fri 25 Sept.
+Caleb Jackson is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Bali and Berlin and 8 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Chinese Laundry, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Caleb Jackson is a house and techno artist based in Australia, tracked on soundc
 | Sat, 3 Oct 2026 | TBA - 2.5 Hours from Sydney | Sydney |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

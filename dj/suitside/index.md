@@ -1,8 +1,8 @@
 # SUITSIDE
 
-SUITSIDE is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+SUITSIDE is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
-SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, with 65 sets logged across Berlin, Cologne, Munich and Stuttgart and 1 more. Often billed alongside Joey (2), BabaBass3000 and ASCHENBRENNER. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
+SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, with 66 sets logged across Berlin, Cologne, Munich and Stuttgart and 1 more. Often billed alongside Joey (2), BabaBass3000 and ASCHENBRENNER. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, 
 | Sat, 26 Sept 2026 | Artheater | Cologne |
 | Fri, 16 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
+| Sat, 24 Oct 2026 | Schrotty | Cologne |
 
 ## Recently played
 

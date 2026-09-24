@@ -1,20 +1,21 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Grace Sands is a House and Deep House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
-Grace Sands is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Ormside Projects, London on Sat 26 Sept.
+Grace Sands is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: M.O.T, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Sat, 26 Sept 2026 | Crate Brewery | London |
 | Sun, 27 Sept 2026 | The Timber Loft | London |
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
 | Sat, 3 Oct 2026 | The White Hotel | Manchester |
 | Sun, 11 Oct 2026 | smartbar | Chicago |
 | Sat, 17 Oct 2026 | public records | New York City |
+| Fri, 23 Oct 2026 | Pikes Ibiza | Ibiza |
 | Thu, 29 Oct 2026 | Amber's | Manchester |
 | Sat, 31 Oct 2026 | Unit 58 | London |
 | Sat, 31 Oct 2026 | NUMBER 90 LONDON | London |

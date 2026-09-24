@@ -17,6 +17,7 @@ Perspectives x Melodic Room x VVISSIONN ADE Showcase at Onder Hans on Fri 23 Oct
 - EdOne
 - Emanate
 - Gadouh
+- Gulec
 - John Cala
 - Jono Stephenson
 - Joshlane
@@ -30,7 +31,6 @@ Perspectives x Melodic Room x VVISSIONN ADE Showcase at Onder Hans on Fri 23 Oct
 - Sezer Uysal
 - SHAZZE
 - Syntonos
-- TNY
 - Tumzz
 - Varoc
 

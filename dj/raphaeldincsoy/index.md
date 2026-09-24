@@ -1,8 +1,8 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
+Raphael Dincsoy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
 
-Raphael Dincsoy is a techno and house artist based in Germany, tracked on soundcheck, with 136 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Climax-Institutes, Stuttgart on Fri 25 Sept.
+Raphael Dincsoy is a techno and house artist based in Germany, tracked on soundcheck, with 137 sets logged across Amsterdam, Basel, Berlin and Dusseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Climax-Institutes, Stuttgart on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Raphael Dincsoy is a techno and house artist based in Germany, tracked on soundc
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Climax-Institutes | Stuttgart |
 | Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
+| Sat, 31 Oct 2026 | Smolna | Warsaw |
 
 ## Recently played
 

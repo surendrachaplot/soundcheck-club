@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Nikolina is a Techno and Industrial artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Nikolina is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across All, Amsterdam, Athens and Austin and 46 more. Often billed alongside Azyr, Restricted and Onlynumbers. Next up: Etko, All on Fri 25 Sept.
+Nikolina is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across All, Amsterdam, Athens and Austin and 46 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Nikolina is a techno and industrial artist based in United Kingdom, tracked on s
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Nikolina is a techno and industrial artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-Azyr, Restricted, Onlynumbers
+Restricted, Azyr, Onlynumbers
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

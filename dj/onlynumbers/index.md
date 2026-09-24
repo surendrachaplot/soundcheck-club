@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Index, Dublin on Fri 2 Oct.
+Onlynumbers is a techno and hardcore artist based in France, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside NOVAH, Basswell and Holy Priest. Next up: Index, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Onlynumbers is a techno and hardcore artist based in France, tracked on soundche
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

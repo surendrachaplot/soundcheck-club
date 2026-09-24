@@ -1,8 +1,8 @@
 # Anton Goltermann
 
-Anton Goltermann is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Box, Copenhagen on Fri, 25 Sept 2026.
+Anton Goltermann is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Box, Copenhagen on Fri, 25 Sept 2026.
 
-Anton Goltermann is a house and techno artist based in Denmark, tracked on soundcheck, with 51 sets logged across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Arto (2). Next up: Culture Box, Copenhagen on Fri 25 Sept.
+Anton Goltermann is a house and techno artist based in Denmark, tracked on soundcheck, with 52 sets logged across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Arto (2). Next up: Culture Box, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anton Goltermann is a house and techno artist based in Denmark, tracked on sound
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Culture Box | Copenhagen |
 | Sat, 26 Sept 2026 | Baggen | Copenhagen |
+| Thu, 1 Oct 2026 | Jolene | Copenhagen |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # James Pepper
 
-James Pepper is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Red Rattler, Sydney on Sat, 26 Sept 2026.
+James Pepper is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Red Rattler, Sydney on Sat, 26 Sept 2026.
 
-James Pepper is a house and techno artist based in Australia, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, London and Melbourne and 2 more. Often billed alongside Caleb Jackson, 6 SENSE and DAYZZI. Next up: The Red Rattler, Sydney on Sat 26 Sept.
+James Pepper is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, London and Melbourne and 2 more. Often billed alongside Caleb Jackson, Jacqui Cunningham and Sasha Milani. Next up: The Red Rattler, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Pepper is a house and techno artist based in Australia, tracked on soundch
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | The Red Rattler | Sydney |
 | Fri, 16 Oct 2026 | Solace | Melbourne |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ James Pepper is a house and techno artist based in Australia, tracked on soundch
 
 ## Shares bills with
 
-Caleb Jackson, 6 SENSE, DAYZZI
+Caleb Jackson, Jacqui Cunningham, Sasha Milani
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespepper/)*

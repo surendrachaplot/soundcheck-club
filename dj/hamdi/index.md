@@ -1,8 +1,8 @@
 # Hamdi
 
-Hamdi is a Dubstep and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Hamdi is a Dubstep and Garage artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Hamdi is a dubstep and garage artist based in Germany, tracked on soundcheck, with 57 sets logged across Austin, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Interplanetary Criminal, MPH (1) and Sub Focus. Next up: The Regency Ballroom, Sanfrancisco on Fri 2 Oct.
+Hamdi is a dubstep and garage artist based in Germany, tracked on soundcheck, with 58 sets logged across Austin, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Interplanetary Criminal, MPH (1) and Sub Focus. Next up: The Regency Ballroom, Sanfrancisco on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Hamdi is a dubstep and garage artist based in Germany, tracked on soundcheck, wi
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | Phantom, Paris | Paris |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

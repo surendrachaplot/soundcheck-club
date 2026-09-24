@@ -1,18 +1,22 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Stealth, Nottingham on Fri, 2 Oct 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sklub, All on Fri, 25 Sept 2026.
 
-A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 23 more. Often billed alongside Phantom, IC3 and Koven. Next up: Stealth, Nottingham on Fri 2 Oct.
+A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across All, Amsterdam, Antwerp and Auckland and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Sklub, All on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Sklub | All |
+| Sat, 26 Sept 2026 | Unit Nine | South-east |
 | Fri, 2 Oct 2026 | Stealth | Nottingham |
+| Sat, 3 Oct 2026 | Under The Prom | West-wales |
 | Sat, 10 Oct 2026 | Volks | Brighton |
 | Fri, 16 Oct 2026 | World Headquarters | Newcastle |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 6 Nov 2026 | Tank | Sheffield |
+| Fri, 13 Nov 2026 | Move | West-wales |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 

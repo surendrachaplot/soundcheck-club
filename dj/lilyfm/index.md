@@ -1,8 +1,8 @@
 # Lily FM
 
-Lily FM is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
+Lily FM is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
 
-Lily FM is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Sydney. Often billed alongside DAUG, Jane Decks and Bouki. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
+Lily FM is a house and techno artist based in Australia, tracked on soundcheck, with 35 sets logged across Sydney. Often billed alongside DAUG, GMOZ and Jane Decks. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lily FM is a house and techno artist based in Australia, tracked on soundcheck, 
 | Fri, 25 Sept 2026 | Heaps Normal Health Club | Sydney |
 | Sat, 10 Oct 2026 | TBA | Sydney |
 | Sat, 24 Oct 2026 | The Red Rattler | Sydney |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Lily FM is a house and techno artist based in Australia, tracked on soundcheck, 
 
 ## Shares bills with
 
-DAUG, Jane Decks, Bouki
+DAUG, GMOZ, Jane Decks
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*

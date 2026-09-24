@@ -1,14 +1,15 @@
 # Charlton
 
-Charlton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OT301, Amsterdam on Sat, 3 Oct 2026.
+Charlton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OT301, Amsterdam on Sat, 3 Oct 2026.
 
-Charlton is a techno and house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Basel and Berlin and 11 more. Often billed alongside Bas Mooy, Thanos Hana and Kerrie. Next up: OT301, Amsterdam on Sat 3 Oct.
+Charlton is a techno and house artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Basel and Berlin and 11 more. Often billed alongside Bas Mooy, Thanos Hana and Kerrie. Next up: OT301, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | OT301 | Amsterdam |
+| Sun, 4 Oct 2026 | Time is the new space | Rotterdam |
 
 ## Recently played
 

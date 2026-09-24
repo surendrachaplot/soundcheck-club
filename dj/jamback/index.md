@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Jamback is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
+Jamback is a house and tech house artist based in Netherlands, tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Jamback is a house and tech house artist based in Netherlands, tracked on soundc
 
 ## Shares bills with
 
-East End Dubs, Marsolo, ALISHA
+East End Dubs, Marsolo, Rossi
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

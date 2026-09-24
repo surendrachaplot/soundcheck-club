@@ -1,8 +1,8 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
+ECZODIA is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
 
-ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside OMAKS, Jacidorex and LESSSS. Next up: C12, Brussels on Fri 25 Sept.
+ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: C12, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, 
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Sat, 14 Nov 2026 | TBA - CDMX | Mexico City |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, 
 
 ## Shares bills with
 
-OMAKS, Jacidorex, LESSSS
+LESSSS, OMAKS, Jacidorex
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eczodia/)*

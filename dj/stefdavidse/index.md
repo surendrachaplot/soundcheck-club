@@ -1,8 +1,8 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Stef Davidse is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Stef Davidse is a house and tech house artist based in Netherlands, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Stef Davidse is a house and tech house artist based in Netherlands, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Stef Davidse is a house and tech house artist based in Netherlands, tracked on s
 | Sat, 10 Oct 2026 | La Java | Paris |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Sat, 17 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |

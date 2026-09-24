@@ -1,8 +1,8 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-KLOFAMA is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: TBA - XOX Arena, Kualalumpur on Sat 3 Oct.
+KLOFAMA is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: TBA - XOX Arena, Kualalumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ KLOFAMA is a techno and industrial artist based in Netherlands, tracked on sound
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASIS, Utrecht on Fri, 30 Oct 2026.
+Cici Daze is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: BASIS, Utrecht on Fri 30 Oct.
+Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Fri, 30 Oct 2026 | BASIS | Utrecht |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | Thuishaven | Amsterdam |

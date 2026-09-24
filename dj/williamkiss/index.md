@@ -1,8 +1,8 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+William Kiss is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-William Kiss is a house and techno artist based in Australia, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
+William Kiss is a house and techno artist based in Australia, tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ William Kiss is a house and techno artist based in Australia, tracked on soundch
 | Sat, 24 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | TBA - Private Location | San Diego |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ William Kiss is a house and techno artist based in Australia, tracked on soundch
 
 ## Shares bills with
 
-Jordan Brando, Luke Alessi, Azzecca
+Jordan Brando, Luke Alessi, Baron Von Trax
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

@@ -1,13 +1,14 @@
 # Sylvie Miles
 
-Sylvie Miles is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lagerwal, Amsterdam on Sat, 24 Oct 2026.
+Sylvie Miles is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-Sylvie Miles is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Lagerwal, Amsterdam on Sat 24 Oct.
+Sylvie Miles is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
 | Sat, 24 Oct 2026 | Lagerwal | Amsterdam |
 | Fri, 11 Dec 2026 | Die Rakete | Nürnberg |
 

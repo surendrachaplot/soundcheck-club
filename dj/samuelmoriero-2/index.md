@@ -1,8 +1,8 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 821 Runnymede Rd, Toronto on Fri, 16 Oct 2026.
+Samuel Moriero (2) is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 821 Runnymede Rd, Toronto on Fri, 16 Oct 2026.
 
-Samuel Moriero (2) is a techno and hardcore artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Onlynumbers, 999999999 and BØĘRY. Next up: 821 Runnymede Rd, Toronto on Fri 16 Oct.
+Samuel Moriero (2) is a techno and hardcore artist based in Italy, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Onlynumbers, Restricted and Trym. Next up: 821 Runnymede Rd, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Samuel Moriero (2) is a techno and hardcore artist based in Italy, tracked on so
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Samuel Moriero (2) is a techno and hardcore artist based in Italy, tracked on so
 
 ## Shares bills with
 
-Onlynumbers, 999999999, BØĘRY
+Onlynumbers, Restricted, Trym
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

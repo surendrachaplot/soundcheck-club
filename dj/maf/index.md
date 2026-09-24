@@ -1,13 +1,14 @@
 # MAF
 
-MAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Wed, 14 Oct 2026.
+MAF is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Never, Barcelona on Fri, 25 Sept 2026.
 
-MAF is a house and tech house artist based in Venezuela, tracked on soundcheck, with 33 sets logged across Barcelona and Berlin. Often billed alongside Brizas, Brieela and Paul Wolsch. Next up: Macarena Club, Barcelona on Wed 14 Oct.
+MAF is a house and tech house artist based in Venezuela, tracked on soundcheck, with 34 sets logged across Barcelona and Berlin. Often billed alongside Brizas, Brieela and Paul Wolsch. Next up: Never, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Never | Barcelona |
 | Wed, 14 Oct 2026 | Macarena Club | Barcelona |
 
 ## Recently played

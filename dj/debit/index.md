@@ -9,7 +9,7 @@ Debit is a techno and experimental artist based in United States of America, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
-| Sat, 26 Sept 2026 | Ormside Projects | London |
+| Sat, 26 Sept 2026 | M.O.T | London |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Fri, 9 Oct 2026 | Kingdom Nightclub | Austin |

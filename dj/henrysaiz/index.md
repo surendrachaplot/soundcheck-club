@@ -1,14 +1,15 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
+Henry Saiz is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
 
-Henry Saiz is a progressive house and house artist based in Spain, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: The Steel Yard, London on Fri 25 Sept.
+Henry Saiz is a progressive house and house artist based in Spain, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: The Steel Yard, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Steel Yard | London |
+| Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 | Sat, 7 Nov 2026 | Cafe Del Mar | Sydney |
 

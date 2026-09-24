@@ -1,8 +1,8 @@
-# TBA - Secret Warehouse
+# TBA - SECRET WAREHOUSE
 
-TBA - Secret Warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dark Metaz 5 Years Finale: SOUNDEM" on Sat, 26 Sept 2026.
+TBA - SECRET WAREHOUSE is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dark Metaz 5 Years Finale: SOUNDEM" on Sat, 26 Sept 2026.
 
-TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including -CZAR, ALoSo, C:3 and Changa and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including -CZAR, ALoSo, C:3 and Changa and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

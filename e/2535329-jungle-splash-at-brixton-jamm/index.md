@@ -1,6 +1,6 @@
 # Jungle Splash at Brixton Jamm
 
-Jungle Splash at Brixton Jamm on Fri 9 Oct, London. 5 acts on the bill: CHEZA LUCINA, ŌKAMI, Potential Badboy and The Ragga Twins and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Splash at Brixton Jamm on Fri 9 Oct, London. 5 acts on the bill: CHEZA LUCINA, OKAMI, Potential Badboy and The Ragga Twins and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Jungle Splash at Brixton Jamm on Fri 9 Oct, London. 5 acts on the bill: CHEZA LU
 ## Line-up
 
 - CHEZA LUCINA
-- ŌKAMI
+- OKAMI
 - Potential Badboy
 - The Ragga Twins
 - Uncle Dugs

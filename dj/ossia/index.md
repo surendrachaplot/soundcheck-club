@@ -1,14 +1,15 @@
 # Ossia
 
-Ossia is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Ossia is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-Ossia is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside ojoo, Anina and DJ Marcelle. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+Ossia is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside ojoo, Dan Johnson and Anina. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Garage Noord | Amsterdam |
+| Thu, 12 Nov 2026 | The Loco Klub | Bristol |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ossia is an experimental and club artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-ojoo, Anina, DJ Marcelle
+ojoo, Dan Johnson, Anina
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*

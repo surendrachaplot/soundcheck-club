@@ -3595,6 +3595,11 @@
     .fp-pb:hover{ border-color:var(--accent); }
     .fp-ev-gline{ display:flex; gap:7px; margin-bottom:14px; flex-wrap:wrap; }
     .fp-ev-gtag{ background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius-pill); font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; padding:5px 10px; color:var(--fg); }
+    /* Sunset GRADIENT text, like the wordmark — never flat #FF9A3D on something
+       you press (the house rule). It was flat accent before it was removed. */
+    .fp-ev-tickets{ display:inline-flex; align-items:center; gap:6px; margin-top:16px; font:700 var(--fs-sm)/var(--lh-sm) var(--body); text-decoration:none;
+      background:var(--accent-grad); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; color:transparent; }
+    .fp-ev-tickets:hover{ text-decoration:underline; text-decoration-color:var(--accent); }
     .fp-ev-blurb{ font:400 var(--fs-base)/1.55 var(--body); color:var(--muted); max-width:60ch; margin:0; }   /* match the artist bio size */
     /* lineup rows */
     .fp-lu{ display:flex; align-items:center; gap:16px; padding:13px 18px; border-bottom:1px solid var(--line); }
@@ -4563,7 +4568,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790261652169">
+<meta name="sc-build" content="1790265986237">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -11763,6 +11768,10 @@
         var posterBg=ev.poster?'background-image:url('+imgUrl(ev.poster,1000)+')':'background:linear-gradient(150deg,#ff9a3d,#7c5cff)';
         var stamp=isPickVenue(ev.venue)?'<div class="fp-ev-stamp">Pick</div>':'';
         var blurb=ev.content||ev.description||'';
+        // A SEARCH for tickets, in the person's own browser — never a ticket seller
+        // we pick or earn from. Suren, 24 Sep: "it is fine to send people to a
+        // browser with the search results for tickets". Titles stay ticket-free.
+        var ticketUrl='https://www.google.com/search?q='+encodeURIComponent((ev.title||'')+' '+(ev.venue||'')+' tickets');
         var evPicked=isEventPicked(id);
         var h='<div class="fp-event">'+
           '<button class="fp-ev-share-ic" id="fp-ev-share" type="button" aria-label="Share this event"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
@@ -11818,10 +11827,7 @@
                 var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
                 return '<div class="fp-ev-by">Event by '+shown+rest+'</div>';
               })()+
-              // NO TICKET LINK. This rendered "Get tickets here →" (a Google search
-              // for tickets) on every upcoming gig — against the house rule that we
-              // never send anyone to buy tickets. Removed 24 Sep with the "tickets"
-              // wording in every page title.
+              (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
 
             '</div>'+
           '</div>'+

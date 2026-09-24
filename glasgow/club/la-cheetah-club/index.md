@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Deep Purple: Jade Seatle" on Thu, 24 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Deep Purple: Jade Seatle" on Thu, 24 Sept 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including Amizl, Antal, Arlo Duke and ArthurDnB and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including Amizl, Antal, Arlo Duke and ArthurDnB and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Sat, 10 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Sat, 10 Oct 2026.
 
-Holy Priest is a techno and hardcore artist based in Germany, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: The Concourse Project, Austin on Sat 10 Oct.
+Holy Priest is a techno and hardcore artist based in Germany, tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside elMefti, Onlynumbers and Fantasm. Next up: The Concourse Project, Austin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Holy Priest is a techno and hardcore artist based in Germany, tracked on soundch
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Holy Priest is a techno and hardcore artist based in Germany, tracked on soundch
 
 ## Shares bills with
 
-elMefti, Fantasm, JAZZY (2)
+elMefti, Onlynumbers, Fantasm
 
 *Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
+davyboi is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
 
-davyboi is a techno and trance artist based in Germany, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
+davyboi is a techno and trance artist based in Germany, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ davyboi is a techno and trance artist based in Germany, tracked on soundcheck, w
 | Fri, 6 Nov 2026 | E1 | London |
 | Sat, 7 Nov 2026 | BASIS | Utrecht |
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
