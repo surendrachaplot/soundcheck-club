@@ -1,6 +1,6 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Bimbo Beats" on Fri, 25 Sept 2026.
+Mono is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Bimbo Beats" on Fri, 25 Sept 2026.
 
 Mono is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, with line-ups including ABADIR, AMBRR, ARRA and AYEDA and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
@@ -16,4 +16,4 @@ Mono is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, with l
 
 Vijverhofstraat 15, 3032 SB Rotterdam, Rotterdam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*

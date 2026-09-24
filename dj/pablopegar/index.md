@@ -1,8 +1,8 @@
 # Pablo Pegar
 
-Pablo Pegar is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
+Pablo Pegar is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
 
-Pablo Pegar is a progressive house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam and Ibiza. Often billed alongside Callecat, Gustin and Around Us. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
+Pablo Pegar is a progressive house and tech house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Ibiza. Often billed alongside Callecat, Gustin and Around Us. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Pablo Pegar is a progressive house and tech house artist tracked on soundcheck, 
 
 Callecat, Gustin, Around Us
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablopegar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablopegar/)*

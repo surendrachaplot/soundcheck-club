@@ -1,8 +1,8 @@
 # Architect
 
-Architect is a Afrobeat and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
+Architect is a Afrobeat and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
 
-Architect is an afrobeat and latin bass artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, London and Tallinn and 1 more. Often billed alongside Lil C, Handsome Rob and Lagoon Femshayma. Next up: Urban Spree, Berlin on Sat 3 Oct.
+Architect is an afrobeat and latin bass artist based in Germany, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, London and Tallinn and 1 more. Often billed alongside Lil C, Handsome Rob and Lagoon Femshayma. Next up: Urban Spree, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Architect is an afrobeat and latin bass artist tracked on soundcheck, with 10 se
 
 Lil C, Handsome Rob, Lagoon Femshayma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/architect/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/architect/)*

@@ -1,8 +1,8 @@
 # Manuel Moreno
 
-Manuel Moreno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Manuel Moreno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
-Manuel Moreno is a house and deep house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
+Manuel Moreno is a house and deep house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Manuel Moreno is a house and deep house artist tracked on soundcheck, with 21 se
 
 Caromelle, AANN, Felix E
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelmoreno/)*

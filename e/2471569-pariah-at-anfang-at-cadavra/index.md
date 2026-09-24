@@ -1,6 +1,6 @@
 # Pariah at Anfang at Cadavra
 
-Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 3 acts on the bill: Noot Noot, Pariah and Silvia Torres. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 4 acts on the bill: Mendi, Noot Noot, Pariah and Silvia Torres. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pariah at Anfang at Cadavra on Thu 1 Oct, Madrid. 3 acts on the bill: Noot Noot,
 
 ## Line-up
 
+- Mendi
 - Noot Noot
 - Pariah
 - Silvia Torres

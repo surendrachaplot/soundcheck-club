@@ -1,8 +1,8 @@
 # Wuki
 
-Wuki is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Future Nightlife, Toronto on Fri, 2 Oct 2026.
+Wuki is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Future Nightlife, Toronto on Fri, 2 Oct 2026.
 
-Wuki is a house and bass artist tracked on soundcheck, with 30 sets logged across Austin, Boston, Budapest and Chicago and 12 more. Often billed alongside Azzecca, Dillon Francis and Kyle Watson. Next up: Future Nightlife, Toronto on Fri 2 Oct.
+Wuki is a house and bass artist based in United States of America, tracked on soundcheck, with 30 sets logged across Austin, Boston, Budapest and Chicago and 12 more. Often billed alongside Azzecca, Dillon Francis and Kyle Watson. Next up: Future Nightlife, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Wuki is a house and bass artist tracked on soundcheck, with 30 sets logged acros
 
 Azzecca, Dillon Francis, Kyle Watson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*

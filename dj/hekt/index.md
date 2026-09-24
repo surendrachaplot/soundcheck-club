@@ -1,8 +1,8 @@
 # Hekt
 
-Hekt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
+Hekt is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
 
-Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Copenhagen and Glasgow and 4 more. Often billed alongside Ingrate, Blawan and DJ Pipe. Next up: OCZKI, Warsaw on Sun 4 Oct.
+Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Ingrate, Blawan and DJ Pipe. Next up: OCZKI, Warsaw on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
+| Fri, 16 Oct 2026 | Hexagon Brussels | Brussels |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ Hekt is a house and techno artist based in Denmark, tracked on soundcheck, with 
 
 Ingrate, Blawan, DJ Pipe
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekt/)*

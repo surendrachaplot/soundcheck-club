@@ -1,8 +1,8 @@
 # Luke Garcia
 
-Luke Garcia is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at EL SÓTANO, Madrid on Sat, 26 Sept 2026.
+Luke Garcia is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at EL SÓTANO, Madrid on Sat, 26 Sept 2026.
 
-Luke Garcia is a techno and progressive house artist tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Alex Warp, Marino Canal and AMANN. Next up: EL SÓTANO, Madrid on Sat 26 Sept.
+Luke Garcia is a techno and progressive house artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Alex Warp, Marino Canal and AMANN. Next up: EL SÓTANO, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Luke Garcia is a techno and progressive house artist tracked on soundcheck, with
 
 Alex Warp, Marino Canal, AMANN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegarcia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukegarcia/)*

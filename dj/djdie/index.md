@@ -1,8 +1,8 @@
 # DJ Die
 
-DJ Die is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+DJ Die is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 34 sets logged across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+DJ Die is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Bristol, London, Manchester and Tokyo. Often billed alongside Bryan Gee, Krust and Chimpo. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Die is a jungle and drum & bass artist tracked on soundcheck, with 34 sets lo
 
 Bryan Gee, Krust, Chimpo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdie/)*

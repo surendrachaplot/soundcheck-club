@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 19 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "10 Years of NM: Sir Spyro B2B Plastician, Footsie, Killa P, Mez, ODF B2B Sulphur + Many More" on Fri, 25 Sept 2026.
+The Clock Factory is a music venue in Bristol with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "10 Years of NM: Sir Spyro B2B Plastician, Footsie, Killa P, Mez, ODF B2B Sulphur + Many More" on Fri, 25 Sept 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 19 upcoming gigs, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 19 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

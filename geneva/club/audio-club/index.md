@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Traumer B2B Cesar Merveille · CORA M · Auguste Safar & Raphael Graham" on Fri, 25 Sept 2026.
+Audio Club is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Traumer B2B Cesar Merveille · CORA M · Auguste Safar & Raphael Graham" on Fri, 25 Sept 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including Âme, Anfisa Letyago, Auguste Safar and Cesar Merveille and 2 more. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -20,4 +20,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

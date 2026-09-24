@@ -1,6 +1,6 @@
 # Ronnie Scott's Bar
 
-Ronnie Scott's Bar is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Late Late Show hosted by Myele Manzanza" on Thu, 24 Sept 2026.
+Ronnie Scott's Bar is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Late Late Show hosted by Myele Manzanza" on Thu, 24 Sept 2026.
 
 Ronnie Scott's Bar is a music venue in London listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 47 Frith Street; Soho; London W1D 4HT; United Kingdom.
 
@@ -20,4 +20,4 @@ Ronnie Scott's Bar is a music venue in London listed on soundcheck. 7 upcoming g
 
 47 Frith Street; Soho; London W1D 4HT; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ronnie-scott-s-bar/)*

@@ -1,14 +1,15 @@
 # Roka
 
-Roka is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
+Roka is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
 
-Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 19 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: Dr Morse, Melbourne on Fri 25 Sept.
+Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 20 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: Dr Morse, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Dr Morse | Melbourne |
+| Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Roka is a tech house and house artist based in Australia, tracked on soundcheck,
 
 Séarlait, Char(k), DJ Possum
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roka.-2/)*

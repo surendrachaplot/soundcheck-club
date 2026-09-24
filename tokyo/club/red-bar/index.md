@@ -1,14 +1,13 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "REDBAR WEDNESDAY" on Wed, 23 Sept 2026.
+Red Bar is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "REDBAR THURSDAY" on Thu, 24 Sept 2026.
 
-Red Bar is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including AOKI takamasa, Dazzle Drums, DJ Shibata and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
+Red Bar is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including AOKI takamasa, Dazzle Drums, DJ Shibata and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | REDBAR WEDNESDAY |  |
 | Thu, 24 Sept 2026 | REDBAR THURSDAY | Ippei, Junya |
 | Fri, 25 Sept 2026 | REDBAR FRIDAY | Dazzle Drums, RINALUCKY, Sakuma |
 | Sat, 26 Sept 2026 | REDBAR SATURDAY | Mizuki, teppei |
@@ -19,4 +18,4 @@ Red Bar is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with li
 
 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/red-bar/)*

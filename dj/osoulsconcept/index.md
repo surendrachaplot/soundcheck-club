@@ -1,8 +1,8 @@
 # osoulsconcept
 
-osoulsconcept is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 25 Sept 2026.
+osoulsconcept is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KABUL à GoGo, Utrecht on Fri, 25 Sept 2026.
 
-osoulsconcept is a garage and club artist tracked on soundcheck, with 7 sets logged across Rotterdam, Thehague and Utrecht. Often billed alongside BLAIZE, Benny2 and EYCEE. Next up: KABUL à GoGo, Utrecht on Fri 25 Sept.
+osoulsconcept is a garage and club artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Rotterdam, Thehague and Utrecht. Often billed alongside BLAIZE, Benny2 and EYCEE. Next up: KABUL à GoGo, Utrecht on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ osoulsconcept is a garage and club artist tracked on soundcheck, with 7 sets log
 
 BLAIZE, Benny2, EYCEE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osoulsconcept/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osoulsconcept/)*

@@ -1,8 +1,8 @@
 # Eddie Richards
 
-Eddie Richards is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Glamorama, Melbourne on Thu, 24 Sept 2026.
+Eddie Richards is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Glamorama, Melbourne on Thu, 24 Sept 2026.
 
-Eddie Richards is a tech house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Bangkok and Berlin and 12 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: Glamorama, Melbourne on Thu 24 Sept.
+Eddie Richards is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Bangkok and Berlin and 12 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: Glamorama, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Eddie Richards is a tech house and house artist tracked on soundcheck, with 32 s
 
 Terry Francis, 3 Minds, Silverlining
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*

@@ -1,8 +1,8 @@
 # Bikini Club
 
-Bikini Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tunnel pres. Carloh, Murphy's Law, Viccenzo" on Fri, 25 Sept 2026.
+Bikini Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tunnel pres. Carloh, Murphy's Law, Viccenzo" on Fri, 25 Sept 2026.
 
-Bikini Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Budakid, Chicks Luv Us, Dani Corberó and Danny Howells and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
+Bikini Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Anja Schneider, Budakid, Chicks Luv Us and Dani Corberó and 2 more. Browse upcoming dates, start times and who's playing. L'Illia, Avinguda Diagonal, 547, 08029 Barcelona.
 
 ## What's on
 
@@ -11,7 +11,9 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs,
 | Fri, 25 Sept 2026 | Tunnel pres. Carloh, Murphy's Law, Viccenzo | Chicks Luv Us, Viccenzo |
 | Sat, 26 Sept 2026 | SELADORIA pres. Showcase Dave Seaman, Kevin Di Serna | Dave Seaman, Kevin Di Serna, SACK (AR), Steve Parry |
 | Sat, 3 Oct 2026 | Sala Bikini presents HotLap & Budakid | Budakid, HotLap, Syntonos, Volmaan |
+| Fri, 9 Oct 2026 | Tunnel presents Chicks Luv Us | Chicks Luv Us |
 | Sat, 10 Oct 2026 | RED SESSIONS PRESENTS Ezequiel Arias | Ezequiel Arias |
+| Fri, 16 Oct 2026 | Tunnel presents. Anja Schneider | Anja Schneider |
 | Fri, 23 Oct 2026 | Tunnel & laSagrada pres. Melanie Ribbe, Tomi & Kesh, Ssero y Dani Corbero | Dani Corberó, Melanie Ribbe, Ssero, Tomi & Kesh |
 | Sat, 24 Oct 2026 | SUDBEAT SHOWCASE  | Danny Howells, Emi Galvan, Graziano Raffa, SACK (AR) |
 | Sat, 31 Oct 2026 | NOM presents John Digweed | John Digweed, Martin Cozar |
@@ -20,4 +22,4 @@ Bikini Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs,
 
 L'Illia, Avinguda Diagonal, 547, 08029 Barcelona, Barcelona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bikini-club/)*

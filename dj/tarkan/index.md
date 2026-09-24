@@ -1,8 +1,8 @@
 # Tarkan
 
-Tarkan is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
+Tarkan is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
-Tarkan is a techno artist tracked on soundcheck, with 5 sets logged across Berlin, Budapest, Cologne and Frankfurt. Often billed alongside MAHA, CLAVD and Leskus. Next up: Arzenal, Budapest on Sat 7 Nov.
+Tarkan is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Budapest, Cologne and Frankfurt. Often billed alongside MAHA, CLAVD and Leskus. Next up: Arzenal, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Tarkan is a techno artist tracked on soundcheck, with 5 sets logged across Berli
 
 MAHA, CLAVD, Leskus
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkan/)*

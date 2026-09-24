@@ -1,8 +1,8 @@
 # Teal
 
-Teal is a Dub and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Standard Time, Toronto on Thu, 5 Nov 2026.
+Teal is a Dub and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Standard Time, Toronto on Thu, 5 Nov 2026.
 
-Teal is a dub and downtempo artist tracked on soundcheck, with 6 sets logged across Montreal, Sydney, Toronto and Vancouver. Often billed alongside ADDAX (AU), Carson Teal and Enki. Next up: Standard Time, Toronto on Thu 5 Nov.
+Teal is a dub and downtempo artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal, Sydney, Toronto and Vancouver. Often billed alongside ADDAX (AU), Carson Teal and Enki. Next up: Standard Time, Toronto on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Teal is a dub and downtempo artist tracked on soundcheck, with 6 sets logged acr
 
 ADDAX (AU), Carson Teal, Enki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teal/)*

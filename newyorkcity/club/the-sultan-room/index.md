@@ -1,8 +1,8 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Afrobeat Nights NYC" on Fri, 25 Sept 2026.
+The Sultan Room is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Afrobeat Nights NYC" on Fri, 25 Sept 2026.
 
-The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 7 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Carlo Sine and Crew Called Self and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Carlo Sine and Crew Called Self and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 
@@ -14,10 +14,13 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 7 upcoming
 | Sat, 3 Oct 2026 | Home & Abroad |  |
 | Mon, 5 Oct 2026 | New York Modular Society 7th Anniversary | 5ToK3, Ben The Glorious Bastard, Crew Called Self, Todd Sines |
 | Sat, 10 Oct 2026 | The Eel Pit X Silkpunk presents: Ph0, Pair of Sloths, Piranhana, DJ Lobo Camilo & Marjorine | Marjorine |
+| Wed, 21 Oct 2026 | The Pink Rambo | Hard Boiled Babe, Nina Moss |
 | Fri, 23 Oct 2026 | Afrobeat Nights NYC |  |
+| Fri, 30 Oct 2026 | Gorgeous Gorgeous Halloween |  |
+| Sat, 31 Oct 2026 | Fruit Juice: Witches Brew Djs: Princess Dyke B2B JHS, DJ Lawyer, More TBA | DJ Lawyer |
 
 ## Address
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

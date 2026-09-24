@@ -1,8 +1,8 @@
 # DJ Annita
 
-DJ Annita is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
+DJ Annita is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
 
-DJ Annita is a techno and bass artist tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside smooksy, DJ Luiser and Grawinkel. Next up: elipamanoke, Leipzig on Fri 9 Oct.
+DJ Annita is a techno and bass artist based in Germany, tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside smooksy, DJ Luiser and Grawinkel. Next up: elipamanoke, Leipzig on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Annita is a techno and bass artist tracked on soundcheck, with 11 sets logged
 
 smooksy, DJ Luiser, Grawinkel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djannita/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djannita/)*

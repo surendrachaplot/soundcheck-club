@@ -1,8 +1,8 @@
 # AZZA
 
-AZZA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Cross, London on Fri, 25 Sept 2026.
+AZZA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cross, London on Fri, 25 Sept 2026.
 
-AZZA is a house and afro house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Shervy, venice x and KAYDNCE. Next up: The Cross, London on Fri 25 Sept.
+AZZA is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Shervy, venice x and KAYDNCE. Next up: The Cross, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ AZZA is a house and afro house artist tracked on soundcheck, with 8 sets logged 
 
 Shervy, venice x, KAYDNCE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azza/)*

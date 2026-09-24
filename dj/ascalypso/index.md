@@ -1,8 +1,8 @@
 # Ascalypso
 
-Ascalypso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Triangle, Osaka on Fri, 25 Sept 2026.
+Ascalypso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Triangle, Osaka on Fri, 25 Sept 2026.
 
-Ascalypso is a techno and house artist tracked on soundcheck, with 52 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Limited Toss and Lomax. Next up: Triangle, Osaka on Fri 25 Sept.
+Ascalypso is a techno and house artist based in Japan, tracked on soundcheck, with 52 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, Limited Toss and Lomax. Next up: Triangle, Osaka on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ascalypso is a techno and house artist tracked on soundcheck, with 52 sets logge
 
 KA4U, Limited Toss, Lomax
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ascalypso/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ascalypso/)*

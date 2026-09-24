@@ -1,14 +1,16 @@
 # Still House Plants
 
-Still House Plants is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
+Still House Plants is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
 
-Still House Plants is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 12 more. Often billed alongside Bianca Scout, Crystallmess and upsammy. Next up: TBA - Belgrade Around City Centre, Belgrade on Wed 7 Oct.
+Still House Plants is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 13 more. Often billed alongside Crystallmess, Heinali and Andriana-Yaroslava Saienko. Next up: TBA - Belgrade Around City Centre, Belgrade on Wed 7 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 7 Oct 2026 | TBA - Belgrade Around City Centre | Belgrade |
+| Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
+| Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Still House Plants is an experimental and post-punk artist based in United Kingd
 
 ## Shares bills with
 
-Bianca Scout, Crystallmess, upsammy
+Crystallmess, Heinali, Andriana-Yaroslava Saienko
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stillhouseplants/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stillhouseplants/)*

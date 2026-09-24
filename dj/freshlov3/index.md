@@ -1,8 +1,8 @@
 # Fresh Lov3
 
-Fresh Lov3 is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Distillery N17, London on Sun, 27 Sept 2026.
+Fresh Lov3 is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Distillery N17, London on Sun, 27 Sept 2026.
 
-Fresh Lov3 is a techno and deep house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Brighton and London. Often billed alongside A Guy Called Gerald, Obscenity State and Polyop. Next up: Distillery N17, London on Sun 27 Sept.
+Fresh Lov3 is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Brighton and London. Often billed alongside A Guy Called Gerald, Obscenity State and Polyop. Next up: Distillery N17, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fresh Lov3 is a techno and deep house artist tracked on soundcheck, with 13 sets
 
 A Guy Called Gerald, Obscenity State, Polyop
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freshlov3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freshlov3/)*

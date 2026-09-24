@@ -1,8 +1,8 @@
 # Alinka
 
-Alinka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Apollo Club Milano, Milan on Fri, 25 Sept 2026.
+Alinka is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Apollo Club Milano, Milan on Fri, 25 Sept 2026.
 
-Alinka is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Apollo Club Milano, Milan on Fri 25 Sept.
+Alinka is a house and techno artist based in Ukraine, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Apollo Club Milano, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Alinka is a house and techno artist tracked on soundcheck, with 116 sets logged 
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

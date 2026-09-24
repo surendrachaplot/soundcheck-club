@@ -1,8 +1,8 @@
 # Mohajer
 
-Mohajer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sonnenraum, Berlin on Sun, 4 Oct 2026.
+Mohajer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sonnenraum, Berlin on Sun, 4 Oct 2026.
 
-Mohajer is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside Rachel Noon, Schacke and Hyperaktivist. Next up: Sonnenraum, Berlin on Sun 4 Oct.
+Mohajer is a techno and house artist based in Sweden, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside Rachel Noon, Schacke and Hyperaktivist. Next up: Sonnenraum, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mohajer is a techno and house artist tracked on soundcheck, with 101 sets logged
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Sun, 11 Oct 2026 | Signal | New York City |
+| Fri, 23 Oct 2026 | Lark | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mohajer is a techno and house artist tracked on soundcheck, with 101 sets logged
 
 Rachel Noon, Schacke, Hyperaktivist
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*

@@ -1,8 +1,8 @@
 # Haensen&Gretel
 
-Haensen&Gretel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Haensen&Gretel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Haensen&Gretel is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Alma Linda, FLAVE and Judith van Waterkant. Next up: Renate, Berlin on Fri 16 Oct.
+Haensen&Gretel is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Alma Linda, FLAVE and Judith van Waterkant. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Haensen&Gretel is a house and techno artist tracked on soundcheck, with 21 sets 
 
 Alma Linda, FLAVE, Judith van Waterkant
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haensengretel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haensengretel/)*

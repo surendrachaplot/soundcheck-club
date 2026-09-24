@@ -1,6 +1,6 @@
 # Maxye
 
-Maxye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Maxye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Maxye is a house and techno artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Marseille, Munich and Paris and 1 more. Often billed alongside Belaria, DJ Gregory and Marina Trench. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Maxye is a house and techno artist based in France, tracked on soundcheck, with 
 
 Belaria, DJ Gregory, Marina Trench
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxye/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxye/)*

@@ -1,8 +1,8 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
 
-nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: Artheater, Cologne on Fri 25 Sept.
+nordcorreia.mp3 is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and FEROTONINO. Next up: Artheater, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 49 set
 
 Amøn, Boltcore, FEROTONINO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

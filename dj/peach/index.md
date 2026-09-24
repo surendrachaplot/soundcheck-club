@@ -1,8 +1,8 @@
 # Peach
 
-Peach is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fidelity Studio, Dublin on Fri, 25 Sept 2026.
+Peach is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fidelity Studio, Dublin on Fri, 25 Sept 2026.
 
-Peach is a house and techno artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 54 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Fidelity Studio, Dublin on Fri 25 Sept.
+Peach is a house and techno artist based in Canada, tracked on soundcheck, with 221 sets logged across All, Amsterdam, Antwerp and Bali and 55 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Fidelity Studio, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Peach is a house and techno artist tracked on soundcheck, with 220 sets logged a
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Fidelity Studio | Dublin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 3 Oct 2026 | Piccadilly Premium | Osaka |
 | Fri, 9 Oct 2026 | Aviva Studios | Manchester |
 | Sat, 10 Oct 2026 | Backsteinboot | Berlin |
@@ -19,7 +20,6 @@ Peach is a house and techno artist tracked on soundcheck, with 220 sets logged a
 | Thu, 22 Oct 2026 | Pllek | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Strange Brew | Bristol |
-| Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist tracked on soundcheck, with 220 sets logged a
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

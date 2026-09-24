@@ -1,8 +1,8 @@
 # Dukkha
 
-Dukkha is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BAR15, Stockholm on Sat, 26 Sept 2026.
+Dukkha is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BAR15, Stockholm on Sat, 26 Sept 2026.
 
-Dukkha is a techno and garage artist tracked on soundcheck, with 6 sets logged across Bangkok and Stockholm. Often billed alongside fatty acid, Dog on Acid and Psykoterapi. Next up: BAR15, Stockholm on Sat 26 Sept.
+Dukkha is a techno and garage artist based in Sweden, tracked on soundcheck, with 6 sets logged across Bangkok and Stockholm. Often billed alongside fatty acid, Dog on Acid and Psykoterapi. Next up: BAR15, Stockholm on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Dukkha is a techno and garage artist tracked on soundcheck, with 6 sets logged a
 
 fatty acid, Dog on Acid, Psykoterapi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukkha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dukkha/)*

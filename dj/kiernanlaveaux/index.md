@@ -1,8 +1,8 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri, 25 Sept 2026.
 
-Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
+Kiernan Laveaux is a techno and house artist based in United States of America, tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 139 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

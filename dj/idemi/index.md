@@ -1,8 +1,8 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
+IDEMI is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
 
-IDEMI is a house and techno artist tracked on soundcheck, with 24 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 14 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
+IDEMI is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 14 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ IDEMI is a house and techno artist tracked on soundcheck, with 24 sets logged ac
 
 Marsolo, CHRIS STASSY, DJ Gigola
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

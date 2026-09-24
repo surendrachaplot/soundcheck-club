@@ -1,8 +1,8 @@
 # BASS VIP
 
-BASS VIP is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
+BASS VIP is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
 
-BASS VIP is a drum & bass artist tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Insom, Disphonia and Boycott. Next up: AUX Club, Athens on Sat 10 Oct.
+BASS VIP is a drum & bass artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Insom, Disphonia and Boycott. Next up: AUX Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BASS VIP is a drum & bass artist tracked on soundcheck, with 9 sets logged acros
 
 Insom, Disphonia, Boycott
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvip/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvip/)*

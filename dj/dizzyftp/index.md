@@ -1,8 +1,8 @@
 # Dizzy FTP
 
-Dizzy FTP is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
+Dizzy FTP is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
 
-Dizzy FTP is a ghetto tech and club artist tracked on soundcheck, with 17 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside jamea., sel in space and AK (US). Next up: The High Dive, Detroit on Fri 25 Sept.
+Dizzy FTP is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside jamea., sel in space and AK (US). Next up: The High Dive, Detroit on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dizzy FTP is a ghetto tech and club artist tracked on soundcheck, with 17 sets l
 
 jamea., sel in space, AK (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyftp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyftp/)*

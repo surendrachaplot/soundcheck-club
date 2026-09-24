@@ -1,8 +1,8 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Houtbaar Haarlem, Amsterdam on Sat, 26 Sept 2026.
+Olsvangèr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Houtbaar Haarlem, Amsterdam on Sat, 26 Sept 2026.
 
-Olsvangèr is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Houtbaar Haarlem, Amsterdam on Sat 26 Sept.
+Olsvangèr is a house and techno artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Houtbaar Haarlem, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Olsvangèr is a house and techno artist tracked on soundcheck, with 74 sets logg
 
 MYKI, Niklas Wandt, Bijon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*

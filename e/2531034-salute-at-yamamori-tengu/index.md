@@ -1,6 +1,6 @@
 # salute at Yamamori Tengu
 
-salute at Yamamori Tengu on Fri 16 Oct, Dublin. 1 act on the bill: salute. House. Preview the line-up and save it on soundcheck.
+salute at Yamamori Tengu on Fri 16 Oct, Dublin. 2 acts on the bill: salute and ShaunaDee. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ salute at Yamamori Tengu on Fri 16 Oct, Dublin. 1 act on the bill: salute. House
 ## Line-up
 
 - salute
+- ShaunaDee
 
 *Source: [soundcheck](https://soundcheck.club/e/2531034-salute-at-yamamori-tengu/)*

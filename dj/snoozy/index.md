@@ -1,8 +1,8 @@
 # Snoozy
 
-Snoozy is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
+Snoozy is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
 
-Snoozy is a jungle and breakbeat artist tracked on soundcheck, with 38 sets logged across London. Often billed alongside Rhi Spect, bomb shelter crew and Dogfish. Next up: Avalon Cafe Bermondsey, London on Sun 27 Sept.
+Snoozy is a jungle and breakbeat artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across London. Often billed alongside Rhi Spect, bomb shelter crew and Dogfish. Next up: Avalon Cafe Bermondsey, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Snoozy is a jungle and breakbeat artist tracked on soundcheck, with 38 sets logg
 
 Rhi Spect, bomb shelter crew, Dogfish
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snoozy/)*

@@ -1,14 +1,15 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hertz, Seoul on Sat, 26 Sept 2026.
+Jesse You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hertz, Seoul on Sat, 26 Sept 2026.
 
-Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 226 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Acidwork. Next up: Hertz, Seoul on Sat 26 Sept.
+Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 227 sets logged across All, Bali, Bangkok and Barcelona and 11 more. Often billed alongside JNS, Jucid and Acidwork. Next up: Hertz, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Hertz | Seoul |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | All |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jesse You is a house and techno artist based in South Korea, tracked on soundche
 
 JNS, Jucid, Acidwork
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

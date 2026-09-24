@@ -1,6 +1,6 @@
 # DJ Girl
 
-DJ Girl is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
+DJ Girl is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
 
 DJ Girl is an electro and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Seanni B, Charles Trees and LATEX GIRL. Next up: The High Dive, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Girl is an electro and techno artist based in United States of America, track
 
 Seanni B, Charles Trees, LATEX GIRL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*

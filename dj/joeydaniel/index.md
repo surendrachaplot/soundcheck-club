@@ -1,14 +1,15 @@
 # Joey Daniel
 
-Joey Daniel is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+Joey Daniel is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
-Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
+Joey Daniel is a tech house and house artist based in Netherlands, tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 17 more. Often billed alongside Marco Carola, Franky Rizardo and Ale De Tuglie. Next up: Shelter Amsterdam, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Oliva | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 28 Nov 2026 | E1 | London |
 
@@ -27,4 +28,4 @@ Joey Daniel is a tech house and house artist based in Netherlands, tracked on so
 
 Marco Carola, Franky Rizardo, Ale De Tuglie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeydaniel/)*

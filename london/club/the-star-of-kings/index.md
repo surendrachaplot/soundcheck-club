@@ -1,6 +1,6 @@
 # The Star Of Kings
 
-The Star Of Kings is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ELECTRIC DREAMS (electronic / alternative music club night)" on Fri, 25 Sept 2026.
+The Star Of Kings is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ELECTRIC DREAMS (electronic / alternative music club night)" on Fri, 25 Sept 2026.
 
 The Star Of Kings is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including BENXTAN, HangryRacoon and Slipstream. Browse upcoming dates, start times and who's playing. 126 York Way; Kings Cross; London N1 0AX; United Kingdom.
 
@@ -19,4 +19,4 @@ The Star Of Kings is a music venue in London listed on soundcheck. 6 upcoming gi
 
 126 York Way; Kings Cross; London N1 0AX; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-star-of-kings/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-star-of-kings/)*

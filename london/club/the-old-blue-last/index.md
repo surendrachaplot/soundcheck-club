@@ -1,6 +1,6 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SKELF - Craig Richards, Howie B & Hiraki Sawa, F17 & Gabriel Rai" on Thu, 24 Sept 2026.
+The Old Blue Last is a music venue in London with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SKELF - Craig Richards, Howie B & Hiraki Sawa, F17 & Gabriel Rai" on Thu, 24 Sept 2026.
 
 The Old Blue Last is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Bempah, Craig Richards, Howie B and Sam Wise. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
@@ -20,4 +20,4 @@ The Old Blue Last is a music venue in London listed on soundcheck. 7 upcoming gi
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

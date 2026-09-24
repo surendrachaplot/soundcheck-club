@@ -1,8 +1,8 @@
 # JYE.
 
-JYE. is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
+JYE. is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
 
-JYE. is an electro and house artist tracked on soundcheck, with 8 sets logged across London and Newcastle. Often billed alongside LEN., Tempz and Alisdair. Next up: Warehouse 34, Newcastle on Fri 25 Sept.
+JYE. is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Newcastle. Often billed alongside LEN., Tempz and Alisdair. Next up: Warehouse 34, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ JYE. is an electro and house artist tracked on soundcheck, with 8 sets logged ac
 
 LEN., Tempz, Alisdair
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jye./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jye./)*

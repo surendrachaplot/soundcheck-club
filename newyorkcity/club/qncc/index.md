@@ -1,6 +1,6 @@
 # Qncc
 
-Qncc is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "The Perverse - a play by Borna Barzin; Night 1" on Thu, 24 Sept 2026.
+Qncc is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Perverse - a play by Borna Barzin; Night 1" on Thu, 24 Sept 2026.
 
 Qncc is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, BASSBEAR!!, Kim Ann Foxman and Lauren Flax and 2 more. Browse upcoming dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Qncc is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, wit
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

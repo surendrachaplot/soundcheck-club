@@ -1,8 +1,8 @@
 # Gareth Emery
 
-Gareth Emery is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at New City Gas, Montreal on Sat, 24 Oct 2026.
+Gareth Emery is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at New City Gas, Montreal on Sat, 24 Oct 2026.
 
-Gareth Emery is a trance and progressive house artist tracked on soundcheck, with 36 sets logged across Austin, Boston, Chicago and London and 11 more. Often billed alongside Ferry Corsten, Billy Gillies and Cosmic Gate. Next up: New City Gas, Montreal on Sat 24 Oct.
+Gareth Emery is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Austin, Boston, Chicago and London and 11 more. Often billed alongside Ferry Corsten, Billy Gillies and Cosmic Gate. Next up: New City Gas, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gareth Emery is a trance and progressive house artist tracked on soundcheck, wit
 
 Ferry Corsten, Billy Gillies, Cosmic Gate
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethemery/)*

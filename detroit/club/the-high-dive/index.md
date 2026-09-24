@@ -1,6 +1,6 @@
 # The High Dive
 
-The High Dive is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "[CANCELLED] DJ Rozwell - Detroit" on Fri, 25 Sept 2026.
+The High Dive is a music venue in Detroit with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[CANCELLED] DJ Rozwell - Detroit" on Fri, 25 Sept 2026.
 
 The High Dive is a music venue in Detroit listed on soundcheck. 5 upcoming gigs, with line-ups including Auntie Chanel, Buzi, caitlin c. harvey and Colliding Pins and 2 more. Browse upcoming dates, start times and who's playing. 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -18,4 +18,4 @@ The High Dive is a music venue in Detroit listed on soundcheck. 5 upcoming gigs,
 
 11474 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-high-dive/)*

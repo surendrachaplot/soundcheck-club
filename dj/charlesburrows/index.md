@@ -1,8 +1,8 @@
 # Charles Burrows
 
-Charles Burrows is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at XOYO, London on Thu, 24 Sept 2026.
+Charles Burrows is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at XOYO, London on Thu, 24 Sept 2026.
 
-Charles Burrows is a disco and house artist tracked on soundcheck, with 16 sets logged across Bristol, Ibiza and London. Often billed alongside Another George, GENIETUNES and Crazy P. Next up: XOYO, London on Thu 24 Sept.
+Charles Burrows is a disco and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Ibiza and London. Often billed alongside Another George, GENIETUNES and Crazy P. Next up: XOYO, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Charles Burrows is a disco and house artist tracked on soundcheck, with 16 sets 
 
 Another George, GENIETUNES, Crazy P
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesburrows/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesburrows/)*

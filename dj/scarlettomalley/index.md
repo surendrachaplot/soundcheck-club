@@ -1,8 +1,8 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
+Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
-Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
+Scarlett O'Malley is a house and disco artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 98 set
 
 Ella Knight, Lulah Francs, Michelle Manetti
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*

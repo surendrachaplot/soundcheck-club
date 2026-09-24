@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Mothership, Auckland on Fri, 25 Sept 2026.
+Mha iri is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Mothership, Auckland on Fri, 25 Sept 2026.
 
-Mha iri is a techno and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: The Mothership, Auckland on Fri 25 Sept.
+Mha iri is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Auckland and Barcelona and 39 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: The Mothership, Auckland on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 109 sets l
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

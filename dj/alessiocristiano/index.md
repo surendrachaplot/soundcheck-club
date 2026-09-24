@@ -1,8 +1,8 @@
 # Alessio Cristiano
 
-Alessio Cristiano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Sat, 26 Sept 2026.
+Alessio Cristiano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Volt Club Milano, Milan on Sat, 26 Sept 2026.
 
-Alessio Cristiano is a techno and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, London and Milan and 3 more. Often billed alongside Echonomist, Ede and Jimi Jules. Next up: Volt Club Milano, Milan on Sat 26 Sept.
+Alessio Cristiano is a techno and house artist based in Italy, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, London and Milan and 3 more. Often billed alongside Echonomist, Ede and Jimi Jules. Next up: Volt Club Milano, Milan on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Alessio Cristiano is a techno and house artist tracked on soundcheck, with 25 se
 
 Echonomist, Ede, Jimi Jules
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocristiano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocristiano/)*

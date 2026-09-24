@@ -1,6 +1,6 @@
 # Overmono - Pure Devotion World Tour at Hollywood Palladium
 
-Overmono - Pure Devotion World Tour at Hollywood Palladium on Fri 25 Sept, Losangeles. 1 act on the bill: Overmono. Preview the line-up and save it on soundcheck.
+Overmono - Pure Devotion World Tour at Hollywood Palladium on Fri 25 Sept, Losangeles. 2 acts on the bill: Mesmé and Overmono. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Overmono - Pure Devotion World Tour at Hollywood Palladium on Fri 25 Sept, Losan
 
 ## Line-up
 
+- Mesmé
 - Overmono
 
 *Source: [soundcheck](https://soundcheck.club/e/2446440-overmono-pure-devotion-world-tour-at-hollywood-palladium/)*

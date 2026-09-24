@@ -1,8 +1,8 @@
 # alter.world
 
-alter.world is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
+alter.world is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
 
-alter.world is a techno and downtempo artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Oscil and Uttaraa. Next up: Mr. Nancy’s, Newyorkcity on Fri 30 Oct.
+alter.world is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Oscil and Uttaraa. Next up: Mr. Nancy’s, Newyorkcity on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ alter.world is a techno and downtempo artist tracked on soundcheck, with 6 sets 
 
 Oscil, Uttaraa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alter.world/)*

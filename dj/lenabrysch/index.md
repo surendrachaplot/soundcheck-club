@@ -1,8 +1,8 @@
 # Lena Brysch
 
-Lena Brysch is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 25 Sept 2026.
+Lena Brysch is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 25 Sept 2026.
 
-Lena Brysch is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Leipzig and Munich and 1 more. Often billed alongside Bernhard Groeger, MILAN MILANO and DJ FM & DJ FREUND. Next up: Bahnwärter Thiel, Munich on Fri 25 Sept.
+Lena Brysch is a techno and tech house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Leipzig and Munich and 1 more. Often billed alongside Bernhard Groeger, MILAN MILANO and DJ FM & DJ FREUND. Next up: Bahnwärter Thiel, Munich on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lena Brysch is a techno and tech house artist tracked on soundcheck, with 30 set
 
 Bernhard Groeger, MILAN MILANO, DJ FM & DJ FREUND
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrysch/)*

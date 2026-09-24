@@ -1,8 +1,8 @@
 # Connor Gray
 
-Connor Gray is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Multi Story, London on Sat, 26 Sept 2026.
+Connor Gray is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Multi Story, London on Sat, 26 Sept 2026.
 
-Connor Gray is a disco and house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Janeret and The Iron Glove. Next up: Multi Story, London on Sat 26 Sept.
+Connor Gray is a disco and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Janeret and The Iron Glove. Next up: Multi Story, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Connor Gray is a disco and house artist tracked on soundcheck, with 8 sets logge
 
 Janeret, The Iron Glove
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorgray/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connorgray/)*

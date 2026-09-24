@@ -1,8 +1,8 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "N-R-G x Hypa with Sam Girling (UK)" on Fri, 25 Sept 2026.
+KABUL à GoGo is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "N-R-G x Hypa with Sam Girling (UK)" on Fri, 25 Sept 2026.
 
-KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including 36framez, Cody Currie, DIØN and DJ SWISHA and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
+KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 8 upcoming gigs, with line-ups including 36framez, Aba Shanti-I, Azu Tiwaline and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
 ## What's on
 
@@ -13,6 +13,7 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs,
 | Fri, 9 Oct 2026 | Toy Tonics Jam | Cody Currie, Miss Nasty, Sam Ruffillo |
 | Sat, 10 Oct 2026 | KABUL Club Night Teatro by Guitig | DJ SWISHA |
 | Sat, 17 Oct 2026 | KABUL à GoGo ✧ Community Night ✦ |  |
+| Sat, 7 Nov 2026 | 24 HOUR DUB | Aba Shanti-I, Azu Tiwaline, CARISTA, Chinnamasta, Greentea Peng, Introspekt, Kelman Duran, Mad Professor, Seekersinternational, Tash LC, The Scientist, ojoo |
 | Sat, 14 Nov 2026 | Guitig by day & night | 36framez, Hannecart, Lola Edo |
 | Sat, 19 Dec 2026 | Soenda presents: DIØN All day long | DIØN |
 
@@ -20,4 +21,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs,
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

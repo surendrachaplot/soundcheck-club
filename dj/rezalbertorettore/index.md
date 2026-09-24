@@ -1,8 +1,8 @@
 # Rez Alberto Rettore
 
-Rez Alberto Rettore is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Urban Spree, Berlin on Sat, 24 Oct 2026.
+Rez Alberto Rettore is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Urban Spree, Berlin on Sat, 24 Oct 2026.
 
-Rez Alberto Rettore is a progressive house and house artist tracked on soundcheck, with 19 sets logged across Berlin and London. Often billed alongside Alex Talamo, Pietro LGF and Adela. Next up: Urban Spree, Berlin on Sat 24 Oct.
+Rez Alberto Rettore is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin and London. Often billed alongside Alex Talamo, Pietro LGF and Adela. Next up: Urban Spree, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rez Alberto Rettore is a progressive house and house artist tracked on soundchec
 
 Alex Talamo, Pietro LGF, Adela
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezalbertorettore/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezalbertorettore/)*

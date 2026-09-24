@@ -1,8 +1,8 @@
 # Kate Zubok
 
-Kate Zubok is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Kate Zubok is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
-Kate Zubok is a techno and deep house artist tracked on soundcheck, with 17 sets logged across Antwerp, Athens, Lisbon and London and 1 more. Often billed alongside Agoria, Chambord and Guy Gerber. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
+Kate Zubok is a techno and deep house artist based in Ukraine, tracked on soundcheck, with 17 sets logged across Antwerp, Athens, Lisbon and London and 1 more. Often billed alongside Agoria, Chambord and Guy Gerber. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kate Zubok is a techno and deep house artist tracked on soundcheck, with 17 sets
 
 Agoria, Chambord, Guy Gerber
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katezubok/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katezubok/)*

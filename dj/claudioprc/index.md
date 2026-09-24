@@ -1,8 +1,8 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Claudio PRC is a Techno and Ambient artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 160 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 | Sun, 18 Oct 2026 | Bodies in Space | Brussels |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Fri, 30 Oct 2026 | VENT | Tokyo |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
 
@@ -33,4 +34,4 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

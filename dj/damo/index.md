@@ -1,8 +1,8 @@
 # DAMO
 
-DAMO is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Makossa, London on Thu, 8 Oct 2026.
+DAMO is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Makossa, London on Thu, 8 Oct 2026.
 
-DAMO is a hardcore and house artist tracked on soundcheck, with 9 sets logged across Amsterdam, London and Toronto. Often billed alongside By Dusk, Grace Sands and ASIA (DE). Next up: Club Makossa, London on Thu 8 Oct.
+DAMO is a hardcore and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam, London and Toronto. Often billed alongside By Dusk, Grace Sands and ASIA (DE). Next up: Club Makossa, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DAMO is a hardcore and house artist tracked on soundcheck, with 9 sets logged ac
 
 By Dusk, Grace Sands, ASIA (DE)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damo/)*

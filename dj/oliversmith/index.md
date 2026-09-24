@@ -1,8 +1,8 @@
 # Oliver Smith
 
-Oliver Smith is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 3 Oct 2026.
+Oliver Smith is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thugshop Warehouse, Singapore on Sat, 3 Oct 2026.
 
-Oliver Smith is a trance and progressive house artist tracked on soundcheck, with 33 sets logged across Austin, Brisbane, Denver and London and 12 more. Often billed alongside Leena Punks, Amy Wiles and Mat Zo. Next up: Thugshop Warehouse, Singapore on Sat 3 Oct.
+Oliver Smith is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Austin, Brisbane, Denver and London and 12 more. Often billed alongside Leena Punks, Amy Wiles and Mat Zo. Next up: Thugshop Warehouse, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Oliver Smith is a trance and progressive house artist tracked on soundcheck, wit
 
 Leena Punks, Amy Wiles, Mat Zo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversmith/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversmith/)*

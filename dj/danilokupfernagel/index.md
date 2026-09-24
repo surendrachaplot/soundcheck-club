@@ -1,13 +1,15 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
+Danilo Kupfernagel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
-Danilo Kupfernagel is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Beate Uwe, Berlin on Sat 17 Oct.
+Danilo Kupfernagel is a techno and house artist based in Germany, tracked on soundcheck, with 68 sets logged across All, Amsterdam, Berlin and Cologne and 8 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Jonny Knüppel | Berlin |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 17 Oct 2026 | Beate Uwe | Berlin |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 
@@ -26,4 +28,4 @@ Danilo Kupfernagel is a techno and house artist tracked on soundcheck, with 66 s
 
 LEENI, Mollono.Bass, Jpattersson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*

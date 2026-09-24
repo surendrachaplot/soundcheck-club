@@ -1,8 +1,8 @@
 # VICTORIA WHYNOT
 
-VICTORIA WHYNOT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 3 Oct 2026.
+VICTORIA WHYNOT is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 3 Oct 2026.
 
-VICTORIA WHYNOT is a techno and house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 3 more. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 3 Oct.
+VICTORIA WHYNOT is a techno and house artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 4 more. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VICTORIA WHYNOT is a techno and house artist based in Argentina, tracked on soun
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - La Biblioteca, San Telmo | Buenos Aires |
 | Sun, 4 Oct 2026 | TBA - Area Costanera, Quilmes | Buenos Aires |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ VICTORIA WHYNOT is a techno and house artist based in Argentina, tracked on soun
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriawhynot/)*

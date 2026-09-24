@@ -1,8 +1,8 @@
 # French II
 
-French II is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+French II is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-French II is a techno and house artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Brussels and 10 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+French II is a techno and house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Brussels and 10 more. Often billed alongside Alberta Balsam, Bastian Benjamin and Milio. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ French II is a techno and house artist tracked on soundcheck, with 39 sets logge
 
 Alberta Balsam, Bastian Benjamin, Milio
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchii/)*

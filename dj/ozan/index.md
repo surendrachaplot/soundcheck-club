@@ -1,8 +1,8 @@
 # Ozan
 
-Ozan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Post Bar, Helsinki on Fri, 23 Oct 2026.
+Ozan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Post Bar, Helsinki on Fri, 23 Oct 2026.
 
-Ozan is a techno and house artist tracked on soundcheck, with 55 sets logged across Helsinki, Istanbul, Munich and Stockholm and 2 more. Often billed alongside CEB (FI), Katerina and Lil Tony. Next up: Post Bar, Helsinki on Fri 23 Oct.
+Ozan is a techno and house artist based in Turkey, tracked on soundcheck, with 55 sets logged across Helsinki, Istanbul, Munich and Stockholm and 2 more. Often billed alongside CEB (FI), Katerina and Lil Tony. Next up: Post Bar, Helsinki on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ozan is a techno and house artist tracked on soundcheck, with 55 sets logged acr
 
 CEB (FI), Katerina, Lil Tony
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*

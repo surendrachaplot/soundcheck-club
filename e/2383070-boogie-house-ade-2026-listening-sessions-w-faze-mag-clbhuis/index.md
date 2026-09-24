@@ -1,6 +1,6 @@
 # Boogie House ADE 2026 LISTENING SESSIONS w/ FAZE MAG, CLBHUIS & Tom Novy at Loop51
 
-Boogie House ADE 2026 LISTENING SESSIONS w/ FAZE MAG, CLBHUIS & Tom Novy at Loop51 on Sat 24 Oct, Amsterdam. 6 acts on the bill: Chudix, Emma Champagne Queen, Heritage Listed and Kirilski and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Boogie House ADE 2026 LISTENING SESSIONS w/ FAZE MAG, CLBHUIS & Tom Novy at Loop51 on Sat 24 Oct, Amsterdam. 7 acts on the bill: Chudix, Emma Champagne Queen, Heritage Listed and Kirilski and 3 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ Boogie House ADE 2026 LISTENING SESSIONS w/ FAZE MAG, CLBHUIS & Tom Novy at Loop
 - Kirilski
 - Laenk
 - Tom Novy
+- Vasko Parisis
 
 *Source: [soundcheck](https://soundcheck.club/e/2383070-boogie-house-ade-2026-listening-sessions-w-faze-mag-clbhuis/)*

@@ -1,8 +1,8 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+HUMAN ERROR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-HUMAN ERROR is a techno and trance artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+HUMAN ERROR is a techno and trance artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HUMAN ERROR is a techno and trance artist tracked on soundcheck, with 44 sets lo
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Studio Club Malaga | Malaga |
+| Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ HUMAN ERROR is a techno and trance artist tracked on soundcheck, with 44 sets lo
 
 DVAID, WILDERÍCH, zwilling.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

@@ -35,7 +35,7 @@ Bassiani 12 on Fri 9 Oct, Tbilisi. 40 acts on the bill: Boyá, Cassy, Dito and D
 - Ndrx
 - Ness
 - Newa
-- Nicole
+- Nicole.
 - Olivia Mendez
 - Resom
 - Rødhåd

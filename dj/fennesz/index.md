@@ -1,6 +1,6 @@
 # Fennesz
 
-Fennesz is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cisternerne, Copenhagen on Fri, 9 Oct 2026.
+Fennesz is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cisternerne, Copenhagen on Fri, 9 Oct 2026.
 
 Fennesz is an experimental and electronica artist based in Austria, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Brighton and Brussels and 5 more. Often billed alongside Lillevan, Ah! Kosmos and Debit. Next up: Cisternerne, Copenhagen on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Fennesz is an experimental and electronica artist based in Austria, tracked on s
 
 Lillevan, Ah! Kosmos, Debit
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fennesz/)*

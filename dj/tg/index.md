@@ -1,8 +1,8 @@
 # Tim Green
 
-Tim Green is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
+Tim Green is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
 
-Tim Green is a deep house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Aire Miami, Miami on Fri 2 Oct.
+Tim Green is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 28 more. Often billed alongside Lee Burridge, Sebastien Leger and Roy Rosenfeld. Next up: Aire Miami, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Tim Green is a deep house and house artist tracked on soundcheck, with 105 sets 
 | Fri, 2 Oct 2026 | Aire Miami | Miami |
 | Sat, 3 Oct 2026 | Pershing Square | Los Angeles |
 | Sat, 10 Oct 2026 | Kaap Amsterdam | Amsterdam |
+| Sat, 14 Nov 2026 | Cupra City Garage Manchester | Manchester |
+| Sat, 21 Nov 2026 | The Timber Loft | London |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Tim Green is a deep house and house artist tracked on soundcheck, with 105 sets 
 
 Lee Burridge, Sebastien Leger, Roy Rosenfeld
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tg/)*

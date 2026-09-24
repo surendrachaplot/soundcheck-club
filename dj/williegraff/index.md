@@ -1,8 +1,8 @@
 # Willie Graff
 
-Willie Graff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tipic., Ibiza on Sat, 26 Sept 2026.
+Willie Graff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tipic., Ibiza on Sat, 26 Sept 2026.
 
-Willie Graff is a house and disco artist tracked on soundcheck, with 69 sets logged across Copenhagen, Ibiza, Madrid and Newyorkcity. Often billed alongside DJ Pippi, Carlos Vila and Nicolas Matar. Next up: Tipic., Ibiza on Sat 26 Sept.
+Willie Graff is a house and disco artist based in United States of America, tracked on soundcheck, with 69 sets logged across Copenhagen, Ibiza, Madrid and Newyorkcity. Often billed alongside DJ Pippi, Carlos Vila and Nicolas Matar. Next up: Tipic., Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Willie Graff is a house and disco artist tracked on soundcheck, with 69 sets log
 
 DJ Pippi, Carlos Vila, Nicolas Matar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williegraff/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/williegraff/)*

@@ -1,8 +1,8 @@
 # Machine Girl
 
-Machine Girl is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Machine Girl is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Machine Girl is a techno and experimental artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 15 more. Often billed alongside Chaotic Ugly, 619! and ALEJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Machine Girl is a techno and experimental artist based in United States of America, tracked on soundcheck, with 33 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 16 more. Often billed alongside Chaotic Ugly, 619! and ALEJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Machine Girl is a techno and experimental artist based in United States of Ameri
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
+| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Wed, 11 Nov 2026 | IF Performance Hall Beşiktaş | Istanbul |
 
 ## Recently played
@@ -27,4 +28,4 @@ Machine Girl is a techno and experimental artist based in United States of Ameri
 
 Chaotic Ugly, 619!, ALEJO (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*

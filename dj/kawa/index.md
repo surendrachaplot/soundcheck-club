@@ -1,8 +1,8 @@
 # KAWA
 
-KAWA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
+KAWA is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Stalin, Prague on Sat, 26 Sept 2026.
 
-KAWA is a house and experimental artist tracked on soundcheck, with 33 sets logged across Paris, Prague and Tokyo. Often billed alongside Sam Gittis, Diva and S.N.R.I.. Next up: Stalin, Prague on Sat 26 Sept.
+KAWA is a house and experimental artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Paris, Prague and Tokyo. Often billed alongside Sam Gittis, Diva and S.N.R.I.. Next up: Stalin, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KAWA is a house and experimental artist tracked on soundcheck, with 33 sets logg
 
 Sam Gittis, Diva, S.N.R.I.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawa/)*

@@ -1,6 +1,6 @@
 # Funkerman
 
-Funkerman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TivoliVredenburg, Utrecht on Sat, 28 Nov 2026.
+Funkerman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TivoliVredenburg, Utrecht on Sat, 28 Nov 2026.
 
 Funkerman is a house and techno artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Erick E, ROOG and Alexander Koning. Next up: TivoliVredenburg, Utrecht on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Funkerman is a house and techno artist based in Netherlands, tracked on soundche
 
 Erick E, ROOG, Alexander Koning
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkerman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkerman/)*

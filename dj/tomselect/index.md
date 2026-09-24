@@ -1,8 +1,8 @@
 # Tom Select
 
-Tom Select is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Colares, Sintra, Lisbon on Sat, 26 Sept 2026.
+Tom Select is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Colares, Sintra, Lisbon on Sat, 26 Sept 2026.
 
-Tom Select is a house and techno artist tracked on soundcheck, with 21 sets logged across Budapest and Lisbon. Often billed alongside Adis Is OK, Switch Nollie and CRB. Next up: TBA - Colares, Sintra, Lisbon on Sat 26 Sept.
+Tom Select is a house and techno artist based in Hungary, tracked on soundcheck, with 21 sets logged across Budapest and Lisbon. Often billed alongside Adis Is OK, Switch Nollie and CRB. Next up: TBA - Colares, Sintra, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tom Select is a house and techno artist tracked on soundcheck, with 21 sets logg
 
 Adis Is OK, Switch Nollie, CRB
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomselect/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomselect/)*

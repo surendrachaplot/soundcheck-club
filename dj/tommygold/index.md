@@ -1,8 +1,8 @@
 # Tommy Gold
 
-Tommy Gold is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gallery, London on Thu, 15 Oct 2026.
+Tommy Gold is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gallery, London on Thu, 15 Oct 2026.
 
-Tommy Gold is a house and tech house artist tracked on soundcheck, with 56 sets logged across Bali, Belfast, Ibiza and Lisbon and 8 more. Often billed alongside Casnova, Ella Knight and Elliot Schooling. Next up: Gallery, London on Thu 15 Oct.
+Tommy Gold is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Bali, Belfast, Ibiza and Lisbon and 8 more. Often billed alongside Casnova, Ella Knight and Elliot Schooling. Next up: Gallery, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tommy Gold is a house and tech house artist tracked on soundcheck, with 56 sets 
 
 Casnova, Ella Knight, Elliot Schooling
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommygold/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommygold/)*

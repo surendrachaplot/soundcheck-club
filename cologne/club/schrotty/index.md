@@ -1,14 +1,13 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CHARITY RAVE by Neon Graveyard" on Wed, 23 Sept 2026.
+Schrotty is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "EhrenKlub im Schrotty #14 mit USH, RIOT SHIFT, TITI, DIKKE BAAP, S*Y*N*K uvm" on Fri, 25 Sept 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Adrian Mills, Andreas Kraemer, anyka and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Adrian Mills, Andreas Kraemer, anyka and A*S*Y*S (2) and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | CHARITY RAVE by Neon Graveyard | Connect, Johannes Schuster, LSG, OSKAMAXX |
 | Fri, 25 Sept 2026 | EhrenKlub im Schrotty #14 mit USH, RIOT SHIFT, TITI, DIKKE BAAP, S*Y*N*K uvm |  |
 | Fri, 2 Oct 2026 | Adrenaline Family Tour | Adrian Mills, Cloudy, KUKO |
 | Sat, 3 Oct 2026 | SESH pres. MCR-T ANL | MCR-T |
@@ -18,9 +17,10 @@ Schrotty is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 31 Oct 2026 | Schrotty Halloween mit Klanglos & Mark Dekoda | Klanglos, Mark Dekoda |
 | Fri, 13 Nov 2026 | Swimming Paul @ Schrotty Köln | Swimming Paul |
 | Fri, 27 Nov 2026 | 303 presents Johannes Schuster, Noise Not War, GRAVEDGR, Ally u. v. m. | GRAVEDGR, Johannes Schuster, Noise Not War |
+| Sat, 28 Nov 2026 | AOS | Penglord, Speckman, Supergloss, ferrari rot |
 
 ## Address
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

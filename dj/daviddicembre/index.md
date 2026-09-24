@@ -1,8 +1,8 @@
 # David Dicembre
 
-David Dicembre is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
+David Dicembre is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Space Orbit, Tokyo on Thu, 8 Oct 2026.
 
-David Dicembre is a downtempo and ambient artist tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Chris SSG, Galaxis and DJ Trystero. Next up: Space Orbit, Tokyo on Thu 8 Oct.
+David Dicembre is a downtempo and ambient artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Chris SSG, Galaxis and DJ Trystero. Next up: Space Orbit, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ David Dicembre is a downtempo and ambient artist tracked on soundcheck, with 7 s
 
 Chris SSG, Galaxis, DJ Trystero
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddicembre/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddicembre/)*

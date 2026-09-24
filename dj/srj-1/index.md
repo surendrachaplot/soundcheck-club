@@ -1,8 +1,8 @@
 # SRJ (1)
 
-SRJ (1) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+SRJ (1) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
-SRJ (1) is a dub and bass artist tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Andreas Palmer, A. Square and pink.wav. Next up: Ilion Plus, Athens on Sat 26 Sept.
+SRJ (1) is a dub and bass artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Andreas Palmer, A. Square and pink.wav. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SRJ (1) is a dub and bass artist tracked on soundcheck, with 9 sets logged acros
 
 Andreas Palmer, A. Square, pink.wav
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/srj-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/srj-1/)*

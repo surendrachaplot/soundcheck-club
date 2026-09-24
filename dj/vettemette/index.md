@@ -1,8 +1,8 @@
 # Vette Mette
 
-Vette Mette is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Transit, Amsterdam on Fri, 23 Oct 2026.
+Vette Mette is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Transit, Amsterdam on Fri, 23 Oct 2026.
 
-Vette Mette is a dub and bass artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside DJ Cellie, PsyGogh and Sander. Next up: Transit, Amsterdam on Fri 23 Oct.
+Vette Mette is a dub and bass artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside DJ Cellie, PsyGogh and Sander. Next up: Transit, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Vette Mette is a dub and bass artist tracked on soundcheck, with 6 sets logged a
 
 DJ Cellie, PsyGogh, Sander
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vettemette/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vettemette/)*

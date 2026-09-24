@@ -1,8 +1,8 @@
 # Honingdas
 
-Honingdas is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Oosterbar, Amsterdam on Fri, 4 Dec 2026.
+Honingdas is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oosterbar, Amsterdam on Fri, 4 Dec 2026.
 
-Honingdas is a house and electro artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside DAUDA. Next up: Oosterbar, Amsterdam on Fri 4 Dec.
+Honingdas is a house and electro artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside DAUDA. Next up: Oosterbar, Amsterdam on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Honingdas is a house and electro artist tracked on soundcheck, with 6 sets logge
 
 DAUDA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honingdas/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honingdas/)*

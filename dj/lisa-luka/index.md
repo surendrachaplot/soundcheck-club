@@ -1,6 +1,6 @@
 # lisa luka
 
-lisa luka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+lisa luka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 lisa luka is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Ciao 3lla, Carlo Bonanza and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ lisa luka is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Ciao 3lla, Carlo Bonanza, Horst Haller
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*

@@ -1,8 +1,8 @@
 # DJ Three
 
-DJ Three is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nowadays, New York City on Thu, 15 Oct 2026.
+DJ Three is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Thu, 15 Oct 2026.
 
-DJ Three is a house and techno artist tracked on soundcheck, with 34 sets logged across Austin, Detroit, Houston and Losangeles and 4 more. Often billed alongside Öona Dahl, Danny Daze and Dylan Payne. Next up: Nowadays, Newyorkcity on Thu 15 Oct.
+DJ Three is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Detroit, Houston and Losangeles and 4 more. Often billed alongside Öona Dahl, Danny Daze and Dylan Payne. Next up: Nowadays, Newyorkcity on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DJ Three is a house and techno artist tracked on soundcheck, with 34 sets logged
 
 Öona Dahl, Danny Daze, Dylan Payne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*

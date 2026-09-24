@@ -1,8 +1,8 @@
 # C Razey
 
-C Razey is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
+C Razey is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
 
-C Razey is a techno artist tracked on soundcheck, with 21 sets logged across Krakow. Often billed alongside Aetha, RAJZ and outta_8. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
+C Razey is a techno artist based in Poland, tracked on soundcheck, with 21 sets logged across Krakow. Often billed alongside Aetha, RAJZ and outta_8. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ C Razey is a techno artist tracked on soundcheck, with 21 sets logged across Kra
 
 Aetha, RAJZ, outta_8
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazey/)*

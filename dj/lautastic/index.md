@@ -1,14 +1,14 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Glove That Fits, London on Thu, 15 Oct 2026.
+Lau.tastic is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Thu, 8 Oct 2026.
 
-Lau.tastic is a techno and industrial artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 5 more. Often billed alongside Dres Codex, KASTILO and Labåzuy. Next up: The Glove That Fits, London on Thu 15 Oct.
+Lau.tastic is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 5 more. Often billed alongside Dres Codex, KASTILO and Labåzuy. Next up: The Glove That Fits, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Glove That Fits | London |
+| Thu, 8 Oct 2026 | The Glove That Fits | London |
 | Fri, 16 Oct 2026 | E1 | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Lau.tastic is a techno and industrial artist tracked on soundcheck, with 88 sets
 
 Dres Codex, KASTILO, Labåzuy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

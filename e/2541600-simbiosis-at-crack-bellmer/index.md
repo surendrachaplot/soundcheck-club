@@ -1,6 +1,6 @@
 # Simbiosis at Crack Bellmer
 
-Simbiosis at Crack Bellmer on Thu 19 Nov, Berlin. 2 acts on the bill: Juan Diego Drouet and oulcan. Deep House and Acid. Preview the line-up and save it on soundcheck.
+Simbiosis at Crack Bellmer on Thu 19 Nov, Berlin. 3 acts on the bill: Juan Diego Drouet, Larisaa and oulcan. Deep House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Simbiosis at Crack Bellmer on Thu 19 Nov, Berlin. 2 acts on the bill: Juan Diego
 ## Line-up
 
 - Juan Diego Drouet
+- Larisaa
 - oulcan
 
 *Source: [soundcheck](https://soundcheck.club/e/2541600-simbiosis-at-crack-bellmer/)*

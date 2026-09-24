@@ -1,8 +1,8 @@
 # JUNN GULDUR
 
-JUNN GULDUR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Flinders, Sydney on Sat, 26 Sept 2026.
+JUNN GULDUR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Flinders, Sydney on Sat, 26 Sept 2026.
 
-JUNN GULDUR is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Brisbane and Sydney. Often billed alongside Bleach, I-SO and PRMIDV. Next up: The Flinders, Sydney on Sat 26 Sept.
+JUNN GULDUR is a techno and industrial artist based in Australia, tracked on soundcheck, with 32 sets logged across Brisbane and Sydney. Often billed alongside Bleach, I-SO and PRMIDV. Next up: The Flinders, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JUNN GULDUR is a techno and industrial artist tracked on soundcheck, with 32 set
 
 Bleach, I-SO, PRMIDV
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junnguldur/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junnguldur/)*

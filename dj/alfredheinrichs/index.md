@@ -1,8 +1,8 @@
 # Alfred Heinrichs
 
-Alfred Heinrichs is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Docks, Hamburg on Sat, 10 Oct 2026.
+Alfred Heinrichs is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Docks, Hamburg on Sat, 10 Oct 2026.
 
-Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Felix Kröcher, Mark Dekoda and Nicolas Julian. Next up: Docks, Hamburg on Sat 10 Oct.
+Alfred Heinrichs is a techno and electro artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside Felix Kröcher, Mark Dekoda and Nicolas Julian. Next up: Docks, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 40 s
 | Sat, 17 Oct 2026 | Haus Auensee | Leipzig |
 | Fri, 30 Oct 2026 | Kesselhaus | Munich |
 | Sat, 7 Nov 2026 | Astra Kulturhaus | Berlin |
+| Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Alfred Heinrichs is a techno and electro artist tracked on soundcheck, with 40 s
 
 Felix Kröcher, Mark Dekoda, Nicolas Julian
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*

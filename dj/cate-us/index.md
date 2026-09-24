@@ -1,8 +1,8 @@
 # Cate.
 
-Cate. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Uproar Lounge, Washington DC on Fri, 2 Oct 2026.
+Cate. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Uproar Lounge, Washington DC on Fri, 2 Oct 2026.
 
-Cate. is a techno and dub techno artist tracked on soundcheck, with 5 sets logged across Washingtondc. Often billed alongside Factory Reset, Juana and MAXIMILIANO (US). Next up: Uproar Lounge, Washingtondc on Fri 2 Oct.
+Cate. is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Washingtondc. Often billed alongside Factory Reset, Juana and MAXIMILIANO (US). Next up: Uproar Lounge, Washingtondc on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Cate. is a techno and dub techno artist tracked on soundcheck, with 5 sets logge
 
 Factory Reset, Juana, MAXIMILIANO (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cate-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cate-us/)*

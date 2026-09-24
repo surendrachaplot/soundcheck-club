@@ -1,8 +1,8 @@
 # DJ SCHEMA
 
-DJ SCHEMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Accidental Theatre, Belfast on Sat, 10 Oct 2026.
+DJ SCHEMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Accidental Theatre, Belfast on Sat, 10 Oct 2026.
 
-DJ SCHEMA is a techno and trance artist tracked on soundcheck, with 6 sets logged across Belfast, Cork and Dublin. Often billed alongside Chris Flannigan, Cici and Divergence. Next up: Accidental Theatre, Belfast on Sat 10 Oct.
+DJ SCHEMA is a techno and trance artist based in Ireland, tracked on soundcheck, with 6 sets logged across Belfast, Cork and Dublin. Often billed alongside Chris Flannigan, Cici and Divergence. Next up: Accidental Theatre, Belfast on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ DJ SCHEMA is a techno and trance artist tracked on soundcheck, with 6 sets logge
 
 Chris Flannigan, Cici, Divergence
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschema/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschema/)*

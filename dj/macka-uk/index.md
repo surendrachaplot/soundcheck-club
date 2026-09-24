@@ -1,8 +1,8 @@
 # Macka
 
-Macka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 26 Sept 2026.
+Macka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 26 Sept 2026.
 
-Macka is a house and disco artist tracked on soundcheck, with 52 sets logged across Budapest, Edinburgh, Glasgow and London and 1 more. Often billed alongside Lowree, Josh Buchanan and Robbie. Next up: Cabaret Voltaire, Edinburgh on Sat 26 Sept.
+Macka is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Budapest, Edinburgh, Glasgow and London and 1 more. Often billed alongside Lowree, Josh Buchanan and Robbie. Next up: Cabaret Voltaire, Edinburgh on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Macka is a house and disco artist tracked on soundcheck, with 52 sets logged acr
 
 Lowree, Josh Buchanan, Robbie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macka-uk/)*

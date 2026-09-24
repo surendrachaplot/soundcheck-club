@@ -1,6 +1,6 @@
 # Kewu
 
-Kewu is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
+Kewu is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 10 Oct 2026.
 
 Kewu is a techno and electro artist based in Czech Republic, tracked on soundcheck, with 43 sets logged across Prague. Often billed alongside Fembot, Big Lil and domizako. Next up: Ankali & Planeta Za, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Kewu is a techno and electro artist based in Czech Republic, tracked on soundche
 
 Fembot, Big Lil, domizako
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*

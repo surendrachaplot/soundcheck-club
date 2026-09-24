@@ -1,6 +1,6 @@
 # L'hemisphere Gauche
 
-L'hemisphere Gauche is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Against Nature: Only Theatre of Ain, Askar, True Alibi, Reddmist" on Sat, 26 Sept 2026.
+L'hemisphere Gauche is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Against Nature: Only Theatre of Ain, Askar, True Alibi, Reddmist" on Sat, 26 Sept 2026.
 
 L'hemisphere Gauche is a music venue in Montreal listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 221 Beaubien Est, Montreal, QC H2S1R5, Canada.
 
@@ -14,4 +14,4 @@ L'hemisphere Gauche is a music venue in Montreal listed on soundcheck. 1 upcomin
 
 221 Beaubien Est, Montreal, QC H2S1R5, Canada, Montreal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/l-hemisphere-gauche/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/l-hemisphere-gauche/)*

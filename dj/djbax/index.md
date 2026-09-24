@@ -1,8 +1,8 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
+DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
 
-DJ Bax is a techno and trance artist tracked on soundcheck, with 20 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
+DJ Bax is a techno and trance artist based in New Zealand, tracked on soundcheck, with 20 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ DJ Bax is a techno and trance artist tracked on soundcheck, with 20 sets logged 
 
 2FEL, 4000 Hz, Ageusic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

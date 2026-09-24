@@ -1,8 +1,8 @@
 # user228322
 
-user228322 is a Electro and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sekta Selekta, Krakow on Fri, 25 Sept 2026.
+user228322 is a Electro and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sekta Selekta, Krakow on Fri, 25 Sept 2026.
 
-user228322 is an electro and minimal artist tracked on soundcheck, with 56 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Sekta Selekta, Krakow on Fri 25 Sept.
+user228322 is an electro and minimal artist based in Ukraine, tracked on soundcheck, with 56 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Sekta Selekta, Krakow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ user228322 is an electro and minimal artist tracked on soundcheck, with 56 sets 
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

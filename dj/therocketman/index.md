@@ -1,8 +1,8 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+The Rocketman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
-The Rocketman is a techno and trance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 20 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
+The Rocketman is a techno and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 20 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ The Rocketman is a techno and trance artist tracked on soundcheck, with 40 sets 
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

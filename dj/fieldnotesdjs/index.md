@@ -1,13 +1,14 @@
 # Field Notes DJs
 
-Field Notes DJs is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Cafe Westerdok, Amsterdam on Sun, 25 Oct 2026.
+Field Notes DJs is a Acid and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
-Field Notes DJs is an acid and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Richii. Next up: TBA - Cafe Westerdok, Amsterdam on Sun 25 Oct.
+Field Notes DJs is an acid and disco artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Robert Bergman. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | San Francisco | Amsterdam |
 | Sun, 25 Oct 2026 | TBA - Cafe Westerdok | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Field Notes DJs is an acid and house artist tracked on soundcheck, with 33 sets 
 
 ## Shares bills with
 
-Sound Metaphors Djs, Alicia Carrera, Richii
+Sound Metaphors Djs, Alicia Carrera, Robert Bergman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

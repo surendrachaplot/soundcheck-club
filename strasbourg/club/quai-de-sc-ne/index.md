@@ -1,6 +1,6 @@
 # Quai de Scène
 
-Quai de Scène is a music venue in Strasbourg with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PiraTeK 24 - Le Quai Interdit" on Fri, 25 Sept 2026.
+Quai de Scène is a music venue in Strasbourg with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PiraTeK 24 - Le Quai Interdit" on Fri, 25 Sept 2026.
 
 Quai de Scène is a music venue in Strasbourg listed on soundcheck. 3 upcoming gigs, with line-ups including GREMMLiNS. Browse upcoming dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Quai de Scène is a music venue in Strasbourg listed on soundcheck. 3 upcoming g
 | Sat, 26 Sept 2026 | It's Ariana Bitch Party Strasbourg avec Moon |  |
 | Sat, 3 Oct 2026 | HAPPSY AUTUMN 2026 | GREMMLiNS |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/quai-de-sc-ne/)*

@@ -1,14 +1,15 @@
 # Marí Kozlovska
 
-Marí Kozlovska is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Marí Kozlovska is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-Marí Kozlovska is a techno and electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Berlin and Valencia. Often billed alongside Alex Xandra, DJ Jordan and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
+Marí Kozlovska is a techno and electronica artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin and Valencia. Often billed alongside Alex Xandra, DJ Jordan and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Void Club | Berlin |
+| Fri, 2 Oct 2026 | LA Rítmica Club | Valencia |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Marí Kozlovska is a techno and electronica artist based in Spain, tracked on so
 
 Alex Xandra, DJ Jordan, Endica
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maríkozlovska/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maríkozlovska/)*

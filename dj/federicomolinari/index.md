@@ -1,8 +1,8 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Malasaña, Madrid on Thu, 24 Sept 2026.
+Federico Molinari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Malasaña, Madrid on Thu, 24 Sept 2026.
 
-Federico Molinari is a house and techno artist tracked on soundcheck, with 70 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Club Malasaña, Madrid on Thu 24 Sept.
+Federico Molinari is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Athens, Austin, Bali and Berlin and 10 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Club Malasaña, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Federico Molinari is a house and techno artist tracked on soundcheck, with 70 se
 
 Nekes, Alvaro Medina, Dorian Paic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*

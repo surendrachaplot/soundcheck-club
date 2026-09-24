@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DIHIVE" on Thu, 24 Sept 2026.
+Hive Club is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DIHIVE" on Thu, 24 Sept 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including 1luu, ACID FLORA, Animal Trainer and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

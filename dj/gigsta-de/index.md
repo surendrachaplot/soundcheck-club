@@ -1,8 +1,8 @@
 # Nono Gigsta
 
-Nono Gigsta is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Atno, Budapest on Sat, 26 Sept 2026.
+Nono Gigsta is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Atno, Budapest on Sat, 26 Sept 2026.
 
-Nono Gigsta is a bass and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Brussels and 22 more. Often billed alongside CCL, Minor Science and Nazar. Next up: Atno, Budapest on Sat 26 Sept.
+Nono Gigsta is a bass and techno artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Brussels and 22 more. Often billed alongside CCL, Minor Science and Nazar. Next up: Atno, Budapest on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nono Gigsta is a bass and techno artist tracked on soundcheck, with 70 sets logg
 
 CCL, Minor Science, Nazar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigsta-de/)*

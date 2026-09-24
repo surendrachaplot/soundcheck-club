@@ -1,8 +1,8 @@
 # Julia Mira
 
-Julia Mira is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
+Julia Mira is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
 
-Julia Mira is a breakbeat and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam and Tallinn. Often billed alongside Andy Garvey, BERTON and Dominika Karaszewska. Next up: Parallel, Amsterdam on Sun 27 Sept.
+Julia Mira is a breakbeat and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Tallinn. Often billed alongside Andy Garvey, BERTON and Dominika Karaszewska. Next up: Parallel, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Julia Mira is a breakbeat and techno artist tracked on soundcheck, with 9 sets l
 
 Andy Garvey, BERTON, Dominika Karaszewska
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamira/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliamira/)*

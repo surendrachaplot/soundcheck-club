@@ -1,6 +1,6 @@
 # Drom
 
-Drom is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "YOI TOKI [A FUTURE FUNK/VAPORWAVE HALLOWEEN]" on Fri, 23 Oct 2026.
+Drom is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "YOI TOKI [A FUTURE FUNK/VAPORWAVE HALLOWEEN]" on Fri, 23 Oct 2026.
 
 Drom is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing. 85 Avenue A, New York, NY 10009.
 
@@ -18,4 +18,4 @@ Drom is a music venue in Newyorkcity listed on soundcheck. 5 upcoming gigs. Brow
 
 85 Avenue A, New York, NY 10009, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/drom/)*

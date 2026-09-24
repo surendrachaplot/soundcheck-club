@@ -1,6 +1,6 @@
 # The Fortitude Music Hall
 
-The Fortitude Music Hall is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Odd Mob - Meanjin / Brisbane" on Sat, 3 Oct 2026.
+The Fortitude Music Hall is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Odd Mob - Meanjin / Brisbane" on Sat, 3 Oct 2026.
 
 The Fortitude Music Hall is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Sampology. Browse upcoming dates, start times and who's playing. 312-318 Brunswick Street, Brisbane, Queensland, Australia 4006.
 
@@ -15,4 +15,4 @@ The Fortitude Music Hall is a music venue in Brisbane listed on soundcheck. 2 up
 
 312-318 Brunswick Street, Brisbane, Queensland, Australia 4006, Brisbane
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-fortitude-music-hall/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-fortitude-music-hall/)*

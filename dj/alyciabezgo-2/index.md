@@ -1,8 +1,8 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
+Alycia Bezgo is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret  Aléatoire, Marseille on Fri, 25 Sept 2026.
 
-Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Athens and Basel and 21 more. Often billed alongside BIIANCO, Helena Lauwaert and I Hate Models. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
+Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Athens and Basel and 22 more. Often billed alongside BIIANCO, Helena Lauwaert and I Hate Models. Next up: Cabaret  Aléatoire, Marseille on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sun, 4 Oct 2026 | La Cité Fertile | Paris |
 | Fri, 9 Oct 2026 | Chinastraat | Ghent |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
@@ -32,4 +33,4 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 
 BIIANCO, Helena Lauwaert, I Hate Models
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

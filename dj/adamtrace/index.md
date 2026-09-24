@@ -1,6 +1,6 @@
 # Adam Trace
 
-Adam Trace is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OneSixOne, Melbourne on Thu, 24 Sept 2026.
+Adam Trace is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OneSixOne, Melbourne on Thu, 24 Sept 2026.
 
 Adam Trace is a house and deep house artist based in Australia, tracked on soundcheck, with 109 sets logged across Melbourne. Often billed alongside Jay Ramon, Amber Ferraro and Katie Hill. Next up: OneSixOne, Melbourne on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ Adam Trace is a house and deep house artist based in Australia, tracked on sound
 
 Jay Ramon, Amber Ferraro, Katie Hill
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamtrace/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamtrace/)*

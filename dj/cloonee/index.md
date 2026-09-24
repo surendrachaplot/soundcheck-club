@@ -1,8 +1,8 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 8 Oct 2026.
+Cloonee is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Cloonee is a house and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Barcelona and Boston and 30 more. Often billed alongside Jamie Jones, Franky Rizardo and Sosa. Next up: Pacha Ibiza, Ibiza on Thu 8 Oct.
+Cloonee is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Boston and 30 more. Often billed alongside Jamie Jones, Franky Rizardo and Sosa. Next up: Pacha Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 69 sets log
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 6 Nov 2026 | BRET | Amsterdam |
@@ -35,4 +36,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 69 sets log
 
 Jamie Jones, Franky Rizardo, Sosa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

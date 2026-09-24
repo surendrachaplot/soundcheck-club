@@ -1,8 +1,8 @@
 # Alessandro Addi
 
-Alessandro Addi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Alessandro Addi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
-Alessandro Addi is a house and tech house artist tracked on soundcheck, with 38 sets logged across Berlin, Ibiza, London and Milan and 2 more. Often billed alongside Andrea Saba, Francesco Maria and Nic Siena. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
+Alessandro Addi is a house and tech house artist based in Italy, tracked on soundcheck, with 38 sets logged across Berlin, Ibiza, London and Milan and 2 more. Often billed alongside Andrea Saba, Francesco Maria and Nic Siena. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alessandro Addi is a house and tech house artist tracked on soundcheck, with 38 
 
 Andrea Saba, Francesco Maria, Nic Siena
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroaddi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroaddi/)*

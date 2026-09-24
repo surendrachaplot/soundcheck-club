@@ -1,6 +1,6 @@
 # CLASH at AMT
 
-CLASH at AMT on Fri 16 Oct, Berlin. 4 acts on the bill: Darren Black, jardabpm, NikolaswithK and Younox. Techno and House. Preview the line-up and save it on soundcheck.
+CLASH at AMT on Fri 16 Oct, Berlin. 5 acts on the bill: Darren Black, DJ LEVEL, jardabpm and NikolaswithK and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ CLASH at AMT on Fri 16 Oct, Berlin. 4 acts on the bill: Darren Black, jardabpm, 
 ## Line-up
 
 - Darren Black
+- DJ LEVEL
 - jardabpm
 - NikolaswithK
 - Younox

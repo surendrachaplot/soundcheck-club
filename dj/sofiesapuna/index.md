@@ -1,8 +1,8 @@
 # Sofie Sapuna
 
-Sofie Sapuna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
+Sofie Sapuna is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
 
-Sofie Sapuna is a techno and trance artist tracked on soundcheck, with 37 sets logged across Barcelona, Basel, Berlin and Cologne and 9 more. Often billed alongside Gourski, ADEMES and DeGuzman. Next up: Helios37, Cologne on Sat 26 Sept.
+Sofie Sapuna is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Barcelona, Basel, Berlin and Cologne and 9 more. Often billed alongside Gourski, ADEMES and DeGuzman. Next up: Helios37, Cologne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sofie Sapuna is a techno and trance artist tracked on soundcheck, with 37 sets l
 
 Gourski, ADEMES, DeGuzman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiesapuna/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiesapuna/)*

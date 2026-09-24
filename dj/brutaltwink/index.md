@@ -1,8 +1,8 @@
 # Brutal Twink
 
-Brutal Twink is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
+Brutal Twink is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
 
-Brutal Twink is an electro and house artist tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Subcultures, Melona and Actual Angel. Next up: Hart Bar, Newyorkcity on Sat 26 Sept.
+Brutal Twink is an electro and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Subcultures, Melona and Actual Angel. Next up: Hart Bar, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Brutal Twink is an electro and house artist tracked on soundcheck, with 39 sets 
 
 Subcultures, Melona, Actual Angel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutaltwink/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutaltwink/)*

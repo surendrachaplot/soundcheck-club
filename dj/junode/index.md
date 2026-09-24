@@ -1,6 +1,6 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Harriet's Rooftop, Toronto on Sun, 11 Oct 2026.
+JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Harriet's Rooftop, Toronto on Sun, 11 Oct 2026.
 
 JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: Harriet's Rooftop, Toronto on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ JUNO (DE) is an afro house and house artist based in Germany, tracked on soundch
 
 AJNA, Nitefreak, Van Zand
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*

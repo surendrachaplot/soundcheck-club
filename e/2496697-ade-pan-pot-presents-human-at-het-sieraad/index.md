@@ -1,6 +1,6 @@
 # ADE - Pan-Pot presents HUMAN at Het Sieraad
 
-ADE - Pan-Pot presents HUMAN at Het Sieraad on Sat 24 Oct, Amsterdam. 1 act on the bill: Pan-Pot. Techno. Preview the line-up and save it on soundcheck.
+ADE - Pan-Pot presents HUMAN at Het Sieraad on Sat 24 Oct, Amsterdam. 4 acts on the bill: Chloe Martinez, LALENA, Moody Mehran and Pan-Pot. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ ADE - Pan-Pot presents HUMAN at Het Sieraad on Sat 24 Oct, Amsterdam. 1 act on t
 
 ## Line-up
 
+- Chloe Martinez
+- LALENA
+- Moody Mehran
 - Pan-Pot
 
 *Source: [soundcheck](https://soundcheck.club/e/2496697-ade-pan-pot-presents-human-at-het-sieraad/)*

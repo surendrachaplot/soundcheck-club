@@ -1,6 +1,6 @@
 # estro
 
-estro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
+estro is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ErF Studios, New York City on Thu, 1 Oct 2026.
 
 estro is a techno and house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Austin, London and Newyorkcity. Often billed alongside SENAIDA, Junkfile and A lana. Next up: ErF Studios, Newyorkcity on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ estro is a techno and house artist based in United States of America, tracked on
 
 SENAIDA, Junkfile, A lana
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*

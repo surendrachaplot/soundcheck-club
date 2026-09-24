@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 27 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SOULSTICE - Aline Brooklyn - Carlo Alberto - Rimaye" on Fri, 25 Sept 2026.
+DURO is a music venue in Milan with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SOULSTICE - Aline Brooklyn - Carlo Alberto - Rimaye" on Fri, 25 Sept 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 27 upcoming gigs, with line-ups including Aline Brooklyn, Caim, Carloalberto and Chloé and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 27 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

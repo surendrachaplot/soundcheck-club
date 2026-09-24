@@ -1,8 +1,8 @@
 # day astro
 
-day astro is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
+day astro is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-day astro is a club and bass artist tracked on soundcheck, with 15 sets logged across Sanfrancisco. Often billed alongside pxlwlkr, jaag (US) and 40split. Next up: TBA, Sanfrancisco on Sat 26 Sept.
+day astro is a club and bass artist based in Canada, tracked on soundcheck, with 15 sets logged across Sanfrancisco. Often billed alongside pxlwlkr, jaag (US) and 40split. Next up: TBA, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ day astro is a club and bass artist tracked on soundcheck, with 15 sets logged a
 
 pxlwlkr, jaag (US), 40split
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayastro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayastro/)*

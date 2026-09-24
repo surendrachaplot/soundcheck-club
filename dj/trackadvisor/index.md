@@ -1,8 +1,8 @@
 # Track Advisor
 
-Track Advisor is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Java, Paris on Sat, 26 Sept 2026.
+Track Advisor is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Java, Paris on Sat, 26 Sept 2026.
 
-Track Advisor is a house and electro artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside MIRZA, UnesGroove and Aleqs Notal. Next up: La Java, Paris on Sat 26 Sept.
+Track Advisor is a house and electro artist based in Tunisia, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Frankfurt and Paris. Often billed alongside MIRZA, UnesGroove and Aleqs Notal. Next up: La Java, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Track Advisor is a house and electro artist tracked on soundcheck, with 17 sets 
 
 MIRZA, UnesGroove, Aleqs Notal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trackadvisor/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trackadvisor/)*

@@ -1,8 +1,8 @@
 # ines isla
 
-ines isla is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+ines isla is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
-ines isla is a techno and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Madrid, Malaga and Valencia. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Levenslang Amsterdam, Amsterdam on Sun 25 Oct.
+ines isla is a techno and house artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Madrid and Malaga and 1 more. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Levenslang Amsterdam, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ ines isla is a techno and house artist based in Spain, tracked on soundcheck, wi
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
+| Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ ines isla is a techno and house artist based in Spain, tracked on soundcheck, wi
 
 Alba Franch, Mamba Nera, Reitze
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*

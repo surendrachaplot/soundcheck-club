@@ -1,8 +1,8 @@
 # basic chanel
 
-basic chanel is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
+basic chanel is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
 
-basic chanel is a techno and bass artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and London and 5 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
+basic chanel is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Brussels and London and 5 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ basic chanel is a techno and bass artist tracked on soundcheck, with 44 sets log
 
 Paquita Gordon, Allecto, Cam Joon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

@@ -1,8 +1,8 @@
 # Phia500
 
-Phia500 is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Love Inn, Bristol on Thu, 24 Sept 2026.
+Phia500 is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Love Inn, Bristol on Thu, 24 Sept 2026.
 
-Phia500 is a garage and jungle artist tracked on soundcheck, with 54 sets logged across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside IZZIT, Lily Huu and Mousai. Next up: The Love Inn, Bristol on Thu 24 Sept.
+Phia500 is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside IZZIT, Lily Huu and Mousai. Next up: The Love Inn, Bristol on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Phia500 is a garage and jungle artist tracked on soundcheck, with 54 sets logged
 
 IZZIT, Lily Huu, Mousai
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phia500/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phia500/)*

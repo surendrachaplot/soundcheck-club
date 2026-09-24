@@ -1,8 +1,8 @@
 # Steve Pan
 
-Steve Pan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Solace, Melbourne on Sat, 26 Sept 2026.
+Steve Pan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Solace, Melbourne on Sat, 26 Sept 2026.
 
-Steve Pan is a techno and bass artist tracked on soundcheck, with 63 sets logged across Hongkong, Melbourne, Shenzhen and Tokyo. Often billed alongside anormalturtle300, Sirens and Warmchainss. Next up: Solace, Melbourne on Sat 26 Sept.
+Steve Pan is a techno and bass artist based in China, tracked on soundcheck, with 63 sets logged across Hongkong, Melbourne, Shenzhen and Tokyo. Often billed alongside anormalturtle300, Sirens and Warmchainss. Next up: Solace, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Steve Pan is a techno and bass artist tracked on soundcheck, with 63 sets logged
 
 anormalturtle300, Sirens, Warmchainss
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevepan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevepan/)*

@@ -1,8 +1,8 @@
 # Dance
 
-Dance is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Dance is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
-Dance is a house and club artist tracked on soundcheck, with 58 sets logged across Athens, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside DJ B2B, Amine Edge & DANCE and Bass. Next up: FS., Tokyo on Fri 25 Sept.
+Dance is a house and club artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Athens, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside DJ B2B, Amine Edge & DANCE and Bass. Next up: FS., Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dance is a house and club artist tracked on soundcheck, with 58 sets logged acro
 
 DJ B2B, Amine Edge & DANCE, Bass
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*

@@ -1,8 +1,8 @@
 # SANTO
 
-SANTO is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+SANTO is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-SANTO is a techno and italo disco artist tracked on soundcheck, with 14 sets logged across Amsterdam, Geneva, Hamburg and London and 5 more. Often billed alongside David Ponziano, Akalex and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+SANTO is a techno and italo disco artist based in Venezuela, tracked on soundcheck, with 14 sets logged across Amsterdam, Geneva, Hamburg and London and 5 more. Often billed alongside David Ponziano, Akalex and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SANTO is a techno and italo disco artist tracked on soundcheck, with 14 sets log
 
 David Ponziano, Akalex, Berrakka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santo/)*

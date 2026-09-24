@@ -1,8 +1,8 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colours Hoxton, London on Fri, 25 Sept 2026.
+Berlin Bunny is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colours Hoxton, London on Fri, 25 Sept 2026.
 
-Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Eyesdice, Franz Scala and Paty Vapor. Next up: Colours Hoxton, London on Fri 25 Sept.
+Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 9 more. Often billed alongside Eyesdice, Franz Scala and Paty Vapor. Next up: Colours Hoxton, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck
 | Fri, 25 Sept 2026 | Colours Hoxton | London |
 | Sat, 26 Sept 2026 | Phantom Bar Berlin | Berlin |
 | Fri, 9 Oct 2026 | Fuchs2 | Prague |
+| Fri, 23 Oct 2026 | What Is Happening Here Gallery | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Berlin Bunny is a techno and house artist based in Poland, tracked on soundcheck
 
 Eyesdice, Franz Scala, Paty Vapor
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

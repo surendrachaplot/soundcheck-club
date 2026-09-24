@@ -1,8 +1,8 @@
 # Jovonn
 
-Jovonn is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
+Jovonn is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
 
-Jovonn is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Brussels and Chicago and 13 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Salon Daomé, Montreal on Fri 25 Sept.
+Jovonn is a house and deep house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Brussels and Chicago and 13 more. Often billed alongside Chez Damier, Garrett David and Omer Mil. Next up: Salon Daomé, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jovonn is a house and deep house artist tracked on soundcheck, with 50 sets logg
 
 Chez Damier, Garrett David, Omer Mil
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovonn/)*

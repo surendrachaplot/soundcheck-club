@@ -1,8 +1,8 @@
 # T4T B2B
 
-T4T B2B is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+T4T B2B is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-T4T B2B is a house and trance artist tracked on soundcheck, with 8 sets logged across Belfast and Manchester. Often billed alongside Katiee.eem, Popper Cherry and Dr. Berry. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+T4T B2B is a house and trance artist based in Ireland, tracked on soundcheck, with 8 sets logged across Belfast and Manchester. Often billed alongside Katiee.eem, Popper Cherry and Dr. Berry. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ T4T B2B is a house and trance artist tracked on soundcheck, with 8 sets logged a
 
 Katiee.eem, Popper Cherry, Dr. Berry
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t4tb2b/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t4tb2b/)*

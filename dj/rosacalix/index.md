@@ -1,6 +1,6 @@
 # Rosa Calix
 
-Rosa Calix is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
+Rosa Calix is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
 
 Rosa Calix is a techno and electronica artist based in Italy, tracked on soundcheck, with 27 sets logged across Berlin, Milan, Rome and Turin. Often billed alongside Velardi, Rubens and Inner Lakes. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Rosa Calix is a techno and electronica artist based in Italy, tracked on soundch
 
 Velardi, Rubens, Inner Lakes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosacalix/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosacalix/)*

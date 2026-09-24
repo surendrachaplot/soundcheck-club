@@ -1,14 +1,13 @@
 # Electric Ballroom
 
-Electric Ballroom is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "THE FRESHERS FRAT PARTY" on Wed, 23 Sept 2026.
+Electric Ballroom is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Loop every Saturday" on Sat, 3 Oct 2026.
 
-Electric Ballroom is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom.
+Electric Ballroom is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | THE FRESHERS FRAT PARTY |  |
 | Sat, 3 Oct 2026 | Loop every Saturday |  |
 | Sun, 4 Oct 2026 | The Freshers Ball 2026 |  |
 | Sat, 10 Oct 2026 | Loop every Saturday | TBA |
@@ -18,9 +17,10 @@ Electric Ballroom is a music venue in London listed on soundcheck. 14 upcoming g
 | Sat, 7 Nov 2026 | Loop every Saturday | TBA |
 | Sat, 14 Nov 2026 | Loop every Saturday | TBA |
 | Sat, 21 Nov 2026 | Loop every Saturday | TBA |
+| Sat, 28 Nov 2026 | Loop every Saturday | TBA |
 
 ## Address
 
 184 Camden High St; Camden Town; London NW1 8QP; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-ballroom/)*

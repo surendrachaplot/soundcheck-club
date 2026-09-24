@@ -1,6 +1,6 @@
 # sterni (DE)
 
-sterni (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+sterni (DE) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, 4NOUK and m4tsch1. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ sterni (DE) is a techno and trance artist based in Germany, tracked on soundchec
 
 20_5_3_8_14_15, 4NOUK, m4tsch1
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.sterni/)*

@@ -1,8 +1,8 @@
 # Tristan da Cunha
 
-Tristan da Cunha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
+Tristan da Cunha is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 21 Nov 2026.
 
-Tristan da Cunha is a house and garage artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Brawther, Dungeon Meat and Samuel Deep. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
+Tristan da Cunha is a house and garage artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Brawther, Dungeon Meat and Samuel Deep. Next up: Seaseaclub Barcelona, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tristan da Cunha is a house and garage artist tracked on soundcheck, with 103 se
 
 Brawther, Dungeon Meat, Samuel Deep
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristandacunha/)*

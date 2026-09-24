@@ -1,8 +1,8 @@
 # NIKUSH
 
-NIKUSH is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+NIKUSH is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
-NIKUSH is a trance and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Kacy, The Belgian Stallion and cravings320. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+NIKUSH is a trance and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Kacy, The Belgian Stallion and cravings320. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NIKUSH is a trance and techno artist tracked on soundcheck, with 32 sets logged 
 
 Kacy, The Belgian Stallion, cravings320
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikush/)*

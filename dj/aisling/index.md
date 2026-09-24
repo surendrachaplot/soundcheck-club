@@ -1,8 +1,8 @@
 # Aisling
 
-Aisling is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fabwick, London on Sat, 26 Sept 2026.
+Aisling is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fabwick, London on Sat, 26 Sept 2026.
 
-Aisling is a house and techno artist tracked on soundcheck, with 19 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside MARINI, Binx and Danny Vito. Next up: Fabwick, London on Sat 26 Sept.
+Aisling is a house and techno artist based in Ireland, tracked on soundcheck, with 19 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside MARINI, Binx and Danny Vito. Next up: Fabwick, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Aisling is a house and techno artist tracked on soundcheck, with 19 sets logged 
 
 MARINI, Binx, Danny Vito
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisling/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aisling/)*

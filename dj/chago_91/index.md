@@ -1,14 +1,15 @@
 # chago_91
 
-chago_91 is a Hardcore and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
+chago_91 is a Hardcore and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
 
-chago_91 is a hardcore and ghetto tech artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside DJ Syncronizada, Martyn Bootyspoon and Mytron. Next up: Bar Datcha, Montreal on Fri 2 Oct.
+chago_91 is a hardcore and ghetto tech artist based in Chile, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside Ana Luisa, DJ Syncronizada and Excalibur. Next up: Bar Datcha, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Bar Datcha | Montreal |
+| Sat, 31 Oct 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ chago_91 is a hardcore and ghetto tech artist tracked on soundcheck, with 3 sets
 
 ## Shares bills with
 
-DJ Syncronizada, Martyn Bootyspoon, Mytron
+Ana Luisa, DJ Syncronizada, Excalibur
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chago_91/)*

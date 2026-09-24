@@ -1,8 +1,8 @@
 # Charlie Price
 
-Charlie Price is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, London on Fri, 16 Oct 2026.
+Charlie Price is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, London on Fri, 16 Oct 2026.
 
-Charlie Price is a house and jazz artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Dan Cluskey, Late Night Disco and Suka Meneri. Next up: TBA, London on Fri 16 Oct.
+Charlie Price is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Dan Cluskey, Late Night Disco and Suka Meneri. Next up: TBA, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Charlie Price is a house and jazz artist tracked on soundcheck, with 15 sets log
 
 Dan Cluskey, Late Night Disco, Suka Meneri
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieprice/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieprice/)*

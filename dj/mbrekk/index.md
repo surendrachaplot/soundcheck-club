@@ -1,6 +1,6 @@
 # MBREKK
 
-MBREKK is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+MBREKK is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
 MBREKK is an electronic artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin and Munich. Often billed alongside 9LALEY, NAGINI and Praun. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ MBREKK is an electronic artist based in Germany, tracked on soundcheck, with 17 
 
 9LALEY, NAGINI, Praun
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mbrekk/)*

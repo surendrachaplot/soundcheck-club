@@ -1,8 +1,8 @@
 # Matt Egbert
 
-Matt Egbert is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu, 1 Oct 2026.
+Matt Egbert is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles on Thu, 1 Oct 2026.
 
-Matt Egbert is a house and minimal artist tracked on soundcheck, with 17 sets logged across Boston, Losangeles, Newyorkcity and Sandiego. Often billed alongside Rich NXT, Adam Rose and Arthur Onni. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Losangeles on Thu 1 Oct.
+Matt Egbert is a house and minimal artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston, Losangeles, Newyorkcity and Sandiego. Often billed alongside Rich NXT, Adam Rose and Arthur Onni. Next up: TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Losangeles on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matt Egbert is a house and minimal artist tracked on soundcheck, with 17 sets lo
 
 Rich NXT, Adam Rose, Arthur Onni
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattegbert/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattegbert/)*

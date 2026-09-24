@@ -1,8 +1,8 @@
 # YOON
 
-YOON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
+YOON is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Box, Copenhagen on Sat, 3 Oct 2026.
 
-YOON is a house and techno artist based in Denmark, tracked on soundcheck, with 33 sets logged across Copenhagen. Often billed alongside NAT(SK), Tilde Dyrnes and Pelzman. Next up: Culture Box, Copenhagen on Sat 3 Oct.
+YOON is a house and techno artist based in Denmark, tracked on soundcheck, with 34 sets logged across Copenhagen. Often billed alongside NAT(SK), Tilde Dyrnes and Pelzman. Next up: Culture Box, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YOON is a house and techno artist based in Denmark, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Culture Box | Copenhagen |
 | Fri, 9 Oct 2026 | Hangaren | Copenhagen |
+| Sat, 12 Dec 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ YOON is a house and techno artist based in Denmark, tracked on soundcheck, with 
 
 NAT(SK), Tilde Dyrnes, Pelzman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoon-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoon-2/)*

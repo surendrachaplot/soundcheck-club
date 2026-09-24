@@ -1,14 +1,15 @@
 # Ciclo
 
-Ciclo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
+Ciclo is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Wed, 30 Sept 2026.
 
-Ciclo is a tech house and house artist based in Colombia, tracked on soundcheck, with 6 sets logged across Ibiza, London, Madrid and Miami and 1 more. Often billed alongside Ale Grooves, Calvin Clarke and Chris Figueroa. Next up: [UNVRS], Ibiza on Wed 30 Sept.
+Ciclo is a tech house and house artist based in Colombia, tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, London and Madrid and 2 more. Often billed alongside Ale Grooves, Calvin Clarke and Chris Figueroa. Next up: [UNVRS], Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 30 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 6 Nov 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Ciclo is a tech house and house artist based in Colombia, tracked on soundcheck,
 
 Ale Grooves, Calvin Clarke, Chris Figueroa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*

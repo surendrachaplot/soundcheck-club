@@ -1,6 +1,6 @@
 # Evening
 
-Evening is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "evening Invites w/ bae" on Fri, 25 Sept 2026.
+Evening is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "evening Invites w/ bae" on Fri, 25 Sept 2026.
 
 Evening is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ COSMOS. Browse upcoming dates, start times and who's playing. 141, Itaewon-ro, Yongsan-gu, Seoul 04351, South Korea.
 
@@ -15,4 +15,4 @@ Evening is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with li
 
 141, Itaewon-ro, Yongsan-gu, Seoul 04351, South Korea, Seoul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/evening/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/evening/)*

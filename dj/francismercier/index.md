@@ -1,8 +1,8 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bloody Louis, Brussels on Fri, 25 Sept 2026.
+Francis Mercier is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bloody Louis, Brussels on Fri, 25 Sept 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Bloody Louis, Brussels on Fri 25 Sept.
+Francis Mercier is an afro house and house artist based in United States of America, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Bloody Louis, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 17
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

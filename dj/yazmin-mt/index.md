@@ -1,8 +1,8 @@
 # YAZMIN (MT)
 
-YAZMIN (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
+YAZMIN (MT) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Department 184, Milan on Sat, 26 Sept 2026.
 
-YAZMIN (MT) is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Malta, Manchester and Milan and 3 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: Department 184, Milan on Sat 26 Sept.
+YAZMIN (MT) is a techno and house artist based in Malta, tracked on soundcheck, with 34 sets logged across Berlin, Malta, Manchester and Milan and 3 more. Often billed alongside Echofaze, Kyle Cortis and Human Safari. Next up: Department 184, Milan on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ YAZMIN (MT) is a techno and house artist tracked on soundcheck, with 34 sets log
 
 Echofaze, Kyle Cortis, Human Safari
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmin-mt/)*

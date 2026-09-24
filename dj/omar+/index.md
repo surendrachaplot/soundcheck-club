@@ -1,8 +1,8 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
+Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
 
-Omar+ is a house and tech house artist tracked on soundcheck, with 73 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
+Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 29 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 73 sets logge
 
 Obskur, Joss Dean, Max Dean
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

@@ -1,8 +1,8 @@
 # Adam Romo
 
-Adam Romo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Tempest Inn, Brighton on Fri, 25 Sept 2026.
+Adam Romo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Tempest Inn, Brighton on Fri, 25 Sept 2026.
 
-Adam Romo is a house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton, Ibiza and London and 1 more. Often billed alongside Marcos Loveday, RORO and JaeS. Next up: The Tempest Inn, Brighton on Fri 25 Sept.
+Adam Romo is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Brighton, Ibiza and London and 1 more. Often billed alongside Marcos Loveday, RORO and JaeS. Next up: The Tempest Inn, Brighton on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Adam Romo is a house and deep house artist tracked on soundcheck, with 29 sets l
 
 Marcos Loveday, RORO, JaeS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamromo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamromo/)*

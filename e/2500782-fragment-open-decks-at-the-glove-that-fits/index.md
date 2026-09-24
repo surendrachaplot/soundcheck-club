@@ -1,10 +1,10 @@
 # Fragment: Open Decks at The Glove That Fits
 
-Fragment: Open Decks at The Glove That Fits on Thu 15 Oct, London. 4 acts on the bill: Amor Ante, ENFY, Lau.tastic and YOYO (UK). Techno. Preview the line-up and save it on soundcheck.
+Fragment: Open Decks at The Glove That Fits on Thu 8 Oct, London. 4 acts on the bill: Amor Ante, ENFY, Lau.tastic and YOYO (UK). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 15 Oct 2026 |
+| Date | Thu, 8 Oct 2026 |
 | Venue | The Glove That Fits |
 | City | London |
 

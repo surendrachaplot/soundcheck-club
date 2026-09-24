@@ -1,13 +1,14 @@
 # Butterhands
 
-Butterhands is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Salon Iksv, Istanbul on Sat, 17 Oct 2026.
+Butterhands is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Butterhands is a house and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 1 more. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: Salon Iksv, Istanbul on Sat 17 Oct.
+Butterhands is a house and techno artist based in Spain, tracked on soundcheck, with 12 sets logged across All, Amsterdam, Barcelona and Berlin and 2 more. Often billed alongside Thabo, Blame Anthony and Thalo Santana. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 17 Oct 2026 | Salon Iksv | Istanbul |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
@@ -26,4 +27,4 @@ Butterhands is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Thabo, Blame Anthony, Thalo Santana
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbutterhands/)*

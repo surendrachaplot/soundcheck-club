@@ -1,8 +1,8 @@
 # Werkha
 
-Werkha is a Jazz and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at renae, Manchester on Sun, 27 Sept 2026.
+Werkha is a Jazz and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Sun, 27 Sept 2026.
 
-Werkha is a jazz and downtempo artist tracked on soundcheck, with 13 sets logged across Austin, London and Manchester. Often billed alongside Danuka, Yadava and Bolts. Next up: renae, Manchester on Sun 27 Sept.
+Werkha is a jazz and downtempo artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Austin, London and Manchester. Often billed alongside Danuka, Yadava and Bolts. Next up: renae, Manchester on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Werkha is a jazz and downtempo artist tracked on soundcheck, with 13 sets logged
 
 Danuka, Yadava, Bolts
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/werkha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/werkha/)*

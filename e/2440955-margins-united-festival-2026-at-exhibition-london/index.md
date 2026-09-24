@@ -1,6 +1,6 @@
 # MARGINS UNITED FESTIVAL 2026 at Exhibition London
 
-MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 5 acts on the bill: AMANDA SZE, tamanaramen, The Deep and umru and 1 more. Pop and Club. Preview the line-up and save it on soundcheck.
+MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 4 acts on the bill: AMANDA SZE, tamanaramen, The Deep and umru. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,5 @@ MARGINS UNITED FESTIVAL 2026 at Exhibition London on Sat 26 Sept, London. 5 acts
 - tamanaramen
 - The Deep
 - umru
-- YAKA
 
 *Source: [soundcheck](https://soundcheck.club/e/2440955-margins-united-festival-2026-at-exhibition-london/)*

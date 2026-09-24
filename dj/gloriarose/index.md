@@ -1,8 +1,8 @@
 # Gloria Rose
 
-Gloria Rose is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
+Gloria Rose is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-Gloria Rose is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside Nina Pixina, Amphia and RayRay. Next up: M.O.T, London on Sat 3 Oct.
+Gloria Rose is a techno and house artist based in France, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside Nina Pixina, Amphia and RayRay. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Gloria Rose is a techno and house artist tracked on soundcheck, with 55 sets log
 
 Nina Pixina, Amphia, RayRay
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gloriarose/)*

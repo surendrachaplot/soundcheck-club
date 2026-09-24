@@ -1,8 +1,8 @@
 # GEST (UK)
 
-GEST (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AMT, Berlin on Sat, 7 Nov 2026.
+GEST (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Sat, 7 Nov 2026.
 
-GEST (UK) is a drum & bass and bass artist tracked on soundcheck, with 28 sets logged across Antwerp, Basel, Berlin and Brighton and 7 more. Often billed alongside PRTCL, Mc Jamie White and Survey. Next up: AMT, Berlin on Sat 7 Nov.
+GEST (UK) is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Antwerp, Basel, Berlin and Brighton and 7 more. Often billed alongside PRTCL, Mc Jamie White and Survey. Next up: AMT, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GEST (UK) is a drum & bass and bass artist tracked on soundcheck, with 28 sets l
 
 PRTCL, Mc Jamie White, Survey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gestuk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gestuk/)*

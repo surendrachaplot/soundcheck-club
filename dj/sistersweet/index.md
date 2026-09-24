@@ -1,8 +1,8 @@
 # SisterSweet
 
-SisterSweet is a Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+SisterSweet is a Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
-SisterSweet is a progressive house artist tracked on soundcheck, with 5 sets logged across Amsterdam and Barcelona. Often billed alongside Francesco Pico, Heaven INC. and Rikken. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
+SisterSweet is a progressive house artist based in Russia, tracked on soundcheck, with 5 sets logged across Amsterdam and Barcelona. Often billed alongside Francesco Pico, Heaven INC. and Rikken. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ SisterSweet is a progressive house artist tracked on soundcheck, with 5 sets log
 
 Francesco Pico, Heaven INC., Rikken
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersweet/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersweet/)*

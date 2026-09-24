@@ -1,14 +1,15 @@
 # April (UK)
 
-April (UK) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
+April (UK) is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
 
-April (UK) is a techno and electro artist tracked on soundcheck, with 65 sets logged across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: renae, Manchester on Fri 25 Sept.
+April (UK) is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: renae, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | renae | Manchester |
+| Sun, 27 Sept 2026 | Bar Shrimp | Manchester |
 | Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
 | Fri, 30 Oct 2026 | 1520 | Manchester |
 
@@ -27,4 +28,4 @@ April (UK) is a techno and electro artist tracked on soundcheck, with 65 sets lo
 
 Esmé, Alex Milo, Practical
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

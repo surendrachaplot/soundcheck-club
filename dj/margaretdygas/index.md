@@ -1,8 +1,8 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
+Margaret Dygas is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
 
-Margaret Dygas is a house and minimal artist tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
+Margaret Dygas is a house and minimal artist based in Poland, tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 142 set
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

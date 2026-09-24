@@ -1,8 +1,8 @@
 # Waxist
 
-Waxist is a Electro and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
+Waxist is a Electro and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
 
-Waxist is an electro and disco artist tracked on soundcheck, with 5 sets logged across Lyon. Often billed alongside Farah (2), IMA:R and Mouataz. Next up: Super7, Lyon on Thu 24 Sept.
+Waxist is an electro and disco artist based in France, tracked on soundcheck, with 5 sets logged across Lyon. Often billed alongside Farah (2), IMA:R and Mouataz. Next up: Super7, Lyon on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Waxist is an electro and disco artist tracked on soundcheck, with 5 sets logged 
 
 Farah (2), IMA:R, Mouataz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxist/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxist/)*

@@ -1,8 +1,8 @@
 # Flieder
 
-Flieder is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at gART.n, Berlin on Sat, 26 Sept 2026.
+Flieder is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at gART.n, Berlin on Sat, 26 Sept 2026.
 
-Flieder is a house and electronica artist tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Ghent and Hamburg and 2 more. Often billed alongside O/Y, BETON (1) and Beazar. Next up: gART.n, Berlin on Sat 26 Sept.
+Flieder is a house and electronica artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Ghent and Hamburg and 2 more. Often billed alongside O/Y, BETON (1) and Beazar. Next up: gART.n, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Flieder is a house and electronica artist tracked on soundcheck, with 20 sets lo
 
 O/Y, BETON (1), Beazar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flieder/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flieder/)*

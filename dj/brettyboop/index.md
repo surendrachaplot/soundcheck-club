@@ -1,8 +1,8 @@
 # Bretty Boop
 
-Bretty Boop is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Evangeline, Toronto on Fri, 25 Sept 2026.
+Bretty Boop is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Evangeline, Toronto on Fri, 25 Sept 2026.
 
-Bretty Boop is a house and afro house artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Dylan Fly, Dylan Sky and KIMVANITY. Next up: Evangeline, Toronto on Fri 25 Sept.
+Bretty Boop is a house and afro house artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Dylan Fly, Dylan Sky and KIMVANITY. Next up: Evangeline, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bretty Boop is a house and afro house artist tracked on soundcheck, with 23 sets
 
 Dylan Fly, Dylan Sky, KIMVANITY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brettyboop/)*

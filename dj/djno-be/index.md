@@ -1,8 +1,8 @@
 # DJNO
 
-DJNO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
+DJNO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
 
-DJNO is a house and techno artist tracked on soundcheck, with 5 sets logged across Antwerp. Often billed alongside DOUBLE P, LEGOLANE and Butchpm. Next up: Trix, Antwerp on Sat 10 Oct.
+DJNO is a house and techno artist based in Belgium, tracked on soundcheck, with 5 sets logged across Antwerp. Often billed alongside DOUBLE P, LEGOLANE and Butchpm. Next up: Trix, Antwerp on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ DJNO is a house and techno artist tracked on soundcheck, with 5 sets logged acro
 
 DOUBLE P, LEGOLANE, Butchpm
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djno-be/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djno-be/)*

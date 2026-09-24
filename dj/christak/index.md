@@ -1,13 +1,14 @@
 # Christa K
 
-Christa K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at frachtkante, Berlin on Sat, 26 Sept 2026.
+Christa K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
-Christa K is a house and techno artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: frachtkante, Berlin on Sat 26 Sept.
+Christa K is a house and techno artist based in Germany, tracked on soundcheck, with 61 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Jonny Knüppel | Berlin |
 | Sat, 26 Sept 2026 | frachtkante | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Christa K is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ATTA (GER), groovyjuri, DJ SPORTSCHUH
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*

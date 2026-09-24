@@ -1,8 +1,8 @@
 # Esli
 
-Esli is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Esli is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
-Esli is a new wave and italo disco artist tracked on soundcheck, with 7 sets logged across Amsterdam, Losangeles and Mexicocity. Often billed alongside Alican, Djolee and Gespona. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
+Esli is a new wave and italo disco artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Losangeles and Mexicocity. Often billed alongside Alican, Djolee and Gespona. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Esli is a new wave and italo disco artist tracked on soundcheck, with 7 sets log
 
 Alican, Djolee, Gespona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esli/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esli/)*

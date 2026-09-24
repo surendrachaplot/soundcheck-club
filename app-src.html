@@ -947,7 +947,13 @@
       .dock:not(.expanded) .scrub { display:none; }
       .dock:not(.expanded) #dock-next { display:inline-flex; }
       .dock:not(.expanded) .main { gap:10px; padding-right:0; }
-      .dock:not(.expanded) .transport { margin-left:auto; gap:8px; }
+      /* AND SHOW IT. The rule above hides .transport for every collapsed dock
+         (the desktop mini-bar puts play/pause on the scrubber knob instead), and
+         this block hides the scrubber on phones — so both controls were off and
+         the collapsed dock had NO play/pause at all. It only set spacing, which
+         does not undo a display:none. Suren: "the play pause button on mobile
+         web is just dead". */
+      .dock:not(.expanded) .transport { display:flex; align-items:center; margin-left:auto; gap:8px; }
       /* Collapsed: close (✕) flows inline at the end of the control row so it
          lines up with the transport. Absolute-centering drifted low because the
          panel's safe-area bottom padding makes the dock asymmetric. */
@@ -3584,8 +3590,6 @@
     .fp-ev-by .pr-link:hover{ text-decoration:underline; }
     .fp-ev-by .pr-rest{ color:var(--faint); }
     /* tickets link under the description */
-    .fp-ev-tickets{ display:inline-flex; align-items:center; gap:6px; margin-top:16px; color:var(--accent); font:700 var(--fs-sm)/var(--lh-sm) var(--body); text-decoration:none; }
-    .fp-ev-tickets:hover{ text-decoration:underline; }
     .fp-pb{ min-width:0; border:1px solid var(--border); border-radius:var(--radius-btn); background:var(--surface-2); color:var(--fg); font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; text-transform:uppercase; padding:0 14px; height:42px; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; gap:7px; transition:border-color var(--dur-1); }
     .fp-pb svg{ width:16px; height:16px; flex:none; }
     .fp-pb:hover{ border-color:var(--accent); }
@@ -4559,7 +4563,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790177873791">
+<meta name="sc-build" content="1790261652169">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -4618,7 +4622,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-23/">Wed 23 Sept <span class="c">14 events</span></a></li><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">142 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-24/">Thu 24 Sept <span class="c">41 events</span></a></li><li><a href="/london/2026-09-25/">Fri 25 Sept <span class="c">125 events</span></a></li><li><a href="/london/2026-09-26/">Sat 26 Sept <span class="c">145 events</span></a></li><li><a href="/london/2026-09-27/">Sun 27 Sept <span class="c">28 events</span></a></li><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">12 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5716,6 +5720,12 @@
     //
     // Resolves to { kind:'sc'|'yt', url|videoId, title, art, src } or null.
     var _latest={};
+    // THE ANSWER, SYNCHRONOUSLY. A tap that has to await anything has already
+    // lost the browser's "the user pressed play" permission — on a phone the
+    // first tap then only fetched and the second one played. Once a lookup has
+    // resolved, its answer lives here and the tap can start audio inside the
+    // gesture, with no await between the two.
+    var _latestVal={};
     function latestSet(entry, preferSc){
       var slug=entry&&entry.slug; if(!slug) return Promise.resolve(null);
       var key=slug+(preferSc?'|sc':'');
@@ -5751,7 +5761,22 @@
         });
         return best;
       });
-      _latest[key]=p; return p;
+      _latest[key]=p.then(function(v){ _latestVal[key]=v||null; return v; });
+      return _latest[key];
+    }
+    /** Resolve a list's sets ahead of the tap, a few at a time. onDone(slug, set|null). */
+    function prewarmSets(list, onDone){
+      var i=0, running=0;
+      (function next(){
+        while(running<3 && i<list.length){
+          var e=list[i++]; running++;
+          (function(entry){
+            latestSet(entry).then(function(lt){ if(onDone) onDone(entry.slug, lt||null); })
+              .catch(function(){ if(onDone) onDone(entry.slug, null); })
+              .then(function(){ running--; next(); });
+          })(e);
+        }
+      })();
     }
     // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
     //
@@ -5828,7 +5853,14 @@
       // The length guard matters: the app's LINE-UP play also passes prefer:'sc',
       // with every act in the queue, and that must still build a queue.
       if(all[s0] && all[s0].slug && !all[s0].videoId && (all.length===1 || (opts && opts.one))){
-        var pref=all[s0], lt=await latestSet(pref, !!(opts && opts.prefer==='sc'));
+        var pref=all[s0], pk=pref.slug+((opts && opts.prefer==='sc')?'|sc':'');
+        // ALREADY RESOLVED → play now, in the gesture. No await above this line.
+        if(_latestVal[pk]){
+          var k=_latestVal[pk];
+          if(k.kind==='sc' && k.url){ playScUrl(k.url, k.title, k.art, k.src, pref); return; }
+          if(k.videoId) pref.videoId=k.videoId;
+        }
+        var lt=_latestVal[pk] || await latestSet(pref, !!(opts && opts.prefer==='sc'));
         if(lt && lt.kind==='sc' && lt.url){ playScUrl(lt.url, lt.title, lt.art, lt.src, pref); return; }
         // Newest is a YouTube set: play THAT id, not whatever /api/youtube/cached
         // has stored for this artist. Falls through to the normal path below.
@@ -10985,7 +11017,7 @@
 
         // AFTER the guide answers: filter.name is the slug until then, and the tab
         // said "techno in London" instead of "Techno".
-        setSeo(filter ? (filter.name+' in '+nm+' — line-ups & tickets | soundcheck')
+        setSeo(filter ? (filter.name+' in '+nm+' — line-ups & dates | soundcheck')
                       : (nm+" scene guide — who's playing, the venues & sounds | soundcheck"),
                'The artists playing '+nm+' this month, the venues they’re in, upcoming gigs and the sounds that define the city.',
                null, location.origin+url);
@@ -11598,7 +11630,7 @@
         openPanel(h);
         var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
         var _vdesc=v.description||(dispName+" — upcoming gigs, line-ups, sound and location"+(v.city?' in '+cityLabel(v.city):'')+", on soundcheck. Follow the venue for new dates.");
-        setSeo(dispName+" — what's on & tickets | soundcheck", _vdesc, { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:_vdesc, address:v.address||undefined }, _vcanon);
+        setSeo(dispName+" — what's on | soundcheck", _vdesc, { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:_vdesc, address:v.address||undefined }, _vcanon);
         var vfBtn=document.getElementById('vf-btn');
         if(vfBtn) vfBtn.addEventListener('click',function(){ toggleVenueFollow(v, vfBtn); });
         var beenBtn=document.getElementById('vp-been');
@@ -11732,7 +11764,6 @@
         var stamp=isPickVenue(ev.venue)?'<div class="fp-ev-stamp">Pick</div>':'';
         var blurb=ev.content||ev.description||'';
         var evPicked=isEventPicked(id);
-        var ticketUrl='https://www.google.com/search?q='+encodeURIComponent((ev.title||'')+' '+(ev.venue||'')+' tickets');
         var h='<div class="fp-event">'+
           '<button class="fp-ev-share-ic" id="fp-ev-share" type="button" aria-label="Share this event"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>'+
           '<div class="fp-ev-hero">'+
@@ -11787,7 +11818,11 @@
                 var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
                 return '<div class="fp-ev-by">Event by '+shown+rest+'</div>';
               })()+
-              (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
+              // NO TICKET LINK. This rendered "Get tickets here →" (a Google search
+              // for tickets) on every upcoming gig — against the house rule that we
+              // never send anyone to buy tickets. Removed 24 Sep with the "tickets"
+              // wording in every page title.
+
             '</div>'+
           '</div>'+
           (isPast||_invActive?'':('<div class="ev-invite">'+
@@ -11825,7 +11860,7 @@
           pos.addEventListener('keydown', function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); open(); } });
         })();
         var _canon=location.origin+SC_BASE+eventPath(id,_who,ev.venue)+'/';
-        var _edesc=ev.description||((ev.title||_who||'This gig')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and tickets on soundcheck.');
+        var _edesc=ev.description||((ev.title||_who||'This gig')+(ev.venue?' at '+ev.venue:'')+(ev.event_date?' on '+fmtDateLabel(String(ev.event_date).slice(0,10)):'')+' — full line-up, set times and sets on soundcheck.');
         setSeo((ev.title||'Event')+' · '+(ev.venue||'')+' | soundcheck', _edesc, musicEventLD(ev), _canon);   // MusicEvent JSON-LD (restored after the bespoke port dropped it)
         armEventSticky(ev.title||'');
         if(!isPast && (ev.alsoOn||[]).length){ var _ao=document.getElementById('fp-ev-alsoon'); if(_ao) mountEventCards(_ao, ev.alsoOn.slice(0,6)); }   // same card/list template as everywhere
@@ -11912,6 +11947,17 @@
           // shifted every index after it and the play button next to an artist
           // started a different artist's set. Two arrays, two index spaces, one
           // number used for both.
+          // RESOLVE EVERY ROW'S SET NOW, NOT ON THE TAP.
+          //
+          // Two things come from this. The tap plays instantly, because the
+          // answer is already in hand (a tap that awaits loses the browser's
+          // play permission on a phone — that is why it used to take two).
+          // And a row we have LOOKED FOR and found nothing for loses its play
+          // button, instead of offering a control that can only apologise.
+          prewarmSets(lq, function(slug, lt){
+            var btn=lineupBox.querySelector('.fp-lu-pl[data-slug="'+(window.CSS&&CSS.escape?CSS.escape(slug):slug)+'"]');
+            if(btn && !lt) btn.remove();
+          });
           lineupBox.querySelectorAll('.fp-lu-pl[data-slug]').forEach(function(b){ b.addEventListener('click',function(){
             var sl=b.dataset.slug;
             if(!sl){ showToast('No set for this act yet.'); return; }

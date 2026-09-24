@@ -1,8 +1,8 @@
 # Frederick (UK)
 
-Frederick (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 7 Nov 2026.
+Frederick (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 7 Nov 2026.
 
-Frederick (UK) is a deep house and house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Edinburgh and London. Often billed alongside Harry de Courcy, OriaBela and Rap Saunders. Next up: People's Leisure Club, Edinburgh on Sat 7 Nov.
+Frederick (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Amsterdam, Edinburgh and London. Often billed alongside Harry de Courcy, OriaBela and Rap Saunders. Next up: People's Leisure Club, Edinburgh on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Frederick (UK) is a deep house and house artist tracked on soundcheck, with 6 se
 
 Harry de Courcy, OriaBela, Rap Saunders
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederick-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederick-uk/)*

@@ -1,6 +1,6 @@
 # Special Event - YAYAcrew, Cosmo Club at Open Ground
 
-Special Event - YAYAcrew, Cosmo Club at Open Ground on Fri 2 Oct, Wuppertal. 4 acts on the bill: DJ SWISHA, Gîn Bali, no:elia and Phillip Jondo. Preview the line-up and save it on soundcheck.
+Special Event - YAYAcrew, Cosmo Club at Open Ground on Fri 2 Oct, Wuppertal. 5 acts on the bill: DJ SWISHA, Gîn Bali, no:elia and Phillip Jondo and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Special Event - YAYAcrew, Cosmo Club at Open Ground on Fri 2 Oct, Wuppertal. 4 a
 - Gîn Bali
 - no:elia
 - Phillip Jondo
+- T.NO
 
 *Source: [soundcheck](https://soundcheck.club/e/2491271-special-event-yayacrew-cosmo-club-at-open-ground/)*

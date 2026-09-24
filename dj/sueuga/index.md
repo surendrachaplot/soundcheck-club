@@ -1,8 +1,8 @@
 # Sueuga
 
-Sueuga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
+Sueuga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Sueuga is a techno and bass artist tracked on soundcheck, with 12 sets logged across Amsterdam, Athens, Newyorkcity and Rotterdam and 2 more. Often billed alongside Krai, Vlennes and YoungWoman. Next up: F8 1192 Folsom, Sanfrancisco on Sat 31 Oct.
+Sueuga is a techno and bass artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Athens, Newyorkcity and Rotterdam and 2 more. Often billed alongside Krai, Vlennes and YoungWoman. Next up: F8 1192 Folsom, Sanfrancisco on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sueuga is a techno and bass artist tracked on soundcheck, with 12 sets logged ac
 
 Krai, Vlennes, YoungWoman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sueuga/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sueuga/)*

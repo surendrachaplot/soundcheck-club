@@ -1,8 +1,8 @@
 # Jono Ma
 
-Jono Ma is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Jono Ma is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Jono Ma is an electronica and house artist tracked on soundcheck, with 8 sets logged across London, Melbourne and Sydney. Often billed alongside Dreems, Floating Points and Reenie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Jono Ma is an electronica and house artist based in Australia, tracked on soundcheck, with 8 sets logged across London, Melbourne and Sydney. Often billed alongside Dreems, Floating Points and Reenie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Jono Ma is an electronica and house artist tracked on soundcheck, with 8 sets lo
 
 Dreems, Floating Points, Reenie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonoma/)*

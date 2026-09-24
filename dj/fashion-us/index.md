@@ -1,6 +1,6 @@
 # FASHION (US)
 
-FASHION (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bangkok Island, Bangkok on Sat, 26 Sept 2026.
+FASHION (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bangkok Island, Bangkok on Sat, 26 Sept 2026.
 
 FASHION (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Makadsi, Memphy and Sausha. Next up: Bangkok Island, Bangkok on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ FASHION (US) is a techno and club artist based in United States of America, trac
 
 Makadsi, Memphy, Sausha
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*

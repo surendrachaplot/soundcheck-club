@@ -1,6 +1,6 @@
 # KHALK
 
-KHALK is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 25 Sept 2026.
+KHALK is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 25 Sept 2026.
 
 KHALK is an electro and house artist based in France, tracked on soundcheck, with 6 sets logged across Marseille and Paris. Often billed alongside Jolly (FR), Lastvuska and Aleksi Perälä. Next up: Le Chapiteau - Marseille, Marseille on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ KHALK is an electro and house artist based in France, tracked on soundcheck, wit
 
 Jolly (FR), Lastvuska, Aleksi Perälä
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khalk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khalk/)*

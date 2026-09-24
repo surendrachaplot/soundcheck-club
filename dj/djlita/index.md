@@ -1,8 +1,8 @@
 # DJ Lita
 
-DJ Lita is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
+DJ Lita is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
 
-DJ Lita is a techno and club artist tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside DJ Ultra Violet, WTCHCRFT and A. Sarr. Next up: The Chocolate Factory, Newyorkcity on Fri 25 Sept.
+DJ Lita is a techno and club artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside DJ Ultra Violet, WTCHCRFT and A. Sarr. Next up: The Chocolate Factory, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Lita is a techno and club artist tracked on soundcheck, with 37 sets logged a
 
 DJ Ultra Violet, WTCHCRFT, A. Sarr
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlita/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlita/)*

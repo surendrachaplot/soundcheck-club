@@ -1,8 +1,8 @@
 # G.oss
 
-G.oss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
+G.oss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
 
-G.oss is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Milan and Prague. Often billed alongside Flight Mode (DE), Kobzev and Daniel Norrel. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
+G.oss is a techno and house artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Milan and Prague. Often billed alongside Flight Mode (DE), Kobzev and Daniel Norrel. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ G.oss is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 Flight Mode (DE), Kobzev, Daniel Norrel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*

@@ -1,15 +1,17 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 25 Sept 2026.
+Chelina Manuhutu is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 25 Sept 2026.
 
-Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Pacha Ibiza, Ibiza on Fri 25 Sept.
+Chelina Manuhutu is a tech house and house artist based in Netherlands, tracked on soundcheck, with 148 sets logged across All, Amsterdam, Athens and Bali and 30 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Pacha Ibiza, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Pacha Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Club Space Miami | Miami |
 | Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Chelina Manuhutu is a tech house and house artist tracked on soundcheck, with 14
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

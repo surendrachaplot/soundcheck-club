@@ -1,8 +1,8 @@
 # HETEM
 
-HETEM is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 25 Sept 2026.
+HETEM is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Drugstore Beograd, Belgrade on Fri, 25 Sept 2026.
 
-HETEM is a techno artist tracked on soundcheck, with 7 sets logged across Belgrade. Often billed alongside ROPE, mdngt and 3DDY. Next up: Drugstore Beograd, Belgrade on Fri 25 Sept.
+HETEM is a techno artist based in Serbia, tracked on soundcheck, with 7 sets logged across Belgrade. Often billed alongside ROPE, mdngt and 3DDY. Next up: Drugstore Beograd, Belgrade on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ HETEM is a techno artist tracked on soundcheck, with 7 sets logged across Belgra
 
 ROPE, mdngt, 3DDY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hetem/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hetem/)*

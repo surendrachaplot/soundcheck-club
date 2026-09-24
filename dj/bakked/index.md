@@ -1,8 +1,8 @@
 # Bakked
 
-Bakked is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 25 Sept 2026.
+Bakked is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gianca - Murazzi, Turin on Fri, 25 Sept 2026.
 
-Bakked is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Denaila, Alex Dima and Cristian Sarde. Next up: Gianca - Murazzi, Turin on Fri 25 Sept.
+Bakked is a house and techno artist based in Italy, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Denaila, Alex Dima and Cristian Sarde. Next up: Gianca - Murazzi, Turin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bakked is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 Denaila, Alex Dima, Cristian Sarde
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakked/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakked/)*

@@ -1,8 +1,8 @@
 # eves120
 
-eves120 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Sat, 31 Oct 2026.
+eves120 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sat, 31 Oct 2026.
 
-eves120 is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Acidfinky, Cyan85 and 0megavybe. Next up: Paloma, Berlin on Sat 31 Oct.
+eves120 is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Acidfinky, Cyan85 and 0megavybe. Next up: Paloma, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ eves120 is a house and techno artist tracked on soundcheck, with 22 sets logged 
 
 Acidfinky, Cyan85, 0megavybe
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*

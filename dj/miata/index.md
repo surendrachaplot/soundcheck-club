@@ -1,8 +1,8 @@
 # Miata
 
-Miata is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
+Miata is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
 
-Miata is a bass and experimental artist tracked on soundcheck, with 7 sets logged across Hamburg and Istanbul. Often billed alongside Chinyere, Christian Kluge and Ivaldo Gino. Next up: Arkaoda, Istanbul on Sat 26 Sept.
+Miata is a bass and experimental artist based in Turkey, tracked on soundcheck, with 7 sets logged across Hamburg and Istanbul. Often billed alongside Chinyere, Christian Kluge and Ivaldo Gino. Next up: Arkaoda, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Miata is a bass and experimental artist tracked on soundcheck, with 7 sets logge
 
 Chinyere, Christian Kluge, Ivaldo Gino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miata/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miata/)*

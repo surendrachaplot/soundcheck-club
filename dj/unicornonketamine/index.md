@@ -1,8 +1,8 @@
 # Unicorn on Ketamine
 
-Unicorn on Ketamine is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Liquid Club, Malta on Fri, 9 Oct 2026.
+Unicorn on Ketamine is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
-Unicorn on Ketamine is a techno and hardcore artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Budapest and 9 more. Often billed alongside Angerfist, Dimitri K and The Dark Horror. Next up: Liquid Club, Malta on Fri 9 Oct.
+Unicorn on Ketamine is a techno and hardcore artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Budapest and 9 more. Often billed alongside Angerfist, Dimitri K and The Dark Horror. Next up: Liquid Club, Malta on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Unicorn on Ketamine is a techno and hardcore artist tracked on soundcheck, with 
 
 Angerfist, Dimitri K, The Dark Horror
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*

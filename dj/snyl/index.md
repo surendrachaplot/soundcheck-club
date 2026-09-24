@@ -1,8 +1,8 @@
 # SNYL
 
-SNYL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Heavy Budapest, Budapest on Fri, 9 Oct 2026.
+SNYL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Heavy Budapest, Budapest on Fri, 9 Oct 2026.
 
-SNYL is a house and tech house artist tracked on soundcheck, with 17 sets logged across Berlin, Budapest, Munich and Vienna. Often billed alongside Bonnie Spacey, Marc DePulse and My Secret Playground. Next up: Heavy Budapest, Budapest on Fri 9 Oct.
+SNYL is a house and tech house artist based in Hungary, tracked on soundcheck, with 17 sets logged across Berlin, Budapest, Munich and Vienna. Often billed alongside Bonnie Spacey, Marc DePulse and My Secret Playground. Next up: Heavy Budapest, Budapest on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SNYL is a house and tech house artist tracked on soundcheck, with 17 sets logged
 
 Bonnie Spacey, Marc DePulse, My Secret Playground
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snyl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snyl/)*

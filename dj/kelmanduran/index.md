@@ -1,8 +1,8 @@
 # Kelman Duran
 
-Kelman Duran is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Kelman Duran is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Kelman Duran is an experimental and club artist based in Dominican Republic, tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, tra
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
 | Sat, 26 Sept 2026 | St. Bartholomew's Church | New York City |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kelman Duran is an experimental and club artist based in Dominican Republic, tra
 
 BAE BAE, Loraine James, Nick León
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*

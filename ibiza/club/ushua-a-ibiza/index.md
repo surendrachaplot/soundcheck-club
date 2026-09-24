@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tomorrowland and Dimitri Vegas & Like Mike" on Wed, 23 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Martin Garrix - CLOSING PARTY" on Thu, 24 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Antares and Bontan and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Jose Maria Ramon |
 | Thu, 24 Sept 2026 | Martin Garrix - CLOSING PARTY | Martin Garrix |
 | Fri, 25 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, Storm Mollison |
 | Sat, 26 Sept 2026 | ANTS | Antares, M-High, Maceo Plex, Nic Fanciulli, Raul Rodriguez |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs,
 | Fri, 2 Oct 2026 | Calvin Harris & MK - CLOSING PARTY | Calvin Harris, Marc Kinchen |
 | Sat, 3 Oct 2026 | ANTS | Bontan, Franky Rizardo, Nic Fanciulli, Raul Rodriguez, Sosa |
 | Mon, 5 Oct 2026 | F*** ME I'M FAMOUS! by David Guetta - CLOSING PARTY | Afrojack, David Guetta, Matt Sassari, Paul Reynolds |
+| Sat, 10 Oct 2026 | Ushuaïa Ibiza CLOSING PARTY | Andrea Oliva, Butch (JP), East End Dubs, Eliza Rose, Fleur Shore, Hot Since 82, Loco Dice, M-High, Marlie, Nic Fanciulli, Olive F, Patrick Topping, Prunk, Raul Rodriguez, Vintage Culture |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

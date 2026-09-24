@@ -1,13 +1,14 @@
 # AYIM
 
-AYIM is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+AYIM is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 26 Sept 2026.
 
-AYIM is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Copenhagen and Ghent and 6 more. Often billed alongside Harald Uunk, Kaytseng and Varuna Agosti. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
+AYIM is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Copenhagen and Ghent and 6 more. Often billed alongside Harald Uunk, Kaytseng and Varuna Agosti. Next up: De Fik Garden, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | De Fik Garden | Amsterdam |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 
@@ -26,4 +27,4 @@ AYIM is a techno and psytrance artist based in Netherlands, tracked on soundchec
 
 Harald Uunk, Kaytseng, Varuna Agosti
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayim/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayim/)*

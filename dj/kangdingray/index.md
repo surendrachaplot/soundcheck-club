@@ -1,8 +1,8 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Thu, 24 Sept 2026.
+Kangding Ray is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Thu, 24 Sept 2026.
 
-Kangding Ray is a techno and experimental artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: The Prospect Building, Bristol on Thu 24 Sept.
+Kangding Ray is a techno and experimental artist based in Germany, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: The Prospect Building, Bristol on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Kangding Ray is a techno and experimental artist tracked on soundcheck, with 138
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

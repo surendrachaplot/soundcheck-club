@@ -1,8 +1,8 @@
 # Alex Xandra
 
-Alex Xandra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Alex Xandra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-Alex Xandra is a techno and trance artist tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside Patrick Scuro, DJ Jordan and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
+Alex Xandra is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside Patrick Scuro, DJ Jordan and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Alex Xandra is a techno and trance artist tracked on soundcheck, with 5 sets log
 
 Patrick Scuro, DJ Jordan, Endica
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxandra/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexxandra/)*

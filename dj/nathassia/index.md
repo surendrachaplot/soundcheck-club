@@ -1,6 +1,6 @@
 # Nathassia
 
-Nathassia is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 93 Feet East, London on Sat, 3 Oct 2026.
+Nathassia is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 93 Feet East, London on Sat, 3 Oct 2026.
 
 Nathassia is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Ibiza, London and Seoul. Often billed alongside EL PADRE, Ginchy and Terry Golden. Next up: 93 Feet East, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nathassia is a techno and progressive house artist based in Netherlands, tracked
 
 EL PADRE, Ginchy, Terry Golden
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*

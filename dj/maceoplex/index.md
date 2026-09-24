@@ -1,8 +1,8 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 26 Sept 2026.
+Maceo Plex is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 26 Sept 2026.
 
-Maceo Plex is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Ushuaïa Ibiza, Ibiza on Sat 26 Sept.
+Maceo Plex is a techno and house artist based in United States of America, tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Ushuaïa Ibiza, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Maceo Plex is a techno and house artist tracked on soundcheck, with 185 sets log
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

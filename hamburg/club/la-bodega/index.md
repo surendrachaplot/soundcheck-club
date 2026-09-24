@@ -1,6 +1,6 @@
 # La Bodega
 
-La Bodega is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Visions Of Suffering" on Fri, 30 Oct 2026.
+La Bodega is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Visions Of Suffering" on Fri, 30 Oct 2026.
 
 La Bodega is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Sisyphos. Browse upcoming dates, start times and who's playing. Klinikweg 20, 22081 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ La Bodega is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with
 
 Klinikweg 20, 22081 Hamburg, Germany, Hamburg
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-bodega/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-bodega/)*

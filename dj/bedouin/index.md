@@ -1,8 +1,8 @@
 # Bedouin
 
-Bedouin is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Bedouin is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Bedouin is a house and tech house artist tracked on soundcheck, with 215 sets logged across All, Amsterdam, Athens and Austin and 36 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: Etko, All on Fri 25 Sept.
+Bedouin is a house and tech house artist based in United States of America, tracked on soundcheck, with 215 sets logged across All, Amsterdam, Athens and Austin and 36 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Bedouin is a house and tech house artist tracked on soundcheck, with 215 sets lo
 
 Seth Troxler, Carlita, DJ Tennis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*

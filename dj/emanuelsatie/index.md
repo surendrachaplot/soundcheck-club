@@ -1,14 +1,15 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
+Emanuel Satie is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
 
-Emanuel Satie is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Lula Club, Madrid on Fri 25 Sept.
+Emanuel Satie is a house and techno artist based in Germany, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Lula Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lula Club | Madrid |
+| Sat, 26 Sept 2026 | Pacha | Munich |
 | Sat, 3 Oct 2026 | TBA - Archi Club, Costanera | Buenos Aires |
 | Sat, 10 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
@@ -28,4 +29,4 @@ Emanuel Satie is a house and techno artist tracked on soundcheck, with 95 sets l
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

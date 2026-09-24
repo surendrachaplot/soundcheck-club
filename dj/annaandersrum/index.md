@@ -1,15 +1,15 @@
 # anna andersrum
 
-anna andersrum is a Electro and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
+anna andersrum is a Electro and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Acud Macht NEU, Berlin on Sat, 10 Oct 2026.
 
-anna andersrum is an electro and bass artist tracked on soundcheck, with 20 sets logged across Berlin, Manchester and Prague. Often billed alongside KaraKara, Linnea Mae and Genoe. Next up: Acud Macht NEU, Berlin on Sat 10 Oct.
+anna andersrum is an electro and bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Manchester and Prague. Often billed alongside KaraKara, Linnea Mae and Genoe. Next up: Acud Macht NEU, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Acud Macht NEU | Berlin |
-| Sat, 5 Dec 2026 | M01 | Berlin |
+| Sat, 5 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ anna andersrum is an electro and bass artist tracked on soundcheck, with 20 sets
 
 KaraKara, Linnea Mae, Genoe
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*

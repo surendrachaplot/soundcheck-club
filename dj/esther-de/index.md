@@ -1,6 +1,6 @@
 # Esther
 
-Esther is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Esther is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Esther is a club and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Bangkok, Berlin, Cardiff and Cologne and 6 more. Often billed alongside A Strange Wedding, ABI (FR) and Almevan. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Esther is a club and techno artist based in Germany, tracked on soundcheck, with
 
 A Strange Wedding, ABI (FR), Almevan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*

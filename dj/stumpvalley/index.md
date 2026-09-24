@@ -1,13 +1,14 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at PRST, Vienna on Sat, 26 Sept 2026.
+Stump Valley is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bluesquare, Milan on Fri, 25 Sept 2026.
 
-Stump Valley is a house and disco artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: PRST, Vienna on Sat 26 Sept.
+Stump Valley is a house and disco artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Bluesquare, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Bluesquare | Milan |
 | Sat, 26 Sept 2026 | PRST | Vienna |
 | Fri, 2 Oct 2026 | La Paloma | Barcelona |
 | Sat, 10 Oct 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
@@ -27,4 +28,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 75 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

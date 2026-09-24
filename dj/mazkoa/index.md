@@ -1,6 +1,6 @@
 # Mazko A
 
-Mazko A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Flash, Washington DC on Fri, 9 Oct 2026.
+Mazko A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Fri, 9 Oct 2026.
 
 Mazko A is a house and techno artist tracked on soundcheck, with 29 sets logged across Losangeles, Newyorkcity, Warsaw and Washingtondc. Often billed alongside Kurilo, Ramos (2) and Taiga. Next up: Flash, Washingtondc on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mazko A is a house and techno artist tracked on soundcheck, with 29 sets logged 
 
 Kurilo, Ramos (2), Taiga
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*

@@ -1,6 +1,6 @@
 # TBA - SEKTOR6D
 
-TBA - SEKTOR6D is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "VERKNIPT Poland - Warsaw - 9 October" on Fri, 9 Oct 2026.
+TBA - SEKTOR6D is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "VERKNIPT Poland - Warsaw - 9 October" on Fri, 9 Oct 2026.
 
 TBA - SEKTOR6D is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Fantasm, KARAH, Katy Rough and LIEKS and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SEKTOR6D is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | VERKNIPT Poland - Warsaw - 9 October | Fantasm, KARAH, Katy Rough, LIEKS, NEGITIV |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-sektor6d/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-sektor6d/)*

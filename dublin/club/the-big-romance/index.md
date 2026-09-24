@@ -1,6 +1,6 @@
 # The Big Romance
 
-The Big Romance is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Brian Gallagher" on Thu, 24 Sept 2026.
+The Big Romance is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Brian Gallagher" on Thu, 24 Sept 2026.
 
 The Big Romance is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Bull Horris, Enclave (2), Kaycee and Surferboy and 2 more. Browse upcoming dates, start times and who's playing. 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland.
 
@@ -18,4 +18,4 @@ The Big Romance is a music venue in Dublin listed on soundcheck. 5 upcoming gigs
 
 98 Parnell St, Rotunda, Dublin, D01 T2T3, Ireland, Dublin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-big-romance/)*

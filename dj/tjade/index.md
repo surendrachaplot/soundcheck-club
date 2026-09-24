@@ -1,8 +1,8 @@
 # Tjade
 
-Tjade is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Smith St Hotel, Melbourne on Fri, 2 Oct 2026.
+Tjade is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smith St Hotel, Melbourne on Fri, 2 Oct 2026.
 
-Tjade is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 16 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Smith St Hotel, Melbourne on Fri 2 Oct.
+Tjade is a house and techno artist based in Netherlands, tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 16 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: Smith St Hotel, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tjade is a house and techno artist tracked on soundcheck, with 119 sets logged a
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Smith St Hotel | Melbourne |
 | Sun, 4 Oct 2026 | The Ivy | Sydney |
+| Mon, 12 Oct 2026 | Luigis Hot Pizza Bali | Bali |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
@@ -30,4 +31,4 @@ Tjade is a house and techno artist tracked on soundcheck, with 119 sets logged a
 
 Lucky Done Gone, Moody Mehran, Kyle Starkey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

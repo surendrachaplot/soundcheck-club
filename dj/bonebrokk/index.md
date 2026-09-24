@@ -1,8 +1,8 @@
 # Bonebrokk
 
-Bonebrokk is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Patision65, Athens on Sat, 26 Sept 2026.
+Bonebrokk is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Patision65, Athens on Sat, 26 Sept 2026.
 
-Bonebrokk is a club and bass artist tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Vlennes, ice_eyes and kvadosh. Next up: Patision65, Athens on Sat 26 Sept.
+Bonebrokk is a club and bass artist based in Greece, tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Vlennes, ice_eyes and kvadosh. Next up: Patision65, Athens on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Bonebrokk is a club and bass artist tracked on soundcheck, with 6 sets logged ac
 
 Vlennes, ice_eyes, kvadosh
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonebrokk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonebrokk/)*

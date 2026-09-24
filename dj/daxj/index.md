@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Spook Club, Valencia on Sat 26 Sept.
+DAX J is a techno and house artist based in United Kingdom, tracked on soundcheck, with 260 sets logged across Amsterdam, Athens, Barcelona and Basel and 67 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 260 sets logged a
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

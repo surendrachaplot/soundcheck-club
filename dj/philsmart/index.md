@@ -1,8 +1,8 @@
 # Phil Smart
 
-Phil Smart is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+Phil Smart is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
 
-Phil Smart is a house and downtempo artist tracked on soundcheck, with 94 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
+Phil Smart is a house and downtempo artist based in Australia, tracked on soundcheck, with 94 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Phil Smart is a house and downtempo artist tracked on soundcheck, with 94 sets l
 
 Francis Xavier, Aidan Beiers, Squidgenini
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*

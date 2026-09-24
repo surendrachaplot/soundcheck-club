@@ -1,8 +1,8 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
+Sam Paganini is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
 
-Sam Paganini is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Smolna, Warsaw on Sat 26 Sept.
+Sam Paganini is a techno and house artist based in Italy, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Smolna, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sam Paganini is a techno and house artist tracked on soundcheck, with 100 sets l
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Smolna | Warsaw |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
+| Sat, 12 Dec 2026 | Parque Norte | Medellin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sam Paganini is a techno and house artist tracked on soundcheck, with 100 sets l
 
 Adiel, Anfisa Letyago, Daria Kolosova
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

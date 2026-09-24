@@ -1,8 +1,8 @@
 # Junior Pappa
 
-Junior Pappa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+Junior Pappa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Agent Greg and Alesso. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
+Junior Pappa is a techno and house artist based in Greece, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Acopo and Agent Greg. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets lo
 
 ## Shares bills with
 
-Fused, Agent Greg, Alesso
+Fused, Acopo, Agent Greg
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*

@@ -1,8 +1,8 @@
 # KOBANYA3000
 
-KOBANYA3000 is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Toldi Klub, Budapest on Fri, 25 Sept 2026.
+KOBANYA3000 is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Toldi Klub, Budapest on Fri, 25 Sept 2026.
 
-KOBANYA3000 is a ghetto tech and techno artist tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Maron, AESZTETIK and AGA2L. Next up: Toldi Klub, Budapest on Fri 25 Sept.
+KOBANYA3000 is a ghetto tech and techno artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Maron, AESZTETIK and AGA2L. Next up: Toldi Klub, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KOBANYA3000 is a ghetto tech and techno artist tracked on soundcheck, with 10 se
 
 Maron, AESZTETIK, AGA2L
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobanya3000/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobanya3000/)*

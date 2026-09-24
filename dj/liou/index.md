@@ -1,0 +1,28 @@
+# Liou
+
+Liou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
+
+Liou is a house and techno artist based in Greece, tracked on soundcheck, with 66 sets logged across All, Athens, Berlin and Krakow. Often billed alongside DjGus, Nausicaä and 22 (1). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+
+## Recently played
+
+- B side Athens, Athens — Thu, 3 Sept 2026
+- B side Athens, Athens — Thu, 30 Jul 2026
+- Club der Visionaere, Berlin — Sat, 30 May 2026
+- B side Athens, Athens — Fri, 22 May 2026
+- TBA - ATHarea, Athens — Sun, 17 May 2026
+- TBA - ΑΤΗarea, Athens — Sun, 26 Apr 2026
+- Skull Bar, Athens — Sun, 22 Mar 2026
+- TBA - ATHarea, Athens — Sun, 8 Mar 2026
+
+## Shares bills with
+
+DjGus, Nausicaä, 22 (1)
+
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liou/)*

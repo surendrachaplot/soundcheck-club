@@ -1,6 +1,6 @@
 # Bassiani x Nachti at Bassiani
 
-Bassiani x Nachti on Fri 25 Sept, Tbilisi. 9 acts on the bill: BMI (GE), Boyá, karete bu and Lux. and 5 more. Preview the line-up and save it on soundcheck.
+Bassiani x Nachti on Fri 25 Sept, Tbilisi. 11 acts on the bill: BMI (GE), Boyá, karete bu and Lux. and 7 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,7 +15,9 @@ Bassiani x Nachti on Fri 25 Sept, Tbilisi. 9 acts on the bill: BMI (GE), Boyá, 
 - karete bu
 - Lux.
 - Manamana
+- Map.ache
 - Ndrx
+- Sevensol
 - Shed
 - Valley Dolly
 - Victor (DE)

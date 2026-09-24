@@ -1,8 +1,8 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
+Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
 
-Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Kassa Boat, Budapest on Sat 26 Sept.
+Fede Frostl is a progressive house and electronica artist based in Austria, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Kassa Boat, Budapest on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 
 Edictum, Noe Bortolussi, Daniel Darkhofer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*

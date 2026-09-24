@@ -1,8 +1,8 @@
 # Neil Macc
 
-Neil Macc is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jupiter Disco, New York City on Wed, 30 Sept 2026.
+Neil Macc is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Wed, 30 Sept 2026.
 
-Neil Macc is a house and disco artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside ABS (4), For Future's Sake and James Juke. Next up: Jupiter Disco, Newyorkcity on Wed 30 Sept.
+Neil Macc is a house and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside ABS (4), For Future's Sake and James Juke. Next up: Jupiter Disco, Newyorkcity on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Neil Macc is a house and disco artist tracked on soundcheck, with 5 sets logged 
 
 ABS (4), For Future's Sake, James Juke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilmacc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilmacc/)*

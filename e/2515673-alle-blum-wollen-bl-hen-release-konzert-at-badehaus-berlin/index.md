@@ -1,6 +1,6 @@
 # 'ALLE BLUM' WOLLEN BLÜHEN' RELEASE-KONZERT at Badehaus Berlin
 
-'ALLE BLUM' WOLLEN BLÜHEN' RELEASE-KONZERT at Badehaus Berlin on Thu 24 Sept, Berlin. 3 acts on the bill: Beqqi, Carl Hang and Smau. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+'ALLE BLUM' WOLLEN BLÜHEN' RELEASE-KONZERT at Badehaus Berlin on Thu 24 Sept, Berlin. 4 acts on the bill: Beqqi, Carl Hang, Schönfeld (2) and Smau. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Beqqi
 - Carl Hang
+- Schönfeld (2)
 - Smau
 
 *Source: [soundcheck](https://soundcheck.club/e/2515673-alle-blum-wollen-bl-hen-release-konzert-at-badehaus-berlin/)*

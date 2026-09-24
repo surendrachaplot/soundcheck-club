@@ -1,8 +1,8 @@
 # Depuratumba
 
-Depuratumba is a Electronica and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Depuratumba is a Electronica and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
-Depuratumba is an electronica and bass artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside 3rd Party Influence, Anita B Queen and Don Plok. Next up: 90mil, Berlin on Fri 25 Sept.
+Depuratumba is an electronica and bass artist based in Argentina, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside 3rd Party Influence, Anita B Queen and Don Plok. Next up: 90mil, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Depuratumba is an electronica and bass artist tracked on soundcheck, with 8 sets
 
 3rd Party Influence, Anita B Queen, Don Plok
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/depuratumba/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/depuratumba/)*

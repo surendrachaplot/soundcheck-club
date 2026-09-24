@@ -1,8 +1,8 @@
 # Oxyd
 
-Oxyd is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
+Oxyd is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Cité Fertile, Paris on Sat, 10 Oct 2026.
 
-Oxyd is a bass and drum & bass artist tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside DJ Jee, Less-O and carin kelly. Next up: La Cité Fertile, Paris on Sat 10 Oct.
+Oxyd is a bass and drum & bass artist based in France, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside DJ Jee, Less-O and carin kelly. Next up: La Cité Fertile, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oxyd is a bass and drum & bass artist tracked on soundcheck, with 9 sets logged 
 
 DJ Jee, Less-O, carin kelly
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyd/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyd/)*

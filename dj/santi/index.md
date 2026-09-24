@@ -1,8 +1,8 @@
 # Santi
 
-Santi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
+Santi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
 
-Santi is a house and techno artist tracked on soundcheck, with 10 sets logged across Ibiza, Lisbon, Liverpool and Losangeles and 4 more. Often billed alongside Kalicky, BisouBizou and CRANZ. Next up: Smolna, Warsaw on Sat 26 Sept.
+Santi is a house and techno artist based in Italy, tracked on soundcheck, with 10 sets logged across Ibiza, Lisbon, Liverpool and Losangeles and 4 more. Often billed alongside Kalicky, BisouBizou and CRANZ. Next up: Smolna, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Santi is a house and techno artist tracked on soundcheck, with 10 sets logged ac
 
 Kalicky, BisouBizou, CRANZ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santi/)*

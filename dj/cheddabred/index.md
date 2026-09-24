@@ -1,0 +1,28 @@
+# Chedda Bred
+
+Chedda Bred is a Jazz and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
+
+Chedda Bred is a jazz and uk funky artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: Kiosk N1C, London on Wed 30 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 30 Sept 2026 | Kiosk N1C | London |
+
+## Recently played
+
+- Hackney Bridge, London — Sat, 5 Sept 2026
+- The Haggerston, London — Sat, 29 Aug 2026
+- Dalston Den, London — Sat, 15 Aug 2026
+- Hootananny Brixton, London — Sun, 24 May 2026
+- Dalston Den, London — Sat, 28 Mar 2026
+- Dalston Den, London — Sat, 7 Mar 2026
+- The Cause, London — Sat, 28 Feb 2026
+- Vittoria Wharf Studio, London — Fri, 27 Feb 2026
+
+## Shares bills with
+
+Chedda B, Neue Grafik, limi
+
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

@@ -1,6 +1,6 @@
 # CHEX
 
-CHEX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
+CHEX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
 
 CHEX is a techno and trance artist based in Greece, tracked on soundcheck, with 27 sets logged across Athens, Manchester and Seoul. Often billed alongside Nivk Jane, VSSLS and SALIN. Next up: Romantso, Athens on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ CHEX is a techno and trance artist based in Greece, tracked on soundcheck, with 
 
 Nivk Jane, VSSLS, SALIN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chex/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chex/)*

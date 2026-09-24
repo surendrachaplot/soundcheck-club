@@ -1,8 +1,8 @@
 # Full Sentimental
 
-Full Sentimental is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at KALT, Strasbourg on Sat, 21 Nov 2026.
+Full Sentimental is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KALT, Strasbourg on Sat, 21 Nov 2026.
 
-Full Sentimental is a house artist tracked on soundcheck, with 19 sets logged across Paris and Strasbourg. Often billed alongside Theo Scuera, BAKR and EMAN (FR). Next up: KALT, Strasbourg on Sat 21 Nov.
+Full Sentimental is a house artist based in France, tracked on soundcheck, with 19 sets logged across Paris and Strasbourg. Often billed alongside Theo Scuera, BAKR and EMAN (FR). Next up: KALT, Strasbourg on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Full Sentimental is a house artist tracked on soundcheck, with 19 sets logged ac
 
 Theo Scuera, BAKR, EMAN (FR)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullsentimental/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullsentimental/)*

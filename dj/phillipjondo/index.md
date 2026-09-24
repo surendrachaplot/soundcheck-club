@@ -1,8 +1,8 @@
 # Phillip Jondo
 
-Phillip Jondo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
+Phillip Jondo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
-Phillip Jondo is a house and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside DJ Brom, DJ Plead and Danielle. Next up: Open Ground, Wuppertal on Fri 2 Oct.
+Phillip Jondo is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside DJ Brom, DJ Plead and Danielle. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Phillip Jondo is a house and techno artist tracked on soundcheck, with 25 sets l
 
 DJ Brom, DJ Plead, Danielle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phillipjondo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phillipjondo/)*

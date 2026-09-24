@@ -1,16 +1,16 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Jamie Jones is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 23 Sept.
+Jamie Jones is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 212 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Amnesia Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 30 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 3 Oct 2026 | Ironworks | London |
 | Wed, 7 Oct 2026 | [UNVRS] | Ibiza |
 | Fri, 9 Oct 2026 | Pacha New York | New York City |
@@ -20,6 +20,7 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 23 Sept 2026
 - Pacha Ibiza, Ibiza — Fri, 18 Sept 2026
 - [UNVRS], Ibiza — Wed, 16 Sept 2026
 - Green Room NYC, New York City — Sat, 12 Sept 2026
@@ -27,10 +28,9 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 211 set
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
-- [UNVRS], Ibiza — Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

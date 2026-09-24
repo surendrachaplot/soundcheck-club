@@ -1,8 +1,8 @@
 # Mordeaux
 
-Mordeaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
+Mordeaux is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
 
-Mordeaux is a techno and house artist tracked on soundcheck, with 36 sets logged across Krakow and Warsaw. Often billed alongside kaj garage, Sickdat and Fogler. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
+Mordeaux is a techno and house artist based in Poland, tracked on soundcheck, with 36 sets logged across Krakow and Warsaw. Often billed alongside kaj garage, Sickdat and Fogler. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mordeaux is a techno and house artist tracked on soundcheck, with 36 sets logged
 
 kaj garage, Sickdat, Fogler
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mordeaux/)*

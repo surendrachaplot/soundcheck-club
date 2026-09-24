@@ -1,8 +1,8 @@
 # AAKAARA
 
-AAKAARA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Four Quarters, London on Sat, 10 Oct 2026.
+AAKAARA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Four Quarters, London on Sat, 10 Oct 2026.
 
-AAKAARA is a techno and electro artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside SIOBHAN., New Flesh (2) and Benebe. Next up: Four Quarters, London on Sat 10 Oct.
+AAKAARA is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside SIOBHAN., New Flesh (2) and Benebe. Next up: Four Quarters, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ AAKAARA is a techno and electro artist tracked on soundcheck, with 14 sets logge
 
 SIOBHAN., New Flesh (2), Benebe
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aakaara/)*

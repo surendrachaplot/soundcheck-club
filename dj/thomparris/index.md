@@ -1,8 +1,8 @@
 # Thom Parris
 
-Thom Parris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sat, 31 Oct 2026.
+Thom Parris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Sat, 31 Oct 2026.
 
-Thom Parris is a house and techno artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Son of Paul, Alfie Aukett and Make A Dance. Next up: fabric, London on Sat 31 Oct.
+Thom Parris is a house and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Son of Paul, Alfie Aukett and Make A Dance. Next up: fabric, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Thom Parris is a house and techno artist tracked on soundcheck, with 30 sets log
 
 Son of Paul, Alfie Aukett, Make A Dance
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomparris/)*

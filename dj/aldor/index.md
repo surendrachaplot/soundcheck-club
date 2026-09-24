@@ -1,6 +1,6 @@
 # Aldor
 
-Aldor is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Echostage, Washington DC on Sat, 3 Oct 2026.
+Aldor is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Echostage, Washington DC on Sat, 3 Oct 2026.
 
 Aldor is a trance and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across London and Washingtondc. Often billed alongside Aidyscape, Andrew Sharpe and Armin van Buuren. Next up: Echostage, Washingtondc on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Aldor is a trance and tech house artist based in United States of America, track
 
 Aidyscape, Andrew Sharpe, Armin van Buuren
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldor/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldor/)*

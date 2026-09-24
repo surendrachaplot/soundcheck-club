@@ -1,8 +1,8 @@
 # Traumer
 
-Traumer is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Audio Club, Geneva on Fri, 25 Sept 2026.
+Traumer is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Fri, 25 Sept 2026.
 
-Traumer is a house and techno artist tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Audio Club, Geneva on Fri 25 Sept.
+Traumer is a house and tech house artist based in France, tracked on soundcheck, with 316 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Audio Club, Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 316 sets logged
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

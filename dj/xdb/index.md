@@ -1,16 +1,18 @@
 # XDB
 
-XDB is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DURO, Milan on Fri, 2 Oct 2026.
+XDB is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-XDB is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: DURO, Milan on Fri 2 Oct.
+XDB is a techno and house artist based in Germany, tracked on soundcheck, with 134 sets logged across All, Amsterdam, Antwerp and Athens and 35 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Fri, 2 Oct 2026 | DURO | Milan |
 | Fri, 2 Oct 2026 | DURO | Milan |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
+| Fri, 23 Oct 2026 | Compufunk Records | Osaka |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 | Sat, 31 Oct 2026 | Collect LX Factory | Lisbon |
 | Fri, 6 Nov 2026 | Shelter Amsterdam | Amsterdam |
@@ -31,4 +33,4 @@ XDB is a techno and house artist tracked on soundcheck, with 132 sets logged acr
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

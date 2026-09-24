@@ -1,8 +1,8 @@
 # Thiccboi Drewski
 
-Thiccboi Drewski is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
+Thiccboi Drewski is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
 
-Thiccboi Drewski is a house and techno artist tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside M33CH, Sam Valle and Talk Shivi. Next up: La Noxe Trinity, Newyorkcity on Fri 25 Sept.
+Thiccboi Drewski is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside M33CH, Sam Valle and Talk Shivi. Next up: La Noxe Trinity, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Thiccboi Drewski is a house and techno artist tracked on soundcheck, with 18 set
 
 M33CH, Sam Valle, Talk Shivi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiccboidrewski/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiccboidrewski/)*

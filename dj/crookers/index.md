@@ -1,8 +1,8 @@
 # Crookers
 
-Crookers is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Crookers is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
-Crookers is an electro and hip-hop artist tracked on soundcheck, with 10 sets logged across Brisbane, Ghent, Melbourne and Milan and 2 more. Often billed alongside Booka Shade, Riva Starr and Sinden. Next up: Kompass Klub, Ghent on Sat 21 Nov.
+Crookers is an electro and hip-hop artist based in Italy, tracked on soundcheck, with 10 sets logged across Brisbane, Ghent, Melbourne and Milan and 2 more. Often billed alongside Booka Shade, Riva Starr and Sinden. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Crookers is an electro and hip-hop artist tracked on soundcheck, with 10 sets lo
 
 Booka Shade, Riva Starr, Sinden
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crookers/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crookers/)*

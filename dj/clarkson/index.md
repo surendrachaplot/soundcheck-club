@@ -1,8 +1,8 @@
 # Clarkson
 
-Clarkson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Clarkson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Clarkson is a disco and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Solartrak, Clint H and Nicky Blackmarket. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Clarkson is a disco and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Solartrak, Clint H and Nicky Blackmarket. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Clarkson is a disco and house artist tracked on soundcheck, with 9 sets logged a
 
 Solartrak, Clint H, Nicky Blackmarket
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkson/)*

@@ -1,6 +1,6 @@
 # Tapada da Ajuda
 
-Tapada da Ajuda is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long" on Sat, 26 Sept 2026.
+Tapada da Ajuda is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long" on Sat, 26 Sept 2026.
 
 Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Alarico, Chlär, Chris Liebing and Freddy K and 2 more. Browse upcoming dates, start times and who's playing. Tapada da Ajuda, 1349-017 Lisboa.
 
@@ -15,4 +15,4 @@ Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs
 
 Tapada da Ajuda, 1349-017 Lisboa, Lisbon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*

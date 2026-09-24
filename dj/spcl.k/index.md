@@ -1,6 +1,6 @@
 # SPCL.K
 
-SPCL.K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
+SPCL.K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
 
 SPCL.K is a house and techno artist based in United States of America, tracked on soundcheck, with 118 sets logged across Austin, Detroit, Miami and Newyorkcity and 2 more. Often billed alongside Eric Yaz, Cassia and Neko Berg. Next up: Flash, Washingtondc on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SPCL.K is a house and techno artist based in United States of America, tracked o
 
 Eric Yaz, Cassia, Neko Berg
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spcl.k/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spcl.k/)*

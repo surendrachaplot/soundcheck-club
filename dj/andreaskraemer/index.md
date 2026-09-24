@@ -1,8 +1,8 @@
 # Andreas Kraemer
 
-Andreas Kraemer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Andreas Kraemer is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
-Andreas Kraemer is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Cat Vermillion, Felix Reichelt and Daniela Hensel. Next up: Schrotty, Cologne on Fri 16 Oct.
+Andreas Kraemer is a techno and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Cat Vermillion, Felix Reichelt and Daniela Hensel. Next up: Schrotty, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andreas Kraemer is a techno and tech house artist tracked on soundcheck, with 16
 
 Cat Vermillion, Felix Reichelt, Daniela Hensel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaskraemer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaskraemer/)*

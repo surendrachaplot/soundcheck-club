@@ -1,8 +1,8 @@
 # Cass
 
-Cass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
+Cass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Stage and Radio, Manchester on Sat, 21 Nov 2026.
 
-Cass is a house and tech house artist tracked on soundcheck, with 7 sets logged across Brighton, Detroit, London and Manchester and 3 more. Often billed alongside Crazy Cousinz, Donnie Sunshine and Emz (MC). Next up: Stage and Radio, Manchester on Sat 21 Nov.
+Cass is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton, Detroit, London and Manchester and 3 more. Often billed alongside Crazy Cousinz, Donnie Sunshine and Emz (MC). Next up: Stage and Radio, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Cass is a house and tech house artist tracked on soundcheck, with 7 sets logged 
 
 Crazy Cousinz, Donnie Sunshine, Emz (MC)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cass/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cass/)*

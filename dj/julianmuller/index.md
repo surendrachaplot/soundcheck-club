@@ -1,8 +1,8 @@
 # Julian Muller
 
-Julian Muller is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
+Julian Muller is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Prairie du Canal, Paris on Sat, 26 Sept 2026.
 
-Julian Muller is a techno and trance artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Frederic., CAIVA and MRD (NO). Next up: La Prairie du Canal, Paris on Sat 26 Sept.
+Julian Muller is a techno and trance artist based in France, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Frederic., CAIVA and MRD (NO). Next up: La Prairie du Canal, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Julian Muller is a techno and trance artist tracked on soundcheck, with 111 sets
 
 Frederic., CAIVA, MRD (NO)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*

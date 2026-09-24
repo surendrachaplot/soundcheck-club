@@ -1,8 +1,8 @@
 # Fontango
 
-Fontango is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at El Cuervo Beach & Soul, Malaga on Fri, 25 Sept 2026.
+Fontango is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at El Cuervo Beach & Soul, Malaga on Fri, 25 Sept 2026.
 
-Fontango is a house and tech house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: El Cuervo Beach & Soul, Malaga on Fri 25 Sept.
+Fontango is a house and tech house artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: El Cuervo Beach & Soul, Malaga on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Fontango is a house and tech house artist tracked on soundcheck, with 20 sets lo
 
 Mat Spiaggi, Riviani, Carlo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*

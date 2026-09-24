@@ -1,8 +1,8 @@
 # Loods
 
-Loods is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Loods is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Loods is a house and techno artist tracked on soundcheck, with 55 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Clouds and Flight Facilities. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Loods is a house and techno artist based in Australia, tracked on soundcheck, with 55 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Clouds and Flight Facilities. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Loods is a house and techno artist tracked on soundcheck, with 55 sets logged ac
 
 KETTAMA, Clouds, Flight Facilities
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

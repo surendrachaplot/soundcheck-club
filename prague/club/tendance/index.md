@@ -1,6 +1,6 @@
 # Tendance
 
-Tendance is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Speedstop night" on Thu, 24 Sept 2026.
+Tendance is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Speedstop night" on Thu, 24 Sept 2026.
 
 Tendance is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Sabzipolo, SBSTRD and Voice of User. Browse upcoming dates, start times and who's playing. basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia.
 
@@ -16,4 +16,4 @@ Tendance is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with 
 
 basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia, Prague
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*

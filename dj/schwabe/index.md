@@ -1,8 +1,8 @@
 # schwabe
 
-schwabe is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Karmakoma, Belgrade on Sat, 24 Oct 2026.
+schwabe is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Karmakoma, Belgrade on Sat, 24 Oct 2026.
 
-schwabe is a downtempo and house artist tracked on soundcheck, with 31 sets logged across Belgrade. Often billed alongside Ali Guney, Kӣr and mdngt. Next up: Karmakoma, Belgrade on Sat 24 Oct.
+schwabe is a downtempo and house artist based in Serbia, tracked on soundcheck, with 31 sets logged across Belgrade. Often billed alongside Ali Guney, Kӣr and mdngt. Next up: Karmakoma, Belgrade on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ schwabe is a downtempo and house artist tracked on soundcheck, with 31 sets logg
 
 Ali Guney, Kӣr, mdngt
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwabe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwabe/)*

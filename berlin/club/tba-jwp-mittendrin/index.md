@@ -1,6 +1,6 @@
 # TBA - JWP MittenDrin
 
-TBA - JWP MittenDrin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Rhythmusstube" on Sat, 10 Oct 2026.
+TBA - JWP MittenDrin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Rhythmusstube" on Sat, 10 Oct 2026.
 
 TBA - JWP MittenDrin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including INDACID. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - JWP MittenDrin is a music venue in Berlin listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Rhythmusstube | INDACID |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-jwp-mittendrin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-jwp-mittendrin/)*

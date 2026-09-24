@@ -1,14 +1,15 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Q Club, Milan on Fri, 2 Oct 2026.
+Proc Fiskal is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Q Club, Milan on Fri, 2 Oct 2026.
 
-Proc Fiskal is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: Q Club, Milan on Fri 2 Oct.
+Proc Fiskal is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: Q Club, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Q Club | Milan |
+| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Proc Fiskal is an experimental and club artist based in United Kingdom, tracked 
 
 Creep Woland, Ship Sket, Feena
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*

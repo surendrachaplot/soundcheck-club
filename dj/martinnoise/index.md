@@ -1,18 +1,18 @@
 # Martin Noise
 
-Martin Noise is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Terrrazza, Barcelona on Wed, 23 Sept 2026.
+Martin Noise is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Switch Bar, Barcelona on Sat, 26 Sept 2026.
 
-Martin Noise is a house and acid artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 4 more. Often billed alongside Cisco (2), Andrea Zarco and DELLA (AR). Next up: La Terrrazza, Barcelona on Wed 23 Sept.
+Martin Noise is a house and acid artist based in Argentina, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 4 more. Often billed alongside Cisco (2), Andrea Zarco and DELLA (AR). Next up: Switch Bar, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 26 Sept 2026 | Switch Bar | Barcelona |
 
 ## Recently played
 
+- La Terrrazza, Barcelona — Wed, 23 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 19 Sept 2026
 - Freedonia, Barcelona — Fri, 28 Aug 2026
 - La Terrrazza, Barcelona — Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ Martin Noise is a house and acid artist tracked on soundcheck, with 75 sets logg
 - KitKatClub, Berlin — Mon, 6 Jul 2026
 - Jonny Knüppel, Berlin — Sat, 4 Jul 2026
 - Renate, Berlin — Thu, 28 May 2026
-- arkaoda Berlin, Berlin — Thu, 14 May 2026
 
 ## Shares bills with
 
 Cisco (2), Andrea Zarco, DELLA (AR)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinnoise/)*

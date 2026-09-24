@@ -1,8 +1,8 @@
 # Josh Wuf
 
-Josh Wuf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
+Josh Wuf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
 
-Josh Wuf is a house and deep house artist tracked on soundcheck, with 25 sets logged across London, Newcastle and Paris. Often billed alongside PHJ.WAV, DJ Shandy and Molly Sinnott. Next up: Cu, London on Fri 25 Sept.
+Josh Wuf is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London, Newcastle and Paris. Often billed alongside PHJ.WAV, DJ Shandy and Molly Sinnott. Next up: Cu, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Josh Wuf is a house and deep house artist tracked on soundcheck, with 25 sets lo
 
 PHJ.WAV, DJ Shandy, Molly Sinnott
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*

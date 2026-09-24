@@ -1,8 +1,8 @@
 # Mattia Saviolo
 
-Mattia Saviolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
+Mattia Saviolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Dec 2026.
 
-Mattia Saviolo is a techno and house artist tracked on soundcheck, with 24 sets logged across Berlin, Istanbul, London and Munich and 2 more. Often billed alongside Teenage Mutants, NÚRIA (DE) and Techmo. Next up: Ritter Butzke, Berlin on Fri 18 Dec.
+Mattia Saviolo is a techno and house artist based in Italy, tracked on soundcheck, with 24 sets logged across Berlin, Istanbul, London and Munich and 2 more. Often billed alongside Teenage Mutants, NÚRIA (DE) and Techmo. Next up: Ritter Butzke, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mattia Saviolo is a techno and house artist tracked on soundcheck, with 24 sets 
 
 Teenage Mutants, NÚRIA (DE), Techmo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiasaviolo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiasaviolo/)*

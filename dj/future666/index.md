@@ -1,8 +1,8 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
+future.666 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
 
-future.666 is a techno and trance artist tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
+future.666 is a techno and trance artist based in Germany, tracked on soundcheck, with 228 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ future.666 is a techno and trance artist tracked on soundcheck, with 227 sets lo
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
+| Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ future.666 is a techno and trance artist tracked on soundcheck, with 227 sets lo
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

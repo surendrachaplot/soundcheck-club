@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MCS" on Fri, 25 Sept 2026.
+Grub Records is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MCS" on Fri, 25 Sept 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Human Logo. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -17,4 +17,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

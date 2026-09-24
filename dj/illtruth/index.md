@@ -1,8 +1,8 @@
 # Ill Truth
 
-Ill Truth is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
+Ill Truth is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
 
-Ill Truth is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, Brighton and Bristol and 3 more. Often billed alongside Visionobi, Rizzle and Ama (UK). Next up: Volks, Brighton on Sat 3 Oct.
+Ill Truth is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, Brighton and Bristol and 3 more. Often billed alongside Visionobi, Rizzle and Ama (UK). Next up: Volks, Brighton on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ill Truth is a drum & bass and jungle artist tracked on soundcheck, with 20 sets
 
 Visionobi, Rizzle, Ama (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illtruth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illtruth/)*

@@ -1,8 +1,8 @@
 # modrums
 
-modrums is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Judson Memorial Church, New York City on Wed, 14 Oct 2026.
+modrums is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Judson Memorial Church, New York City on Wed, 14 Oct 2026.
 
-modrums is an afrobeat and amapiano artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Akanbi, Omer Mil and Ultraviolet. Next up: Judson Memorial Church, Newyorkcity on Wed 14 Oct.
+modrums is an afrobeat and amapiano artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Akanbi, Omer Mil and Ultraviolet. Next up: Judson Memorial Church, Newyorkcity on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ modrums is an afrobeat and amapiano artist tracked on soundcheck, with 9 sets lo
 
 Akanbi, Omer Mil, Ultraviolet
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modrums/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modrums/)*

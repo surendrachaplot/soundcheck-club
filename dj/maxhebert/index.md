@@ -1,8 +1,8 @@
 # Max Hebert
 
-Max Hebert is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Salon Daomé, Montreal on Fri, 16 Oct 2026.
+Max Hebert is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Salon Daomé, Montreal on Fri, 16 Oct 2026.
 
-Max Hebert is a house and tech house artist tracked on soundcheck, with 6 sets logged across Detroit, Montreal and Toronto. Often billed alongside DJ Sneak, Brock Edwards and Derrick Carter. Next up: Salon Daomé, Montreal on Fri 16 Oct.
+Max Hebert is a house and tech house artist based in Canada, tracked on soundcheck, with 6 sets logged across Detroit, Montreal and Toronto. Often billed alongside DJ Sneak, Brock Edwards and Derrick Carter. Next up: Salon Daomé, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Max Hebert is a house and tech house artist tracked on soundcheck, with 6 sets l
 
 DJ Sneak, Brock Edwards, Derrick Carter
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhebert/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhebert/)*

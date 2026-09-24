@@ -1,6 +1,6 @@
 # Mr. Linden
 
-Mr. Linden is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Zeitgeist Coffee, Seattle on Sat, 26 Sept 2026.
+Mr. Linden is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Zeitgeist Coffee, Seattle on Sat, 26 Sept 2026.
 
 Mr. Linden is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Seattle. Often billed alongside Hector Rodriguez, Jon Lee and Christine Michelle. Next up: TBA - Zeitgeist Coffee, Seattle on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Mr. Linden is a house and deep house artist based in United States of America, t
 
 Hector Rodriguez, Jon Lee, Christine Michelle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrlinden/)*

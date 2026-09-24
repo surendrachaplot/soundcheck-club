@@ -1,8 +1,8 @@
 # MAR VISTA
 
-MAR VISTA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
+MAR VISTA is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
 
-MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Cakeshop, Seoul on Fri 25 Sept.
+MAR VISTA is a garage and house artist based in South Korea, tracked on soundcheck, with 30 sets logged across Adelaide, Bali, Berlin and Bristol and 5 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Cakeshop, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MAR VISTA is a garage and house artist tracked on soundcheck, with 30 sets logge
 
 Coziest, PanVesy, h4rdy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*

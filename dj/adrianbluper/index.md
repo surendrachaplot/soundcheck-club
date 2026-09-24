@@ -1,8 +1,8 @@
 # Adrian Bluper
 
-Adrian Bluper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fünk, Mexico City on Thu, 1 Oct 2026.
+Adrian Bluper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Thu, 1 Oct 2026.
 
-Adrian Bluper is a house and techno artist tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside W.O.L.F., Madhouse and TAPIIA. Next up: Fünk, Mexicocity on Thu 1 Oct.
+Adrian Bluper is a house and techno artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside W.O.L.F., Madhouse and TAPIIA. Next up: Fünk, Mexicocity on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Adrian Bluper is a house and techno artist tracked on soundcheck, with 17 sets l
 
 W.O.L.F., Madhouse, TAPIIA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianbluper/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianbluper/)*

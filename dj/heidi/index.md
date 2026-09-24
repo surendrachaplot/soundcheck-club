@@ -1,8 +1,8 @@
 # Heidi
 
-Heidi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Heidi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Heidi is a house and techno artist tracked on soundcheck, with 46 sets logged across Barcelona, Belfast, Berlin and Buenosaires and 11 more. Often billed alongside Beman, Joshua James and Erol Alkan. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Heidi is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Belfast, Berlin and Buenosaires and 12 more. Often billed alongside Beman, Joshua James and Erol Alkan. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Heidi is a house and techno artist tracked on soundcheck, with 46 sets logged ac
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 | Fri, 27 Nov 2026 | Sacré | Paris |
 | Fri, 11 Dec 2026 | New Century Locker | Manchester |
+| Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Heidi is a house and techno artist tracked on soundcheck, with 46 sets logged ac
 
 Beman, Joshua James, Erol Alkan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heidi/)*

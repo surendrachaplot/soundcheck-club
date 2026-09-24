@@ -1,6 +1,6 @@
 # STOFFELA
 
-STOFFELA is a Afro House and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+STOFFELA is a Afro House and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
 STOFFELA is an afro house and r&b artist based in South Africa, tracked on soundcheck, with 10 sets logged across All, Amsterdam, Barcelona and Ibiza and 4 more. Often billed alongside Shimza, ARODES and AWEN. Next up: Etko, All on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ STOFFELA is an afro house and r&b artist based in South Africa, tracked on sound
 
 Shimza, ARODES, AWEN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*

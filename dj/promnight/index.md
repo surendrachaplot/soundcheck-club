@@ -1,8 +1,8 @@
 # Prom Night
 
-Prom Night is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+Prom Night is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
-Prom Night is a house and techno artist tracked on soundcheck, with 83 sets logged across Bangkok, Belfast, Berlin and Cologne and 3 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
+Prom Night is a house and techno artist based in Denmark, tracked on soundcheck, with 83 sets logged across Bangkok, Belfast, Berlin and Cologne and 3 more. Often billed alongside Kawun, Harrison Heat and Kasper Bjorke. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Prom Night is a house and techno artist tracked on soundcheck, with 83 sets logg
 
 Kawun, Harrison Heat, Kasper Bjorke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promnight/)*

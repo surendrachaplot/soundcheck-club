@@ -1,8 +1,8 @@
 # Annie Lew
 
-Annie Lew is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
+Annie Lew is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
 
-Annie Lew is a techno and house artist tracked on soundcheck, with 81 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: TBA, Boston on Thu 24 Sept.
+Annie Lew is a techno and house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: TBA, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 81 sets logge
 
 Mos (NYC), KYRUH, Kilopatrah Jones
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*

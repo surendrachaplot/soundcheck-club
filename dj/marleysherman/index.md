@@ -1,8 +1,8 @@
 # Marley Sherman
 
-Marley Sherman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 26 Sept 2026.
+Marley Sherman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 26 Sept 2026.
 
-Marley Sherman is a house and deep house artist tracked on soundcheck, with 31 sets logged across Sydney. Often billed alongside Ben Nott, Kato and Kerry Wallace. Next up: Carousel Bar & Ballroom, Sydney on Sat 26 Sept.
+Marley Sherman is a house and deep house artist based in Australia, tracked on soundcheck, with 31 sets logged across Sydney. Often billed alongside Ben Nott, Kato and Kerry Wallace. Next up: Carousel Bar & Ballroom, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marley Sherman is a house and deep house artist tracked on soundcheck, with 31 s
 
 Ben Nott, Kato, Kerry Wallace
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleysherman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleysherman/)*

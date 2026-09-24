@@ -1,6 +1,6 @@
 # BLACKLIST FESTIVAL 2026 at Turbinenhalle
 
-BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 9 acts on the bill: ESKEI83, Flux Pavilion, Gourski and K Motionz and 5 more. Dubstep. Preview the line-up and save it on soundcheck.
+BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 10 acts on the bill: ESKEI83, Flux Pavilion, Gourski and K Motionz and 6 more. Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,5 +19,6 @@ BLACKLIST FESTIVAL 2026 at Turbinenhalle on Sat 10 Oct, Oberhausen. 9 acts on th
 - Koven
 - Krewella
 - Mefjus
+- SKIYE
 
 *Source: [soundcheck](https://soundcheck.club/e/2291915-blacklist-festival-2026-at-turbinenhalle/)*

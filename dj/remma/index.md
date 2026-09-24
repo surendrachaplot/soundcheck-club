@@ -1,8 +1,8 @@
 # Remma
 
-Remma is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Remma is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-Remma is a techno and bass artist tracked on soundcheck, with 35 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Woody92, Cobahn and Loek Frey. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+Remma is a techno and bass artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Woody92, Cobahn and Loek Frey. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Remma is a techno and bass artist tracked on soundcheck, with 35 sets logged acr
 
 Woody92, Cobahn, Loek Frey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remma/)*

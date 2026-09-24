@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "44 Hertz" on Fri, 25 Sept 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "44 Hertz" on Fri, 25 Sept 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Alejandro Paz and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Agustin Giri and Alejandro Paz and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 | Sat, 17 Oct 2026 | Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more | Alessia Ceruti, Alexkid, DASH (SLO), Jimmie, Joséphine de Retour, Magda, Peter Schumann, Redfreya, Stella Fiore, Tripmastaz |
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
 | Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Charlie Vaux, Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
-| Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Doudou MD, Esther Silex, Franca, Habikat, Josiane, Kenny Larkin, Lars Eidinger, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Power Squad, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
+| Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Carmelina, Corios, Doudou MD, Esther Silex, Franca, Habikat, Josiane, Kenny Larkin, Lars Eidinger, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Power Squad, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
 | Fri, 6 Nov 2026 | Kater x WARNING | Audio Werner, DJ ZBB, David Delgado, Elena Bi, The Pushamann, Trancesetters of Westphalia |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

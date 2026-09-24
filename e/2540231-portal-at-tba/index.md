@@ -1,6 +1,6 @@
 # PORTAL at TBA
 
-PORTAL at TBA on Sat 10 Oct, Philadelphia. 4 acts on the bill: Obreezy Beats, RESONATE.JPEG, Speed.FM and WILHELMINA. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
+PORTAL at TBA on Sat 10 Oct, Philadelphia. 4 acts on the bill: Obreezy Beats, RESONATE.JPEG, Speed.FM and WILHELMINA. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

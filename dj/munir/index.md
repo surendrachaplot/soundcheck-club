@@ -1,8 +1,8 @@
 # Munir
 
-Munir is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Promontory Point, Chicago on Sat, 26 Sept 2026.
+Munir is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Promontory Point, Chicago on Sat, 26 Sept 2026.
 
-Munir is a house and disco artist tracked on soundcheck, with 16 sets logged across Bali, Chicago, Jakarta and Kyoto and 6 more. Often billed alongside Endy Chen, Varumi and Sisi. Next up: Promontory Point, Chicago on Sat 26 Sept.
+Munir is a house and disco artist based in Indonesia, tracked on soundcheck, with 16 sets logged across Bali, Chicago, Jakarta and Kyoto and 6 more. Often billed alongside Endy Chen, Varumi and Sisi. Next up: Promontory Point, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Munir is a house and disco artist tracked on soundcheck, with 16 sets logged acr
 
 Endy Chen, Varumi, Sisi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munir/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munir/)*

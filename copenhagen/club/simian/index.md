@@ -1,6 +1,6 @@
 # Simian
 
-Simian is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Rewild x TAXI CLUB X Simian" on Sat, 26 Sept 2026.
+Simian is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Rewild x TAXI CLUB X Simian" on Sat, 26 Sept 2026.
 
 Simian is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Alfredo92, ELLE FIERCE, Inga Copeland and Lolina and 2 more. Browse upcoming dates, start times and who's playing. Kay Fiskers Pl. 17, 2300 København.
 
@@ -14,4 +14,4 @@ Simian is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with
 
 Kay Fiskers Pl. 17, 2300 København, Copenhagen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/simian/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/simian/)*

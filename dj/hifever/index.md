@@ -1,8 +1,8 @@
 # HiFever
 
-HiFever is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Last Arch, London on Fri, 30 Oct 2026.
+HiFever is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Last Arch, London on Fri, 30 Oct 2026.
 
-HiFever is a house and r&b artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Loacha, Bloomfield and Bobby Scallop. Next up: Last Arch, London on Fri 30 Oct.
+HiFever is a house and r&b artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Loacha, Bloomfield and Bobby Scallop. Next up: Last Arch, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ HiFever is a house and r&b artist tracked on soundcheck, with 9 sets logged acro
 
 Loacha, Bloomfield, Bobby Scallop
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifever/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifever/)*

@@ -1,8 +1,8 @@
 # Gols
 
-Gols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 26 Sept 2026.
+Gols is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 26 Sept 2026.
 
-Gols is a house and techno artist tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Adi (CO), Alfred Anders and Clovis. Next up: Shelter Antwerp, Antwerp on Sat 26 Sept.
+Gols is a house and techno artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Adi (CO), Alfred Anders and Clovis. Next up: Shelter Antwerp, Antwerp on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gols is a house and techno artist tracked on soundcheck, with 9 sets logged acro
 
 Adi (CO), Alfred Anders, Clovis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gols/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gols/)*

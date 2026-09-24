@@ -1,13 +1,14 @@
 # Jude Bradshaw
 
-Jude Bradshaw is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 26 Sept 2026.
+Jude Bradshaw is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 25 Sept 2026.
 
-Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Edinburgh, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside D4N (1), Céleste and t e s t p r e s s. Next up: People's Leisure Club, Edinburgh on Sat 26 Sept.
+Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Edinburgh, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside D4N (1), Céleste and t e s t p r e s s. Next up: The Berkeley Suite, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | The Berkeley Suite | Glasgow |
 | Sat, 26 Sept 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on 
 
 D4N (1), Céleste, t e s t p r e s s
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judebradshaw/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judebradshaw/)*

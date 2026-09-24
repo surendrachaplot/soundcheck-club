@@ -1,8 +1,8 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
+Darwin is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
 
-Darwin is a techno and bass artist tracked on soundcheck, with 167 sets logged across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
+Darwin is a techno and bass artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -34,4 +34,4 @@ Darwin is a techno and bass artist tracked on soundcheck, with 167 sets logged a
 
 Esposito, Carré, CCL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

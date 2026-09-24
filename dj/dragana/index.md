@@ -1,8 +1,8 @@
 # Dragana
 
-Dragana is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Dragana is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
-Dragana is a house and minimal techno artist tracked on soundcheck, with 22 sets logged across Berlin, Buenosaires, Lisbon and London and 4 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
+Dragana is a house and minimal techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Buenosaires, Lisbon and London and 4 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dragana is a house and minimal techno artist tracked on soundcheck, with 22 sets
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*

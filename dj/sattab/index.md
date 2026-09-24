@@ -1,8 +1,8 @@
 # Satta B
 
-Satta B is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 1 Oct 2026.
+Satta B is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 1 Oct 2026.
 
-Satta B is a garage and house artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Omega III, Sunny Graves and SURUU. Next up: 303 Audiophile Bar, Barcelona on Thu 1 Oct.
+Satta B is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Omega III, Sunny Graves and SURUU. Next up: 303 Audiophile Bar, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Satta B is a garage and house artist tracked on soundcheck, with 6 sets logged a
 
 Omega III, Sunny Graves, SURUU
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattab/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattab/)*

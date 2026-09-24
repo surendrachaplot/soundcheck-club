@@ -1,8 +1,8 @@
 # FiNE
 
-FiNE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+FiNE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-FiNE is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Miami. Often billed alongside Eddy Romero, Romy Janssen and 619!. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+FiNE is a techno and electronica artist based in Australia, tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Miami. Often billed alongside Eddy Romero, Romy Janssen and 619!. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ FiNE is a techno and electronica artist tracked on soundcheck, with 5 sets logge
 
 Eddy Romero, Romy Janssen, 619!
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fine-us/)*

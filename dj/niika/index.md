@@ -1,8 +1,8 @@
 # NIIKA
 
-NIIKA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
+NIIKA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
 
-NIIKA is a tech house and house artist tracked on soundcheck, with 8 sets logged across Dublin and Milan. Often billed alongside Fonti, DJ Get Luc(y) and Florian Picasso. Next up: Volt Club Milano, Milan on Thu 1 Oct.
+NIIKA is a tech house and house artist based in Mongolia, tracked on soundcheck, with 8 sets logged across Dublin and Milan. Often billed alongside Fonti, DJ Get Luc(y) and Florian Picasso. Next up: Volt Club Milano, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ NIIKA is a tech house and house artist tracked on soundcheck, with 8 sets logged
 
 Fonti, DJ Get Luc(y), Florian Picasso
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niika/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niika/)*

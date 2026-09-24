@@ -1,8 +1,8 @@
 # Anti Ribeiro
 
-Anti Ribeiro is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Fabriek, Brussels on Fri, 2 Oct 2026.
+Anti Ribeiro is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Fabriek, Brussels on Fri, 2 Oct 2026.
 
-Anti Ribeiro is a club and baile funk artist tracked on soundcheck, with 3 sets logged across Berlin, Brussels and Mexicocity. Often billed alongside Babybruise, Bieu and Brujx Dmazapan. Next up: La Fabriek, Brussels on Fri 2 Oct.
+Anti Ribeiro is a club and baile funk artist based in Brazil, tracked on soundcheck, with 3 sets logged across Berlin, Brussels and Mexicocity. Often billed alongside Babybruise, Bieu and Brujx Dmazapan. Next up: La Fabriek, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Anti Ribeiro is a club and baile funk artist tracked on soundcheck, with 3 sets 
 
 Babybruise, Bieu, Brujx Dmazapan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antiribeiro-br/)*

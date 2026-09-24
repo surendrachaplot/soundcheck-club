@@ -1,8 +1,8 @@
 # aka-Sol
 
-aka-Sol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+aka-Sol is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-aka-Sol is a techno and house artist tracked on soundcheck, with 81 sets logged across Chicago, Detroit, Losangeles and Montreal and 6 more. Often billed alongside Nema Hän, Relaxer and Baby Leo. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+aka-Sol is a techno and house artist based in Ecuador, tracked on soundcheck, with 81 sets logged across Chicago, Detroit, Losangeles and Montreal and 6 more. Often billed alongside Nema Hän, Relaxer and Baby Leo. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ aka-Sol is a techno and house artist tracked on soundcheck, with 81 sets logged 
 
 Nema Hän, Relaxer, Baby Leo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aka-sol/)*

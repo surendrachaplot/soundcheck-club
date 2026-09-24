@@ -1,8 +1,8 @@
 # Donna Gibson
 
-Donna Gibson is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 26 Sept 2026.
+Donna Gibson is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 26 Sept 2026.
 
-Donna Gibson is a disco and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Young Pulse, Aï Smash and Chris Wheatley. Next up: Sneaky Pete's, Edinburgh on Sat 26 Sept.
+Donna Gibson is a disco and house artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Young Pulse, Aï Smash and Chris Wheatley. Next up: Sneaky Pete's, Edinburgh on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Donna Gibson is a disco and house artist tracked on soundcheck, with 18 sets log
 
 Young Pulse, Aï Smash, Chris Wheatley
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagibson/)*

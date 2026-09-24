@@ -1,8 +1,8 @@
 # Rik Laren
 
-Rik Laren is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at KitKatClub, Berlin on Mon, 5 Oct 2026.
+Rik Laren is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Mon, 5 Oct 2026.
 
-Rik Laren is a house and techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Frankie Flowerz, Apoena and Clemens Kautz. Next up: KitKatClub, Berlin on Mon 5 Oct.
+Rik Laren is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Frankie Flowerz, Apoena and Clemens Kautz. Next up: KitKatClub, Berlin on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rik Laren is a house and techno artist tracked on soundcheck, with 20 sets logge
 
 Frankie Flowerz, Apoena, Clemens Kautz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riklaren/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riklaren/)*

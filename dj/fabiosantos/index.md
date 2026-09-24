@@ -1,18 +1,19 @@
 # Fabio Santos
 
-Fabio Santos is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lakota, Bristol on Wed, 23 Sept 2026.
+Fabio Santos is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 16 Oct 2026.
 
-Fabio Santos is a house and garage artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, Bristol, Leeds and Rotterdam and 2 more. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Lakota, Bristol on Wed 23 Sept.
+Fabio Santos is a house and garage artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Bristol, Leeds and Rotterdam and 2 more. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Het Sieraad, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Lakota | Bristol |
+| Fri, 16 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 7 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Lakota, Bristol — Wed, 23 Sept 2026
 - Distrikt, Leeds — Fri, 18 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 8 Aug 2026
@@ -20,10 +21,9 @@ Fabio Santos is a house and garage artist based in Netherlands, tracked on sound
 - Colorado Charlie, The Hague — Fri, 3 Jul 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
 - Het Sieraad, Amsterdam — Sat, 9 May 2026
-- Toffler, Rotterdam — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Michel de Hey, AAT (NL), Benny Rodrigues
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

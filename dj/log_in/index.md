@@ -1,6 +1,6 @@
 # Log _In
 
-Log _In is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Log _In is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
 Log _In is a house and electronica artist based in Venezuela, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, London and Miami and 1 more. Often billed alongside San Dee, demenz and Atomyard. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Log _In is a house and electronica artist based in Venezuela, tracked on soundch
 
 San Dee, demenz, Atomyard
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/log_in/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/log_in/)*

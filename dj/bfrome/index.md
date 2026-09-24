@@ -1,6 +1,6 @@
 # B From E
 
-B From E is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene, Copenhagen on Thu, 24 Sept 2026.
+B From E is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene, Copenhagen on Thu, 24 Sept 2026.
 
 B From E is a house and techno artist based in Denmark, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Copenhagen and Lyon and 1 more. Often billed alongside Harrison Heat, Crowd Control and Baltza. Next up: Jolene, Copenhagen on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ B From E is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 Harrison Heat, Crowd Control, Baltza
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bfrome/)*

@@ -1,8 +1,8 @@
 # Zeph Miles
 
-Zeph Miles is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Planet Wax, London on Sat, 21 Nov 2026.
+Zeph Miles is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Sat, 21 Nov 2026.
 
-Zeph Miles is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Bristol and London. Often billed alongside Acolyte, Anny (UK) and Kaizah. Next up: Planet Wax, London on Sat 21 Nov.
+Zeph Miles is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol and London. Often billed alongside Acolyte, Anny (UK) and Kaizah. Next up: Planet Wax, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zeph Miles is a drum & bass and jungle artist tracked on soundcheck, with 17 set
 
 Acolyte, Anny (UK), Kaizah
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zephmiles/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zephmiles/)*

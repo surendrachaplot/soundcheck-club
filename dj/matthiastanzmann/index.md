@@ -1,8 +1,8 @@
 # Matthias Tanzmann
 
-Matthias Tanzmann is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Audio Club, Geneva on Sat, 10 Oct 2026.
+Matthias Tanzmann is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Sat, 10 Oct 2026.
 
-Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Domenic D'Agnelli, Chris Di Perri and Davide Squillace. Next up: Audio Club, Geneva on Sat 10 Oct.
+Matthias Tanzmann is a tech house and house artist based in Germany, tracked on soundcheck, with 110 sets logged across All, Amsterdam, Bali and Bangkok and 29 more. Often billed alongside Chris Di Perri, Domenic D'Agnelli and Davide Squillace. Next up: Audio Club, Geneva on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 1
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Audio Club | Geneva |
 | Sat, 31 Oct 2026 | Studio 338 | London |
+| Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ Matthias Tanzmann is a tech house and house artist tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Domenic D'Agnelli, Chris Di Perri, Davide Squillace
+Chris Di Perri, Domenic D'Agnelli, Davide Squillace
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiastanzmann/)*

@@ -1,8 +1,8 @@
 # Selthe
 
-Selthe is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Puppet Theatre Barge, London on Thu, 15 Oct 2026.
+Selthe is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Puppet Theatre Barge, London on Thu, 15 Oct 2026.
 
-Selthe is a pop and experimental artist tracked on soundcheck, with 13 sets logged across Bristol and London. Often billed alongside Kelora, Very Skeleton and Alexis. Next up: The Puppet Theatre Barge, London on Thu 15 Oct.
+Selthe is a pop and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol and London. Often billed alongside Kelora, Very Skeleton and Alexis. Next up: The Puppet Theatre Barge, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Selthe is a pop and experimental artist tracked on soundcheck, with 13 sets logg
 
 Kelora, Very Skeleton, Alexis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selthe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selthe/)*

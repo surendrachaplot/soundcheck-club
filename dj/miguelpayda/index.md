@@ -1,14 +1,15 @@
 # Miguel Payda
 
-Miguel Payda is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
+Miguel Payda is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
 
-Miguel Payda is an electronica and techno artist tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Lisbon and Malaga and 1 more. Often billed alongside INTERVALO, Locati and Argia. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
+Miguel Payda is an electronica and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Lisbon and Malaga and 2 more. Often billed alongside INTERVALO, Locati and Argia. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Málaga Forum | Malaga |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Miguel Payda is an electronica and techno artist tracked on soundcheck, with 44 
 
 INTERVALO, Locati, Argia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpayda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpayda/)*

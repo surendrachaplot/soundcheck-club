@@ -1,6 +1,6 @@
 # NIEBO
 
-NIEBO is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kiss Facility" on Mon, 28 Sept 2026.
+NIEBO is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kiss Facility" on Mon, 28 Sept 2026.
 
 NIEBO is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Sega Bodega. Browse upcoming dates, start times and who's playing. Nowy Świat 21, 00-001 Warszawa.
 
@@ -15,4 +15,4 @@ NIEBO is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with lin
 
 Nowy Świat 21, 00-001 Warszawa, Warsaw
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/niebo/)*

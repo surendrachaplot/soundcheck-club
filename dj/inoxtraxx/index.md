@@ -1,6 +1,6 @@
 # Inox Traxx
 
-Inox Traxx is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
+Inox Traxx is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
 
 Inox Traxx is a techno and house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Ignez, Charlotte de Witte and Nastia Reigel. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Inox Traxx is a techno and house artist tracked on soundcheck, with 88 sets logg
 
 Ignez, Charlotte de Witte, Nastia Reigel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*

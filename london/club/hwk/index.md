@@ -1,6 +1,6 @@
 # HWK
 
-HWK is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SAMBA HAS LANDED" on Sat, 3 Oct 2026.
+HWK is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SAMBA HAS LANDED" on Sat, 3 Oct 2026.
 
 HWK is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 29 White Post Lane, E9 5EN.
 
@@ -15,4 +15,4 @@ HWK is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upc
 
 29 White Post Lane, E9 5EN, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/hwk/)*

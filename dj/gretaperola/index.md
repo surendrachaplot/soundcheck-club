@@ -1,8 +1,8 @@
 # Greta Perola
 
-Greta Perola is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
+Greta Perola is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 16 Oct 2026.
 
-Greta Perola is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne and Munster. Often billed alongside ACCUL, ALFALFA (UK) and Annemalie. Next up: fi, Cologne on Fri 16 Oct.
+Greta Perola is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Cologne, Dortmund-essen and Munster. Often billed alongside ACCUL, ALFALFA (UK) and Annemalie. Next up: fi, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Greta Perola is a house and techno artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | fi | Cologne |
 | Sat, 31 Oct 2026 | Dockland | Munster |
+| Sat, 28 Nov 2026 | Zeche Zollverein | Dortmund-essen |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Greta Perola is a house and techno artist based in Germany, tracked on soundchec
 
 ACCUL, ALFALFA (UK), Annemalie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gretaperola/)*

@@ -1,6 +1,6 @@
 # DJ WKStA
 
-DJ WKStA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Funkhaus, Vienna on Fri, 25 Sept 2026.
+DJ WKStA is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Funkhaus, Vienna on Fri, 25 Sept 2026.
 
 DJ WKStA is a techno and breakbeat artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside anxxxious_t, Algoriddim Girls and DJ Lucy Bakanal. Next up: Funkhaus, Vienna on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ WKStA is a techno and breakbeat artist based in Austria, tracked on soundchec
 
 anxxxious_t, Algoriddim Girls, DJ Lucy Bakanal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwksta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwksta/)*

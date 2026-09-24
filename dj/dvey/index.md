@@ -1,8 +1,8 @@
 # D'vey
 
-D'vey is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+D'vey is a Funk / Soul and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
-D'vey is a funk / soul and experimental artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Joshua James, Michelle Manetti and Acid Sally. Next up: The Cause, London on Sat 31 Oct.
+D'vey is a funk / soul and experimental artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Joshua James, Michelle Manetti and Acid Sally. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ D'vey is a funk / soul and experimental artist tracked on soundcheck, with 7 set
 
 Joshua James, Michelle Manetti, Acid Sally
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvey/)*

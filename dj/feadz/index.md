@@ -1,8 +1,8 @@
 # Feadz
 
-Feadz is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Feadz is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
 
-Feadz is an electro and hip-hop artist tracked on soundcheck, with 9 sets logged across London and Paris. Often billed alongside Uffie, Busy P and Crystallmess. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
+Feadz is an electro and hip-hop artist based in France, tracked on soundcheck, with 9 sets logged across London and Paris. Often billed alongside Uffie, Busy P and Crystallmess. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Feadz is an electro and hip-hop artist tracked on soundcheck, with 9 sets logged
 
 Uffie, Busy P, Crystallmess
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feadz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feadz/)*

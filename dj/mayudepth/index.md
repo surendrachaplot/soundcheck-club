@@ -1,14 +1,15 @@
 # MAYUDEPTH
 
-MAYUDEPTH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
+MAYUDEPTH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at R Lounge, Tokyo on Sat, 26 Sept 2026.
 
-MAYUDEPTH is a techno and house artist tracked on soundcheck, with 117 sets logged across Berlin, Hongkong, Kyoto and London and 4 more. Often billed alongside XINOVI, the2$ and Golpe Mortal. Next up: R Lounge, Tokyo on Sat 26 Sept.
+MAYUDEPTH is a techno and house artist based in Japan, tracked on soundcheck, with 118 sets logged across Berlin, Hongkong, Kyoto and London and 4 more. Often billed alongside XINOVI, the2$ and Golpe Mortal. Next up: R Lounge, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | R Lounge | Tokyo |
+| Fri, 9 Oct 2026 | Enter Shibuya | Tokyo |
 | Fri, 30 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ MAYUDEPTH is a techno and house artist tracked on soundcheck, with 117 sets logg
 
 XINOVI, the2$, Golpe Mortal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayudepth/)*

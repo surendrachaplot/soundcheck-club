@@ -1,8 +1,8 @@
 # Vinny Vins
 
-Vinny Vins is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gingerino's Pizza, Newcastle on Sat, 10 Oct 2026.
+Vinny Vins is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gingerino's Pizza, Newcastle on Sat, 10 Oct 2026.
 
-Vinny Vins is a disco and house artist tracked on soundcheck, with 42 sets logged across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and Santa Leticia. Next up: Gingerino's Pizza, Newcastle on Sat 10 Oct.
+Vinny Vins is a disco and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and Santa Leticia. Next up: Gingerino's Pizza, Newcastle on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Vinny Vins is a disco and house artist tracked on soundcheck, with 42 sets logge
 
 Diz Jockey, Bill Brewster, Santa Leticia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinnyvins/)*

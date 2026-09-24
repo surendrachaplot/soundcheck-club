@@ -1,8 +1,8 @@
 # Dj Exagggerator
 
-Dj Exagggerator is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Dj Exagggerator is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
-Dj Exagggerator is a techno and electro artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Huamaniser, Femur and ANTHRAZIT. Next up: ://about blank, Berlin on Sat 31 Oct.
+Dj Exagggerator is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Huamaniser, Femur and ANTHRAZIT. Next up: ://about blank, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Dj Exagggerator is a techno and electro artist tracked on soundcheck, with 5 set
 
 Huamaniser, Femur, ANTHRAZIT
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djexagggerator/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djexagggerator/)*

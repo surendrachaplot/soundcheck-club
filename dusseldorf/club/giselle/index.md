@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sofia Zoloto (UA) all night long" on Fri, 25 Sept 2026.
+Giselle is a music venue in Düsseldorf with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sofia Zoloto (UA) all night long" on Fri, 25 Sept 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Gerber, DJ Flatbeat, Flashbaxx and Lavan and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -18,4 +18,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming gigs, wi
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

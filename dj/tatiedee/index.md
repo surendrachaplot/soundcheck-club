@@ -1,8 +1,8 @@
 # Tatie Dee
 
-Tatie Dee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Station Mue, Lyon 69002, Lyon on Sat, 26 Sept 2026.
+Tatie Dee is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Station Mue, Lyon 69002, Lyon on Sat, 26 Sept 2026.
 
-Tatie Dee is a house and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Yuko Kakizawa, Belaria and Cogan. Next up: Station Mue, Lyon 69002, Lyon on Sat 26 Sept.
+Tatie Dee is a house and electro artist based in France, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Yuko Kakizawa, Belaria and Cogan. Next up: Station Mue, Lyon 69002, Lyon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tatie Dee is a house and electro artist tracked on soundcheck, with 72 sets logg
 
 Yuko Kakizawa, Belaria, Cogan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiedee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiedee/)*

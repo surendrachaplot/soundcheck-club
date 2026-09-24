@@ -1,8 +1,8 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
+Oldboy is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kapsule, Liverpool on Sat, 26 Sept 2026.
 
-Oldboy is a garage and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Kapsule, Liverpool on Sat 26 Sept.
+Oldboy is a garage and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Kapsule, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Oldboy is a garage and house artist tracked on soundcheck, with 56 sets logged a
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

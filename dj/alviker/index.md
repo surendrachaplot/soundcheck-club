@@ -1,8 +1,8 @@
 # Alviker
 
-Alviker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Alviker is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Alviker is a techno and trance artist based in Spain, tracked on soundcheck, with 74 sets logged across Bangkok, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Reitze, DAVID MENA and ISA (ES). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Alviker is a techno and trance artist based in Spain, tracked on soundcheck, with 75 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Reitze, DAVID MENA and ISA (ES). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alviker is a techno and trance artist based in Spain, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 16 Oct 2026 | Summum | Ibiza |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Alviker is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Reitze, DAVID MENA, ISA (ES)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alviker/)*

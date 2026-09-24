@@ -1,8 +1,8 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
+FENIM0RE is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
 
-FENIM0RE is a techno and trance artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Athens and Berlin and 23 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
+FENIM0RE is a techno and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Berlin and 24 more. Often billed alongside future.666, ÜBERKIKZ and Pōnky. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FENIM0RE is a techno and trance artist tracked on soundcheck, with 55 sets logge
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 3 Oct 2026 | TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
+| Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 23 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
@@ -33,4 +34,4 @@ FENIM0RE is a techno and trance artist tracked on soundcheck, with 55 sets logge
 
 future.666, ÜBERKIKZ, Pōnky
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

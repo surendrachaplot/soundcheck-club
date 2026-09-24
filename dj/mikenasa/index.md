@@ -1,8 +1,8 @@
 # Mike Nasa
 
-Mike Nasa is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
+Mike Nasa is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Maaya, Berlin on Sun, 27 Sept 2026.
 
-Mike Nasa is a house and afro house artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside APOLONIA (4), HERNSY HEARNS and Helina. Next up: Maaya, Berlin on Sun 27 Sept.
+Mike Nasa is a house and afro house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside APOLONIA (4), HERNSY HEARNS and Helina. Next up: Maaya, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Mike Nasa is a house and afro house artist tracked on soundcheck, with 7 sets lo
 
 APOLONIA (4), HERNSY HEARNS, Helina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenasa/)*

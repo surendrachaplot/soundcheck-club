@@ -1,8 +1,8 @@
 # Donncha
 
-Donncha is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Frame, Dublin on Sat, 26 Sept 2026.
+Donncha is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frame, Dublin on Sat, 26 Sept 2026.
 
-Donncha is a garage and house artist tracked on soundcheck, with 5 sets logged across Dublin and Utrecht. Often billed alongside Surferboy, Marie Eli and ADRIANA (4). Next up: Frame, Dublin on Sat 26 Sept.
+Donncha is a garage and house artist based in Ireland, tracked on soundcheck, with 5 sets logged across Dublin and Utrecht. Often billed alongside Surferboy, Marie Eli and ADRIANA (4). Next up: Frame, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Donncha is a garage and house artist tracked on soundcheck, with 5 sets logged a
 
 Surferboy, Marie Eli, ADRIANA (4)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donncha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donncha/)*

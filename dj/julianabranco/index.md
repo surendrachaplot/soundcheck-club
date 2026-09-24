@@ -1,8 +1,8 @@
 # Juliana Branco
 
-Juliana Branco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
+Juliana Branco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-Juliana Branco is a house and electro artist tracked on soundcheck, with 40 sets logged across London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and GOIA AMO. Next up: M.O.T, London on Sat 3 Oct.
+Juliana Branco is a house and electro artist based in Brazil, tracked on soundcheck, with 40 sets logged across London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and GOIA AMO. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Juliana Branco is a house and electro artist tracked on soundcheck, with 40 sets
 
 Leonardo Cruz DJ, Simoon Pedro, GOIA AMO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianabranco/)*

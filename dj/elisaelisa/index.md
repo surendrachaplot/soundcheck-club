@@ -1,8 +1,8 @@
 # Elisa Elisa
 
-Elisa Elisa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Elisa Elisa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-Elisa Elisa is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Chris Schwarzwälder, Alma Linda and Foolik. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
+Elisa Elisa is a house and techno artist based in France, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Chris Schwarzwälder, Alma Linda and Foolik. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Elisa Elisa is a house and techno artist tracked on soundcheck, with 56 sets log
 
 Chris Schwarzwälder, Alma Linda, Foolik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaelisa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elisaelisa/)*

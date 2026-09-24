@@ -1,8 +1,8 @@
 # GEBO
 
-GEBO is a Hip-Hop and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Socore Factory, Osaka on Sat, 7 Nov 2026.
+GEBO is a Hip-Hop and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Sat, 7 Nov 2026.
 
-GEBO is a hip-hop and grime artist tracked on soundcheck, with 7 sets logged across Osaka. Often billed alongside BT, D.J.Fulltono and DJ FLIP. Next up: Socore Factory, Osaka on Sat 7 Nov.
+GEBO is a hip-hop and grime artist based in Italy, tracked on soundcheck, with 7 sets logged across Osaka. Often billed alongside BT, D.J.Fulltono and DJ FLIP. Next up: Socore Factory, Osaka on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ GEBO is a hip-hop and grime artist tracked on soundcheck, with 7 sets logged acr
 
 BT, D.J.Fulltono, DJ FLIP
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gebo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gebo/)*

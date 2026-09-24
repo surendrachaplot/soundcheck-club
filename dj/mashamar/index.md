@@ -1,8 +1,8 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 888 Garage, San Francisco/Oakland on Fri, 25 Sept 2026.
+Masha Mar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 888 Garage, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Masha Mar is a house and techno artist tracked on soundcheck, with 156 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: 888 Garage, Sanfrancisco on Fri 25 Sept.
+Masha Mar is a house and techno artist based in Serbia, tracked on soundcheck, with 156 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: 888 Garage, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 156 sets logg
 
 Heidi Lawden, Masha, Stacy Christine
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

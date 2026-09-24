@@ -1,6 +1,6 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DOLLSTEP IV" on Sat, 3 Oct 2026.
+The Loco Klub is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DOLLSTEP IV" on Sat, 3 Oct 2026.
 
 The Loco Klub is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including JAZ IMSKY, Jess Hands, Alif Hilal and LYZANDER and 1 more. Browse upcoming dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
@@ -16,4 +16,4 @@ The Loco Klub is a music venue in Bristol listed on soundcheck. 3 upcoming gigs,
 
 Clock Tower Yard, Bristol BS1 6QH, United Kingdom, Bristol
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*

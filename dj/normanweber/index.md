@@ -1,13 +1,14 @@
 # Norman Weber
 
-Norman Weber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Norman Weber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
-Norman Weber is a house and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Frankie Flowerz, Sisyphos and Britta Arnold. Next up: Yellow House, Amsterdam on Sat 24 Oct.
+Norman Weber is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Frankie Flowerz, Sisyphos and Britta Arnold. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 27 Nov 2026 | OXI | Berlin |
 
@@ -26,4 +27,4 @@ Norman Weber is a house and techno artist tracked on soundcheck, with 59 sets lo
 
 Frankie Flowerz, Sisyphos, Britta Arnold
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*

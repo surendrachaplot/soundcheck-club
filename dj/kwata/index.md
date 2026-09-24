@@ -1,14 +1,15 @@
 # K Wata
 
-K Wata is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+K Wata is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
 
-K Wata is a techno and bass artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Denver, Detroit and Krakow and 11 more. Often billed alongside Enayet, Relaxer and Simisea. Next up: Hotel Forum, Krakow on Sat 10 Oct.
+K Wata is a techno and bass artist based in United States of America, tracked on soundcheck, with 57 sets logged across Central, Chicago, Denver and Detroit and 12 more. Often billed alongside Enayet, Relaxer and Simisea. Next up: Hotel Forum, Krakow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
+| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
 
@@ -27,4 +28,4 @@ K Wata is a techno and bass artist based in United States of America, tracked on
 
 Enayet, Relaxer, Simisea
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kwata/)*

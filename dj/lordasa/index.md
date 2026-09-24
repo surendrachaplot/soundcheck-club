@@ -1,6 +1,6 @@
 # LORD ASA
 
-LORD ASA is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Sat, 31 Oct 2026.
+LORD ASA is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Sat, 31 Oct 2026.
 
 LORD ASA is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside LORD ANNA, 99 ranch and Ali Berger. Next up: BASEMENT, Newyorkcity on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ LORD ASA is a hardcore and techno artist based in United States of America, trac
 
 LORD ANNA, 99 ranch, Ali Berger
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lordasa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lordasa/)*

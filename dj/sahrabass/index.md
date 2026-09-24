@@ -1,6 +1,6 @@
 # Sahra Bass
 
-Sahra Bass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Sahra Bass is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Sahra Bass is a techno and house artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside FLAVE, Frida Darko and Urem. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Sahra Bass is a techno and house artist tracked on soundcheck, with 63 sets logg
 
 FLAVE, Frida Darko, Urem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahrabass/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahrabass/)*

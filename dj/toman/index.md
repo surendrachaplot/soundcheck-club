@@ -1,13 +1,14 @@
 # Toman
 
-Toman is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 16 Oct 2026.
+Toman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Space Miami, Miami on Sat, 26 Sept 2026.
 
-Toman is a house and tech house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: Chinois Ibiza, Ibiza on Fri 16 Oct.
+Toman is a house and tech house artist based in Netherlands, tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Barcelona and Basel and 38 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: Club Space Miami, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Club Space Miami | Miami |
 | Fri, 16 Oct 2026 | Chinois Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | Volt Club Milano | Milan |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |
@@ -29,4 +30,4 @@ Toman is a house and tech house artist tracked on soundcheck, with 162 sets logg
 
 ANOTR, Ben Sterling, CHRIS STASSY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

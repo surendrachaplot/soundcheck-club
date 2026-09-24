@@ -1,6 +1,6 @@
 # kennino
 
-kennino is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
+kennino is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
 
 kennino is a techno and trance artist based in Philippines, tracked on soundcheck, with 26 sets logged across Berlin, Lisbon and Milan. Often billed alongside DJ Yok, GADDAM and ophell. Next up: Moon Club, Lisbon on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ kennino is a techno and trance artist based in Philippines, tracked on soundchec
 
 DJ Yok, GADDAM, ophell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennino/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennino/)*

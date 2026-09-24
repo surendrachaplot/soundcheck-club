@@ -1,6 +1,6 @@
 # Jairo Uría
 
-Jairo Uría is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
+Jairo Uría is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Jairo Uría is a deep house and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Miss Manu, Guillem Cotto and John Acquaviva. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jairo Uría is a deep house and techno artist based in Spain, tracked on soundch
 
 Miss Manu, Guillem Cotto, John Acquaviva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jairouria/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jairouria/)*

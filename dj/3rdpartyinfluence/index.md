@@ -1,8 +1,8 @@
 # 3rd Party Influence
 
-3rd Party Influence is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+3rd Party Influence is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
-3rd Party Influence is a techno and ambient artist tracked on soundcheck, with 15 sets logged across Berlin and Utrecht. Often billed alongside NEVERSLEEP, Frank Funke and JacqNoise. Next up: 90mil, Berlin on Fri 25 Sept.
+3rd Party Influence is a techno and ambient artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Utrecht. Often billed alongside NEVERSLEEP, Frank Funke and JacqNoise. Next up: 90mil, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@
 
 NEVERSLEEP, Frank Funke, JacqNoise
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdpartyinfluence/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3rdpartyinfluence/)*

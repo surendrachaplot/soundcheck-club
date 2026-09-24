@@ -1,6 +1,6 @@
 # QUEER MOUSSEM FESTIVAL BY GAZELLE L'HAFLA at Les Halles de Schaerbeek
 
-QUEER MOUSSEM FESTIVAL BY GAZELLE L'HAFLA at Les Halles de Schaerbeek on Fri 30 Oct, Brussels. Electro and Ballroom. Preview the line-up and save it on soundcheck.
+QUEER MOUSSEM FESTIVAL BY GAZELLE L'HAFLA at Les Halles de Schaerbeek on Fri 30 Oct, Brussels. Club and Ballroom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

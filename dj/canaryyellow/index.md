@@ -1,8 +1,8 @@
 # canary yellow
 
-canary yellow is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+canary yellow is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-canary yellow is a garage and house artist tracked on soundcheck, with 20 sets logged across Chicago, Denver, Losangeles and Mexicocity and 2 more. Often billed alongside Clearcast, RamonPang and Hannah Laing. Next up: TBA, Losangeles on Sun 27 Sept.
+canary yellow is a garage and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Denver, Losangeles and Mexicocity and 2 more. Often billed alongside Clearcast, RamonPang and Hannah Laing. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ canary yellow is a garage and house artist tracked on soundcheck, with 20 sets l
 
 Clearcast, RamonPang, Hannah Laing
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/canaryyellow/)*

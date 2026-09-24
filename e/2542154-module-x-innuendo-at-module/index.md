@@ -1,6 +1,6 @@
 # MODULE X INNUENDO at MODULE
 
-MODULE X INNUENDO on Fri 2 Oct, Copenhagen. 2 acts on the bill: Baime and Nick Søe. Techno and Deep House. Preview the line-up and save it on soundcheck.
+MODULE X INNUENDO on Fri 2 Oct, Copenhagen. 3 acts on the bill: Baime, Nick Søe and VAKURI. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ MODULE X INNUENDO on Fri 2 Oct, Copenhagen. 2 acts on the bill: Baime and Nick S
 
 - Baime
 - Nick Søe
+- VAKURI
 
 *Source: [soundcheck](https://soundcheck.club/e/2542154-module-x-innuendo-at-module/)*

@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DJ Assault BROOKLYN RESIDENCY" on Sat, 26 Sept 2026.
+Market Hotel is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DJ Assault BROOKLYN RESIDENCY" on Sat, 26 Sept 2026.
 
 Market Hotel is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Assault, DJ Thank You, DR. GABBA and GFOTY and 2 more. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -16,4 +16,4 @@ Market Hotel is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gi
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

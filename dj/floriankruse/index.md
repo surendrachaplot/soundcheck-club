@@ -1,8 +1,8 @@
 # Florian Kruse
 
-Florian Kruse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tausend, Berlin on Sat, 26 Sept 2026.
+Florian Kruse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tausend, Berlin on Sat, 26 Sept 2026.
 
-Florian Kruse is a house and techno artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Hamburg and Stuttgart. Often billed alongside Andi de Luxe, DER ALINEA and Lexer. Next up: Tausend, Berlin on Sat 26 Sept.
+Florian Kruse is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Hamburg and Stuttgart. Often billed alongside Andi de Luxe, DER ALINEA and Lexer. Next up: Tausend, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Florian Kruse is a house and techno artist tracked on soundcheck, with 11 sets l
 
 Andi de Luxe, DER ALINEA, Lexer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriankruse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriankruse/)*

@@ -1,8 +1,8 @@
 # ROCCO (FIGA)
 
-ROCCO (FIGA) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 2 Oct 2026.
+ROCCO (FIGA) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 2 Oct 2026.
 
-ROCCO (FIGA) is a techno and club artist tracked on soundcheck, with 21 sets logged across Newyorkcity and Seattle. Often billed alongside Lester Fitzpatrick, Concrete Husband and Cyb3r Bull. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 2 Oct.
+ROCCO (FIGA) is a techno and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity and Seattle. Often billed alongside Lester Fitzpatrick, Concrete Husband and Cyb3r Bull. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ROCCO (FIGA) is a techno and club artist tracked on soundcheck, with 21 sets log
 
 Lester Fitzpatrick, Concrete Husband, Cyb3r Bull
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*

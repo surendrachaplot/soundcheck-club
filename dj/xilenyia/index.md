@@ -1,8 +1,8 @@
 # XILENYIA
 
-XILENYIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
+XILENYIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-XILENYIA is a techno and house artist tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside SNAQ, RawB and pxlwlkr. Next up: TBA, Sanfrancisco on Sat 26 Sept.
+XILENYIA is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside SNAQ, RawB and pxlwlkr. Next up: TBA, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ XILENYIA is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 SNAQ, RawB, pxlwlkr
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xilenyia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xilenyia/)*

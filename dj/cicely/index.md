@@ -1,8 +1,8 @@
 # CICELY
 
-CICELY is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+CICELY is a Breakbeat and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
-CICELY is a breakbeat and jungle artist tracked on soundcheck, with 79 sets logged across Berlin, Brighton, Leeds and London and 3 more. Often billed alongside Highlander, A.N.T and OS:MAN. Next up: The Clayshed, Newcastle on Sat 26 Sept.
+CICELY is a breakbeat and jungle artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Berlin, Brighton, Leeds and London and 3 more. Often billed alongside Highlander, A.N.T and OS:MAN. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ CICELY is a breakbeat and jungle artist tracked on soundcheck, with 79 sets logg
 
 Highlander, A.N.T, OS:MAN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*

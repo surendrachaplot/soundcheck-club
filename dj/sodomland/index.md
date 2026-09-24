@@ -1,8 +1,8 @@
 # Sodomland
 
-Sodomland is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Badaboum, Paris on Thu, 29 Oct 2026.
+Sodomland is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Badaboum, Paris on Thu, 29 Oct 2026.
 
-Sodomland is an electro and club artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Hamburg and London and 4 more. Often billed alongside Global, Europa (1) and Blood of Aza. Next up: Badaboum, Paris on Thu 29 Oct.
+Sodomland is an electro and club artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Hamburg and London and 4 more. Often billed alongside Global, Europa (1) and Blood of Aza. Next up: Badaboum, Paris on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sodomland is an electro and club artist tracked on soundcheck, with 24 sets logg
 
 Global, Europa (1), Blood of Aza
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomland/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sodomland/)*

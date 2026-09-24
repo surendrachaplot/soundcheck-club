@@ -1,8 +1,8 @@
 # Nico O'Konor
 
-Nico O'Konor is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
+Nico O'Konor is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Collect LX Factory, Lisbon on Fri, 16 Oct 2026.
 
-Nico O'Konor is a tech house and house artist tracked on soundcheck, with 11 sets logged across Lisbon and Stockholm. Often billed alongside Flord King, Daniel Lien and Parallax Deep. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
+Nico O'Konor is a tech house and house artist based in Sweden, tracked on soundcheck, with 11 sets logged across Lisbon and Stockholm. Often billed alongside Flord King, Daniel Lien and Parallax Deep. Next up: Collect LX Factory, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nico O'Konor is a tech house and house artist tracked on soundcheck, with 11 set
 
 Flord King, Daniel Lien, Parallax Deep
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicookonor/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicookonor/)*

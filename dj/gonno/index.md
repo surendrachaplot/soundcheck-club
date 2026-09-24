@@ -1,8 +1,8 @@
 # Gonno
 
-Gonno is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 25 Sept 2026.
+Gonno is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 25 Sept 2026.
 
-Gonno is a house and techno artist tracked on soundcheck, with 121 sets logged across Bali, Bangkok, Berlin and Brussels and 16 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 25 Sept.
+Gonno is a house and techno artist based in Japan, tracked on soundcheck, with 122 sets logged across Bali, Bangkok, Berlin and Brussels and 16 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Gonno is a house and techno artist tracked on soundcheck, with 121 sets logged a
 | Sat, 10 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 | Sat, 24 Oct 2026 | BAR Inc | Osaka |
+| Fri, 13 Nov 2026 | R Lounge | Tokyo |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Gonno is a house and techno artist tracked on soundcheck, with 121 sets logged a
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

@@ -1,8 +1,8 @@
 # Pulziv
 
-Pulziv is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
+Pulziv is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
 
-Pulziv is a minimal and tech house artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Anthity, Francesco Andolina and Jayzo. Next up: Onder Hans, Amsterdam on Thu 8 Oct.
+Pulziv is a minimal and tech house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Anthity, Francesco Andolina and Jayzo. Next up: Onder Hans, Amsterdam on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Pulziv is a minimal and tech house artist tracked on soundcheck, with 5 sets log
 
 Anthity, Francesco Andolina, Jayzo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pulziv/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pulziv/)*

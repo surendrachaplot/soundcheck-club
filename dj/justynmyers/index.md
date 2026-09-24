@@ -1,6 +1,6 @@
 # Justyn Myers
 
-Justyn Myers is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mothership, San Francisco/Oakland on Thu, 1 Oct 2026.
+Justyn Myers is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mothership, San Francisco/Oakland on Thu, 1 Oct 2026.
 
 Justyn Myers is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Yaz, Amatric and DJ Cira. Next up: Mothership, Sanfrancisco on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Justyn Myers is a house and deep house artist based in United States of America,
 
 Yaz, Amatric, DJ Cira
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justynmyers/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justynmyers/)*

@@ -1,8 +1,8 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
-Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
+Rosa Pistola is a reggaeton and latin bass artist based in Colombia, tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 
 Bclip, Freebot, DJ Travella
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

@@ -1,8 +1,8 @@
 # Cadence.
 
-Cadence. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kapsule, Liverpool on Fri, 25 Sept 2026.
+Cadence. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kapsule, Liverpool on Fri, 25 Sept 2026.
 
-Cadence. is a house and garage artist tracked on soundcheck, with 8 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Charlotte Ord, Duskus and Eliza Rose. Next up: Kapsule, Liverpool on Fri 25 Sept.
+Cadence. is a house and garage artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Charlotte Ord, Duskus and Eliza Rose. Next up: Kapsule, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Cadence. is a house and garage artist tracked on soundcheck, with 8 sets logged 
 
 Charlotte Ord, Duskus, Eliza Rose
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cadence./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cadence./)*

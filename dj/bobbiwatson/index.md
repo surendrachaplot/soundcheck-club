@@ -1,6 +1,6 @@
 # Bobbi Watson
 
-Bobbi Watson is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Funke, Ghent on Sat, 26 Sept 2026.
+Bobbi Watson is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Funke, Ghent on Sat, 26 Sept 2026.
 
 Bobbi Watson is a techno and dub techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 6 more. Often billed alongside Jessen, UNOS and trillosta. Next up: Funke, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bobbi Watson is a techno and dub techno artist tracked on soundcheck, with 38 se
 
 Jessen, UNOS, trillosta
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbiwatson/)*

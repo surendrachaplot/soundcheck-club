@@ -1,8 +1,8 @@
 # Kleinefrigo
 
-Kleinefrigo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Illegaal, Brussels on Fri, 16 Oct 2026.
+Kleinefrigo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Illegaal, Brussels on Fri, 16 Oct 2026.
 
-Kleinefrigo is a techno and trance artist tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Skeletor Yogi, Barqiemoon and Dr. G. Next up: Illegaal, Brussels on Fri 16 Oct.
+Kleinefrigo is a techno and trance artist based in Belgium, tracked on soundcheck, with 12 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Skeletor Yogi, Barqiemoon and Dr. G. Next up: Illegaal, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kleinefrigo is a techno and trance artist tracked on soundcheck, with 12 sets lo
 
 Skeletor Yogi, Barqiemoon, Dr. G
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinefrigo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinefrigo/)*

@@ -1,13 +1,15 @@
 # Reeko
 
-Reeko is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Headrow House, Leeds on Sat, 5 Dec 2026.
+Reeko is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
-Reeko is a techno and dub techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Svreca, Architectural and Jesus Riaño. Next up: Headrow House, Leeds on Sat 5 Dec.
+Reeko is a techno and dub techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Svreca, Lewis Fautzi and Architectural. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
+| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 5 Dec 2026 | Headrow House | Leeds |
 
 ## Recently played
@@ -23,6 +25,6 @@ Reeko is a techno and dub techno artist tracked on soundcheck, with 40 sets logg
 
 ## Shares bills with
 
-Svreca, Architectural, Jesus Riaño
+Svreca, Lewis Fautzi, Architectural
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*

@@ -1,14 +1,16 @@
 # Kollektiv Sheesh
 
-Kollektiv Sheesh is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
+Kollektiv Sheesh is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
-Kollektiv Sheesh is a techno and deep house artist based in Germany, tracked on soundcheck, with 74 sets logged across Berlin, Hamburg, Stuttgart and Vienna. Often billed alongside Nugi, Nya Nyx and Joule. Next up: FLUCC, Vienna on Sat 3 Oct.
+Kollektiv Sheesh is a techno and deep house artist based in Germany, tracked on soundcheck, with 76 sets logged across Berlin, Hamburg, Stuttgart and Vienna. Often billed alongside Nugi, Nya Nyx and Just Emma. Next up: FLUCC, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | FLUCC | Vienna |
+| Sun, 4 Oct 2026 | Wiener Werkshallen | Vienna |
+| Sun, 11 Oct 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Kollektiv Sheesh is a techno and deep house artist based in Germany, tracked on 
 
 ## Shares bills with
 
-Nugi, Nya Nyx, Joule
+Nugi, Nya Nyx, Just Emma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*

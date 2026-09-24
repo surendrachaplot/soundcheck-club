@@ -1,8 +1,8 @@
 # Rooléh
 
-Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
+Rooléh is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Volt Club Milano, Milan on Thu, 1 Oct 2026.
 
-Rooléh is a house and tech house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Volt Club Milano, Milan on Thu 1 Oct.
+Rooléh is a house and tech house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 16 more. Often billed alongside Easttown, Prunk and Benny Rodrigues. Next up: Volt Club Milano, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Rooléh is a house and tech house artist tracked on soundcheck, with 87 sets log
 
 Easttown, Prunk, Benny Rodrigues
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rooleh/)*

@@ -1,8 +1,8 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha New York, New York City on Sat, 26 Sept 2026.
+Luciano is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha New York, New York City on Sat, 26 Sept 2026.
 
-Luciano is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 17 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Pacha New York, Newyorkcity on Sat 26 Sept.
+Luciano is a house and tech house artist based in Switzerland, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Pacha New York, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Luciano is a house and tech house artist tracked on soundcheck, with 108 sets lo
 | Sat, 26 Sept 2026 | Pacha New York | New York City |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 7 Nov 2026 | Maimarkthalle | Mannheim |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
@@ -29,4 +30,4 @@ Luciano is a house and tech house artist tracked on soundcheck, with 108 sets lo
 
 Sossa, Marco Carola, Prospa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

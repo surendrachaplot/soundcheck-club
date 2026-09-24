@@ -1,8 +1,8 @@
 # xea (1)
 
-xea (1) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+xea (1) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
 
-xea (1) is a bass and techno artist tracked on soundcheck, with 12 sets logged across Marseille and Paris. Often billed alongside 42L (1), Abstraxion and Aloka. Next up: Bal Chavaux, Paris on Sat 3 Oct.
+xea (1) is a bass and techno artist based in France, tracked on soundcheck, with 12 sets logged across Marseille and Paris. Often billed alongside 42L (1), Abstraxion and Aloka. Next up: Bal Chavaux, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ xea (1) is a bass and techno artist tracked on soundcheck, with 12 sets logged a
 
 42L (1), Abstraxion, Aloka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xea-1/)*

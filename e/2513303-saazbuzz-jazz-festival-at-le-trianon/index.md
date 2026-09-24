@@ -1,6 +1,6 @@
 # SaazBuzz Jazz Festival at Le Trianon
 
-SaazBuzz Jazz Festival at Le Trianon on Fri 25 Sept, Paris. Afrobeat and Jazz. Preview the line-up and save it on soundcheck.
+SaazBuzz Jazz Festival at Le Trianon on Fri 25 Sept, Paris. Jazz and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

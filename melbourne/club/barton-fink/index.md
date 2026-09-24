@@ -1,6 +1,6 @@
 # Barton Fink
 
-Barton Fink is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sonido Origins (Tommy LiH, Major, AP B2B JOV, Fitzy, ROSAX, Kortx, STRIDE B2B TRIBAL, FLO-RO)" on Fri, 2 Oct 2026.
+Barton Fink is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sonido Origins (Tommy LiH, Major, AP B2B JOV, Fitzy, ROSAX, Kortx, STRIDE B2B TRIBAL, FLO-RO)" on Fri, 2 Oct 2026.
 
 Barton Fink is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Rosax. Browse upcoming dates, start times and who's playing. 816-818 High St, Thornbury VIC 3071, Australia.
 
@@ -14,4 +14,4 @@ Barton Fink is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, 
 
 816-818 High St, Thornbury VIC 3071, Australia, Melbourne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/barton-fink/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/barton-fink/)*

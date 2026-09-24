@@ -1,8 +1,8 @@
 # Inqapool
 
-Inqapool is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Forestlimit, Tokyo on Sat, 3 Oct 2026.
+Inqapool is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forestlimit, Tokyo on Sat, 3 Oct 2026.
 
-Inqapool is an experimental and techno artist tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside Yuichiro Kotani, Atsushi Asada and Espinoza. Next up: Forestlimit, Tokyo on Sat 3 Oct.
+Inqapool is an experimental and techno artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside Yuichiro Kotani, Atsushi Asada and Espinoza. Next up: Forestlimit, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Inqapool is an experimental and techno artist tracked on soundcheck, with 16 set
 
 Yuichiro Kotani, Atsushi Asada, Espinoza
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inqapool/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inqapool/)*

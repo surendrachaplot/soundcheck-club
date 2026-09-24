@@ -1,8 +1,8 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Hasvat Informant is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Hasvat Informant is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Hasvat Informant is a techno and house artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Hasvat Informant is a techno and trance artist tracked on soundcheck, with 67 se
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

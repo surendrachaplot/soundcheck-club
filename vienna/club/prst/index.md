@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DONNERSTRADA X TURBO THURSDAY" on Thu, 24 Sept 2026.
+PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DONNERSTRADA X TURBO THURSDAY" on Thu, 24 Sept 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Chris Freud, Davide Dev, David Radi and Maher Daniel and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -18,4 +18,4 @@ PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

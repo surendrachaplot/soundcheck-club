@@ -1,8 +1,8 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Workforce is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
-Workforce is a drum & bass and jungle artist tracked on soundcheck, with 44 sets logged across Berlin, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: Outernet Live, London on Sat 26 Sept.
+Workforce is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Berlin, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: Outernet Live, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Workforce is a drum & bass and jungle artist tracked on soundcheck, with 44 sets
 
 SP:MC, LSB, Halogenix
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*

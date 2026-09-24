@@ -1,8 +1,8 @@
 # RIET
 
-RIET is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Thu, 1 Oct 2026.
+RIET is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Thu, 1 Oct 2026.
 
-RIET is a house and techno artist tracked on soundcheck, with 18 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Asian Sal, DJ Rino and DONIA. Next up: Crack Bellmer, Berlin on Thu 1 Oct.
+RIET is a house and techno artist based in Belgium, tracked on soundcheck, with 18 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Asian Sal, DJ Rino and DONIA. Next up: Crack Bellmer, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ RIET is a house and techno artist tracked on soundcheck, with 18 sets logged acr
 
 Asian Sal, DJ Rino, DONIA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riet/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riet/)*

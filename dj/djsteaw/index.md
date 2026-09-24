@@ -1,8 +1,8 @@
 # DJ Steaw
 
-DJ Steaw is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
+DJ Steaw is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
 
-DJ Steaw is a house and tech house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Baccus, Emma B and Vitess. Next up: Goya Social Club, Madrid on Fri 25 Sept.
+DJ Steaw is a house and tech house artist based in France, tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside Baccus, Emma B and Vitess. Next up: Goya Social Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Steaw is a house and tech house artist tracked on soundcheck, with 41 sets lo
 
 Baccus, Emma B, Vitess
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteaw/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsteaw/)*

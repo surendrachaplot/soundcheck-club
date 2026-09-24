@@ -1,8 +1,8 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Shermanology is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Shermanology is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Shermanology is a house and tech house artist based in Curacao, tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 98 set
 | Sat, 3 Oct 2026 | Sahara | Rotterdam |
 | Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
 | Sat, 7 Nov 2026 | Quartyard | San Diego |
+| Fri, 20 Nov 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 98 set
 
 Sam Divine, Eats Everything, Green Velvet
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

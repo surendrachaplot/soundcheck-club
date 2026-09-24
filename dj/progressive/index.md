@@ -1,8 +1,8 @@
 # Progressive
 
-Progressive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BRUS, Copenhagen on Sat, 17 Oct 2026.
+Progressive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BRUS, Copenhagen on Sat, 17 Oct 2026.
 
-Progressive is a techno and house artist tracked on soundcheck, with 39 sets logged across Athens, Bangkok, Berlin and Cologne and 11 more. Often billed alongside Hudd, Offbeat and Artwork. Next up: BRUS, Copenhagen on Sat 17 Oct.
+Progressive is a techno and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Athens, Bangkok, Berlin and Cologne and 11 more. Often billed alongside Hudd, Offbeat and Artwork. Next up: BRUS, Copenhagen on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Progressive is a techno and house artist tracked on soundcheck, with 39 sets log
 
 Hudd, Offbeat, Artwork
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/progressive/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/progressive/)*

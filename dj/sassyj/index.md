@@ -1,8 +1,8 @@
 # Sassy J
 
-Sassy J is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hearth, Amsterdam on Sat, 24 Oct 2026.
+Sassy J is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hearth, Amsterdam on Sat, 24 Oct 2026.
 
-Sassy J is a house and disco artist tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Antal, Eternal Love and Hunee. Next up: Hearth, Amsterdam on Sat 24 Oct.
+Sassy J is a house and disco artist based in Switzerland, tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 19 more. Often billed alongside Antal, Eternal Love and Hunee. Next up: Hearth, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sassy J is a house and disco artist tracked on soundcheck, with 46 sets logged a
 
 Antal, Eternal Love, Hunee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*

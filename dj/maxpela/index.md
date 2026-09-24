@@ -1,13 +1,14 @@
 # MAX PELA
 
-MAX PELA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Metro, Kyoto on Sat, 26 Sept 2026.
+MAX PELA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at W Osaka, Osaka on Fri, 25 Sept 2026.
 
-MAX PELA is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 71 sets logged across Kyoto, Osaka, Rome and Singapore. Often billed alongside DMITRI ABSINTHE, YUUKI YOSHIYAMA and Nao Nomura. Next up: Club Metro, Kyoto on Sat 26 Sept.
+MAX PELA is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 72 sets logged across Kyoto, Osaka, Rome and Singapore. Often billed alongside DMITRI ABSINTHE, YUUKI YOSHIYAMA and Nao Nomura. Next up: W Osaka, Osaka on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | W Osaka | Osaka |
 | Sat, 26 Sept 2026 | Club Metro | Kyoto |
 | Sun, 11 Oct 2026 | Casablanca Namba Riverside | Osaka |
 
@@ -26,4 +27,4 @@ MAX PELA is a house and tech house artist based in Dominican Republic, tracked o
 
 DMITRI ABSINTHE, YUUKI YOSHIYAMA, Nao Nomura
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxpela/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxpela/)*

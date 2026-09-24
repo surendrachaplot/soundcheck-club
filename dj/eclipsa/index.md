@@ -1,8 +1,8 @@
 # Eclipsa
 
-Eclipsa is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Wed, 30 Sept 2026.
+Eclipsa is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Wed, 30 Sept 2026.
 
-Eclipsa is a techno and ebm artist tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp, Bangkok and Brussels and 1 more. Often billed alongside AARK, Auk. and Dario Desaer. Next up: elipamanoke, Leipzig on Wed 30 Sept.
+Eclipsa is a techno and ebm artist based in Colombia, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp, Bangkok and Brussels and 1 more. Often billed alongside AARK, Auk. and Dario Desaer. Next up: elipamanoke, Leipzig on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Eclipsa is a techno and ebm artist tracked on soundcheck, with 5 sets logged acr
 
 AARK, Auk., Dario Desaer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eclipsa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eclipsa/)*

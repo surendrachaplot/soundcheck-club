@@ -1,8 +1,8 @@
 # Roland Clark
 
-Roland Clark is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
+Roland Clark is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Do Not Sit On The Furniture, Miami on Wed, 30 Sept 2026.
 
-Roland Clark is a house and tech house artist tracked on soundcheck, with 15 sets logged across Amsterdam, London, Melbourne and Miami and 2 more. Often billed alongside Michael Moog, Todd Terry and Gettoblaster. Next up: Do Not Sit On The Furniture, Miami on Wed 30 Sept.
+Roland Clark is a house and tech house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, London, Melbourne and Miami and 2 more. Often billed alongside Michael Moog, Todd Terry and Gettoblaster. Next up: Do Not Sit On The Furniture, Miami on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Roland Clark is a house and tech house artist tracked on soundcheck, with 15 set
 
 Michael Moog, Todd Terry, Gettoblaster
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandclark/)*

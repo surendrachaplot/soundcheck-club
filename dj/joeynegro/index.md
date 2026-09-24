@@ -1,8 +1,8 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Merkur Casino, Leeds on Sat, 26 Sept 2026.
+Dave Lee is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Merkur Casino, Leeds on Sat, 26 Sept 2026.
 
-Dave Lee is a house and disco artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: TBA - Merkur Casino, Leeds on Sat 26 Sept.
+Dave Lee is a house and disco artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 19 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: TBA - Merkur Casino, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Dave Lee is a house and disco artist tracked on soundcheck, with 92 sets logged 
 
 Melvo Baptiste, Mousse T., Natasha Diggs
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeynegro/)*

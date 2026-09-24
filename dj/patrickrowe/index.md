@@ -1,14 +1,14 @@
 # Patrick Rowe
 
-Patrick Rowe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location - Dalston, London on Sun, 11 Oct 2026.
+Patrick Rowe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cellar, London on Sun, 11 Oct 2026.
 
-Patrick Rowe is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Gabriel Rai, Craig Richards and Enrica Falqui. Next up: TBA - Secret Location - Dalston, London on Sun 11 Oct.
+Patrick Rowe is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Gabriel Rai, Craig Richards and Enrica Falqui. Next up: Cellar, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 11 Oct 2026 | TBA - Secret Location - Dalston | London |
+| Sun, 11 Oct 2026 | Cellar | London |
 | Sat, 14 Nov 2026 | Gaffe | London |
 
 ## Recently played
@@ -26,4 +26,4 @@ Patrick Rowe is a techno and house artist based in United Kingdom, tracked on so
 
 Gabriel Rai, Craig Richards, Enrica Falqui
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickrowe/)*

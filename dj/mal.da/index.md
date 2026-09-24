@@ -1,6 +1,6 @@
 # Mal.Da
 
-Mal.Da is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
+Mal.Da is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
 
 Mal.Da is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Kenji Tanaka, el Capitan and Asem Shama. Next up: Lvl - World of Gaming Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mal.Da is a techno and hip-hop artist based in Germany, tracked on soundcheck, w
 
 Kenji Tanaka, el Capitan, Asem Shama
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal.da/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal.da/)*

@@ -1,8 +1,8 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
+Syd (US) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paragon, New York City on Sat, 26 Sept 2026.
 
-Syd (US) is a club and techno artist tracked on soundcheck, with 92 sets logged across Boston, Chicago, Detroit and Losangeles and 8 more. Often billed alongside NATALIA., Tromac and NoahG. Next up: Paragon, Newyorkcity on Sat 26 Sept.
+Syd (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Boston, Chicago, Detroit and Losangeles and 8 more. Often billed alongside NATALIA., Tromac and NoahG. Next up: Paragon, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 92 sets logged 
 
 NATALIA., Tromac, NoahG
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

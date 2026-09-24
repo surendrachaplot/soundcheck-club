@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Espacio Libre" on Fri, 2 Oct 2026.
+ISOamsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Espacio Libre" on Fri, 2 Oct 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Bear Bones, Lay Low, Comrade Winston, Serena and Stefhanja and 1 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
@@ -15,4 +15,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs
 
 Isolatorweg 17, Amsterdam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

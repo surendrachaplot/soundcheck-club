@@ -1,8 +1,8 @@
 # Risky Medicine
 
-Risky Medicine is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - FunkShui - 769 Dundas St W, Toronto on Sat, 10 Oct 2026.
+Risky Medicine is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - FunkShui - 769 Dundas St W, Toronto on Sat, 10 Oct 2026.
 
-Risky Medicine is a techno and afro tech artist tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Miss Kleio, SouthPawBrown and 'PAVV'. Next up: TBA - FunkShui - 769 Dundas St W, Toronto on Sat 10 Oct.
+Risky Medicine is a techno and afro tech artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Miss Kleio, SouthPawBrown and 'PAVV'. Next up: TBA - FunkShui - 769 Dundas St W, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Risky Medicine is a techno and afro tech artist tracked on soundcheck, with 7 se
 
 Miss Kleio, SouthPawBrown, 'PAVV'
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riskymedicine/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riskymedicine/)*

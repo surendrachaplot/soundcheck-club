@@ -1,8 +1,8 @@
 # KAV
 
-KAV is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 10 Oct 2026.
+KAV is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 10 Oct 2026.
 
-KAV is a house and downtempo artist tracked on soundcheck, with 15 sets logged across Dublin, Leeds, Manchester and Sheffield. Often billed alongside Randle P Mcmurphy, Luke Daniels and Chad Harrison. Next up: Eastern Bloc Records, Manchester on Sat 10 Oct.
+KAV is a house and downtempo artist based in Ireland, tracked on soundcheck, with 15 sets logged across Dublin, Leeds, Manchester and Sheffield. Often billed alongside Randle P Mcmurphy, Luke Daniels and Chad Harrison. Next up: Eastern Bloc Records, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KAV is a house and downtempo artist tracked on soundcheck, with 15 sets logged a
 
 Randle P Mcmurphy, Luke Daniels, Chad Harrison
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kav/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kav/)*

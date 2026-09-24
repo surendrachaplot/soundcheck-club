@@ -1,14 +1,13 @@
 # The Lower Third
 
-The Lower Third is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BIJî" on Wed, 23 Sept 2026.
+The Lower Third is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cold Blue Open to close set" on Sat, 3 Oct 2026.
 
-The Lower Third is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Adela, AmyElle, Bronka and Budakid and 2 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
+The Lower Third is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adela, AmyElle, Bronka and Budakid and 2 more. Browse upcoming dates, start times and who's playing. 26 Denmark St, London, WC2H 8NJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | BIJî |  |
 | Sat, 3 Oct 2026 | Cold Blue Open to close set |  |
 | Sat, 3 Oct 2026 | Harriet Jaxxon presents 'Deckades' London | Harriet Jaxxon |
 | Sat, 10 Oct 2026 | CHELO - London | CHELO |
@@ -18,9 +17,10 @@ The Lower Third is a music venue in London listed on soundcheck. 13 upcoming gig
 | Mon, 9 Nov 2026 | Marla Kether |  |
 | Sat, 14 Nov 2026 | Supa Dupa Fly: R'n'B LDN Day Party |  |
 | Sat, 14 Nov 2026 | Shingo Nakamura | Shingo Nakamura |
+| Sat, 21 Nov 2026 | AmyElle Presents... | Adela, AmyElle, Matt Davies |
 
 ## Address
 
 26 Denmark St, London, WC2H 8NJ, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lower-third/)*

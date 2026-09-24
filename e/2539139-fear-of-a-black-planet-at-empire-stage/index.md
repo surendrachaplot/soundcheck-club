@@ -1,6 +1,6 @@
 # FEAR OF A BLACK PLANET at Empire Stage
 
-FEAR OF A BLACK PLANET at Empire Stage on Fri 30 Oct, Newyorkcity. 1 act on the bill: Botanist. Club and Footwork. Preview the line-up and save it on soundcheck.
+FEAR OF A BLACK PLANET at Empire Stage on Fri 30 Oct, Newyorkcity. 2 acts on the bill: Botanist and Sean Green. Club and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ FEAR OF A BLACK PLANET at Empire Stage on Fri 30 Oct, Newyorkcity. 1 act on the 
 ## Line-up
 
 - Botanist
+- Sean Green
 
 *Source: [soundcheck](https://soundcheck.club/e/2539139-fear-of-a-black-planet-at-empire-stage/)*

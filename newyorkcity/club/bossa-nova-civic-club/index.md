@@ -1,15 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact" on Wed, 23 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Jewelry Box III" on Thu, 24 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A lana and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 28 upcoming gigs, with line-ups including 3K LB Marlin, 4AM NYC, 8ULENTINA and A lana and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | HEADCRACK: DJ Manny (Teklife), PUFF, and Fugitive Artifact | DJ Manny, Fugitive Artifact, PUFF |
-| Wed, 23 Sept 2026 | .5ide Quest Happy Hour w/Constructible & Peace Ramen b2b Perrin Grace | Constructible, Peace Ramen, Perrin Grace |
 | Thu, 24 Sept 2026 | The Jewelry Box III | SEXINCHURCH, WTCHCRFT |
 | Fri, 25 Sept 2026 | Lifesavers with Ultradyne, saylem celeste, Chung & Jordy | Chung, Jordyflower, saylem celeste |
 | Fri, 25 Sept 2026 | Happy Hour: High Voltage | shirlz |
@@ -18,9 +16,11 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 u
 | Sun, 27 Sept 2026 | Very J, A lana, & DAY/DEM | A lana, DAY/DEM, Very J |
 | Sun, 27 Sept 2026 | Happy Hour: ENDOCYTOSIS |  |
 | Mon, 28 Sept 2026 | Puro Putis with Chata, Grungemum, Henry R, Tok.io[Hosted by Tani] | Henry R, Tok.io, grunge mum |
+| Tue, 29 Sept 2026 | LIFE AFTER TRANCE x SAMUEL X: BOSSA TAKEOVER | ASTER (DJ), Franxx, Samuelx, Subcultures, TOMMYLOGIK, moistbreezy |
+| Wed, 30 Sept 2026 | Grand Prix: Ali Berger / Mariposa / Talker / Cades | Ali Berger, Cades, Mariposa, Talker |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

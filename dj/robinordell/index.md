@@ -1,6 +1,6 @@
 # Robin Ordell
 
-Robin Ordell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
+Robin Ordell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
 Robin Ordell is a house and techno artist based in France, tracked on soundcheck, with 46 sets logged across Bangkok, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Olita (UK), Sam Bangura and Greg Brockmann. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Robin Ordell is a house and techno artist based in France, tracked on soundcheck
 
 Olita (UK), Sam Bangura, Greg Brockmann
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinordell/)*

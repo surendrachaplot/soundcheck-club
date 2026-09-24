@@ -1,8 +1,8 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
+Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 258 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
+Chlär is a techno and house artist based in Switzerland, tracked on soundcheck, with 259 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 258 sets logged 
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
+| Sat, 19 Dec 2026 | WAS. | Utrecht |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Chlär is a techno and house artist tracked on soundcheck, with 258 sets logged 
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

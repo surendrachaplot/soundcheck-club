@@ -1,8 +1,8 @@
 # Funk Cartel
 
-Funk Cartel is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Funk Cartel is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
-Funk Cartel is a tech house and house artist tracked on soundcheck, with 33 sets logged across Brighton, Edinburgh, Ibiza and Leeds and 6 more. Often billed alongside Darius Syrossian, HARRIE SUMMERS and James Cooper (UK). Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
+Funk Cartel is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Brighton, Edinburgh, Ibiza and Leeds and 6 more. Often billed alongside Darius Syrossian, HARRIE SUMMERS and James Cooper (UK). Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Funk Cartel is a tech house and house artist tracked on soundcheck, with 33 sets
 
 Darius Syrossian, HARRIE SUMMERS, James Cooper (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkcartel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkcartel/)*

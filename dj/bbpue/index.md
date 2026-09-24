@@ -1,6 +1,6 @@
 # bbpue
 
-bbpue is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Trans-Pecos, New York City on Fri, 25 Sept 2026.
+bbpue is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Trans-Pecos, New York City on Fri, 25 Sept 2026.
 
 bbpue is an electronica and club artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity and Prague. Often billed alongside 300SkullsAndCounting, 3l3d3p and ANTHEM. Next up: Trans-Pecos, Newyorkcity on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ bbpue is an electronica and club artist based in United States of America, track
 
 300SkullsAndCounting, 3l3d3p, ANTHEM
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbpue/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbpue/)*

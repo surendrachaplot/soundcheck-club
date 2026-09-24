@@ -1,8 +1,8 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Coburg warehouse , Melbourne on Fri, 25 Sept 2026.
+S3PPA is a House and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Coburg warehouse , Melbourne on Fri, 25 Sept 2026.
 
-S3PPA is a house and trance artist tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Copenhagen and Dublin and 7 more. Often billed alongside DART, Gerardo Niva and NewTone. Next up: TBA - Coburg warehouse , Melbourne on Fri 25 Sept.
+S3PPA is a house and trance artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Copenhagen and Dublin and 7 more. Often billed alongside DART, Gerardo Niva and NewTone. Next up: TBA - Coburg warehouse , Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 26 sets logged ac
 
 DART, Gerardo Niva, NewTone
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

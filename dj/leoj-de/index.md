@@ -1,8 +1,8 @@
 # le0j
 
-le0j is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+le0j is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
-le0j is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, London, Milan and Rome. Often billed alongside Alessandro Miranda, N0BLE R0T and John Swing. Next up: OXI, Berlin on Sat 26 Sept.
+le0j is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, London, Milan and Rome. Often billed alongside Alessandro Miranda, N0BLE R0T and John Swing. Next up: OXI, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ le0j is a house and techno artist tracked on soundcheck, with 16 sets logged acr
 
 Alessandro Miranda, N0BLE R0T, John Swing
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoj-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoj-de/)*

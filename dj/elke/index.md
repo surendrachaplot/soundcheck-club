@@ -1,6 +1,6 @@
 # Elke
 
-Elke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
+Elke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
 
 Elke is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin and Wuppertal. Often billed alongside DJ Flounce, Caniche and DJ Hops. Next up: Open Ground, Wuppertal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Elke is a house and techno artist tracked on soundcheck, with 17 sets logged acr
 
 DJ Flounce, Caniche, DJ Hops
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elke/)*

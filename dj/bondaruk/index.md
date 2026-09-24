@@ -1,6 +1,6 @@
 # Bondarük
 
-Bondarük is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Under Club, Buenos Aires on Sat, 26 Sept 2026.
+Bondarük is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Under Club, Buenos Aires on Sat, 26 Sept 2026.
 
 Bondarük is a techno and trance artist based in Argentina, tracked on soundcheck, with 20 sets logged across Buenosaires. Often billed alongside SMT (2), HERS and JXXXO. Next up: Under Club, Buenosaires on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Bondarük is a techno and trance artist based in Argentina, tracked on soundchec
 
 SMT (2), HERS, JXXXO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bondaruk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bondaruk/)*

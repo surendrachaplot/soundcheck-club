@@ -1,8 +1,8 @@
 # Audera
 
-Audera is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 26 Sept 2026.
+Audera is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 26 Sept 2026.
 
-Audera is a house artist tracked on soundcheck, with 40 sets logged across Ibiza, Milan, Paris and Zurich. Often billed alongside IBÁN MENDOZA, ETNA and AIWAA. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 26 Sept.
+Audera is a house artist based in Italy, tracked on soundcheck, with 40 sets logged across Ibiza, Milan, Paris and Zurich. Often billed alongside IBÁN MENDOZA, ETNA and AIWAA. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Audera is a house artist tracked on soundcheck, with 40 sets logged across Ibiza
 
 IBÁN MENDOZA, ETNA, AIWAA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audera/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audera/)*

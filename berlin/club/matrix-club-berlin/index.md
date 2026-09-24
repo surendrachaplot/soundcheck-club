@@ -1,6 +1,6 @@
 # Matrix Club Berlin
 
-Matrix Club Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Official Erasmus & International Party" on Sat, 10 Oct 2026.
+Matrix Club Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Official Erasmus & International Party" on Sat, 10 Oct 2026.
 
 Matrix Club Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Matrix Club Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming g
 
 Warschauer Platz 18, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin/)*

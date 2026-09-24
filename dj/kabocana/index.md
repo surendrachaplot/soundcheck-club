@@ -1,8 +1,8 @@
 # KABOCANA
 
-KABOCANA is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+KABOCANA is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
-KABOCANA is a garage and bass artist tracked on soundcheck, with 14 sets logged across Leeds, Manchester and Sheffield. Often billed alongside FXCKBOUT, BUTCHABOI and D-LIA. Next up: Beaver Works, Leeds on Fri 25 Sept.
+KABOCANA is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, Manchester and Sheffield. Often billed alongside FXCKBOUT, BUTCHABOI and D-LIA. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KABOCANA is a garage and bass artist tracked on soundcheck, with 14 sets logged 
 
 FXCKBOUT, BUTCHABOI, D-LIA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabocana/)*

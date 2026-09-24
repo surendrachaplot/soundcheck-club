@@ -1,8 +1,8 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "135+ mit Klangfarben Kollektiv & Secret Trance Frequencies" on Thu, 24 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "135+ mit Klangfarben Kollektiv & Secret Trance Frequencies" on Thu, 24 Sept 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming gigs, with line-ups including 9LALEY, Alicea, ANASTASÍA and antyo and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 15 upcoming gigs, with line-ups including 9LALEY, Alicea, ANASTASÍA and Anna Lazer and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming g
 | Thu, 8 Oct 2026 | 135+ mit Cycling Club Collective & 808 Kollektive | JACID, MBREKK, SchokoZitrone, avely, loumo |
 | Fri, 9 Oct 2026 | Oliver Koletzki im Bahnwärter Thiel | Bi Män, LARIFARI, Oliver Koletzki, Thilo Who, Vaneska |
 | Sat, 10 Oct 2026 | Birthday Groove by Natanael Megersa mit Casimir von Oettingen | Casimir von Oettingen, Pascal Rudert, fuxia |
-| Fri, 16 Oct 2026 | 11 Jahre Bahnwärter Thiel, 3 Tage ohne Halt | ANASTASÍA, Dave Dinger, ELIF, Elleyza, Jan Minnerup, Listenblondie, Moritz Butschek, Pablo Minuit, SILSAN, Susi&Paula, Tala Berg, The Journey, Wanda Wild, justUS |
+| Thu, 15 Oct 2026 | 135+ mit 1CB & Dankus Kollektiv | Fej:tal, Mr. Stampftech, pnk pnthr |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

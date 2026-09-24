@@ -1,8 +1,8 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Desiree' is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
-Desiree' is a techno and electro artist tracked on soundcheck, with 51 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
+Desiree' is a techno and electro artist based in Italy, tracked on soundcheck, with 51 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Desiree' is a techno and electro artist tracked on soundcheck, with 51 sets logg
 
 Gianmarco Gazzillo, Manlio, Ordep (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-uk/)*

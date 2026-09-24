@@ -1,8 +1,8 @@
 # Goa'98
 
-Goa'98 is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Boho House Wynwood, Miami on Sat, 26 Sept 2026.
+Goa'98 is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Boho House Wynwood, Miami on Sat, 26 Sept 2026.
 
-Goa'98 is a progressive house and techno artist tracked on soundcheck, with 20 sets logged across Miami and Philadelphia. Often billed alongside Kobza, Conosur and Maddalena. Next up: Boho House Wynwood, Miami on Sat 26 Sept.
+Goa'98 is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami and Philadelphia. Often billed alongside Kobza, Conosur and Maddalena. Next up: Boho House Wynwood, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Goa'98 is a progressive house and techno artist tracked on soundcheck, with 20 s
 
 Kobza, Conosur, Maddalena
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*

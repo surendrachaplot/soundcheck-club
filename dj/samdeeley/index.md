@@ -1,8 +1,8 @@
 # Sam Deeley
 
-Sam Deeley is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Outernet Live, London on Sat, 21 Nov 2026.
+Sam Deeley is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Outernet Live, London on Sat, 21 Nov 2026.
 
-Sam Deeley is a garage and house artist tracked on soundcheck, with 25 sets logged across Budapest and London. Often billed alongside Gemi (UK), Milzy and Scruz. Next up: Outernet Live, London on Sat 21 Nov.
+Sam Deeley is a garage and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Budapest and London. Often billed alongside Gemi (UK), Milzy and Scruz. Next up: Outernet Live, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sam Deeley is a garage and house artist tracked on soundcheck, with 25 sets logg
 
 Gemi (UK), Milzy, Scruz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samdeeley/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samdeeley/)*

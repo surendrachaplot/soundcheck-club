@@ -1,8 +1,8 @@
 # nasnan
 
-nasnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Sat, 17 Oct 2026.
+nasnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Sat, 17 Oct 2026.
 
-nasnan is a house and techno artist tracked on soundcheck, with 17 sets logged across Barcelona and Berlin. Often billed alongside Lisa Thaens, Yanakuna and Monkyman. Next up: OST, Berlin on Sat 17 Oct.
+nasnan is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Barcelona and Berlin. Often billed alongside Lisa Thaens, Yanakuna and Monkyman. Next up: OST, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ nasnan is a house and techno artist tracked on soundcheck, with 17 sets logged a
 
 Lisa Thaens, Yanakuna, Monkyman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*

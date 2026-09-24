@@ -1,8 +1,8 @@
 # Beneath
 
-Beneath is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Beneath is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Beneath is an electronic artist tracked on soundcheck, with 4 sets logged across London and Newyorkcity. Often billed alongside Angel D'lite, Authentically Plastic and Bianca Scout. Next up: Ormside Projects, London on Sat 26 Sept.
+Beneath is an electronic artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Newyorkcity. Often billed alongside Angel D'lite, Authentically Plastic and Blvck Truffle. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Beneath is an electronic artist tracked on soundcheck, with 4 sets logged across
 
 ## Shares bills with
 
-Angel D'lite, Authentically Plastic, Bianca Scout
+Angel D'lite, Authentically Plastic, Blvck Truffle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beneath/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beneath/)*

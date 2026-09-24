@@ -1,8 +1,8 @@
 # Maxvll
 
-Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Magno, Madrid on Thu, 15 Oct 2026.
+Maxvll is a Hip-Hop and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Magno, Madrid on Thu, 15 Oct 2026.
 
-Maxvll is a hip-hop and afrobeats artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 15 Oct.
+Maxvll is a hip-hop and afrobeats artist based in Spain, tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Club Magno, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Maxvll is a hip-hop and afrobeats artist tracked on soundcheck, with 130 sets lo
 
 Diego Armando, Yosef (ES), Yosef
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*

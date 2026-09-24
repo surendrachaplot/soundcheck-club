@@ -1,14 +1,15 @@
 # Linus Villa
 
-Linus Villa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
+Linus Villa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
 
-Linus Villa is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Ben Derris, CMK (DE) and DJ SPORTSCHUH. Next up: elipamanoke, Leipzig on Fri 25 Sept.
+Linus Villa is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Ben Derris, CMK (DE) and DJ SPORTSCHUH. Next up: elipamanoke, Leipzig on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | elipamanoke | Leipzig |
+| Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Linus Villa is a techno and trance artist based in Germany, tracked on soundchec
 
 Ben Derris, CMK (DE), DJ SPORTSCHUH
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*

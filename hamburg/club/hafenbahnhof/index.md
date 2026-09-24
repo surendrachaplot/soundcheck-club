@@ -1,6 +1,6 @@
 # Hafenbahnhof
 
-Hafenbahnhof is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "hedone x Hafenbahnhof - open air" on Fri, 25 Sept 2026.
+Hafenbahnhof is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "hedone x Hafenbahnhof - open air" on Fri, 25 Sept 2026.
 
 Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Haeder. Browse upcoming dates, start times and who's playing. Große Elbstraße 276, 22767 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Hafenbahnhof is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, 
 
 Große Elbstraße 276, 22767 Hamburg, Germany, Hamburg
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenbahnhof/)*

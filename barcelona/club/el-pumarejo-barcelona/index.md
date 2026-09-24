@@ -1,6 +1,6 @@
 # El Pumarejo Barcelona
 
-El Pumarejo Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BAILE ANTICOLONIAL | Sudar + Plasma" on Sat, 10 Oct 2026.
+El Pumarejo Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BAILE ANTICOLONIAL | Sudar + Plasma" on Sat, 10 Oct 2026.
 
 El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including AMANTRA, anruna, Julio César and KINDA and 2 more. Browse upcoming dates, start times and who's playing. Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona.
 
@@ -16,4 +16,4 @@ El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 3 upco
 
 Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*

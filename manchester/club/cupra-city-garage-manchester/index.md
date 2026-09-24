@@ -1,8 +1,8 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Pippi Ciez at Cupra, Mcr" on Sat, 26 Sept 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Pippi Ciez at Cupra, Mcr" on Sat, 26 Sept 2026.
 
-Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Stanton Warriors. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
+Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Stanton Warriors and Tim Green. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Pippi Ciez at Cupra, Mcr |  |
 | Sat, 17 Oct 2026 | Stanton Warriors All Evening Long | Stanton Warriors |
+| Sat, 14 Nov 2026 | Tim Green presents: Memories - Manchester | Tim Green |
 
 ## Address
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

@@ -1,8 +1,8 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Select FM London, Los Angeles on Fri, 25 Sept 2026.
+Girls of the Internet is a Disco and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Select FM London, Los Angeles on Fri, 25 Sept 2026.
 
-Girls of the Internet is a disco and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: TBA - Select FM London, Losangeles on Fri 25 Sept.
+Girls of the Internet is a disco and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: TBA - Select FM London, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Girls of the Internet is a disco and house artist tracked on soundcheck, with 64
 | Thu, 8 Oct 2026 | The Sound House | Dublin |
 | Thu, 15 Oct 2026 | Kantine am Berghain | Berlin |
 | Sat, 24 Oct 2026 | Room 2 Glasgow | Glasgow |
+| Sat, 24 Oct 2026 | The Berkeley Suite | Glasgow |
 | Fri, 6 Nov 2026 | The Jam Jar | Bristol |
 | Sat, 14 Nov 2026 | Club Cheek | London |
 | Fri, 27 Nov 2026 | Patterns | Brighton |
@@ -33,4 +34,4 @@ Girls of the Internet is a disco and house artist tracked on soundcheck, with 64
 
 James Alexander Bright, The Shapeshifters, Melvo Baptiste
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsoftheinternet/)*

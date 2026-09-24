@@ -1,8 +1,8 @@
 # Martín
 
-Martín is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Green Room NYC, New York City on Sat, 10 Oct 2026.
+Martín is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Sat, 10 Oct 2026.
 
-Martín is a house and techno artist tracked on soundcheck, with 18 sets logged across Ibiza, Newyorkcity and Sandiego. Often billed alongside Omer Mil, Kiyoshi and Mario Polanco. Next up: Green Room NYC, Newyorkcity on Sat 10 Oct.
+Martín is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Ibiza, Newyorkcity and Sandiego. Often billed alongside Omer Mil, Kiyoshi and Mario Polanco. Next up: Green Room NYC, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Martín is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 Omer Mil, Kiyoshi, Mario Polanco
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martin-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martin-us/)*

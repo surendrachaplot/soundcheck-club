@@ -1,8 +1,8 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Chicago on Sat, 10 Oct 2026.
+Maddix is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Chicago on Sat, 10 Oct 2026.
 
-Maddix is a techno and trance artist tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Bangkok and Basel and 55 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: TBA, Chicago on Sat 10 Oct.
+Maddix is a techno and trance artist based in Netherlands, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Bangkok and Basel and 55 more. Often billed alongside The Rocketman, Billy Gillies and Armin van Buuren. Next up: TBA, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Maddix is a techno and trance artist tracked on soundcheck, with 161 sets logged
 
 The Rocketman, Billy Gillies, Armin van Buuren
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

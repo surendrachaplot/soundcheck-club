@@ -1,6 +1,6 @@
 # Amnati
 
-Amnati is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+Amnati is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
 Amnati is a house and ambient artist tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside Anna Almani, Apolonia and Baba The Knife. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Amnati is a house and ambient artist tracked on soundcheck, with 11 sets logged 
 
 Anna Almani, Apolonia, Baba The Knife
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amnati/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amnati/)*

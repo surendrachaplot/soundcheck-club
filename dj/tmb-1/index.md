@@ -1,6 +1,6 @@
 # TMB (1)
 
-TMB (1) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Cova, Hamburg on Sat, 26 Sept 2026.
+TMB (1) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cova, Hamburg on Sat, 26 Sept 2026.
 
 TMB (1) is a techno and electro artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Eva Nyx, Unromantic and AH-N!CE. Next up: La Cova, Hamburg on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ TMB (1) is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Eva Nyx, Unromantic, AH-N!CE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tmb-1/)*

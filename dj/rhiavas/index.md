@@ -1,8 +1,8 @@
 # Rhiavas
 
-Rhiavas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 10 Oct 2026.
+Rhiavas is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Two Tribes CAMPFIRE, London on Sat, 10 Oct 2026.
 
-Rhiavas is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: Two Tribes CAMPFIRE, London on Sat 10 Oct.
+Rhiavas is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Jerome Six. Next up: Two Tribes CAMPFIRE, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rhiavas is a house and tech house artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Two Tribes CAMPFIRE | London |
 | Sat, 7 Nov 2026 | 93 Feet East | London |
+| Sat, 7 Nov 2026 | The BBE Store | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rhiavas is a house and tech house artist based in United Kingdom, tracked on sou
 
 FLORA THA EXPLORA, DRIA, Jerome Six
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

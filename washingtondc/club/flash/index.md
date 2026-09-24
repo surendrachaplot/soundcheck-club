@@ -1,8 +1,8 @@
 # Flash
 
-Flash is a music venue in Washington DC with 23 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Daphni [open-to-close]" on Thu, 24 Sept 2026.
+Flash is a music venue in Washington DC with 26 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Daphni [open-to-close]" on Thu, 24 Sept 2026.
 
-Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Andy Grant and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washingtondc listed on soundcheck. 26 upcoming gigs, with line-ups including Adrian Collazo, Adyy Love, Alan Fitzpatrick and Andy Grant and 2 more. Browse upcoming dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washingtondc listed on soundcheck. 23 upcoming gigs, w
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

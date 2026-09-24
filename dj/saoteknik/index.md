@@ -1,6 +1,6 @@
 # SaoTeknik
 
-SaoTeknik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dual, Bangkok on Fri, 25 Sept 2026.
+SaoTeknik is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dual, Bangkok on Fri, 25 Sept 2026.
 
 SaoTeknik is a house and techno artist based in Thailand, tracked on soundcheck, with 47 sets logged across Bangkok and Osaka. Often billed alongside Elaheh, Gishiyama and JAKRIN. Next up: Dual, Bangkok on Fri 25 Sept.
 
@@ -9,7 +9,7 @@ SaoTeknik is a house and techno artist based in Thailand, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Dual | Bangkok |
-| Fri, 11 Dec 2026 | TBA | Bangkok |
+| Fri, 11 Dec 2026 | TBA - bamboo.base.camping, Nakhon Nayok | Bangkok |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ SaoTeknik is a house and techno artist based in Thailand, tracked on soundcheck,
 
 Elaheh, Gishiyama, JAKRIN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*

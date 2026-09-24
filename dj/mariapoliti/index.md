@@ -1,8 +1,8 @@
 # Maria Politi
 
-Maria Politi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
+Maria Politi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Plex, Athens on Sat, 3 Oct 2026.
 
-Maria Politi is a house and techno artist tracked on soundcheck, with 56 sets logged across Athens, Berlin, Leipzig and Paris and 1 more. Often billed alongside Stathis (GR), K.atou and ClubKid. Next up: Plex, Athens on Sat 3 Oct.
+Maria Politi is a house and techno artist based in Greece, tracked on soundcheck, with 56 sets logged across Athens, Berlin, Leipzig and Paris and 1 more. Often billed alongside Stathis (GR), K.atou and ClubKid. Next up: Plex, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Maria Politi is a house and techno artist tracked on soundcheck, with 56 sets lo
 
 Stathis (GR), K.atou, ClubKid
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*

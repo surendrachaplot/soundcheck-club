@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken" on Fri, 25 Sept 2026.
+Jaeger is a music venue in Oslo with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken" on Fri, 25 Sept 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line-ups including Einmusik, Finnebassen, G-HA and Ivan Smagghe and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming gigs, with line-ups including Anthea, Einmusik, Finnebassen and G-HA and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -14,10 +14,13 @@ Jaeger is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line
 | Fri, 9 Oct 2026 | Frædag: Octave One (live) + G-HA & Olanskii + Øyvind Morken | G-HA, Octave One, Olanskii, Øyvind Morken |
 | Fri, 16 Oct 2026 | Frædag: Einmusik + Finnebassen + G-HA & Olanskii + Øyvind Morken | Einmusik, Finnebassen, G-HA, Olanskii, Øyvind Morken |
 | Fri, 23 Oct 2026 | Frædag x LCJ: Jafunk + Sex Judas + Skatebård + G-HA & Olanskii + Ivaylo | G-HA, Ivaylo, Jafunk, Olanskii, Sex Judas feat. Ricky, Skatebård |
-| Fri, 6 Nov 2026 | Frædag: Maribou State DJ set + G-HA & Olanskii + Olefonken | G-HA, Maribou State, Olanskii, Olefonken |
+| Wed, 28 Oct 2026 | Oslo Word: Susobrino + Technocute | Susobrino, Technocute |
+| Thu, 29 Oct 2026 | Oslo World x Helt Texas: Anthea + Ole HK | Anthea |
+| Fri, 30 Oct 2026 | Oslo World x Frædag: Quantic + G-HA & Olanskii + Platina Rosa | G-HA, Olanskii, Quantic |
+| Sat, 31 Oct 2026 | Oslo World x Nightflight x Lyd: Jonny Rock + Olle Abstract | Jonny Rock |
 
 ## Address
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

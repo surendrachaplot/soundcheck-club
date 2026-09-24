@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Racket Space, Dublin on Sat, 17 Oct 2026.
+WOLTERS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Racket Space, Dublin on Sat, 17 Oct 2026.
 
 WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Gabriel Muñoz and Kyle Starkey. Next up: The Racket Space, Dublin on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Gabriel Muñoz, Kyle Starkey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

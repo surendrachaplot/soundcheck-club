@@ -1,8 +1,8 @@
 # Roska
 
-Roska is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Roska is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
-Roska is an uk funky and garage artist tracked on soundcheck, with 63 sets logged across Antwerp, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Kareem Ali, Nia Archives and Otik. Next up: Colour Factory, London on Sat 26 Sept.
+Roska is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Antwerp, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Kareem Ali, Nia Archives and Otik. Next up: Colour Factory, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Roska is an uk funky and garage artist tracked on soundcheck, with 63 sets logge
 
 Kareem Ali, Nia Archives, Otik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roska/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roska/)*

@@ -1,8 +1,8 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
+Janeret is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Sat, 26 Sept 2026.
 
-Janeret is a house and minimal artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: The Cause, London on Sat 26 Sept.
+Janeret is a house and minimal artist based in France, tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Bali and Barcelona and 41 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: The Cause, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Janeret is a house and minimal artist tracked on soundcheck, with 132 sets logge
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

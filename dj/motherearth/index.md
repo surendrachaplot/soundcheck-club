@@ -1,6 +1,6 @@
 # Mother Earth
 
-Mother Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Mother Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, Laidlaw and B.Love. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Mother Earth is a house and tech house artist based in United Kingdom, tracked o
 
 Dr Banana, Laidlaw, B.Love
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*

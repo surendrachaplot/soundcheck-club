@@ -1,6 +1,6 @@
 # Arkaoda
 
-Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Fossss Music Takeover" on Sat, 26 Sept 2026.
+Arkaoda is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fossss Music Takeover" on Sat, 26 Sept 2026.
 
 Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Campbell, Emelyne, Fosil and Miata. Browse upcoming dates, start times and who's playing. Kadife Sokak No:18/A Kadıköy/İstanbul.
 
@@ -14,4 +14,4 @@ Arkaoda is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with 
 
 Kadife Sokak No:18/A Kadıköy/İstanbul, Istanbul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arkaoda/)*

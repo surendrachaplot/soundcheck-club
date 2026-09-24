@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sound Service Station: City Pop w/ Kacper Pieta" on Thu, 24 Sept 2026.
+The System is a music venue in Sheffield with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sound Service Station: City Pop w/ Kacper Pieta" on Thu, 24 Sept 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 14 upcoming gigs, with line-ups including Ashley Holmes, Berwick, Esmé and Joi L.F and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 14 upcoming gigs,
 | Fri, 23 Oct 2026 | Club Rez 010: Swimful | Omašta, Swimful, Zeki |
 | Sat, 24 Oct 2026 | Absolute Body Control: Red Rack'em All Night Long | Red Rack'em |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

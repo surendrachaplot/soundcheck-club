@@ -1,6 +1,6 @@
 # De Vierde Zaal
 
-De Vierde Zaal is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Teknodrome" on Sat, 26 Sept 2026.
+De Vierde Zaal is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Teknodrome" on Sat, 26 Sept 2026.
 
 De Vierde Zaal is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including DJoy. Browse upcoming dates, start times and who's playing. Driebeekstraat 4, 9050 Gent.
 
@@ -15,4 +15,4 @@ De Vierde Zaal is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, 
 
 Driebeekstraat 4, 9050 Gent, Ghent
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/de-vierde-zaal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/de-vierde-zaal/)*

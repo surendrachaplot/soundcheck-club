@@ -1,8 +1,8 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tunelowa, Warsaw on Sat, 3 Oct 2026.
+KAVARI is a Experimental and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tunelowa, Warsaw on Sat, 3 Oct 2026.
 
-KAVARI is an experimental and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 33 more. Often billed alongside Blood of Aza, Blawan and KLAUDIO. Next up: Tunelowa, Warsaw on Sat 3 Oct.
+KAVARI is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Blood of Aza, Blawan and gyrofield. Next up: Tunelowa, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 104 sets
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Tunelowa | Warsaw |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
+| Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
+| Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
+| Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 
@@ -26,6 +29,6 @@ KAVARI is an experimental and techno artist tracked on soundcheck, with 104 sets
 
 ## Shares bills with
 
-Blood of Aza, Blawan, KLAUDIO
+Blood of Aza, Blawan, gyrofield
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

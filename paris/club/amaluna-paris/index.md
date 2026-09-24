@@ -1,6 +1,6 @@
 # Amaluna Paris
 
-Amaluna Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "10AM Club" on Sat, 26 Sept 2026.
+Amaluna Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "10AM Club" on Sat, 26 Sept 2026.
 
 Amaluna Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 12 Esplanade Nathalie Sarraute.
 
@@ -14,4 +14,4 @@ Amaluna Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig. Br
 
 12 Esplanade Nathalie Sarraute, Paris
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/amaluna-paris/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/amaluna-paris/)*

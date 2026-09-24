@@ -1,8 +1,8 @@
 # Flextime
 
-Flextime is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
+Flextime is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
 
-Flextime is a garage and bass artist tracked on soundcheck, with 14 sets logged across Belfast, Leeds, Madrid and Sheffield. Often billed alongside Warpfit, Jamurai and Skye (2). Next up: Sala Siroco, Madrid on Fri 9 Oct.
+Flextime is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Belfast, Leeds, Madrid and Sheffield. Often billed alongside Warpfit, Jamurai and Skye (2). Next up: Sala Siroco, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Flextime is a garage and bass artist tracked on soundcheck, with 14 sets logged 
 
 Warpfit, Jamurai, Skye (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flextime/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flextime/)*

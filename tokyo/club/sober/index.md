@@ -1,6 +1,6 @@
 # SOBER
 
-SOBER is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FRONTERA FIESTA with MNKC-LIVE-" on Sun, 4 Oct 2026.
+SOBER is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "FRONTERA FIESTA with MNKC-LIVE-" on Sun, 4 Oct 2026.
 
 SOBER is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including KZA, Louis Shannon, Nory Kimijima and SAMO (JP) and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 1 Chome−19−10 J-1ビル 3F.
 
@@ -15,4 +15,4 @@ SOBER is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line
 
 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 1 Chome−19−10 J-1ビル 3F, Tokyo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sober/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/sober/)*

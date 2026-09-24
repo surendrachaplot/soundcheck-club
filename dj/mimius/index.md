@@ -1,8 +1,8 @@
 # m i m i (US)
 
-m i m i (US) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at XTC Bushwick, New York City on Sat, 26 Sept 2026.
+m i m i (US) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at XTC Bushwick, New York City on Sat, 26 Sept 2026.
 
-m i m i (US) is a trance and techno artist tracked on soundcheck, with 9 sets logged across Boston and Newyorkcity. Often billed alongside EMMA KING, Replicator and HOLE. Next up: XTC Bushwick, Newyorkcity on Sat 26 Sept.
+m i m i (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston and Newyorkcity. Often billed alongside EMMA KING, Replicator and HOLE. Next up: XTC Bushwick, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ m i m i (US) is a trance and techno artist tracked on soundcheck, with 9 sets lo
 
 EMMA KING, Replicator, HOLE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimius/)*

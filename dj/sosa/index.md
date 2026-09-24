@@ -1,8 +1,8 @@
 # Sosa
 
-Sosa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Sosa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Sosa is a tech house and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside East End Dubs, Paco Osuna and Franky Rizardo. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
+Sosa is a tech house and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside East End Dubs, Paco Osuna and Franky Rizardo. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Sosa is a tech house and house artist tracked on soundcheck, with 76 sets logged
 
 East End Dubs, Paco Osuna, Franky Rizardo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*

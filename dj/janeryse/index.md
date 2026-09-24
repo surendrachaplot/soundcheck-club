@@ -1,8 +1,8 @@
 # JANE RYSE
 
-JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
+JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
 
-JANE RYSE is a house and afro house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 11 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
+JANE RYSE is a house and afro house artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 11 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JANE RYSE is a house and afro house artist tracked on soundcheck, with 52 sets l
 
 Hyenah, Walter Griot, Ukãi Ndame
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*

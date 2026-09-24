@@ -1,8 +1,8 @@
 # NYCO (NL)
 
-NYCO (NL) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
+NYCO (NL) is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kilomètre25, Paris on Sat, 17 Oct 2026.
 
-NYCO (NL) is a techno and acid artist tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Cynthia Spiering, KARAH and XRTN. Next up: Kilomètre25, Paris on Sat 17 Oct.
+NYCO (NL) is a techno and acid artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Cynthia Spiering, KARAH and XRTN. Next up: Kilomètre25, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ NYCO (NL) is a techno and acid artist tracked on soundcheck, with 30 sets logged
 
 Cynthia Spiering, KARAH, XRTN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*

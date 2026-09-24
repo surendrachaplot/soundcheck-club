@@ -1,8 +1,8 @@
 # Artmaillé
 
-Artmaillé is a Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Le Douze, Geneva on Thu, 24 Sept 2026.
+Artmaillé is a Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Douze, Geneva on Thu, 24 Sept 2026.
 
-Artmaillé is a bass and dancehall artist tracked on soundcheck, with 5 sets logged across Geneva. Often billed alongside Bastarised, Bony Fly and Cardozo. Next up: Le Douze, Geneva on Thu 24 Sept.
+Artmaillé is a bass and dancehall artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Geneva. Often billed alongside Bastarised, Bony Fly and Cardozo. Next up: Le Douze, Geneva on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Artmaillé is a bass and dancehall artist tracked on soundcheck, with 5 sets log
 
 Bastarised, Bony Fly, Cardozo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artmaille/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artmaille/)*

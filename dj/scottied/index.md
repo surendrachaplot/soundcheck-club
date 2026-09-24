@@ -1,8 +1,8 @@
 # Scottie D
 
-Scottie D is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at LDN East, London on Sat, 24 Oct 2026.
+Scottie D is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LDN East, London on Sat, 24 Oct 2026.
 
-Scottie D is a house and afro house artist tracked on soundcheck, with 20 sets logged across Bucharest and London. Often billed alongside Zaki, Shenin Amara and Supa D. Next up: LDN East, London on Sat 24 Oct.
+Scottie D is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bucharest and London. Often billed alongside Zaki, Shenin Amara and Supa D. Next up: LDN East, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Scottie D is a house and afro house artist tracked on soundcheck, with 20 sets l
 
 Zaki, Shenin Amara, Supa D
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottied/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottied/)*

@@ -1,8 +1,8 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+Serafina is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-Serafina is a techno and trance artist tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
+Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Serafina is a techno and trance artist tracked on soundcheck, with 165 sets logg
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

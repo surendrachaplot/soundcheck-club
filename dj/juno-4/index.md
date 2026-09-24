@@ -1,8 +1,8 @@
 # Juno (4)
 
-Juno (4) is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hope House, Leeds on Sat, 24 Oct 2026.
+Juno (4) is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hope House, Leeds on Sat, 24 Oct 2026.
 
-Juno (4) is a jazz and broken beat artist tracked on soundcheck, with 7 sets logged across Leeds, London and Tokyo. Often billed alongside CasuallyClued, Marvin Jupiter and REO (UK). Next up: Hope House, Leeds on Sat 24 Oct.
+Juno (4) is a jazz and broken beat artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds, London and Tokyo. Often billed alongside CasuallyClued, Marvin Jupiter and REO (UK). Next up: Hope House, Leeds on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Juno (4) is a jazz and broken beat artist tracked on soundcheck, with 7 sets log
 
 CasuallyClued, Marvin Jupiter, REO (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-4/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-4/)*

@@ -1,8 +1,8 @@
 # Molecular Structures
 
-Molecular Structures is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Molecular Structures is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
-Molecular Structures is a jungle and bass artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Agem, Hovercat and DJ Agem. Next up: Void Club, Berlin on Sat 3 Oct.
+Molecular Structures is a jungle and bass artist based in Serbia, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Agem, Hovercat and DJ Agem. Next up: Void Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Molecular Structures is a jungle and bass artist tracked on soundcheck, with 7 s
 
 Agem, Hovercat, DJ Agem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molecularstructures/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molecularstructures/)*

@@ -1,8 +1,8 @@
 # 69DB
 
-69DB is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+69DB is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
-69DB is a techno and acid artist based in France, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Geneva and Hongkong and 8 more. Often billed alongside Ixindamix, Crystal Distortion and Madtronik. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
+69DB is a techno and acid artist based in France, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Central and Geneva and 9 more. Often billed alongside Ixindamix, Crystal Distortion and Madtronik. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@
 | Thu, 24 Sept 2026 | TBA - Rotterdam Various Locations | Rotterdam |
 | Fri, 25 Sept 2026 | export | Rotterdam |
 | Fri, 9 Oct 2026 | 宀 Club | Hong Kong |
+| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Recently played
 
@@ -27,4 +28,4 @@
 
 Ixindamix, Crystal Distortion, Madtronik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

@@ -1,13 +1,14 @@
 # Samir Chani
 
-Samir Chani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+Samir Chani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Samir Chani is a house and techno artist based in Luxembourg, tracked on soundcheck, with 11 sets logged across Brussels, London and Valencia. Often billed alongside Mauro Ferno, Laimonas and Neb Spook. Next up: fabric, London on Sat 14 Nov.
+Samir Chani is a house and techno artist based in Luxembourg, tracked on soundcheck, with 12 sets logged across All, Brussels, London and Valencia. Often billed alongside Mauro Ferno, Elia Nafzger and Laimonas. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Samir Chani is a house and techno artist based in Luxembourg, tracked on soundch
 
 ## Shares bills with
 
-Mauro Ferno, Laimonas, Neb Spook
+Mauro Ferno, Elia Nafzger, Laimonas
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*

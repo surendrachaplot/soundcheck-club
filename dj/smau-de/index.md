@@ -1,8 +1,8 @@
 # Smau
 
-Smau is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Badehaus Berlin, Berlin on Thu, 24 Sept 2026.
+Smau is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Badehaus Berlin, Berlin on Thu, 24 Sept 2026.
 
-Smau is a house and funk / soul artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside groovyjuri, Almost Famous and Carl Hang. Next up: Badehaus Berlin, Berlin on Thu 24 Sept.
+Smau is a house and funk / soul artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside groovyjuri, Almost Famous and Carl Hang. Next up: Badehaus Berlin, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Smau is a house and funk / soul artist tracked on soundcheck, with 18 sets logge
 
 groovyjuri, Almost Famous, Carl Hang
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smau-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smau-de/)*

@@ -1,8 +1,8 @@
 # Michael Donte
 
-Michael Donte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
+Michael Donte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
 
-Michael Donte is a house and techno artist tracked on soundcheck, with 12 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside CTRLZORA, Shaun Ross and Ashley Younniä. Next up: Pico Union Project, Losangeles on Sun 27 Sept.
+Michael Donte is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside CTRLZORA, Shaun Ross and Ashley Younniä. Next up: Pico Union Project, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Michael Donte is a house and techno artist tracked on soundcheck, with 12 sets l
 
 CTRLZORA, Shaun Ross, Ashley Younniä
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeldonte/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeldonte/)*

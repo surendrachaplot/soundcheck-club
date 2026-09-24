@@ -1,6 +1,6 @@
 # Corleone
 
-Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Break it Down Takeover" on Sat, 26 Sept 2026.
+Corleone is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Break it Down Takeover" on Sat, 26 Sept 2026.
 
 Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Sendlinger-Tor-Platz 7, 80336 München.
 
@@ -14,4 +14,4 @@ Corleone is a music venue in Munich listed on soundcheck. 1 upcoming gig. Browse
 
 Sendlinger-Tor-Platz 7, 80336 München, Munich
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*

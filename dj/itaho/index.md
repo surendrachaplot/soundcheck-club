@@ -1,8 +1,8 @@
 # Itaho
 
-Itaho is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
+Itaho is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
 
-Itaho is a techno and bass artist tracked on soundcheck, with 24 sets logged across Brussels, Marseille, Nantes and Paris and 1 more. Often billed alongside Pacôme Orzi, Vod Kasat and Bjr Alex. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
+Itaho is a techno and bass artist based in France, tracked on soundcheck, with 24 sets logged across Brussels, Marseille, Nantes and Paris and 1 more. Often billed alongside Pacôme Orzi, Vod Kasat and Bjr Alex. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Itaho is a techno and bass artist tracked on soundcheck, with 24 sets logged acr
 
 Pacôme Orzi, Vod Kasat, Bjr Alex
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itaho/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itaho/)*

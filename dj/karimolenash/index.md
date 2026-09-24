@@ -1,8 +1,8 @@
 # Karim Olen Ash
 
-Karim Olen Ash is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
+Karim Olen Ash is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Toronto on Fri, 2 Oct 2026.
 
-Karim Olen Ash is a techno and house artist tracked on soundcheck, with 68 sets logged across Leipzig, London, Mexicocity and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: TBA, Toronto on Fri 2 Oct.
+Karim Olen Ash is a techno and house artist based in Canada, tracked on soundcheck, with 68 sets logged across Leipzig, London, Mexicocity and Miami and 3 more. Often billed alongside Chippy Nonstop, Phillippe and REDLINERS. Next up: TBA, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Karim Olen Ash is a techno and house artist tracked on soundcheck, with 68 sets 
 
 Chippy Nonstop, Phillippe, REDLINERS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimolenash/)*

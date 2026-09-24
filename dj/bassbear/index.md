@@ -1,8 +1,8 @@
 # BASSBEAR!!
 
-BASSBEAR!! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Qncc, New York City on Thu, 15 Oct 2026.
+BASSBEAR!! is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Qncc, New York City on Thu, 15 Oct 2026.
 
-BASSBEAR!! is a club and techno artist tracked on soundcheck, with 57 sets logged across Boston, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside bossy boots, DJ SWISHA and Syd (US). Next up: Qncc, Newyorkcity on Thu 15 Oct.
+BASSBEAR!! is a club and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Boston, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside bossy boots, DJ SWISHA and Syd (US). Next up: Qncc, Newyorkcity on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BASSBEAR!! is a club and techno artist tracked on soundcheck, with 57 sets logge
 
 bossy boots, DJ SWISHA, Syd (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*

@@ -1,8 +1,8 @@
 # V
 
-V is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
+V is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
 
-V is a techno and ebm artist tracked on soundcheck, with 7 sets logged across Berlin, Dortmund-essen, Glasgow and Liverpool and 3 more. Often billed alongside Airbear, Aiste Regina and Allexandra. Next up: Delta Gelände, Dortmund-essen on Fri 2 Oct.
+V is a techno and ebm artist based in Turkey, tracked on soundcheck, with 7 sets logged across Berlin, Dortmund-essen, Glasgow and Liverpool and 3 more. Often billed alongside Airbear, Aiste Regina and Allexandra. Next up: Delta Gelände, Dortmund-essen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ V is a techno and ebm artist tracked on soundcheck, with 7 sets logged across Be
 
 Airbear, Aiste Regina, Allexandra
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vildan.gunduz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vildan.gunduz/)*

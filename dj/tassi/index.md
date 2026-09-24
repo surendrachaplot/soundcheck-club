@@ -1,8 +1,8 @@
 # Tassi
 
-Tassi is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Turtur, Hamburg on Thu, 24 Sept 2026.
+Tassi is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Turtur, Hamburg on Thu, 24 Sept 2026.
 
-Tassi is a house and downtempo artist tracked on soundcheck, with 20 sets logged across Hamburg. Often billed alongside Crew Ombrelle, E-Gerät and Late Night Jockel Session. Next up: Turtur, Hamburg on Thu 24 Sept.
+Tassi is a house and downtempo artist based in Germany, tracked on soundcheck, with 20 sets logged across Hamburg. Often billed alongside Crew Ombrelle, E-Gerät and Late Night Jockel Session. Next up: Turtur, Hamburg on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Tassi is a house and downtempo artist tracked on soundcheck, with 20 sets logged
 
 Crew Ombrelle, E-Gerät, Late Night Jockel Session
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*

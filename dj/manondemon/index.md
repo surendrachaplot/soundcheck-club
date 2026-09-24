@@ -1,8 +1,8 @@
 # Manon Démon
 
-Manon Démon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Babour Sauvage, Paris on Sat, 26 Sept 2026.
+Manon Démon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Babour Sauvage, Paris on Sat, 26 Sept 2026.
 
-Manon Démon is a techno and trance artist tracked on soundcheck, with 8 sets logged across Lyon and Paris. Often billed alongside Acid Oslo, CABALE and DJ Physical. Next up: Babour Sauvage, Paris on Sat 26 Sept.
+Manon Démon is a techno and trance artist based in France, tracked on soundcheck, with 8 sets logged across Lyon and Paris. Often billed alongside Acid Oslo, CABALE and DJ Physical. Next up: Babour Sauvage, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Manon Démon is a techno and trance artist tracked on soundcheck, with 8 sets lo
 
 Acid Oslo, CABALE, DJ Physical
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manondemon/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manondemon/)*

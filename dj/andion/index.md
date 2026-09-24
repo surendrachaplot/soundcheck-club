@@ -1,8 +1,8 @@
 # Andion
 
-Andion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Myra Ostraria, Lisbon on Sat, 3 Oct 2026.
+Andion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Myra Ostraria, Lisbon on Sat, 3 Oct 2026.
 
-Andion is a house and techno artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Simone (3), Bernardo Vaz and DJ Rino. Next up: Myra Ostraria, Lisbon on Sat 3 Oct.
+Andion is a house and techno artist based in Portugal, tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Simone (3), Bernardo Vaz and DJ Rino. Next up: Myra Ostraria, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Andion is a house and techno artist tracked on soundcheck, with 7 sets logged ac
 
 Simone (3), Bernardo Vaz, DJ Rino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andion/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andion/)*

@@ -1,8 +1,8 @@
 # Elizabëth
 
-Elizabëth is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Elizabëth is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Miami, Miami on Sat, 10 Oct 2026.
 
-Elizabëth is a techno and minimal artist tracked on soundcheck, with 25 sets logged across Berlin, Boston, Detroit and Miami. Often billed alongside prekuro, Màrelle and Adam Bogdan. Next up: TBA - Miami, Miami on Sat 10 Oct.
+Elizabëth is a techno and minimal artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Boston, Detroit and Miami. Often billed alongside prekuro, Màrelle and Adam Bogdan. Next up: TBA - Miami, Miami on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Elizabëth is a techno and minimal artist tracked on soundcheck, with 25 sets lo
 
 prekuro, Màrelle, Adam Bogdan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizabeth-us/)*

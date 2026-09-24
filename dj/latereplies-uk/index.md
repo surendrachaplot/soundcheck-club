@@ -1,8 +1,8 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Roberta's, New York City on Sat, 10 Oct 2026.
+Late Replies is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roberta's, New York City on Sat, 10 Oct 2026.
 
-Late Replies is a tech house and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Bali and Barcelona and 16 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Roberta's, Newyorkcity on Sat 10 Oct.
+Late Replies is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Bali and Barcelona and 16 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Roberta's, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Late Replies is a tech house and house artist tracked on soundcheck, with 72 set
 
 Detlef, Archie Hamilton, Darius Syrossian
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

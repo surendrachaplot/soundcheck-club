@@ -1,8 +1,8 @@
 # Campbell
 
-Campbell is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
+Campbell is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Arkaoda, Istanbul on Sat, 26 Sept 2026.
 
-Campbell is a bass and dubstep artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Istanbul and London and 2 more. Often billed alongside Emelyne, Hally and Aaliyah Salem. Next up: Arkaoda, Istanbul on Sat 26 Sept.
+Campbell is a bass and dubstep artist based in Australia, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Istanbul and London and 2 more. Often billed alongside Emelyne, Hally and Aaliyah Salem. Next up: Arkaoda, Istanbul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Campbell is a bass and dubstep artist tracked on soundcheck, with 14 sets logged
 
 Emelyne, Hally, Aaliyah Salem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/campbell-au/)*

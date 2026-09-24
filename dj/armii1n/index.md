@@ -1,8 +1,8 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
+Armii1n is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Sat, 26 Sept 2026.
 
-Armii1n is a house and techno artist tracked on soundcheck, with 133 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Green Room NYC, Newyorkcity on Sat 26 Sept.
+Armii1n is a house and techno artist based in Iran, tracked on soundcheck, with 133 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Green Room NYC, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Armii1n is a house and techno artist tracked on soundcheck, with 133 sets logged
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

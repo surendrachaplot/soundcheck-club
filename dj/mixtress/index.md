@@ -1,14 +1,13 @@
 # mixtress
 
-mixtress is a Jungle and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Crown, Bristol on Wed, 23 Sept 2026.
+mixtress is a Jungle and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Soup, Manchester on Fri, 25 Sept 2026.
 
-mixtress is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: The Crown, Bristol on Wed 23 Sept.
+mixtress is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: Soup, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | The Crown | Bristol |
 | Fri, 25 Sept 2026 | Soup | Manchester |
 | Fri, 9 Oct 2026 | M.O.T | London |
 | Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
@@ -17,6 +16,7 @@ mixtress is a jungle and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- The Crown, Bristol — Wed, 23 Sept 2026
 - radial, London — Sun, 6 Sept 2026
 - Planet Wax, London — Fri, 21 Aug 2026
 - Document, Bristol — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ mixtress is a jungle and bass artist based in United Kingdom, tracked on soundch
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
 - Beaver Works, Leeds — Sun, 19 Apr 2026
 - The Old Blue Last, London — Sat, 11 Apr 2026
-- E1, London — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Ell Murphy, Bakey, Breaka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*

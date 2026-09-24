@@ -1,6 +1,6 @@
 # Florelle
 
-Florelle is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+Florelle is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
 Florelle is a trance and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Paris. Often billed alongside DJ Henk, bbymeister and jeanska. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Florelle is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 DJ Henk, bbymeister, jeanska
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florelle/)*

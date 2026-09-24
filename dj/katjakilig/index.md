@@ -1,8 +1,8 @@
 # Katja Kilig
 
-Katja Kilig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
+Katja Kilig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
 
-Katja Kilig is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside CosmiKat, Der Eggert and Diana May. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
+Katja Kilig is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside CosmiKat, Der Eggert and Diana May. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Katja Kilig is a techno and house artist tracked on soundcheck, with 18 sets log
 
 CosmiKat, Der Eggert, Diana May
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*

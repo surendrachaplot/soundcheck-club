@@ -1,14 +1,15 @@
 # Luca Hagenmüller
 
-Luca Hagenmüller is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
+Luca Hagenmüller is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
 
-Luca Hagenmüller is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Ponybarker, DJ SPORTSCHUH and Euphrat. Next up: Mellowpark, Berlin on Sat 26 Sept.
+Luca Hagenmüller is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Ponybarker, DJ SPORTSCHUH and Euphrat. Next up: Mellowpark, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Mellowpark | Berlin |
+| Sat, 10 Oct 2026 | Svennis Nachtshop | Berlin |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Luca Hagenmüller is a techno and house artist based in Germany, tracked on soun
 
 Ponybarker, DJ SPORTSCHUH, Euphrat
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucahagenmuller/)*

@@ -1,8 +1,8 @@
 # Litoshka
 
-Litoshka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fvtvr, Paris on Sat, 26 Sept 2026.
+Litoshka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Sat, 26 Sept 2026.
 
-Litoshka is a techno and house artist tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Equus Belli, H.I.A and Roulita. Next up: Fvtvr, Paris on Sat 26 Sept.
+Litoshka is a techno and house artist based in France, tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Equus Belli, H.I.A and Roulita. Next up: Fvtvr, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Litoshka is a techno and house artist tracked on soundcheck, with 49 sets logged
 
 Equus Belli, H.I.A, Roulita
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/litoshka-2/)*

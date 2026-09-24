@@ -1,6 +1,6 @@
 # mintwhisper
 
-mintwhisper is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Process PDX, Portland on Sat, 17 Oct 2026.
+mintwhisper is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Process PDX, Portland on Sat, 17 Oct 2026.
 
 mintwhisper is a deep house and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Portland, Sandiego and Seattle. Often billed alongside Luum, Batom and Feu du Camp. Next up: Process PDX, Portland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ mintwhisper is a deep house and house artist based in United States of America, 
 
 Luum, Batom, Feu du Camp
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*

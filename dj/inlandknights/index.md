@@ -1,8 +1,8 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+Inland Knights is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
-Inland Knights is a house and deep house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
+Inland Knights is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Inland Knights is a house and deep house artist tracked on soundcheck, with 34 s
 
 Buckley, Elliot Schooling, Fleur Shore
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

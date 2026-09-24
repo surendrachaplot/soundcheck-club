@@ -1,6 +1,6 @@
 # Chiesa di San Fedele
 
-Chiesa di San Fedele is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI" on Mon, 30 Nov 2026.
+Chiesa di San Fedele is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "INNER SPACES | AUTUNNALE 2026 - RITRATTI TRASVERSALI" on Mon, 30 Nov 2026.
 
 Chiesa di San Fedele is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Robert Lippok. Browse upcoming dates, start times and who's playing. Piazza S. Fedele, 4, 20121 Milano MI.
 
@@ -14,4 +14,4 @@ Chiesa di San Fedele is a music venue in Milan listed on soundcheck. 1 upcoming 
 
 Piazza S. Fedele, 4, 20121 Milano MI, Milan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/chiesa-di-san-fedele/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/chiesa-di-san-fedele/)*

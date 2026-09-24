@@ -1,13 +1,14 @@
 # LEISAN
 
-LEISAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at City Market, Los Angeles on Sat, 14 Nov 2026.
+LEISAN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
-LEISAN is a house and techno artist tracked on soundcheck, with 29 sets logged across Boston, Ibiza, Losangeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: City Market, Losangeles on Sat 14 Nov.
+LEISAN is a house and techno artist based in Russia, tracked on soundcheck, with 30 sets logged across Boston, Ibiza, Losangeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: TBA - Private Location, Sandiego on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - Private Location | San Diego |
 | Sat, 14 Nov 2026 | City Market | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ LEISAN is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 ALKMST, Adam Rose, Afriqua
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*

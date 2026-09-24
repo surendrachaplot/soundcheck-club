@@ -1,8 +1,8 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "The Wonky House presents: Straight On 'til Morning" on Fri, 25 Sept 2026.
+Tola is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Wonky House presents: Straight On 'til Morning" on Fri, 25 Sept 2026.
 
-Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Althoff, Cristian Sirica, Daisybelle and dan.e.l.a and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Althoff, Cristian Sirica, Daisybelle and dan.e.l.a and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Wonky House presents: Straight On 'til Morning | Josh Wickers, Magpie, ZAZA C |
 | Sat, 26 Sept 2026 | Riddim Division: Summer Send Off w/ Klose One plus more | Klose One |
+| Thu, 1 Oct 2026 | Hang the DJ Vol.9 |  |
 | Fri, 2 Oct 2026 | Studio56 with Ed From Balham |  |
 | Sat, 3 Oct 2026 | LO MID HI with Special Guests @ Tola Peckham  | Althoff, ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
 | Fri, 9 Oct 2026 | Parallel Sounds with Yesca | Nick Parallel, Yesca, dan.e.l.a |
@@ -22,4 +23,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

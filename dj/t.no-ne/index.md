@@ -1,13 +1,14 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+T.NO is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
-T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 9 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
+T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 16 Oct 2026 | Garage Noord | Amsterdam |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 
@@ -26,4 +27,4 @@ T.NO is a bass and techno artist based in Netherlands, tracked on soundcheck, wi
 
 Styn, Rozaly, Shinshan Salazar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

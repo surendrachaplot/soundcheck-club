@@ -1,6 +1,6 @@
 # Roman (3)
 
-Roman (3) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
+Roman (3) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
 
 Roman (3) is a techno and minimal artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Franco Reyna, Guzman (2) and Jesse (2). Next up: Gaffe, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Roman (3) is a techno and minimal artist based in United Kingdom, tracked on sou
 
 Franco Reyna, Guzman (2), Jesse (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roman-3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roman-3/)*

@@ -1,8 +1,8 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Karmakoma, Belgrade on Fri, 25 Sept 2026.
+Nicolas Lutz is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Karmakoma, Belgrade on Fri, 25 Sept 2026.
 
-Nicolas Lutz is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 40 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Karmakoma, Belgrade on Fri 25 Sept.
+Nicolas Lutz is a techno and house artist based in Uruguay, tracked on soundcheck, with 172 sets logged across All, Amsterdam, Barcelona and Belgrade and 41 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Karmakoma, Belgrade on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 170 sets l
 | Sat, 10 Oct 2026 | WOMB | Tokyo |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
+| Sun, 25 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | The Loft | Manchester |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 7 Nov 2026 | essaim | Paris |
 | Fri, 13 Nov 2026 | DURO | Milan |
 | Fri, 13 Nov 2026 | DURO | Milan |
-| Sat, 14 Nov 2026 | Karmen Camina | Strasbourg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Nicolas Lutz is a techno and house artist tracked on soundcheck, with 170 sets l
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

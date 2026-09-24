@@ -1,8 +1,8 @@
 # AÆE
 
-AÆE is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+AÆE is a Baile Funk and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-AÆE is a baile funk and bass artist tracked on soundcheck, with 28 sets logged across Bristol. Often billed alongside Lolli, Fonzo and Bakey. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+AÆE is a baile funk and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol. Often billed alongside Lolli, Fonzo and Bakey. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AÆE is a baile funk and bass artist tracked on soundcheck, with 28 sets logged 
 
 Lolli, Fonzo, Bakey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aaee/)*

@@ -1,8 +1,8 @@
 # Diverge
 
-Diverge is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
+Diverge is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
 
-Diverge is a jungle and drum & bass artist tracked on soundcheck, with 70 sets logged across Berlin, Bristol, Leeds and London and 5 more. Often billed alongside LD50, Solo (3) and Goldie. Next up: Wharf Chambers, Leeds on Fri 25 Sept.
+Diverge is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Berlin, Bristol, Leeds and London and 5 more. Often billed alongside LD50, Solo (3) and Goldie. Next up: Wharf Chambers, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Diverge is a jungle and drum & bass artist tracked on soundcheck, with 70 sets l
 
 LD50, Solo (3), Goldie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diverge/)*

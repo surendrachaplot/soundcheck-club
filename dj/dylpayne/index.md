@@ -1,8 +1,8 @@
 # Dyl Payne
 
-Dyl Payne is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Arch 14, London on Fri, 25 Sept 2026.
+Dyl Payne is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arch 14, London on Fri, 25 Sept 2026.
 
-Dyl Payne is a techno and afro house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside Fikayo, Henry Dummett and Theo T. Next up: Arch 14, London on Fri 25 Sept.
+Dyl Payne is a techno and afro house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Fikayo, Henry Dummett and Theo T. Next up: Arch 14, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dyl Payne is a techno and afro house artist tracked on soundcheck, with 17 sets 
 
 Fikayo, Henry Dummett, Theo T
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylpayne/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylpayne/)*

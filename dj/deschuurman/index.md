@@ -1,8 +1,8 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+De Schuurman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
-De Schuurman is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: La Fabriek, Brussels on Fri 25 Sept.
+De Schuurman is a techno and house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ De Schuurman is a techno and house artist tracked on soundcheck, with 58 sets lo
 
 Catu Diosis, Nsasi, Kampire
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

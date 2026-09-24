@@ -1,8 +1,8 @@
 # Laolu
 
-Laolu is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
+Laolu is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
 
-Laolu is a house and afro house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: fabric, London on Fri 25 Sept.
+Laolu is a house and afro house artist based in Switzerland, tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: fabric, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Laolu is a house and afro house artist tracked on soundcheck, with 94 sets logge
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

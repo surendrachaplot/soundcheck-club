@@ -1,6 +1,6 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SAVAGE BASS meets UNTiLTED" on Fri, 25 Sept 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SAVAGE BASS meets UNTiLTED" on Fri, 25 Sept 2026.
 
 UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including 35DH-1, 雷庵(RYan), Anri and DJ Juice (2) and 2 more. Browse upcoming dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
@@ -19,4 +19,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 6 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

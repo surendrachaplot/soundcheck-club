@@ -1,14 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "The Lagoons: Club Lagoon Tour 2026" on Wed, 23 Sept 2026.
+SOBs is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Molly & June's Honky Tonk: Line Dance Classes & Country Music" on Fri, 25 Sept 2026.
 
-SOBs is a music venue in Newyorkcity listed on soundcheck. 24 upcoming gigs, with line-ups including Gwen, Joon, Maso and Samsara and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in Newyorkcity listed on soundcheck. 23 upcoming gigs, with line-ups including Gwen, Joon, Maso and Samsara and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | The Lagoons: Club Lagoon Tour 2026 |  |
 | Fri, 25 Sept 2026 | Molly & June's Honky Tonk: Line Dance Classes & Country Music |  |
 | Fri, 25 Sept 2026 | 2000's Emo Night at Houston Hall |  |
 | Fri, 25 Sept 2026 | A Tribute to Fania Salsa Legends |  |
@@ -18,9 +17,10 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 24 upcoming gigs, wit
 | Wed, 30 Sept 2026 | The Art of Muzic |  |
 | Thu, 1 Oct 2026 | Jozzy: Get Her Back Tour |  |
 | Sat, 3 Oct 2026 | DAY26 & J. Howell |  |
+| Sun, 4 Oct 2026 | The Legends 'La Sinfonica' |  |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

@@ -1,8 +1,8 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+In Verruf is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-In Verruf is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+In Verruf is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 139 sets log
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Fri, 2 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 2 Oct 2026 | Lehmann Club | Stuttgart |
 | Fri, 23 Oct 2026 | Gate Milano | Milan |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -30,4 +31,4 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 139 sets log
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

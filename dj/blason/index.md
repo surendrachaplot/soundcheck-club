@@ -1,8 +1,8 @@
 # Blason
 
-Blason is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The DBA, Manchester on Fri, 25 Sept 2026.
+Blason is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The DBA, Manchester on Fri, 25 Sept 2026.
 
-Blason is a house and techno artist tracked on soundcheck, with 21 sets logged across London, Manchester, Nottingham and Sheffield. Often billed alongside Ethan., Kian OK and Birrell. Next up: The DBA, Manchester on Fri 25 Sept.
+Blason is a house and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London, Manchester, Nottingham and Sheffield. Often billed alongside Ethan., Kian OK and Birrell. Next up: The DBA, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Blason is a house and techno artist tracked on soundcheck, with 21 sets logged a
 
 Ethan., Kian OK, Birrell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blason/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blason/)*

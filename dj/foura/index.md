@@ -1,8 +1,8 @@
 # FOURA
 
-FOURA is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 24 Moons, Melbourne on Fri, 25 Sept 2026.
+FOURA is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 24 Moons, Melbourne on Fri, 25 Sept 2026.
 
-FOURA is a garage and techno artist tracked on soundcheck, with 22 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Prizefight, CRUSH3d and Crybaby. Next up: 24 Moons, Melbourne on Fri 25 Sept.
+FOURA is a garage and techno artist based in Australia, tracked on soundcheck, with 22 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Prizefight, CRUSH3d and Crybaby. Next up: 24 Moons, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ FOURA is a garage and techno artist tracked on soundcheck, with 22 sets logged a
 
 Prizefight, CRUSH3d, Crybaby
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foura/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foura/)*

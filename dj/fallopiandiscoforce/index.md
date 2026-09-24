@@ -1,8 +1,8 @@
 # Fallopian Disco Force
 
-Fallopian Disco Force is a Experimental and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Soup, Tokyo on Sat, 10 Oct 2026.
+Fallopian Disco Force is a Experimental and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Soup, Tokyo on Sat, 10 Oct 2026.
 
-Fallopian Disco Force is an experimental and new wave artist tracked on soundcheck, with 8 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside COGEE, Ritsuko Sakata and Serial Experiments. Next up: Soup, Tokyo on Sat 10 Oct.
+Fallopian Disco Force is an experimental and new wave artist based in Japan, tracked on soundcheck, with 8 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside COGEE, Ritsuko Sakata and Serial Experiments. Next up: Soup, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Fallopian Disco Force is an experimental and new wave artist tracked on soundche
 
 COGEE, Ritsuko Sakata, Serial Experiments
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fallopiandiscoforce/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fallopiandiscoforce/)*

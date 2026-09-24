@@ -1,13 +1,14 @@
 # Maxwell Owin
 
-Maxwell Owin is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jumbi, London on Fri, 11 Dec 2026.
+Maxwell Owin is a Jazz and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at New Century Locker, Manchester on Fri, 4 Dec 2026.
 
-Maxwell Owin is a jazz and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, London and Paris. Often billed alongside Cam Joon, Donut and Joe Armon-Jones. Next up: Jumbi, London on Fri 11 Dec.
+Maxwell Owin is a jazz and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, London, Manchester and Paris. Often billed alongside Joe Armon-Jones, Cam Joon and Donut. Next up: New Century Locker, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | New Century Locker | Manchester |
 | Fri, 11 Dec 2026 | Jumbi | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Maxwell Owin is a jazz and house artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Cam Joon, Donut, Joe Armon-Jones
+Joe Armon-Jones, Cam Joon, Donut
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellowin/)*

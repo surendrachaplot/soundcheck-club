@@ -1,8 +1,8 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
+PHJ.WAV is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cu, London on Fri, 25 Sept 2026.
 
-PHJ.WAV is a deep house and house artist tracked on soundcheck, with 35 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Cardinal Sin and Gilez. Next up: Cu, London on Fri 25 Sept.
+PHJ.WAV is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Cardinal Sin and Gilez. Next up: Cu, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ PHJ.WAV is a deep house and house artist tracked on soundcheck, with 35 sets log
 
 Josh Wuf, Cardinal Sin, Gilez
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*

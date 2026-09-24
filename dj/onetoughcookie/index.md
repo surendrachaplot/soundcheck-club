@@ -1,8 +1,8 @@
 # One Tough Cookie
 
-One Tough Cookie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Auber Garden, Paris on Sat, 26 Sept 2026.
+One Tough Cookie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Auber Garden, Paris on Sat, 26 Sept 2026.
 
-One Tough Cookie is a house and minimal artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Auber Garden, Paris on Sat 26 Sept.
+One Tough Cookie is a house and minimal artist based in France, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Auber Garden, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ One Tough Cookie is a house and minimal artist tracked on soundcheck, with 35 se
 
 Charlotte (FR), Charonne, Poggio
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onetoughcookie/)*

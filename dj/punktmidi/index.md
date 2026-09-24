@@ -1,8 +1,8 @@
 # Punktmidi
 
-Punktmidi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
+Punktmidi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Mon, 28 Sept 2026.
 
-Punktmidi is a techno and trance artist tracked on soundcheck, with 77 sets logged across Berlin, Budapest, Cologne and Frankfurt and 8 more. Often billed alongside Bollmann, Omon Breaker and Kamafaka. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
+Punktmidi is a techno and trance artist based in Germany, tracked on soundcheck, with 77 sets logged across Berlin, Budapest, Cologne and Frankfurt and 8 more. Often billed alongside Bollmann, Omon Breaker and Kamafaka. Next up: Tresor / Globus, Berlin on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Punktmidi is a techno and trance artist tracked on soundcheck, with 77 sets logg
 
 Bollmann, Omon Breaker, Kamafaka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punktmidi/)*

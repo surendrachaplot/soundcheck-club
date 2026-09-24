@@ -1,8 +1,8 @@
 # Kawas
 
-Kawas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Kawas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Kawas is a house and techno artist tracked on soundcheck, with 9 sets logged across Losangeles, Mexicocity, Monterrey and Paris and 1 more. Often billed alongside Cabizbajo, Iñigo Vontier and Rebolledo. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Kawas is a house and techno artist based in Mexico, tracked on soundcheck, with 9 sets logged across Losangeles, Mexicocity, Monterrey and Paris and 1 more. Often billed alongside Cabizbajo, Iñigo Vontier and Rebolledo. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kawas is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 Cabizbajo, Iñigo Vontier, Rebolledo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawas/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawas/)*

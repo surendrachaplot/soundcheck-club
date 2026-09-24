@@ -1,8 +1,8 @@
 # Jess Hands
 
-Jess Hands is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
+Jess Hands is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
 
-Jess Hands is a techno and house artist tracked on soundcheck, with 47 sets logged across Birmingham, Brighton, Bristol and Copenhagen and 4 more. Often billed alongside Michelle Manetti, Jay Carder and Jaye Ward. Next up: The Loco Klub, Bristol on Sat 3 Oct.
+Jess Hands is a techno and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Birmingham, Brighton, Bristol and Copenhagen and 4 more. Often billed alongside Michelle Manetti, Jay Carder and Jaye Ward. Next up: The Loco Klub, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jess Hands is a techno and house artist tracked on soundcheck, with 47 sets logg
 
 Michelle Manetti, Jay Carder, Jaye Ward
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesshands/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesshands/)*

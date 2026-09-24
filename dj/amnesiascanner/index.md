@@ -1,8 +1,8 @@
 # Amnesia Scanner
 
-Amnesia Scanner is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Amnesia Scanner is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
-Amnesia Scanner is an experimental and techno artist tracked on soundcheck, with 28 sets logged across Bangkok, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Freeka Tet, Crystallmess and Malibu. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
+Amnesia Scanner is an experimental and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Bangkok, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Freeka Tet, Crystallmess and Malibu. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Amnesia Scanner is an experimental and techno artist tracked on soundcheck, with
 
 Freeka Tet, Crystallmess, Malibu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*

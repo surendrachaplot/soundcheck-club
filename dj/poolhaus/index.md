@@ -1,13 +1,14 @@
 # Poolhaus
 
-Poolhaus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Poolhaus is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Refuge, New York City on Thu, 1 Oct 2026.
 
-Poolhaus is a house and electro artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam and Newyorkcity. Often billed alongside Beni Hana, Miata Boys and LABNON. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
+Poolhaus is a house and electro artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam and Newyorkcity. Often billed alongside Beni Hana, Miata Boys and LABNON. Next up: Refuge, Newyorkcity on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Refuge | New York City |
 | Wed, 21 Oct 2026 | Bar Shaffy | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Poolhaus is a house and electro artist based in United States of America, tracke
 
 Beni Hana, Miata Boys, LABNON
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poolhaus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poolhaus/)*

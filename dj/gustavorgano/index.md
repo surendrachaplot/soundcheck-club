@@ -1,8 +1,8 @@
 # Gustav Ørgano
 
-Gustav Ørgano is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
+Gustav Ørgano is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
 
-Gustav Ørgano is a techno and psytrance artist tracked on soundcheck, with 7 sets logged across Cologne, Nurnberg and Stuttgart. Often billed alongside Johannes Schuster, GEORGE aka DR.RADSPORT and Serafina. Next up: Z-Bau, Nurnberg on Sat 26 Sept.
+Gustav Ørgano is a techno and psytrance artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne, Nurnberg and Stuttgart. Often billed alongside Johannes Schuster, GEORGE aka DR.RADSPORT and Serafina. Next up: Z-Bau, Nurnberg on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Gustav Ørgano is a techno and psytrance artist tracked on soundcheck, with 7 se
 
 Johannes Schuster, GEORGE aka DR.RADSPORT, Serafina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*

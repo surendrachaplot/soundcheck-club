@@ -1,8 +1,8 @@
 # rebrånded
 
-rebrånded is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+rebrånded is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
-rebrånded is a techno and tech house artist tracked on soundcheck, with 32 sets logged across Amsterdam, London and Utrecht. Often billed alongside Antonio Fevola, Inez Akker and Caelestis. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
+rebrånded is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, London and Utrecht. Often billed alongside Antonio Fevola, Inez Akker and Caelestis. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ rebrånded is a techno and tech house artist tracked on soundcheck, with 32 sets
 
 Antonio Fevola, Inez Akker, Caelestis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebranded/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebranded/)*

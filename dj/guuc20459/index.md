@@ -1,8 +1,8 @@
 # guuc20459
 
-guuc20459 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+guuc20459 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
 
-guuc20459 is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ SOURCE and DJ Babyblade. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
+guuc20459 is a techno and trance artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ SOURCE and DJ Babyblade. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ guuc20459 is a techno and trance artist tracked on soundcheck, with 36 sets logg
 
 EliaHaze, DJ SOURCE, DJ Babyblade
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guuc20459/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guuc20459/)*

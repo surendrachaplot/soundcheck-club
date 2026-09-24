@@ -1,8 +1,8 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
+WhoMadeWho is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
 
-WhoMadeWho is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Sunday Sunday, Mexicocity on Sun 27 Sept.
+WhoMadeWho is a house and techno artist based in Denmark, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Sunday Sunday, Mexicocity on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ WhoMadeWho is a house and techno artist tracked on soundcheck, with 146 sets log
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

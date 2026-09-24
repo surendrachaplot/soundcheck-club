@@ -1,8 +1,8 @@
 # Matty Judah
 
-Matty Judah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - ROOM 526, Singapore on Sat, 26 Sept 2026.
+Matty Judah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - ROOM 526, Singapore on Sat, 26 Sept 2026.
 
-Matty Judah is a techno and house artist tracked on soundcheck, with 7 sets logged across Singapore. Often billed alongside AETLL, XUNAT and howrøng. Next up: TBA - ROOM 526, Singapore on Sat 26 Sept.
+Matty Judah is a techno and house artist based in Singapore, tracked on soundcheck, with 7 sets logged across Singapore. Often billed alongside AETLL, XUNAT and howrøng. Next up: TBA - ROOM 526, Singapore on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Matty Judah is a techno and house artist tracked on soundcheck, with 7 sets logg
 
 AETLL, XUNAT, howrøng
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyjudah/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattyjudah/)*

@@ -1,8 +1,8 @@
 # Marboc
 
-Marboc is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mastak, Warsaw on Fri, 9 Oct 2026.
+Marboc is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mastak, Warsaw on Fri, 9 Oct 2026.
 
-Marboc is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside Sickdat, Subcode and ATARMAL. Next up: Mastak, Warsaw on Fri 9 Oct.
+Marboc is a techno and electronica artist based in Poland, tracked on soundcheck, with 9 sets logged across Krakow and Warsaw. Often billed alongside Sickdat, Subcode and ATARMAL. Next up: Mastak, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marboc is a techno and electronica artist tracked on soundcheck, with 9 sets log
 
 Sickdat, Subcode, ATARMAL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*

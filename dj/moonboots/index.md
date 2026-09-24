@@ -1,8 +1,8 @@
 # Moon Boots
 
-Moon Boots is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Moon Boots is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
-Moon Boots is a house and disco artist tracked on soundcheck, with 35 sets logged across Austin, Chicago, Denver and Houston and 12 more. Often billed alongside DARIUS, Dam Swindle and Daul. Next up: FS., Tokyo on Fri 25 Sept.
+Moon Boots is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Chicago, Denver and Houston and 12 more. Often billed alongside DARIUS, Dam Swindle and Daul. Next up: FS., Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Moon Boots is a house and disco artist tracked on soundcheck, with 35 sets logge
 
 DARIUS, Dam Swindle, Daul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonboots/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonboots/)*

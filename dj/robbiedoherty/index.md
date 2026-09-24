@@ -1,8 +1,8 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+Robbie Doherty is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
 
-Robbie Doherty is a house and tech house artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: SWG3, Glasgow on Fri 25 Sept.
+Robbie Doherty is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: SWG3, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 158 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

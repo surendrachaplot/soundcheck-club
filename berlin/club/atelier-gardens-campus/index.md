@@ -1,6 +1,6 @@
 # Atelier Gardens Campus
 
-Atelier Gardens Campus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Metaxy" on Fri, 30 Oct 2026.
+Atelier Gardens Campus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Metaxy" on Fri, 30 Oct 2026.
 
 Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Norman Nodge. Browse upcoming dates, start times and who's playing. Oberlandstraße 26-35, 12099 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 1 upcomi
 
 Oberlandstraße 26-35, 12099 Berlin, Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*

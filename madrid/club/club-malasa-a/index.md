@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Palas Club con Federico Molinari y Jordi Castell" on Thu, 24 Sept 2026.
+Club Malasaña is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Palas Club con Federico Molinari y Jordi Castell" on Thu, 24 Sept 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including David Cabrera, Dj Homie, Federico Molinari and Gazzi and 2 more. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming gigs,
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

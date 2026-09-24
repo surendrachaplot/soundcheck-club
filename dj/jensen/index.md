@@ -1,8 +1,8 @@
 # Jensen
 
-Jensen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Sat, 14 Nov 2026.
+Jensen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 14 Nov 2026.
 
-Jensen is a house and disco artist tracked on soundcheck, with 20 sets logged across Antwerp, Auckland, Berlin and Ghent. Often billed alongside Deejames, No Shit Like Deep and Red D. Next up: Void Club, Berlin on Sat 14 Nov.
+Jensen is a house and disco artist based in Belgium, tracked on soundcheck, with 20 sets logged across Antwerp, Auckland, Berlin and Ghent. Often billed alongside Deejames, No Shit Like Deep and Red D. Next up: Void Club, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jensen is a house and disco artist tracked on soundcheck, with 20 sets logged ac
 
 Deejames, No Shit Like Deep, Red D
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jensen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jensen/)*

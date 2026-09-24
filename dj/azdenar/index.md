@@ -1,8 +1,8 @@
 # Az Denar
 
-Az Denar is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M.N.Roy, Mexico City on Sat, 26 Sept 2026.
+Az Denar is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.N.Roy, Mexico City on Sat, 26 Sept 2026.
 
-Az Denar is an electronic artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside LORENA (MX), Roy Rosenfeld and Alejandro Veneno. Next up: M.N.Roy, Mexicocity on Sat 26 Sept.
+Az Denar is an electronic artist based in Mexico, tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside LORENA (MX), Roy Rosenfeld and Alejandro Veneno. Next up: M.N.Roy, Mexicocity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Az Denar is an electronic artist tracked on soundcheck, with 5 sets logged acros
 
 LORENA (MX), Roy Rosenfeld, Alejandro Veneno
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azdenar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azdenar/)*

@@ -1,6 +1,6 @@
 # Amadeezy
 
-Amadeezy is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
+Amadeezy is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Amadeezy is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: TBA, Sanfrancisco on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Amadeezy is a techno and ghetto tech artist based in United States of America, t
 
 Jason Code, MoMA Ready, Carl Hang
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*

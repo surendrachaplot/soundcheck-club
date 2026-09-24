@@ -1,14 +1,15 @@
 # Santi Gonzalez
 
-Santi Gonzalez is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 7833 Soundlab, Barcelona on Fri, 25 Sept 2026.
+Santi Gonzalez is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 7833 Soundlab, Barcelona on Fri, 25 Sept 2026.
 
-Santi Gonzalez is a progressive house and deep house artist tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside GUS PICCO, juliboe and Agoostina. Next up: 7833 Soundlab, Barcelona on Fri 25 Sept.
+Santi Gonzalez is a progressive house and deep house artist based in Argentina, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside GUS PICCO, juliboe and Agoostina. Next up: 7833 Soundlab, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 7833 Soundlab | Barcelona |
+| Fri, 16 Oct 2026 | Opposite | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Santi Gonzalez is a progressive house and deep house artist tracked on soundchec
 
 GUS PICCO, juliboe, Agoostina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santigonzalez/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santigonzalez/)*

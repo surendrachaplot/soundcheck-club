@@ -1,8 +1,8 @@
 # Anah
 
-Anah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Stage and Radio, Manchester on Sat, 31 Oct 2026.
+Anah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Stage and Radio, Manchester on Sat, 31 Oct 2026.
 
-Anah is a house and techno artist tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 13 more. Often billed alongside Lumiere, Francesco Del Garda and Christian AB. Next up: Stage and Radio, Manchester on Sat 31 Oct.
+Anah is a house and techno artist based in Portugal, tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 13 more. Often billed alongside Lumiere, Francesco Del Garda and Christian AB. Next up: Stage and Radio, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Anah is a house and techno artist tracked on soundcheck, with 78 sets logged acr
 
 Lumiere, Francesco Del Garda, Christian AB
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*

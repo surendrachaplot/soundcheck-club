@@ -1,6 +1,6 @@
 # Marcus NF Harris
 
-Marcus NF Harris is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Roar Brewing, Detroit on Sat, 26 Sept 2026.
+Marcus NF Harris is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Roar Brewing, Detroit on Sat, 26 Sept 2026.
 
 Marcus NF Harris is a house and deep house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside Ryan Sadorus, Gregboi and Dj Ryte Nou. Next up: TBA - Roar Brewing, Detroit on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Marcus NF Harris is a house and deep house artist based in United States of Amer
 
 Ryan Sadorus, Gregboi, Dj Ryte Nou
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusnfharris/)*

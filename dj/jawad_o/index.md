@@ -1,8 +1,8 @@
 # Jawad_o
 
-Jawad_o is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Localización secreta, Madrid on Sat, 26 Sept 2026.
+Jawad_o is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Localización secreta, Madrid on Sat, 26 Sept 2026.
 
-Jawad_o is a house and electro artist tracked on soundcheck, with 9 sets logged across Barcelona and Madrid. Often billed alongside WO KEM, findPeaks and Falsx. Next up: TBA - Localización secreta, Madrid on Sat 26 Sept.
+Jawad_o is a house and electro artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona and Madrid. Often billed alongside WO KEM, findPeaks and Falsx. Next up: TBA - Localización secreta, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jawad_o is a house and electro artist tracked on soundcheck, with 9 sets logged 
 
 WO KEM, findPeaks, Falsx
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawad_o/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawad_o/)*

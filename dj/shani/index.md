@@ -1,6 +1,6 @@
 # Shani
 
-Shani is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+Shani is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
 Shani is a house and minimal artist based in Bahrain, tracked on soundcheck, with 29 sets logged across Melbourne and Sydney. Often billed alongside Crozier, Katharine and Mas Kato. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ Shani is a house and minimal artist based in Bahrain, tracked on soundcheck, wit
 
 Crozier, Katharine, Mas Kato
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shani/)*

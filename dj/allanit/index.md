@@ -1,8 +1,8 @@
 # Allanit
 
-Allanit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - NW DC , Washington DC on Sat, 26 Sept 2026.
+Allanit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - NW DC , Washington DC on Sat, 26 Sept 2026.
 
-Allanit is a house and deep house artist tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Sarah Myers, KayLaSoul and Apollo Dust. Next up: TBA - NW DC , Washingtondc on Sat 26 Sept.
+Allanit is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Sarah Myers, KayLaSoul and Apollo Dust. Next up: TBA - NW DC , Washingtondc on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Allanit is a house and deep house artist tracked on soundcheck, with 8 sets logg
 
 Sarah Myers, KayLaSoul, Apollo Dust
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*

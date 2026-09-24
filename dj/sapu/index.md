@@ -1,6 +1,6 @@
 # SaPu
 
-SaPu is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club der Visionaere, Berlin on Sun, 27 Sept 2026.
+SaPu is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club der Visionaere, Berlin on Sun, 27 Sept 2026.
 
 SaPu is a tech house and minimal artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Lisbon. Often billed alongside Tripmastaz, Alex Grebe and Alessia Ceruti. Next up: Club der Visionaere, Berlin on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ SaPu is a tech house and minimal artist based in Germany, tracked on soundcheck,
 
 Tripmastaz, Alex Grebe, Alessia Ceruti
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*

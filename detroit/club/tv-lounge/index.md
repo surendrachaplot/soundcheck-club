@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Hector Romero does TV" on Fri, 25 Sept 2026.
+TV Lounge is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hector Romero does TV" on Fri, 25 Sept 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Aboudi Issa, Al Ester, Ashton Swinton and Ataxia and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -22,4 +22,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

@@ -1,8 +1,8 @@
 # Frizzy
 
-Frizzy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
+Frizzy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
 
-Frizzy is a house and disco artist tracked on soundcheck, with 38 sets logged across Melbourne. Often billed alongside Milo Eastwood, Sunset Boys and Gracey. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
+Frizzy is a house and disco artist based in Australia, tracked on soundcheck, with 38 sets logged across Melbourne. Often billed alongside Milo Eastwood, Sunset Boys and Gracey. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Frizzy is a house and disco artist tracked on soundcheck, with 38 sets logged ac
 
 Milo Eastwood, Sunset Boys, Gracey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*

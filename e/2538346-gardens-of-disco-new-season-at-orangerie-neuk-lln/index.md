@@ -1,6 +1,6 @@
 # Gardens of Disco NEW SEASON at Orangerie Neukölln
 
-Gardens of Disco NEW SEASON at Orangerie Neukölln on Sat 10 Oct, Berlin. 3 acts on the bill: Akirahawks, Sciarada and St. Laurent. House and Disco. Preview the line-up and save it on soundcheck.
+Gardens of Disco NEW SEASON at Orangerie Neukölln on Sat 10 Oct, Berlin. 4 acts on the bill: Akirahawks, Alison Swing, Sciarada and St. Laurent. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Gardens of Disco NEW SEASON at Orangerie Neukölln on Sat 10 Oct, Berlin. 3 acts
 ## Line-up
 
 - Akirahawks
+- Alison Swing
 - Sciarada
 - St. Laurent
 

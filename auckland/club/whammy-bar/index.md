@@ -1,6 +1,6 @@
 # Whammy Bar
 
-Whammy Bar is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "2016 Werld" on Fri, 25 Sept 2026.
+Whammy Bar is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "2016 Werld" on Fri, 25 Sept 2026.
 
 Whammy Bar is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Manson, Concussion and LERM. Browse upcoming dates, start times and who's playing. 183 Karangahape Rd, Auckland, 1010, New Zealand.
 
@@ -17,4 +17,4 @@ Whammy Bar is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, w
 
 183 Karangahape Rd, Auckland, 1010, New Zealand, Auckland
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/whammy-bar/)*

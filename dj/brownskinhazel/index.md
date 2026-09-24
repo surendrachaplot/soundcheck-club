@@ -1,8 +1,8 @@
 # BROWNSKINHAZEL
 
-BROWNSKINHAZEL is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
+BROWNSKINHAZEL is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Los Globos, Los Angeles on Thu, 24 Sept 2026.
 
-BROWNSKINHAZEL is a club and experimental artist tracked on soundcheck, with 29 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Buckmonster, BAE BAE and Gbenga. Next up: Los Globos, Losangeles on Thu 24 Sept.
+BROWNSKINHAZEL is a club and experimental artist based in United States of America, tracked on soundcheck, with 29 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Buckmonster, BAE BAE and Gbenga. Next up: Los Globos, Losangeles on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BROWNSKINHAZEL is a club and experimental artist tracked on soundcheck, with 29 
 
 Buckmonster, BAE BAE, Gbenga
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brownskinhazel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brownskinhazel/)*

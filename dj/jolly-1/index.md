@@ -1,8 +1,8 @@
 # Jolly (FR)
 
-Jolly (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
+Jolly (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
 
-Jolly (FR) is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: TBA, Marseille on Sat 17 Oct.
+Jolly (FR) is a techno and trance artist based in France, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: TBA, Marseille on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jolly (FR) is a techno and trance artist tracked on soundcheck, with 95 sets log
 
 Lastvuska, Maryu, Domi (FR)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*

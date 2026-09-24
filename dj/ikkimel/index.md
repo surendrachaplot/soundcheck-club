@@ -1,8 +1,8 @@
 # IKKIMEL
 
-IKKIMEL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
+IKKIMEL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
 
-IKKIMEL is a techno and trance artist tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Lenny Fuck, S.3000 and Zetson. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
+IKKIMEL is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Lenny Fuck, S.3000 and Zetson. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ IKKIMEL is a techno and trance artist tracked on soundcheck, with 25 sets logged
 
 Lenny Fuck, S.3000, Zetson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikkimel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikkimel/)*

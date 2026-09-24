@@ -1,8 +1,8 @@
 # Joe O
 
-Joe O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+Joe O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
 
-Joe O is a house and techno artist tracked on soundcheck, with 71 sets logged across Bangkok and Tokyo. Often billed alongside Good Company Broadcast Group, FU (JP) and Al Jones. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+Joe O is a house and techno artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Bangkok and Tokyo. Often billed alongside Good Company Broadcast Group, FU (JP) and Al Jones. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Joe O is a house and techno artist tracked on soundcheck, with 71 sets logged ac
 
 Good Company Broadcast Group, FU (JP), Al Jones
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeo/)*

@@ -1,6 +1,6 @@
 # RAPHAËL (2)
 
-RAPHAËL (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
+RAPHAËL (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
 
 RAPHAËL (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Denver, Detroit and Tokyo. Often billed alongside Disc Jockey George, Fullbodydurag and Sinistarr. Next up: Spkrbox, Detroit on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ RAPHAËL (2) is a house and techno artist based in United States of America, tra
 
 Disc Jockey George, Fullbodydurag, Sinistarr
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphael-2/)*

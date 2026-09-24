@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Modular Expansion: Techno Soundz" on Sat, 26 Sept 2026.
+2ten is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Modular Expansion: Techno Soundz" on Sat, 26 Sept 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Emex, George Apergis, Marthe and Mikele and 2 more. Browse upcoming dates, start times and who's playing. Ermou 135, Athens.
 
@@ -17,4 +17,4 @@
 
 Ermou 135, Athens, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

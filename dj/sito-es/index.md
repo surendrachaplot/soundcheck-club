@@ -1,8 +1,8 @@
 # Sito
 
-Sito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Muller Bar, Madrid on Fri, 25 Sept 2026.
+Sito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Muller Bar, Madrid on Fri, 25 Sept 2026.
 
-Sito is a techno and house artist tracked on soundcheck, with 8 sets logged across Madrid and Valencia. Often billed alongside WO KEM, findPeaks and 2M (2). Next up: Muller Bar, Madrid on Fri 25 Sept.
+Sito is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid and Valencia. Often billed alongside WO KEM, findPeaks and 2M (2). Next up: Muller Bar, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Sito is a techno and house artist tracked on soundcheck, with 8 sets logged acro
 
 WO KEM, findPeaks, 2M (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sito-es/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sito-es/)*

@@ -1,8 +1,8 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Baby Club, Marseille on Sat, 26 Sept 2026.
+Marco Faraone is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Baby Club, Marseille on Sat, 26 Sept 2026.
 
-Marco Faraone is a techno and tech house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Baby Club, Marseille on Sat 26 Sept.
+Marco Faraone is a techno and tech house artist based in Italy, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Baby Club, Marseille on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 137 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Baby Club | Marseille |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Marco Faraone is a techno and tech house artist tracked on soundcheck, with 137 
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

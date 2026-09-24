@@ -1,8 +1,8 @@
 # Kesh (1)
 
-Kesh (1) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Location TBA, London on Sat, 26 Sept 2026.
+Kesh (1) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location TBA, London on Sat, 26 Sept 2026.
 
-Kesh (1) is a minimal and house artist tracked on soundcheck, with 83 sets logged across Bristol, Dusseldorf, Frankfurt and Ibiza and 7 more. Often billed alongside LUUD, Myriam and Ludgero Costa. Next up: TBA - Secret Location TBA, London on Sat 26 Sept.
+Kesh (1) is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Bristol, Dusseldorf, Frankfurt and Ibiza and 7 more. Often billed alongside LUUD, Myriam and Ludgero Costa. Next up: TBA - Secret Location TBA, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kesh (1) is a minimal and house artist tracked on soundcheck, with 83 sets logge
 
 LUUD, Myriam, Ludgero Costa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*

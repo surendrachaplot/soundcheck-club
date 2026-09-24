@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Casa Klub en CHICO" on Fri, 25 Sept 2026.
+CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Casa Klub en CHICO" on Fri, 25 Sept 2026.
 
 CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming gigs, with line-ups including Aliien Giirl, Andre VII, Baby Mango and Bluecommand and 2 more. Browse upcoming dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -19,4 +19,4 @@ CHICO is a music venue in Mexicocity listed on soundcheck. 6 upcoming gigs, with
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

@@ -1,6 +1,6 @@
 # Thé Art Café
 
-Thé Art Café is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Underground Collectif live @Thé Art Café (Lagny sur Marne)" on Thu, 8 Oct 2026.
+Thé Art Café is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Underground Collectif live @Thé Art Café (Lagny sur Marne)" on Thu, 8 Oct 2026.
 
 Thé Art Café is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1 Pl. de la Fontaine, 77400 Lagny-sur-Marne.
 
@@ -14,4 +14,4 @@ Thé Art Café is a music venue in Paris listed on soundcheck. 1 upcoming gig. B
 
 1 Pl. de la Fontaine, 77400 Lagny-sur-Marne, Paris
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/th-art-caf/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/th-art-caf/)*

@@ -1,8 +1,8 @@
 # ROSIE
 
-ROSIE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Are You Affiliated, Newcastle on Sat, 31 Oct 2026.
+ROSIE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Are You Affiliated, Newcastle on Sat, 31 Oct 2026.
 
-ROSIE is a house and garage artist tracked on soundcheck, with 40 sets logged across Belfast, Berlin, Ghent and Ibiza and 4 more. Often billed alongside Man Power, Swin and Ben Caldwell. Next up: Are You Affiliated, Newcastle on Sat 31 Oct.
+ROSIE is a house and garage artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Belfast, Berlin, Ghent and Ibiza and 4 more. Often billed alongside Man Power, Swin and Ben Caldwell. Next up: Are You Affiliated, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ROSIE is a house and garage artist tracked on soundcheck, with 40 sets logged ac
 
 Man Power, Swin, Ben Caldwell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie/)*

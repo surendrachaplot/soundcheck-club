@@ -1,8 +1,8 @@
 # AntZ (2)
 
-AntZ (2) is a Techno and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sigma, Ibiza on Fri, 25 Sept 2026.
+AntZ (2) is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sigma, Ibiza on Fri, 25 Sept 2026.
 
-AntZ (2) is a techno and hip-hop artist based in Argentina, tracked on soundcheck, with 22 sets logged across Berlin, Ibiza and Madrid. Often billed alongside SEMREH, Marcelo Demarco and Varøsian. Next up: Sigma, Ibiza on Fri 25 Sept.
+AntZ (2) is a techno and acid artist based in Argentina, tracked on soundcheck, with 23 sets logged across Berlin, Ibiza and Madrid. Often billed alongside SEMREH, Marcelo Demarco and FLAKOO. Next up: Sigma, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ AntZ (2) is a techno and hip-hop artist based in Argentina, tracked on soundchec
 | Fri, 25 Sept 2026 | Sigma | Ibiza |
 | Fri, 25 Sept 2026 | Sigma | Ibiza |
 | Fri, 16 Oct 2026 | Sigma | Ibiza |
+| Fri, 16 Oct 2026 | Summum | Ibiza |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ AntZ (2) is a techno and hip-hop artist based in Argentina, tracked on soundchec
 
 ## Shares bills with
 
-SEMREH, Marcelo Demarco, Varøsian
+SEMREH, Marcelo Demarco, FLAKOO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antz-2/)*

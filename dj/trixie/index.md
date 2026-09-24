@@ -1,8 +1,8 @@
 # Trixie
 
-Trixie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
+Trixie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Sat, 14 Nov 2026.
 
-Trixie is a techno and acid artist tracked on soundcheck, with 8 sets logged across Brussels, London, Malta and Rome. Often billed alongside DJ Programma, Oaky Doke and Om Dream. Next up: fabric, London on Sat 14 Nov.
+Trixie is a techno and acid artist based in Colombia, tracked on soundcheck, with 8 sets logged across Brussels, London, Malta and Rome. Often billed alongside DJ Programma, Oaky Doke and Om Dream. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Trixie is a techno and acid artist tracked on soundcheck, with 8 sets logged acr
 
 DJ Programma, Oaky Doke, Om Dream
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie/)*

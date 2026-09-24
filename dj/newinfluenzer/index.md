@@ -1,8 +1,8 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri, 2 Oct 2026.
+Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri, 2 Oct 2026.
 
-Newinfluenzer is a techno and electro artist tracked on soundcheck, with 88 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri 2 Oct.
+Newinfluenzer is a techno and electro artist based in Germany, tracked on soundcheck, with 88 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: TBA - Glimmer,  Stockmeyerstraße 43, 20457 Hamburg, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 88 sets
 
 yamyam, DJ MELL G, DJ SOURCE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

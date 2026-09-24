@@ -1,8 +1,8 @@
 # SUSKA
 
-SUSKA is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
+SUSKA is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Fri, 9 Oct 2026.
 
-SUSKA is a techno and psytrance artist tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Ghent and Lisbon. Often billed alongside Johannes Schuster, Alignment and Vagabund. Next up: OST, Berlin on Fri 9 Oct.
+SUSKA is a techno and psytrance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Ghent and Lisbon. Often billed alongside Johannes Schuster, Alignment and Vagabund. Next up: OST, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ SUSKA is a techno and psytrance artist tracked on soundcheck, with 18 sets logge
 
 Johannes Schuster, Alignment, Vagabund
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

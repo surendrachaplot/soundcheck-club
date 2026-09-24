@@ -1,8 +1,8 @@
 # Bertie
 
-Bertie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
+Bertie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
 
-Bertie is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, London, Melbourne and Munich and 2 more. Often billed alongside Baby G, DAWS and BELLA (NL). Next up: The Glove That Fits, London on Thu 1 Oct.
+Bertie is a house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Amsterdam, London, Melbourne and Munich and 2 more. Often billed alongside Baby G, DAWS and BELLA (NL). Next up: The Glove That Fits, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bertie is a house and techno artist tracked on soundcheck, with 65 sets logged a
 
 Baby G, DAWS, BELLA (NL)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*

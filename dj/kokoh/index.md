@@ -1,8 +1,8 @@
 # KOKOH
 
-KOKOH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - SOON, London on Fri, 30 Oct 2026.
+KOKOH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SOON, London on Fri, 30 Oct 2026.
 
-KOKOH is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona and London. Often billed alongside Diana Loredana, Paulo Navarro and DJ LIL-E. Next up: TBA - SOON, London on Fri 30 Oct.
+KOKOH is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Barcelona and London. Often billed alongside Diana Loredana, Paulo Navarro and DJ LIL-E. Next up: TBA - SOON, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KOKOH is a house and techno artist tracked on soundcheck, with 37 sets logged ac
 
 Diana Loredana, Paulo Navarro, DJ LIL-E
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*

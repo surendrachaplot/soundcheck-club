@@ -1,8 +1,8 @@
 # ALAN JOE
 
-ALAN JOE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
+ALAN JOE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
 
-ALAN JOE is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside jardabpm, Danny Roach and Bill Sanders. Next up: AMT, Berlin on Fri 13 Nov.
+ALAN JOE is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside jardabpm, Danny Roach and Bill Sanders. Next up: AMT, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ ALAN JOE is a techno and house artist tracked on soundcheck, with 8 sets logged 
 
 jardabpm, Danny Roach, Bill Sanders
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjoe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjoe/)*

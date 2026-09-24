@@ -1,13 +1,14 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Orange Room, London on Sat, 24 Oct 2026.
+JVINCENT is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
-JVINCENT is a baile funk and club artist tracked on soundcheck, with 32 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Samo. Next up: The Orange Room, London on Sat 24 Oct.
+JVINCENT is a baile funk and club artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Samo. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Katsute100 Brick Lane & Bun House Disco | London |
 | Sat, 24 Oct 2026 | The Orange Room | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ JVINCENT is a baile funk and club artist tracked on soundcheck, with 32 sets log
 
 ZEE-2, HARUNA (2), Samo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*

@@ -1,13 +1,14 @@
 # Darcy Justice
 
-Darcy Justice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Darcy Justice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 2 Oct 2026.
 
-Darcy Justice is a house and techno artist based in Australia, tracked on soundcheck, with 50 sets logged across Melbourne and Sydney. Often billed alongside Emelyne, Moopie and DJ PGZ. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Darcy Justice is a house and techno artist based in Australia, tracked on soundcheck, with 51 sets logged across Melbourne and Sydney. Often billed alongside Emelyne, Moopie and DJ PGZ. Next up: Miscellania, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Miscellania | Melbourne |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Darcy Justice is a house and techno artist based in Australia, tracked on soundc
 
 Emelyne, Moopie, DJ PGZ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*

@@ -1,6 +1,6 @@
 # Kulturbrauerei
 
-Kulturbrauerei is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Halloween in der Kulturbrauerei Friday" on Fri, 30 Oct 2026.
+Kulturbrauerei is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Halloween in der Kulturbrauerei Friday" on Fri, 30 Oct 2026.
 
 Kulturbrauerei is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Daora and Waikiki. Browse upcoming dates, start times and who's playing. Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Kulturbrauerei is a music venue in Berlin listed on soundcheck. 2 upcoming gigs,
 
 Schönhauser Allee 36-39; Prenzlauer Berg; 10435 Berlin; Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturbrauerei/)*

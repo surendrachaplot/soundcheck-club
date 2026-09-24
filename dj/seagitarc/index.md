@@ -1,8 +1,8 @@
 # Seagit Arc
 
-Seagit Arc is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
+Seagit Arc is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
 
-Seagit Arc is a house and electronica artist tracked on soundcheck, with 49 sets logged across Mexicocity. Often billed alongside Maseriche, Dj Render and Gerhard. Next up: YuYu Cine Club, Mexicocity on Fri 25 Sept.
+Seagit Arc is a house and electronica artist based in Mexico, tracked on soundcheck, with 49 sets logged across Mexicocity. Often billed alongside Maseriche, Dj Render and Gerhard. Next up: YuYu Cine Club, Mexicocity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Seagit Arc is a house and electronica artist tracked on soundcheck, with 49 sets
 
 Maseriche, Dj Render, Gerhard
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seagitarc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seagitarc/)*

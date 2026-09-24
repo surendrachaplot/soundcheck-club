@@ -1,8 +1,8 @@
 # Fantastic Twins
 
-Fantastic Twins is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
+Fantastic Twins is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
 
-Fantastic Twins is a techno and electro artist tracked on soundcheck, with 32 sets logged across Athens, Belgrade, Berlin and Bristol and 11 more. Often billed alongside Denis Stockhausen, Khidja and Michael Mayer. Next up: Zentralwäscherei, Zurich on Sat 26 Sept.
+Fantastic Twins is a techno and electro artist based in France, tracked on soundcheck, with 32 sets logged across Athens, Belgrade, Berlin and Bristol and 11 more. Often billed alongside Denis Stockhausen, Khidja and Michael Mayer. Next up: Zentralwäscherei, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fantastic Twins is a techno and electro artist tracked on soundcheck, with 32 se
 
 Denis Stockhausen, Khidja, Michael Mayer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastictwins/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantastictwins/)*

@@ -1,8 +1,8 @@
 # Wade
 
-Wade is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Wade is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Wade is a tech house and house artist tracked on soundcheck, with 104 sets logged across All, Amsterdam, Barcelona and Basel and 31 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Etko, All on Fri 25 Sept.
+Wade is a tech house and house artist based in Spain, tracked on soundcheck, with 104 sets logged across All, Amsterdam, Barcelona and Basel and 31 more. Often billed alongside Chelina Manuhutu, Marco Carola and Gordo. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Wade is a tech house and house artist tracked on soundcheck, with 104 sets logge
 
 Chelina Manuhutu, Marco Carola, Gordo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wade-es/)*

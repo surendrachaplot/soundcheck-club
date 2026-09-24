@@ -1,6 +1,6 @@
 # Tris Kayo
 
-Tris Kayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bar v Krymský, Prague on Fri, 25 Sept 2026.
+Tris Kayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar v Krymský, Prague on Fri, 25 Sept 2026.
 
 Tris Kayo is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside Aurelien, Alegs and Sam Gittis. Next up: Bar v Krymský, Prague on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tris Kayo is a house and electronica artist based in United Kingdom, tracked on 
 
 Aurelien, Alegs, Sam Gittis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triskayo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triskayo/)*

@@ -1,8 +1,8 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★" on Sat, 26 Sept 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "★ S.A.S.H Sydney ★ Membership Launch Party ★ Saturday 26th September ★" on Sat, 26 Sept 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including Covsky, DAYZZI, Deaf Toucan and DJ SWISHERMAN and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including Covsky, DAYZZI, Deaf Toucan and DJ SWISHERMAN and 2 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 11 upco
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

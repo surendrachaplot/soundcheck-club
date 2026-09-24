@@ -1,6 +1,6 @@
 # Yuka
 
-Yuka is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
+Yuka is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
 
 Yuka is a house and electro artist based in Russia, tracked on soundcheck, with 7 sets logged across Losangeles, Seoul and Tokyo. Often billed alongside Bliss (1), GG (2) and ALY. Next up: Lion Super Club, Seoul on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Yuka is a house and electro artist based in Russia, tracked on soundcheck, with 
 
 Bliss (1), GG (2), ALY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuka/)*

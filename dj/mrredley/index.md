@@ -1,8 +1,8 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
+Mr. Redley is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jumbi, London on Fri, 25 Sept 2026.
 
-Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Jumbi, London on Fri 25 Sept.
+Mr. Redley is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: Jumbi, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 72 sets
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

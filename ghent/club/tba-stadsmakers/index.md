@@ -1,6 +1,6 @@
 # TBA - Stadsmakers
 
-TBA - Stadsmakers is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "NACHTMAKERS 3.0" on Sat, 10 Oct 2026.
+TBA - Stadsmakers is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "NACHTMAKERS 3.0" on Sat, 10 Oct 2026.
 
 TBA - Stadsmakers is a music venue in Ghent listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Stadsmakers is a music venue in Ghent listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | NACHTMAKERS 3.0 |  |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-stadsmakers/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/tba-stadsmakers/)*

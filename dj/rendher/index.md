@@ -1,8 +1,8 @@
 # Rendher
 
-Rendher is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Sat, 26 Sept 2026.
+Rendher is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Sat, 26 Sept 2026.
 
-Rendher is a tech house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: [UNVRS], Ibiza on Sat 26 Sept.
+Rendher is a tech house and house artist based in Spain, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: [UNVRS], Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rendher is a tech house and house artist tracked on soundcheck, with 66 sets log
 
 Paco Osuna, Bastian Bux, Chelina Manuhutu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*

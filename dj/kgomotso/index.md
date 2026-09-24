@@ -1,8 +1,8 @@
 # Kgomotso
 
-Kgomotso is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Whitehart Bar, Melbourne on Fri, 25 Sept 2026.
+Kgomotso is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Whitehart Bar, Melbourne on Fri, 25 Sept 2026.
 
-Kgomotso is a house and afro house artist tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Chris NG, DJ JNETT and Zjoso. Next up: Whitehart Bar, Melbourne on Fri 25 Sept.
+Kgomotso is a house and afro house artist based in South Africa, tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Chris NG, DJ JNETT and Zjoso. Next up: Whitehart Bar, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kgomotso is a house and afro house artist tracked on soundcheck, with 35 sets lo
 
 Chris NG, DJ JNETT, Zjoso
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kgomotso/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kgomotso/)*

@@ -1,8 +1,8 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Trancemaster Krause all night long" on Fri, 25 Sept 2026.
+Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Trancemaster Krause all night long" on Fri, 25 Sept 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including AEND, Andy Catana, Bambi-S and CHERCHES and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including AEND, Afem Syko, Andy Catana and Bambi-S and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
@@ -14,10 +14,12 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming gigs,
 | Sat, 3 Oct 2026 | Feuchte Träume |  |
 | Fri, 9 Oct 2026 | Pan-Pot - Zuckerwatt | Crazy Sonic, Pan-Pot |
 | Sat, 10 Oct 2026 | Radio Rudina | AEND, Bambi-S, CHERCHES, COBRA, DJ Lelo, Vivienna |
+| Fri, 16 Oct 2026 | F*CKEN PLUS Fold Pro Max | DJ Deadlift, Gerald VDH, JERM |
 | Fri, 23 Oct 2026 | Sven Väth / TURBO | Andy Catana, MARØ (2), Maurizio Schmitz, Sven Vath |
+| Fri, 6 Nov 2026 | MAHLWERK: Afem Syko & Lisa Korver with FADERCULT | Afem Syko, Ben Derris, Kat Ze, Linus Villa, Lisa Korver, Max Wagner, Sony2k, Sophti, WO.IZZY, maro |
 
 ## Address
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

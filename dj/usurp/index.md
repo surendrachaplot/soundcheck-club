@@ -1,8 +1,8 @@
 # Usurp
 
-Usurp is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
+Usurp is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
 
-Usurp is a techno and jungle artist tracked on soundcheck, with 7 sets logged across Barcelona, Bristol, Edinburgh and Glasgow. Often billed alongside Feena, Skillis and Capricorn One. Next up: Macarena Club, Barcelona on Thu 15 Oct.
+Usurp is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Barcelona, Bristol, Edinburgh and Glasgow. Often billed alongside Feena, Skillis and Capricorn One. Next up: Macarena Club, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Usurp is a techno and jungle artist tracked on soundcheck, with 7 sets logged ac
 
 Feena, Skillis, Capricorn One
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usurp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usurp/)*

@@ -1,8 +1,8 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
+Elotrance is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
 
-Elotrance is a techno and trance artist tracked on soundcheck, with 115 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Renate, Berlin on Fri 2 Oct.
+Elotrance is a techno and trance artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Renate, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Elotrance is a techno and trance artist tracked on soundcheck, with 115 sets log
 
 Justin Tinderdate, Cleopard2000, Mika Heggemann
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*

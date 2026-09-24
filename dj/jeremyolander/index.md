@@ -1,8 +1,8 @@
 # Jeremy Olander
 
-Jeremy Olander is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outernet Live, London on Fri, 23 Oct 2026.
+Jeremy Olander is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outernet Live, London on Fri, 23 Oct 2026.
 
-Jeremy Olander is a progressive house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Bali and Bangkok and 33 more. Often billed alongside Cristoph, Nick Warren and Argy. Next up: Outernet Live, London on Fri 23 Oct.
+Jeremy Olander is a progressive house and techno artist based in Sweden, tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Bali and Bangkok and 33 more. Often billed alongside Cristoph, Nick Warren and Argy. Next up: Outernet Live, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Jeremy Olander is a progressive house and techno artist tracked on soundcheck, w
 
 Cristoph, Nick Warren, Argy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyolander/)*

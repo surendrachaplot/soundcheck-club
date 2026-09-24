@@ -1,6 +1,6 @@
-# Club Mustang toronto at Handlebar
+# Club Mustang // Toronto at Handlebar
 
-Club Mustang toronto at Handlebar on Fri 23 Oct, Toronto. 2 acts on the bill: esme2k and moodyjooly. Bass and Club. Preview the line-up and save it on soundcheck.
+Club Mustang // Toronto at Handlebar on Fri 23 Oct, Toronto. 4 acts on the bill: Disthene, esme2k, moodyjooly and scoodt. Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Club Mustang toronto at Handlebar on Fri 23 Oct, Toronto. 2 acts on the bill: es
 
 ## Line-up
 
+- Disthene
 - esme2k
 - moodyjooly
+- scoodt
 
 *Source: [soundcheck](https://soundcheck.club/e/2542557-club-mustang-toronto-at-handlebar/)*

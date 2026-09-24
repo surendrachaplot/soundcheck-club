@@ -1,8 +1,8 @@
 # MNTY
 
-MNTY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Casa Grande, Mexico City on Sat, 26 Sept 2026.
+MNTY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Casa Grande, Mexico City on Sat, 26 Sept 2026.
 
-MNTY is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Mexicocity and Newyorkcity and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Casa Grande, Mexicocity on Sat 26 Sept.
+MNTY is a house and techno artist based in Mexico, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Mexicocity and Newyorkcity and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Casa Grande, Mexicocity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ MNTY is a house and techno artist tracked on soundcheck, with 93 sets logged acr
 
 Bluecommand, Valeriana, AAAA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*

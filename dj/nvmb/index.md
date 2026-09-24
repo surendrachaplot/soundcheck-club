@@ -1,8 +1,8 @@
 # NVMB
 
-NVMB is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
+NVMB is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 25 Sept 2026.
 
-NVMB is a trance and techno artist tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Miguel Rivas, P1P3 and KSAL. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 25 Sept.
+NVMB is a trance and techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Miguel Rivas, P1P3 and KSAL. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ NVMB is a trance and techno artist tracked on soundcheck, with 7 sets logged acr
 
 Miguel Rivas, P1P3, KSAL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvmb/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvmb/)*

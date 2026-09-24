@@ -1,8 +1,8 @@
 # MSKD
 
-MSKD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ://about blank, Berlin on Sat, 19 Dec 2026.
+MSKD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Sat, 19 Dec 2026.
 
-MSKD is a techno and trance artist tracked on soundcheck, with 59 sets logged across Berlin, Montreal, Paris and Toronto. Often billed alongside alemiko, Limoncello and Zoanthropiia. Next up: ://about blank, Berlin on Sat 19 Dec.
+MSKD is a techno and trance artist based in France, tracked on soundcheck, with 59 sets logged across Berlin, Montreal, Paris and Toronto. Often billed alongside alemiko, Limoncello and Zoanthropiia. Next up: ://about blank, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MSKD is a techno and trance artist tracked on soundcheck, with 59 sets logged ac
 
 alemiko, Limoncello, Zoanthropiia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mskd/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mskd/)*

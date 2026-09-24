@@ -1,15 +1,13 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 23 Sept 2026.
+The Blessed Madonna is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phantom, Paris, Paris on Sat, 31 Oct 2026.
 
-The Blessed Madonna is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Hï Ibiza, Ibiza on Wed 23 Sept.
+The Blessed Madonna is a house and techno artist based in United States of America, tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Austin and Bali and 42 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Phantom, Paris, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Hï Ibiza | Ibiza |
-| Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 31 Oct 2026 | Phantom, Paris | Paris |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -17,6 +15,7 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 140
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Wed, 23 Sept 2026
 - smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Calatheabeachclub, Naples — Sat, 29 Aug 2026
@@ -24,10 +23,9 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 140
 - Chinois Ibiza, Ibiza — Sat, 1 Aug 2026
 - Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 22 Jul 2026
-- DC-10, Ibiza — Mon, 6 Jul 2026
 
 ## Shares bills with
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

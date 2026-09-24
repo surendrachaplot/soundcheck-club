@@ -1,8 +1,8 @@
 # Sven von Thülen
 
-Sven von Thülen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
+Sven von Thülen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
 
-Sven von Thülen is a house and deep house artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Bassdee, André Galluzzi and Beatrice (DE). Next up: Paloma, Berlin on Fri 9 Oct.
+Sven von Thülen is a house and deep house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Bassdee, André Galluzzi and Beatrice (DE). Next up: Paloma, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sven von Thülen is a house and deep house artist tracked on soundcheck, with 31
 
 Bassdee, André Galluzzi, Beatrice (DE)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*

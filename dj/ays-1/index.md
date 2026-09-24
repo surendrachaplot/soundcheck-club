@@ -1,14 +1,15 @@
 # Ays (NL)
 
-Ays (NL) is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Ays (NL) is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
-Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Brussels and Helsinki and 8 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: SISSI'S Amsterdam, Amsterdam on Fri 2 Oct.
+Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Brussels and Helsinki and 8 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: SISSI'S Amsterdam, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
+| Thu, 8 Oct 2026 | NAR | Utrecht |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | Doka | Amsterdam |
 
@@ -27,4 +28,4 @@ Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck
 
 Kuriosa, Antal, Charmaine
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ays-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ays-1/)*

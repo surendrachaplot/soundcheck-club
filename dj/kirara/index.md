@@ -1,6 +1,6 @@
 # KIRARA
 
-KIRARA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
+KIRARA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
 KIRARA is a techno and club artist based in South Korea, tracked on soundcheck, with 29 sets logged across Amsterdam, Brussels, Lyon and Manchester and 6 more. Often billed alongside NET GALA, Seesea and Cozyhoon. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ KIRARA is a techno and club artist based in South Korea, tracked on soundcheck, 
 
 NET GALA, Seesea, Cozyhoon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirara/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirara/)*

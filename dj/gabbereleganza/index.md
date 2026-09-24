@@ -1,8 +1,8 @@
 # Gabber Eleganza
 
-Gabber Eleganza is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 14 Nov 2026.
+Gabber Eleganza is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 14 Nov 2026.
 
-Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Q35 WAREHOUSE, Turin on Sat 14 Nov.
+Gabber Eleganza is a techno and hardcore artist based in Italy, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Anetha, DJ Gigola and 999999999. Next up: Q35 WAREHOUSE, Turin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gabber Eleganza is a techno and hardcore artist tracked on soundcheck, with 100 
 
 Anetha, DJ Gigola, 999999999
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbereleganza/)*

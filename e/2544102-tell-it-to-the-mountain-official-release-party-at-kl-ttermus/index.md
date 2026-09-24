@@ -1,6 +1,6 @@
 # TELL IT TO THE MOUNTAIN – Official Release Party at Klättermusens Verkstad
 
-TELL IT TO THE MOUNTAIN – Official Release Party at Klättermusens Verkstad on Thu 24 Sept, Stockholm. 2 acts on the bill: Axel Boman and Superpitcher. House and Experimental. Preview the line-up and save it on soundcheck.
+TELL IT TO THE MOUNTAIN – Official Release Party at Klättermusens Verkstad on Thu 24 Sept, Stockholm. 2 acts on the bill: Axel Boman and Superpitcher. Disco and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

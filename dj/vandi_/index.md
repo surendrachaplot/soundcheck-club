@@ -1,6 +1,6 @@
 # Vandi (ES)
 
-Vandi (ES) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
+Vandi (ES) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
 
 Vandi (ES) is a house and minimal artist based in Ireland, tracked on soundcheck, with 14 sets logged across Barcelona, Dublin, Lisbon and Valencia. Often billed alongside bernie soundmate, G.G (LB) and NM Musik. Next up: La Terrrazza, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Vandi (ES) is a house and minimal artist based in Ireland, tracked on soundcheck
 
 bernie soundmate, G.G (LB), NM Musik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi_/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi_/)*

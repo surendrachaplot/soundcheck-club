@@ -1,8 +1,8 @@
 # Amanda Simpson
 
-Amanda Simpson is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Amanda Simpson is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Amanda Simpson is a house and afro house artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Jack Mulqueen, KOZLOW and ASMOT. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
+Amanda Simpson is a house and afro house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Jack Mulqueen, KOZLOW and ASMOT. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Amanda Simpson is a house and afro house artist tracked on soundcheck, with 10 s
 
 Jack Mulqueen, KOZLOW, ASMOT
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*

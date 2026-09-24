@@ -1,6 +1,6 @@
 # PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE at ://about blank
 
-PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE at ://about blank on Fri 9 Oct, Berlin. 6 acts on the bill: DJ Semisecco, Droughtwerk, FI3BER and Flotte Motte and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE at ://about blank on Fri 9 Oct, Berlin. 7 acts on the bill: co:co, DJ Semisecco, Droughtwerk and FI3BER and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PUDDING ∞ LETZTE WIESE × TRANSCENDÆNCE at ://about blank on Fri 9 Oct, Berl
 
 ## Line-up
 
+- co:co
 - DJ Semisecco
 - Droughtwerk
 - FI3BER

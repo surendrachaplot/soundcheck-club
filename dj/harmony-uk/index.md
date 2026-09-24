@@ -1,8 +1,8 @@
 # Harmony (UK)
 
-Harmony (UK) is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
+Harmony (UK) is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lccm, London on Mon, 28 Sept 2026.
 
-Harmony (UK) is a jungle and hardcore artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dwarde, Hughesee and Louise Plus One. Next up: Lccm, London on Mon 28 Sept.
+Harmony (UK) is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dwarde, Hughesee and Louise Plus One. Next up: Lccm, London on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Harmony (UK) is a jungle and hardcore artist tracked on soundcheck, with 3 sets 
 
 Dwarde, Hughesee, Louise Plus One
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harmony-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harmony-uk/)*

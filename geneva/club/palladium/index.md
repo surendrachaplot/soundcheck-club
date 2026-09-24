@@ -1,6 +1,6 @@
 # Palladium
 
-Palladium is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Electron: CLUB CULTURE" on Fri, 9 Oct 2026.
+Palladium is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Electron: CLUB CULTURE" on Fri, 9 Oct 2026.
 
 Palladium is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, with line-ups including 2ManyDJs, Anetha, DJ Heartstring and HAAi and 2 more. Browse upcoming dates, start times and who's playing. Rue du Stand 3; 1204, Genève; Switzerland.
 
@@ -15,4 +15,4 @@ Palladium is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, with
 
 Rue du Stand 3; 1204, Genève; Switzerland, Geneva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/palladium/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/palladium/)*

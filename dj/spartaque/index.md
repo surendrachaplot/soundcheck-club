@@ -1,8 +1,8 @@
 # Spartaque
 
-Spartaque is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Spartaque is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Spartaque is a techno and tech house artist tracked on soundcheck, with 59 sets logged across All, Amsterdam, Athens and Austin and 20 more. Often billed alongside Ramiro Lopez, Klaudia Gawlas and SOLE LLORENTE. Next up: Etko, All on Fri 25 Sept.
+Spartaque is a techno and tech house artist based in Ukraine, tracked on soundcheck, with 59 sets logged across All, Amsterdam, Athens and Austin and 20 more. Often billed alongside Ramiro Lopez, Klaudia Gawlas and SOLE LLORENTE. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Spartaque is a techno and tech house artist tracked on soundcheck, with 59 sets 
 
 Ramiro Lopez, Klaudia Gawlas, SOLE LLORENTE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spartaque/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spartaque/)*

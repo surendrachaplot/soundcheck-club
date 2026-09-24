@@ -1,8 +1,8 @@
 # molekühl
 
-molekühl is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at flo Soakin, Osaka on Fri, 2 Oct 2026.
+molekühl is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at flo Soakin, Osaka on Fri, 2 Oct 2026.
 
-molekühl is a house and experimental artist tracked on soundcheck, with 18 sets logged across Basel, Berlin, Osaka and Strasbourg and 1 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: flo Soakin, Osaka on Fri 2 Oct.
+molekühl is a house and experimental artist based in Switzerland, tracked on soundcheck, with 18 sets logged across Basel, Berlin, Osaka and Strasbourg and 1 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: flo Soakin, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ molekühl is a house and experimental artist tracked on soundcheck, with 18 sets
 
 fabulus, Atrice, Black Mirror Park
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*

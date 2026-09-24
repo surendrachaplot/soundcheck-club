@@ -1,8 +1,8 @@
 # JACID
 
-JACID is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
+JACID is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 8 Oct 2026.
 
-JACID is a techno and industrial artist tracked on soundcheck, with 14 sets logged across Aberdeen, Edinburgh, Glasgow and Munich. Often billed alongside NØUR, HØLT and Isaac Sayers. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
+JACID is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Aberdeen, Edinburgh, Glasgow and Munich. Often billed alongside NØUR, HØLT and Isaac Sayers. Next up: Bahnwärter Thiel, Munich on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JACID is a techno and industrial artist tracked on soundcheck, with 14 sets logg
 
 NØUR, HØLT, Isaac Sayers
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacid/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacid/)*

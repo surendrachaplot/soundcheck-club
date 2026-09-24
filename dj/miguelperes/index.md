@@ -1,8 +1,8 @@
 # Miguel Peres
 
-Miguel Peres is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
+Miguel Peres is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground Lisboa, Lisbon on Sat, 10 Oct 2026.
 
-Miguel Peres is a techno and acid artist tracked on soundcheck, with 15 sets logged across Amsterdam and Lisbon. Often billed alongside DJ Dextro, HUMA-NOYD and Myne. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
+Miguel Peres is a techno and acid artist based in Portugal, tracked on soundcheck, with 15 sets logged across Amsterdam and Lisbon. Often billed alongside DJ Dextro, HUMA-NOYD and Myne. Next up: Village Underground Lisboa, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Miguel Peres is a techno and acid artist tracked on soundcheck, with 15 sets log
 
 DJ Dextro, HUMA-NOYD, Myne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelperes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelperes/)*

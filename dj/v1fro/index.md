@@ -1,8 +1,8 @@
 # v1fro
 
-v1fro is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+v1fro is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-v1fro is a techno and latin bass artist tracked on soundcheck, with 45 sets logged across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
+v1fro is a techno and latin bass artist based in Venezuela, tracked on soundcheck, with 45 sets logged across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ v1fro is a techno and latin bass artist tracked on soundcheck, with 45 sets logg
 
 SATURNSARii, Berrakka, Pressure Point (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*

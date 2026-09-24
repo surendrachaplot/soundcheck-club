@@ -1,6 +1,6 @@
 # Super7
 
-Super7 is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "slow opening — day01 : IMA:R • NOTSERIOUS BIGS • NUAGE ROSE • Pablo Valentino" on Thu, 24 Sept 2026.
+Super7 is a music venue in Lyon with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "slow opening — day01 : IMA:R • NOTSERIOUS BIGS • NUAGE ROSE • Pablo Valentino" on Thu, 24 Sept 2026.
 
 Super7 is a music venue in Lyon listed on soundcheck. 5 upcoming gigs, with line-ups including Axymt., Farah (2), IMA:R and ISA and 2 more. Browse upcoming dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
@@ -18,4 +18,4 @@ Super7 is a music venue in Lyon listed on soundcheck. 5 upcoming gigs, with line
 
 40 rue Saint-Jérôme 69007 Lyon, Lyon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/super7/)*

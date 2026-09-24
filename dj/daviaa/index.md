@@ -1,6 +1,6 @@
 # Daviaa
 
-Daviaa is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
+Daviaa is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
 
 Daviaa is a baile funk and afro house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Dublin, Geneva, Leeds and Lisbon and 6 more. Often billed alongside Blue Canarinho, LOELASH and Bia Marques. Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Daviaa is a baile funk and afro house artist based in United Kingdom, tracked on
 
 Blue Canarinho, LOELASH, Bia Marques
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daviaa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daviaa/)*

@@ -1,8 +1,8 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 25 Sept 2026.
+Janaway is a Jungle and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 25 Sept 2026.
 
-Janaway is a jungle and hardcore artist tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: La Cheetah Club, Glasgow on Fri 25 Sept.
+Janaway is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: La Cheetah Club, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Janaway is a jungle and hardcore artist tracked on soundcheck, with 81 sets logg
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

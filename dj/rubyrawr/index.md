@@ -1,8 +1,8 @@
 # RUBY RAWR
 
-RUBY RAWR is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Billy Bootleggers, Nottingham on Sat, 3 Oct 2026.
+RUBY RAWR is a Hardcore and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Billy Bootleggers, Nottingham on Sat, 3 Oct 2026.
 
-RUBY RAWR is a hardcore and bass artist tracked on soundcheck, with 8 sets logged across Manchester and Nottingham. Often billed alongside FKA Hardcore, LUNAx3 and PHIA SKY. Next up: Billy Bootleggers, Nottingham on Sat 3 Oct.
+RUBY RAWR is a hardcore and bass artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Manchester and Nottingham. Often billed alongside FKA Hardcore, LUNAx3 and PHIA SKY. Next up: Billy Bootleggers, Nottingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ RUBY RAWR is a hardcore and bass artist tracked on soundcheck, with 8 sets logge
 
 FKA Hardcore, LUNAx3, PHIA SKY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyrawr/)*

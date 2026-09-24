@@ -1,8 +1,8 @@
 # THELMA
 
-THELMA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
+THELMA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Sucre, Lyon on Sat, 26 Sept 2026.
 
-THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Skin On Skin, Faster Horses and Helena Lauwaert. Next up: Le Sucre, Lyon on Sat 26 Sept.
+THELMA is a techno and house artist based in Switzerland, tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Skin On Skin, Faster Horses and Helena Lauwaert. Next up: Le Sucre, Lyon on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ THELMA is a techno and house artist tracked on soundcheck, with 97 sets logged a
 
 Skin On Skin, Faster Horses, Helena Lauwaert
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

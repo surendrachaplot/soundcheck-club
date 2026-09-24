@@ -1,8 +1,8 @@
 # manu abeca
 
-manu abeca is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Rote Sonne, Munich on Sat, 3 Oct 2026.
+manu abeca is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rote Sonne, Munich on Sat, 3 Oct 2026.
 
-manu abeca is a techno and ambient artist tracked on soundcheck, with 20 sets logged across Berlin, Madrid, Munich and Osaka and 1 more. Often billed alongside bw (AR), Sam Eyvaz and Até.. Next up: Rote Sonne, Munich on Sat 3 Oct.
+manu abeca is a techno and ambient artist based in Argentina, tracked on soundcheck, with 20 sets logged across Berlin, Madrid, Munich and Osaka and 1 more. Often billed alongside bw (AR), Sam Eyvaz and Até.. Next up: Rote Sonne, Munich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ manu abeca is a techno and ambient artist tracked on soundcheck, with 20 sets lo
 
 bw (AR), Sam Eyvaz, Até.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*

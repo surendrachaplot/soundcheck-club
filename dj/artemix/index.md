@@ -1,8 +1,8 @@
 # ARTEMIX
 
-ARTEMIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
+ARTEMIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 3 Oct 2026.
 
-ARTEMIX is a techno and house artist tracked on soundcheck, with 13 sets logged across Philadelphia. Often billed alongside DJ Kalin, Fold Theory and ANDi MANDi. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
+ARTEMIX is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Philadelphia. Often billed alongside DJ Kalin, Fold Theory and ANDi MANDi. Next up: Warehouse on Watts, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ARTEMIX is a techno and house artist tracked on soundcheck, with 13 sets logged 
 
 DJ Kalin, Fold Theory, ANDi MANDi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemix/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemix/)*

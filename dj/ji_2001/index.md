@@ -1,6 +1,6 @@
 # JI_2001
 
-JI_2001 is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+JI_2001 is a Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
 JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Dundee and Edinburgh. Often billed alongside Smiff, Lara Sinclair and Casement. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ JI_2001 is a bass and grime artist based in United Kingdom, tracked on soundchec
 
 Smiff, Lara Sinclair, Casement
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*

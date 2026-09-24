@@ -1,8 +1,8 @@
 # Russian Village Boys
 
-Russian Village Boys is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Russian Village Boys is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Russian Village Boys is a techno and bass artist tracked on soundcheck, with 35 sets logged across Barcelona, Basel, Berlin and Brussels and 13 more. Often billed alongside Angerfist, Hades and OMAKS. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Russian Village Boys is a techno and bass artist based in Germany, tracked on soundcheck, with 35 sets logged across Barcelona, Basel, Berlin and Brussels and 13 more. Often billed alongside Angerfist, Hades and OMAKS. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Russian Village Boys is a techno and bass artist tracked on soundcheck, with 35 
 
 Angerfist, Hades, OMAKS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*

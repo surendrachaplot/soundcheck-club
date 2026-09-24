@@ -1,8 +1,8 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
+Claptone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 26 Sept 2026.
 
-Claptone is a house and tech house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Chinois Ibiza, Ibiza on Sat 26 Sept.
+Claptone is a house and tech house artist based in Germany, tracked on soundcheck, with 233 sets logged across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Chinois Ibiza, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Claptone is a house and tech house artist tracked on soundcheck, with 233 sets l
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

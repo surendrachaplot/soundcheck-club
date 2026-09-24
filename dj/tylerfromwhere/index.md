@@ -1,8 +1,8 @@
 # TYLERFROMWHERE
 
-TYLERFROMWHERE is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
+TYLERFROMWHERE is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Sat, 26 Sept 2026.
 
-TYLERFROMWHERE is a house and disco artist tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Andrew Devlin, DJ Shannon and Extra Meesh. Next up: Signal, Newyorkcity on Sat 26 Sept.
+TYLERFROMWHERE is a house and disco artist based in United States of America, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Andrew Devlin, DJ Shannon and Extra Meesh. Next up: Signal, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ TYLERFROMWHERE is a house and disco artist tracked on soundcheck, with 26 sets l
 
 Andrew Devlin, DJ Shannon, Extra Meesh
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*

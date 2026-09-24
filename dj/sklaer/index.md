@@ -1,8 +1,8 @@
 # Sklaer
 
-Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Péniche Cinéma, Paris on Fri, 25 Sept 2026.
+Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Péniche Cinéma, Paris on Fri, 25 Sept 2026.
 
-Sklaer is a techno and electro artist tracked on soundcheck, with 39 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Ian Maur, Clarence and Clarence Rise. Next up: La Péniche Cinéma, Paris on Fri 25 Sept.
+Sklaer is a techno and electro artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Ian Maur, Clarence and Clarence Rise. Next up: La Péniche Cinéma, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sklaer is a techno and electro artist tracked on soundcheck, with 39 sets logged
 
 Ian Maur, Clarence, Clarence Rise
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*

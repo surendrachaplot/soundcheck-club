@@ -1,14 +1,15 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+D'Julz is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
-D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Traumer. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
+D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Green Room NYC | New York City |
+| Sat, 26 Sept 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Alexander Skancke, DJ Senc, Traumer
+Alexander Skancke, DJ Senc, Shonky
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Doka, Amsterdam on Fri, 25 Sept 2026.
+Vladimir Ivkovic is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Doka, Amsterdam on Fri, 25 Sept 2026.
 
-Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Auckland and Bali and 60 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Doka, Amsterdam on Fri 25 Sept.
+Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Auckland and Bali and 60 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Doka, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 210 se
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Sun, 15 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | Cadavra | Madrid |
+| Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 210 se
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

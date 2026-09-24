@@ -1,6 +1,6 @@
 # Mark Blair
 
-Mark Blair is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
+Mark Blair is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
 Mark Blair is a techno and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Aberdeen, Auckland, Belfast and Brisbane and 17 more. Often billed alongside Yasmin Gardezi, blk. and 999999999. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mark Blair is a techno and house artist based in United Kingdom, tracked on soun
 
 Yasmin Gardezi, blk., 999999999
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markblair/)*

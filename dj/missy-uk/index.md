@@ -1,8 +1,8 @@
 # Missy (UK)
 
-Missy (UK) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Roof 175, Frankfurt on Fri, 25 Sept 2026.
+Missy (UK) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Roof 175, Frankfurt on Fri, 25 Sept 2026.
 
-Missy (UK) is an experimental and techno artist tracked on soundcheck, with 6 sets logged across Frankfurt, Newcastle and Newyorkcity. Often billed alongside LMAC, Toad and BATESY. Next up: Roof 175, Frankfurt on Fri 25 Sept.
+Missy (UK) is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Frankfurt, Newcastle and Newyorkcity. Often billed alongside LMAC, Toad and BATESY. Next up: Roof 175, Frankfurt on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Missy (UK) is an experimental and techno artist tracked on soundcheck, with 6 se
 
 LMAC, Toad, BATESY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missy-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missy-uk/)*

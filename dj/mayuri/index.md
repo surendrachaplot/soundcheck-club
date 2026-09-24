@@ -1,8 +1,8 @@
 # Mayuri
 
-Mayuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
+Mayuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at WOMB, Tokyo on Sat, 26 Sept 2026.
 
-Mayuri is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Tokyo. Often billed alongside Q'hey, Takami and Drunken Kong. Next up: WOMB, Tokyo on Sat 26 Sept.
+Mayuri is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Berlin and Tokyo. Often billed alongside Q'hey, Takami and Drunken Kong. Next up: WOMB, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mayuri is a techno and house artist tracked on soundcheck, with 20 sets logged a
 
 Q'hey, Takami, Drunken Kong
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*

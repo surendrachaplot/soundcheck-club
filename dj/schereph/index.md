@@ -1,8 +1,8 @@
 # schereph
 
-schereph is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Celeste, Vienna on Fri, 9 Oct 2026.
+schereph is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Celeste, Vienna on Fri, 9 Oct 2026.
 
-schereph is a house and disco artist tracked on soundcheck, with 13 sets logged across Munich and Vienna. Often billed alongside Schminz, DJLolo and Momo. Next up: Celeste, Vienna on Fri 9 Oct.
+schereph is a house and disco artist based in Germany, tracked on soundcheck, with 13 sets logged across Munich and Vienna. Often billed alongside Schminz, DJLolo and Momo. Next up: Celeste, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ schereph is a house and disco artist tracked on soundcheck, with 13 sets logged 
 
 Schminz, DJLolo, Momo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schereph/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schereph/)*

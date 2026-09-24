@@ -1,8 +1,8 @@
 # Cathal
 
-Cathal is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cu, London on Fri, 30 Oct 2026.
+Cathal is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cu, London on Fri, 30 Oct 2026.
 
-Cathal is a house and garage artist tracked on soundcheck, with 13 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Luun and Asa Tate. Next up: Cu, London on Fri 30 Oct.
+Cathal is a house and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, Bristol and London. Often billed alongside Horne, Luun and Asa Tate. Next up: Cu, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cathal is a house and garage artist tracked on soundcheck, with 13 sets logged a
 
 Horne, Luun, Asa Tate
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cathal/)*

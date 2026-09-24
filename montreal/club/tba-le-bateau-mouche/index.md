@@ -1,6 +1,6 @@
 # TBA - LE BATEAU-MOUCHE
 
-TBA - LE BATEAU-MOUCHE is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "TRANSITION présente SONAR + AFTER PARTY" on Fri, 2 Oct 2026.
+TBA - LE BATEAU-MOUCHE is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "TRANSITION présente SONAR + AFTER PARTY" on Fri, 2 Oct 2026.
 
 TBA - LE BATEAU-MOUCHE is a music venue in Montreal listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - LE BATEAU-MOUCHE is a music venue in Montreal listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TRANSITION présente SONAR + AFTER PARTY |  |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-le-bateau-mouche/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/tba-le-bateau-mouche/)*

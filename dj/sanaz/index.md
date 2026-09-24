@@ -1,6 +1,6 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
+Sanaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
 
 Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sanaz is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Immy, Jessica Nightlife, Dornika
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

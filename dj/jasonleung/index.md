@@ -1,8 +1,8 @@
 # Jason Leung
 
-Jason Leung is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Timber Loft, London on Sun, 27 Sept 2026.
+Jason Leung is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Timber Loft, London on Sun, 27 Sept 2026.
 
-Jason Leung is a house and jazz artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Grace Sands, EVM128 and Goldbar. Next up: The Timber Loft, London on Sun 27 Sept.
+Jason Leung is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Grace Sands, EVM128 and Goldbar. Next up: The Timber Loft, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jason Leung is a house and jazz artist tracked on soundcheck, with 18 sets logge
 
 Grace Sands, EVM128, Goldbar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonleung/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonleung/)*

@@ -1,6 +1,6 @@
 # Max Glyde
 
-Max Glyde is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
+Max Glyde is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
 
 Max Glyde is a techno and tech house artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Etwas, Matteo Freyrie and HYBE. Next up: Max Watt's, Melbourne on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Max Glyde is a techno and tech house artist based in Australia, tracked on sound
 
 Etwas, Matteo Freyrie, HYBE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxglyde/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxglyde/)*

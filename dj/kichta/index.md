@@ -1,8 +1,8 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 10 Oct 2026.
+Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 10 Oct 2026.
 
-Kichta is a techno and trance artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: 821 Runnymede Rd, Toronto on Sat 10 Oct.
+Kichta is a techno and trance artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: 821 Runnymede Rd, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Kichta is a techno and trance artist tracked on soundcheck, with 42 sets logged 
 
 Amøn, KLING&KLANG, Cobb Douglas
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

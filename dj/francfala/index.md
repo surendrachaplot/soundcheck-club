@@ -1,8 +1,8 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
+Franc Fala is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
 
-Franc Fala is a house and afro house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Basel and Brussels and 11 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Supermarket, Zurich on Fri 2 Oct.
+Franc Fala is a house and afro house artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Basel and Brussels and 11 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Supermarket, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Franc Fala is a house and afro house artist tracked on soundcheck, with 37 sets 
 
 Benja, Benja (NL), Cincity
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

@@ -1,6 +1,6 @@
 # Gianluca Felline
 
-Gianluca Felline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Gianluca Felline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Gianluca Felline is a minimal and house artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Hamburg, Riga and Zurich. Often billed alongside Funk Cartel, Oscar Jones and Ted Amber. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Gianluca Felline is a minimal and house artist based in Switzerland, tracked on 
 
 Funk Cartel, Oscar Jones, Ted Amber
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianlucafelline/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianlucafelline/)*

@@ -1,6 +1,6 @@
-# Kolter & Friends [Day & Night Party] at The Cause
+# Kolter & Friends - Day & Night Party at The Cause
 
-Kolter & Friends [Day & Night Party] at The Cause on Sat 26 Sept, London. 11 acts on the bill: Cinthie, COZi, Dale Hart and Eileen (NL) and 7 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Kolter & Friends - Day & Night Party at The Cause on Sat 26 Sept, London. 11 acts on the bill: Cinthie, COZi, Dale Hart and Eileen (NL) and 7 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

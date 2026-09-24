@@ -1,8 +1,8 @@
 # PAYDAR
 
-PAYDAR is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Fri, 16 Oct 2026.
+PAYDAR is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Fri, 16 Oct 2026.
 
-PAYDAR is a club and electronica artist tracked on soundcheck, with 22 sets logged across Bangkok, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Dj Paydar, CHAMOS and Gavnlig. Next up: Colour Factory, London on Fri 16 Oct.
+PAYDAR is a club and electronica artist based in Denmark, tracked on soundcheck, with 22 sets logged across Bangkok, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Dj Paydar, CHAMOS and Gavnlig. Next up: Colour Factory, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PAYDAR is a club and electronica artist tracked on soundcheck, with 22 sets logg
 
 Dj Paydar, CHAMOS, Gavnlig
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paydar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paydar/)*

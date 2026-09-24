@@ -1,8 +1,8 @@
 # Tiesto
 
-Tiesto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Tiesto is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Tiesto is a house and techno artist tracked on soundcheck, with 60 sets logged across Austin, Brussels, Chicago and Ibiza and 13 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Tiesto is a house and techno artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Austin, Brussels, Chicago and Ibiza and 13 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Tiesto is a house and techno artist tracked on soundcheck, with 60 sets logged a
 
 Chris Lake, Kaskade, Matroda
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*

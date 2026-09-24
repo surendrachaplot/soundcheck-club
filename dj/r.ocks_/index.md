@@ -1,8 +1,8 @@
 # R.ocks
 
-R.ocks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
+R.ocks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
 
-R.ocks is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin and Milan. Often billed alongside Kingsizebed, 131bpm and Aaron Blau. Next up: Department 184, Milan on Fri 25 Sept.
+R.ocks is a house and techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Berlin and Milan. Often billed alongside Kingsizebed, 131bpm and Aaron Blau. Next up: Department 184, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ R.ocks is a house and techno artist tracked on soundcheck, with 30 sets logged a
 
 Kingsizebed, 131bpm, Aaron Blau
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r.ocks_/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r.ocks_/)*

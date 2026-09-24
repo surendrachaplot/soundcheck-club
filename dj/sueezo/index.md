@@ -1,8 +1,8 @@
 # Sueezo
 
-Sueezo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Sueezo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-Sueezo is a house and tech house artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Pau Pérez, Pin and Varis. Next up: Spook Club, Valencia on Sat 26 Sept.
+Sueezo is a house and tech house artist based in Spain, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Budapest and Dublin and 9 more. Often billed alongside Pau Pérez, Pin and Varis. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Sueezo is a house and tech house artist tracked on soundcheck, with 76 sets logg
 
 Pau Pérez, Pin, Varis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sueezo/)*

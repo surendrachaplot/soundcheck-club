@@ -1,8 +1,8 @@
 # Less-O
 
-Less-O is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Less-O is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
-Less-O is a techno and drum & bass artist tracked on soundcheck, with 16 sets logged across Lyon, Nantes, Paris and Strasbourg. Often billed alongside STL-P, Simo Cell and Another Pixel. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
+Less-O is a techno and drum & bass artist based in France, tracked on soundcheck, with 16 sets logged across Lyon, Nantes, Paris and Strasbourg. Often billed alongside STL-P, Simo Cell and Another Pixel. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Less-O is a techno and drum & bass artist tracked on soundcheck, with 16 sets lo
 
 STL-P, Simo Cell, Another Pixel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/less-o/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/less-o/)*

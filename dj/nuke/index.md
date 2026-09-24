@@ -1,8 +1,8 @@
 # Nuke
 
-Nuke is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ART Madrid Club, Madrid on Fri, 25 Sept 2026.
+Nuke is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ART Madrid Club, Madrid on Fri, 25 Sept 2026.
 
-Nuke is a techno and tech house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside CESAR ALMENA, Parsa Jafari and Raul Ortiz. Next up: ART Madrid Club, Madrid on Fri 25 Sept.
+Nuke is a techno and tech house artist based in Spain, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside CESAR ALMENA, Parsa Jafari and Raul Ortiz. Next up: ART Madrid Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nuke is a techno and tech house artist tracked on soundcheck, with 91 sets logge
 | Fri, 16 Oct 2026 | ART Madrid Club | Madrid |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Nuke is a techno and tech house artist tracked on soundcheck, with 91 sets logge
 
 CESAR ALMENA, Parsa Jafari, Raul Ortiz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*

@@ -1,8 +1,8 @@
 # Digi Doll
 
-Digi Doll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Indoor Inner-west location, Sydney on Sat, 17 Oct 2026.
+Digi Doll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Indoor Inner-west location, Sydney on Sat, 17 Oct 2026.
 
-Digi Doll is a techno and house artist tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside PARTIGIRL, Domonique Dee and MINI SKIRT MIDI. Next up: TBA - Indoor Inner-west location, Sydney on Sat 17 Oct.
+Digi Doll is a techno and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside PARTIGIRL, Domonique Dee and MINI SKIRT MIDI. Next up: TBA - Indoor Inner-west location, Sydney on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Digi Doll is a techno and house artist tracked on soundcheck, with 8 sets logged
 
 PARTIGIRL, Domonique Dee, MINI SKIRT MIDI
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digidoll/)*

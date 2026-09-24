@@ -1,8 +1,8 @@
 # Artificial DNA
 
-Artificial DNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MTW, Frankfurt on Sat, 14 Nov 2026.
+Artificial DNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MTW, Frankfurt on Sat, 14 Nov 2026.
 
-Artificial DNA is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt, Leipzig and Stuttgart. Often billed alongside Øscil, Ced Healing and FACIN. Next up: MTW, Frankfurt on Sat 14 Nov.
+Artificial DNA is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt, Leipzig and Stuttgart. Often billed alongside Øscil, Ced Healing and FACIN. Next up: MTW, Frankfurt on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Artificial DNA is a techno and house artist tracked on soundcheck, with 11 sets 
 
 Øscil, Ced Healing, FACIN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artificialdna/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artificialdna/)*

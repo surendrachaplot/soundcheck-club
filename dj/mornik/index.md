@@ -1,6 +1,6 @@
 # Mornik
 
-Mornik is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Paris, Paris on Sat, 17 Oct 2026.
+Mornik is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Paris, Paris on Sat, 17 Oct 2026.
 
 Mornik is a deep house and tech house artist based in Slovenia, tracked on soundcheck, with 9 sets logged across Berlin, Lyon, Paris and Vienna. Often billed alongside Apua, Tzena and Moare. Next up: TBA - Paris, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mornik is a deep house and tech house artist based in Slovenia, tracked on sound
 
 Apua, Tzena, Moare
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mornik/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mornik/)*

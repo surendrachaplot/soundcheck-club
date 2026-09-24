@@ -1,8 +1,8 @@
 # Gabriella Vergilov
 
-Gabriella Vergilov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
+Gabriella Vergilov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
 
-Gabriella Vergilov is a techno and house artist tracked on soundcheck, with 39 sets logged across Basel, Berlin, Brussels and Budapest and 5 more. Often billed alongside Ida Aya, Miss Puppy and Slumjuice. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
+Gabriella Vergilov is a techno and house artist based in Bulgaria, tracked on soundcheck, with 39 sets logged across Basel, Berlin, Brussels and Budapest and 5 more. Often billed alongside Ida Aya, Miss Puppy and Slumjuice. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gabriella Vergilov is a techno and house artist tracked on soundcheck, with 39 s
 
 Ida Aya, Miss Puppy, Slumjuice
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellavergilov/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellavergilov/)*

@@ -1,8 +1,8 @@
 # Spingall
 
-Spingall is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cu, London on Fri, 2 Oct 2026.
+Spingall is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cu, London on Fri, 2 Oct 2026.
 
-Spingall is a house and tech house artist tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside BIG REG, Gingall and Dan Zero. Next up: Cu, London on Fri 2 Oct.
+Spingall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside BIG REG, Gingall and Dan Zero. Next up: Cu, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Spingall is a house and tech house artist tracked on soundcheck, with 14 sets lo
 
 BIG REG, Gingall, Dan Zero
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spingall/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spingall/)*

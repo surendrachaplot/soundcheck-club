@@ -1,6 +1,6 @@
 # Atlantic Sound
 
-Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "7ª Dymension LA MERCÉ" on Fri, 25 Sept 2026.
+Atlantic Sound is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "7ª Dymension LA MERCÉ" on Fri, 25 Sept 2026.
 
 Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AREA ØNE and Jan Krøw. Browse upcoming dates, start times and who's playing. Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Atlantic Sound is a music venue in Barcelona listed on soundcheck. 2 upcoming gi
 
 Carrer del Plom, 1, Sants-Montjuïc, 08038 Barcelona, Barcelona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/atlantic-sound/)*

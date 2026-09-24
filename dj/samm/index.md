@@ -1,14 +1,14 @@
 # Samm
 
-Samm is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tunnel, Milan on Thu, 24 Sept 2026.
+Samm is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Magazzini Generali, Milan on Thu, 24 Sept 2026.
 
-Samm is a house and deep house artist based in Greece, tracked on soundcheck, with 14 sets logged across Amsterdam, Hamburg, Ibiza and London and 4 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Tunnel, Milan on Thu 24 Sept.
+Samm is a house and deep house artist based in Greece, tracked on soundcheck, with 14 sets logged across Amsterdam, Hamburg, Ibiza and London and 4 more. Often billed alongside AJNA, Andrea Oliva and Adriatique. Next up: Magazzini Generali, Milan on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Tunnel | Milan |
+| Thu, 24 Sept 2026 | Magazzini Generali | Milan |
 | Fri, 2 Oct 2026 | Lula Club | Madrid |
 | Mon, 12 Oct 2026 | Parc Jean-Drapeau | Montreal |
 | Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
@@ -29,4 +29,4 @@ Samm is a house and deep house artist based in Greece, tracked on soundcheck, wi
 
 AJNA, Andrea Oliva, Adriatique
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

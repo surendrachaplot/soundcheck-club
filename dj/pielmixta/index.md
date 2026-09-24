@@ -1,6 +1,6 @@
 # Piel Mixta
 
-Piel Mixta is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
+Piel Mixta is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
 
 Piel Mixta is a club and latin bass artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Krakow and Lisbon and 4 more. Often billed alongside Alvva, AMANTRA and DJ2D2. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Piel Mixta is a club and latin bass artist based in Spain, tracked on soundcheck
 
 Alvva, AMANTRA, DJ2D2
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pielmixta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pielmixta/)*

@@ -1,8 +1,8 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 26 Sept 2026.
+Sante Sansone is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 26 Sept 2026.
 
-Sante Sansone is a tech house and house artist tracked on soundcheck, with 41 sets logged across Barcelona, Boston, Buenosaires and Frankfurt and 17 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Studio Club Malaga, Malaga on Sat 26 Sept.
+Sante Sansone is a tech house and house artist based in Italy, tracked on soundcheck, with 42 sets logged across All, Barcelona, Boston and Buenosaires and 18 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: Studio Club Malaga, Malaga on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sante Sansone is a tech house and house artist tracked on soundcheck, with 41 se
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Studio Club Malaga | Malaga |
 | Sun, 27 Sept 2026 | Cova Santa | Ibiza |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sante Sansone is a tech house and house artist tracked on soundcheck, with 41 se
 
 Hector Couto, Pirate Copy, Ammo Avenue
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*

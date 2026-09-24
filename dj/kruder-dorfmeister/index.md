@@ -1,6 +1,6 @@
 # Kruder & Dorfmeister
 
-Kruder & Dorfmeister is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Commodore Ballroom, Vancouver on Tue, 29 Sept 2026.
+Kruder & Dorfmeister is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Commodore Ballroom, Vancouver on Tue, 29 Sept 2026.
 
 Kruder & Dorfmeister are a techno and electronica duo based in Austria, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Basel and Berlin and 18 more. Often billed alongside Carl Craig, Bonobo and Dixon. Next up: Commodore Ballroom, Vancouver on Tue 29 Sept.
 
@@ -26,4 +26,4 @@ Kruder & Dorfmeister are a techno and electronica duo based in Austria, tracked 
 
 Carl Craig, Bonobo, Dixon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kruder-dorfmeister/)*

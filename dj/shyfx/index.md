@@ -1,8 +1,8 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at FORGE, Sheffield on Sat, 26 Sept 2026.
+Shy FX is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FORGE, Sheffield on Sat, 26 Sept 2026.
 
-Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: FORGE, Sheffield on Sat 26 Sept.
+Shy FX is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: FORGE, Sheffield on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Shy FX is a drum & bass and jungle artist tracked on soundcheck, with 67 sets lo
 
 Wilkinson, Chimpo, Andy C
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

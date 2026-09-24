@@ -1,8 +1,8 @@
 # Sky Deep
 
-Sky Deep is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
+Sky Deep is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
 
-Sky Deep is a techno and progressive house artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside materia hache, KH38 and 2FARO. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
+Sky Deep is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside materia hache, KH38 and 2FARO. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sky Deep is a techno and progressive house artist tracked on soundcheck, with 21
 
 materia hache, KH38, 2FARO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skydeep/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skydeep/)*

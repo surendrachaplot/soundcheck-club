@@ -1,8 +1,8 @@
 # MRWIZE
 
-MRWIZE is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Toronto on Fri, 25 Sept 2026.
+MRWIZE is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Toronto on Fri, 25 Sept 2026.
 
-MRWIZE is a club and baile funk artist tracked on soundcheck, with 12 sets logged across Berlin, Glasgow, Helsinki and London and 3 more. Often billed alongside Mvcoko, PLUSHB4BY and AEIDA. Next up: TBA, Toronto on Fri 25 Sept.
+MRWIZE is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Glasgow, Helsinki and London and 3 more. Often billed alongside Mvcoko, PLUSHB4BY and AEIDA. Next up: TBA, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MRWIZE is a club and baile funk artist tracked on soundcheck, with 12 sets logge
 
 Mvcoko, PLUSHB4BY, AEIDA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwize/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrwize/)*

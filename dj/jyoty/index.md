@@ -1,8 +1,8 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 25 Sept 2026.
+Jyoty is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: The Regency Ballroom, Sanfrancisco on Fri 25 Sept.
+Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: The Regency Ballroom, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Jyoty is a house and techno artist tracked on soundcheck, with 138 sets logged a
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

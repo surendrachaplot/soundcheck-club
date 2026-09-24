@@ -1,8 +1,8 @@
 # sergione
 
-sergione is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
+sergione is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
 
-sergione is an electronica and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Ludviq, Jo Kazan and AlesaDJ. Next up: Macarena Club, Barcelona on Fri 23 Oct.
+sergione is an electronica and electro artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Ludviq, Jo Kazan and AlesaDJ. Next up: Macarena Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ sergione is an electronica and electro artist tracked on soundcheck, with 16 set
 
 Ludviq, Jo Kazan, AlesaDJ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergione/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergione/)*

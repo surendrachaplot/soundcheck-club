@@ -1,6 +1,6 @@
 # AZ (JP)
 
-AZ (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at flo Soakin, Osaka on Fri, 2 Oct 2026.
+AZ (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at flo Soakin, Osaka on Fri, 2 Oct 2026.
 
 AZ (JP) is a techno and house artist based in Japan, tracked on soundcheck, with 5 sets logged across Osaka, Paris, Shanghai and Tokyo. Often billed alongside 24sex-b, Aroop Roy and Daisuke Kakimoto. Next up: flo Soakin, Osaka on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ AZ (JP) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 24sex-b, Aroop Roy, Daisuke Kakimoto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/az/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/az/)*

@@ -1,8 +1,8 @@
 # Kathryn
 
-Kathryn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Meraki, Liverpool on Fri, 25 Sept 2026.
+Kathryn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meraki, Liverpool on Fri, 25 Sept 2026.
 
-Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged across Liverpool. Often billed alongside Aly P, Kirwan and Pea (5). Next up: Meraki, Liverpool on Fri 25 Sept.
+Kathryn is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Liverpool. Often billed alongside Aly P, Kirwan and Pea (5). Next up: Meraki, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kathryn is a house and techno artist tracked on soundcheck, with 10 sets logged 
 
 Aly P, Kirwan, Pea (5)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathryn-uk/)*

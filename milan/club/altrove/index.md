@@ -1,6 +1,6 @@
 # Altrove
 
-Altrove is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "MFW AFTERPARTY W/ LEONARDO VALENTINI" on Thu, 24 Sept 2026.
+Altrove is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MFW AFTERPARTY W/ LEONARDO VALENTINI" on Thu, 24 Sept 2026.
 
 Altrove is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including David Fogarty, Deyayu, Fybes and Gabriele and 2 more. Browse upcoming dates, start times and who's playing. Via Arcangelo Corelli, 27, 20134 Milano MI, Italy.
 
@@ -16,4 +16,4 @@ Altrove is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with li
 
 Via Arcangelo Corelli, 27, 20134 Milano MI, Italy, Milan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*

@@ -1,6 +1,6 @@
 # New Nostalgia
 
-New Nostalgia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
+New Nostalgia is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 New Nostalgia is a club and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Vertigo, erika (SF) and Clearcast. Next up: The Midway, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ New Nostalgia is a club and house artist based in United States of America, trac
 
 Vertigo, erika (SF), Clearcast
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newnostalgia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newnostalgia/)*

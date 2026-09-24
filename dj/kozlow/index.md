@@ -1,8 +1,8 @@
 # KOZLOW
 
-KOZLOW is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, New York City on Sat, 10 Oct 2026.
+KOZLOW is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Sat, 10 Oct 2026.
 
-KOZLOW is a house and tech house artist tracked on soundcheck, with 20 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Tolga, Orson (2) and Amanda Simpson. Next up: TBA, Newyorkcity on Sat 10 Oct.
+KOZLOW is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across London, Mexicocity and Newyorkcity. Often billed alongside Tolga, Orson (2) and Amanda Simpson. Next up: TBA, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KOZLOW is a house and tech house artist tracked on soundcheck, with 20 sets logg
 
 Tolga, Orson (2), Amanda Simpson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*

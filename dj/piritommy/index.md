@@ -1,8 +1,8 @@
 # Piri & Tommy
 
-Piri & Tommy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FORGE, Sheffield on Sun, 25 Oct 2026.
+Piri & Tommy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
-Piri & Tommy are a drum & bass and garage duo tracked on soundcheck, with 11 sets logged across Bristol, Ibiza, Leeds and Leipzig and 3 more. Often billed alongside Nia Archives, Tommy (2) and salute. Next up: FORGE, Sheffield on Sun 25 Oct.
+Piri & Tommy are a drum & bass and garage duo based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bristol, Ibiza, Leeds and Leipzig and 3 more. Often billed alongside Nia Archives, Tommy (2) and salute. Next up: FORGE, Sheffield on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Piri & Tommy are a drum & bass and garage duo tracked on soundcheck, with 11 set
 
 Nia Archives, Tommy (2), salute
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piritommy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piritommy/)*

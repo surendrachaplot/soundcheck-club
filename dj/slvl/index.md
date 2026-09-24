@@ -1,8 +1,8 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Art School, Glasgow on Fri, 25 Sept 2026.
+SLVL is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Art School, Glasgow on Fri, 25 Sept 2026.
 
-SLVL is a techno and industrial artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: The Art School, Glasgow on Fri 25 Sept.
+SLVL is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: The Art School, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 83 sets logge
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Art School | Glasgow |
 | Fri, 2 Oct 2026 | Airport Würzburg | Nürnberg |
+| Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -32,4 +33,4 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 83 sets logge
 
 KLOFAMA, KARAH, KRUELTY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

@@ -1,13 +1,14 @@
 # MALENA
 
-MALENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+MALENA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pllek, Amsterdam on Sun, 25 Oct 2026.
 
-MALENA is a house and techno artist based in Argentina, tracked on soundcheck, with 62 sets logged across Barcelona, Buenosaires, Hamburg and Ibiza and 6 more. Often billed alongside Acidnena, Berenice and Bruno (ES). Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
+MALENA is a house and techno artist based in Argentina, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Buenosaires and Hamburg and 7 more. Often billed alongside Nicolas Lutz, Acidnena and Berenice. Next up: Pllek, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ MALENA is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 ## Shares bills with
 
-Acidnena, Berenice, Bruno (ES)
+Nicolas Lutz, Acidnena, Berenice
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malena/)*

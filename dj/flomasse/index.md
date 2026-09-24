@@ -1,8 +1,8 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Flo Massé is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
-Flo Massé is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
+Flo Massé is a house and techno artist based in Brazil, tracked on soundcheck, with 116 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 116 sets log
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

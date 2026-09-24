@@ -1,6 +1,6 @@
 # Qwenty
 
-Qwenty is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 3 Oct 2026.
+Qwenty is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 3 Oct 2026.
 
 Qwenty is a house and techno artist based in Italy, tracked on soundcheck, with 12 sets logged across Copenhagen and Paris. Often billed alongside DJ B2B, ASTA MARI and Adam Eisert. Next up: Sigurd CPH, Copenhagen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Qwenty is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 DJ B2B, ASTA MARI, Adam Eisert
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qwenty/)*

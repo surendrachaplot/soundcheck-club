@@ -1,8 +1,8 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OneSixOne, Melbourne on Fri, 25 Sept 2026.
+RSquared is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OneSixOne, Melbourne on Fri, 25 Sept 2026.
 
-RSquared is a tech house and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Birmingham and Brisbane and 17 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: OneSixOne, Melbourne on Fri 25 Sept.
+RSquared is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Birmingham and Brisbane and 17 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: OneSixOne, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ RSquared is a tech house and house artist tracked on soundcheck, with 58 sets lo
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

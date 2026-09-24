@@ -1,6 +1,6 @@
 # Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta at Het Sieraad
 
-Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta at Het Sieraad on Thu 22 Oct, Amsterdam. 4 acts on the bill: Adam Ten, Mita Gami, Tom Zeta and Yamagucci (2). Deep House. Preview the line-up and save it on soundcheck.
+Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta at Het Sieraad on Thu 22 Oct, Amsterdam. 6 acts on the bill: Adam Ten, Kim April, Laura De Greef and Mita Gami and 2 more. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Adam Ten b2b Mita Gami - Yamagucci - Tom Zeta at Het Sieraad on Thu 22 Oct, Amst
 ## Line-up
 
 - Adam Ten
+- Kim April
+- Laura De Greef
 - Mita Gami
 - Tom Zeta
 - Yamagucci (2)

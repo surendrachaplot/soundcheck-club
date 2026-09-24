@@ -1,8 +1,8 @@
 # Direkt
 
-Direkt is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
+Direkt is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Climax-Institutes, Stuttgart on Fri, 25 Sept 2026.
 
-Direkt is a house and minimal artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Enzo Muro, Ray Kash and ALKMST. Next up: Climax-Institutes, Stuttgart on Fri 25 Sept.
+Direkt is a house and minimal artist based in Romania, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Enzo Muro, Ray Kash and ALKMST. Next up: Climax-Institutes, Stuttgart on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Direkt is a house and minimal artist tracked on soundcheck, with 38 sets logged 
 
 Enzo Muro, Ray Kash, ALKMST
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/direkt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/direkt/)*

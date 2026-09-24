@@ -1,14 +1,15 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BASEMENT, New York City on Fri, 16 Oct 2026.
+Byron Yeates is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Fri, 16 Oct 2026.
 
-Byron Yeates is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside THC, DHC and Angel D'lite. Next up: BASEMENT, Newyorkcity on Fri 16 Oct.
+Byron Yeates is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Bali and Barcelona and 46 more. Often billed alongside THC, DHC and Angel D'lite. Next up: BASEMENT, Newyorkcity on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | BASEMENT | New York City |
+| Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 190 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

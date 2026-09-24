@@ -1,8 +1,8 @@
 # Decius
 
-Decius is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at New Century Locker, Manchester on Fri, 30 Oct 2026.
+Decius is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at New Century Locker, Manchester on Fri, 30 Oct 2026.
 
-Decius is a techno and house artist tracked on soundcheck, with 29 sets logged across Berlin, Bristol, Bucharest and Dublin and 11 more. Often billed alongside Erol Alkan, Tia Cousins and babyschön. Next up: New Century Locker, Manchester on Fri 30 Oct.
+Decius is a techno and house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Bristol, Bucharest and Dublin and 11 more. Often billed alongside Erol Alkan, Tia Cousins and babyschön. Next up: New Century Locker, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Decius is a techno and house artist tracked on soundcheck, with 29 sets logged a
 
 Erol Alkan, Tia Cousins, babyschön
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/decius-2/)*

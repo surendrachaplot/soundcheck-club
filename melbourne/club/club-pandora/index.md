@@ -1,6 +1,6 @@
 # Club Pandora
 
-Club Pandora is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "VIPER ROOM - Day to Night: DJ KAT IS BACK" on Sat, 3 Oct 2026.
+Club Pandora is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "VIPER ROOM - Day to Night: DJ KAT IS BACK" on Sat, 3 Oct 2026.
 
 Club Pandora is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 127 Dorcas St, South Melbourne VIC 3205.
 
@@ -14,4 +14,4 @@ Club Pandora is a music venue in Melbourne listed on soundcheck. 1 upcoming gig.
 
 127 Dorcas St, South Melbourne VIC 3205, Melbourne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/club-pandora/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/club-pandora/)*

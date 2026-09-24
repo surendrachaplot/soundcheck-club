@@ -1,8 +1,8 @@
 # DDAT
 
-DDAT is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
+DDAT is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 9 Oct 2026.
 
-DDAT is an electronic artist tracked on soundcheck, with 7 sets logged across Prague. Often billed alongside Madeleine, Atch22 and Kobayashi Maru. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
+DDAT is an electronic artist based in Czech Republic, tracked on soundcheck, with 7 sets logged across Prague. Often billed alongside Madeleine, Atch22 and Kobayashi Maru. Next up: Ankali & Planeta Za, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ DDAT is an electronic artist tracked on soundcheck, with 7 sets logged across Pr
 
 Madeleine, Atch22, Kobayashi Maru
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddat/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddat/)*

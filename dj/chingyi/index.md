@@ -1,8 +1,8 @@
 # Chingyi
 
-Chingyi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Hong Kong on Fri, 2 Oct 2026.
+Chingyi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Hong Kong on Fri, 2 Oct 2026.
 
-Chingyi is a techno and house artist tracked on soundcheck, with 30 sets logged across Hongkong, Lisbon, Seoul and Shanghai. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: TBA, Hongkong on Fri 2 Oct.
+Chingyi is a techno and house artist based in China, tracked on soundcheck, with 30 sets logged across Hongkong, Lisbon, Seoul and Shanghai. Often billed alongside ADRIANNA.C, AngeliKa and Faxtory. Next up: TBA, Hongkong on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chingyi is a techno and house artist tracked on soundcheck, with 30 sets logged 
 
 ADRIANNA.C, AngeliKa, Faxtory
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chingyi/)*

@@ -1,6 +1,6 @@
 # 4AM Network x Loos ADE 2026 at Waterhouse Studios
 
-4AM Network x Loos ADE 2026 at Waterhouse Studios on Sun 25 Oct, Amsterdam. 7 acts on the bill: André Galluzzi, Dana Ruh, ESTRELLA and Junior Pappa and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+4AM Network x Loos ADE 2026 at Waterhouse Studios on Sun 25 Oct, Amsterdam. 8 acts on the bill: Acopo, André Galluzzi, Dana Ruh and ESTRELLA and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Acopo
 - André Galluzzi
 - Dana Ruh
 - ESTRELLA

@@ -1,6 +1,6 @@
 # La Nube
 
-La Nube is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "999 x Nada pres. David Löhlein" on Fri, 16 Oct 2026.
+La Nube is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "999 x Nada pres. David Löhlein" on Fri, 16 Oct 2026.
 
 La Nube is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, with line-ups including David Löhlein. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Nube is a music venue in Buenosaires listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | 999 x Nada pres. David Löhlein | David Löhlein |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*

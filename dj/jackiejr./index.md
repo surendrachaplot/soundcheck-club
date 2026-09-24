@@ -1,8 +1,8 @@
 # Jackie Jr.
 
-Jackie Jr. is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+Jackie Jr. is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
 
-Jackie Jr. is a garage and house artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside T.NO, Styn and Bclip. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
+Jackie Jr. is a garage and house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside T.NO, Styn and Bclip. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Jackie Jr. is a garage and house artist tracked on soundcheck, with 7 sets logge
 
 T.NO, Styn, Bclip
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiejr./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiejr./)*

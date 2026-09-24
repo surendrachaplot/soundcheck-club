@@ -1,6 +1,6 @@
 # DOT at Compufunk Records
 
-DOT at Compufunk Records on Fri 25 Sept, Osaka. 2 acts on the bill: 77Mushrooms and Sinqmin. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+DOT at Compufunk Records on Fri 25 Sept, Osaka. 3 acts on the bill: IKUZO, Sinqmin and Yudai Sugiyama. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,8 @@ DOT at Compufunk Records on Fri 25 Sept, Osaka. 2 acts on the bill: 77Mushrooms 
 
 ## Line-up
 
-- 77Mushrooms
+- IKUZO
 - Sinqmin
+- Yudai Sugiyama
 
 *Source: [soundcheck](https://soundcheck.club/e/2536054-dot-at-compufunk-records/)*

@@ -1,8 +1,8 @@
 # Piezo
 
-Piezo is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 25 Sept 2026.
+Piezo is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 25 Sept 2026.
 
-Piezo is a techno and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside upsammy, CCL and mad miran. Next up: THE MAGICK BAR, Rome on Fri 25 Sept.
+Piezo is a techno and bass artist based in Italy, tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside upsammy, CCL and mad miran. Next up: THE MAGICK BAR, Rome on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Piezo is a techno and bass artist tracked on soundcheck, with 112 sets logged ac
 
 upsammy, CCL, mad miran
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piezo/)*

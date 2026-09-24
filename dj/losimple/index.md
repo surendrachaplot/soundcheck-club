@@ -1,8 +1,8 @@
 # Lo Simple
 
-Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Lo Simple is an electronic artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Angel D'lite, Authentically Plastic and Beneath. Next up: Ormside Projects, London on Sat 26 Sept.
+Lo Simple is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Angel D'lite, Authentically Plastic and Beneath. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Lo Simple is an electronic artist tracked on soundcheck, with 5 sets logged acro
 
 Angel D'lite, Authentically Plastic, Beneath
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*

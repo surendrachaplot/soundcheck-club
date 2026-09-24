@@ -1,14 +1,13 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "M7 presenta: CARAVEL, SuttleK, Mary Ann, Adviro, Marc Fx & Hommiecdall" on Wed, 23 Sept 2026.
+M7 Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HARD BOUNCE [Adviro & Marc FX]" on Thu, 24 Sept 2026.
 
-M7 Club is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and CARAVEL and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
+M7 Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including Adviro, ArceX, BreakStyle and DAISY and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | M7 presenta: CARAVEL, SuttleK, Mary Ann, Adviro, Marc Fx & Hommiecdall | Adviro, CARAVEL, SuttleK |
 | Thu, 24 Sept 2026 | HARD BOUNCE [Adviro & Marc FX] | Adviro |
 | Fri, 25 Sept 2026 | M7 presenta: Eva Toya, Matt.p, Deiluss, Muso, Adviro & Marc Fx | Adviro, Eva Toya, Matt.p |
 | Sat, 26 Sept 2026 | JULIO POSADAS 'LA HISTORIA' |  |
@@ -18,9 +17,10 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, wi
 | Thu, 1 Oct 2026 | HARD BOUNCE [Güti & Marc Fx] |  |
 | Fri, 2 Oct 2026 | Bipolar Disorder x Sociedad Groove | DD.MATTS, GLIA, H-R-Z, SYM, The Chronics |
 | Fri, 2 Oct 2026 | HARD BOUNCE [FØBIA, Marc Fx] | FØBIA |
+| Sat, 3 Oct 2026 | M7 presenta [Up Room] Xavi BCN, BreakStyle, Javi Guerrero [Main Room] Adviro, Kova, Noisemafia | Adviro, BreakStyle, Noise Mafia, Xavi BCN |
 
 ## Address
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

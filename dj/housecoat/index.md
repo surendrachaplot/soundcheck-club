@@ -1,8 +1,8 @@
 # Housecoat
 
-Housecoat is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Housecoat is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-Housecoat is a house and balearic artist tracked on soundcheck, with 5 sets logged across Miami and Newyorkcity. Often billed alongside Kenia, Bill Patrick and David Triana. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Housecoat is a house and balearic artist based in Lebanon, tracked on soundcheck, with 5 sets logged across Miami and Newyorkcity. Often billed alongside Kenia, Bill Patrick and David Triana. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Housecoat is a house and balearic artist tracked on soundcheck, with 5 sets logg
 
 Kenia, Bill Patrick, David Triana
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housecoat/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housecoat/)*

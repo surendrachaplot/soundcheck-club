@@ -1,8 +1,8 @@
 # Gaetano Parisio
 
-Gaetano Parisio is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Fri, 6 Nov 2026.
+Gaetano Parisio is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Fri, 6 Nov 2026.
 
-Gaetano Parisio is a techno and minimal techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Victor Fernandez, Dave Clarke and Justine Perry. Next up: Ormside Projects, London on Fri 6 Nov.
+Gaetano Parisio is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Victor Fernandez, Dave Clarke and Justine Perry. Next up: Ormside Projects, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gaetano Parisio is a techno and minimal techno artist tracked on soundcheck, wit
 
 Victor Fernandez, Dave Clarke, Justine Perry
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaetanoparisio/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaetanoparisio/)*

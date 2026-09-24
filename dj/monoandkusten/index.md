@@ -1,8 +1,8 @@
 # Mono and Kusten
 
-Mono and Kusten is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
+Mono and Kusten is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
 
-Mono and Kusten are a house and techno duo tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside Schlawinsky, Neobeo and Andreas Balicki. Next up: Turtur, Hamburg on Sat 26 Sept.
+Mono and Kusten are a house and techno duo based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Hamburg. Often billed alongside Schlawinsky, Neobeo and Andreas Balicki. Next up: Turtur, Hamburg on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mono and Kusten are a house and techno duo tracked on soundcheck, with 10 sets l
 
 Schlawinsky, Neobeo, Andreas Balicki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoandkusten/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monoandkusten/)*

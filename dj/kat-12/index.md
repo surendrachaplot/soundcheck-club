@@ -1,8 +1,8 @@
 # Kat (BE)
 
-Kat (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Château Moderne, Brussels on Fri, 25 Sept 2026.
+Kat (BE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Château Moderne, Brussels on Fri, 25 Sept 2026.
 
-Kat (BE) is a techno and trance artist tracked on soundcheck, with 10 sets logged across Brussels and Ghent. Often billed alongside Nemea6, ALI3N and AZA. Next up: Château Moderne, Brussels on Fri 25 Sept.
+Kat (BE) is a techno and trance artist based in Belgium, tracked on soundcheck, with 10 sets logged across Brussels and Ghent. Often billed alongside Nemea6, ALI3N and AZA. Next up: Château Moderne, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kat (BE) is a techno and trance artist tracked on soundcheck, with 10 sets logge
 
 Nemea6, ALI3N, AZA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-12/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-12/)*

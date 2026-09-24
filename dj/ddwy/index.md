@@ -1,8 +1,8 @@
 # ddwy
 
-ddwy is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at West Harlem, Kyoto on Fri, 23 Oct 2026.
+ddwy is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at West Harlem, Kyoto on Fri, 23 Oct 2026.
 
-ddwy is a house and downtempo artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 16 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: West Harlem, Kyoto on Fri 23 Oct.
+ddwy is a house and downtempo artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 16 more. Often billed alongside Inner Totality, Denzel and Bell Towers. Next up: West Harlem, Kyoto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ddwy is a house and downtempo artist tracked on soundcheck, with 57 sets logged 
 
 Inner Totality, Denzel, Bell Towers
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddwy/)*

@@ -1,8 +1,8 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
+Joseph Capriati is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Base Nato, Naples on Sun, 27 Sept 2026.
 
-Joseph Capriati is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Ex Base Nato, Naples on Sun 27 Sept.
+Joseph Capriati is a techno and house artist based in Italy, tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Ex Base Nato, Naples on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 223 set
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | BRET | Amsterdam |
 | Thu, 29 Oct 2026 | Q Nightclub | Seattle |
@@ -17,6 +18,7 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 223 set
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 27 Nov 2026 | Zumana Bali | Bali |
 | Sun, 29 Nov 2026 | Savaya Bali | Bali |
+| Mon, 28 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -33,4 +35,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 223 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

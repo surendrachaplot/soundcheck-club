@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Guy Gerber + Kalyma - MILANO FASHION WEEK" on Thu, 24 Sept 2026.
+Volt Club Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Guy Gerber + Kalyma - MILANO FASHION WEEK" on Thu, 24 Sept 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Alessio Cristiano, ANOTR, Giulio Domi and Guy Gerber and 2 more. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -18,4 +18,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

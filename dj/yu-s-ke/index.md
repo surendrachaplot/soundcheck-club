@@ -1,8 +1,8 @@
 # YU-S-KE
 
-YU-S-KE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sabaco Music & Cafe, Tokyo on Sat, 10 Oct 2026.
+YU-S-KE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sabaco Music & Cafe, Tokyo on Sat, 10 Oct 2026.
 
-YU-S-KE is a techno and house artist tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: Sabaco Music & Cafe, Tokyo on Sat 10 Oct.
+YU-S-KE is a techno and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside BEPPU, Q'hey and Takami. Next up: Sabaco Music & Cafe, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YU-S-KE is a techno and house artist tracked on soundcheck, with 60 sets logged 
 
 BEPPU, Q'hey, Takami
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-s-ke/)*

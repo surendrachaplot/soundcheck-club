@@ -1,6 +1,6 @@
 # tim|bre
 
-tim|bre is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Romantica, Stuttgart on Sat, 10 Oct 2026.
+tim|bre is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Romantica, Stuttgart on Sat, 10 Oct 2026.
 
 tim|bre is a techno and tech house artist based in Germany, tracked on soundcheck, with 44 sets logged across Stuttgart. Often billed alongside Molekularmusik, Alyne and Line. Next up: Romantica, Stuttgart on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ tim|bre is a techno and tech house artist based in Germany, tracked on soundchec
 
 Molekularmusik, Alyne, Line
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timbre-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timbre-de/)*

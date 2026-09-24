@@ -1,8 +1,8 @@
 # trillosta
 
-trillosta is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Funke, Ghent on Sat, 17 Oct 2026.
+trillosta is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Funke, Ghent on Sat, 17 Oct 2026.
 
-trillosta is a techno and trance artist tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Budapest and 3 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: Funke, Ghent on Sat 17 Oct.
+trillosta is a techno and trance artist based in Belgium, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Budapest and 3 more. Often billed alongside Wannes Lenaers, Helena Lauwaert and Pegassi. Next up: Funke, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ trillosta is a techno and trance artist tracked on soundcheck, with 61 sets logg
 
 Wannes Lenaers, Helena Lauwaert, Pegassi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trillosta/)*

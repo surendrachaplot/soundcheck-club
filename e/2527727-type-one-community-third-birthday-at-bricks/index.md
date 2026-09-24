@@ -1,6 +1,6 @@
 # Type One Community: Third Birthday at Bricks
 
-Type One Community: Third Birthday at Bricks on Sat 14 Nov, London. 2 acts on the bill: Kyle Parsley and Timor. House and Electro. Preview the line-up and save it on soundcheck.
+Type One Community: Third Birthday at Bricks on Sat 14 Nov, London. 4 acts on the bill: Antepop, Kyle Parsley, ohmydais and Timor. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Type One Community: Third Birthday at Bricks on Sat 14 Nov, London. 2 acts on th
 
 ## Line-up
 
+- Antepop
 - Kyle Parsley
+- ohmydais
 - Timor
 
 *Source: [soundcheck](https://soundcheck.club/e/2527727-type-one-community-third-birthday-at-bricks/)*

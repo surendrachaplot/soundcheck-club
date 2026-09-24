@@ -1,8 +1,8 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Ario is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
-Ario is a techno and ambient artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Bonobo, Tokyo on Sat 3 Oct.
+Ario is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ario is a techno and ambient artist tracked on soundcheck, with 84 sets logged a
 
 F-on, Yoshitaka Shirakura, Endurance
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ario/)*

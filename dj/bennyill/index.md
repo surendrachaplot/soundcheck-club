@@ -1,8 +1,8 @@
 # Benny Ill
 
-Benny Ill is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Romantso, Athens on Sat, 3 Oct 2026.
+Benny Ill is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Romantso, Athens on Sat, 3 Oct 2026.
 
-Benny Ill is a dubstep and bass artist tracked on soundcheck, with 16 sets logged across Athens, Leeds, London and Stockholm. Often billed alongside Horsepower Productions, Benton (UK) and Breakfake. Next up: Romantso, Athens on Sat 3 Oct.
+Benny Ill is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Athens, Leeds, London and Stockholm. Often billed alongside Horsepower Productions, Benton (UK) and Breakfake. Next up: Romantso, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Benny Ill is a dubstep and bass artist tracked on soundcheck, with 16 sets logge
 
 Horsepower Productions, Benton (UK), Breakfake
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyill/)*

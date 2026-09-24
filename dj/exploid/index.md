@@ -1,8 +1,8 @@
 # Exploid
 
-Exploid is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Fri, 16 Oct 2026.
+Exploid is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 16 Oct 2026.
 
-Exploid is a drum & bass and bass artist tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Tokyo. Often billed alongside Altemica, CRAZYHYUGA and ReFuCafé. Next up: Void Club, Berlin on Fri 16 Oct.
+Exploid is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Tokyo. Often billed alongside Altemica, CRAZYHYUGA and ReFuCafé. Next up: Void Club, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Exploid is a drum & bass and bass artist tracked on soundcheck, with 8 sets logg
 
 Altemica, CRAZYHYUGA, ReFuCafé
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exploid/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exploid/)*

@@ -1,8 +1,8 @@
 # Rebuke
 
-Rebuke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
+Rebuke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Creekside - Under The K Bridge, New York City on Sun, 11 Oct 2026.
 
-Rebuke is a techno and house artist tracked on soundcheck, with 90 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 37 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Creekside - Under The K Bridge, Newyorkcity on Sun 11 Oct.
+Rebuke is a techno and house artist based in Ireland, tracked on soundcheck, with 90 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 37 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Creekside - Under The K Bridge, Newyorkcity on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rebuke is a techno and house artist tracked on soundcheck, with 90 sets logged a
 
 Kevin de Vries, Tale Of Us, Anyma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*

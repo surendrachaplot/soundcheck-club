@@ -1,8 +1,8 @@
 # Freestyler (2)
 
-Freestyler (2) is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
+Freestyler (2) is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 10 Oct 2026.
 
-Freestyler (2) is a club and experimental artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Ghent and 3 more. Often billed alongside bod [包家巷], EuroEyez and Europa (1). Next up: Garage Noord, Amsterdam on Sat 10 Oct.
+Freestyler (2) is a club and experimental artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Ghent and 3 more. Often billed alongside bod [包家巷], EuroEyez and Europa (1). Next up: Garage Noord, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Freestyler (2) is a club and experimental artist tracked on soundcheck, with 26 
 
 bod [包家巷], EuroEyez, Europa (1)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freestyler-2/)*

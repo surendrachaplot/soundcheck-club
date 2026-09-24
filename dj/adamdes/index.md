@@ -1,13 +1,14 @@
 # Adam Des
 
-Adam Des is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AUX Club, Athens on Fri, 23 Oct 2026.
+Adam Des is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eleusis LFC Music Studio, Athens on Sat, 26 Sept 2026.
 
-Adam Des is a techno artist tracked on soundcheck, with 20 sets logged across Athens. Often billed alongside Indelekt, VSSLS and Cirkle. Next up: AUX Club, Athens on Fri 23 Oct.
+Adam Des is a techno artist based in Greece, tracked on soundcheck, with 21 sets logged across Athens. Often billed alongside Indelekt, Cirkle and VSSLS. Next up: Eleusis LFC Music Studio, Athens on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Eleusis LFC Music Studio | Athens |
 | Fri, 23 Oct 2026 | AUX Club | Athens |
 
 ## Recently played
@@ -23,6 +24,6 @@ Adam Des is a techno artist tracked on soundcheck, with 20 sets logged across At
 
 ## Shares bills with
 
-Indelekt, VSSLS, Cirkle
+Indelekt, Cirkle, VSSLS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*

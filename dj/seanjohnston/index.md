@@ -1,8 +1,8 @@
 # Sean Johnston
 
-Sean Johnston is a Acid and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Phonox, London on Sat, 17 Oct 2026.
+Sean Johnston is a Acid and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Sat, 17 Oct 2026.
 
-Sean Johnston is an acid and electronica artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Belfast and 12 more. Often billed alongside A LOVE FROM OUTER SPACE, Chris Massey and David Holmes. Next up: Phonox, London on Sat 17 Oct.
+Sean Johnston is an acid and electronica artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Belfast and 12 more. Often billed alongside A LOVE FROM OUTER SPACE, Vladimir Ivkovic and Chris Massey. Next up: Phonox, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sean Johnston is an acid and electronica artist tracked on soundcheck, with 73 s
 | Sat, 17 Oct 2026 | Phonox | London |
 | Sat, 7 Nov 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 13 Nov 2026 | The Sound House | Dublin |
+| Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Sean Johnston is an acid and electronica artist tracked on soundcheck, with 73 s
 
 ## Shares bills with
 
-A LOVE FROM OUTER SPACE, Chris Massey, David Holmes
+A LOVE FROM OUTER SPACE, Vladimir Ivkovic, Chris Massey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*

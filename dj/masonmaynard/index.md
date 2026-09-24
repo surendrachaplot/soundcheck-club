@@ -1,8 +1,8 @@
 # Mason Maynard
 
-Mason Maynard is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 7 Oct 2026.
+Mason Maynard is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at [UNVRS], Ibiza on Wed, 7 Oct 2026.
 
-Mason Maynard is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Chicago and Dublin and 13 more. Often billed alongside Jamie Jones, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 7 Oct.
+Mason Maynard is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Chicago and Dublin and 13 more. Often billed alongside Jamie Jones, Manda Moor and ALISHA. Next up: [UNVRS], Ibiza on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mason Maynard is a tech house and house artist tracked on soundcheck, with 48 se
 
 Jamie Jones, Manda Moor, ALISHA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masonmaynard/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masonmaynard/)*

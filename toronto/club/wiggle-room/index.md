@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Wiggle Room Records Release Party: CARLOS MENACA [Spain]" on Sat, 26 Sept 2026.
+Wiggle Room is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Wiggle Room Records Release Party: CARLOS MENACA [Spain]" on Sat, 26 Sept 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Addy, Barroness, Birdy and BOZA and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -16,10 +16,11 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, w
 | Fri, 9 Oct 2026 | Spacedisco Records presents Hatiras + special guest Antoine Clamaran (Paris) | Hatiras |
 | Sat, 10 Oct 2026 | BOH Anniversary: Junior Lopez & Corrado Q | Junior Lopez |
 | Sat, 17 Oct 2026 | DJ Heather b2b COLETTE [All Night Long] - House of OM 20th Anniversary Tour | DJ Colette, DJ Heather, Mr. Haze |
+| Sun, 18 Oct 2026 | Sunday SerVice: Sander Kleinenberg [NL] | Manzone & Strong, Sander Kleinenberg, TAKiN |
 | Sat, 31 Oct 2026 | WiGGLEWEEN + Afterparty [10pm-7am] | Barroness, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

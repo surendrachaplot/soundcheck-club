@@ -1,8 +1,8 @@
 # Andi Beat
 
-Andi Beat is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Prisma, Berlin on Thu, 1 Oct 2026.
+Andi Beat is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Prisma, Berlin on Thu, 1 Oct 2026.
 
-Andi Beat is a techno and drum & bass artist tracked on soundcheck, with 24 sets logged across Berlin and Frankfurt. Often billed alongside Upzet, Basslinewizard and Bæmbus. Next up: Prisma, Berlin on Thu 1 Oct.
+Andi Beat is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Frankfurt. Often billed alongside Upzet, Basslinewizard and Bæmbus. Next up: Prisma, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andi Beat is a techno and drum & bass artist tracked on soundcheck, with 24 sets
 
 Upzet, Basslinewizard, Bæmbus
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andibeat/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andibeat/)*

@@ -1,8 +1,8 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
+Coffintexts is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Smoke & Mirrors, Chicago on Sat, 3 Oct 2026.
 
-Coffintexts is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Smoke & Mirrors, Chicago on Sat 3 Oct.
+Coffintexts is a techno and house artist based in United States of America, tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Smoke & Mirrors, Chicago on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 130 sets lo
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

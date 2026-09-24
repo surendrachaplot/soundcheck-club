@@ -1,6 +1,6 @@
 # Sound and Fury
 
-Sound and Fury is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
+Sound and Fury is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 25 Sept 2026.
 
 Sound and Fury are an electronic duo based in Colombia, tracked on soundcheck, with 29 sets logged across Copenhagen. Often billed alongside RDG, DJ Lukey and Mbizo. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sound and Fury are an electronic duo based in Colombia, tracked on soundcheck, w
 
 RDG, DJ Lukey, Mbizo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundandfury/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundandfury/)*

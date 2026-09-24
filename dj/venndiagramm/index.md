@@ -1,8 +1,8 @@
 # Venn Diagramm
 
-Venn Diagramm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paris Bar, Detroit on Fri, 23 Oct 2026.
+Venn Diagramm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paris Bar, Detroit on Fri, 23 Oct 2026.
 
-Venn Diagramm is a techno and electro artist tracked on soundcheck, with 26 sets logged across Detroit and Washingtondc. Often billed alongside Tom McBride, Lady Witch and joycxi. Next up: Paris Bar, Detroit on Fri 23 Oct.
+Venn Diagramm is a techno and electro artist based in Mexico, tracked on soundcheck, with 26 sets logged across Detroit and Washingtondc. Often billed alongside Tom McBride, Lady Witch and joycxi. Next up: Paris Bar, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Venn Diagramm is a techno and electro artist tracked on soundcheck, with 26 sets
 
 Tom McBride, Lady Witch, joycxi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/venndiagramm/)*

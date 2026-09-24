@@ -1,8 +1,8 @@
 # CL-ljud
 
-CL-ljud is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rosie's Bar, Berlin on Fri, 9 Oct 2026.
+CL-ljud is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Rosie's Bar, Berlin on Fri, 9 Oct 2026.
 
-CL-ljud is a house and progressive house artist tracked on soundcheck, with 6 sets logged across Berlin, Rome and Warsaw. Often billed alongside maniac&me, Easy Audio and Model 68. Next up: Rosie's Bar, Berlin on Fri 9 Oct.
+CL-ljud is a house and progressive house artist based in Italy, tracked on soundcheck, with 6 sets logged across Berlin, Rome and Warsaw. Often billed alongside maniac&me, Easy Audio and Model 68. Next up: Rosie's Bar, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ CL-ljud is a house and progressive house artist tracked on soundcheck, with 6 se
 
 maniac&me, Easy Audio, Model 68
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ljud/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ljud/)*

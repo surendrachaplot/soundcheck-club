@@ -1,8 +1,8 @@
 # Marylou
 
-Marylou is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
+Marylou is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
-Marylou is an experimental and club artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: Panke, Berlin on Thu 24 Sept.
+Marylou is an experimental and club artist based in France, tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: Panke, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Marylou is an experimental and club artist tracked on soundcheck, with 109 sets 
 
 ophélie, Darwin, Marco Shuttle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

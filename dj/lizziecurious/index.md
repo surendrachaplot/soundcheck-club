@@ -1,8 +1,8 @@
 # Lizzie Curious
 
-Lizzie Curious is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Lizzie Curious is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
-Lizzie Curious is a house and tech house artist tracked on soundcheck, with 8 sets logged across Brighton, London and Manchester. Often billed alongside Tenacious, 808 State and Angelo Ferreri. Next up: Ministry Of Sound, London on Sat 10 Oct.
+Lizzie Curious is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, London and Manchester. Often billed alongside Tenacious, 808 State and Angelo Ferreri. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Lizzie Curious is a house and tech house artist tracked on soundcheck, with 8 se
 
 Tenacious, 808 State, Angelo Ferreri
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizziecurious/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizziecurious/)*

@@ -1,8 +1,8 @@
 # Ollie Kirk
 
-Ollie Kirk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Ollie Kirk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
-Ollie Kirk is a house and techno artist tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Boulderhead, Hannd and Monika Taneska. Next up: The Prospect Building, Bristol on Sat 10 Oct.
+Ollie Kirk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Boulderhead, Hannd and Monika Taneska. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Ollie Kirk is a house and techno artist tracked on soundcheck, with 33 sets logg
 
 Boulderhead, Hannd, Monika Taneska
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*

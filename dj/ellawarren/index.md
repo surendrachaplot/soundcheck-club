@@ -1,8 +1,8 @@
 # Ella Warren
 
-Ella Warren is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
+Ella Warren is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zebulon, Los Angeles on Sat, 26 Sept 2026.
 
-Ella Warren is a techno and ghetto tech artist tracked on soundcheck, with 5 sets logged across Lisbon, Losangeles and Newyorkcity. Often billed alongside DJ_Dave, Aaron Paar and Ashley Younniä. Next up: Zebulon, Losangeles on Sat 26 Sept.
+Ella Warren is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 5 sets logged across Lisbon, Losangeles and Newyorkcity. Often billed alongside DJ_Dave, Aaron Paar and Ashley Younniä. Next up: Zebulon, Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Ella Warren is a techno and ghetto tech artist tracked on soundcheck, with 5 set
 
 DJ_Dave, Aaron Paar, Ashley Younniä
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawarren/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawarren/)*

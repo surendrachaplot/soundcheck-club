@@ -1,8 +1,8 @@
 # Mungo's Hi Fi
 
-Mungo's Hi Fi is a Dub and Dancehall artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Quarters, Brighton on Fri, 25 Sept 2026.
+Mungo's Hi Fi is a Dub and Dancehall artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Quarters, Brighton on Fri, 25 Sept 2026.
 
-Mungo's Hi Fi is a dub and dancehall artist tracked on soundcheck, with 57 sets logged across Birmingham, Brighton, Bristol and Denver and 14 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Quarters, Brighton on Fri 25 Sept.
+Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Birmingham, Brighton, Bristol and Denver and 14 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Quarters, Brighton on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Mungo's Hi Fi is a dub and dancehall artist tracked on soundcheck, with 57 sets 
 
 Eva Lazarus, Dillinja, Carasel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

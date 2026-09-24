@@ -1,8 +1,8 @@
 # Daniel Myer
 
-Daniel Myer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
+Daniel Myer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Urban Spree, Berlin on Sat, 3 Oct 2026.
 
-Daniel Myer is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Athens, Berlin, Chicago and Leipzig and 2 more. Often billed alongside Adam X, Frankie Bones and Philipp Strobel. Next up: Urban Spree, Berlin on Sat 3 Oct.
+Daniel Myer is a techno and industrial artist based in Germany, tracked on soundcheck, with 11 sets logged across Athens, Berlin, Chicago and Leipzig and 2 more. Often billed alongside Adam X, Frankie Bones and Philipp Strobel. Next up: Urban Spree, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniel Myer is a techno and industrial artist tracked on soundcheck, with 11 set
 
 Adam X, Frankie Bones, Philipp Strobel
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmyer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmyer/)*

@@ -1,8 +1,8 @@
 # ninon.
 
-ninon. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+ninon. is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
-ninon. is a techno and dub techno artist tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Eminelli, VOLTMARIE and PAUNA. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
+ninon. is a techno and dub techno artist based in Austria, tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Eminelli, VOLTMARIE and PAUNA. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ ninon. is a techno and dub techno artist tracked on soundcheck, with 7 sets logg
 
 Eminelli, VOLTMARIE, PAUNA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon./)*

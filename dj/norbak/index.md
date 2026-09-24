@@ -1,8 +1,8 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
+Nørbak is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
 
-Nørbak is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
+Nørbak is a techno and house artist based in Portugal, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Nørbak is a techno and house artist tracked on soundcheck, with 143 sets logged
 
 Temudo, Quelza, CRAVO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

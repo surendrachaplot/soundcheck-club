@@ -1,8 +1,8 @@
 # Steven Cee
 
-Steven Cee is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Steven Cee is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Steven Cee is a tech house and deep house artist tracked on soundcheck, with 63 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside JAYDAA, DJ Majesty and Jerome Six. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Steven Cee is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside JAYDAA, DJ Majesty and Jerome Six. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Steven Cee is a tech house and deep house artist tracked on soundcheck, with 63 
 
 JAYDAA, DJ Majesty, Jerome Six
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*

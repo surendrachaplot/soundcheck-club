@@ -1,13 +1,14 @@
 # Nicholas Van Orton
 
-Nicholas Van Orton is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+Nicholas Van Orton is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
 
-Nicholas Van Orton is a progressive house and house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Buenosaires and Vienna. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
+Nicholas Van Orton is a progressive house and house artist based in Argentina, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Opposite, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Opposite | Barcelona |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
@@ -24,4 +25,4 @@ Nicholas Van Orton is a progressive house and house artist based in Argentina, t
 
 Seesko, Tom Pavicich, Emeveka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*

@@ -1,6 +1,6 @@
 # 24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT at Thuishaven
 
-24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT on Sat 24 Oct, Amsterdam. 22 acts on the bill: AAT (NL), Anil Aras, Archie Hamilton and Ben Diggins and 18 more. Preview the line-up and save it on soundcheck.
+24 OCT - Thuishaven ADE Saturday Michel de Hey / Philou Louzolo & Haven Trax SOLD OUT on Sat 24 Oct, Amsterdam. 27 acts on the bill: AAT (NL), Anil Aras, Archie Hamilton and Ben Diggins and 23 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,13 +24,18 @@
 - LORI (NL)
 - LYLO (NL)
 - M-High
+- Mathias Kaden
 - Matisa
 - Michel de Hey
+- Mike The Connector
+- Norman Weber
 - Papa Nugs
 - Philou Louzolo
 - Prunk
 - Riva Starr
 - Rooléh
+- Sebastian Konrad
 - Shakèd
+- Tiago Oudman
 
 *Source: [soundcheck](https://soundcheck.club/e/2473469-24-oct-thuishaven-ade-saturday-michel-de-hey-philou-louzolo/)*

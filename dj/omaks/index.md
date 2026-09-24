@@ -1,8 +1,8 @@
 # OMAKS
 
-OMAKS is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
+OMAKS is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Theata, London on Sat, 26 Sept 2026.
 
-OMAKS is a techno and hardcore artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Theata, London on Sat 26 Sept.
+OMAKS is a techno and hardcore artist based in France, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside LESSSS, Shlømo and Basswell. Next up: Theata, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ OMAKS is a techno and hardcore artist tracked on soundcheck, with 138 sets logge
 
 LESSSS, Shlømo, Basswell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omaks/)*

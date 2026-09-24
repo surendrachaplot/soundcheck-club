@@ -1,8 +1,8 @@
 # Deano
 
-Deano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Deano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
-Deano is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Faretrade, JED (ZA) and Árni. Next up: TBA, Amsterdam on Sun 27 Sept.
+Deano is a techno and house artist based in South Africa, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Faretrade, JED (ZA) and Árni. Next up: TBA, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Deano is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 Faretrade, JED (ZA), Árni
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

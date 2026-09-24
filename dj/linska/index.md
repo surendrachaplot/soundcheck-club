@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
+Linska is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BERHTA, Washington DC on Fri, 25 Sept 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Eli Brown and Adam Beyer. Next up: BERHTA, Washingtondc on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Eli Brown, Adam Beyer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

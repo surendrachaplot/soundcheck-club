@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "1999" on Sat, 3 Oct 2026.
+Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "1999" on Sat, 3 Oct 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Kepler, Benny L, Benny Rodrigues and Billy Mason and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -20,4 +20,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

@@ -1,6 +1,6 @@
 # Lou Celsius
 
-Lou Celsius is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ESC, Montreal on Sat, 17 Oct 2026.
+Lou Celsius is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ESC, Montreal on Sat, 17 Oct 2026.
 
 Lou Celsius is a techno and bass artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal and Toronto. Often billed alongside Fate (2), CrisseMarqueur and Divina (CA). Next up: ESC, Montreal on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lou Celsius is a techno and bass artist based in Canada, tracked on soundcheck, 
 
 Fate (2), CrisseMarqueur, Divina (CA)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucelsius/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucelsius/)*

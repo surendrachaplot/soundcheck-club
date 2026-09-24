@@ -1,8 +1,8 @@
 # Casual Look
 
-Casual Look is a Garage and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 26 Sept 2026.
+Casual Look is a Garage and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 26 Sept 2026.
 
-Casual Look is a garage and pop artist tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside Dean Munch, Matt Gloss and Pearl Necklace. Next up: Nice N Sleazy, Glasgow on Sat 26 Sept.
+Casual Look is a garage and pop artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside Dean Munch, Matt Gloss and Pearl Necklace. Next up: Nice N Sleazy, Glasgow on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Casual Look is a garage and pop artist tracked on soundcheck, with 8 sets logged
 
 Dean Munch, Matt Gloss, Pearl Necklace
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallook/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casuallook/)*

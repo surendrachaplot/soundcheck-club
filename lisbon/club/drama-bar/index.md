@@ -1,6 +1,6 @@
 # Drama Bar
 
-Drama Bar is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "JOEL BAPHS & FRIENDS" on Thu, 24 Sept 2026.
+Drama Bar is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "JOEL BAPHS & FRIENDS" on Thu, 24 Sept 2026.
 
 Drama Bar is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rua Damasceno Monteiro 75B, 1170-113 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Drama Bar is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Brows
 
 Rua Damasceno Monteiro 75B, 1170-113 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/drama-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/drama-bar/)*

@@ -1,6 +1,6 @@
 # The Broadcaster
 
-The Broadcaster is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Ibiza Anthems Brunch Rooftop Party" on Sat, 26 Sept 2026.
+The Broadcaster is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ibiza Anthems Brunch Rooftop Party" on Sat, 26 Sept 2026.
 
 The Broadcaster is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 89 Wood Ln, London W12 7FX.
 
@@ -15,4 +15,4 @@ The Broadcaster is a music venue in London listed on soundcheck. 2 upcoming gigs
 
 89 Wood Ln, London W12 7FX, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-broadcaster/)*

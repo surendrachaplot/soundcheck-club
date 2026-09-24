@@ -1,8 +1,8 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 26 Sept 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 26 Sept 2026.
 
-Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Andy C, Kanine and Turno. Next up: Circus Tokyo, Tokyo on Sat 26 Sept.
+Bou (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Andy C, Kanine and Turno. Next up: Circus Tokyo, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Bou (UK) is a drum & bass and jungle artist tracked on soundcheck, with 88 sets 
 
 Andy C, Kanine, Turno
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

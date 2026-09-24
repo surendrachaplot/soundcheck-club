@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Time Tripping" on Thu, 24 Sept 2026.
+Unter Deck is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Time Tripping" on Thu, 24 Sept 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including Cosimoto, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and floor length skirts and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -21,4 +21,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

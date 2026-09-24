@@ -1,8 +1,8 @@
 # .VRIL
 
-.VRIL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
+.VRIL is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at VENT, Tokyo on Fri, 25 Sept 2026.
 
-.VRIL is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: VENT, Tokyo on Fri 25 Sept.
+.VRIL is a techno and house artist based in Germany, tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside DJ Dustin, Edward and Konstantin. Next up: VENT, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@
 
 DJ Dustin, Edward, Konstantin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vril/)*

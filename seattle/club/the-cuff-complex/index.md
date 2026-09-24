@@ -1,6 +1,6 @@
 # The Cuff Complex
 
-The Cuff Complex is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "teXture: seattle" on Sat, 26 Sept 2026.
+The Cuff Complex is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "teXture: seattle" on Sat, 26 Sept 2026.
 
 The Cuff Complex is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including educación física, Fisher Bryce, jiggity jeff and Kadeejah Streets and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Cuff Complex is a music venue in Seattle listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | teXture: seattle | Fisher Bryce, Kadeejah Streets, Mutualism, educación física, jiggity jeff |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-cuff-complex/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-cuff-complex/)*

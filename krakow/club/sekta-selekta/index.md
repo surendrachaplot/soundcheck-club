@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Sekta Selekta: Smansky, Portal, Kondrat" on Thu, 24 Sept 2026.
+Sekta Selekta is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sekta Selekta: Smansky, Portal, Kondrat" on Thu, 24 Sept 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including Badalian, BUDZKO, Emil Zenko and Kondrat and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -20,4 +20,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

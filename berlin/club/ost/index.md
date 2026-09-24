@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 24 Sept 2026.
+OST is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 24 Sept 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 4NOUK, ĀFRAME, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

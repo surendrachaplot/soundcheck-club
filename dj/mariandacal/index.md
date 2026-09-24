@@ -1,8 +1,8 @@
 # Marian Dacal
 
-Marian Dacal is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
+Marian Dacal is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
-Marian Dacal is an electronic artist tracked on soundcheck, with 7 sets logged across Barcelona and Madrid. Often billed alongside Ricardo F, DJ Marta and Da Terror. Next up: Fabrik, Madrid on Sat 28 Nov.
+Marian Dacal is an electronic artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Madrid. Often billed alongside Ricardo F, DJ Marta and Da Terror. Next up: Fabrik, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Marian Dacal is an electronic artist tracked on soundcheck, with 7 sets logged a
 
 Ricardo F, DJ Marta, Da Terror
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariandacal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariandacal/)*

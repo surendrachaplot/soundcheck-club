@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "AFTER FORTUNA" on Sun, 27 Sept 2026.
+Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AFTER FORTUNA" on Sun, 27 Sept 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Paula Tape, AMBRA, Atom™ and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -17,4 +17,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

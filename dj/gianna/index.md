@@ -1,6 +1,6 @@
 # GIANNA
 
-GIANNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
+GIANNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
 
 GIANNA is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Leipzig and Newyorkcity. Often billed alongside Rn86, Aender and Aio. Next up: Jupiter Disco, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GIANNA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Rn86, Aender, Aio
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianna/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianna/)*

@@ -1,8 +1,8 @@
 # Pempsey
 
-Pempsey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unit 58, London on Sat, 31 Oct 2026.
+Pempsey is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Sat, 31 Oct 2026.
 
-Pempsey is a disco and house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Al Gray, Danny Vito and Smudge Proof. Next up: Unit 58, London on Sat 31 Oct.
+Pempsey is a disco and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Al Gray, Danny Vito and Smudge Proof. Next up: Unit 58, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pempsey is a disco and house artist tracked on soundcheck, with 14 sets logged a
 
 Al Gray, Danny Vito, Smudge Proof
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pempsey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pempsey/)*

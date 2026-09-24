@@ -1,8 +1,8 @@
 # Anthity
 
-Anthity is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
+Anthity is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Thu, 8 Oct 2026.
 
-Anthity is a tech house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Pulziv, Nathalie Henriette and BASSIKS. Next up: Onder Hans, Amsterdam on Thu 8 Oct.
+Anthity is a tech house and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Pulziv, Nathalie Henriette and BASSIKS. Next up: Onder Hans, Amsterdam on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Anthity is a tech house and techno artist tracked on soundcheck, with 9 sets log
 
 Pulziv, Nathalie Henriette, BASSIKS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthity/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthity/)*

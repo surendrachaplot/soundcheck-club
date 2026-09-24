@@ -1,8 +1,8 @@
 # SWAP MEET! (2)
 
-SWAP MEET! (2) is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - given out to ticket holders day before, Toronto on Sat, 14 Nov 2026.
+SWAP MEET! (2) is a Jungle and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - given out to ticket holders day before, Toronto on Sat, 14 Nov 2026.
 
-SWAP MEET! (2) is a jungle and club artist tracked on soundcheck, with 9 sets logged across Austin, Houston, Losangeles and Nashville and 2 more. Often billed alongside 30000AD, AceMo and Breaka. Next up: TBA - given out to ticket holders day before, Toronto on Sat 14 Nov.
+SWAP MEET! (2) is a jungle and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin, Houston, Losangeles and Nashville and 2 more. Often billed alongside 30000AD, AceMo and Breaka. Next up: TBA - given out to ticket holders day before, Toronto on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SWAP MEET! (2) is a jungle and club artist tracked on soundcheck, with 9 sets lo
 
 30000AD, AceMo, Breaka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swapmeet-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swapmeet-2/)*

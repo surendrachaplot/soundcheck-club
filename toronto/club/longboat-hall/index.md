@@ -1,6 +1,6 @@
 # Longboat Hall
 
-Longboat Hall is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "cosmic sun day: a roam anniversary special" on Sun, 18 Oct 2026.
+Longboat Hall is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "cosmic sun day: a roam anniversary special" on Sun, 18 Oct 2026.
 
 Longboat Hall is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including DR 4SKYN, EMRYSLAZULI, Joe Claussell and Katamina and 2 more. Browse upcoming dates, start times and who's playing. 1087 Queen Street W, Toronto, ON M6J1H3.
 
@@ -15,4 +15,4 @@ Longboat Hall is a music venue in Toronto listed on soundcheck. 2 upcoming gigs,
 
 1087 Queen Street W, Toronto, ON M6J1H3, Toronto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/longboat-hall/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/longboat-hall/)*

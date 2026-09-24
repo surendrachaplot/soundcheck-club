@@ -1,8 +1,8 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
+Dan Shake is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
 
-Dan Shake is a house and disco artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Eliza Rose, Eats Everything and Folamour. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
+Dan Shake is a house and disco artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Eliza Rose, Eats Everything and Folamour. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 195 sets logge
 
 Eliza Rose, Eats Everything, Folamour
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

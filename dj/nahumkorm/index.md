@@ -1,8 +1,8 @@
 # Nahum Korm
 
-Nahum Korm is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
+Nahum Korm is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
 
-Nahum Korm is a techno and trance artist tracked on soundcheck, with 38 sets logged across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and Nita Key. Next up: Spook Club, Valencia on Sat 3 Oct.
+Nahum Korm is a techno and trance artist based in Spain, tracked on soundcheck, with 38 sets logged across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and Nita Key. Next up: Spook Club, Valencia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Nahum Korm is a techno and trance artist tracked on soundcheck, with 38 sets log
 
 CRONEKIA, ZÉ ALMONACID, Nita Key
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahumkorm/)*

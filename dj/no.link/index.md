@@ -1,8 +1,8 @@
 # NO.LINK
 
-NO.LINK is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
+NO.LINK is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
 
-NO.LINK is a techno and electro artist tracked on soundcheck, with 101 sets logged across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Bolero, Seoul on Fri 25 Sept.
+NO.LINK is a techno and electro artist based in South Korea, tracked on soundcheck, with 101 sets logged across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Bolero, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ NO.LINK is a techno and electro artist tracked on soundcheck, with 101 sets logg
 
 Honn, MOVIN.KR, Apachi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*

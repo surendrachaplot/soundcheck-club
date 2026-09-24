@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Hasa presents: Roland Gonzales" on Fri, 25 Sept 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hasa presents: Roland Gonzales" on Fri, 25 Sept 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Alan Harman, Amedeo (CA), Aoto and DINO (3) and 2 more. Browse upcoming dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -21,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

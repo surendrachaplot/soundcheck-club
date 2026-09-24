@@ -1,8 +1,8 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 26 Sept 2026.
+DJ Masda is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - IYKYK , Los Angeles on Sat, 26 Sept 2026.
 
-DJ Masda is a techno and house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: TBA - IYKYK , Losangeles on Sat 26 Sept.
+DJ Masda is a techno and house artist based in Japan, tracked on soundcheck, with 211 sets logged across All, Amsterdam, Bali and Bangkok and 47 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: TBA - IYKYK , Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DJ Masda is a techno and house artist tracked on soundcheck, with 210 sets logge
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
