@@ -1,8 +1,8 @@
 # GUS (4)
 
-GUS (4) is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ÆDEN, Berlin on Fri, 9 Oct 2026.
+GUS (4) is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Fri, 9 Oct 2026.
 
-GUS (4) is a club and baile funk artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and Brussels and 6 more. Often billed alongside N3LYSTAR, DAZLBØY and Bieu. Next up: ÆDEN, Berlin on Fri 9 Oct.
+GUS (4) is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and Brussels and 6 more. Often billed alongside N3LYSTAR, DAZLBØY and Bieu. Next up: ÆDEN, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ GUS (4) is a club and baile funk artist tracked on soundcheck, with 33 sets logg
 
 N3LYSTAR, DAZLBØY, Bieu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*

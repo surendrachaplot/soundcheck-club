@@ -1,6 +1,6 @@
 # DJ Flexure
 
-DJ Flexure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
+DJ Flexure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat, 26 Sept 2026.
 
 DJ Flexure is a house and techno artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside Tommy House, cirra and Kamui Wada. Next up: TBA - PUBLIC PUBLIC(Takara Bldg. B1, 1-13-2 Dogenzaka, Shibuya-ku, Tokyo), Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Flexure is a house and techno artist based in Japan, tracked on soundcheck, w
 
 Tommy House, cirra, Kamui Wada
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djflexure/)*

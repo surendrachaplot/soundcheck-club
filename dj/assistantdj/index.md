@@ -1,8 +1,8 @@
 # ASSISTANT DJ
 
-ASSISTANT DJ is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Slot, Hamburg on Sat, 24 Oct 2026.
+ASSISTANT DJ is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Slot, Hamburg on Sat, 24 Oct 2026.
 
-ASSISTANT DJ is a bass and breakbeat artist tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside Chinyere, Laetizia and Nassstya. Next up: Slot, Hamburg on Sat 24 Oct.
+ASSISTANT DJ is a bass and breakbeat artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside Chinyere, Laetizia and Nassstya. Next up: Slot, Hamburg on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ ASSISTANT DJ is a bass and breakbeat artist tracked on soundcheck, with 7 sets l
 
 Chinyere, Laetizia, Nassstya
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assistantdj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/assistantdj/)*

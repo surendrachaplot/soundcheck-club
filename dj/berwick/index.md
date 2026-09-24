@@ -1,6 +1,6 @@
 # Berwick
 
-Berwick is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
+Berwick is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Honey Street Studio, Manchester on Sat, 3 Oct 2026.
 
 Berwick is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Berlin, Brighton, Bristol and London and 2 more. Often billed alongside YouYou (2), Yushh and 1-800 GIRLS. Next up: Honey Street Studio, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Berwick is a techno and electro artist based in United Kingdom, tracked on sound
 
 YouYou (2), Yushh, 1-800 GIRLS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berwick/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berwick/)*

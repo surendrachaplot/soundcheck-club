@@ -1,6 +1,6 @@
 # Alec Fursman
 
-Alec Fursman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 11 Dec 2026.
+Alec Fursman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 Alec Fursman is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Portland, Sanfrancisco and Seattle. Often billed alongside DJ Raine, Jason Code and Sharlese. Next up: Club Six, Sanfrancisco on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Alec Fursman is a techno and house artist based in United States of America, tra
 
 DJ Raine, Jason Code, Sharlese
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfursman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfursman/)*

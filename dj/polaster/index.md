@@ -1,6 +1,6 @@
 # Polaster
 
-Polaster is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
+Polaster is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Unter Deck, Munich on Thu, 24 Sept 2026.
 
 Polaster is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 25 sets logged across Leipzig, Munich and Prague. Often billed alongside Kamikatze, Tyra and Cosimoto. Next up: Unter Deck, Munich on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Polaster is a drum & bass and bass artist based in Germany, tracked on soundchec
 
 Kamikatze, Tyra, Cosimoto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polaster/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/polaster/)*

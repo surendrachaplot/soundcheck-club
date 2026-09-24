@@ -1,8 +1,8 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
+Rich NXT is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
 
-Rich NXT is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Mint XL, Leeds on Fri 25 Sept.
+Rich NXT is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Mint XL, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 108 sets l
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

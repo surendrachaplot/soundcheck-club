@@ -1,8 +1,8 @@
 # SKY JETTA
 
-SKY JETTA is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+SKY JETTA is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
-SKY JETTA is a house and ghetto tech artist tracked on soundcheck, with 36 sets logged across Chicago, Detroit, Losangeles and Miami and 2 more. Often billed alongside DJ KILLA SQUID, Donavan Glover and Fullbodydurag. Next up: TBA, Losangeles on Sat 26 Sept.
+SKY JETTA is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Detroit, Losangeles and Miami and 2 more. Often billed alongside DJ KILLA SQUID, Donavan Glover and Fullbodydurag. Next up: TBA, Losangeles on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SKY JETTA is a house and ghetto tech artist tracked on soundcheck, with 36 sets 
 
 DJ KILLA SQUID, Donavan Glover, Fullbodydurag
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*

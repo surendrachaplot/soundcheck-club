@@ -1,8 +1,8 @@
 # Futuro Tropicale
 
-Futuro Tropicale is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
+Futuro Tropicale is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
 
-Futuro Tropicale is a house and electronica artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Lele Sacchi, Marthial and Dolce Potente. Next up: Ex Macello, Milan on Sat 3 Oct.
+Futuro Tropicale is a house and electronica artist based in Italy, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Lele Sacchi, Marthial and Dolce Potente. Next up: Ex Macello, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Futuro Tropicale is a house and electronica artist tracked on soundcheck, with 5
 
 Lele Sacchi, Marthial, Dolce Potente
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futurotropicale-it/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/futurotropicale-it/)*

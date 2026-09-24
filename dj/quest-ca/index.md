@@ -1,8 +1,8 @@
 # Quest (CA)
 
-Quest (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Skatecafe, Amsterdam on Sun, 25 Oct 2026.
+Quest (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Skatecafe, Amsterdam on Sun, 25 Oct 2026.
 
-Quest (CA) is a techno and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Vancouver. Often billed alongside Blasha & Allatt, Hannecart and Ryan Elliott. Next up: Skatecafe, Amsterdam on Sun 25 Oct.
+Quest (CA) is a techno and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Vancouver. Often billed alongside Blasha & Allatt, Hannecart and Ryan Elliott. Next up: Skatecafe, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Quest (CA) is a techno and house artist tracked on soundcheck, with 5 sets logge
 
 Blasha & Allatt, Hannecart, Ryan Elliott
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quest-ca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quest-ca/)*

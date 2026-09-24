@@ -1,8 +1,8 @@
 # NEGITIV
 
-NEGITIV is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
+NEGITIV is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
-NEGITIV is a techno and hardcore artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
+NEGITIV is a techno and hardcore artist based in Germany, tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside Alex Farell, SANTØS and Onlynumbers. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ NEGITIV is a techno and hardcore artist tracked on soundcheck, with 97 sets logg
 
 ## Shares bills with
 
-Alex Farell, SANTØS, Nicolas Julian
+Alex Farell, SANTØS, Onlynumbers
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

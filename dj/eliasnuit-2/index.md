@@ -1,6 +1,6 @@
 # Elias Nuit (2)
 
-Elias Nuit (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ://about blank, Berlin on Sat, 5 Dec 2026.
+Elias Nuit (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Sat, 5 Dec 2026.
 
 Elias Nuit (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside bbymeister, Blame the Booker and Calcifer. Next up: ://about blank, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Elias Nuit (2) is a techno and trance artist based in Germany, tracked on soundc
 
 bbymeister, Blame the Booker, Calcifer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasnuit-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasnuit-2/)*

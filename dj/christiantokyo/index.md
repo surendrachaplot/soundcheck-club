@@ -1,6 +1,6 @@
 # Christian Tokyo
 
-Christian Tokyo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Home Sweet Home, New York City on Thu, 24 Sept 2026.
+Christian Tokyo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Home Sweet Home, New York City on Thu, 24 Sept 2026.
 
 Christian Tokyo is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Berlin, Boston, Istanbul and Newyorkcity and 1 more. Often billed alongside Devoye, JADALAREIGN and Jedai. Next up: Home Sweet Home, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Christian Tokyo is a techno and house artist based in United States of America, 
 
 Devoye, JADALAREIGN, Jedai
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christiantokyo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christiantokyo/)*

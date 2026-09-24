@@ -1,8 +1,8 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 93 Feet East, London on Fri, 25 Sept 2026.
+Jhobei is a House and Electro artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 93 Feet East, London on Fri, 25 Sept 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside B.Love, Enzo Siragusa and Julian Anthony. Next up: 93 Feet East, London on Fri 25 Sept.
+Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: 93 Feet East, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Sat, 10 Oct 2026 | Hazy Club | Sheffield |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -32,6 +33,6 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-B.Love, Enzo Siragusa, Julian Anthony
+B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

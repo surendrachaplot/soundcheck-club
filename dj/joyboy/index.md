@@ -1,8 +1,8 @@
 # JoyBoy
 
-JoyBoy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Subcero Club, Madrid on Thu, 1 Oct 2026.
+JoyBoy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Subcero Club, Madrid on Thu, 1 Oct 2026.
 
-JoyBoy is a techno and house artist tracked on soundcheck, with 29 sets logged across Basel, Helsinki, Madrid and Seoul and 3 more. Often billed alongside DJ BREXIT, CHIEF QUEEF and Needs (2). Next up: Subcero Club, Madrid on Thu 1 Oct.
+JoyBoy is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Basel, Helsinki, Madrid and Seoul and 3 more. Often billed alongside DJ BREXIT, CHIEF QUEEF and Needs (2). Next up: Subcero Club, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JoyBoy is a techno and house artist tracked on soundcheck, with 29 sets logged a
 
 DJ BREXIT, CHIEF QUEEF, Needs (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyboy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyboy/)*

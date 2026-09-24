@@ -1,6 +1,6 @@
 # Calyx
 
-Calyx is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
+Calyx is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Clock Factory, Bristol on Sat, 10 Oct 2026.
 
 Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Jakes. Next up: The Clock Factory, Bristol on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Calyx is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Kasra, Enei, Jakes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*

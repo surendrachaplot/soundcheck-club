@@ -1,6 +1,6 @@
 # Komplexo Tempo
 
-Komplexo Tempo is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Novo Affair - 3 anos (Rave de Aniversário)" on Sun, 11 Oct 2026.
+Komplexo Tempo is a music venue in Sao Paulo with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Novo Affair - 3 anos (Rave de Aniversário)" on Sun, 11 Oct 2026.
 
 Komplexo Tempo is a music venue in Saopaulo listed on soundcheck. 3 upcoming gigs, with line-ups including Acid Asian, Amanda Mussi, Ananda (BR) and Bitter Babe and 2 more. Browse upcoming dates, start times and who's playing. Avenida Henry Ford, 511, São Paulo - SP.
 
@@ -16,4 +16,4 @@ Komplexo Tempo is a music venue in Saopaulo listed on soundcheck. 3 upcoming gig
 
 Avenida Henry Ford, 511, São Paulo - SP, Sao Paulo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/komplexo-tempo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/komplexo-tempo/)*

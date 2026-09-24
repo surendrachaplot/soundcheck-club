@@ -1,6 +1,6 @@
 # KLEA
 
-KLEA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at P61 Gallery, Berlin on Fri, 25 Sept 2026.
+KLEA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at P61 Gallery, Berlin on Fri, 25 Sept 2026.
 
 KLEA is a techno and house artist based in Albania, tracked on soundcheck, with 36 sets logged across Berlin and Milan. Often billed alongside Quolcat, Tinco and GLIA. Next up: P61 Gallery, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ KLEA is a techno and house artist based in Albania, tracked on soundcheck, with 
 
 Quolcat, Tinco, GLIA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*

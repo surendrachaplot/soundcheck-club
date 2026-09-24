@@ -1,8 +1,8 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Epic Prague, Prague on Fri, 25 Sept 2026.
+Deborah De Luca is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Epic Prague, Prague on Fri, 25 Sept 2026.
 
-Deborah De Luca is a techno and house artist tracked on soundcheck, with 149 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Epic Prague, Prague on Fri 25 Sept.
+Deborah De Luca is a techno and house artist based in Italy, tracked on soundcheck, with 149 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Epic Prague, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 149 set
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

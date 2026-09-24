@@ -1,6 +1,6 @@
 # Joy Guidry
 
-Joy Guidry is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Joy Guidry is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Joy Guidry is a techno and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Bristol, Brussels and Detroit and 4 more. Often billed alongside CCL, Juliana Huxtable and upsammy. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Joy Guidry is a techno and experimental artist based in United States of America
 
 CCL, Juliana Huxtable, upsammy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyguidry/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyguidry/)*

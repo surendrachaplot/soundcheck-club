@@ -1,6 +1,6 @@
 # Wiener Stadthalle
 
-Wiener Stadthalle is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "bangerfabrique 'MADE IT OUT OF THE GROUPCHAT TOUR'" on Sat, 10 Oct 2026.
+Wiener Stadthalle is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "bangerfabrique 'MADE IT OUT OF THE GROUPCHAT TOUR'" on Sat, 10 Oct 2026.
 
 Wiener Stadthalle is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Bangerfabrique. Browse upcoming dates, start times and who's playing. Vogelweidplatz 14; 1150 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Wiener Stadthalle is a music venue in Vienna listed on soundcheck. 1 upcoming gi
 
 Vogelweidplatz 14; 1150 Vienna; Austria, Vienna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-stadthalle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-stadthalle/)*

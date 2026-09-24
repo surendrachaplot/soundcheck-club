@@ -1,8 +1,8 @@
 # Terzi
 
-Terzi is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lisa, Lisbon on Fri, 25 Sept 2026.
+Terzi is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lisa, Lisbon on Fri, 25 Sept 2026.
 
-Terzi is an acid and house artist tracked on soundcheck, with 14 sets logged across Lisbon and Porto. Often billed alongside Afra, Anika Kunst and Backbone. Next up: Lisa, Lisbon on Fri 25 Sept.
+Terzi is an acid and house artist based in Portugal, tracked on soundcheck, with 14 sets logged across Lisbon and Porto. Often billed alongside Afra, Anika Kunst and Backbone. Next up: Lisa, Lisbon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Terzi is an acid and house artist tracked on soundcheck, with 14 sets logged acr
 
 Afra, Anika Kunst, Backbone
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terzi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terzi/)*

@@ -1,6 +1,6 @@
 # Noxiouz
 
-Noxiouz is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Noxiouz is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Noxiouz is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Cologne, Frankfurt and Glasgow and 3 more. Often billed alongside Lekkerfaces, Satirized and The Dark Horror. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Noxiouz is a hardcore and techno artist based in Netherlands, tracked on soundch
 
 Lekkerfaces, Satirized, The Dark Horror
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*

@@ -1,6 +1,6 @@
 # Charlie P
 
-Charlie P is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Hifi Club, Leeds on Thu, 24 Sept 2026.
+Charlie P is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Hifi Club, Leeds on Thu, 24 Sept 2026.
 
 Charlie P is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Chicago, Geneva, Glasgow and Leeds and 3 more. Often billed alongside O.B.F, Iration Steppas and Prince Fatty. Next up: The Hifi Club, Leeds on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Charlie P is a dub and bass artist based in United Kingdom, tracked on soundchec
 
 O.B.F, Iration Steppas, Prince Fatty
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charliep/)*

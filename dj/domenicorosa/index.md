@@ -1,8 +1,8 @@
 # Domenico Rosa
 
-Domenico Rosa is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
+Domenico Rosa is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
 
-Domenico Rosa is an electro and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
+Domenico Rosa is an electro and house artist based in Italy, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Domenico Rosa is an electro and house artist tracked on soundcheck, with 42 sets
 
 GNMR, Giammarco Orsini, Marcolino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domenicorosa/)*

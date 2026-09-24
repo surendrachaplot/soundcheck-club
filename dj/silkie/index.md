@@ -1,14 +1,15 @@
 # Silkie
 
-Silkie is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Silkie is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Silkie is a dubstep and bass artist tracked on soundcheck, with 26 sets logged across Antwerp, Berlin, Brighton and Bristol and 2 more. Often billed alongside SGT Pokes, Tessa and Pinch. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Silkie is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across All, Antwerp, Berlin and Brighton and 3 more. Often billed alongside SGT Pokes, Tessa and Pinch. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Silkie is a dubstep and bass artist tracked on soundcheck, with 26 sets logged a
 
 SGT Pokes, Tessa, Pinch
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silkie/)*

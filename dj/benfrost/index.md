@@ -1,8 +1,8 @@
 # Ben Frost
 
-Ben Frost is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Auditorium San Fedele, Milan on Mon, 28 Sept 2026.
+Ben Frost is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Auditorium San Fedele, Milan on Mon, 28 Sept 2026.
 
-Ben Frost is an experimental and electronica artist tracked on soundcheck, with 11 sets logged across Berlin, Ghent, Krakow and London and 6 more. Often billed alongside HiTech, ojoo and 33EMYBW. Next up: Auditorium San Fedele, Milan on Mon 28 Sept.
+Ben Frost is an experimental and electronica artist based in Iceland, tracked on soundcheck, with 11 sets logged across Berlin, Ghent, Krakow and London and 6 more. Often billed alongside HiTech, ojoo and 33EMYBW. Next up: Auditorium San Fedele, Milan on Mon 28 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ben Frost is an experimental and electronica artist tracked on soundcheck, with 
 
 HiTech, ojoo, 33EMYBW
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benfrost/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benfrost/)*

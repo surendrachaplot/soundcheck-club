@@ -1,6 +1,6 @@
 # Mike Schreder
 
-Mike Schreder is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bogart House, New York City on Sun, 18 Oct 2026.
+Mike Schreder is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bogart House, New York City on Sun, 18 Oct 2026.
 
 Mike Schreder is a house and pop artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Kyle Hamilton, ARMANA KHAN and Andy Crush. Next up: Bogart House, Newyorkcity on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Mike Schreder is a house and pop artist based in United States of America, track
 
 Kyle Hamilton, ARMANA KHAN, Andy Crush
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*

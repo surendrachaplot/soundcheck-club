@@ -1,6 +1,6 @@
 # Brendocha
 
-Brendocha is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
+Brendocha is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
 
 Brendocha is a techno and latin bass artist based in Peru, tracked on soundcheck, with 31 sets logged across Montreal, Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: ESC, Montreal on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Brendocha is a techno and latin bass artist based in Peru, tracked on soundcheck
 
 BINKY, Ana Luisa, El Ángel Exterminador
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*

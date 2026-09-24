@@ -1,8 +1,8 @@
 # Carol Fernandez
 
-Carol Fernandez is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
+Carol Fernandez is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Supermarket, Zurich on Fri, 2 Oct 2026.
 
-Carol Fernandez is an electronica and techno artist tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside Sam Madi, Adana Twins and Alessio Cristiano. Next up: Supermarket, Zurich on Fri 2 Oct.
+Carol Fernandez is an electronica and techno artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside Sam Madi, Adana Twins and Alessio Cristiano. Next up: Supermarket, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Carol Fernandez is an electronica and techno artist tracked on soundcheck, with 
 
 Sam Madi, Adana Twins, Alessio Cristiano
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carolfernandez/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carolfernandez/)*

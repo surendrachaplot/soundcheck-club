@@ -1,13 +1,14 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 3 Oct 2026.
+Alexia Glensy is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Alexia Glensy is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Les Enfants Brillants, Barcelona on Sat 3 Oct.
+Alexia Glensy is a house and techno artist based in Brazil, tracked on soundcheck, with 168 sets logged across All, Amsterdam, Barcelona and Berlin and 34 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 3 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 17 Oct 2026 | Arca | Milan |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
@@ -28,6 +29,6 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 167 sets 
 
 ## Shares bills with
 
-Alex Dima, Gabbs, Christian AB
+Alex Dima, Gabbs, Cap
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

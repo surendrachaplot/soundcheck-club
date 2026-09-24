@@ -1,8 +1,8 @@
 # Vortex (BR)
 
-Vortex (BR) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Casa Jako, London on Sat, 26 Sept 2026.
+Vortex (BR) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Casa Jako, London on Sat, 26 Sept 2026.
 
-Vortex (BR) is a techno and tech house artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Monnay. Next up: Casa Jako, London on Sat 26 Sept.
+Vortex (BR) is a techno and tech house artist based in Brazil, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Monnay. Next up: Casa Jako, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Vortex (BR) is a techno and tech house artist tracked on soundcheck, with 20 set
 
 Thomas Galbardi, Dhez, Monnay
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexbr/)*

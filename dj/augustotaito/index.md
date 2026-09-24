@@ -1,8 +1,8 @@
 # Augusto Taito
 
-Augusto Taito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Augusto Taito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Augusto Taito is a techno and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Abstract Division, BLANKA and Downside. Next up: Kater, Berlin on Fri 2 Oct.
+Augusto Taito is a techno and house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Abstract Division, BLANKA and Downside. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Augusto Taito is a techno and house artist tracked on soundcheck, with 23 sets l
 
 Abstract Division, BLANKA, Downside
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/augustotaito/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/augustotaito/)*

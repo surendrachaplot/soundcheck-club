@@ -1,8 +1,8 @@
 # 16 Faces
 
-16 Faces is a Bass and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
+16 Faces is a Bass and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
 
-16 Faces is a bass and balearic artist tracked on soundcheck, with 8 sets logged across Berlin, London and Sydney. Often billed alongside O.M.Theorem, Drox and Abibi. Next up: Renate, Berlin on Thu 8 Oct.
+16 Faces is a bass and balearic artist based in Australia, tracked on soundcheck, with 8 sets logged across Berlin, London and Sydney. Often billed alongside O.M.Theorem, Drox and Abibi. Next up: Renate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@
 
 O.M.Theorem, Drox, Abibi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/16faces/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/16faces/)*

@@ -1,8 +1,8 @@
 # CAMILLKA
 
-CAMILLKA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NEU, Stockholm on Sat, 10 Oct 2026.
+CAMILLKA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NEU, Stockholm on Sat, 10 Oct 2026.
 
-CAMILLKA is a house and disco artist tracked on soundcheck, with 29 sets logged across Stockholm. Often billed alongside Naughty Hana, Mabogo and OLGE. Next up: NEU, Stockholm on Sat 10 Oct.
+CAMILLKA is a house and disco artist based in Sweden, tracked on soundcheck, with 29 sets logged across Stockholm. Often billed alongside Naughty Hana, Mabogo and OLGE. Next up: NEU, Stockholm on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CAMILLKA is a house and disco artist tracked on soundcheck, with 29 sets logged 
 
 Naughty Hana, Mabogo, OLGE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillka/)*

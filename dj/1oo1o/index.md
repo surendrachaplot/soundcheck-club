@@ -1,6 +1,6 @@
 # 1OO1O
 
-1OO1O is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+1OO1O is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 1OO1O is a techno and breakbeat artist based in Mexico, tracked on soundcheck, with 55 sets logged across Denver, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Loris, Regal86 and MNTY. Next up: Monarch, Sanfrancisco on Sat 14 Nov.
 
@@ -26,4 +26,4 @@
 
 Loris, Regal86, MNTY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*

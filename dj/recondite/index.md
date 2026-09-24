@@ -1,8 +1,8 @@
 # Recondite
 
-Recondite is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
+Recondite is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
 
-Recondite is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Ciudad Del Rock, Madrid on Sat 26 Sept.
+Recondite is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Ciudad Del Rock, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Recondite is a techno and house artist tracked on soundcheck, with 105 sets logg
 
 Tale Of Us, Anyma, Dyzen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

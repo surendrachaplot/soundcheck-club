@@ -1,6 +1,6 @@
 # DJ E.M.
 
-DJ E.M. is a Latin Bass and Pop artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Comic Strip (Comic Strip Live), New York City on Fri, 25 Sept 2026.
+DJ E.M. is a Latin Bass and Pop artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Comic Strip (Comic Strip Live), New York City on Fri, 25 Sept 2026.
 
 DJ E.M. is a latin bass and pop artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Junior O. Next up: The Comic Strip (Comic Strip Live), Newyorkcity on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ DJ E.M. is a latin bass and pop artist based in United States of America, tracke
 
 Junior O
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dje.m./)*

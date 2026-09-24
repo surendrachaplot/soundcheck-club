@@ -1,6 +1,6 @@
 # Gurl
 
-Gurl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Gurl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Gurl is a house and techno artist tracked on soundcheck, with 39 sets logged across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Ben Kamal, Islas and Alfred Anders. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gurl is a house and techno artist tracked on soundcheck, with 39 sets logged acr
 
 Ben Kamal, Islas, Alfred Anders
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gurl-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gurl-2/)*

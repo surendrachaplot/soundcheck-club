@@ -1,6 +1,6 @@
 # Max Well
 
-Max Well is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
+Max Well is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Left Bank, Tbilisi on Fri, 25 Sept 2026.
 
 Max Well is a house and club artist based in Romania, tracked on soundcheck, with 13 sets logged across Amsterdam, Cologne, Ibiza and Liverpool and 3 more. Often billed alongside Charlotte Van de Peer, Goody (UK) and JAYDAA. Next up: Left Bank, Tbilisi on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Max Well is a house and club artist based in Romania, tracked on soundcheck, wit
 
 Charlotte Van de Peer, Goody (UK), JAYDAA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/max-well/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/max-well/)*

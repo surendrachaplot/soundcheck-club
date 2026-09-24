@@ -1,14 +1,13 @@
 # Substation
 
-Substation is a music venue in Seattle with 29 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Dean Turnley" on Wed, 23 Sept 2026.
+Substation is a music venue in Seattle with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tritonal" on Fri, 25 Sept 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 29 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 28 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Dean Turnley | Dean Turnley |
 | Fri, 25 Sept 2026 | Tritonal | Tritonal |
 | Sat, 26 Sept 2026 | Itertainment & Routine presents: Ivy Lab | Cesco, Ivy Lab |
 | Wed, 30 Sept 2026 | Social House presents: Darby |  |
@@ -18,9 +17,10 @@ Substation is a music venue in Seattle listed on soundcheck. 29 upcoming gigs, w
 | Fri, 9 Oct 2026 | Routine: Sam Alfred | Sam Alfred |
 | Wed, 14 Oct 2026 | Routine x Itertainment: Safety Trance | Dj Having Sex, Safety Trance |
 | Thu, 15 Oct 2026 | Yheti & Toadface: Sleight of Sound Tour |  |
+| Fri, 16 Oct 2026 | Vincent Antone |  |
 
 ## Address
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

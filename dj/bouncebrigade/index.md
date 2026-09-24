@@ -1,8 +1,8 @@
 # BOUNCE BRIGADE
 
-BOUNCE BRIGADE is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+BOUNCE BRIGADE is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-BOUNCE BRIGADE is a techno and minimal artist tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Zarco, BENGALA and Bleach. Next up: Heave Festival, Madrid on Fri 25 Sept.
+BOUNCE BRIGADE is a techno and minimal artist based in Spain, tracked on soundcheck, with 19 sets logged across Madrid. Often billed alongside Zarco, BENGALA and Bleach. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BOUNCE BRIGADE is a techno and minimal artist tracked on soundcheck, with 19 set
 
 Zarco, BENGALA, Bleach
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncebrigade/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncebrigade/)*

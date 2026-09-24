@@ -1,8 +1,8 @@
 # 1LDK
 
-1LDK is a Pop and Noise artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
+1LDK is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 2 Oct 2026.
 
-1LDK is a pop and noise artist based in Japan, tracked on soundcheck, with 3 sets logged across London, Paris and Tokyo. Often billed alongside Albino Sound, ChottoKimoi and DJ Love. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
+1LDK is an experimental and electronica artist based in Japan, tracked on soundcheck, with 5 sets logged across Cologne, London, Paris and Tokyo. Often billed alongside Andriana-Yaroslava Saienko, Catu Diosis and Crystallmess. Next up: La Station - Gare des Mines, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Station - Gare des Mines | Paris |
 | Wed, 7 Oct 2026 | M.O.T | London |
+| Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
+| Thu, 15 Oct 2026 | The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller | Cologne |
 
 ## Recently played
 
@@ -17,6 +19,6 @@
 
 ## Shares bills with
 
-Albino Sound, ChottoKimoi, DJ Love
+Andriana-Yaroslava Saienko, Catu Diosis, Crystallmess
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ldk/)*

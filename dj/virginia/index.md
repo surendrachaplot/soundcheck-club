@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at essaim, Paris on Sat, 26 Sept 2026.
+Virginia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at essaim, Paris on Sat, 26 Sept 2026.
 
-Virginia is a house and techno artist tracked on soundcheck, with 252 sets logged across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: essaim, Paris on Sat 26 Sept.
+Virginia is a house and techno artist based in Germany, tracked on soundcheck, with 252 sets logged across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: essaim, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Virginia is a house and techno artist tracked on soundcheck, with 252 sets logge
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virginia/)*

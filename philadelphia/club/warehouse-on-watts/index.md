@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 14 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "EYE" on Fri, 25 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "EYE" on Fri, 25 Sept 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upcoming gigs, with line-ups including ANDi MANDi, ARTEMIX, DJ Love and DJ Tennis and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -23,4 +23,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upc
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

@@ -1,8 +1,8 @@
 # ntank
 
-ntank is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at West Harlem, Kyoto on Sat, 26 Sept 2026.
+ntank is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at West Harlem, Kyoto on Sat, 26 Sept 2026.
 
-ntank is a techno and house artist tracked on soundcheck, with 112 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, D.J.Fulltono and E.O.U. Next up: West Harlem, Kyoto on Sat 26 Sept.
+ntank is a techno and house artist based in Japan, tracked on soundcheck, with 112 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, D.J.Fulltono and E.O.U. Next up: West Harlem, Kyoto on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ntank is a techno and house artist tracked on soundcheck, with 112 sets logged a
 
 Ryogo, D.J.Fulltono, E.O.U
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntank/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntank/)*

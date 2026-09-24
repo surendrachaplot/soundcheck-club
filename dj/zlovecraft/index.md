@@ -1,8 +1,8 @@
 # Z Lovecraft
 
-Z Lovecraft is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Palais, London on Sat, 14 Nov 2026.
+Z Lovecraft is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Palais, London on Sat, 14 Nov 2026.
 
-Z Lovecraft is a house and deep house artist tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Bradley Zero, Echo Juliet and Frankie Valentine. Next up: Palais, London on Sat 14 Nov.
+Z Lovecraft is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Bradley Zero, Echo Juliet and Frankie Valentine. Next up: Palais, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Z Lovecraft is a house and deep house artist tracked on soundcheck, with 5 sets 
 
 Bradley Zero, Echo Juliet, Frankie Valentine
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlovecraft/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlovecraft/)*

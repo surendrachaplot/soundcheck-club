@@ -1,8 +1,8 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Terrrazza, Barcelona on Fri, 25 Sept 2026.
+Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Terrrazza, Barcelona on Fri, 25 Sept 2026.
 
-Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Nick León. Next up: La Terrrazza, Barcelona on Fri 25 Sept.
+Danny Daze is a house and techno artist based in United States of America, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Sister System. Next up: La Terrrazza, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets log
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Nowadays | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Société des arts technologiques | Montreal |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
@@ -28,6 +29,6 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets log
 
 ## Shares bills with
 
-Will Renuart, Jonny From Space, Nick León
+Will Renuart, Jonny From Space, Sister System
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

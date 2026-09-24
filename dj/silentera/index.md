@@ -1,8 +1,8 @@
 # Silent Era
 
-Silent Era is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
+Silent Era is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
 
-Silent Era is an ambient and experimental artist tracked on soundcheck, with 6 sets logged across Manchester, Newcastle and Thehague. Often billed alongside Paul P, Pugilist and Synkro. Next up: De Besturing, Thehague on Fri 25 Sept.
+Silent Era is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester, Newcastle and Thehague. Often billed alongside Paul P, Pugilist and Synkro. Next up: De Besturing, Thehague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Silent Era is an ambient and experimental artist tracked on soundcheck, with 6 s
 
 Paul P, Pugilist, Synkro
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentera/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentera/)*

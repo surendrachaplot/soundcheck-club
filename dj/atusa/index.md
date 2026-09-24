@@ -1,8 +1,8 @@
 # Atusa
 
-Atusa is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kunsthal Charlottenborg, Copenhagen on Fri, 25 Sept 2026.
+Atusa is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kunsthal Charlottenborg, Copenhagen on Fri, 25 Sept 2026.
 
-Atusa is a techno and progressive house artist tracked on soundcheck, with 25 sets logged across Copenhagen and Losangeles. Often billed alongside Muskila, Téa and Angel Wei. Next up: Kunsthal Charlottenborg, Copenhagen on Fri 25 Sept.
+Atusa is a techno and progressive house artist based in Denmark, tracked on soundcheck, with 25 sets logged across Copenhagen and Losangeles. Often billed alongside Muskila, Téa and Angel Wei. Next up: Kunsthal Charlottenborg, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Atusa is a techno and progressive house artist tracked on soundcheck, with 25 se
 
 Muskila, Téa, Angel Wei
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atusa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atusa/)*

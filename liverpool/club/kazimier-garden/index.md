@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "fruitwerk with special guest Lucy Grey" on Fri, 25 Sept 2026.
+Kazimier Garden is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "fruitwerk with special guest Lucy Grey" on Fri, 25 Sept 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including 4D (UK), aaypea, Alexander Nut and Aly P and 2 more. Browse upcoming dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -17,4 +17,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 4 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

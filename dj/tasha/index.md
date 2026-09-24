@@ -1,8 +1,8 @@
 # Tasha
 
-Tasha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Tasha is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
-Tasha is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and DVS1. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
+Tasha is a techno and house artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Steffi, Blasha & Allatt and Stenny. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Tasha is a techno and house artist tracked on soundcheck, with 195 sets logged a
 
 ## Shares bills with
 
-Steffi, Blasha & Allatt, DVS1
+Steffi, Blasha & Allatt, Stenny
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha/)*

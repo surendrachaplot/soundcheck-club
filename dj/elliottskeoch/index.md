@@ -1,8 +1,8 @@
 # Elliott Skeoch
 
-Elliott Skeoch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club 69, Glasgow on Sat, 10 Oct 2026.
+Elliott Skeoch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club 69, Glasgow on Sat, 10 Oct 2026.
 
-Elliott Skeoch is a house and techno artist tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Daniel Anderson, Stephen Taggart and Daz Scott. Next up: Club 69, Glasgow on Sat 10 Oct.
+Elliott Skeoch is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Daniel Anderson, Stephen Taggart and Daz Scott. Next up: Club 69, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Elliott Skeoch is a house and techno artist tracked on soundcheck, with 4 sets l
 
 Daniel Anderson, Stephen Taggart, Daz Scott
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottskeoch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottskeoch/)*

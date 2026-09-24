@@ -1,8 +1,8 @@
 # TheCamiloS
 
-TheCamiloS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Coil, Melbourne on Thu, 24 Sept 2026.
+TheCamiloS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Coil, Melbourne on Thu, 24 Sept 2026.
 
-TheCamiloS is a techno and house artist tracked on soundcheck, with 13 sets logged across Melbourne. Often billed alongside Matt Radovich, Acid Safari and Ben Cromack. Next up: Coil, Melbourne on Thu 24 Sept.
+TheCamiloS is a techno and house artist based in Australia, tracked on soundcheck, with 13 sets logged across Melbourne. Often billed alongside Matt Radovich, Acid Safari and Ben Cromack. Next up: Coil, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ TheCamiloS is a techno and house artist tracked on soundcheck, with 13 sets logg
 
 Matt Radovich, Acid Safari, Ben Cromack
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamilos/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thecamilos/)*

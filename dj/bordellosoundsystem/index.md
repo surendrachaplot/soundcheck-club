@@ -1,8 +1,8 @@
 # Bordello Soundsystem
 
-Bordello Soundsystem is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
+Bordello Soundsystem is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
 
-Bordello Soundsystem is an italo disco and disco artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 15 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: Le Mazette, Paris on Sat 26 Sept.
+Bordello Soundsystem is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 15 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: Le Mazette, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bordello Soundsystem is an italo disco and disco artist tracked on soundcheck, w
 
 David Vunk, Richelle Soigni, Aroy Dee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*

@@ -1,8 +1,8 @@
 # Mareike Bautz
 
-Mareike Bautz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
+Mareike Bautz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
 
-Mareike Bautz is a techno and trance artist tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: elipamanoke, Leipzig on Fri 25 Sept.
+Mareike Bautz is a techno and trance artist based in Germany, tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside KLING&KLANG, DJ Primitivo and Justin Tinderdate. Next up: elipamanoke, Leipzig on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mareike Bautz is a techno and trance artist tracked on soundcheck, with 109 sets
 
 KLING&KLANG, DJ Primitivo, Justin Tinderdate
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mareikebautz/)*

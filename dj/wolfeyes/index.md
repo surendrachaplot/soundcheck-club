@@ -1,8 +1,8 @@
 # Wolf Eyes
 
-Wolf Eyes is a Noise and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ääniwalli, Helsinki on Mon, 5 Oct 2026.
+Wolf Eyes is a Noise and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ääniwalli, Helsinki on Mon, 5 Oct 2026.
 
-Wolf Eyes is a noise and experimental artist tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Helsinki and Lisbon and 9 more. Often billed alongside TAYHANA, 3Phaz and AMPFEMININE. Next up: Ääniwalli, Helsinki on Mon 5 Oct.
+Wolf Eyes is a noise and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Helsinki and Lisbon and 9 more. Often billed alongside TAYHANA, 3Phaz and AMPFEMININE. Next up: Ääniwalli, Helsinki on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Wolf Eyes is a noise and experimental artist tracked on soundcheck, with 13 sets
 
 TAYHANA, 3Phaz, AMPFEMININE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfeyes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfeyes/)*

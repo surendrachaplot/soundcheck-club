@@ -1,8 +1,8 @@
 # Lupe Fuentes
 
-Lupe Fuentes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
+Lupe Fuentes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
 
-Lupe Fuentes is a tech house and house artist tracked on soundcheck, with 25 sets logged across Chicago, Detroit, Ibiza and Losangeles and 5 more. Often billed alongside Kerri Chandler, Kaysin and ALEXANDER M. Next up: Floyd, Miami on Sat 10 Oct.
+Lupe Fuentes is a tech house and house artist based in Colombia, tracked on soundcheck, with 25 sets logged across Chicago, Detroit, Ibiza and Losangeles and 5 more. Often billed alongside Kerri Chandler, Kaysin and ALEXANDER M. Next up: Floyd, Miami on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lupe Fuentes is a tech house and house artist tracked on soundcheck, with 25 set
 
 Kerri Chandler, Kaysin, ALEXANDER M
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupefuentes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupefuentes/)*

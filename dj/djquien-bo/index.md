@@ -1,8 +1,8 @@
 # Dj Quien
 
-Dj Quien is a Hip-Hop and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+Dj Quien is a Hip-Hop and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
-Dj Quien is a hip-hop and drum & bass artist tracked on soundcheck, with 68 sets logged across Berlin and Hamburg. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
+Dj Quien is a hip-hop and drum & bass artist based in Bolivia, tracked on soundcheck, with 68 sets logged across Berlin and Hamburg. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Dj Quien is a hip-hop and drum & bass artist tracked on soundcheck, with 68 sets
 
 Tommy Lexxus, VILIFY, Boogie Dan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*

@@ -1,8 +1,8 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
+A.D.H.S. is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Thu, 15 Oct 2026.
 
-A.D.H.S. is a techno and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Maurice Mino, Sin:port and Thomas Schumacher. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
+A.D.H.S. is a techno and tech house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Maurice Mino, Sin:port and Thomas Schumacher. Next up: PKH Warehouse, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ A.D.H.S. is a techno and tech house artist tracked on soundcheck, with 60 sets l
 
 Maurice Mino, Sin:port, Thomas Schumacher
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

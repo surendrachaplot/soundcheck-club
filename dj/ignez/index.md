@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Signal, New York City on Thu, 24 Sept 2026.
+Ignez is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Thu, 24 Sept 2026.
 
-Ignez is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: Signal, Newyorkcity on Thu 24 Sept.
+Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: Signal, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist tracked on soundcheck, with 198 sets logged a
 
 Yanamaste, Inox Traxx, Rødhåd
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

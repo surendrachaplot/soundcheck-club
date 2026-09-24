@@ -1,8 +1,8 @@
 # Kayoso
 
-Kayoso is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mikropol, Berlin on Sat, 31 Oct 2026.
+Kayoso is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mikropol, Berlin on Sat, 31 Oct 2026.
 
-Kayoso is a house and pop artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Camo Braxton, justpatrick and Sesame. Next up: Mikropol, Berlin on Sat 31 Oct.
+Kayoso is a house and pop artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Camo Braxton, justpatrick and Sesame. Next up: Mikropol, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kayoso is a house and pop artist tracked on soundcheck, with 15 sets logged acro
 
 Camo Braxton, justpatrick, Sesame
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayoso/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayoso/)*

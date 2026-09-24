@@ -1,8 +1,8 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+CAIVA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-CAIVA is a techno and trance artist tracked on soundcheck, with 162 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+CAIVA is a techno and trance artist based in Germany, tracked on soundcheck, with 162 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ CAIVA is a techno and trance artist tracked on soundcheck, with 162 sets logged 
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

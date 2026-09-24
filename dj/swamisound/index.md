@@ -1,14 +1,15 @@
 # Swami Sound
 
-Swami Sound is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
+Swami Sound is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 25 Sept 2026.
 
-Swami Sound is a garage and house artist tracked on soundcheck, with 105 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
+Swami Sound is a garage and house artist based in United States of America, tracked on soundcheck, with 106 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside gum.mp3, Dazegxd and AceMo. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Sat, 3 Oct 2026 | Barn Radio | Portland |
 | Sat, 10 Oct 2026 | Paragon | New York City |
 | Sat, 31 Oct 2026 | The Foundry | San Francisco/Oakland |
 
@@ -27,4 +28,4 @@ Swami Sound is a garage and house artist tracked on soundcheck, with 105 sets lo
 
 gum.mp3, Dazegxd, AceMo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swamisound/)*

@@ -1,8 +1,8 @@
 # NSFW
 
-NSFW is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hope House, Leeds on Thu, 24 Sept 2026.
+NSFW is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hope House, Leeds on Thu, 24 Sept 2026.
 
-NSFW is a club and reggaeton artist tracked on soundcheck, with 5 sets logged across Leeds and London. Often billed alongside Iyesha, TEDESCO and Dahc Dermur VIII. Next up: Hope House, Leeds on Thu 24 Sept.
+NSFW is a club and reggaeton artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Leeds and London. Often billed alongside Iyesha, TEDESCO and Dahc Dermur VIII. Next up: Hope House, Leeds on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ NSFW is a club and reggaeton artist tracked on soundcheck, with 5 sets logged ac
 
 Iyesha, TEDESCO, Dahc Dermur VIII
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nsfw/)*

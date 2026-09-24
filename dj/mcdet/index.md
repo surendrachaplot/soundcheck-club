@@ -1,8 +1,8 @@
 # MC Det
 
-MC Det is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
+MC Det is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
 
-MC Det is a jungle and drum & bass artist tracked on soundcheck, with 49 sets logged across Birmingham, Brighton, Bristol and Hamburg and 3 more. Often billed alongside DJ Brockie, The Ragga Twins and Nicky Blackmarket. Next up: Fire, London on Sat 26 Sept.
+MC Det is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Birmingham, Brighton, Bristol and Hamburg and 3 more. Often billed alongside DJ Brockie, The Ragga Twins and Nicky Blackmarket. Next up: Fire, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ MC Det is a jungle and drum & bass artist tracked on soundcheck, with 49 sets lo
 
 DJ Brockie, The Ragga Twins, Nicky Blackmarket
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdet/)*

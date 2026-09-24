@@ -1,8 +1,8 @@
 # GEMO
 
-GEMO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
+GEMO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
 
-GEMO is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Flvgmodvs, Little Nats and Mutualism (DE). Next up: PETER EDEL, Berlin on Fri 6 Nov.
+GEMO is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Flvgmodvs, Little Nats and Mutualism (DE). Next up: PETER EDEL, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GEMO is a techno and trance artist tracked on soundcheck, with 12 sets logged ac
 
 Flvgmodvs, Little Nats, Mutualism (DE)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemo/)*

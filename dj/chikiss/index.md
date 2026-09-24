@@ -1,8 +1,8 @@
 # Chikiss
 
-Chikiss is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Chikiss is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
-Chikiss is an electronic artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Acidfinky, Anna Sharifi and Hassandra. Next up: Sameheads, Berlin on Thu 8 Oct.
+Chikiss is an electronic artist based in Belarus, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Acidfinky, Anna Sharifi and Hassandra. Next up: Sameheads, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chikiss is an electronic artist tracked on soundcheck, with 9 sets logged across
 
 Acidfinky, Anna Sharifi, Hassandra
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chikiss/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chikiss/)*

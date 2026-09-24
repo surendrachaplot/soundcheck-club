@@ -1,8 +1,8 @@
 # ATYYA
 
-ATYYA is a Bass and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+ATYYA is a Bass and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
-ATYYA is a bass and downtempo artist tracked on soundcheck, with 10 sets logged across Denver, Sandiego, Seattle and Vancouver. Often billed alongside Michael James (2), Supertask and Christine Michelle. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
+ATYYA is a bass and downtempo artist based in Canada, tracked on soundcheck, with 10 sets logged across Denver, Sandiego, Seattle and Vancouver. Often billed alongside Michael James (2), Supertask and Christine Michelle. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ ATYYA is a bass and downtempo artist tracked on soundcheck, with 10 sets logged 
 
 Michael James (2), Supertask, Christine Michelle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*

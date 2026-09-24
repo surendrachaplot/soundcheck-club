@@ -1,8 +1,8 @@
 # Tykov
 
-Tykov is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar How, Amsterdam on Fri, 23 Oct 2026.
+Tykov is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar How, Amsterdam on Fri, 23 Oct 2026.
 
-Tykov is a house and minimal artist tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Voss, Daan Donk and Brennan. Next up: Bar How, Amsterdam on Fri 23 Oct.
+Tykov is a house and minimal artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Voss, Daan Donk and Brennan. Next up: Bar How, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Tykov is a house and minimal artist tracked on soundcheck, with 8 sets logged ac
 
 Voss, Daan Donk, Brennan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tykov/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tykov/)*

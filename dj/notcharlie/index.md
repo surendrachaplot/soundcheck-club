@@ -1,8 +1,8 @@
 # Not Charlie
 
-Not Charlie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - MUV, Madrid on Fri, 2 Oct 2026.
+Not Charlie is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - MUV, Madrid on Fri, 2 Oct 2026.
 
-Not Charlie is a techno and club artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Dusseldorf and Madrid and 1 more. Often billed alongside 9LALEY, Amaro (ES) and August Kind. Next up: TBA - MUV, Madrid on Fri 2 Oct.
+Not Charlie is a techno and club artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Dusseldorf and Madrid and 1 more. Often billed alongside 9LALEY, Amaro (ES) and August Kind. Next up: TBA - MUV, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Not Charlie is a techno and club artist tracked on soundcheck, with 8 sets logge
 
 9LALEY, Amaro (ES), August Kind
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notcharlie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notcharlie/)*

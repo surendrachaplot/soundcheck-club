@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko" on Fri, 25 Sept 2026.
+Post Bar is a music venue in Helsinki with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Celadon, Basit Soomro, Nikita DJ, Ar2u, b2b Reko" on Fri, 25 Sept 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming gigs, with line-ups including Basit Soomro, CEB (FI), Daniel Kayrouz and Denzel and 2 more. Browse upcoming dates, start times and who's playing. Kaikukatu 2.
 
@@ -22,4 +22,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 9 upcoming gigs, wit
 
 Kaikukatu 2, Helsinki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

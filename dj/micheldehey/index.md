@@ -1,8 +1,8 @@
 # Michel de Hey
 
-Michel de Hey is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
+Michel de Hey is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colorado Charlie, The Hague on Sat, 26 Sept 2026.
 
-Michel de Hey is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Colorado Charlie, Thehague on Sat 26 Sept.
+Michel de Hey is a house and tech house artist based in Netherlands, tracked on soundcheck, with 134 sets logged across Amsterdam, Ibiza, Malta and Rotterdam and 3 more. Often billed alongside Benny Rodrigues, Prunk and Job de Jong. Next up: Colorado Charlie, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Michel de Hey is a house and tech house artist tracked on soundcheck, with 134 s
 
 ## Shares bills with
 
-Benny Rodrigues, Prunk, AAT (NL)
+Benny Rodrigues, Prunk, Job de Jong
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheldehey/)*

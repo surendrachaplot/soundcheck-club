@@ -1,8 +1,8 @@
 # Sabani
 
-Sabani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
+Sabani is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 26 Sept 2026.
 
-Sabani is a house and tech house artist tracked on soundcheck, with 32 sets logged across Budapest. Often billed alongside Captain Knuckles, Sobek and Adx. Next up: Aether Club Budapest, Budapest on Sat 26 Sept.
+Sabani is a house and tech house artist based in Hungary, tracked on soundcheck, with 32 sets logged across Budapest. Often billed alongside Captain Knuckles, Sobek and Adx. Next up: Aether Club Budapest, Budapest on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sabani is a house and tech house artist tracked on soundcheck, with 32 sets logg
 
 Captain Knuckles, Sobek, Adx
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabani/)*

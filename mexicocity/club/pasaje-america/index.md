@@ -1,6 +1,6 @@
 # Pasaje America
 
-Pasaje America is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ARMONÍA Festival All Night Long" on Sat, 26 Sept 2026.
+Pasaje America is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ARMONÍA Festival All Night Long" on Sat, 26 Sept 2026.
 
 Pasaje America is a music venue in Mexicocity listed on soundcheck. 2 upcoming gigs, with line-ups including BOREAL, Henri Bergmann, Hyunji-A and Mariano Mellino and 1 more. Browse upcoming dates, start times and who's playing. Av. 5 de Mayo #7 Centro Historico.
 
@@ -15,4 +15,4 @@ Pasaje America is a music venue in Mexicocity listed on soundcheck. 2 upcoming g
 
 Av. 5 de Mayo #7 Centro Historico, Mexico City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/pasaje-america/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/pasaje-america/)*

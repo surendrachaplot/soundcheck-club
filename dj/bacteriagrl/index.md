@@ -1,8 +1,8 @@
 # bacteria grl
 
-bacteria grl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Manning Bar, Sydney on Sat, 10 Oct 2026.
+bacteria grl is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Manning Bar, Sydney on Sat, 10 Oct 2026.
 
-bacteria grl is a techno and trance artist tracked on soundcheck, with 19 sets logged across Sydney. Often billed alongside RHINESTONE COWGIRL, DINGO DISCO and Jofes. Next up: Manning Bar, Sydney on Sat 10 Oct.
+bacteria grl is a techno and trance artist based in Australia, tracked on soundcheck, with 19 sets logged across Sydney. Often billed alongside RHINESTONE COWGIRL, DINGO DISCO and Jofes. Next up: Manning Bar, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ bacteria grl is a techno and trance artist tracked on soundcheck, with 19 sets l
 
 RHINESTONE COWGIRL, DINGO DISCO, Jofes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bacteriagrl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bacteriagrl/)*

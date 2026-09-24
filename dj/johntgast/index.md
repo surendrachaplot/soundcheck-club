@@ -1,8 +1,8 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+John T. Gast is a Experimental and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Ormside Projects, London on Sat 26 Sept.
+John T. Gast is an experimental and dub artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 66 se
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

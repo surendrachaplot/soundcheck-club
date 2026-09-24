@@ -1,6 +1,6 @@
 # Schlepp Geist
 
-Schlepp Geist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
+Schlepp Geist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Sat, 10 Oct 2026.
 
 Schlepp Geist is a techno and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Calypsis, Prismode and Britta Arnold. Next up: Ritter Butzke, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Schlepp Geist is a techno and house artist based in Germany, tracked on soundche
 
 Calypsis, Prismode, Britta Arnold
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schleppgeist/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schleppgeist/)*

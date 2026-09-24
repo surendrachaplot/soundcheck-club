@@ -1,8 +1,8 @@
 # Litmus
 
-Litmus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Litmus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
-Litmus is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Bali and Dublin and 8 more. Often billed alongside Benjamin Berg, S.A.M. and Benji King. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
+Litmus is a house and tech house artist based in Australia, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Bali and Dublin and 8 more. Often billed alongside Benjamin Berg, S.A.M. and Benji King. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Litmus is a house and tech house artist tracked on soundcheck, with 65 sets logg
 
 Benjamin Berg, S.A.M., Benji King
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/litmus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/litmus/)*

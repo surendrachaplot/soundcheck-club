@@ -1,8 +1,8 @@
 # F3rg13
 
-F3rg13 is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
+F3rg13 is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
 
-F3rg13 is a garage and jungle artist tracked on soundcheck, with 14 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and 2QUID. Next up: Sidney & Matilda, Sheffield on Sat 31 Oct.
+F3rg13 is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and 2QUID. Next up: Sidney & Matilda, Sheffield on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ F3rg13 is a garage and jungle artist tracked on soundcheck, with 14 sets logged 
 
 B-HIND, Phia (UK), 2QUID
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*

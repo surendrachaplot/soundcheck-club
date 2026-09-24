@@ -1,8 +1,8 @@
 # max brachais
 
-max brachais is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
+max brachais is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
 
-max brachais is a house and electro artist tracked on soundcheck, with 9 sets logged across Barcelona, Madrid and Miami. Often billed alongside Angelo Cortines, Ennio Skoto and yepecc. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
+max brachais is a house and electro artist based in France, tracked on soundcheck, with 9 sets logged across Barcelona, Madrid and Miami. Often billed alongside Angelo Cortines, Ennio Skoto and yepecc. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ max brachais is a house and electro artist tracked on soundcheck, with 9 sets lo
 
 Angelo Cortines, Ennio Skoto, yepecc
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbrachais/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbrachais/)*

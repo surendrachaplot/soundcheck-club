@@ -1,8 +1,8 @@
 # Omari
 
-Omari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Opposite, Barcelona on Sat, 26 Sept 2026.
+Omari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Opposite, Barcelona on Sat, 26 Sept 2026.
 
-Omari is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 13 more. Often billed alongside Omari King, sqip and Omari Jazz. Next up: Opposite, Barcelona on Sat 26 Sept.
+Omari is a techno and house artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 13 more. Often billed alongside Omari King, sqip and Omari Jazz. Next up: Opposite, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Omari is a techno and house artist tracked on soundcheck, with 104 sets logged a
 
 Omari King, sqip, Omari Jazz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*

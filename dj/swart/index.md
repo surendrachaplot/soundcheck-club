@@ -1,8 +1,8 @@
 # Swart
 
-Swart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Toffler, Rotterdam on Fri, 23 Oct 2026.
+Swart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Toffler, Rotterdam on Fri, 23 Oct 2026.
 
-Swart is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 2 more. Often billed alongside BISOUX, NOVAH and ALT8. Next up: Toffler, Rotterdam on Fri 23 Oct.
+Swart is a techno and house artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 2 more. Often billed alongside BISOUX, NOVAH and ALT8. Next up: Toffler, Rotterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Swart is a techno and house artist tracked on soundcheck, with 8 sets logged acr
 
 BISOUX, NOVAH, ALT8
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swart/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swart/)*

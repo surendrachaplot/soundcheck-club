@@ -1,8 +1,8 @@
 # Caan Dun
 
-Caan Dun is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tendinha dos Clérigos, Porto on Fri, 25 Sept 2026.
+Caan Dun is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tendinha dos Clérigos, Porto on Fri, 25 Sept 2026.
 
-Caan Dun is an afrobeats and baile funk artist tracked on soundcheck, with 5 sets logged across Lisbon and Porto. Often billed alongside CLYTA, Onio (PT) and Runnan. Next up: Tendinha dos Clérigos, Porto on Fri 25 Sept.
+Caan Dun is an afrobeats and baile funk artist based in Portugal, tracked on soundcheck, with 5 sets logged across Lisbon and Porto. Often billed alongside CLYTA, Onio (PT) and Runnan. Next up: Tendinha dos Clérigos, Porto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Caan Dun is an afrobeats and baile funk artist tracked on soundcheck, with 5 set
 
 CLYTA, Onio (PT), Runnan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caandun/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caandun/)*

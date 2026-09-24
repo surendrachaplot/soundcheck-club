@@ -1,6 +1,6 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "SANCTUM OF SOUND - OCTOBER EDITION" on Sun, 4 Oct 2026.
+MaHalla is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SANCTUM OF SOUND - OCTOBER EDITION" on Sun, 4 Oct 2026.
 
 MaHalla is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
@@ -15,4 +15,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

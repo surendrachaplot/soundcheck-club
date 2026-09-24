@@ -1,8 +1,8 @@
 # Underthebed
 
-Underthebed is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
+Underthebed is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Blue Room, Montreal on Fri, 25 Sept 2026.
 
-Underthebed is a progressive house and techno artist tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside AYEENB, Kolophane and Berkaï. Next up: Blue Room, Montreal on Fri 25 Sept.
+Underthebed is a progressive house and techno artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside AYEENB, Kolophane and Berkaï. Next up: Blue Room, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Underthebed is a progressive house and techno artist tracked on soundcheck, with
 
 AYEENB, Kolophane, Berkaï
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underthebed/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/underthebed/)*

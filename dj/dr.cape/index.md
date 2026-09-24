@@ -1,8 +1,8 @@
 # Dr.Cape
 
-Dr.Cape is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 26 Sept 2026.
+Dr.Cape is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parco Industria Alfa Romeo, Milan on Sat, 26 Sept 2026.
 
-Dr.Cape is a tech house and house artist tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Dan Fresco, DimSum and HYLO (IT). Next up: Parco Industria Alfa Romeo, Milan on Sat 26 Sept.
+Dr.Cape is a tech house and house artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Dan Fresco, DimSum and HYLO (IT). Next up: Parco Industria Alfa Romeo, Milan on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Dr.Cape is a tech house and house artist tracked on soundcheck, with 7 sets logg
 
 Dan Fresco, DimSum, HYLO (IT)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.cape/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.cape/)*

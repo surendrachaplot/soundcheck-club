@@ -1,13 +1,14 @@
 # Shakèd
 
-Shakèd is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Shakèd is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Shakèd is a house and minimal artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Cabanne, Job de Jong and Julien Simmons. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
+Shakèd is a house and minimal artist based in Netherlands, tracked on soundcheck, with 44 sets logged across All, Amsterdam, Barcelona and Berlin and 6 more. Often billed alongside Cabanne, Dana Ruh and Job de Jong. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Shakèd is a house and minimal artist tracked on soundcheck, with 43 sets logged
 
 ## Shares bills with
 
-Cabanne, Job de Jong, Julien Simmons
+Cabanne, Dana Ruh, Job de Jong
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*

@@ -1,8 +1,8 @@
 # EarthLife
 
-EarthLife is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+EarthLife is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-EarthLife is a techno and deep house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside F'AL, 19:26 and 8KAYS. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+EarthLife is a techno and deep house artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, London and Milan and 2 more. Often billed alongside F'AL, 19:26 and 8KAYS. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ EarthLife is a techno and deep house artist tracked on soundcheck, with 13 sets 
 
 F'AL, 19:26, 8KAYS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlife/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlife/)*

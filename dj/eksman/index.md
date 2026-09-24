@@ -1,8 +1,8 @@
 # Eksman
 
-Eksman is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Eksman is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-Eksman is a drum & bass and jungle artist tracked on soundcheck, with 64 sets logged across Auckland, Birmingham, Bristol and Leeds and 7 more. Often billed alongside IC3, Hedex and Logan D. Next up: NOWHERE, Manchester on Sat 3 Oct.
+Eksman is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Auckland, Birmingham, Bristol and Leeds and 7 more. Often billed alongside IC3, Hedex and Logan D. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Eksman is a drum & bass and jungle artist tracked on soundcheck, with 64 sets lo
 
 IC3, Hedex, Logan D
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eksman/)*

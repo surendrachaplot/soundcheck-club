@@ -1,8 +1,8 @@
 # NikolaswithK
 
-NikolaswithK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AMT, Berlin on Fri, 16 Oct 2026.
+NikolaswithK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Fri, 16 Oct 2026.
 
-NikolaswithK is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Darren Black, jardabpm and Danny Roach. Next up: AMT, Berlin on Fri 16 Oct.
+NikolaswithK is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Darren Black, jardabpm and Danny Roach. Next up: AMT, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NikolaswithK is a techno and house artist tracked on soundcheck, with 9 sets log
 
 Darren Black, jardabpm, Danny Roach
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolaswithk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolaswithk/)*

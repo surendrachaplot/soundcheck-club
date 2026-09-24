@@ -1,8 +1,8 @@
 # Nina Yamada
 
-Nina Yamada is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
+Nina Yamada is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
 
-Nina Yamada is a house and jazz artist tracked on soundcheck, with 58 sets logged across Bangkok, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Tonydot, Ozwick and Joi La Frique. Next up: Hoppetosse, Berlin on Fri 16 Oct.
+Nina Yamada is a house and jazz artist based in Japan, tracked on soundcheck, with 58 sets logged across Bangkok, Berlin, Birmingham and Brighton and 7 more. Often billed alongside Tonydot, Ozwick and Joi La Frique. Next up: Hoppetosse, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Nina Yamada is a house and jazz artist tracked on soundcheck, with 58 sets logge
 
 Tonydot, Ozwick, Joi La Frique
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninayamada/)*

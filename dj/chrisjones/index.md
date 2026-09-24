@@ -1,8 +1,8 @@
 # Chris Jones
 
-Chris Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Emerald Embankment, London on Sat, 14 Nov 2026.
+Chris Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Emerald Embankment, London on Sat, 14 Nov 2026.
 
-Chris Jones is a house and tech house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Mike ruff cut Lloyd, DJ S (UK) and MC Creed. Next up: Emerald Embankment, London on Sat 14 Nov.
+Chris Jones is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Mike ruff cut Lloyd, DJ S (UK) and MC Creed. Next up: Emerald Embankment, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Chris Jones is a house and tech house artist tracked on soundcheck, with 7 sets 
 
 Mike ruff cut Lloyd, DJ S (UK), MC Creed
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjones/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjones/)*

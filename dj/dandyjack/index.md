@@ -1,8 +1,8 @@
 # Dandy Jack
 
-Dandy Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Dandy Jack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-Dandy Jack is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Tomas Station, Chica Paula and Ramona Yacef. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Dandy Jack is a house and techno artist based in Chile, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Tomas Station, Chica Paula and Ramona Yacef. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dandy Jack is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 Tomas Station, Chica Paula, Ramona Yacef
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dandyjack/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dandyjack/)*

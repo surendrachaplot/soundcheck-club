@@ -1,8 +1,8 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Hedex is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Hedex is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Hedex is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Hedex is a drum & bass and bass artist tracked on soundcheck, with 73 sets logge
 
 BassLayerz, Eksman, Turno
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

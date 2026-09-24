@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Shanti Celeste is a house and techno artist based in United Kingdom, tracked on soundcheck, with 216 sets logged across All, Amsterdam, Antwerp and Bali and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 215 sets
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | KOKO | London |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 215 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

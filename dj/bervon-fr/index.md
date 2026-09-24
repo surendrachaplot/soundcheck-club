@@ -1,8 +1,8 @@
 # Bervon
 
-Bervon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
+Bervon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 26 Sept 2026.
 
-Bervon is a house and techno artist tracked on soundcheck, with 17 sets logged across Saopaulo. Often billed alongside Anderson Noise, DJ Marky and Diogo Accioly. Next up: D-EDGE, Saopaulo on Sat 26 Sept.
+Bervon is a house and techno artist based in Brazil, tracked on soundcheck, with 17 sets logged across Saopaulo. Often billed alongside Anderson Noise, DJ Marky and Diogo Accioly. Next up: D-EDGE, Saopaulo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bervon is a house and techno artist tracked on soundcheck, with 17 sets logged a
 
 Anderson Noise, DJ Marky, Diogo Accioly
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bervon-fr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bervon-fr/)*

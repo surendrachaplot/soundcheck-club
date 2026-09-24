@@ -1,8 +1,8 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+VOLTMARIE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
-VOLTMARIE is a techno and club artist tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside Eminelli, ninon. and MELIMEKO. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
+VOLTMARIE is a techno and club artist based in Austria, tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside Eminelli, ninon. and MELIMEKO. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ VOLTMARIE is a techno and club artist tracked on soundcheck, with 18 sets logged
 
 Eminelli, ninon., MELIMEKO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

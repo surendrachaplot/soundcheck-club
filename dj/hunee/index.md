@@ -1,8 +1,8 @@
 # Hunee
 
-Hunee is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Fri, 25 Sept 2026.
+Hunee is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Fri, 25 Sept 2026.
 
-Hunee is a house and disco artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Garage Noord, Amsterdam on Fri 25 Sept.
+Hunee is a house and disco artist based in Germany, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Garage Noord, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Hunee is a house and disco artist tracked on soundcheck, with 147 sets logged ac
 
 Antal, Call Super, Job Jobse
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "HALBWELT GROOVE EDITION" on Fri, 25 Sept 2026.
+Lehmann Club is a music venue in Stuttgart with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HALBWELT GROOVE EDITION" on Fri, 25 Sept 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs, with line-ups including CALLUSH, dasstudach, GAAAS and Klaps and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -15,4 +15,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

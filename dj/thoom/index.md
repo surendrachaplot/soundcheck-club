@@ -1,8 +1,8 @@
 # Thoom
 
-Thoom is a Hardcore and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Roadrunner, Boston on Mon, 26 Oct 2026.
+Thoom is a Hardcore and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roadrunner, Boston on Mon, 26 Oct 2026.
 
-Thoom is a hardcore and experimental artist tracked on soundcheck, with 12 sets logged across Boston, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Bassvictim, dj listen to ur heart and sydfalls. Next up: Roadrunner, Boston on Mon 26 Oct.
+Thoom is a hardcore and experimental artist based in Lebanon, tracked on soundcheck, with 12 sets logged across Boston, London, Losangeles and Newyorkcity and 2 more. Often billed alongside Bassvictim, dj listen to ur heart and sydfalls. Next up: Roadrunner, Boston on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Thoom is a hardcore and experimental artist tracked on soundcheck, with 12 sets 
 
 Bassvictim, dj listen to ur heart, sydfalls
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thoom/)*

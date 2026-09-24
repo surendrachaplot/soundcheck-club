@@ -1,8 +1,8 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Kahn is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
-Kahn is a dubstep and bass artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Hidden, Manchester on Thu 24 Sept.
+Kahn is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Hidden, Manchester on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Kahn is a dubstep and bass artist tracked on soundcheck, with 75 sets logged acr
 
 Neek, SGT Pokes, Sir Spyro
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kahn/)*

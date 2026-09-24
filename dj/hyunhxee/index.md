@@ -1,6 +1,6 @@
 # HYUNHXEE
 
-HYUNHXEE is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
+HYUNHXEE is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bolero, Seoul on Fri, 25 Sept 2026.
 
 HYUNHXEE is an electro and techno artist based in South Korea, tracked on soundcheck, with 88 sets logged across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Bolero, Seoul on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ HYUNHXEE is an electro and techno artist based in South Korea, tracked on soundc
 
 Honn, DJ Co.kr, KIKOH
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*

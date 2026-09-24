@@ -1,14 +1,15 @@
 # Czech Strings
 
-Czech Strings is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Engelnest, Berlin on Sat, 10 Oct 2026.
+Czech Strings is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Engelnest, Berlin on Sat, 10 Oct 2026.
 
-Czech Strings is a house and garage artist tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside Cheap Coffee, DJ Fresh Garlic and NicolasNico. Next up: Engelnest, Berlin on Sat 10 Oct.
+Czech Strings is a house and garage artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Berlin and Leipzig. Often billed alongside Cheap Coffee, DJ Fresh Garlic and NicolasNico. Next up: Engelnest, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Engelnest | Berlin |
+| Fri, 23 Oct 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Czech Strings is a house and garage artist tracked on soundcheck, with 18 sets l
 
 Cheap Coffee, DJ Fresh Garlic, NicolasNico
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czechstrings/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czechstrings/)*

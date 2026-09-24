@@ -1,6 +1,6 @@
 # Nadezh No
 
-Nadezh No is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+Nadezh No is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 Nadezh No is a techno and electro artist tracked on soundcheck, with 135 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Badalian, nuarrrrr and Meke. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nadezh No is a techno and electro artist tracked on soundcheck, with 135 sets lo
 
 Badalian, nuarrrrr, Meke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezhno/)*

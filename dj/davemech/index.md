@@ -1,8 +1,8 @@
 # Dave Mech
 
-Dave Mech is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ://about blank, Berlin on Fri, 16 Oct 2026.
+Dave Mech is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ://about blank, Berlin on Fri, 16 Oct 2026.
 
-Dave Mech is a techno and electro artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Utrecht. Often billed alongside Gabrielle (DE), Jasmin Giovanazzi and Mattone. Next up: ://about blank, Berlin on Fri 16 Oct.
+Dave Mech is a techno and electro artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Utrecht. Often billed alongside Gabrielle (DE), Jasmin Giovanazzi and Mattone. Next up: ://about blank, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dave Mech is a techno and electro artist tracked on soundcheck, with 17 sets log
 
 Gabrielle (DE), Jasmin Giovanazzi, Mattone
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*

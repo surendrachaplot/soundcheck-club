@@ -1,8 +1,8 @@
 # Haeder
 
-Haeder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hafenbahnhof, Hamburg on Sun, 27 Sept 2026.
+Haeder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hafenbahnhof, Hamburg on Sun, 27 Sept 2026.
 
-Haeder is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Hamburg and Paris. Often billed alongside Lenard Klein, Bunsen and Spikey Lee. Next up: Hafenbahnhof, Hamburg on Sun 27 Sept.
+Haeder is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Hamburg and Paris. Often billed alongside Lenard Klein, Bunsen and Spikey Lee. Next up: Hafenbahnhof, Hamburg on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Haeder is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 Lenard Klein, Bunsen, Spikey Lee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haeder/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haeder/)*

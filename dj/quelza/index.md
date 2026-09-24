@@ -1,8 +1,8 @@
 # Quelza
 
-Quelza is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Quelza is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Quelza is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside BASHKKA, Freddy K and JakoJako. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Quelza is a techno and house artist based in France, tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Freddy K, BASHKKA and JakoJako. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Quelza is a techno and house artist tracked on soundcheck, with 216 sets logged 
 
 ## Shares bills with
 
-BASHKKA, Freddy K, JakoJako
+Freddy K, BASHKKA, JakoJako
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

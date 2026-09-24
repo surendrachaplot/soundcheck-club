@@ -1,8 +1,8 @@
 # SEXMP3
 
-SEXMP3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - hehehe, Toronto on Fri, 9 Oct 2026.
+SEXMP3 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - hehehe, Toronto on Fri, 9 Oct 2026.
 
-SEXMP3 is a club and techno artist tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Melonwater, 999ADJ and GUSSYEE. Next up: TBA - hehehe, Toronto on Fri 9 Oct.
+SEXMP3 is a club and techno artist based in Canada, tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Melonwater, 999ADJ and GUSSYEE. Next up: TBA - hehehe, Toronto on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SEXMP3 is a club and techno artist tracked on soundcheck, with 38 sets logged ac
 
 Melonwater, 999ADJ, GUSSYEE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmp3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sexmp3/)*

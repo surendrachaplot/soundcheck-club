@@ -1,6 +1,6 @@
 # A.Wild
 
-A.Wild is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Next Door Records Two, London on Sat, 3 Oct 2026.
+A.Wild is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Next Door Records Two, London on Sat, 3 Oct 2026.
 
 A.Wild is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Bristol, London and Newyorkcity. Often billed alongside Luca and Sol, Edward and Acid Sally. Next up: Next Door Records Two, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ A.Wild is a house and deep house artist based in United Kingdom, tracked on soun
 
 Luca and Sol, Edward, Acid Sally
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.wild/)*

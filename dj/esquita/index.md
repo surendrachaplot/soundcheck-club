@@ -1,8 +1,8 @@
 # Esquita
 
-Esquita is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Noce KRK, Krakow on Sat, 17 Oct 2026.
+Esquita is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Noce KRK, Krakow on Sat, 17 Oct 2026.
 
-Esquita is a techno and electro artist tracked on soundcheck, with 27 sets logged across Krakow. Often billed alongside Glani, Hellix and Kondrat. Next up: Noce KRK, Krakow on Sat 17 Oct.
+Esquita is a techno and electro artist based in Poland, tracked on soundcheck, with 27 sets logged across Krakow. Often billed alongside Glani, Hellix and Kondrat. Next up: Noce KRK, Krakow on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Esquita is a techno and electro artist tracked on soundcheck, with 27 sets logge
 
 Glani, Hellix, Kondrat
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esquita/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esquita/)*

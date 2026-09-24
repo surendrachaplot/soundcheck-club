@@ -1,6 +1,6 @@
 # KPGT
 
-KPGT is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Dvica ANTRAKT w/ Anna Wall B2B Runy & Sacha Mambo at KPGT" on Fri, 2 Oct 2026.
+KPGT is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dvica ANTRAKT w/ Anna Wall B2B Runy & Sacha Mambo at KPGT" on Fri, 2 Oct 2026.
 
 KPGT is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Anna Wall, Benjamin., Gerun and Runy and 1 more. Browse upcoming dates, start times and who's playing. Radnicka 3, Belgrad.
 
@@ -14,4 +14,4 @@ KPGT is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with lin
 
 Radnicka 3, Belgrad, Belgrade
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kpgt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kpgt/)*

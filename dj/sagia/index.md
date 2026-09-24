@@ -1,8 +1,8 @@
 # Sagia
 
-Sagia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sagia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Sagia is a house and techno artist tracked on soundcheck, with 8 sets logged across Amsterdam, London and Miami. Often billed alongside Light Gal, Beth Lydi and Drilla. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
+Sagia is a house and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, London and Miami. Often billed alongside Light Gal, Beth Lydi and Drilla. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Sagia is a house and techno artist tracked on soundcheck, with 8 sets logged acr
 
 Light Gal, Beth Lydi, Drilla
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sagia/)*

@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming gigs, with line-ups including Carmilla Sioux, Cinna, Cinna Peyghamy and DJ Bisou and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -23,4 +23,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 11 upcoming g
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

@@ -1,14 +1,15 @@
 # Uncle Dugs
 
-Uncle Dugs is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Uncle Dugs is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
-Uncle Dugs is a jungle and drum & bass artist tracked on soundcheck, with 63 sets logged across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: LDN East, London on Sat 26 Sept.
+Uncle Dugs is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Birmingham and Bristol and 3 more. Often billed alongside The Ragga Twins, Nicky Blackmarket and DJ Brockie. Next up: LDN East, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | LDN East | London |
+| Fri, 9 Oct 2026 | Brixton Jamm | London |
 | Fri, 16 Oct 2026 | The Fox and Firkin | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Uncle Dugs is a jungle and drum & bass artist tracked on soundcheck, with 63 set
 
 The Ragga Twins, Nicky Blackmarket, DJ Brockie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uncledugs/)*

@@ -1,8 +1,8 @@
 # Current Value
 
-Current Value is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
+Current Value is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at AUX Club, Athens on Sat, 10 Oct 2026.
 
-Current Value is a drum & bass and bass artist tracked on soundcheck, with 15 sets logged across Athens, Belgrade, Berlin and Budapest and 5 more. Often billed alongside Mc Jamie White, Upzet and Alex New. Next up: AUX Club, Athens on Sat 10 Oct.
+Current Value is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 15 sets logged across Athens, Belgrade, Berlin and Budapest and 5 more. Often billed alongside Mc Jamie White, Upzet and Alex New. Next up: AUX Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Current Value is a drum & bass and bass artist tracked on soundcheck, with 15 se
 
 Mc Jamie White, Upzet, Alex New
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/currentvalue/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/currentvalue/)*

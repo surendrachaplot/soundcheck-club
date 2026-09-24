@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Club de Jour invite GUTS" on Sat, 26 Sept 2026.
+Warehouse is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Club de Jour invite GUTS" on Sat, 26 Sept 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, Bob Sinclar and BSD and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, wit
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

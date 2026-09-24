@@ -1,6 +1,6 @@
 # Selecta: BIG Halloween 2026 > DNB x TECHNO at H2o6
 
-Selecta: BIG Halloween 2026 > DNB x TECHNO at H2o6 on Fri 30 Oct, Riga. 6 acts on the bill: Aphrodite, Blooom, Existal and Sagatxgod and 2 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Selecta: BIG Halloween 2026 > DNB x TECHNO at H2o6 on Fri 30 Oct, Riga. 7 acts on the bill: Aphrodite, Blooom, Existal and Sagatxgod and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Selecta: BIG Halloween 2026 > DNB x TECHNO at H2o6 on Fri 30 Oct, Riga. 6 acts o
 - Blooom
 - Existal
 - Sagatxgod
+- SKIYE
 - Skryption
 - Venjent
 

@@ -1,8 +1,8 @@
 # 77Mushrooms
 
-77Mushrooms is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Compufunk Records, Osaka on Fri, 25 Sept 2026.
+77Mushrooms is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Compufunk Records, Osaka on Fri, 25 Sept 2026.
 
-77Mushrooms is a house and techno artist tracked on soundcheck, with 9 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Klosing, Koliseum and Liem (TH). Next up: Compufunk Records, Osaka on Fri 25 Sept.
+77Mushrooms is a house and techno artist based in China, tracked on soundcheck, with 9 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Klosing, Koliseum and Liem (TH). Next up: Compufunk Records, Osaka on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@
 
 Klosing, Koliseum, Liem (TH)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/77mushrooms/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/77mushrooms/)*

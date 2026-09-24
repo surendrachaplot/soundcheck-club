@@ -1,6 +1,6 @@
 # DJ Sterni
 
-DJ Sterni is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
+DJ Sterni is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 28 Nov 2026.
 
 DJ Sterni is a trance and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside 5euroGoldi, 80HDJ and A.I.F.O.S.. Next up: Lokschuppen Berlin, Berlin on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ DJ Sterni is a trance and techno artist tracked on soundcheck, with 4 sets logge
 
 5euroGoldi, 80HDJ, A.I.F.O.S.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*

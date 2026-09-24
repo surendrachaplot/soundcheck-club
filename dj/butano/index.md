@@ -1,6 +1,6 @@
 # André Butano
 
-André Butano is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 26 Sept 2026.
+André Butano is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 26 Sept 2026.
 
 André Butano is a tech house and house artist based in Chile, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 3 more. Often billed alongside Karla Amaro, ATMEN and Paco Osuna. Next up: Frieda's Büxe, Zurich on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ André Butano is a tech house and house artist based in Chile, tracked on soundc
 
 Karla Amaro, ATMEN, Paco Osuna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*

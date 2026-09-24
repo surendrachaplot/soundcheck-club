@@ -1,8 +1,8 @@
 # Black Traffic
 
-Black Traffic is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
+Black Traffic is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Index, Dublin on Fri, 2 Oct 2026.
 
-Black Traffic is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Index, Dublin on Fri 2 Oct.
+Black Traffic is a techno and hardcore artist based in Ireland, tracked on soundcheck, with 78 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Index, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Black Traffic is a techno and hardcore artist tracked on soundcheck, with 78 set
 
 blk., Jezza & Jod, Jason Cluff
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*

@@ -1,8 +1,8 @@
 # Joel Arcane
 
-Joel Arcane is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
+Joel Arcane is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mucha, Berlin on Sat, 26 Sept 2026.
 
-Joel Arcane is a bass and techno artist tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Psyclo, Andriy K. and Avsluta. Next up: Mucha, Berlin on Sat 26 Sept.
+Joel Arcane is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Psyclo, Andriy K. and Avsluta. Next up: Mucha, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Joel Arcane is a bass and techno artist tracked on soundcheck, with 5 sets logge
 
 Psyclo, Andriy K., Avsluta
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelarcane/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelarcane/)*

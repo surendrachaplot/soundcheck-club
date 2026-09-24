@@ -1,8 +1,8 @@
 # Soof
 
-Soof is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+Soof is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
 
-Soof is a deep house and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Hightower, Christoph Cham and Doppelgang. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
+Soof is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Hightower, Christoph Cham and Doppelgang. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Soof is a deep house and techno artist tracked on soundcheck, with 5 sets logged
 
 Hightower, Christoph Cham, Doppelgang
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soof/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soof/)*

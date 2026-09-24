@@ -1,8 +1,8 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Cross, London on Thu, 24 Sept 2026.
+Yu Su is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cross, London on Thu, 24 Sept 2026.
 
-Yu Su is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: The Cross, London on Thu 24 Sept.
+Yu Su is a house and techno artist based in China, tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, Paula Tape and DJ Python. Next up: The Cross, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -32,6 +32,6 @@ Yu Su is a house and techno artist tracked on soundcheck, with 151 sets logged a
 
 ## Shares bills with
 
-Leon Vynehall, DJ Python, Paula Tape
+Leon Vynehall, Paula Tape, DJ Python
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

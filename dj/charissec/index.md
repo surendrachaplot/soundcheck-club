@@ -1,8 +1,8 @@
 # Charisse C
 
-Charisse C is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at KOKO, London on Sat, 26 Sept 2026.
+Charisse C is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KOKO, London on Sat, 26 Sept 2026.
 
-Charisse C is an amapiano and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside KILIMANJARO, Kitty Amor and Junior Simba. Next up: KOKO, London on Sat 26 Sept.
+Charisse C is an amapiano and afro house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside KILIMANJARO, Kitty Amor and Junior Simba. Next up: KOKO, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Charisse C is an amapiano and afro house artist tracked on soundcheck, with 58 s
 
 KILIMANJARO, Kitty Amor, Junior Simba
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charissec/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charissec/)*

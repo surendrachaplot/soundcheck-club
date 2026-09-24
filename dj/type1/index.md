@@ -1,8 +1,8 @@
 # Type1
 
-Type1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Type1 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
-Type1 is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, no-a and White Gloss. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
+Type1 is a techno and house artist based in Estonia, tracked on soundcheck, with 14 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, no-a and White Gloss. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Type1 is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 
 Tanel Mütt, no-a, White Gloss
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/type1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/type1/)*

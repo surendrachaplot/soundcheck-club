@@ -1,8 +1,8 @@
 # Scherbert
 
-Scherbert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mckr, Leipzig on Fri, 25 Sept 2026.
+Scherbert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mckr, Leipzig on Fri, 25 Sept 2026.
 
-Scherbert is a techno and house artist tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside 50PHIE, ATEQ and Alina Viktoria. Next up: Mckr, Leipzig on Fri 25 Sept.
+Scherbert is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside 50PHIE, ATEQ and Alina Viktoria. Next up: Mckr, Leipzig on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Scherbert is a techno and house artist tracked on soundcheck, with 7 sets logged
 
 50PHIE, ATEQ, Alina Viktoria
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scherbert/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scherbert/)*

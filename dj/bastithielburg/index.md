@@ -1,8 +1,8 @@
 # Basti Thielburg
 
-Basti Thielburg is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Uhu Bar, Stuttgart on Sat, 3 Oct 2026.
+Basti Thielburg is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Uhu Bar, Stuttgart on Sat, 3 Oct 2026.
 
-Basti Thielburg is a techno and trance artist tracked on soundcheck, with 11 sets logged across Stuttgart. Often billed alongside CALiACRA, Nick Hurton and PSYCO RYTM. Next up: TBA - Uhu Bar, Stuttgart on Sat 3 Oct.
+Basti Thielburg is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Stuttgart. Often billed alongside CALiACRA, Nick Hurton and PSYCO RYTM. Next up: TBA - Uhu Bar, Stuttgart on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Basti Thielburg is a techno and trance artist tracked on soundcheck, with 11 set
 
 CALiACRA, Nick Hurton, PSYCO RYTM
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastithielburg/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastithielburg/)*

@@ -1,8 +1,8 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Red Bar, Tokyo on Fri, 2 Oct 2026.
+FELINE (JP) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Red Bar, Tokyo on Fri, 2 Oct 2026.
 
-FELINE (JP) is a house and techno artist tracked on soundcheck, with 228 sets logged across Kyoto, Osaka, Sanfrancisco and Tokyo. Often billed alongside okadada, Sekitova and K8 (TYO GQOM). Next up: Red Bar, Tokyo on Fri 2 Oct.
+FELINE (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 228 sets logged across Kyoto, Osaka, Sanfrancisco and Tokyo. Often billed alongside okadada, Sekitova and kengotaki. Next up: Red Bar, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ FELINE (JP) is a house and techno artist tracked on soundcheck, with 228 sets lo
 
 ## Shares bills with
 
-okadada, Sekitova, K8 (TYO GQOM)
+okadada, Sekitova, kengotaki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

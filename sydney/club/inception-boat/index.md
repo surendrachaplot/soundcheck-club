@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "House CLTR Sydney | Ibiza Boat Party feat. Ferreck Dawn (Defected)" on Sat, 26 Sept 2026.
+Inception Boat is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "House CLTR Sydney | Ibiza Boat Party feat. Ferreck Dawn (Defected)" on Sat, 26 Sept 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Ferreck Dawn and Miguel Campbell. Browse upcoming dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -17,4 +17,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 4 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

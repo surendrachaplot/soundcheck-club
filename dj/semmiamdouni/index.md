@@ -1,8 +1,8 @@
 # Semmi Amdouni
 
-Semmi Amdouni is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
+Semmi Amdouni is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
 
-Semmi Amdouni is a tech house and house artist tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Ammé, Ben Kim and Capron. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
+Semmi Amdouni is a tech house and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Ammé, Ben Kim and Capron. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Semmi Amdouni is a tech house and house artist tracked on soundcheck, with 8 set
 
 Ammé, Ben Kim, Capron
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semmiamdouni/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semmiamdouni/)*

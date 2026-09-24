@@ -1,6 +1,6 @@
 # Windy
 
-Windy is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
+Windy is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lion Super Club, Seoul on Sat, 26 Sept 2026.
 
 Windy is a house and trance artist based in Georgia, tracked on soundcheck, with 5 sets logged across Berlin, Seoul and Tbilisi. Often billed alongside Aku, Kanko and SADUN. Next up: Lion Super Club, Seoul on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Windy is a house and trance artist based in Georgia, tracked on soundcheck, with
 
 Aku, Kanko, SADUN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windy/)*

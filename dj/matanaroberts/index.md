@@ -1,8 +1,8 @@
 # Matana Roberts
 
-Matana Roberts is a Experimental and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Matana Roberts is a Experimental and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Matana Roberts is an experimental and downtempo artist tracked on soundcheck, with 3 sets logged across Newyorkcity and Thehague. Often billed alongside Buttechno, Eiko Ishibashi and Klein. Next up: public records, Newyorkcity on Mon 9 Nov.
+Matana Roberts is an experimental and downtempo artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity and Thehague. Often billed alongside Buttechno, Eiko Ishibashi and Klein. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Matana Roberts is an experimental and downtempo artist tracked on soundcheck, wi
 
 Buttechno, Eiko Ishibashi, Klein
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matanaroberts/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matanaroberts/)*

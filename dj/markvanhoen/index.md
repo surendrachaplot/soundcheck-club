@@ -1,8 +1,8 @@
 # Mark Van Hoen
 
-Mark Van Hoen is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Glad Cafe, Glasgow on Sat, 26 Sept 2026.
+Mark Van Hoen is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glad Cafe, Glasgow on Sat, 26 Sept 2026.
 
-Mark Van Hoen is a downtempo and ambient artist tracked on soundcheck, with 5 sets logged across Glasgow, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Grant Aaron, Adam 2 and Bakh Inamov. Next up: The Glad Cafe, Glasgow on Sat 26 Sept.
+Mark Van Hoen is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow, London, Losangeles and Newyorkcity and 1 more. Often billed alongside Grant Aaron, Adam 2 and Bakh Inamov. Next up: The Glad Cafe, Glasgow on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Mark Van Hoen is a downtempo and ambient artist tracked on soundcheck, with 5 se
 
 Grant Aaron, Adam 2, Bakh Inamov
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanhoen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanhoen/)*

@@ -1,6 +1,6 @@
 # DJ Shannon
 
-DJ Shannon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
+DJ Shannon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pico Union Project, Los Angeles on Sun, 27 Sept 2026.
 
 DJ Shannon is a house and techno artist based in United States of America, tracked on soundcheck, with 112 sets logged across Berlin, Boston, Chicago and Copenhagen and 8 more. Often billed alongside Niyah West, HONEY B and Kandylion. Next up: Pico Union Project, Losangeles on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ DJ Shannon is a house and techno artist based in United States of America, track
 
 Niyah West, HONEY B, Kandylion
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshannon/)*

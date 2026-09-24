@@ -1,8 +1,8 @@
 # SYS.END
 
-SYS.END is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
+SYS.END is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
 
-SYS.END is a techno and house artist tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside Francesca (PL), Butwho and Lyor Kalt. Next up: REJS, Warsaw on Sat 26 Sept.
+SYS.END is a techno and house artist based in Belarus, tracked on soundcheck, with 18 sets logged across Warsaw. Often billed alongside Francesca (PL), Butwho and Lyor Kalt. Next up: REJS, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SYS.END is a techno and house artist tracked on soundcheck, with 18 sets logged 
 
 Francesca (PL), Butwho, Lyor Kalt
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sys.end/)*

@@ -1,8 +1,8 @@
 # KAHMEYA
 
-KAHMEYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
+KAHMEYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Noorderlicht Café, Amsterdam on Sat, 26 Sept 2026.
 
-KAHMEYA is a techno and house artist tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside SHARE (NL), Basistolia and Collé. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
+KAHMEYA is a techno and house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside SHARE (NL), Basistolia and Collé. Next up: Noorderlicht Café, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ KAHMEYA is a techno and house artist tracked on soundcheck, with 14 sets logged 
 
 SHARE (NL), Basistolia, Collé
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kahmeya/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kahmeya/)*

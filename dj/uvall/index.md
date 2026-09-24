@@ -1,8 +1,8 @@
 # Uväll
 
-Uväll is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Uväll is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
-Uväll is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Dusseldorf and Hamburg and 9 more. Often billed alongside gwän, Script (GE) and WINDFUHR. Next up: TBA, Amsterdam on Sun 27 Sept.
+Uväll is a techno and trance artist based in Georgia, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Dusseldorf and Hamburg and 9 more. Often billed alongside gwän, Script (GE) and WINDFUHR. Next up: TBA, Amsterdam on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Uväll is a techno and trance artist tracked on soundcheck, with 49 sets logged 
 
 gwän, Script (GE), WINDFUHR
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvall/)*

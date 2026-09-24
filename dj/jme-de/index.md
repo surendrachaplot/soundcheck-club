@@ -1,8 +1,8 @@
 # JME
 
-JME is a Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
+JME is a Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Liberty Hall, Sydney on Sat, 9 Jan 2027.
 
-JME is a grime artist tracked on soundcheck, with 8 sets logged across Bristol, Copenhagen, Dublin and London and 1 more. Often billed alongside Duppy, Kruz Leone and Bluetoof. Next up: Liberty Hall, Sydney on Sat 9 Jan.
+JME is a grime artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol, Copenhagen, Dublin and London and 1 more. Often billed alongside Duppy, Kruz Leone and Bluetoof. Next up: Liberty Hall, Sydney on Sat 9 Jan.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ JME is a grime artist tracked on soundcheck, with 8 sets logged across Bristol, 
 
 Duppy, Kruz Leone, Bluetoof
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jme-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jme-de/)*

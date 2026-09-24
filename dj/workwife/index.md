@@ -1,8 +1,8 @@
 # Work Wife
 
-Work Wife is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
+Work Wife is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
-Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logged across Melbourne, Newyorkcity, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: TBA, Melbourne on Sat 26 Sept.
+Work Wife is a house and techno artist based in Australia, tracked on soundcheck, with 21 sets logged across Melbourne, Newyorkcity, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: TBA, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Work Wife is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Jo Christy, Simonetti, b. caszh
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*

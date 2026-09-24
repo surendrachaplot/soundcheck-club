@@ -1,8 +1,8 @@
 # Papa Smurf
 
-Papa Smurf is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Third Day, Melbourne on Sat, 31 Oct 2026.
+Papa Smurf is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Third Day, Melbourne on Sat, 31 Oct 2026.
 
-Papa Smurf is a house and techno artist tracked on soundcheck, with 25 sets logged across Melbourne and Sydney. Often billed alongside Gumm, Amber Ferraro and Bella Claxton. Next up: The Third Day, Melbourne on Sat 31 Oct.
+Papa Smurf is a house and techno artist based in Australia, tracked on soundcheck, with 25 sets logged across Melbourne and Sydney. Often billed alongside Gumm, Amber Ferraro and Bella Claxton. Next up: The Third Day, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Papa Smurf is a house and techno artist tracked on soundcheck, with 25 sets logg
 
 Gumm, Amber Ferraro, Bella Claxton
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papasmurf/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papasmurf/)*

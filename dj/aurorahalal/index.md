@@ -1,8 +1,8 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+Aurora Halal is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
 
-Aurora Halal is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
+Aurora Halal is a techno and house artist based in United States of America, tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Barcelona and 52 more. Often billed alongside Priori, Kia (AU) and Avalon Emerson. Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Aurora Halal is a techno and house artist tracked on soundcheck, with 226 sets l
 
 ## Shares bills with
 
-Priori, Avalon Emerson, Kia (AU)
+Priori, Kia (AU), Avalon Emerson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

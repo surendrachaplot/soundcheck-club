@@ -1,6 +1,6 @@
 # Billy Bootleggers
 
-Billy Bootleggers is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Blue Star presents: blog_house" on Fri, 2 Oct 2026.
+Billy Bootleggers is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Blue Star presents: blog_house" on Fri, 2 Oct 2026.
 
 Billy Bootleggers is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including FKA Hardcore, LUNAx3 and RUBY RAWR. Browse upcoming dates, start times and who's playing. 13-15 Weekday Cross, Nottingham, NG1 2GB.
 
@@ -15,4 +15,4 @@ Billy Bootleggers is a music venue in Nottingham listed on soundcheck. 2 upcomin
 
 13-15 Weekday Cross, Nottingham, NG1 2GB, Nottingham
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/billy-bootleggers/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/billy-bootleggers/)*

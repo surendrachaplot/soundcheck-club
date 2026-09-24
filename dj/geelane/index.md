@@ -1,8 +1,8 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
+Gee Lane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
 
-Gee Lane is a house and disco artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Bali and Barcelona and 31 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: La Paloma, Barcelona on Fri 2 Oct.
+Gee Lane is a house and disco artist based in Spain, tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Bali and Barcelona and 31 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: La Paloma, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gee Lane is a house and disco artist tracked on soundcheck, with 117 sets logged
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

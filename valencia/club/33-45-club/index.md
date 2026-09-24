@@ -1,6 +1,6 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DUB DISPATCH x 33/45 - Reggae & Dub Night" on Thu, 24 Sept 2026.
+33/45 Club is a music venue in Valencia with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DUB DISPATCH x 33/45 - Reggae & Dub Night" on Thu, 24 Sept 2026.
 
 33/45 Club is a music venue in Valencia listed on soundcheck. 6 upcoming gigs, with line-ups including H-R-Z, Hexxe and SYM. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
@@ -19,4 +19,4 @@
 
 C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia, Valencia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*

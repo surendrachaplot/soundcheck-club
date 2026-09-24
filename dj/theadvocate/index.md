@@ -1,8 +1,8 @@
 # TheAdvocate
 
-TheAdvocate is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+TheAdvocate is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-TheAdvocate is a house and techno artist tracked on soundcheck, with 5 sets logged across All, Berlin, Cologne and Ibiza. Often billed alongside Miss Monique, AWEN and Adam Beyer. Next up: Etko, All on Fri 25 Sept.
+TheAdvocate is a house and techno artist based in Ukraine, tracked on soundcheck, with 5 sets logged across All, Berlin, Cologne and Ibiza. Often billed alongside Miss Monique, AWEN and Adam Beyer. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ TheAdvocate is a house and techno artist tracked on soundcheck, with 5 sets logg
 
 Miss Monique, AWEN, Adam Beyer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvocate/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvocate/)*

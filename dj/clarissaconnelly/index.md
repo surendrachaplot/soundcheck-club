@@ -1,8 +1,8 @@
 # Clarissa Connelly
 
-Clarissa Connelly is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Krakow on Thu, 8 Oct 2026.
+Clarissa Connelly is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Krakow on Thu, 8 Oct 2026.
 
-Clarissa Connelly is an electronic artist tracked on soundcheck, with 7 sets logged across Copenhagen, Krakow, Paris and Vancouver. Often billed alongside Muskila, Rune Kielsgaard and CTM (1). Next up: TBA, Krakow on Thu 8 Oct.
+Clarissa Connelly is an electronic artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen, Krakow, Paris and Vancouver. Often billed alongside Muskila, Rune Kielsgaard and CTM (1). Next up: TBA, Krakow on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Clarissa Connelly is an electronic artist tracked on soundcheck, with 7 sets log
 
 Muskila, Rune Kielsgaard, CTM (1)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissaconnelly/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarissaconnelly/)*

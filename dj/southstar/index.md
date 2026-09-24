@@ -1,8 +1,8 @@
 # southstar
 
-southstar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mondo, Madrid on Thu, 24 Sept 2026.
+southstar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mondo, Madrid on Thu, 24 Sept 2026.
 
-southstar is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Mondo, Madrid on Thu 24 Sept.
+southstar is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside Funk Tribu, DJ Heartstring and Janis Zielinski. Next up: Mondo, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ southstar is a techno and house artist tracked on soundcheck, with 59 sets logge
 
 Funk Tribu, DJ Heartstring, Janis Zielinski
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southstar/)*

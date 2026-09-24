@@ -1,6 +1,6 @@
 # Living~Stone
 
-Living~Stone is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Alternity, Toronto on Fri, 16 Oct 2026.
+Living~Stone is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Alternity, Toronto on Fri, 16 Oct 2026.
 
 Living~Stone is a drum & bass and bass artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Rhombi, Remedy and Assassin Bug. Next up: Alternity, Toronto on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Living~Stone is a drum & bass and bass artist based in Canada, tracked on soundc
 
 Rhombi, Remedy, Assassin Bug
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livingstone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livingstone/)*

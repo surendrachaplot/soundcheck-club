@@ -1,8 +1,8 @@
 # Zakia
 
-Zakia is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Palais, London on Sat, 26 Sept 2026.
+Zakia is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Palais, London on Sat, 26 Sept 2026.
 
-Zakia is a house and funk / soul artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Brussels and Helsinki and 9 more. Often billed alongside Leanne Wright, MarshmeLLo and Shy One. Next up: Palais, London on Sat 26 Sept.
+Zakia is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Brussels and Helsinki and 9 more. Often billed alongside Leanne Wright, MarshmeLLo and Shy One. Next up: Palais, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Zakia is a house and funk / soul artist tracked on soundcheck, with 38 sets logg
 
 Leanne Wright, MarshmeLLo, Shy One
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*

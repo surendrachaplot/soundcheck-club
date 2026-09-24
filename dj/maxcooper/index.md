@@ -1,8 +1,8 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Button Factory, Dublin on Sat, 26 Sept 2026.
+Max Cooper is a Techno and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Button Factory, Dublin on Sat, 26 Sept 2026.
 
-Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Actress, Logic1000 and Nicola Cruz. Next up: Button Factory, Dublin on Sat 26 Sept.
+Max Cooper is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Richie Hawtin, Sofia Kourtesis and Actress. Next up: Button Factory, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 se
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Button Factory | Dublin |
 | Sat, 3 Oct 2026 | fabric | London |
+| Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Fri, 13 Nov 2026 | Club Wintercircus | Ghent |
 | Sat, 14 Nov 2026 | Club Wintercircus | Ghent |
@@ -28,6 +29,6 @@ Max Cooper is a techno and electronica artist tracked on soundcheck, with 125 se
 
 ## Shares bills with
 
-Actress, Logic1000, Nicola Cruz
+Richie Hawtin, Sofia Kourtesis, Actress
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

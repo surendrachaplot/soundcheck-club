@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "CLIMAX One Year Anniversary " on Sun, 27 Sept 2026.
+Para Klub Beograd is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "CLIMAX One Year Anniversary " on Sun, 27 Sept 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Dimi Angelis, Filip Xavi, Lina K and Luka Jukic and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -15,4 +15,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 2 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

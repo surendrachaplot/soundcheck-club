@@ -1,8 +1,8 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
+Timmy Regisford is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Sun, 27 Sept 2026.
 
-Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: public records, Newyorkcity on Sun 27 Sept.
+Timmy Regisford is a house and deep house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: public records, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 61 
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

@@ -1,6 +1,6 @@
 # JSMN
 
-JSMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+JSMN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 JSMN is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, London, Losangeles and Newyorkcity and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ JSMN is a techno and house artist based in United States of America, tracked on 
 
 999999999, AC Slater, AIDA (CA)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*

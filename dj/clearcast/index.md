@@ -1,6 +1,6 @@
 # Clearcast
 
-Clearcast is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Clearcast is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Clearcast is a techno and garage artist based in United States of America, tracked on soundcheck, with 56 sets logged across Auckland, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Skiis, Vertigo and Adware. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Clearcast is a techno and garage artist based in United States of America, track
 
 Skiis, Vertigo, Adware
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clearcast/)*

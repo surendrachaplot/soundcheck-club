@@ -1,8 +1,8 @@
 # ONYVAA
 
-ONYVAA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 24 Oct 2026.
+ONYVAA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene Downtown Miami, Miami on Sat, 24 Oct 2026.
 
-ONYVAA is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 25 more. Often billed alongside Anfisa Letyago, Chris Liebing and Indira Paganotto. Next up: Jolene Downtown Miami, Miami on Sat 24 Oct.
+ONYVAA is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 25 more. Often billed alongside Anfisa Letyago, Chris Liebing and Indira Paganotto. Next up: Jolene Downtown Miami, Miami on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ONYVAA is a techno and house artist tracked on soundcheck, with 60 sets logged a
 
 Anfisa Letyago, Chris Liebing, Indira Paganotto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onyvaa-fr/)*

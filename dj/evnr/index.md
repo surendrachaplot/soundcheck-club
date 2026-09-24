@@ -1,0 +1,28 @@
+# EVNR
+
+EVNR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fünk, Mexico City on Sat, 10 Oct 2026.
+
+EVNR is a house and techno artist based in France, tracked on soundcheck, with 31 sets logged across Mexicocity and Paris. Often billed alongside Vickies, A-440 and Aérienne. Next up: Fünk, Mexicocity on Sat 10 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 10 Oct 2026 | Fünk | Mexico City |
+
+## Recently played
+
+- Terraza Catedral, Mexico City — Sat, 1 Aug 2026
+- Departamento, Mexico City — Wed, 29 Jul 2026
+- Terraza Dos Equis, Mexico City — Thu, 11 Jun 2026
+- TBA - Tonalá 171, Roma Norte, Mexico City — Fri, 29 May 2026
+- Terraza Catedral, Mexico City — Fri, 29 May 2026
+- TBA, Mexico City — Sat, 25 Apr 2026
+- MiMi Discoteque, Mexico City — Fri, 23 Jan 2026
+- Drama Radio Bar, Mexico City — Thu, 15 Jan 2026
+
+## Shares bills with
+
+Vickies, A-440, Aérienne
+
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evnr/)*

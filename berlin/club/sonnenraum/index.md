@@ -1,8 +1,8 @@
 # Sonnenraum
 
-Sonnenraum is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar" on Sun, 4 Oct 2026.
+Sonnenraum is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar" on Sun, 4 Oct 2026.
 
-Sonnenraum is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Cinthie, Dragana, Introspekt and Jennifer Loveless and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
+Sonnenraum is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Cinthie, Dragana, Introspekt and Jennifer Loveless and 2 more. Browse upcoming dates, start times and who's playing. Eichenstraße 4A, 12435 Berlin, Germany.
 
 ## What's on
 
@@ -10,11 +10,10 @@ Sonnenraum is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wit
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | mp3 w/ Cinthie, Introspekt, Jennifer Loveless, Konduku & Sansibar | Cinthie, Introspekt, Jennifer Loveless, Konduku, Mohajer, Rachel Noon, Sansibar |
 | Sun, 11 Oct 2026 | Witching Hour | Dragana, Justin Shaffer, Margaret Dygas |
-| Sun, 1 Nov 2026 | Outer Place |  |
 | Fri, 6 Nov 2026 | Uche Yara |  |
 
 ## Address
 
 Eichenstraße 4A, 12435 Berlin, Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sonnenraum/)*

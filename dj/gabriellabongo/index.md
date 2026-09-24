@@ -1,8 +1,8 @@
 # Gabriella Bongo
 
-Gabriella Bongo is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Quarters, Brighton on Fri, 23 Oct 2026.
+Gabriella Bongo is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Quarters, Brighton on Fri, 23 Oct 2026.
 
-Gabriella Bongo is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brighton and Bristol and 7 more. Often billed alongside Nu:Tone, Flava D and Metrik. Next up: Quarters, Brighton on Fri 23 Oct.
+Gabriella Bongo is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brighton and Bristol and 7 more. Often billed alongside Nu:Tone, Flava D and Metrik. Next up: Quarters, Brighton on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Gabriella Bongo is a drum & bass and jungle artist tracked on soundcheck, with 1
 
 Nu:Tone, Flava D, Metrik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellabongo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellabongo/)*

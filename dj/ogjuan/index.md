@@ -1,8 +1,8 @@
 # OG Juan
 
-OG Juan is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
+OG Juan is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 26 Sept 2026.
 
-OG Juan is a house and acid artist tracked on soundcheck, with 24 sets logged across Berlin, Lisbon, Madrid and Melbourne and 3 more. Often billed alongside DJ Gostoso, Gostoso and Telephones. Next up: Zentralwäscherei, Zurich on Sat 26 Sept.
+OG Juan is a house and acid artist based in Spain, tracked on soundcheck, with 24 sets logged across Berlin, Lisbon, Madrid and Melbourne and 3 more. Often billed alongside DJ Gostoso, Gostoso and Telephones. Next up: Zentralwäscherei, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ OG Juan is a house and acid artist tracked on soundcheck, with 24 sets logged ac
 
 DJ Gostoso, Gostoso, Telephones
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*

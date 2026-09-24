@@ -1,8 +1,8 @@
 # Confetti
 
-Confetti is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Outernet Live, London on Sat, 12 Dec 2026.
+Confetti is a Pop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Outernet Live, London on Sat, 12 Dec 2026.
 
-Confetti is a pop and r&b artist tracked on soundcheck, with 7 sets logged across London, Munich and Sanfrancisco. Often billed alongside AALIYAH, Anna Lazer and Ciara. Next up: Outernet Live, London on Sat 12 Dec.
+Confetti is a pop and r&b artist based in Sweden, tracked on soundcheck, with 7 sets logged across London, Munich and Sanfrancisco. Often billed alongside AALIYAH, Anna Lazer and Ciara. Next up: Outernet Live, London on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Confetti is a pop and r&b artist tracked on soundcheck, with 7 sets logged acros
 
 AALIYAH, Anna Lazer, Ciara
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confetti/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confetti/)*

@@ -1,8 +1,8 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Pop artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Pop artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
 
-EQ (Estratosfera + Qiri) are a club and pop duo based in Argentina, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Boston and 13 more. Often billed alongside Bclip, Ahadadream and Bakey. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
+EQ (Estratosfera + Qiri) are a club and pop duo based in Argentina, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Boston and 13 more. Often billed alongside Bclip, Kamixlo and Jawnino. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ EQ (Estratosfera + Qiri) are a club and pop duo based in Argentina, tracked on s
 
 ## Shares bills with
 
-Bclip, Ahadadream, Bakey
+Bclip, Kamixlo, Jawnino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

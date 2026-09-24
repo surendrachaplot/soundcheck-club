@@ -1,8 +1,8 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
+Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
-Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Village Underground, London on Fri 25 Sept.
+Liquid Earth is a house and techno artist based in United States of America, tracked on soundcheck, with 184 sets logged across All, Amsterdam, Antwerp and Austin and 50 more. Often billed alongside Mari.te, tINI and Youandewan. Next up: Village Underground, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets l
 | Sun, 27 Sept 2026 | Audiodise Park Montjuic | Barcelona |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Fri, 16 Oct 2026 | Radio Radio | Amsterdam |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 183 sets l
 
 ## Shares bills with
 
-Mari.te, tINI, Hamish & Toby
+Mari.te, tINI, Youandewan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

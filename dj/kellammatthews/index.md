@@ -1,6 +1,6 @@
 # Kellam Matthews
 
-Kellam Matthews is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
+Kellam Matthews is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Sat, 26 Sept 2026.
 
 Kellam Matthews is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Elle Dee, Lauren Flax and Mike Servito. Next up: Good Room, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kellam Matthews is a techno and house artist based in United States of America, 
 
 Elle Dee, Lauren Flax, Mike Servito
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellammatthews/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellammatthews/)*

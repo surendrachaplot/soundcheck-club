@@ -1,8 +1,8 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Loft, Manchester on Fri, 25 Sept 2026.
+Tomas Station is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Loft, Manchester on Fri, 25 Sept 2026.
 
-Tomas Station is a house and techno artist tracked on soundcheck, with 205 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 31 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: The Loft, Manchester on Fri 25 Sept.
+Tomas Station is a house and techno artist based in Colombia, tracked on soundcheck, with 205 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 31 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: The Loft, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Tomas Station is a house and techno artist tracked on soundcheck, with 205 sets 
 
 O.BEE, Ricardo Villalobos, Sonja Moonear
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

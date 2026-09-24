@@ -1,14 +1,15 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 25 Sept 2026.
+Adi (CO) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cobalt Studios, Newcastle on Fri, 25 Sept 2026.
 
-Adi (CO) is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Cobalt Studios, Newcastle on Fri 25 Sept.
+Adi (CO) is a techno and house artist based in Colombia, tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: Cobalt Studios, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Cobalt Studios | Newcastle |
+| Sat, 17 Oct 2026 | Final | Taipei |
 | Fri, 13 Nov 2026 | Palais | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Adi (CO) is a techno and house artist tracked on soundcheck, with 106 sets logge
 
 Unai Trotti, Jane Fitz, Walrus
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

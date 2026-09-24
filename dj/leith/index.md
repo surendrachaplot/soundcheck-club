@@ -1,14 +1,15 @@
 # Leith
 
-Leith is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Thu, 24 Sept 2026.
+Leith is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Thu, 24 Sept 2026.
 
-Leith is a house and tech house artist tracked on soundcheck, with 44 sets logged across Aberdeen, Edinburgh, Glasgow and Ibiza and 1 more. Often billed alongside Tomoya Mizuno, Billa Bazz and Jacob Husley. Next up: fabric, London on Thu 24 Sept.
+Leith is a house and tech house artist based in Lebanon, tracked on soundcheck, with 45 sets logged across Aberdeen, Edinburgh, Glasgow and Ibiza and 1 more. Often billed alongside Tomoya Mizuno, Billa Bazz and Jacob Husley. Next up: fabric, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | fabric | London |
+| Mon, 28 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Leith is a house and tech house artist tracked on soundcheck, with 44 sets logge
 
 Tomoya Mizuno, Billa Bazz, Jacob Husley
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leith/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leith/)*

@@ -1,8 +1,8 @@
 # HYBE
 
-HYBE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
+HYBE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
 
-HYBE is a techno and tech house artist tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Etwas, Matteo Freyrie and TEMPER TANTRA. Next up: Max Watt's, Melbourne on Thu 24 Sept.
+HYBE is a techno and tech house artist based in India, tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Etwas, Matteo Freyrie and TEMPER TANTRA. Next up: Max Watt's, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ HYBE is a techno and tech house artist tracked on soundcheck, with 35 sets logge
 
 Etwas, Matteo Freyrie, TEMPER TANTRA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*

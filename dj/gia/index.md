@@ -1,8 +1,8 @@
 # GIA
 
-GIA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+GIA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
-GIA is a techno and industrial artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Bristol and Ibiza and 10 more. Often billed alongside Billy Gillies, DJ Hyaluron and DJ Pheromone. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
+GIA is a techno and industrial artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Bristol and Ibiza and 10 more. Often billed alongside Billy Gillies, DJ Hyaluron and DJ Pheromone. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ GIA is a techno and industrial artist tracked on soundcheck, with 85 sets logged
 
 Billy Gillies, DJ Hyaluron, DJ Pheromone
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*

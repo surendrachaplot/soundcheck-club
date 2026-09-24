@@ -1,6 +1,6 @@
 # Tavastia
 
-Tavastia is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Yasuaki Shimizu" on Sun, 8 Nov 2026.
+Tavastia is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Yasuaki Shimizu" on Sun, 8 Nov 2026.
 
 Tavastia is a music venue in Helsinki listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tavastia is a music venue in Helsinki listed on soundcheck. 1 upcoming gig. Brow
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Yasuaki Shimizu |  |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/tavastia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/tavastia/)*

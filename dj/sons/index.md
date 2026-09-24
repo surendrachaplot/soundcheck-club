@@ -1,8 +1,8 @@
 # S.O.N.S
 
-S.O.N.S is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 宀 Club, Hong Kong on Sat, 26 Sept 2026.
+S.O.N.S is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 宀 Club, Hong Kong on Sat, 26 Sept 2026.
 
-S.O.N.S is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Yeonjun, GNMR and Minkyu. Next up: 宀 Club, Hongkong on Sat 26 Sept.
+S.O.N.S is a techno and house artist based in France, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Yeonjun, GNMR and Minkyu. Next up: 宀 Club, Hongkong on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ S.O.N.S is a techno and house artist tracked on soundcheck, with 87 sets logged 
 
 Yeonjun, GNMR, Minkyu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sons/)*

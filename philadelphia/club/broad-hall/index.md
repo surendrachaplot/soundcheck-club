@@ -1,6 +1,6 @@
 # broad hall.
 
-broad hall. is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "download" on Sat, 26 Sept 2026.
+broad hall. is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "download" on Sat, 26 Sept 2026.
 
 broad hall. is a music venue in Philadelphia listed on soundcheck. 4 upcoming gigs, with line-ups including America Loves Me, Derrick Carter, DJ Baby Berlin and JEWELSSEA and 2 more. Browse upcoming dates, start times and who's playing. 699 N. Broad Street, Philadelphia, PA 19123 USA.
 
@@ -17,4 +17,4 @@ broad hall. is a music venue in Philadelphia listed on soundcheck. 4 upcoming gi
 
 699 N. Broad Street, Philadelphia, PA 19123 USA, Philadelphia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*

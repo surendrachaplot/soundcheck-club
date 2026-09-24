@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 28 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice" on Wed, 23 Sept 2026.
+Jupiter Disco is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Roses: Clay Cornelius, Leon Georges, Reyer, Sibley" on Thu, 24 Sept 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 27 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB (2) and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Potluck: dj 5spice, satandoll, DJ Fat Frog, PSYCHOMOB, LILLA, chicas over rice | DJ Fat Frog, LILLA, chicas over rice, dj 5spice, satandoll |
 | Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon Georges, Reyer, Sibley | Reyer |
 | Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Mommy Husband, Pedestrian Access, dj goodboy (BK) |
 | Sat, 26 Sept 2026 | The Jukeboxx: James Juke + shanty mane | James Juke, shanty mane |
@@ -17,10 +16,11 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 28 upcoming 
 | Thu, 1 Oct 2026 | People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY | Han G, Jake From State Pharm, RICK E |
 | Sat, 3 Oct 2026 | Office Hours: GIANNA, Arjun Shah, Inés | Arjun Shah, GIANNA, Inés |
 | Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses |
-| Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago, Pedestrian Access |
+| Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago (US), Pedestrian Access |
+| Thu, 8 Oct 2026 | PluggedIN: bbbBbBB, Day Cart, HumanbIAN | BbbBbBB (2), Day Cart, HumanbIAN |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

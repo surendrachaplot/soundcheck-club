@@ -1,6 +1,6 @@
 # Otto Wagner Areal
 
-Otto Wagner Areal is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "TIIIP" on Fri, 2 Oct 2026.
+Otto Wagner Areal is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "TIIIP" on Fri, 2 Oct 2026.
 
 Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Dan Lodig, Kiawash, S.verin and Sarmabot and 2 more. Browse upcoming dates, start times and who's playing. Baumgartner Höhe 1, 1140 Wien.
 
@@ -14,4 +14,4 @@ Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming gi
 
 Baumgartner Höhe 1, 1140 Wien, Vienna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*

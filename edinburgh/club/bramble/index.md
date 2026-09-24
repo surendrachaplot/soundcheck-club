@@ -1,6 +1,6 @@
 # Bramble
 
-Bramble is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Giuseppe" on Fri, 25 Sept 2026.
+Bramble is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Giuseppe" on Fri, 25 Sept 2026.
 
 Bramble is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 16A Queen St, Edinburgh EH2 1JE.
 
@@ -15,4 +15,4 @@ Bramble is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. Bro
 
 16A Queen St, Edinburgh EH2 1JE, Edinburgh
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/bramble/)*

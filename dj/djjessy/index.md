@@ -1,6 +1,6 @@
 # DJ Jessy
 
-DJ Jessy is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
+DJ Jessy is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
 
 DJ Jessy is a house and progressive house artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside A.Well, Deaf Toucan and Ed Kent. Next up: Glamorama, Melbourne on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ DJ Jessy is a house and progressive house artist based in Australia, tracked on 
 
 A.Well, Deaf Toucan, Ed Kent
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*

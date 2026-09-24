@@ -1,8 +1,8 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Mozey is a drum & bass and jungle artist tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Birmingham and Boston and 27 more. Often billed alongside Kanine, Hedex and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Mozey is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Auckland, Birmingham and Boston and 27 more. Often billed alongside Kanine, Hedex and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 95 sets log
 
 Kanine, Hedex, Hybrid Minds
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

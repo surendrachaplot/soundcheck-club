@@ -1,8 +1,8 @@
 # Danielle
 
-Danielle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Strange Brew, Bristol on Fri, 2 Oct 2026.
+Danielle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Strange Brew, Bristol on Fri, 2 Oct 2026.
 
-Danielle is a techno and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Strange Brew, Bristol on Fri 2 Oct.
+Danielle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 145 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 32 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: Strange Brew, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Danielle is a techno and house artist tracked on soundcheck, with 145 sets logge
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

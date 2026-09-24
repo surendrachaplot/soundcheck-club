@@ -1,14 +1,13 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "TECHNO MITTWOCH" on Wed, 23 Sept 2026.
+Sensorium is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ETHER" on Fri, 25 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdallah and I, Andeel, April the pink and Bee Lincoln and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abdallah and I, Andeel, Blck-Swan and Daviti and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | TECHNO MITTWOCH | April the pink, Bee Lincoln, EVYA, J4NNICH, Pamela Svart, jaynetics, pink-panther |
 | Fri, 25 Sept 2026 | ETHER | Blck-Swan, Viktor Kampf, ØVERLOAD |
 | Sat, 26 Sept 2026 | Oriental Nights & Elemental Remembrance - A Sun & Earth Experience with Organic Electronic Music | Abdallah and I, Andeel, Jemski., Lara Elfara |
 | Sun, 27 Sept 2026 | TRIG | Mute |
@@ -18,9 +17,10 @@ Sensorium is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, wit
 | Wed, 14 Oct 2026 | TECHNO MITTWOCH | Blck-Swan, Manrick Stapez, Uninvited |
 | Fri, 16 Oct 2026 | ETHER |  |
 | Wed, 21 Oct 2026 | TECHNO MITTWOCH | Daviti, PETDuo, Viktor Kampf |
+| Sat, 24 Oct 2026 | SENSO NACHT |  |
 
 ## Address
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

@@ -1,8 +1,8 @@
 # KEVIN KOFII
 
-KEVIN KOFII is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Saloon, Tokyo on Thu, 22 Oct 2026.
+KEVIN KOFII is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Saloon, Tokyo on Thu, 22 Oct 2026.
 
-KEVIN KOFII is a garage and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside DC Noises, BAVR and Arter. Next up: Saloon, Tokyo on Thu 22 Oct.
+KEVIN KOFII is a garage and house artist based in Belgium, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside DC Noises, BAVR and Arter. Next up: Saloon, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ KEVIN KOFII is a garage and house artist tracked on soundcheck, with 28 sets log
 
 DC Noises, BAVR, Arter
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*

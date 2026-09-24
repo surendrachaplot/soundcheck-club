@@ -1,8 +1,8 @@
 # Crescendoll (AU)
 
-Crescendoll (AU) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Inner West Warehouse, Sydney on Fri, 25 Sept 2026.
+Crescendoll (AU) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Inner West Warehouse, Sydney on Fri, 25 Sept 2026.
 
-Crescendoll (AU) is a techno and club artist tracked on soundcheck, with 29 sets logged across Sydney. Often billed alongside Kato, SILLYBITCHESDIE and sovblkpssy. Next up: TBA - Inner West Warehouse, Sydney on Fri 25 Sept.
+Crescendoll (AU) is a techno and club artist based in Australia, tracked on soundcheck, with 29 sets logged across Sydney. Often billed alongside Kato, SILLYBITCHESDIE and sovblkpssy. Next up: TBA - Inner West Warehouse, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Crescendoll (AU) is a techno and club artist tracked on soundcheck, with 29 sets
 
 Kato, SILLYBITCHESDIE, sovblkpssy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crescendoll-au/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crescendoll-au/)*

@@ -1,6 +1,6 @@
 # Marco Passarani
 
-Marco Passarani is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Marco Passarani is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
 Marco Passarani is an electro and techno artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, London and Lyon and 7 more. Often billed alongside Alessandro Adriani, Alden Tyrell and Alessandro Hòtel Blangetti. Next up: FOLD, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Marco Passarani is an electro and techno artist based in Italy, tracked on sound
 
 Alessandro Adriani, Alden Tyrell, Alessandro Hòtel Blangetti
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*

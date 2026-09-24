@@ -1,8 +1,8 @@
 # Danny Zeidan
 
-Danny Zeidan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
+Danny Zeidan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Chicago on Sat, 26 Sept 2026.
 
-Danny Zeidan is a techno and house artist tracked on soundcheck, with 25 sets logged across Chicago and Detroit. Often billed alongside Anna Maria X, m.O.N.R.O.E. and Alex Kislov. Next up: TBA, Chicago on Sat 26 Sept.
+Danny Zeidan is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago and Detroit. Often billed alongside Anna Maria X, m.O.N.R.O.E. and Alex Kislov. Next up: TBA, Chicago on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Danny Zeidan is a techno and house artist tracked on soundcheck, with 25 sets lo
 
 Anna Maria X, m.O.N.R.O.E., Alex Kislov
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyzeidan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyzeidan/)*

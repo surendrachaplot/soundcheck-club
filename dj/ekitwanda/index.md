@@ -1,8 +1,8 @@
 # Ekitwanda
 
-Ekitwanda is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ESC, Montreal on Sat, 26 Sept 2026.
+Ekitwanda is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ESC, Montreal on Sat, 26 Sept 2026.
 
-Ekitwanda is a techno and club artist tracked on soundcheck, with 38 sets logged across Montreal. Often billed alongside Monsieurmadam, BLANKET and LaFHomme. Next up: ESC, Montreal on Sat 26 Sept.
+Ekitwanda is a techno and club artist based in Canada, tracked on soundcheck, with 38 sets logged across Montreal. Often billed alongside Monsieurmadam, BLANKET and LaFHomme. Next up: ESC, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ekitwanda is a techno and club artist tracked on soundcheck, with 38 sets logged
 
 Monsieurmadam, BLANKET, LaFHomme
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*

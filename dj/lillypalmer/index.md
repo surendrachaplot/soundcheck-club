@@ -1,8 +1,8 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Roxy, Prague on Fri, 25 Sept 2026.
+Lilly Palmer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roxy, Prague on Fri, 25 Sept 2026.
 
-Lilly Palmer is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Austin and Bangkok and 56 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Roxy, Prague on Fri 25 Sept.
+Lilly Palmer is a techno and house artist based in Switzerland, tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Austin and Bangkok and 56 more. Often billed alongside Gregor Tresher, Space 92 and Alignment. Next up: Roxy, Prague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lilly Palmer is a techno and house artist tracked on soundcheck, with 149 sets l
 
 Gregor Tresher, Space 92, Alignment
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

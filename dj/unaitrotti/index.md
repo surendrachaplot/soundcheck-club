@@ -1,8 +1,8 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
+Unai Trotti is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
 
-Unai Trotti is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Austin and Bali and 47 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Nocturna, Ibiza on Fri 25 Sept.
+Unai Trotti is a techno and house artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across All, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Nocturna, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,10 +10,14 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 165 sets lo
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Nocturna | Ibiza |
 | Sat, 26 Sept 2026 | FOLD | London |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Fri, 2 Oct 2026 | 24 Kitchen Street | Liverpool |
+| Sat, 17 Oct 2026 | Final | Taipei |
+| Fri, 23 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |
 | Sat, 19 Dec 2026 | Mint XL | Leeds |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -30,4 +34,4 @@ Unai Trotti is a techno and house artist tracked on soundcheck, with 165 sets lo
 
 Z@p, Vass, Junki Inoue
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

@@ -1,8 +1,8 @@
 # Lecouple Sound
 
-Lecouple Sound is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
+Lecouple Sound is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Goya Social Club, Madrid on Fri, 25 Sept 2026.
 
-Lecouple Sound is an electronica and house artist tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Alex Ferz, Andrés Cremisini and DJ Steaw. Next up: Goya Social Club, Madrid on Fri 25 Sept.
+Lecouple Sound is an electronica and house artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Alex Ferz, Andrés Cremisini and DJ Steaw. Next up: Goya Social Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Lecouple Sound is an electronica and house artist tracked on soundcheck, with 5 
 
 Alex Ferz, Andrés Cremisini, DJ Steaw
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lecouplesound/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lecouplesound/)*

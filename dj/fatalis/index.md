@@ -1,8 +1,8 @@
 # Fatalis
 
-Fatalis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
+Fatalis is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
 
-Fatalis is a techno and bass artist tracked on soundcheck, with 44 sets logged across Berlin and Shenzhen. Often billed alongside Warmchainss, Alion and Nebulae. Next up: OIL Club, Shenzhen on Sat 24 Oct.
+Fatalis is a techno and bass artist based in China, tracked on soundcheck, with 44 sets logged across Berlin and Shenzhen. Often billed alongside Warmchainss, Alion and Nebulae. Next up: OIL Club, Shenzhen on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fatalis is a techno and bass artist tracked on soundcheck, with 44 sets logged a
 
 Warmchainss, Alion, Nebulae
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalis/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalis/)*

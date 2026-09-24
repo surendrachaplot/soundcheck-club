@@ -1,8 +1,8 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
+LOLSNAKE is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laska V21, Riga on Fri, 25 Sept 2026.
 
-LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Laska V21, Riga on Fri 25 Sept.
+LOLSNAKE is a techno and house artist based in United States of America, tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Laska V21, Riga on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ LOLSNAKE is a techno and house artist tracked on soundcheck, with 223 sets logge
 
 VINVAR, Juliana Huxtable, Rakans
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolsnake/)*

@@ -1,8 +1,8 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
+Donato Dozzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Fri, 2 Oct 2026.
 
-Donato Dozzy is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Jasna 1, Warsaw on Fri 2 Oct.
+Donato Dozzy is a techno and house artist based in Italy, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Jasna 1, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Donato Dozzy is a techno and house artist tracked on soundcheck, with 99 sets lo
 
 Voices From The Lake, Spekki Webu, Batu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

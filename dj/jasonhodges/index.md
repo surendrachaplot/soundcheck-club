@@ -1,6 +1,6 @@
 # Jason Hodges
 
-Jason Hodges is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+Jason Hodges is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
 Jason Hodges is a house and disco artist based in Canada, tracked on soundcheck, with 30 sets logged across Amsterdam, Austin, Detroit and London and 5 more. Often billed alongside Mr. Haze, DJ Heather and DJ Colette. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Jason Hodges is a house and disco artist based in Canada, tracked on soundcheck,
 
 Mr. Haze, DJ Heather, DJ Colette
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonhodges/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonhodges/)*

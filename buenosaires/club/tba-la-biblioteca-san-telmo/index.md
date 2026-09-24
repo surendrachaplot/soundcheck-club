@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Armina x Karmic, La Biblioteca, San Telmo Buenos Aires" on Fri, 25 Sept 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Armina x Karmic, La Biblioteca, San Telmo Buenos Aires" on Fri, 25 Sept 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 12 upcoming gigs, with line-ups including Eli Nissan, Marcelo Vasami, Nick Varon and Rodriguez Jr. and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 17 Oct 2026 | Tantum - Somos Produce, La Biblioteca - ALLMusicParties | Tantum |
 | Sat, 24 Oct 2026 | Rocío Portillo - La Biblioteca, San Telmo - ALLMusicParties |  |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Forte Antenne, Rome on Fri, 25 Sept 2026.
+Marcel Dettmann is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Forte Antenne, Rome on Fri, 25 Sept 2026.
 
-Marcel Dettmann is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Forte Antenne, Rome on Fri 25 Sept.
+Marcel Dettmann is a techno and house artist based in Germany, tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Forte Antenne, Rome on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 268 set
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

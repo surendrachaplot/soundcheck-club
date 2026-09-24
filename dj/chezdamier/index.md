@@ -1,8 +1,8 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Chez Damier is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
-Chez Damier is a house and deep house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: H0L0, Newyorkcity on Sat 26 Sept.
+Chez Damier is a house and deep house artist based in United States of America, tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Eddie Leader, Garrett David and Dennis Ferrer. Next up: H0L0, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 149 set
 
 ## Shares bills with
 
-Eddie Leader, DJ Deep, Dennis Ferrer
+Eddie Leader, Garrett David, Dennis Ferrer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

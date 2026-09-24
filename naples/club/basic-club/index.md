@@ -1,6 +1,6 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "THE FIRST DANCE • Shy One + Davide D'Amico" on Sat, 26 Sept 2026.
+Basic Club is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "THE FIRST DANCE • Shy One + Davide D'Amico" on Sat, 26 Sept 2026.
 
 Basic Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Alessio Cristiano, Alex Neri, Alfonso Mauro and Davide D'Amico and 2 more. Browse upcoming dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
@@ -22,4 +22,4 @@ Basic Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, wit
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

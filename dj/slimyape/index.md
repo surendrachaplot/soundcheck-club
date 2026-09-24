@@ -1,8 +1,8 @@
 # Slimy Ape
 
-Slimy Ape is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Stage and Radio, Manchester on Sat, 24 Oct 2026.
+Slimy Ape is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Stage and Radio, Manchester on Sat, 24 Oct 2026.
 
-Slimy Ape is a dubstep and bass artist tracked on soundcheck, with 13 sets logged across Barcelona, Leeds, London and Manchester and 2 more. Often billed alongside Buckley (UK), Decibella and Etch. Next up: Stage and Radio, Manchester on Sat 24 Oct.
+Slimy Ape is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Leeds, London and Manchester and 2 more. Often billed alongside Buckley (UK), Decibella and Etch. Next up: Stage and Radio, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Slimy Ape is a dubstep and bass artist tracked on soundcheck, with 13 sets logge
 
 Buckley (UK), Decibella, Etch
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimyape/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimyape/)*

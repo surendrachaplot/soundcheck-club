@@ -1,8 +1,8 @@
 # GTI
 
-GTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Macadam, Nantes on Fri, 2 Oct 2026.
+GTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macadam, Nantes on Fri, 2 Oct 2026.
 
-GTI is a techno and trance artist tracked on soundcheck, with 62 sets logged across Berlin, Copenhagen, Lyon and Marseille and 5 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Macadam, Nantes on Fri 2 Oct.
+GTI is a techno and trance artist based in France, tracked on soundcheck, with 62 sets logged across Berlin, Copenhagen, Lyon and Marseille and 5 more. Often billed alongside Combe, Soyoon and Bambi (FR). Next up: Macadam, Nantes on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GTI is a techno and trance artist tracked on soundcheck, with 62 sets logged acr
 
 Combe, Soyoon, Bambi (FR)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gti/)*

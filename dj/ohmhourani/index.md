@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 26 Sept 2026.
+Ohm Hourani is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 26 Sept 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck, with 108 sets logged across Belgrade, Berlin, Boston and Detroit and 13 more. Often billed alongside Vincent Lemieux, Tomas Station and O.BEE. Next up: Société des arts technologiques, Montreal on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck
 
 Vincent Lemieux, Tomas Station, O.BEE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

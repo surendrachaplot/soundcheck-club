@@ -1,14 +1,15 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
+Laidlaw is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 197 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Mint XL, Leeds on Fri 25 Sept.
+Laidlaw is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 198 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Mint XL, Leeds on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
+| Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Aviva Studios | Manchester |
@@ -34,4 +35,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 197 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

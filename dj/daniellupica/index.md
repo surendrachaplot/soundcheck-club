@@ -1,8 +1,8 @@
 # Daniel Lupica
 
-Daniel Lupica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club 77, Sydney on Sat, 24 Oct 2026.
+Daniel Lupica is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club 77, Sydney on Sat, 24 Oct 2026.
 
-Daniel Lupica is a house and disco artist tracked on soundcheck, with 20 sets logged across Sydney. Often billed alongside Mike Who, DJ JNETT and Evie. Next up: Club 77, Sydney on Sat 24 Oct.
+Daniel Lupica is a house and disco artist based in Australia, tracked on soundcheck, with 20 sets logged across Sydney. Often billed alongside Mike Who, DJ JNETT and Evie. Next up: Club 77, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniel Lupica is a house and disco artist tracked on soundcheck, with 20 sets lo
 
 Mike Who, DJ JNETT, Evie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellupica/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellupica/)*

@@ -1,14 +1,15 @@
 # Âme
 
-Âme is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Sun, 27 Sept 2026.
+Âme is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Âme is a techno and house artist tracked on soundcheck, with 358 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Pacha Ibiza, Ibiza on Sun 27 Sept.
+Âme is a techno and house artist based in Germany, tracked on soundcheck, with 359 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Pacha Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Pacha Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Fri, 9 Oct 2026 | Audio Club | Geneva |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
@@ -34,4 +35,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

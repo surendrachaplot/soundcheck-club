@@ -1,8 +1,8 @@
 # Lord Spikeheart
 
-Lord Spikeheart is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Lord Spikeheart is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-Lord Spikeheart is an experimental and electronica artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside bela, Abul Mogard and Bill Kouligas. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Lord Spikeheart is an experimental and electronica artist based in Kenya, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside bela, Abul Mogard and Bill Kouligas. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Lord Spikeheart is an experimental and electronica artist tracked on soundcheck,
 
 bela, Abul Mogard, Bill Kouligas
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*

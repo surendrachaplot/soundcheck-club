@@ -1,13 +1,14 @@
 # Iorie
 
-Iorie is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Docks, Hamburg on Sat, 7 Nov 2026.
+Iorie is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
-Iorie is a house and downtempo artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Hamburg and Ibiza and 9 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Docks, Hamburg on Sat 7 Nov.
+Iorie is a house and deep house artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Hamburg and Ibiza and 9 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Sat, 7 Nov 2026 | Docks | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Iorie is a house and downtempo artist based in Germany, tracked on soundcheck, w
 
 Noraj Cue, Pauli Pocket, Sascha Cawa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iorie/)*

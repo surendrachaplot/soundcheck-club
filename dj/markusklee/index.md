@@ -1,8 +1,8 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Markus Klee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-Markus Klee is a techno and house artist tracked on soundcheck, with 85 sets logged across All, Amsterdam, Berlin and Copenhagen and 9 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Etko, All on Fri 25 Sept.
+Markus Klee is a techno and house artist based in Germany, tracked on soundcheck, with 85 sets logged across All, Amsterdam, Berlin and Copenhagen and 9 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Markus Klee is a techno and house artist tracked on soundcheck, with 85 sets log
 
 Prismode, Solvane, Malouna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*

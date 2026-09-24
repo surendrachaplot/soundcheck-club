@@ -1,8 +1,8 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
+Julian Fijma is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Julian Fijma is a house and tech house artist tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
+Julian Fijma is a house and tech house artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Julian Fijma is a house and tech house artist tracked on soundcheck, with 110 se
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

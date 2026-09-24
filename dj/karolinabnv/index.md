@@ -1,6 +1,6 @@
 # Karolina Bnv
 
-Karolina Bnv is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
+Karolina Bnv is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
 Karolina Bnv is a house and italo disco artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Hamburg and Milan and 2 more. Often billed alongside Franz Scala, Lennart (NL) and Max NRG Supply. Next up: Sameheads, Berlin on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Karolina Bnv is a house and italo disco artist tracked on soundcheck, with 53 se
 
 Franz Scala, Lennart (NL), Max NRG Supply
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinabnv/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinabnv/)*

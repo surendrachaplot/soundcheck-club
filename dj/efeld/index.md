@@ -1,8 +1,8 @@
 # E.Feld
 
-E.Feld is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 26 Sept 2026.
+E.Feld is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-E.Feld is a house and club artist tracked on soundcheck, with 4 sets logged across Losangeles and Sanfrancisco. Often billed alongside Ben Fonik, Club Chow and MarceauxMarceaux. Next up: F8 1192 Folsom, Sanfrancisco on Sat 26 Sept.
+E.Feld is a house and club artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles and Sanfrancisco. Often billed alongside Ben Fonik, Club Chow and MarceauxMarceaux. Next up: F8 1192 Folsom, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ E.Feld is a house and club artist tracked on soundcheck, with 4 sets logged acro
 
 Ben Fonik, Club Chow, MarceauxMarceaux
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efeld/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efeld/)*

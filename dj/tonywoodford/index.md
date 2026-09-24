@@ -1,8 +1,8 @@
 # Tony Woodford
 
-Tony Woodford is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Tony Woodford is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Tony Woodford is a tech house and garage artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Ben Jammin, Billy Daniel Bunter and Charlie Brown. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Tony Woodford is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Ben Jammin, Billy Daniel Bunter and Charlie Brown. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Tony Woodford is a tech house and garage artist tracked on soundcheck, with 6 se
 
 Ben Jammin, Billy Daniel Bunter, Charlie Brown
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonywoodford/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonywoodford/)*

@@ -1,6 +1,6 @@
 # TBA - Secret Location - Dalston
 
-TBA - Secret Location - Dalston is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Node presents" on Sun, 11 Oct 2026.
+TBA - Secret Location - Dalston is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Node presents" on Sun, 11 Oct 2026.
 
 TBA - Secret Location - Dalston is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Calla, Elias Sternin, Patrick Rowe and Remove Me. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Location - Dalston is a music venue in London listed on soundcheck.
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Node presents | Calla, Elias Sternin, Patrick Rowe, Remove Me |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location-dalston/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location-dalston/)*

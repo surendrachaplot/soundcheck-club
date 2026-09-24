@@ -1,8 +1,8 @@
 # Damiano (DE)
 
-Damiano (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Old Distillery, Berlin on Sat, 31 Oct 2026.
+Damiano (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Old Distillery, Berlin on Sat, 31 Oct 2026.
 
-Damiano (DE) is a house and techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Mython, Barakkuda and Marsch. Next up: TBA - Old Distillery, Berlin on Sat 31 Oct.
+Damiano (DE) is a house and techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Mython, Barakkuda and Marsch. Next up: TBA - Old Distillery, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Damiano (DE) is a house and techno artist tracked on soundcheck, with 7 sets log
 
 Mython, Barakkuda, Marsch
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianode/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianode/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "INTERNA" on Fri, 25 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "INTERNA" on Fri, 25 Sept 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Aio, Alan Fitzpatrick, Alex Stein and Amber Broos and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 28 upcoming gigs,
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

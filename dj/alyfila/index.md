@@ -1,8 +1,8 @@
 # Aly & Fila
 
-Aly & Fila is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 24 Sept 2026.
+Aly & Fila is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Aly & Fila are a trance and progressive house duo tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Austin and Berlin and 24 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: 528 Ibiza, Ibiza on Thu 24 Sept.
+Aly & Fila are a trance and progressive house duo based in Egypt, tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Austin and Berlin and 24 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: 528 Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Aly & Fila are a trance and progressive house duo tracked on soundcheck, with 50
 
 Paul Van Dyk, Ferry Corsten, John O'Callaghan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*

@@ -1,8 +1,8 @@
 # Alex Picone
 
-Alex Picone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
+Alex Picone is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Fri, 2 Oct 2026.
 
-Alex Picone is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Desyn, Nick (IT) and Miki. Next up: Hoppetosse, Berlin on Fri 2 Oct.
+Alex Picone is a house and tech house artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Desyn, Nick (IT) and Miki. Next up: Hoppetosse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex Picone is a house and tech house artist tracked on soundcheck, with 65 sets
 
 Desyn, Nick (IT), Miki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpicone/)*

@@ -1,8 +1,8 @@
 # Duane Powell
 
-Duane Powell is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - 4622 S King Dr., Chicago on Fri, 2 Oct 2026.
+Duane Powell is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 4622 S King Dr., Chicago on Fri, 2 Oct 2026.
 
-Duane Powell is a deep house and house artist tracked on soundcheck, with 38 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside Terry Hunter, Adorio and CTRLZORA. Next up: TBA - 4622 S King Dr., Chicago on Fri 2 Oct.
+Duane Powell is a deep house and house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside Terry Hunter, Adorio and CTRLZORA. Next up: TBA - 4622 S King Dr., Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Duane Powell is a deep house and house artist tracked on soundcheck, with 38 set
 
 Terry Hunter, Adorio, CTRLZORA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duanepowell/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duanepowell/)*

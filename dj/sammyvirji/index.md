@@ -1,8 +1,8 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
+Sammy Virji is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gallagher Square, San Diego on Sat, 17 Oct 2026.
 
-Sammy Virji is a garage and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Gallagher Square, Sandiego on Sat 17 Oct.
+Sammy Virji is a garage and house artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Oppidan, Interplanetary Criminal and salute. Next up: Gallagher Square, Sandiego on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Sammy Virji is a garage and house artist tracked on soundcheck, with 125 sets lo
 
 Oppidan, Interplanetary Criminal, salute
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

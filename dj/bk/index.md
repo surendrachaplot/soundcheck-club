@@ -1,8 +1,8 @@
 # BK
 
-BK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+BK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-BK is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin, Dundee, Helsinki and Liverpool and 6 more. Often billed alongside Andy Farley, Anahita Shamsaei and Hannah Laing. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+BK is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, Dundee, Helsinki and Liverpool and 6 more. Often billed alongside Andy Farley, Anahita Shamsaei and Hannah Laing. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BK is a techno and trance artist tracked on soundcheck, with 20 sets logged acro
 
 Andy Farley, Anahita Shamsaei, Hannah Laing
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bk/)*

@@ -1,8 +1,8 @@
 # Cees
 
-Cees is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Madam, Amsterdam on Sat, 31 Oct 2026.
+Cees is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Madam, Amsterdam on Sat, 31 Oct 2026.
 
-Cees is an afro house and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 4 more. Often billed alongside LevyM, David Mackay and SHANNIN. Next up: Madam, Amsterdam on Sat 31 Oct.
+Cees is an afro house and house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 4 more. Often billed alongside LevyM, David Mackay and SHANNIN. Next up: Madam, Amsterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cees is an afro house and house artist tracked on soundcheck, with 19 sets logge
 
 LevyM, David Mackay, SHANNIN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*

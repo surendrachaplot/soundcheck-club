@@ -1,6 +1,6 @@
 # MELISSA DUST
 
-MELISSA DUST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
+MELISSA DUST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
 
 MELISSA DUST is a house and techno artist based in Turkey, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Istanbul and London and 2 more. Often billed alongside Antonio Marki, AJ Christou and AMANE. Next up: Parallel 45, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ MELISSA DUST is a house and techno artist based in Turkey, tracked on soundcheck
 
 Antonio Marki, AJ Christou, AMANE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melissadust/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melissadust/)*

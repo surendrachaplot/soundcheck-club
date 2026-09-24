@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie" on Fri, 2 Oct 2026.
+Sala Siroco is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Quinoa Experience: Buraye (Live), Betamax, Chris Gorrie" on Fri, 2 Oct 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Betamax_, Buraye, Chris Gorrie and CRKS290 and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -21,4 +21,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, wi
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

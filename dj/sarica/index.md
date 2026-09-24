@@ -1,8 +1,8 @@
 # Sarica
 
-Sarica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
+Sarica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
 
-Sarica is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Belgrade, Berlin and Hongkong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
+Sarica is a techno and house artist based in Croatia, tracked on soundcheck, with 74 sets logged across Amsterdam, Belgrade, Berlin and Hongkong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sarica is a techno and house artist tracked on soundcheck, with 74 sets logged a
 
 RIØ (DE), Sub.Vision, Rosan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarica/)*

@@ -1,8 +1,8 @@
 # Diego (3)
 
-Diego (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
+Diego (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Thu, 24 Sept 2026.
 
-Diego (3) is a house and tech house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Brussels, Detroit and Hamburg and 4 more. Often billed alongside Khun, Mees Mattern and Sheefy McFly. Next up: Spkrbox, Detroit on Thu 24 Sept.
+Diego (3) is a house and tech house artist based in Canada, tracked on soundcheck, with 11 sets logged across Amsterdam, Brussels, Detroit and Hamburg and 4 more. Often billed alongside Khun, Mees Mattern and Sheefy McFly. Next up: Spkrbox, Detroit on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Diego (3) is a house and tech house artist tracked on soundcheck, with 11 sets l
 
 Khun, Mees Mattern, Sheefy McFly
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*

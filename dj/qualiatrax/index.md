@@ -1,8 +1,8 @@
 # Qualia Trax
 
-Qualia Trax is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+Qualia Trax is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
 
-Qualia Trax is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Manta, Kosmovision and NoSpice. Next up: Paloma, Berlin on Thu 1 Oct.
+Qualia Trax is a house and techno artist based in Germany, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Manta, Kosmovision and NoSpice. Next up: Paloma, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Qualia Trax is a house and techno artist tracked on soundcheck, with 50 sets log
 
 Manta, Kosmovision, NoSpice
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qualiatrax/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qualiatrax/)*

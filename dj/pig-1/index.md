@@ -1,8 +1,8 @@
 # PIG (1)
 
-PIG (1) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
+PIG (1) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Sat, 26 Sept 2026.
 
-PIG (1) is a techno and bass artist tracked on soundcheck, with 4 sets logged across Berlin, Leipzig and Nurnberg. Often billed alongside Cufme, DJ Business (2) and DJ Luiser. Next up: elipamanoke, Leipzig on Sat 26 Sept.
+PIG (1) is a techno and bass artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Leipzig and Nurnberg. Often billed alongside Cufme, DJ Business (2) and DJ Luiser. Next up: elipamanoke, Leipzig on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ PIG (1) is a techno and bass artist tracked on soundcheck, with 4 sets logged ac
 
 Cufme, DJ Business (2), DJ Luiser
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pig-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pig-1/)*

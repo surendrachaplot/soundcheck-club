@@ -1,8 +1,8 @@
 # Matteo Gamba
 
-Matteo Gamba is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+Matteo Gamba is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
 
-Matteo Gamba is a house and italo disco artist tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside Sciarada, Fabrizio Brancaccio and Aidan. Next up: Paloma, Berlin on Thu 1 Oct.
+Matteo Gamba is a house and italo disco artist based in Italy, tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside Sciarada, Fabrizio Brancaccio and Aidan. Next up: Paloma, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matteo Gamba is a house and italo disco artist tracked on soundcheck, with 47 se
 
 Sciarada, Fabrizio Brancaccio, Aidan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogamba/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matteogamba/)*

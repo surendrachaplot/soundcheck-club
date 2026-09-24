@@ -1,6 +1,6 @@
 # CITY1
 
-CITY1 is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
+CITY1 is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at clubasia, Tokyo on Sat, 26 Sept 2026.
 
 CITY1 is a dubstep and bass artist based in Japan, tracked on soundcheck, with 31 sets logged across Tokyo. Often billed alongside Goth-Trad, HELKTRAM and yuitty. Next up: clubasia, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CITY1 is a dubstep and bass artist based in Japan, tracked on soundcheck, with 3
 
 Goth-Trad, HELKTRAM, yuitty
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/city1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/city1/)*

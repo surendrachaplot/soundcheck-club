@@ -1,8 +1,8 @@
 # Haruka
 
-Haruka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Haruka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Haruka is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., HVL and Patrick Russell. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Haruka is a techno and house artist based in Japan, tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside DJ MARIA., HVL and Patrick Russell. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Haruka is a techno and house artist tracked on soundcheck, with 131 sets logged 
 
 DJ MARIA., HVL, Patrick Russell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haruka/)*

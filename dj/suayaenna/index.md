@@ -1,6 +1,6 @@
 # Suay Aenna
 
-Suay Aenna is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
+Suay Aenna is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
 
 Suay Aenna is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg and Stuttgart. Often billed alongside KENZ, Alex Benz and DJ Pinky Promise. Next up: Südpol, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Suay Aenna is a trance and techno artist based in Germany, tracked on soundcheck
 
 KENZ, Alex Benz, DJ Pinky Promise
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suayaenna/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suayaenna/)*

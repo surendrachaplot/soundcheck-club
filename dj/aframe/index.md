@@ -1,8 +1,8 @@
 # ĀFRAME
 
-ĀFRAME is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OST, Berlin on Thu, 15 Oct 2026.
+ĀFRAME is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Thu, 15 Oct 2026.
 
-ĀFRAME is a techno and trance artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Carotin, GEN97 and ANDATA. Next up: OST, Berlin on Thu 15 Oct.
+ĀFRAME is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Carotin, GEN97 and ANDATA. Next up: OST, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@
 
 Carotin, GEN97, ANDATA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aframe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aframe/)*

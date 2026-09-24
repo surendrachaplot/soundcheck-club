@@ -1,8 +1,8 @@
 # Ryan Sadorus
 
-Ryan Sadorus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Roar Brewing, Detroit on Sat, 26 Sept 2026.
+Ryan Sadorus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Roar Brewing, Detroit on Sat, 26 Sept 2026.
 
-Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 65 sets logged across Detroit. Often billed alongside Gregboi, Marcus NF Harris and Brian Kage. Next up: TBA - Roar Brewing, Detroit on Sat 26 Sept.
+Ryan Sadorus is a house and deep house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Detroit. Often billed alongside Gregboi, Marcus NF Harris and Brian Kage. Next up: TBA - Roar Brewing, Detroit on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ryan Sadorus is a house and deep house artist tracked on soundcheck, with 65 set
 
 Gregboi, Marcus NF Harris, Brian Kage
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*

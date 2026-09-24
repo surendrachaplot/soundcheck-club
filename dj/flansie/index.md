@@ -1,8 +1,8 @@
 # Flansie
 
-Flansie is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+Flansie is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
-Flansie is a house and bass artist tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Sunnysoposted, Ansjowvis and JSPRV35. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
+Flansie is a house and bass artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Sunnysoposted, Ansjowvis and JSPRV35. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Flansie is a house and bass artist tracked on soundcheck, with 11 sets logged ac
 
 Sunnysoposted, Ansjowvis, JSPRV35
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*

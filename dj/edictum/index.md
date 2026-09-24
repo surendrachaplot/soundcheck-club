@@ -1,8 +1,8 @@
 # Edictum
 
-Edictum is a Progressive House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Loop, Vienna on Sat, 3 Oct 2026.
+Edictum is a Progressive House and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Loop, Vienna on Sat, 3 Oct 2026.
 
-Edictum is a progressive house and hardcore artist tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and DIAS. Next up: Loop, Vienna on Sat 3 Oct.
+Edictum is a progressive house and hardcore artist based in Austria, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and DIAS. Next up: Loop, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Edictum is a progressive house and hardcore artist tracked on soundcheck, with 1
 
 Fede Frostl, Daniel Darkhofer, DIAS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*

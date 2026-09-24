@@ -1,6 +1,6 @@
 # Concord NYC
 
-Concord NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "AFTER DARK NYC - Late Night RnB & Trap Soul Party" on Fri, 25 Sept 2026.
+Concord NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AFTER DARK NYC - Late Night RnB & Trap Soul Party" on Fri, 25 Sept 2026.
 
 Concord NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 92 Ludlow St New York, NY 10002 United States.
 
@@ -15,4 +15,4 @@ Concord NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming gig
 
 92 Ludlow St New York, NY 10002 United States, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/concord-nyc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/concord-nyc/)*

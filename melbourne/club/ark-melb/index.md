@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva" on Sat, 26 Sept 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ark // Cotto - Luke Hovey - Papa Nugs [UK] - Black Dave - Eva" on Sat, 26 Sept 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Black Dave, CHEEKI and Crybaby and 2 more. Browse upcoming dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

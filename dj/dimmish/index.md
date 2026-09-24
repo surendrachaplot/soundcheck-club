@@ -1,8 +1,8 @@
 # Dimmish
 
-Dimmish is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Dimmish is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
-Dimmish is a tech house and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 20 more. Often billed alongside ACA (YU), Stefano Noferini and ALISHA. Next up: Cova Santa, Ibiza on Sun 27 Sept.
+Dimmish is a tech house and house artist based in Italy, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Buenosaires and Chicago and 20 more. Often billed alongside ACA (YU), Stefano Noferini and ALISHA. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Dimmish is a tech house and house artist tracked on soundcheck, with 80 sets log
 
 ACA (YU), Stefano Noferini, ALISHA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*

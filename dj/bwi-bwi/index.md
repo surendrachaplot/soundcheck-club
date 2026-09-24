@@ -1,8 +1,8 @@
 # Bwi-Bwi
 
-Bwi-Bwi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
+Bwi-Bwi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Barbossa, Montreal on Fri, 25 Sept 2026.
 
-Bwi-Bwi is a house and techno artist tracked on soundcheck, with 17 sets logged across Lyon, Marseille, Montreal and Toronto. Often billed alongside Mok-T, Donotstealmyname and ATRIP. Next up: Barbossa, Montreal on Fri 25 Sept.
+Bwi-Bwi is a house and techno artist based in France, tracked on soundcheck, with 17 sets logged across Lyon, Marseille, Montreal and Toronto. Often billed alongside Mok-T, Donotstealmyname and ATRIP. Next up: Barbossa, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bwi-Bwi is a house and techno artist tracked on soundcheck, with 17 sets logged 
 
 Mok-T, Donotstealmyname, ATRIP
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bwi-bwi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bwi-bwi/)*

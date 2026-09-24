@@ -1,6 +1,6 @@
 # Jolani Jhones
 
-Jolani Jhones is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
+Jolani Jhones is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Skatecafe, Amsterdam on Sat, 26 Sept 2026.
 
 Jolani Jhones is a house and club artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Gabriel Muñoz, Diego Armando and Faster Horses. Next up: Skatecafe, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jolani Jhones is a house and club artist based in Netherlands, tracked on soundc
 
 Gabriel Muñoz, Diego Armando, Faster Horses
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolanijhones/)*

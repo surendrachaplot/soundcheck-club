@@ -1,8 +1,8 @@
 # SCHELLT
 
-SCHELLT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+SCHELLT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
-SCHELLT is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Bucharest, Hamburg and Krakow and 3 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: Klub Progresja, Warsaw on Sat 3 Oct.
+SCHELLT is a techno and trance artist based in Ukraine, tracked on soundcheck, with 51 sets logged across Berlin, Bucharest, Hamburg and Krakow and 3 more. Often billed alongside VRAXX, Józef Keuner and ERNST (UA). Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ SCHELLT is a techno and trance artist tracked on soundcheck, with 51 sets logged
 
 VRAXX, Józef Keuner, ERNST (UA)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schellt/)*

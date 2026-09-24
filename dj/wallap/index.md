@@ -1,8 +1,8 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Le Makeda, Marseille on Sat, 26 Sept 2026.
+Walla P is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Makeda, Marseille on Sat, 26 Sept 2026.
 
-Walla P is a funk / soul and disco artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Lisbon and Marseille and 4 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Le Makeda, Marseille on Sat 26 Sept.
+Walla P is a funk / soul and disco artist based in Canada, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Lisbon and Marseille and 4 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Le Makeda, Marseille on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Walla P is a funk / soul and disco artist tracked on soundcheck, with 51 sets lo
 
 Kris Guilty, Alina (MTL), Guthrie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*

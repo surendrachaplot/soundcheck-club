@@ -1,8 +1,8 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hangar48 Club, Madrid on Sat, 26 Sept 2026.
+DJ Ruby is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hangar48 Club, Madrid on Sat, 26 Sept 2026.
 
-DJ Ruby is a progressive house and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Hangar48 Club, Madrid on Sat 26 Sept.
+DJ Ruby is a progressive house and house artist based in Malta, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 17 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Hangar48 Club, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ DJ Ruby is a progressive house and house artist tracked on soundcheck, with 65 s
 
 Daniel Blade, Abdy, Ruben Karapetyan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

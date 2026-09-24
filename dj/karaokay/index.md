@@ -1,8 +1,8 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mondo Open Air, Madrid on Sat, 26 Sept 2026.
+Kara Okay is a House and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mondo Open Air, Madrid on Sat, 26 Sept 2026.
 
-Kara Okay is a house and trance artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Bali and Cologne and 14 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Mondo Open Air, Madrid on Sat 26 Sept.
+Kara Okay is a house and trance artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Bali and Cologne and 14 more. Often billed alongside DART, Bella Claxton and Gerardo Niva. Next up: Mondo Open Air, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Kara Okay is a house and trance artist tracked on soundcheck, with 71 sets logge
 
 ## Shares bills with
 
-DART, Bella Claxton, Freddi
+DART, Bella Claxton, Gerardo Niva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

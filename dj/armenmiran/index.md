@@ -1,14 +1,15 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
+Armen Miran is a Deep House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Evergreen Brick Works, Toronto on Sun, 27 Sept 2026.
 
-Armen Miran is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 83 sets logged across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Evergreen Brick Works, Toronto on Sun 27 Sept.
+Armen Miran is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 84 sets logged across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Evergreen Brick Works, Toronto on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Evergreen Brick Works | Toronto |
+| Sat, 31 Oct 2026 | Balboa Park | San Diego |
 | Fri, 13 Nov 2026 | Do Not Sit On The Furniture | Miami |
 | Wed, 25 Nov 2026 | TBA - Downtown LA | Los Angeles |
 
@@ -27,4 +28,4 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 Nick Warren, Borella, Caleesi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

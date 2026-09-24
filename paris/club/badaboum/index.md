@@ -1,8 +1,8 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Club — LA CH!CK: 100% FRENCH POP" on Thu, 24 Sept 2026.
+Badaboum is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Club — LA CH!CK: 100% FRENCH POP" on Thu, 24 Sept 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Bennet (DE), cfds, Curses and Dana Kuehr and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Bennet (DE), cfds, Curses and Dana Kuehr and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with 
 | Fri, 2 Oct 2026 | Concert — Otha, Luxie |  |
 | Fri, 2 Oct 2026 | Club — Orange Crush: Bennet B2B Sinéad, Zuri, RĒVE | Bennet (DE), Sinéad, Zuri |
 | Sat, 3 Oct 2026 | Club — House of Love: Nightchou & Young Pulse | Nightchou, Young Pulse |
-| Fri, 16 Oct 2026 | Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel | Dana Kuehr, Janeret, LAMALICE, Mel |
-| Sat, 17 Oct 2026 | Club — Spray, Pureblast, Maco Maria | Maco Maria, Pureblast, Spray |
-| Fri, 23 Oct 2026 | Concert — Mari Merenda, Virginia Cambuci |  |
+| Thu, 8 Oct 2026 | Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL |  |
+| Fri, 9 Oct 2026 | Club — more girls behind decks Birthday Party | Elise Massoni |
+| Thu, 15 Oct 2026 | Club — LA CH!CK: JUST DANCE IRL |  |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

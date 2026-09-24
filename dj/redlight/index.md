@@ -1,8 +1,8 @@
 # Redlight
 
-Redlight is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Redlight is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Redlight is a house and drum & bass artist tracked on soundcheck, with 14 sets logged across Belfast, Brighton, Bristol and Kyoto and 3 more. Often billed alongside Champion, Chloé Robinson and 3.14. Next up: DRUMSHEDS, London on Sat 7 Nov.
+Redlight is a house and drum & bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Belfast, Brighton, Bristol and Kyoto and 3 more. Often billed alongside Champion, Chloé Robinson and 3.14. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Redlight is a house and drum & bass artist tracked on soundcheck, with 14 sets l
 
 Champion, Chloé Robinson, 3.14
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redlight/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redlight/)*

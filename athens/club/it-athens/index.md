@@ -1,6 +1,6 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "atomwerk 01" on Fri, 25 Sept 2026.
+IT Athens is a music venue in Athens with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "atomwerk 01" on Fri, 25 Sept 2026.
 
 IT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, with line-ups including Brazi, DJ B2B, Jacopo Sb and Nico Kass and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
@@ -23,4 +23,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 10 upcoming gigs, wit
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

@@ -1,8 +1,8 @@
 # Barbuto
 
-Barbuto is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+Barbuto is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
-Barbuto is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Melbourne, Sandiego and Sydney. Often billed alongside Nick Reverse, PAPCO and Trent Hadid. Next up: Civic Underground, Sydney on Sat 10 Oct.
+Barbuto is a techno and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Melbourne, Sandiego and Sydney. Often billed alongside Nick Reverse, PAPCO and Trent Hadid. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Barbuto is a techno and tech house artist tracked on soundcheck, with 24 sets lo
 
 Nick Reverse, PAPCO, Trent Hadid
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbuto-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbuto-us/)*

@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "8MM & Shameless/Limitless present: Morgan Garrett + Keith Leaf (DJ)" on Wed, 30 Sept 2026.
+8MM is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "8MM & Shameless/Limitless present: Morgan Garrett + Keith Leaf (DJ)" on Wed, 30 Sept 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and LINTD and 1 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -20,4 +20,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

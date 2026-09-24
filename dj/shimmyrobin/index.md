@@ -1,13 +1,14 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
+Shimmy Robin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Shimmy Robin is a techno and house artist tracked on soundcheck, with 109 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Najeh, dj blip and Lenard Klein. Next up: TBA, Hamburg on Sat 31 Oct.
+Shimmy Robin is a techno and house artist based in Germany, tracked on soundcheck, with 110 sets logged across All, Berlin, Cologne and Copenhagen and 4 more. Often billed alongside Najeh, dj blip and Lenard Klein. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shimmy Robin is a techno and house artist tracked on soundcheck, with 109 sets l
 
 Najeh, dj blip, Lenard Klein
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*

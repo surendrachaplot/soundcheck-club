@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Skin On Skin, Effy & Benwal" on Fri, 25 Sept 2026.
+The Warehouse is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Skin On Skin, Effy & Benwal" on Fri, 25 Sept 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including ATRIP, Benwal, Champion and Charlotte Ord and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, 
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

@@ -1,13 +1,14 @@
 # Flørist
 
-Flørist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at public records, New York City on Fri, 16 Oct 2026.
+Flørist is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Sat, 10 Oct 2026.
 
-Flørist is a house and techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Hamburg and London and 8 more. Often billed alongside Nathan Melja, C3D-E and Estimulo. Next up: public records, Newyorkcity on Fri 16 Oct.
+Flørist is a house and techno artist based in Canada, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Hamburg and London and 9 more. Often billed alongside Nathan Melja, C3D-E and Estimulo. Next up: Système, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Système | Montreal |
 | Fri, 16 Oct 2026 | public records | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Flørist is a house and techno artist tracked on soundcheck, with 38 sets logged
 
 Nathan Melja, C3D-E, Estimulo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*

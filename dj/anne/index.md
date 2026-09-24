@@ -1,8 +1,8 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
+ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrica Abandonada, Sao Paulo on Sat, 26 Sept 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Fabrica Abandonada, Saopaulo on Sat 26 Sept.
+ANNĒ is a techno and house artist based in Greece, tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Fabrica Abandonada, Saopaulo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 187 sets logged a
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

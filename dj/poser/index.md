@@ -1,8 +1,8 @@
 # POSER
 
-POSER is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Henz Club, Seoul on Fri, 25 Sept 2026.
+POSER is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Henz Club, Seoul on Fri, 25 Sept 2026.
 
-POSER is a house and jazz artist tracked on soundcheck, with 14 sets logged across Dublin, London and Seoul. Often billed alongside Becky (2), DJ-CK and Coinín Beag. Next up: The Henz Club, Seoul on Fri 25 Sept.
+POSER is a house and jazz artist based in Ireland, tracked on soundcheck, with 14 sets logged across Dublin, London and Seoul. Often billed alongside Becky (2), DJ-CK and Coinín Beag. Next up: The Henz Club, Seoul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ POSER is a house and jazz artist tracked on soundcheck, with 14 sets logged acro
 
 Becky (2), DJ-CK, Coinín Beag
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poser/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poser/)*

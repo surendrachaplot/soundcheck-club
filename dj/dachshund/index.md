@@ -1,6 +1,6 @@
 # Dachshund
 
-Dachshund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Audio Club, Geneva on Fri, 9 Oct 2026.
+Dachshund is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Fri, 9 Oct 2026.
 
 Dachshund is a techno and house artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Geneva and Zurich. Often billed alongside DJ Reas, Matthias Tanzmann and STVO. Next up: Audio Club, Geneva on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Dachshund is a techno and house artist based in Switzerland, tracked on soundche
 
 DJ Reas, Matthias Tanzmann, STVO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dachshund/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dachshund/)*

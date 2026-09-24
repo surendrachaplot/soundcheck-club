@@ -1,8 +1,8 @@
 # Petit Problème
 
-Petit Problème is a Jungle and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
+Petit Problème is a Jungle and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
 
-Petit Problème is a jungle and grime artist tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside SIMMS, Janaway and Nio-B. Next up: Vespers Club, London on Sat 26 Sept.
+Petit Problème is a jungle and grime artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside SIMMS, Janaway and Nio-B. Next up: Vespers Club, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Petit Problème is a jungle and grime artist tracked on soundcheck, with 13 sets
 
 SIMMS, Janaway, Nio-B
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitprobleme/)*

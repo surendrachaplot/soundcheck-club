@@ -1,8 +1,8 @@
 # Slim Media Player
 
-Slim Media Player is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
+Slim Media Player is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
 
-Slim Media Player is a techno and house artist tracked on soundcheck, with 19 sets logged across Vancouver. Often billed alongside dj_2button, Dairy Free and Syd Woz. Next up: TBA, Vancouver on Fri 2 Oct.
+Slim Media Player is a techno and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Vancouver. Often billed alongside dj_2button, Dairy Free and Syd Woz. Next up: TBA, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Slim Media Player is a techno and house artist tracked on soundcheck, with 19 se
 
 dj_2button, Dairy Free, Syd Woz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimmediaplayer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimmediaplayer/)*

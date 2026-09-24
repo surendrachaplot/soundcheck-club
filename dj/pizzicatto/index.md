@@ -1,8 +1,8 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Pizzicatto is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
-Pizzicatto is a house and tech house artist tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 26 Sept.
+Pizzicatto is a house and tech house artist based in Spain, tracked on soundcheck, with 62 sets logged across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Spook Club, Valencia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Pizzicatto is a house and tech house artist tracked on soundcheck, with 62 sets 
 
 Varis, Pau Pérez, Sueezo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzicatto/)*

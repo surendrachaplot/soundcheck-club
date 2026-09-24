@@ -1,6 +1,6 @@
 # DJ Zombie
 
-DJ Zombie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+DJ Zombie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 DJ Zombie is a house and techno artist based in Thailand, tracked on soundcheck, with 44 sets logged across Amsterdam and Bangkok. Often billed alongside Yoongying, Club Mascot and DZ GAS. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -9,7 +9,7 @@ DJ Zombie is a house and techno artist based in Thailand, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
-| Fri, 11 Dec 2026 | TBA | Bangkok |
+| Fri, 11 Dec 2026 | TBA - bamboo.base.camping, Nakhon Nayok | Bangkok |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ DJ Zombie is a house and techno artist based in Thailand, tracked on soundcheck,
 
 Yoongying, Club Mascot, DZ GAS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzombie/)*

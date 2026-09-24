@@ -1,8 +1,8 @@
 # Harry Turner
 
-Harry Turner is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kizuna, London on Sat, 31 Oct 2026.
+Harry Turner is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kizuna, London on Sat, 31 Oct 2026.
 
-Harry Turner is a tech house and house artist tracked on soundcheck, with 16 sets logged across Edinburgh, London and Sheffield. Often billed alongside Suly Aslan, Mas Fuego and Raldo. Next up: Kizuna, London on Sat 31 Oct.
+Harry Turner is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh, London and Sheffield. Often billed alongside Suly Aslan, Mas Fuego and Raldo. Next up: Kizuna, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Harry Turner is a tech house and house artist tracked on soundcheck, with 16 set
 
 Suly Aslan, Mas Fuego, Raldo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryturner/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryturner/)*

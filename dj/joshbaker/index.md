@@ -1,8 +1,8 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
+Josh Baker is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets logged across Aberdeen, Amsterdam, Austin and Bali and 52 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
+Josh Baker is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 230 sets logged across Aberdeen, Amsterdam, Austin and Bali and 53 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 16 Oct 2026 | Phantom, Paris | Paris |
 | Sun, 25 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 19 Nov 2026 | Substation | Seattle |
@@ -33,4 +34,4 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 229 sets
 
 Max Dean, Rossi, Prospa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

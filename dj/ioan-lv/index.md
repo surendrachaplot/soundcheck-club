@@ -1,6 +1,6 @@
 # iOAN (LV)
 
-iOAN (LV) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at B2 Rīga, Riga on Fri, 2 Oct 2026.
+iOAN (LV) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at B2 Rīga, Riga on Fri, 2 Oct 2026.
 
 iOAN (LV) is a minimal and house artist based in Latvia, tracked on soundcheck, with 25 sets logged across Bali, Barcelona, Berlin and Budapest and 3 more. Often billed alongside D I N, DEEP DISTRICT and DËKYR. Next up: B2 Rīga, Riga on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ iOAN (LV) is a minimal and house artist based in Latvia, tracked on soundcheck, 
 
 D I N, DEEP DISTRICT, DËKYR
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ioan-lv/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ioan-lv/)*

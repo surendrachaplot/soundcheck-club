@@ -1,8 +1,8 @@
 # Kalopsia
 
-Kalopsia is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
+Kalopsia is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 25 Sept 2026.
 
-Kalopsia is a techno and breakbeat artist tracked on soundcheck, with 28 sets logged across Brussels, Edinburgh, Glasgow and Paris. Often billed alongside manu_facturer, 3SBAT and Lockedback. Next up: EXIT Glasgow, Glasgow on Fri 25 Sept.
+Kalopsia is a techno and breakbeat artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Brussels, Edinburgh, Glasgow and Paris. Often billed alongside manu_facturer, 3SBAT and Lockedback. Next up: EXIT Glasgow, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kalopsia is a techno and breakbeat artist tracked on soundcheck, with 28 sets lo
 
 manu_facturer, 3SBAT, Lockedback
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*

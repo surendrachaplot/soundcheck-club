@@ -1,8 +1,8 @@
 # Elesbaan
 
-Elesbaan is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Elesbaan is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-Elesbaan is a techno and industrial artist tracked on soundcheck, with 6 sets logged across Berlin and Madrid. Often billed alongside Xpansul, Cristian Varela and Pelacha. Next up: Fabrik, Madrid on Sun 11 Oct.
+Elesbaan is a techno and industrial artist based in Spain, tracked on soundcheck, with 6 sets logged across Berlin and Madrid. Often billed alongside Xpansul, Cristian Varela and Pelacha. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Elesbaan is a techno and industrial artist tracked on soundcheck, with 6 sets lo
 
 Xpansul, Cristian Varela, Pelacha
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elesbaan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elesbaan/)*

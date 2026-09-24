@@ -1,8 +1,8 @@
 # DC Noises
 
-DC Noises is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+DC Noises is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
-DC Noises is a garage and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Arter, BAVR and KEVIN KOFII. Next up: TRAUM, Antwerp on Fri 2 Oct.
+DC Noises is a garage and house artist based in Belgium, tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Arter, BAVR and KEVIN KOFII. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DC Noises is a garage and house artist tracked on soundcheck, with 65 sets logge
 
 Arter, BAVR, KEVIN KOFII
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*

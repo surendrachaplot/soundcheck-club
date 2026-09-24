@@ -1,8 +1,8 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spybar, Chicago on Fri, 25 Sept 2026.
+Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spybar, Chicago on Fri, 25 Sept 2026.
 
-Dam Swindle is a house and disco artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Spybar, Chicago on Fri 25 Sept.
+Dam Swindle is a house and disco artist based in Netherlands, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside D Stone, Eileen (NL) and Laura Meester. Next up: Spybar, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 189 sets log
 
 ## Shares bills with
 
-D Stone, BELLA (NL), Cinthie
+D Stone, Eileen (NL), Laura Meester
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

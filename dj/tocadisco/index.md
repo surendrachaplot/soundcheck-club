@@ -1,8 +1,8 @@
 # Tocadisco
 
-Tocadisco is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Tocadisco is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-Tocadisco is a techno and trance artist tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Frankfurt and Stuttgart and 2 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Tocadisco is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne, Frankfurt and Stuttgart and 2 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Tocadisco is a techno and trance artist tracked on soundcheck, with 22 sets logg
 
 DJ Jordan, Teenage Mutants, A.N.I.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tocadisco/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tocadisco/)*

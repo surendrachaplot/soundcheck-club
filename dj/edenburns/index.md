@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
+Eden Burns is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
 
 Eden Burns is a house and techno artist based in New Zealand, tracked on soundcheck, with 55 sets logged across Auckland, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Adriana (1), DJ City and Ed Kent. Next up: Glamorama, Melbourne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Eden Burns is a house and techno artist based in New Zealand, tracked on soundch
 
 Adriana (1), DJ City, Ed Kent
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

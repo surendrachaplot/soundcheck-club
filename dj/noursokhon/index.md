@@ -1,14 +1,15 @@
 # Nour Sokhon
 
-Nour Sokhon is a Experimental and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Richten25, Berlin on Sun, 4 Oct 2026.
+Nour Sokhon is a Experimental and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Richten25, Berlin on Sun, 4 Oct 2026.
 
-Nour Sokhon is an experimental and funk / soul artist based in Lebanon, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Vienna and 1 more. Often billed alongside Acidfinky, Anna Sharifi and Chikiss. Next up: Richten25, Berlin on Sun 4 Oct.
+Nour Sokhon is an experimental and funk / soul artist based in Lebanon, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Vienna and 1 more. Often billed alongside Acidfinky, Anna Sharifi and Chikiss. Next up: Richten25, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Richten25 | Berlin |
+| Mon, 12 Oct 2026 | Start.Bahn - Genezarethkirche | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nour Sokhon is an experimental and funk / soul artist based in Lebanon, tracked 
 
 Acidfinky, Anna Sharifi, Chikiss
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noursokhon/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noursokhon/)*

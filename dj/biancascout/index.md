@@ -1,8 +1,8 @@
 # Bianca Scout
 
-Bianca Scout is a Experimental and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Bianca Scout is a Experimental and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Bianca Scout is an experimental and post-punk artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Ormside Projects, London on Sat 26 Sept.
+Bianca Scout is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Rainy Miller, 2K88 and Lauren Duffus. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Bianca Scout is an experimental and post-punk artist tracked on soundcheck, with
 
 Rainy Miller, 2K88, Lauren Duffus
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancascout/)*

@@ -1,8 +1,8 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
+Neel is a Techno and Electronica artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
 
-Neel is a techno and electronica artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
+Neel is a techno and electronica artist based in Italy, tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside Anthony Linell, Kudeki and Voices From The Lake. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Neel is a techno and electronica artist tracked on soundcheck, with 102 sets log
 
 ## Shares bills with
 
-Anthony Linell, Donato Dozzy, Kudeki
+Anthony Linell, Kudeki, Voices From The Lake
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

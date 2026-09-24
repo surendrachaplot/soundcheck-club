@@ -1,8 +1,8 @@
 # Warlord®
 
-Warlord® is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
+Warlord® is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marmorbar, Berlin on Sat, 26 Sept 2026.
 
-Warlord® is a club and r&b artist tracked on soundcheck, with 20 sets logged across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], benzii and 1000bodies. Next up: Marmorbar, Berlin on Sat 26 Sept.
+Warlord® is a club and r&b artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], benzii and 1000bodies. Next up: Marmorbar, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Warlord® is a club and r&b artist tracked on soundcheck, with 20 sets logged ac
 
 bod [包家巷], benzii, 1000bodies
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*

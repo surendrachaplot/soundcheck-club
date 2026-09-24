@@ -1,8 +1,8 @@
 # Andy4000
 
-Andy4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Rex Club, Paris on Sat, 3 Oct 2026.
+Andy4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rex Club, Paris on Sat, 3 Oct 2026.
 
-Andy4000 is a techno and house artist tracked on soundcheck, with 35 sets logged across Brussels, Lyon, Marseille and Paris. Often billed alongside Mad Rey, Broodoo Ramses and GLITTER55. Next up: Rex Club, Paris on Sat 3 Oct.
+Andy4000 is a techno and house artist based in France, tracked on soundcheck, with 35 sets logged across Brussels, Lyon, Marseille and Paris. Often billed alongside Mad Rey, Broodoo Ramses and GLITTER55. Next up: Rex Club, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andy4000 is a techno and house artist tracked on soundcheck, with 35 sets logged
 
 Mad Rey, Broodoo Ramses, GLITTER55
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*

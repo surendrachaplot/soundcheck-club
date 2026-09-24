@@ -1,8 +1,8 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
+Ø [Phase] is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lincoln Factory, Detroit on Sat, 3 Oct 2026.
 
-Ø [Phase] is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Basel and Berlin and 39 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: Lincoln Factory, Detroit on Sat 3 Oct.
+Ø [Phase] is a techno and house artist based in United Kingdom, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Basel and Berlin and 39 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: Lincoln Factory, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

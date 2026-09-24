@@ -1,8 +1,8 @@
 # Kalyma
 
-Kalyma is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Volt Club Milano, Milan on Thu, 24 Sept 2026.
+Kalyma is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Volt Club Milano, Milan on Thu, 24 Sept 2026.
 
-Kalyma is a techno and afro house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Milan and Munich. Often billed alongside DESIREE (RSA), Guy Gerber and Reznik. Next up: Volt Club Milano, Milan on Thu 24 Sept.
+Kalyma is a techno and afro house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Milan and Munich. Often billed alongside DESIREE (RSA), Guy Gerber and Reznik. Next up: Volt Club Milano, Milan on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kalyma is a techno and afro house artist tracked on soundcheck, with 17 sets log
 
 DESIREE (RSA), Guy Gerber, Reznik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyma/)*

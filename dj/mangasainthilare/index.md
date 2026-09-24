@@ -1,14 +1,15 @@
 # Manga Saint Hilare
 
-Manga Saint Hilare is a Grime and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+Manga Saint Hilare is a Grime and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
-Manga Saint Hilare is a grime and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Grandmixxer, CHAMBER45 and Flowdan. Next up: Fuchs2, Prague on Sat 26 Sept.
+Manga Saint Hilare is a grime and garage artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Grandmixxer, CHAMBER45 and Flowdan. Next up: Fuchs2, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fuchs2 | Prague |
+| Fri, 16 Oct 2026 | Beaver Works | Leeds |
 | Sat, 17 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Manga Saint Hilare is a grime and garage artist based in United Kingdom, tracked
 
 Grandmixxer, CHAMBER45, Flowdan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangasainthilare/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangasainthilare/)*

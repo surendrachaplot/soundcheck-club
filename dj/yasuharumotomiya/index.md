@@ -1,8 +1,8 @@
 # YASUHARU MOTOMIYA
 
-YASUHARU MOTOMIYA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
+YASUHARU MOTOMIYA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
 
-YASUHARU MOTOMIYA is a house and techno artist tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside HARUTO, KUBOTA and YAMARCHY. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
+YASUHARU MOTOMIYA is a house and techno artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside HARUTO, KUBOTA and YAMARCHY. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YASUHARU MOTOMIYA is a house and techno artist tracked on soundcheck, with 15 se
 
 HARUTO, KUBOTA, YAMARCHY
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuharumotomiya/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuharumotomiya/)*

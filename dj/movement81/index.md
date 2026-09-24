@@ -1,8 +1,8 @@
 # Movement81
 
-Movement81 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mary St Live, Sheffield on Sat, 3 Oct 2026.
+Movement81 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mary St Live, Sheffield on Sat, 3 Oct 2026.
 
-Movement81 is an electronica and experimental artist tracked on soundcheck, with 10 sets logged across Bristol, Cardiff, London and Sheffield. Often billed alongside AM sin, Beau Beaumont and Curtain Twitcher. Next up: Mary St Live, Sheffield on Sat 3 Oct.
+Movement81 is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bristol, Cardiff, London and Sheffield. Often billed alongside AM sin, Beau Beaumont and Curtain Twitcher. Next up: Mary St Live, Sheffield on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Movement81 is an electronica and experimental artist tracked on soundcheck, with
 
 AM sin, Beau Beaumont, Curtain Twitcher
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/movement81/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/movement81/)*

@@ -1,17 +1,17 @@
 # Hagglers Corner
 
-Hagglers Corner is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Attikk presents: Sam Redmore" on Fri, 2 Oct 2026.
+Hagglers Corner is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Attikk presents: Sam Redmore" on Fri, 2 Oct 2026.
 
-Hagglers Corner is a music venue in Sheffield listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Queens Road, Sheffield, S2 4DU.
+Hagglers Corner is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including Sam Redmore. Browse upcoming dates, start times and who's playing. Queens Road, Sheffield, S2 4DU.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Attikk presents: Sam Redmore |  |
+| Fri, 2 Oct 2026 | Attikk presents: Sam Redmore | Sam Redmore |
 
 ## Address
 
 Queens Road, Sheffield, S2 4DU, Sheffield
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hagglers-corner/)*

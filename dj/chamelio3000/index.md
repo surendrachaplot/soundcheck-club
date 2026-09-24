@@ -1,8 +1,8 @@
 # Chamelio 3000
 
-Chamelio 3000 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Kowalski, Stuttgart on Fri, 25 Sept 2026.
+Chamelio 3000 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kowalski, Stuttgart on Fri, 25 Sept 2026.
 
-Chamelio 3000 is a house and techno artist tracked on soundcheck, with 50 sets logged across Berlin and Stuttgart. Often billed alongside Michael Clash Gottschalk, Schlepp Geist and Alexander Maier. Next up: Kowalski, Stuttgart on Fri 25 Sept.
+Chamelio 3000 is a house and techno artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin and Stuttgart. Often billed alongside Michael Clash Gottschalk, Schlepp Geist and Alexander Maier. Next up: Kowalski, Stuttgart on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Chamelio 3000 is a house and techno artist tracked on soundcheck, with 50 sets l
 
 Michael Clash Gottschalk, Schlepp Geist, Alexander Maier
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamelio3000/)*

@@ -1,13 +1,14 @@
 # Ryota (JP)
 
-Ryota (JP) is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Magno, Madrid on Thu, 1 Oct 2026.
+Ryota (JP) is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at House Bar Muse, Osaka on Sat, 26 Sept 2026.
 
-Ryota (JP) is a bass and garage artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Barcelona and Ibiza and 7 more. Often billed alongside Ryota, SAMO (JP) and YUVIE. Next up: Club Magno, Madrid on Thu 1 Oct.
+Ryota (JP) is a bass and garage artist based in Japan, tracked on soundcheck, with 36 sets logged across Amsterdam, Bangkok, Barcelona and Ibiza and 7 more. Often billed alongside Ryota, SAMO (JP) and YUVIE. Next up: House Bar Muse, Osaka on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | House Bar Muse | Osaka |
 | Thu, 1 Oct 2026 | Club Magno | Madrid |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
@@ -26,4 +27,4 @@ Ryota (JP) is a bass and garage artist tracked on soundcheck, with 35 sets logge
 
 Ryota, SAMO (JP), YUVIE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*

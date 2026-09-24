@@ -1,8 +1,8 @@
 # Mimi Love
 
-Mimi Love is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Say No More Madrid, Madrid on Thu, 24 Sept 2026.
+Mimi Love is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Say No More Madrid, Madrid on Thu, 24 Sept 2026.
 
-Mimi Love is a house and deep house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 18 more. Often billed alongside Franca, Britta Arnold and Sven Dohse. Next up: Say No More Madrid, Madrid on Thu 24 Sept.
+Mimi Love is a house and deep house artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 18 more. Often billed alongside Franca, Britta Arnold and Sven Dohse. Next up: Say No More Madrid, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mimi Love is a house and deep house artist tracked on soundcheck, with 101 sets 
 
 Franca, Britta Arnold, Sven Dohse
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*

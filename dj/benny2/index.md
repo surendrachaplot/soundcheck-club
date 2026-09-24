@@ -1,8 +1,8 @@
 # Benny2
 
-Benny2 is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
+Benny2 is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Grey Space In The Middle, The Hague on Fri, 9 Oct 2026.
 
-Benny2 is a house and club artist tracked on soundcheck, with 26 sets logged across Amsterdam and Thehague. Often billed alongside Jan Koster, SAIDAH and mance. Next up: The Grey Space In The Middle, Thehague on Fri 9 Oct.
+Benny2 is a house and club artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam and Thehague. Often billed alongside Jan Koster, SAIDAH and mance. Next up: The Grey Space In The Middle, Thehague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Benny2 is a house and club artist tracked on soundcheck, with 26 sets logged acr
 
 Jan Koster, SAIDAH, mance
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benny2/)*

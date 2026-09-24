@@ -1,8 +1,8 @@
 # The Prodigy
 
-The Prodigy is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Roadrunner, Boston on Thu, 24 Sept 2026.
+The Prodigy is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roadrunner, Boston on Thu, 24 Sept 2026.
 
-The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Roadrunner, Boston on Thu 24 Sept.
+The Prodigy is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Roadrunner, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 se
 
 Carl Cox, Andy C, Jamie Jones
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*

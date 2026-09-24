@@ -1,8 +1,8 @@
 # Stefan Andrei
 
-Stefan Andrei is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Stefan Andrei is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
-Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 29 sets logged across Amsterdam and London. Often billed alongside Obreja., Zigy and Desuba. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
+Stefan Andrei is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam and London. Often billed alongside Obreja., Zigy and Desuba. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Stefan Andrei is a house and minimal techno artist tracked on soundcheck, with 2
 
 Obreja., Zigy, Desuba
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanandrei/)*

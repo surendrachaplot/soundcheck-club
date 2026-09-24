@@ -1,8 +1,8 @@
 # Unkle Fon
 
-Unkle Fon is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
+Unkle Fon is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cadavra, Madrid on Thu, 24 Sept 2026.
 
-Unkle Fon is a techno and electronica artist tracked on soundcheck, with 49 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Pyramidal Decode, Gabriel D'or & Bordoy and Irazu. Next up: Cadavra, Madrid on Thu 24 Sept.
+Unkle Fon is a techno and electronica artist based in Spain, tracked on soundcheck, with 49 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Pyramidal Decode, Gabriel D'or & Bordoy and Irazu. Next up: Cadavra, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Unkle Fon is a techno and electronica artist tracked on soundcheck, with 49 sets
 
 Pyramidal Decode, Gabriel D'or & Bordoy, Irazu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unklefon/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unklefon/)*

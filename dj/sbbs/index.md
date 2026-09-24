@@ -1,8 +1,8 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+SBBS is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
-SBBS is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Varanasi, Gridlock and RayRay. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
+SBBS is a techno and tech house artist based in France, tracked on soundcheck, with 27 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Varanasi, Gridlock and RayRay. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 27 sets logge
 
 Varanasi, Gridlock, RayRay
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

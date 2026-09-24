@@ -1,14 +1,15 @@
 # theories
 
-theories is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
+theories is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
 
-theories is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin and Brussels. Often billed alongside MFX (1), Menzel and DJ Buona Sara. Next up: Monarch, Berlin on Sat 3 Oct.
+theories is a techno and house artist based in Colombia, tracked on soundcheck, with 27 sets logged across All, Berlin and Brussels. Often billed alongside MFX (1), Menzel and DJ Buona Sara. Next up: Monarch, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Monarch | Berlin |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ theories is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 MFX (1), Menzel, DJ Buona Sara
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*

@@ -1,8 +1,8 @@
 # MASSI.
 
-MASSI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
+MASSI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
 
-MASSI. is a techno and house artist tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside DAYZZI, 6 SENSE and Harry Connell. Next up: ark (Melb), Melbourne on Sat 7 Nov.
+MASSI. is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside DAYZZI, 6 SENSE and Harry Connell. Next up: ark (Melb), Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MASSI. is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 DAYZZI, 6 SENSE, Harry Connell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massi./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massi./)*

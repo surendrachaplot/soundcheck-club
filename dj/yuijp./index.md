@@ -1,8 +1,8 @@
 # YUI (JP.)
 
-YUI (JP.) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mitsuki, Tokyo on Wed, 7 Oct 2026.
+YUI (JP.) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mitsuki, Tokyo on Wed, 7 Oct 2026.
 
-YUI (JP.) is a techno and minimal artist tracked on soundcheck, with 7 sets logged across Tbilisi and Tokyo. Often billed alongside HVL, Kvanchi and Hamatsuki. Next up: Mitsuki, Tokyo on Wed 7 Oct.
+YUI (JP.) is a techno and minimal artist based in Japan, tracked on soundcheck, with 7 sets logged across Tbilisi and Tokyo. Often billed alongside HVL, Kvanchi and Hamatsuki. Next up: Mitsuki, Tokyo on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ YUI (JP.) is a techno and minimal artist tracked on soundcheck, with 7 sets logg
 
 HVL, Kvanchi, Hamatsuki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp./)*

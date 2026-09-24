@@ -1,8 +1,8 @@
 # UriBlanch
 
-UriBlanch is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 26 Sept 2026.
+UriBlanch is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 26 Sept 2026.
 
-UriBlanch is a minimal and house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside Niklas Becher, ANNASNEL and Lidia Lo. Next up: Toekomstmuziek, Amsterdam on Sat 26 Sept.
+UriBlanch is a minimal and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside Niklas Becher, ANNASNEL and Lidia Lo. Next up: Toekomstmuziek, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ UriBlanch is a minimal and house artist tracked on soundcheck, with 8 sets logge
 
 Niklas Becher, ANNASNEL, Lidia Lo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*

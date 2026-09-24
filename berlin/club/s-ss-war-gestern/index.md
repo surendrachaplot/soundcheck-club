@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "❖ Cosmic Thursdays season opening ❖" on Thu, 24 Sept 2026.
+Süss War Gestern is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "❖ Cosmic Thursdays season opening ❖" on Thu, 24 Sept 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Better Call Paul, Bruder Jakob, Dicso_Muzek and Gregor Rost and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming gi
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

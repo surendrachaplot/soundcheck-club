@@ -1,14 +1,16 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BARDO, Milan on Sun, 27 Sept 2026.
+Enrica Falqui is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BARDO, Milan on Sun, 27 Sept 2026.
 
-Enrica Falqui is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: BARDO, Milan on Sun 27 Sept.
+Enrica Falqui is a techno and house artist based in Italy, tracked on soundcheck, with 120 sets logged across All, Amsterdam, Antwerp and Athens and 35 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: BARDO, Milan on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | BARDO | Milan |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 10 Oct 2026 | The DBA | Manchester |
 | Thu, 22 Oct 2026 | De Sering | Amsterdam |
 | Sat, 14 Nov 2026 | Kater | Berlin |
@@ -28,4 +30,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 118 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

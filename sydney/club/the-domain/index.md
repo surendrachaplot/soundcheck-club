@@ -1,6 +1,6 @@
 # The Domain
 
-The Domain is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Anyma presents Æden - Sydney" on Sat, 17 Oct 2026.
+The Domain is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Anyma presents Æden - Sydney" on Sat, 17 Oct 2026.
 
 The Domain is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Anyma. Browse upcoming dates, start times and who's playing. Art Gallery Rd; Sydney, NSW 2000; Australia.
 
@@ -14,4 +14,4 @@ The Domain is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with
 
 Art Gallery Rd; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-domain/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-domain/)*

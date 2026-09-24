@@ -1,8 +1,8 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 24 Oct 2026.
+Alex Farell is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 24 Oct 2026.
 
-Alex Farell is a techno and trance artist tracked on soundcheck, with 119 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 36 more. Often billed alongside SIKOTI, Azyr and Leaha. Next up: The Liquid Room, Edinburgh on Sat 24 Oct.
+Alex Farell is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 119 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 36 more. Often billed alongside SIKOTI, Azyr and Leaha. Next up: The Liquid Room, Edinburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Alex Farell is a techno and trance artist tracked on soundcheck, with 119 sets l
 
 SIKOTI, Azyr, Leaha
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

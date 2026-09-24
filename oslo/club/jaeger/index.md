@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken" on Fri, 25 Sept 2026.
+Jaeger is a music venue in Oslo with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken" on Fri, 25 Sept 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line-ups including Einmusik, Finnebassen, G-HA and Ivan Smagghe and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -20,4 +20,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 7 upcoming gigs, with line
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

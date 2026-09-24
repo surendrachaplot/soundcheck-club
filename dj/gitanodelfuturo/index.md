@@ -1,13 +1,14 @@
 # gitano del futuro
 
-gitano del futuro is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Meteoro, Barcelona on Sat, 26 Sept 2026.
+gitano del futuro is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bassement, Madrid on Thu, 24 Sept 2026.
 
-gitano del futuro is a techno and hardcore artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Madrid, Newyorkcity and Valencia. Often billed alongside MIA FLAW, BZZHOUND and Linapary. Next up: Meteoro, Barcelona on Sat 26 Sept.
+gitano del futuro is a techno and hardcore artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Madrid, Newyorkcity and Valencia. Often billed alongside MIA FLAW, BZZHOUND and Linapary. Next up: The Bassement, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | The Bassement | Madrid |
 | Sat, 26 Sept 2026 | Meteoro | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ gitano del futuro is a techno and hardcore artist based in Spain, tracked on sou
 
 MIA FLAW, BZZHOUND, Linapary
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gitanodelfuturo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gitanodelfuturo/)*

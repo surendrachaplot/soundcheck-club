@@ -1,8 +1,8 @@
 # NK100
 
-NK100 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
+NK100 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
 
-NK100 is a techno and house artist tracked on soundcheck, with 20 sets logged across Shenzhen. Often billed alongside DJ 86, Beibeilon and Fatalis. Next up: OIL Club, Shenzhen on Fri 30 Oct.
+NK100 is a techno and house artist based in China, tracked on soundcheck, with 20 sets logged across Shenzhen. Often billed alongside DJ 86, Beibeilon and Fatalis. Next up: OIL Club, Shenzhen on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NK100 is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 DJ 86, Beibeilon, Fatalis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nk100/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nk100/)*

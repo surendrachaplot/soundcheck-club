@@ -1,8 +1,8 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
+DJ Stingray 313 is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nouveau Casino, Paris on Fri, 2 Oct 2026.
 
-DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Nouveau Casino, Paris on Fri 2 Oct.
+DJ Stingray 313 is a techno and electro artist based in United States of America, tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Helena Hauff, DJ MELL G and Akua. Next up: Nouveau Casino, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 243 s
 | Sat, 3 Oct 2026 | PIP Den Haag | The Hague |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
+| Fri, 30 Oct 2026 | Société des arts technologiques | Montreal |
 | Thu, 19 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 4 Dec 2026 | Hidden | Manchester |
@@ -29,6 +30,6 @@ DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 243 s
 
 ## Shares bills with
 
-DJ MELL G, Helena Hauff, Akua
+Helena Hauff, DJ MELL G, Akua
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*

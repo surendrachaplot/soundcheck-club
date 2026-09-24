@@ -1,6 +1,6 @@
 # Will Buck
 
-Will Buck is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
+Will Buck is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
 
 Will Buck is a house and disco artist based in United States of America, tracked on soundcheck, with 70 sets logged across Berlin, Miami and Newyorkcity. Often billed alongside Deo'jorge, Anna Collecta and Bakke. Next up: Dead Letter No. 9, Newyorkcity on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Will Buck is a house and disco artist based in United States of America, tracked
 
 Deo'jorge, Anna Collecta, Bakke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willbuck/)*

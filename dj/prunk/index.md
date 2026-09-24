@@ -1,8 +1,8 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+Prunk is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
 
-Prunk is a house and tech house artist tracked on soundcheck, with 306 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: SWG3, Glasgow on Fri 25 Sept.
+Prunk is a house and tech house artist based in Netherlands, tracked on soundcheck, with 306 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: SWG3, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Prunk is a house and tech house artist tracked on soundcheck, with 306 sets logg
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

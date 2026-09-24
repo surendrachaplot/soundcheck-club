@@ -1,8 +1,8 @@
 # Apoteoz
 
-Apoteoz is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Paris, Paris on Sat, 17 Oct 2026.
+Apoteoz is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Paris, Paris on Sat, 17 Oct 2026.
 
-Apoteoz is a tech house and minimal artist tracked on soundcheck, with 12 sets logged across Bucharest, Geneva, Lisbon and Marseille and 2 more. Often billed alongside Flavio (CH), 2HOT2PLAY and ALINA (3). Next up: TBA - Paris, Paris on Sat 17 Oct.
+Apoteoz is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bucharest, Geneva, Lisbon and Marseille and 2 more. Often billed alongside Flavio (CH), 2HOT2PLAY and ALINA (3). Next up: TBA - Paris, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Apoteoz is a tech house and minimal artist tracked on soundcheck, with 12 sets l
 
 Flavio (CH), 2HOT2PLAY, ALINA (3)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apoteoz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apoteoz/)*

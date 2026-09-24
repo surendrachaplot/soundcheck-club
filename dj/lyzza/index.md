@@ -1,8 +1,8 @@
 # LYZZA
 
-LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Botanique, Brussels on Fri, 2 Oct 2026.
+LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Botanique, Brussels on Fri, 2 Oct 2026.
 
-LYZZA is a techno and club artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Chinnamasta, DIORA and ARRA. Next up: Botanique, Brussels on Fri 2 Oct.
+LYZZA is a techno and club artist based in Brazil, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Chinnamasta, DIORA and ARRA. Next up: Botanique, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LYZZA is a techno and club artist tracked on soundcheck, with 60 sets logged acr
 
 Chinnamasta, DIORA, ARRA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*

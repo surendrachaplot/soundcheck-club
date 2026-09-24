@@ -1,8 +1,8 @@
 # Dj Streaks
 
-Dj Streaks is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
+Dj Streaks is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Heebie Jeebies, Liverpool on Fri, 16 Oct 2026.
 
-Dj Streaks is a house and garage artist tracked on soundcheck, with 26 sets logged across Brighton, Dublin, Glasgow and Leeds and 7 more. Often billed alongside Liv Leslie, Phæke and Sakers. Next up: Heebie Jeebies, Liverpool on Fri 16 Oct.
+Dj Streaks is a house and garage artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, Dublin, Glasgow and Leeds and 7 more. Often billed alongside Liv Leslie, Phæke and Sakers. Next up: Heebie Jeebies, Liverpool on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dj Streaks is a house and garage artist tracked on soundcheck, with 26 sets logg
 
 Liv Leslie, Phæke, Sakers
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstreaks/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstreaks/)*

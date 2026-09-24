@@ -1,8 +1,8 @@
 # Murat Kilic
 
-Murat Kilic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Spice Cellar, Sydney on Sat, 26 Sept 2026.
+Murat Kilic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spice Cellar, Sydney on Sat, 26 Sept 2026.
 
-Murat Kilic is a house and deep house artist tracked on soundcheck, with 10 sets logged across Bali, Berlin and Sydney. Often billed alongside James Taylor (AU), Ben Nott and Cassette. Next up: Spice Cellar, Sydney on Sat 26 Sept.
+Murat Kilic is a house and deep house artist based in Australia, tracked on soundcheck, with 10 sets logged across Bali, Berlin and Sydney. Often billed alongside James Taylor (AU), Ben Nott and Cassette. Next up: Spice Cellar, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Murat Kilic is a house and deep house artist tracked on soundcheck, with 10 sets
 
 James Taylor (AU), Ben Nott, Cassette
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratkilic/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muratkilic/)*

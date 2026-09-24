@@ -1,8 +1,8 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Murphy's Law is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Murphy's Law is a house and tech house artist tracked on soundcheck, with 72 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside RUZE, Darius Syrossian and David Penn. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Murphy's Law is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Auckland, Austin, Brighton and Brisbane and 21 more. Often billed alongside RUZE, Darius Syrossian and David Penn. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Murphy's Law is a house and tech house artist tracked on soundcheck, with 72 set
 
 RUZE, Darius Syrossian, David Penn
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

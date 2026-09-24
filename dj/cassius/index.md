@@ -1,8 +1,8 @@
 # Cassius
 
-Cassius is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Button Factory, Dublin on Fri, 16 Oct 2026.
+Cassius is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Button Factory, Dublin on Fri, 16 Oct 2026.
 
-Cassius is a house and tech house artist based in France, tracked on soundcheck, with 47 sets logged across Antwerp, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Busy P, Myd and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
+Cassius is a house and tech house artist based in France, tracked on soundcheck, with 47 sets logged across Antwerp, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Button Factory, Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Cassius is a house and tech house artist based in France, tracked on soundcheck,
 
 ## Shares bills with
 
-Busy P, Myd, Etienne De Crecy
+Myd, Busy P, LB aka LABAT
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

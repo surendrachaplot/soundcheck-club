@@ -1,8 +1,8 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Virage, Paris on Fri 25 Sept.
+Massimiliano Pagliara is a house and techno artist based in Italy, tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Athens and Austin and 64 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Virage, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

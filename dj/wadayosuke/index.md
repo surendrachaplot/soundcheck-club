@@ -1,8 +1,8 @@
 # Wada Yosuke
 
-Wada Yosuke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mitsuki, Tokyo on Tue, 29 Sept 2026.
+Wada Yosuke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mitsuki, Tokyo on Tue, 29 Sept 2026.
 
-Wada Yosuke is a techno and house artist tracked on soundcheck, with 93 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 4 more. Often billed alongside Celter, Satoshi Otsuki and TORAO. Next up: Mitsuki, Tokyo on Tue 29 Sept.
+Wada Yosuke is a techno and house artist based in Japan, tracked on soundcheck, with 93 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 4 more. Often billed alongside Celter, Satoshi Otsuki and TORAO. Next up: Mitsuki, Tokyo on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Wada Yosuke is a techno and house artist tracked on soundcheck, with 93 sets log
 
 Celter, Satoshi Otsuki, TORAO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wadayosuke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wadayosuke/)*

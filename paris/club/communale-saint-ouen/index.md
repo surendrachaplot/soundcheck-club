@@ -1,14 +1,15 @@
 # Communale Saint-Ouen
 
-Communale Saint-Ouen is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V" on Thu, 24 Sept 2026.
+Communale Saint-Ouen is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V" on Thu, 24 Sept 2026.
 
-Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Alessandra Leone, Loke Rahbek, Noa (DE) and ohjeelo and 2 more. Browse upcoming dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
+Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Alessandra Leone, Loke Rahbek, Noa (DE) and ohjeelo and 2 more. Browse upcoming dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Zoë Mc Pherson & Alessandra Leone live A/V + acheve live A/V | Alessandra Leone, Zoë Mc Pherson |
+| Thu, 24 Sept 2026 | Zoë Mc Pherson et Alessandra Leone live A/V + Acheve live A/V |  |
 | Thu, 22 Oct 2026 | Jokko Collective Pasaporteman A/V + Noa & ohjeelo A/V | Noa (DE), ohjeelo |
 | Thu, 12 Nov 2026 | Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V | Loke Rahbek, Vina Konda |
 | Thu, 10 Dec 2026 | Radio Hito & Bonella Holloway A/V | Radio Hito |
@@ -17,4 +18,4 @@ Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 4 upcoming 
 
 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France, Paris
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/communale-saint-ouen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/communale-saint-ouen/)*

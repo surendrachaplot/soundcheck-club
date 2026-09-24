@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Under Pulse" on Thu, 24 Sept 2026.
+Salon Daomé is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Under Pulse" on Thu, 24 Sept 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Dj Hermano, Don Barbarino, Jares and Jovonn and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -18,4 +18,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 5 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

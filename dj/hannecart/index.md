@@ -1,13 +1,14 @@
 # Hannecart
 
-Hannecart is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Doka, Amsterdam on Sat, 10 Oct 2026.
+Hannecart is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Hannecart is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Berlin and Brussels and 5 more. Often billed alongside Reiss, Emvae and Kyra Khaldi. Next up: Doka, Amsterdam on Sat 10 Oct.
+Hannecart is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 100 sets logged across All, Amsterdam, Athens and Berlin and 6 more. Often billed alongside Reiss, Kyra Khaldi and Noach. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 10 Oct 2026 | Doka | Amsterdam |
 | Thu, 22 Oct 2026 | Het Salon | Amsterdam |
 | Fri, 23 Oct 2026 | Bar How | Amsterdam |
@@ -28,6 +29,6 @@ Hannecart is a house and tech house artist based in Dominican Republic, tracked 
 
 ## Shares bills with
 
-Reiss, Emvae, Kyra Khaldi
+Reiss, Kyra Khaldi, Noach
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

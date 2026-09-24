@@ -1,8 +1,8 @@
 # Meo Culpa
 
-Meo Culpa is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Toldi Klub, Budapest on Sat, 3 Oct 2026.
+Meo Culpa is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Toldi Klub, Budapest on Sat, 3 Oct 2026.
 
-Meo Culpa is a house and club artist tracked on soundcheck, with 24 sets logged across Budapest. Often billed alongside Zakhorov, OIEE and SLYM. Next up: Toldi Klub, Budapest on Sat 3 Oct.
+Meo Culpa is a house and club artist based in Hungary, tracked on soundcheck, with 24 sets logged across Budapest. Often billed alongside Zakhorov, OIEE and SLYM. Next up: Toldi Klub, Budapest on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Meo Culpa is a house and club artist tracked on soundcheck, with 24 sets logged 
 
 Zakhorov, OIEE, SLYM
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meoculpa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meoculpa/)*

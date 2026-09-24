@@ -1,14 +1,15 @@
 # Eleou
 
-Eleou is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at feedbk, New York City on Thu, 24 Sept 2026.
+Eleou is a IDM and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at feedbk, New York City on Thu, 24 Sept 2026.
 
-Eleou is an idm and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Athens, Barcelona, Brussels and Miami and 3 more. Often billed alongside True Vine, Bort and Ostara. Next up: feedbk, Newyorkcity on Thu 24 Sept.
+Eleou is an idm and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across All, Athens, Barcelona and Brussels and 4 more. Often billed alongside True Vine, Bort and Ostara. Next up: feedbk, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | feedbk | New York City |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Eleou is an idm and house artist based in United States of America, tracked on s
 
 True Vine, Bort, Ostara
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*

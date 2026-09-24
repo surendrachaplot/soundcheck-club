@@ -1,8 +1,8 @@
 # J-Dub
 
-J-Dub is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+J-Dub is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
-J-Dub is a house and deep house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Losangeles, Miami and Sanfrancisco. Often billed alongside Mark Farina, DJ Sneak and Doc Martin. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
+J-Dub is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Losangeles, Miami and Sanfrancisco. Often billed alongside Mark Farina, DJ Sneak and Doc Martin. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ J-Dub is a house and deep house artist tracked on soundcheck, with 18 sets logge
 
 Mark Farina, DJ Sneak, Doc Martin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*

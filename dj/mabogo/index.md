@@ -1,8 +1,8 @@
 # Mabogo
 
-Mabogo is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NEU, Stockholm on Sat, 10 Oct 2026.
+Mabogo is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NEU, Stockholm on Sat, 10 Oct 2026.
 
-Mabogo is a deep house and minimal artist tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside CAMILLKA, Naughty Hana and Acid Sussi. Next up: NEU, Stockholm on Sat 10 Oct.
+Mabogo is a deep house and minimal artist based in Sweden, tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside CAMILLKA, Naughty Hana and Acid Sussi. Next up: NEU, Stockholm on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mabogo is a deep house and minimal artist tracked on soundcheck, with 11 sets lo
 
 CAMILLKA, Naughty Hana, Acid Sussi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabogo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabogo/)*

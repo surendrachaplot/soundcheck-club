@@ -1,8 +1,8 @@
 # Secret Cinema
 
-Secret Cinema is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Patronaat, Amsterdam on Fri, 9 Oct 2026.
+Secret Cinema is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Patronaat, Amsterdam on Fri, 9 Oct 2026.
 
-Secret Cinema is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 6 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Patronaat, Amsterdam on Fri 9 Oct.
+Secret Cinema is a techno and house artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 6 more. Often billed alongside ABOUT SOFIYA, Olympe and Benny Rodrigues. Next up: Patronaat, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Secret Cinema is a techno and house artist tracked on soundcheck, with 50 sets l
 
 ABOUT SOFIYA, Olympe, Benny Rodrigues
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretcinema/)*

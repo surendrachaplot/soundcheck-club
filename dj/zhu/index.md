@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Concourse Project, Austin on Fri, 23 Oct 2026.
+ZHU is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Fri, 23 Oct 2026.
 
 ZHU is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin, Chicago, Denver and Detroit and 10 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: The Concourse Project, Austin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ ZHU is a house and deep house artist based in United States of America, tracked 
 
 Diplo, Azzecca, Biscits
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

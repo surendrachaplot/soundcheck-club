@@ -1,8 +1,8 @@
 # MASIV
 
-MASIV is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pumpehuset, Copenhagen on Thu, 5 Nov 2026.
+MASIV is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pumpehuset, Copenhagen on Thu, 5 Nov 2026.
 
-MASIV is an electronic artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Anton Goltermann, ASTA MARI and Anna Logic. Next up: Pumpehuset, Copenhagen on Thu 5 Nov.
+MASIV is an electronic artist based in Denmark, tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Anton Goltermann, ASTA MARI and Anna Logic. Next up: Pumpehuset, Copenhagen on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ MASIV is an electronic artist tracked on soundcheck, with 5 sets logged across C
 
 Anton Goltermann, ASTA MARI, Anna Logic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masiv/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masiv/)*

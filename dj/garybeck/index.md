@@ -1,8 +1,8 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Mon, 19 Oct 2026.
+Gary Beck is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Mon, 19 Oct 2026.
 
-Gary Beck is a techno and house artist tracked on soundcheck, with 40 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: Tresor / Globus, Berlin on Mon 19 Oct.
+Gary Beck is a techno and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: Tresor / Globus, Berlin on Mon 19 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gary Beck is a techno and house artist tracked on soundcheck, with 40 sets logge
 
 Co-Accused, Frazi.er, Dave Clarke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

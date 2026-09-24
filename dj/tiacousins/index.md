@@ -1,8 +1,8 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club Cheek, London on Fri, 23 Oct 2026.
+Tia Cousins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Cheek, London on Fri, 23 Oct 2026.
 
-Tia Cousins is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: Club Cheek, London on Fri 23 Oct.
+Tia Cousins is a house and techno artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: Club Cheek, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 107 sets lo
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

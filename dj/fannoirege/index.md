@@ -1,8 +1,8 @@
 # Fannoire Ge
 
-Fannoire Ge is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Arch 14, London on Sat, 7 Nov 2026.
+Fannoire Ge is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arch 14, London on Sat, 7 Nov 2026.
 
-Fannoire Ge is a house and deep house artist tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Bengoa, Drastic Shuffle and Pegasvs. Next up: Arch 14, London on Sat 7 Nov.
+Fannoire Ge is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Bengoa, Drastic Shuffle and Pegasvs. Next up: Arch 14, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fannoire Ge is a house and deep house artist tracked on soundcheck, with 9 sets 
 
 Bengoa, Drastic Shuffle, Pegasvs
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fannoirege/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fannoirege/)*

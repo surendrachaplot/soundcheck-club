@@ -1,8 +1,8 @@
 # Phoebe Roper
 
-Phoebe Roper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Phoebe Roper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
-Phoebe Roper is a house and garage artist tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside cara hegarty, CLEAR UK and LUKOA. Next up: The Mash House, Edinburgh on Sat 10 Oct.
+Phoebe Roper is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside cara hegarty, CLEAR UK and LUKOA. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Phoebe Roper is a house and garage artist tracked on soundcheck, with 9 sets log
 
 cara hegarty, CLEAR UK, LUKOA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*

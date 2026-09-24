@@ -1,6 +1,6 @@
 # N1NA
 
-N1NA is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+N1NA is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
 N1NA is a techno and minimal techno artist tracked on soundcheck, with 27 sets logged across Boston, Miami and Newyorkcity. Often billed alongside Adrian Hex, Secret Raver and DJ Prim. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ N1NA is a techno and minimal techno artist tracked on soundcheck, with 27 sets l
 
 Adrian Hex, Secret Raver, DJ Prim
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n1na/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n1na/)*

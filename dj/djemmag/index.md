@@ -1,8 +1,8 @@
 # DJ Emma G
 
-DJ Emma G is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
+DJ Emma G is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
 
-DJ Emma G is a jungle and drum & bass artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Doc Scott, Ant TC1 and Bailey (UK). Next up: Notting Hill Arts Club, London on Fri 25 Sept.
+DJ Emma G is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Doc Scott, Ant TC1 and Bailey (UK). Next up: Notting Hill Arts Club, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ DJ Emma G is a jungle and drum & bass artist tracked on soundcheck, with 6 sets 
 
 Doc Scott, Ant TC1, Bailey (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djemmag/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djemmag/)*

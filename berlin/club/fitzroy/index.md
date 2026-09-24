@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kosmopolis powered by Au. Die Agentur" on Thu, 24 Sept 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kosmopolis powered by Au. Die Agentur" on Thu, 24 Sept 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 5RVZ, AGILY, Akua and Atavi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -11,7 +11,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with l
 | Thu, 24 Sept 2026 | Kosmopolis powered by Au. Die Agentur | 5RVZ, BLUME, Harald Uunk, Neutran |
 | Fri, 25 Sept 2026 | HOUSE EDUCATION #07 | Handmade, Leone Knight, juan and only |
 | Sat, 3 Oct 2026 | Moodroom By Day | CJ Schneider, Martha O. |
-| Sat, 10 Oct 2026 | NEOJUICE - Day & Night | AGILY, CHOREOPHILA, MATHILDA (2), Rosa Kante, SACID, Schorli, Sex Wax (2), Younes Jamil |
+| Sat, 10 Oct 2026 | NEOJUICE - Day & Night (14h) | AGILY, CHOREOPHILA, MATHILDA (2), Rosa Kante, SACID, Schorli, Sex Wax (2), Younes Jamil |
 | Sun, 11 Oct 2026 | PV REUNION VOL 2 | DJ PERIODT, DJ Strawberry, HICCUP, ZANNT |
 | Sun, 18 Oct 2026 | Dissident x Miss Dreamz | Akua, Carly Zeng, Lixi, Ojos de miel, Schacke, Sub Sahara, TAUREAN (2), VRTL, Yazzus |
 | Thu, 22 Oct 2026 | Hüft & Beinbruch |  |
@@ -22,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

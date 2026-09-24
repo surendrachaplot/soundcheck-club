@@ -1,8 +1,8 @@
 # SNAPE
 
-SNAPE is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
+SNAPE is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
 
-SNAPE is a techno and jungle artist tracked on soundcheck, with 21 sets logged across Manchester and Sheffield. Often billed alongside RUBES, Charla Green and Nova Cheq. Next up: FORGE, Sheffield on Fri 25 Sept.
+SNAPE is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Manchester and Sheffield. Often billed alongside RUBES, Charla Green and Nova Cheq. Next up: FORGE, Sheffield on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SNAPE is a techno and jungle artist tracked on soundcheck, with 21 sets logged a
 
 RUBES, Charla Green, Nova Cheq
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snape/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snape/)*

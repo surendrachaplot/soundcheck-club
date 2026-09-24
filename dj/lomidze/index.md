@@ -1,8 +1,8 @@
 # Lomidze
 
-Lomidze is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Laska V21, Riga on Sun, 27 Sept 2026.
+Lomidze is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Laska V21, Riga on Sun, 27 Sept 2026.
 
-Lomidze is a club and electronica artist tracked on soundcheck, with 11 sets logged across Riga. Often billed alongside KURAJE and SIRDSAPES. Next up: Laska V21, Riga on Sun 27 Sept.
+Lomidze is a club and electronica artist based in Georgia, tracked on soundcheck, with 11 sets logged across Riga. Often billed alongside KURAJE and SIRDSAPES. Next up: Laska V21, Riga on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lomidze is a club and electronica artist tracked on soundcheck, with 11 sets log
 
 KURAJE, SIRDSAPES
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomidze/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomidze/)*

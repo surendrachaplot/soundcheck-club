@@ -1,8 +1,8 @@
 # Zak McCoy
 
-Zak McCoy is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Sat, 31 Oct 2026.
+Zak McCoy is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 31 Oct 2026.
 
-Zak McCoy is a techno and industrial artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Flow TNTS, Upzet and Crashkitt. Next up: Void Club, Berlin on Sat 31 Oct.
+Zak McCoy is a techno and industrial artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Flow TNTS, Upzet and Crashkitt. Next up: Void Club, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zak McCoy is a techno and industrial artist tracked on soundcheck, with 9 sets l
 
 Flow TNTS, Upzet, Crashkitt
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmccoy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmccoy/)*

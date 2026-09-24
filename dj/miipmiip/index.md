@@ -1,14 +1,15 @@
 # miipmiip
 
-miipmiip is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
+miipmiip is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
 
-miipmiip is a club and techno artist tracked on soundcheck, with 8 sets logged across Philadelphia. Often billed alongside America Loves Me, ONEELEVEN and Vicenta. Next up: TBA, Philadelphia on Sat 3 Oct.
+miipmiip is a club and techno artist based in Colombia, tracked on soundcheck, with 9 sets logged across Philadelphia. Often billed alongside America Loves Me, ONEELEVEN and Vicenta. Next up: TBA, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Philadelphia |
+| Fri, 23 Oct 2026 | The Dolphin | Philadelphia |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ miipmiip is a club and techno artist tracked on soundcheck, with 8 sets logged a
 
 America Loves Me, ONEELEVEN, Vicenta
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*

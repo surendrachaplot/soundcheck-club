@@ -1,8 +1,8 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Azzecca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
-Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
+Azzecca is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty" on Thu, 24 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Magician On Duty LABEL SHOWCASE w. Mia Kober, Überhaupt & Außerdem, Pysh, Magician On Duty" on Thu, 24 Sept 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including aqwapi, Be.Bab, cee_ohh and Dela Nesto and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -20,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

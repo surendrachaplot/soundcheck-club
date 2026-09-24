@@ -1,8 +1,8 @@
 # PINI
 
-PINI is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BUS Hexperience, Barcelona on Sun, 27 Sept 2026.
+PINI is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BUS Hexperience, Barcelona on Sun, 27 Sept 2026.
 
-PINI is a disco and house artist tracked on soundcheck, with 104 sets logged across Barcelona. Often billed alongside Yves Samuel, Victor Hugo and Sonia Heis. Next up: BUS Hexperience, Barcelona on Sun 27 Sept.
+PINI is a disco and house artist based in Spain, tracked on soundcheck, with 104 sets logged across Barcelona. Often billed alongside Yves Samuel, Victor Hugo and Sonia Heis. Next up: BUS Hexperience, Barcelona on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ PINI is a disco and house artist tracked on soundcheck, with 104 sets logged acr
 
 Yves Samuel, Victor Hugo, Sonia Heis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pini/)*

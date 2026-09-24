@@ -1,6 +1,6 @@
 # Dayzero
 
-Dayzero is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
+Dayzero is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
 Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 44 sets logged across Bristol, Kyoto, London and Osaka and 1 more. Often billed alongside Herbalistek, Oyubi and Romy Mats. Next up: Saloon, Tokyo on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 
 
 Herbalistek, Oyubi, Romy Mats
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*

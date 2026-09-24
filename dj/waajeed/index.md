@@ -1,8 +1,8 @@
 # Waajeed
 
-Waajeed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jaeger, Oslo on Fri, 2 Oct 2026.
+Waajeed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jaeger, Oslo on Fri, 2 Oct 2026.
 
-Waajeed is a house and techno artist tracked on soundcheck, with 70 sets logged across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: Jaeger, Oslo on Fri 2 Oct.
+Waajeed is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: Jaeger, Oslo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Waajeed is a house and techno artist tracked on soundcheck, with 70 sets logged 
 
 LADYMONIX, Carl Craig, DJ Holographic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waajeed/)*

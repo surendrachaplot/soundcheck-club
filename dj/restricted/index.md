@@ -1,8 +1,8 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 10 Oct 2026.
+Restricted is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grand Quai du Port de Montreal, Montreal on Sat, 10 Oct 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Grand Quai du Port de Montreal, Montreal on Sat 10 Oct.
+Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Grand Quai du Port de Montreal, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 75 sets l
 
 ## Shares bills with
 
-Azyr, JAZZY (2), Nikolina
+Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

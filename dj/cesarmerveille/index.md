@@ -1,14 +1,15 @@
 # Cesar Merveille
 
-Cesar Merveille is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Audio Club, Geneva on Fri, 25 Sept 2026.
+Cesar Merveille is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Fri, 25 Sept 2026.
 
-Cesar Merveille is a house and minimal artist tracked on soundcheck, with 73 sets logged across Berlin, Brussels, Bucharest and Detroit and 15 more. Often billed alongside Clovis, Viken Arman and VIZARE Live. Next up: Audio Club, Geneva on Fri 25 Sept.
+Cesar Merveille is a house and minimal artist based in Germany, tracked on soundcheck, with 74 sets logged across Berlin, Brussels, Bucharest and Central and 16 more. Often billed alongside Viken Arman, Clovis and Rhadoo. Next up: Audio Club, Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Audio Club | Geneva |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Cesar Merveille is a house and minimal artist tracked on soundcheck, with 73 set
 
 ## Shares bills with
 
-Clovis, Viken Arman, VIZARE Live
+Viken Arman, Clovis, Rhadoo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*

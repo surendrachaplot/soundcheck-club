@@ -1,8 +1,8 @@
 # Innerstice
 
-Innerstice is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ministry Of Sound, London on Fri, 9 Oct 2026.
+Innerstice is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Fri, 9 Oct 2026.
 
-Innerstice is a techno and deep house artist tracked on soundcheck, with 47 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and ZIYING. Next up: Ministry Of Sound, London on Fri 9 Oct.
+Innerstice is a techno and deep house artist based in Spain, tracked on soundcheck, with 47 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and ZIYING. Next up: Ministry Of Sound, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Innerstice is a techno and deep house artist tracked on soundcheck, with 47 sets
 
 Carina Lawrence, Adela, ZIYING
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*

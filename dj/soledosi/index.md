@@ -1,8 +1,8 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
+SOLE DOSI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
 
-SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Paula Sanz, Carmen Lisa (2) and Massi Rocket. Next up: Q Club, Milan on Fri 25 Sept.
+SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Paula Sanz, Massi Rocket and Carmen Lisa (2). Next up: Q Club, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Paula Sanz, Carmen Lisa (2), Massi Rocket
+Paula Sanz, Massi Rocket, Carmen Lisa (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

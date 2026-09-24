@@ -1,6 +1,6 @@
 # Redline Warriors
 
-Redline Warriors is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 3 Oct 2026.
+Redline Warriors is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 3 Oct 2026.
 
 Redline Warriors is a drum & bass and jungle artist based in Denmark, tracked on soundcheck, with 11 sets logged across Copenhagen. Often billed alongside Hyphae, Mary Harp and Vincent's Older Sister. Next up: H15 Scene & Studio, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Redline Warriors is a drum & bass and jungle artist based in Denmark, tracked on
 
 Hyphae, Mary Harp, Vincent's Older Sister
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redlinewarriors/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redlinewarriors/)*

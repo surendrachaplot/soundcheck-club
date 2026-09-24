@@ -1,8 +1,8 @@
-# TBA - SECRET PLACE
+# TBA - Secret Place
 
-TBA - SECRET PLACE is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "disc·o·patio: the unfolding session" on Sat, 26 Sept 2026.
+TBA - Secret Place is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "disc·o·patio: the unfolding session" on Sat, 26 Sept 2026.
 
-TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Byche, Das Firmament, DJ Bienveillance and Exkursion and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Place is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Byche, Das Firmament, DJ Bienveillance and Exkursion and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -13,4 +13,4 @@ TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 4 upcoming gi
 | Fri, 9 Oct 2026 | THE ANNIVERSARY: CEEJAY & SECRET GUESTS |  |
 | Sat, 17 Oct 2026 | disc·o·patio: the unfolding session | Byche, Shkedul, oror |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-secret-place/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-secret-place/)*

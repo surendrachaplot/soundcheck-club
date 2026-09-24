@@ -1,8 +1,8 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Hannah Laing is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-Hannah Laing is a techno and house artist tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: TBA, Losangeles on Sun 27 Sept.
+Hannah Laing is a techno and house artist based in United Kingdom, tracked on soundcheck, with 171 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 171 sets l
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

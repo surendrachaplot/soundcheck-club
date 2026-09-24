@@ -1,8 +1,8 @@
 # Toraigh
 
-Toraigh is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
+Toraigh is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
 
-Toraigh is a techno and trance artist tracked on soundcheck, with 21 sets logged across Belfast, Brighton and London. Often billed alongside HOLY C, DJ-CK and Ross Harper. Next up: Ballroom at Palais, London on Fri 25 Sept.
+Toraigh is a techno and trance artist based in Ireland, tracked on soundcheck, with 21 sets logged across Belfast, Brighton and London. Often billed alongside HOLY C, DJ-CK and Ross Harper. Next up: Ballroom at Palais, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Toraigh is a techno and trance artist tracked on soundcheck, with 21 sets logged
 
 HOLY C, DJ-CK, Ross Harper
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toraigh/)*

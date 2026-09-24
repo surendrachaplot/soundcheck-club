@@ -1,8 +1,8 @@
 # Rana Iravani
 
-Rana Iravani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Outer Heaven, New York City on Fri, 25 Sept 2026.
+Rana Iravani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Fri, 25 Sept 2026.
 
-Rana Iravani is a house and tech house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Miami and Newyorkcity. Often billed alongside Auphoria, Jack Mulqueen and Armii1n. Next up: Outer Heaven, Newyorkcity on Fri 25 Sept.
+Rana Iravani is a house and tech house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Miami and Newyorkcity. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Outer Heaven, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Rana Iravani is a house and tech house artist based in United States of America,
 
 ## Shares bills with
 
-Auphoria, Jack Mulqueen, Armii1n
+Auphoria, Jack Mulqueen, shanty mane
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

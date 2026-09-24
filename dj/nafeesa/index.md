@@ -1,8 +1,8 @@
 # NAFEESA
 
-NAFEESA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
+NAFEESA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
-NAFEESA is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Ardishko, GAZZA (UK) and OMC (UK). Next up: The Glove That Fits, London on Fri 30 Oct.
+NAFEESA is a house and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Ardishko, GAZZA (UK) and OMC (UK). Next up: The Glove That Fits, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ NAFEESA is a house and garage artist tracked on soundcheck, with 5 sets logged a
 
 Ardishko, GAZZA (UK), OMC (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nafeesa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nafeesa/)*

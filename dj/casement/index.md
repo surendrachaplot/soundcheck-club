@@ -1,6 +1,6 @@
 # Casement
 
-Casement is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
+Casement is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 8 Oct 2026.
 
 Casement is a bass and club artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Lara Sinclair, Sea Urchin and JI_2001. Next up: The Bongo Club, Edinburgh on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Casement is a bass and club artist based in United Kingdom, tracked on soundchec
 
 Lara Sinclair, Sea Urchin, JI_2001
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casement/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casement/)*

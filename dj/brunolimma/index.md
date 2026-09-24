@@ -1,8 +1,8 @@
 # Bruno Limma
 
-Bruno Limma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SILO, New York City on Thu, 24 Sept 2026.
+Bruno Limma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SILO, New York City on Thu, 24 Sept 2026.
 
-Bruno Limma is a house and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Boston, Detroit and Losangeles and 5 more. Often billed alongside Joe Tagessian, Daniel Bell and David Berrie. Next up: SILO, Newyorkcity on Thu 24 Sept.
+Bruno Limma is a house and techno artist based in Brazil, tracked on soundcheck, with 52 sets logged across Berlin, Boston, Detroit and Losangeles and 5 more. Often billed alongside Joe Tagessian, Daniel Bell and David Berrie. Next up: SILO, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bruno Limma is a house and techno artist tracked on soundcheck, with 52 sets log
 
 Joe Tagessian, Daniel Bell, David Berrie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*

@@ -1,6 +1,6 @@
 # HORS-SOL
 
-HORS-SOL is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+HORS-SOL is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
 HORS-SOL is a house and trance artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Lyon, Madrid and Marseille and 2 more. Often billed alongside Jolly (FR), Lastvuska and Maryu. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ HORS-SOL is a house and trance artist based in France, tracked on soundcheck, wi
 
 Jolly (FR), Lastvuska, Maryu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hors-sol/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hors-sol/)*

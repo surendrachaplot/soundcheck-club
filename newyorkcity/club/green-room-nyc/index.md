@@ -1,8 +1,8 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Golden Record NYC presents Bruno Schmidt, Emsho" on Thu, 24 Sept 2026.
+Green Room NYC is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Golden Record NYC presents Bruno Schmidt, Emsho" on Thu, 24 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming gigs, with line-ups including ABEILLE, Amy Jor, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 11 upcoming gigs, with line-ups including ABEILLE, Amy Jor, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 10 upcoming
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

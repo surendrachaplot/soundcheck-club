@@ -1,14 +1,13 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Love Inn, Bristol on Wed, 23 Sept 2026.
+Alexandria is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Alexandria is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: The Love Inn, Bristol on Wed 23 Sept.
+Alexandria is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and Local Dub. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | The Love Inn | Bristol |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | 93 Feet East | London |
@@ -18,6 +17,7 @@ Alexandria is a house and tech house artist tracked on soundcheck, with 62 sets 
 
 ## Recently played
 
+- The Love Inn, Bristol — Wed, 23 Sept 2026
 - Thuishaven, Amsterdam — Sun, 20 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 3 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
@@ -25,10 +25,9 @@ Alexandria is a house and tech house artist tracked on soundcheck, with 62 sets 
 - Amnesia Ibiza, Ibiza — Thu, 16 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - fabric, London — Sat, 4 Jul 2026
-- Document, Bristol — Fri, 5 Jun 2026
 
 ## Shares bills with
 
-Josh Baker, Marsolo, L.P. Rhythm
+Josh Baker, Marsolo, Local Dub
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

@@ -1,8 +1,8 @@
 # Bill Brewster
 
-Bill Brewster is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
+Bill Brewster is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Charlies Loft, Glasgow on Fri, 25 Sept 2026.
 
-Bill Brewster is a disco and house artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Bristol and Cardiff and 12 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
+Bill Brewster is a disco and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Bristol and Cardiff and 12 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: Charlies Loft, Glasgow on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Bill Brewster is a disco and house artist tracked on soundcheck, with 57 sets lo
 
 Sarahtonin, Frank Broughton, Ray Mang
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*

@@ -1,8 +1,8 @@
 # Valentina(DK)
 
-Valentina(DK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Culture Box, Copenhagen on Fri, 25 Sept 2026.
+Valentina(DK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Culture Box, Copenhagen on Fri, 25 Sept 2026.
 
-Valentina(DK) is a techno and house artist tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside SILK!, LUIE and CALIFANO. Next up: Culture Box, Copenhagen on Fri 25 Sept.
+Valentina(DK) is a techno and house artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside SILK!, LUIE and CALIFANO. Next up: Culture Box, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Valentina(DK) is a techno and house artist tracked on soundcheck, with 8 sets lo
 
 SILK!, LUIE, CALIFANO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinadk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinadk/)*

@@ -1,6 +1,6 @@
 # ADR (US)
 
-ADR (US) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+ADR (US) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 ADR (US) is a house and electronica artist based in United States of America, tracked on soundcheck, with 5 sets logged across Amsterdam, Dublin, Manchester and Newyorkcity. Often billed alongside Archie Hamilton, Jamback and Jamie Fielding. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ ADR (US) is a house and electronica artist based in United States of America, tr
 
 Archie Hamilton, Jamback, Jamie Fielding
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*

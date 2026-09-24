@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA" on Fri, 25 Sept 2026.
+Outernet Live is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA" on Fri, 25 Sept 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including AALIYAH, AJNA, AliA and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 17 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

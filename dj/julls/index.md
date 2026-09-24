@@ -1,8 +1,8 @@
 # JULLS
 
-JULLS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
+JULLS is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
-JULLS is a techno and acid artist tracked on soundcheck, with 22 sets logged across Barcelona, Chicago, Detroit and Malta. Often billed alongside Flores Negras, Veri Peri and uRaNg3L. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
+JULLS is a techno and acid artist based in United States of America, tracked on soundcheck, with 22 sets logged across Barcelona, Chicago, Detroit and Malta. Often billed alongside Flores Negras, Veri Peri and uRaNg3L. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JULLS is a techno and acid artist tracked on soundcheck, with 22 sets logged acr
 
 Flores Negras, Veri Peri, uRaNg3L
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julls/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julls/)*

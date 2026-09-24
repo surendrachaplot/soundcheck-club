@@ -1,8 +1,8 @@
 # L3OO
 
-L3OO is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
+L3OO is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
 
-L3OO is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged across Cologne and Leipzig. Often billed alongside Ariel (DE), DJ Luiser and DJ Würlpool. Next up: Artheater, Cologne on Fri 25 Sept.
+L3OO is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne and Leipzig. Often billed alongside Ariel (DE), DJ Luiser and DJ Würlpool. Next up: Artheater, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ L3OO is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged ac
 
 Ariel (DE), DJ Luiser, DJ Würlpool
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l3oo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l3oo/)*

@@ -1,6 +1,6 @@
 # Tony Humphries
 
-Tony Humphries is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jaeger, Oslo on Fri, 25 Sept 2026.
+Tony Humphries is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jaeger, Oslo on Fri, 25 Sept 2026.
 
 Tony Humphries is a house and disco artist based in United States of America, tracked on soundcheck, with 95 sets logged across Berlin, Chicago, Detroit and Helsinki and 13 more. Often billed alongside G-HA, Olanskii and DJ Heather. Next up: Jaeger, Oslo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tony Humphries is a house and disco artist based in United States of America, tr
 
 G-HA, Olanskii, DJ Heather
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyhumphries/)*

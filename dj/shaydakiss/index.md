@@ -1,6 +1,6 @@
 # Shaydakiss
 
-Shaydakiss is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Vino Disco, Montreal on Sat, 3 Oct 2026.
+Shaydakiss is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vino Disco, Montreal on Sat, 3 Oct 2026.
 
 Shaydakiss is a house and dancehall artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside A-Rock, Andie and Bolarinho. Next up: Vino Disco, Montreal on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Shaydakiss is a house and dancehall artist based in Canada, tracked on soundchec
 
 A-Rock, Andie, Bolarinho
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydakiss/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydakiss/)*

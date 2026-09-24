@@ -1,13 +1,14 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Peckham Arches, London on Thu, 1 Oct 2026.
+leverson is a Hip-Hop and R&B artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
 
-leverson is a hip-hop and r&b artist tracked on soundcheck, with 176 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Peckham Arches, London on Thu 1 Oct.
+leverson is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 177 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and SHINZEE. Next up: Kiosk N1C, London on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Kiosk N1C | London |
 | Thu, 1 Oct 2026 | Peckham Arches | London |
 | Thu, 1 Oct 2026 | Junsei | London |
 | Sat, 3 Oct 2026 | Junsei | London |
@@ -27,6 +28,6 @@ leverson is a hip-hop and r&b artist tracked on soundcheck, with 176 sets logged
 
 ## Shares bills with
 
-Signorina, Omari King, Omari
+Signorina, Omari King, SHINZEE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

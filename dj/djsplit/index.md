@@ -1,6 +1,6 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Dalston Superstore, London on Thu, 24 Sept 2026.
+DJ Split is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dalston Superstore, London on Thu, 24 Sept 2026.
 
 DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Ido Toledano, A For Alpha and AMANE. Next up: Dalston Superstore, London on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Ido Toledano, A For Alpha, AMANE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

@@ -1,8 +1,8 @@
 # Octave One
 
-Octave One is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Octave One is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
 
-Octave One is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 34 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
+Octave One is a techno and house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 34 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Octave One is a techno and house artist tracked on soundcheck, with 96 sets logg
 
 Carl Craig, Charlotte de Witte, FJAAK
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

@@ -1,8 +1,8 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
+DJ Holographic is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Los Globos, Los Angeles on Fri, 25 Sept 2026.
 
-DJ Holographic is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Los Globos, Losangeles on Fri 25 Sept.
+DJ Holographic is a house and techno artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Los Globos, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 211 sets
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

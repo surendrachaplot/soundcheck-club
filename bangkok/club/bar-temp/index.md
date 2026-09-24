@@ -1,6 +1,6 @@
 # Bar Temp.
 
-Bar Temp. is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Elektronik 1" on Thu, 24 Sept 2026.
+Bar Temp. is a music venue in Bangkok with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Elektronik 1" on Thu, 24 Sept 2026.
 
 Bar Temp. is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, with line-ups including Brent Burns, DJ Fett Burger, DZ GAS and Eizu 映図 and 2 more. Browse upcoming dates, start times and who's playing. 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100.
 
@@ -18,4 +18,4 @@ Bar Temp. is a music venue in Bangkok listed on soundcheck. 5 upcoming gigs, wit
 
 695 Soi 2 Maitri Chit Rd, Pom Prap,Pom Prap Sattru Phai, Bangkok Thailand 10100, Bangkok
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bar-temp/)*

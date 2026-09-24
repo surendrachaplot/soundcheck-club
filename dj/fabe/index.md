@@ -1,14 +1,15 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Turbina, Budapest on Fri, 25 Sept 2026.
+Fabe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Turbina, Budapest on Fri, 25 Sept 2026.
 
-Fabe is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Turbina, Budapest on Fri 25 Sept.
+Fabe is a house and tech house artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Turbina, Budapest on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Turbina | Budapest |
+| Fri, 16 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fabe is a house and tech house artist tracked on soundcheck, with 101 sets logge
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

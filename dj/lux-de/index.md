@@ -1,8 +1,8 @@
 # Lux.
 
-Lux. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+Lux. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
-Lux. is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside Boyá, Victor (DE) and karete bu. Next up: Bassiani, Tbilisi on Fri 25 Sept.
+Lux. is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside Boyá, Victor (DE) and karete bu. Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Lux. is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Boyá, Victor (DE), karete bu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-de/)*

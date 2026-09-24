@@ -1,8 +1,8 @@
 # GAY RAGE
 
-GAY RAGE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Fri, 6 Nov 2026.
+GAY RAGE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Fri, 6 Nov 2026.
 
-GAY RAGE is a techno and electro artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside LUNAUR.AA, Nick Clev and Perverse Cowboy. Next up: The Cause, London on Fri 6 Nov.
+GAY RAGE is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside LUNAUR.AA, Nick Clev and Perverse Cowboy. Next up: The Cause, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GAY RAGE is a techno and electro artist tracked on soundcheck, with 9 sets logge
 
 LUNAUR.AA, Nick Clev, Perverse Cowboy
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gayrage/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gayrage/)*

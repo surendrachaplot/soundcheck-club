@@ -1,6 +1,6 @@
 # Waldspielplatz Plänterwald
 
-Waldspielplatz Plänterwald is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Gemeinsam Feiern - Secret Rave" on Fri, 16 Oct 2026.
+Waldspielplatz Plänterwald is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Gemeinsam Feiern - Secret Rave" on Fri, 16 Oct 2026.
 
 Waldspielplatz Plänterwald is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Waldspielplatz Plänterwald is a music venue in Berlin listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Gemeinsam Feiern - Secret Rave |  |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/waldspielplatz-pl-nterwald/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/waldspielplatz-pl-nterwald/)*

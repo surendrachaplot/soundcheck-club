@@ -1,8 +1,8 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BERHTA, Washington DC on Sat, 3 Oct 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BERHTA, Washington DC on Sat, 3 Oct 2026.
 
-Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: BERHTA, Washingtondc on Sat 3 Oct.
+Hybrid Minds is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: BERHTA, Washingtondc on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 113 se
 
 K Motionz, Tempza, Andy C
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

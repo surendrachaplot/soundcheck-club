@@ -1,6 +1,6 @@
 # Sindri
 
-Sindri is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 25 Sept 2026.
+Sindri is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Sindri is a disco and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Athens, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Lovefingers, BEYA and Bears In Space. Next up: F8 1192 Folsom, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sindri is a disco and house artist based in United States of America, tracked on
 
 Lovefingers, BEYA, Bears In Space
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*

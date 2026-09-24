@@ -1,8 +1,8 @@
 # Dexter Colt
 
-Dexter Colt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
+Dexter Colt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
 
-Dexter Colt is a house and techno artist tracked on soundcheck, with 54 sets logged across Bangkok, Hongkong, Kyoto and Newyorkcity and 3 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: RASA, Singapore on Fri 2 Oct.
+Dexter Colt is a house and techno artist based in Canada, tracked on soundcheck, with 54 sets logged across Bangkok, Hongkong, Kyoto and Newyorkcity and 3 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: RASA, Singapore on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dexter Colt is a house and techno artist tracked on soundcheck, with 54 sets log
 
 Daryl Knows, Bongomann, Dean Chew
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*

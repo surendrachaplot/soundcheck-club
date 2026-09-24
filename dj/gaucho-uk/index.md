@@ -1,8 +1,8 @@
 # Gaucho (UK)
 
-Gaucho (UK) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Gaucho (UK) is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at EartH Kitchen, London on Fri, 20 Nov 2026.
 
-Gaucho (UK) is a house and balearic artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside Ben Gomori, Ariane V and Sarahtonin. Next up: EartH Kitchen, London on Fri 20 Nov.
+Gaucho (UK) is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Ben Gomori, Ariane V and Sarahtonin. Next up: EartH Kitchen, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gaucho (UK) is a house and balearic artist tracked on soundcheck, with 17 sets l
 
 Ben Gomori, Ariane V, Sarahtonin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaucho-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaucho-uk/)*

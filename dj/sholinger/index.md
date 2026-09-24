@@ -1,8 +1,8 @@
 # Sholinger
 
-Sholinger is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
+Sholinger is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
 
-Sholinger is a techno and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Copenhagen and Prague. Often billed alongside Borenstein, Gabrielle (DE) and KVNDRA. Next up: OXI, Berlin on Fri 25 Sept.
+Sholinger is a techno and electro artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Copenhagen and Prague. Often billed alongside Borenstein, Gabrielle (DE) and KVNDRA. Next up: OXI, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sholinger is a techno and electro artist tracked on soundcheck, with 15 sets log
 
 Borenstein, Gabrielle (DE), KVNDRA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*

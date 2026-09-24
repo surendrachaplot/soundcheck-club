@@ -1,6 +1,6 @@
 # Franky Wah
 
-Franky Wah is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+Franky Wah is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
 Franky Wah is a techno and house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across All, Amsterdam, Austin and Bali and 32 more. Often billed alongside Sasha, Artche and Korolova. Next up: Etko, All on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Franky Wah is a techno and house artist based in United Kingdom, tracked on soun
 
 Sasha, Artche, Korolova
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankywah/)*

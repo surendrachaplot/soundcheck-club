@@ -1,8 +1,8 @@
 # Sunny Graves
 
-Sunny Graves is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 1 Oct 2026.
+Sunny Graves is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 1 Oct 2026.
 
-Sunny Graves is a house and garage artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside 00970, Just Claudia and Miramizu. Next up: 303 Audiophile Bar, Barcelona on Thu 1 Oct.
+Sunny Graves is a house and garage artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside 00970, Just Claudia and Miramizu. Next up: 303 Audiophile Bar, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Sunny Graves is a house and garage artist tracked on soundcheck, with 8 sets log
 
 00970, Just Claudia, Miramizu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnygraves/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnygraves/)*

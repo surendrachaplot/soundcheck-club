@@ -1,8 +1,8 @@
 # _minted
 
-_minted is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
+_minted is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
 
-_minted is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin and Edinburgh. Often billed alongside OXOPOHA, shesand and Isoskeles. Next up: AMT, Berlin on Sat 24 Oct.
+_minted is a techno and house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Edinburgh. Often billed alongside OXOPOHA, shesand and Isoskeles. Next up: AMT, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ _minted is a techno and house artist tracked on soundcheck, with 25 sets logged 
 
 OXOPOHA, shesand, Isoskeles
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_minted/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_minted/)*

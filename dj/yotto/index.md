@@ -1,8 +1,8 @@
 # Yotto
 
-Yotto is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Digital, Newcastle on Sat, 3 Oct 2026.
+Yotto is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Digital, Newcastle on Sat, 3 Oct 2026.
 
-Yotto is a progressive house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Digital, Newcastle on Sat 3 Oct.
+Yotto is a progressive house and techno artist based in Finland, tracked on soundcheck, with 102 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Nicky Elisabeth, Cristoph and Qrion. Next up: Digital, Newcastle on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Yotto is a progressive house and techno artist tracked on soundcheck, with 102 s
 
 Nicky Elisabeth, Cristoph, Qrion
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yotto/)*

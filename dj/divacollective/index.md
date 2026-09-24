@@ -1,8 +1,8 @@
 # DiVa Collective
 
-DiVa Collective is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
+DiVa Collective is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
 
-DiVa Collective is a techno and psytrance artist tracked on soundcheck, with 6 sets logged across Berlin, Geneva and Zurich. Often billed alongside Phonique, Solvane and ANNARA. Next up: TBA -  INDUSTRIE CAR WASH , Geneva on Fri 25 Sept.
+DiVa Collective is a techno and psytrance artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Berlin, Geneva and Zurich. Often billed alongside Phonique, Solvane and ANNARA. Next up: TBA -  INDUSTRIE CAR WASH , Geneva on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ DiVa Collective is a techno and psytrance artist tracked on soundcheck, with 6 s
 
 Phonique, Solvane, ANNARA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divacollective/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divacollective/)*

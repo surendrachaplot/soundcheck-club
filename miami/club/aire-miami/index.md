@@ -1,6 +1,6 @@
 # Aire Miami
 
-Aire Miami is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "AIRE Miami: Opening Week with OOZZAA" on Thu, 24 Sept 2026.
+Aire Miami is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AIRE Miami: Opening Week with OOZZAA" on Thu, 24 Sept 2026.
 
 Aire Miami is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including Conosur, Ella Romand, Gab Rhome and Goa'98 and 2 more. Browse upcoming dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
 
@@ -18,4 +18,4 @@ Aire Miami is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with
 
 111 NE 20th Street, Miami, FL 33137, USA, Miami
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*

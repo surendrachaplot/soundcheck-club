@@ -1,13 +1,14 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 42 Marches, Paris on Fri, 16 Oct 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Boston and 31 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: 42 Marches, Paris on Fri 16 Oct.
+Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 127 sets logged across All, Amsterdam, Barcelona and Berlin and 32 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Fri, 16 Oct 2026 | 42 Marches | Paris |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 
@@ -26,4 +27,4 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 
 Mayell, Tau Car, O.BEE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

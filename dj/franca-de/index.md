@@ -1,8 +1,8 @@
 # Franca
 
-Franca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
+Franca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
 
-Franca is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 19 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: Gazebo, Stockholm on Sat 26 Sept.
+Franca is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 19 more. Often billed alongside Mimi Love, Britta Arnold and Mira. Next up: Gazebo, Stockholm on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Franca is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 Mimi Love, Britta Arnold, Mira
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franca-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franca-de/)*

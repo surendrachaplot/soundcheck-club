@@ -1,13 +1,14 @@
 # Lotusoph
 
-Lotusoph is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Lotusoph is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
 
-Lotusoph is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Denver, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside CHAOS!, Milo Ziro and Bort. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Lotusoph is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Denver, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside CHAOS!, Milo Ziro and Bort. Next up: Zoko Collective, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Zoko Collective | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lotusoph is a house and techno artist based in United States of America, tracked
 
 CHAOS!, Milo Ziro, Bort
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusoph/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusoph/)*

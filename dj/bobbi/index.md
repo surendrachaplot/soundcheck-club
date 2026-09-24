@@ -1,8 +1,8 @@
 # Bobbi
 
-Bobbi is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Bobbi is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Sat, 17 Oct 2026.
 
-Bobbi is a house and grime artist tracked on soundcheck, with 4 sets logged across London, Miami and Sydney. Often billed alongside Beezo, Binh and Capo Lee. Next up: Ministry Of Sound, London on Sat 17 Oct.
+Bobbi is a house and grime artist based in United States of America, tracked on soundcheck, with 4 sets logged across London, Miami and Sydney. Often billed alongside Beezo, Binh and Capo Lee. Next up: Ministry Of Sound, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Bobbi is a house and grime artist tracked on soundcheck, with 4 sets logged acro
 
 Beezo, Binh, Capo Lee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbi/)*

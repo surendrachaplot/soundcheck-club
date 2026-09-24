@@ -1,8 +1,8 @@
 # Conrad Soundsystem
 
-Conrad Soundsystem is a Bass and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
+Conrad Soundsystem is a Bass and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
 
-Conrad Soundsystem is a bass and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam and Thehague. Often billed alongside Anz, Black Cadmium and CARISTA. Next up: Strandpaviljoen De Staat, Thehague on Sat 26 Sept.
+Conrad Soundsystem is a bass and tech house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Thehague. Often billed alongside Anz, Black Cadmium and CARISTA. Next up: Strandpaviljoen De Staat, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Conrad Soundsystem is a bass and tech house artist tracked on soundcheck, with 4
 
 Anz, Black Cadmium, CARISTA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*

@@ -1,8 +1,8 @@
 # Mish
 
-Mish is a R&B and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Mish is a R&B and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Mish is a r&b and hardcore artist tracked on soundcheck, with 22 sets logged across Amsterdam, Auckland, Bristol and Dortmund-essen and 6 more. Often billed alongside Angerfist, Act of Rage and Adjuzt. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
+Mish is a r&b and hardcore artist based in Mexico, tracked on soundcheck, with 22 sets logged across Amsterdam, Auckland, Bristol and Dortmund-essen and 6 more. Often billed alongside Angerfist, Act of Rage and Adjuzt. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Mish is a r&b and hardcore artist tracked on soundcheck, with 22 sets logged acr
 
 Angerfist, Act of Rage, Adjuzt
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

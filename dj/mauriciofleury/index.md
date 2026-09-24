@@ -1,8 +1,8 @@
 # Mauricio Fleury
 
-Mauricio Fleury is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lark, Berlin on Sun, 27 Sept 2026.
+Mauricio Fleury is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lark, Berlin on Sun, 27 Sept 2026.
 
-Mauricio Fleury is an electronica and experimental artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Ken Okuda, Bulma Brief and Dj Quien. Next up: Lark, Berlin on Sun 27 Sept.
+Mauricio Fleury is an electronica and experimental artist based in Brazil, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Ken Okuda, Bulma Brief and Dj Quien. Next up: Lark, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mauricio Fleury is an electronica and experimental artist tracked on soundcheck,
 
 Ken Okuda, Bulma Brief, Dj Quien
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*

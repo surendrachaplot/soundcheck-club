@@ -1,6 +1,6 @@
 # Selectress Kinky P
 
-Selectress Kinky P is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ping Tom Memorial Park, Chicago on Sat, 26 Sept 2026.
+Selectress Kinky P is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ping Tom Memorial Park, Chicago on Sat, 26 Sept 2026.
 
 Selectress Kinky P is a dub and bass artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago. Often billed alongside Alice Longyu Gao, Angel Alanis and BLESSTONIO. Next up: Ping Tom Memorial Park, Chicago on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Selectress Kinky P is a dub and bass artist based in United States of America, t
 
 Alice Longyu Gao, Angel Alanis, BLESSTONIO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectresskinkyp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectresskinkyp/)*

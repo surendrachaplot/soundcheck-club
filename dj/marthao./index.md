@@ -1,8 +1,8 @@
 # Martha O.
 
-Martha O. is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fitzroy, Berlin on Sat, 3 Oct 2026.
+Martha O. is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fitzroy, Berlin on Sat, 3 Oct 2026.
 
-Martha O. is a house and trance artist tracked on soundcheck, with 10 sets logged across Berlin and London. Often billed alongside Anne-Sophie Selig, Antic Soul and Asem Shama. Next up: Fitzroy, Berlin on Sat 3 Oct.
+Martha O. is a house and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and London. Often billed alongside Anne-Sophie Selig, Antic Soul and Asem Shama. Next up: Fitzroy, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Martha O. is a house and trance artist tracked on soundcheck, with 10 sets logge
 
 Anne-Sophie Selig, Antic Soul, Asem Shama
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthao./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthao./)*

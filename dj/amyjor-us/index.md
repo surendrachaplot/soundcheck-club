@@ -1,6 +1,6 @@
 # Amy Jor
 
-Amy Jor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Green Room NYC, New York City on Thu, 24 Sept 2026.
+Amy Jor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Thu, 24 Sept 2026.
 
 Amy Jor is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Newyorkcity. Often billed alongside Bella Mutino, Connie and Kiyoshi. Next up: Green Room NYC, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Amy Jor is a house and techno artist based in United States of America, tracked 
 
 Bella Mutino, Connie, Kiyoshi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyjor-us/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyjor-us/)*

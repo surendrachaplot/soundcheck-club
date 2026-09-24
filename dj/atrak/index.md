@@ -1,8 +1,8 @@
 # A-Trak
 
-A-Trak is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Refuge, New York City on Sun, 27 Sept 2026.
+A-Trak is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Refuge, New York City on Sun, 27 Sept 2026.
 
-A-Trak is a house and hip-hop artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside The Magician, Claptone and James Juke. Next up: Refuge, Newyorkcity on Sun 27 Sept.
+A-Trak is a house and hip-hop artist based in Canada, tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside The Magician, Claptone and James Juke. Next up: Refuge, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ A-Trak is a house and hip-hop artist tracked on soundcheck, with 89 sets logged 
 
 The Magician, Claptone, James Juke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*

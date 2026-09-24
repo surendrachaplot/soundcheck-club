@@ -1,8 +1,8 @@
 # Chromatic Filters
 
-Chromatic Filters is a Balearic and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hearth, Amsterdam on Thu, 22 Oct 2026.
+Chromatic Filters is a Balearic and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hearth, Amsterdam on Thu, 22 Oct 2026.
 
-Chromatic Filters is a balearic and ballroom artist tracked on soundcheck, with 9 sets logged across Amsterdam, Ibiza, London and Mexicocity and 1 more. Often billed alongside Shield, Albert Marzinotto and Beatkozina. Next up: Hearth, Amsterdam on Thu 22 Oct.
+Chromatic Filters is a balearic and ballroom artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam, Ibiza, London and Mexicocity and 1 more. Often billed alongside Shield, Albert Marzinotto and Beatkozina. Next up: Hearth, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chromatic Filters is a balearic and ballroom artist tracked on soundcheck, with 
 
 Shield, Albert Marzinotto, Beatkozina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chromaticfilters/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chromaticfilters/)*

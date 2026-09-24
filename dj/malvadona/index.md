@@ -1,8 +1,8 @@
 # MALVADØNA
 
-MALVADØNA is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
+MALVADØNA is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
-MALVADØNA is a club and hardcore artist tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside AdomasLP, Girlfriend and 2CUTE2CUE. Next up: Rebellion, Manchester on Fri 2 Oct.
+MALVADØNA is a club and hardcore artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside AdomasLP, Girlfriend and 2CUTE2CUE. Next up: Rebellion, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MALVADØNA is a club and hardcore artist tracked on soundcheck, with 9 sets logg
 
 AdomasLP, Girlfriend, 2CUTE2CUE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadona/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadona/)*

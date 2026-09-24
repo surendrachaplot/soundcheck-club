@@ -1,8 +1,8 @@
 # PÜCH
 
-PÜCH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
+PÜCH is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
 
-PÜCH is a techno and trance artist tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside H1pnos1s, JRG and QUINCE (2). Next up: The Bassement, Madrid on Thu 1 Oct.
+PÜCH is a techno and trance artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside H1pnos1s, JRG and QUINCE (2). Next up: The Bassement, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PÜCH is a techno and trance artist tracked on soundcheck, with 27 sets logged a
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | The Bassement | Madrid |
 | Sat, 3 Oct 2026 | Sala ART | Madrid |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ PÜCH is a techno and trance artist tracked on soundcheck, with 27 sets logged a
 
 H1pnos1s, JRG, QUINCE (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puch/)*

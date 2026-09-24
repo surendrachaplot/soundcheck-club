@@ -1,6 +1,6 @@
 # Granville Collective - London at TBA
 
-Granville Collective - London at TBA on Fri 18 Dec, London. Acid and Electro. Preview the line-up and save it on soundcheck.
+Granville Collective - London at TBA on Fri 18 Dec, London. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

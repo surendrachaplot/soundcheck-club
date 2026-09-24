@@ -1,8 +1,8 @@
 # Iglesias
 
-Iglesias is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Iglesias is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Iglesias is a tech house and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Basel and 19 more. Often billed alongside Paco Osuna, RSquared and Latmun. Next up: Oliva, Amsterdam on Thu 22 Oct.
+Iglesias is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Basel and 19 more. Often billed alongside Paco Osuna, RSquared and Latmun. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Iglesias is a tech house and house artist tracked on soundcheck, with 74 sets lo
 
 Paco Osuna, RSquared, Latmun
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iglesias/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iglesias/)*

@@ -1,6 +1,6 @@
 # DJ 2C
 
-DJ 2C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+DJ 2C is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
 
 DJ 2C is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Bangkok and London. Often billed alongside Blackromeo, House of Allegro and ANTIPODES. Next up: Brixton Radio, London on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ DJ 2C is a techno and house artist based in Italy, tracked on soundcheck, with 8
 
 Blackromeo, House of Allegro, ANTIPODES
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2c-it/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2c-it/)*

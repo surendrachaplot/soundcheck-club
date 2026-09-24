@@ -1,6 +1,6 @@
 # MINHI
 
-MINHI is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at MODULE, Copenhagen on Sat, 10 Oct 2026.
+MINHI is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MODULE, Copenhagen on Sat, 10 Oct 2026.
 
 MINHI is a techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside EI.VN, FAWA and Holysss. Next up: MODULE, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ MINHI is a techno artist based in Germany, tracked on soundcheck, with 16 sets l
 
 EI.VN, FAWA, Holysss
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minhi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minhi/)*

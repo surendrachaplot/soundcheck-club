@@ -1,8 +1,8 @@
 # Exilee
 
-Exilee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
+Exilee is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
 
-Exilee is a techno and electro artist tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Copenhagen and Leipzig and 4 more. Often billed alongside Heddah, CUNT REMEMBER and Europa (1). Next up: Jolene, Copenhagen on Fri 25 Sept.
+Exilee is a techno and electro artist based in Sweden, tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Copenhagen and Leipzig and 4 more. Often billed alongside Heddah, CUNT REMEMBER and Europa (1). Next up: Jolene, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Exilee is a techno and electro artist tracked on soundcheck, with 16 sets logged
 
 Heddah, CUNT REMEMBER, Europa (1)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exilee/)*

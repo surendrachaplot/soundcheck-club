@@ -1,8 +1,8 @@
 # Gizem
 
-Gizem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Gizem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Gizem is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Istanbul and Lisbon. Often billed alongside Hafa, Hame (1) and Edward. Next up: Klaproos, Amsterdam on Thu 22 Oct.
+Gizem is a techno and house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Istanbul and Lisbon. Often billed alongside Hafa, Hame (1) and Edward. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gizem is a techno and house artist tracked on soundcheck, with 22 sets logged ac
 
 Hafa, Hame (1), Edward
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gizem/)*

@@ -1,8 +1,8 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
+OMRI. is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Sat, 26 Sept 2026.
 
-OMRI. is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Brussels and 17 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: fabric, London on Sat 26 Sept.
+OMRI. is a house and tech house artist based in Israel, tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Brussels and 17 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: fabric, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ OMRI. is a house and tech house artist tracked on soundcheck, with 70 sets logge
 
 Damian Lazarus, Jamie Jones, Black Coffee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

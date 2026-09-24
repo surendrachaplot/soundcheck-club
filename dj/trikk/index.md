@@ -1,14 +1,15 @@
 # Trikk
 
-Trikk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spazio Cavea, Rome on Sat, 26 Sept 2026.
+Trikk is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spazio Cavea, Rome on Sat, 26 Sept 2026.
 
-Trikk is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Spazio Cavea, Rome on Sat 26 Sept.
+Trikk is a house and techno artist based in Portugal, tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Spazio Cavea, Rome on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Spazio Cavea | Rome |
+| Sat, 3 Oct 2026 | Maravilla Studios | Mexico City |
 | Sun, 11 Oct 2026 | The Garage | Madrid |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
 | Wed, 21 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -30,4 +31,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 159 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

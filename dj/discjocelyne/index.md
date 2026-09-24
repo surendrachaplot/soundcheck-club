@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 29 Sept 2026.
+discjocelyne is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at People's Leisure Club, Edinburgh on Tue, 29 Sept 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and al gu. Next up: People's Leisure Club, Edinburgh on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, tracked on
 
 Ravelston, Lara Sinclair, al gu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

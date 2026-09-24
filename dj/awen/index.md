@@ -1,8 +1,8 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
+AWEN is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, All on Fri, 25 Sept 2026.
 
-AWEN is an afro house and house artist tracked on soundcheck, with 77 sets logged across All, Amsterdam, Bali and Barcelona and 25 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Etko, All on Fri 25 Sept.
+AWEN is an afro house and house artist based in France, tracked on soundcheck, with 77 sets logged across All, Amsterdam, Bali and Barcelona and 25 more. Often billed alongside Shimza, DJEFF and Francis Mercier. Next up: Etko, All on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ AWEN is an afro house and house artist tracked on soundcheck, with 77 sets logge
 
 Shimza, DJEFF, Francis Mercier
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

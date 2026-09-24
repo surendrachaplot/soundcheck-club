@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
+Gerd Janson is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Pacha Ibiza, Ibiza on Thu 1 Oct.
+Gerd Janson is a house and techno artist based in Germany, tracked on soundcheck, with 306 sets logged across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Pacha Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 305 sets lo
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Hito Scheveningen | The Hague |
+| Sat, 17 Oct 2026 | Charlie | Munich |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | Fidelity Studio | Dublin |
@@ -19,7 +20,6 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 305 sets lo
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Sat, 21 Nov 2026 | TBA | Melbourne |
 | Wed, 25 Nov 2026 | Process PDX | Portland |
-| Sat, 5 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 305 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

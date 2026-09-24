@@ -1,8 +1,8 @@
 # Hashashin
 
-Hashashin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Naples on Sat, 17 Oct 2026.
+Hashashin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Naples on Sat, 17 Oct 2026.
 
-Hashashin is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Ghent and Naples and 6 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: TBA, Naples on Sat 17 Oct.
+Hashashin is a techno and house artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Ghent and Naples and 6 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: TBA, Naples on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Hashashin is a techno and house artist tracked on soundcheck, with 49 sets logge
 
 François X, BIANKA, Beste Hira
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*

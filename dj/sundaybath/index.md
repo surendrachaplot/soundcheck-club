@@ -1,8 +1,8 @@
 # Sunday Bath
 
-Sunday Bath is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 24 Sept 2026.
+Sunday Bath is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 24 Sept 2026.
 
-Sunday Bath is an electronica and techno artist tracked on soundcheck, with 31 sets logged across Naples and Rome. Often billed alongside Martek, Freddye and Dalga. Next up: THE MAGICK BAR, Rome on Thu 24 Sept.
+Sunday Bath is an electronica and techno artist based in Italy, tracked on soundcheck, with 31 sets logged across Naples and Rome. Often billed alongside Martek, Freddye and Dalga. Next up: THE MAGICK BAR, Rome on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sunday Bath is an electronica and techno artist tracked on soundcheck, with 31 s
 
 Martek, Freddye, Dalga
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaybath/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaybath/)*

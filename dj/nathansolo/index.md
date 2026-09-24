@@ -1,8 +1,8 @@
 # Nathan Solo
 
-Nathan Solo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Zoo, Geneva on Fri, 2 Oct 2026.
+Nathan Solo is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zoo, Geneva on Fri, 2 Oct 2026.
 
-Nathan Solo is a techno and breakbeat artist tracked on soundcheck, with 13 sets logged across Geneva and Prague. Often billed alongside Citty, Dona and Lucas Hulan. Next up: Zoo, Geneva on Fri 2 Oct.
+Nathan Solo is a techno and breakbeat artist based in Czech Republic, tracked on soundcheck, with 13 sets logged across Geneva and Prague. Often billed alongside Citty, Dona and Lucas Hulan. Next up: Zoo, Geneva on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nathan Solo is a techno and breakbeat artist tracked on soundcheck, with 13 sets
 
 Citty, Dona, Lucas Hulan
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathansolo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathansolo/)*

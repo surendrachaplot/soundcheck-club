@@ -1,8 +1,8 @@
 # DJ Chromz
 
-DJ Chromz is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+DJ Chromz is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
-DJ Chromz is a jungle and garage artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Shifty Rogue. Next up: TBA, Berlin on Fri 25 Sept.
+DJ Chromz is a jungle and garage artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Shifty Rogue. Next up: TBA, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Chromz is a jungle and garage artist tracked on soundcheck, with 27 sets logg
 
 Vali NME Click, KaraKara, Shifty Rogue
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*

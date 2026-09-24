@@ -1,8 +1,8 @@
 # Vanina Buniak
 
-Vanina Buniak is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sauvage Swinger Club, Barcelona on Fri, 2 Oct 2026.
+Vanina Buniak is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sauvage Swinger Club, Barcelona on Fri, 2 Oct 2026.
 
-Vanina Buniak is a techno artist tracked on soundcheck, with 5 sets logged across Athens, Barcelona and Mexicocity. Often billed alongside Casanøva, Christian Smith and Fixon. Next up: Sauvage Swinger Club, Barcelona on Fri 2 Oct.
+Vanina Buniak is a techno artist based in Argentina, tracked on soundcheck, with 5 sets logged across Athens, Barcelona and Mexicocity. Often billed alongside Casanøva, Christian Smith and Fixon. Next up: Sauvage Swinger Club, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Vanina Buniak is a techno artist tracked on soundcheck, with 5 sets logged acros
 
 Casanøva, Christian Smith, Fixon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninabuniak/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninabuniak/)*

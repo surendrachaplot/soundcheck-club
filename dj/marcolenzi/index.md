@@ -1,8 +1,8 @@
 # Marco Lenzi
 
-Marco Lenzi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OIL Club, Shenzhen on Fri, 25 Sept 2026.
+Marco Lenzi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Fri, 25 Sept 2026.
 
-Marco Lenzi is a techno and minimal techno artist tracked on soundcheck, with 5 sets logged across Bangkok, Paris and Shenzhen. Often billed alongside BLAC Koncept, DANI8L and ETIL. Next up: OIL Club, Shenzhen on Fri 25 Sept.
+Marco Lenzi is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bangkok, Paris and Shenzhen. Often billed alongside BLAC Koncept, DANI8L and ETIL. Next up: OIL Club, Shenzhen on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Marco Lenzi is a techno and minimal techno artist tracked on soundcheck, with 5 
 
 BLAC Koncept, DANI8L, ETIL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolenzi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolenzi/)*

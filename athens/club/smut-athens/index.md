@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE " on Sat, 26 Sept 2026.
+SMUT Athens is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PRNCPTL x SMUT w/ AMORAL x FLOKOSCH x LOLSNAKE " on Sat, 26 Sept 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Alarico, AMORAL, BIDOBEN and DJ HI-C and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -21,4 +21,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, wi
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

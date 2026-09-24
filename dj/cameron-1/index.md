@@ -1,8 +1,8 @@
 # Cameron (1)
 
-Cameron (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SASS Music Club, Vienna on Sat, 26 Sept 2026.
+Cameron (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SASS Music Club, Vienna on Sat, 26 Sept 2026.
 
-Cameron (1) is a house and tech house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Birmingham, Valencia and Vienna. Often billed alongside BAR (DE), Igna and La La. Next up: SASS Music Club, Vienna on Sat 26 Sept.
+Cameron (1) is a house and tech house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Birmingham, Valencia and Vienna. Often billed alongside BAR (DE), Igna and La La. Next up: SASS Music Club, Vienna on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Cameron (1) is a house and tech house artist tracked on soundcheck, with 4 sets 
 
 BAR (DE), Igna, La La
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameron-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cameron-1/)*

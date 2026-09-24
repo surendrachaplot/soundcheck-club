@@ -1,8 +1,8 @@
 # Stevie Cox
 
-Stevie Cox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at FOLD, London on Fri, 2 Oct 2026.
+Stevie Cox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Fri, 2 Oct 2026.
 
-Stevie Cox is a techno and house artist tracked on soundcheck, with 87 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Domenic Cappello. Next up: FOLD, London on Fri 2 Oct.
+Stevie Cox is a techno and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Domenic Cappello. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Stevie Cox is a techno and house artist tracked on soundcheck, with 87 sets logg
 
 Telford, Harri & Domenic, Domenic Cappello
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviecox/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviecox/)*

@@ -1,6 +1,6 @@
 # Kashmir Lounge
 
-Kashmir Lounge is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "4 THE LOVE OF HOUSE: DAMMIT" on Sat, 10 Oct 2026.
+Kashmir Lounge is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "4 THE LOVE OF HOUSE: DAMMIT" on Sat, 10 Oct 2026.
 
 Kashmir Lounge is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including AKIVA, Darien J, David J Newton and Deckster and 2 more. Browse upcoming dates, start times and who's playing. Jan Pieter Heijestraat 85, 1053 GM Amsterdam.
 
@@ -16,4 +16,4 @@ Kashmir Lounge is a music venue in Amsterdam listed on soundcheck. 3 upcoming gi
 
 Jan Pieter Heijestraat 85, 1053 GM Amsterdam, Amsterdam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kashmir-lounge/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kashmir-lounge/)*

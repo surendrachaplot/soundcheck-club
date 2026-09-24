@@ -1,8 +1,8 @@
 # Siren
 
-Siren is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Südpol, Hamburg on Fri, 23 Oct 2026.
+Siren is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Südpol, Hamburg on Fri, 23 Oct 2026.
 
-Siren is a drum & bass and house artist tracked on soundcheck, with 24 sets logged across Auckland, Cologne, Denver and Hamburg and 8 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: Südpol, Hamburg on Fri 23 Oct.
+Siren is a drum & bass and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Auckland, Cologne, Denver and Hamburg and 8 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: Südpol, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Siren is a drum & bass and house artist tracked on soundcheck, with 24 sets logg
 
 Hybrid Minds, CHASE, Futurebound
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*

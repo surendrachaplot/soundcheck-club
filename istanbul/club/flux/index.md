@@ -1,8 +1,8 @@
 # Flux
 
-Flux is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "RX Saturdaze: Answer Code Request" on Sat, 26 Sept 2026.
+Flux is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "RX Saturdaze: Answer Code Request" on Sat, 26 Sept 2026.
 
-Flux is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including Answer Code Request, Belin, Ece Özel and future.666 and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
+Flux is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Alican, Answer Code Request, Belin and Ece Özel and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Flux is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with li
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | RX Saturdaze: Answer Code Request | Answer Code Request, Belin, Ece Özel |
 | Fri, 2 Oct 2026 | BCCO x RX: FUTURE.666 | Procombo, future.666 |
+| Fri, 9 Oct 2026 | Terminal Turkiye Launch Event: Alican | Alican |
 | Sat, 10 Oct 2026 | DEFRAGGED x Faction Invites: Ignez | Ignez, Script (GE), Uväll, gwän, undrtow |
 | Fri, 16 Oct 2026 | Berlin Rave İstanbul | Lavin (1), Philip Ackowsky, Queto, Teenage Mutants |
 | Fri, 27 Nov 2026 | RX Fridaze: Patrick Mason | Patrick Mason |
@@ -18,4 +19,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

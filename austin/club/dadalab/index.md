@@ -1,6 +1,6 @@
 # Dadalab
 
-Dadalab is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "dadageek Student Exhibition - Summer 2026" on Fri, 25 Sept 2026.
+Dadalab is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "dadageek Student Exhibition - Summer 2026" on Fri, 25 Sept 2026.
 
 Dadalab is a music venue in Austin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 2008 Alexander Ave, Austin, TX 78722.
 
@@ -15,4 +15,4 @@ Dadalab is a music venue in Austin listed on soundcheck. 2 upcoming gigs. Browse
 
 2008 Alexander Ave, Austin, TX 78722, Austin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/dadalab/)*

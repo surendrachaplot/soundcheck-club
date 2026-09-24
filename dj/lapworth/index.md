@@ -1,8 +1,8 @@
 # Lapworth
 
-Lapworth is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Castle, London on Sat, 26 Sept 2026.
+Lapworth is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Castle, London on Sat, 26 Sept 2026.
 
-Lapworth is a breakbeat and garage artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside AC Industries, Movimentum and Orrin. Next up: The Castle, London on Sat 26 Sept.
+Lapworth is a breakbeat and garage artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside AC Industries, Movimentum and Orrin. Next up: The Castle, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Lapworth is a breakbeat and garage artist tracked on soundcheck, with 8 sets log
 
 AC Industries, Movimentum, Orrin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapworth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapworth/)*

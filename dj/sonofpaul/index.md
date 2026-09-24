@@ -1,8 +1,8 @@
 # Son of Paul
 
-Son of Paul is a Tech House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Son of Paul is a Tech House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
-Son of Paul is a tech house and electro artist tracked on soundcheck, with 32 sets logged across London. Often billed alongside Thom Parris, Gabriel Finch and Mantis (5). Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
+Son of Paul is a tech house and electro artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across London. Often billed alongside Thom Parris, Gabriel Finch and Mantis (5). Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Son of Paul is a tech house and electro artist tracked on soundcheck, with 32 se
 
 Thom Parris, Gabriel Finch, Mantis (5)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofpaul/)*

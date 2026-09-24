@@ -1,8 +1,8 @@
 # MAO
 
-MAO is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Débris, Tokyo on Sat, 17 Oct 2026.
+MAO is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Débris, Tokyo on Sat, 17 Oct 2026.
 
-MAO is a house and hip-hop artist tracked on soundcheck, with 38 sets logged across Madrid, Paris and Tokyo. Often billed alongside Roy (PT), Shin and SARA. Next up: Débris, Tokyo on Sat 17 Oct.
+MAO is a house and hip-hop artist based in Germany, tracked on soundcheck, with 38 sets logged across Madrid, Paris and Tokyo. Often billed alongside Roy (PT), Shin and SARA. Next up: Débris, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MAO is a house and hip-hop artist tracked on soundcheck, with 38 sets logged acr
 
 Roy (PT), Shin, SARA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*

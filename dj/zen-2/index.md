@@ -1,8 +1,8 @@
 # Zen (2)
 
-Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Socore Factory, Osaka on Mon, 7 Dec 2026.
+Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Mon, 7 Dec 2026.
 
-Zen (2) is a techno and tech house artist tracked on soundcheck, with 11 sets logged across Berlin, Bristol, Milan and Osaka and 2 more. Often billed alongside BEPPU, YU-S-KE and AllA. Next up: Socore Factory, Osaka on Mon 7 Dec.
+Zen (2) is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across Berlin, Bristol, Milan and Osaka and 2 more. Often billed alongside BEPPU, YU-S-KE and AllA. Next up: Socore Factory, Osaka on Mon 7 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zen (2) is a techno and tech house artist tracked on soundcheck, with 11 sets lo
 
 BEPPU, YU-S-KE, AllA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*

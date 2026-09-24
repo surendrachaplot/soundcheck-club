@@ -1,8 +1,8 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at WaterBear Venue, Brighton on Sat, 31 Oct 2026.
+Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at WaterBear Venue, Brighton on Sat, 31 Oct 2026.
 
-Oren (IT) is an electro and house artist tracked on soundcheck, with 40 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: WaterBear Venue, Brighton on Sat 31 Oct.
+Oren (IT) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: WaterBear Venue, Brighton on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oren (IT) is an electro and house artist tracked on soundcheck, with 40 sets log
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

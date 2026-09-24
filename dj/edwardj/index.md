@@ -1,8 +1,8 @@
 # Edward J
 
-Edward J is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
+Edward J is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
 
-Edward J is an idm and experimental artist tracked on soundcheck, with 9 sets logged across Amsterdam and Thehague. Often billed alongside Adrian Newgent, Numtek and Alberta Balsam. Next up: De Besturing, Thehague on Fri 25 Sept.
+Edward J is an idm and experimental artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Thehague. Often billed alongside Adrian Newgent, Numtek and Alberta Balsam. Next up: De Besturing, Thehague on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Edward J is an idm and experimental artist tracked on soundcheck, with 9 sets lo
 
 Adrian Newgent, Numtek, Alberta Balsam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edwardj/)*

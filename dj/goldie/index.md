@@ -1,8 +1,8 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
+Goldie is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 53 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: RASA, Singapore on Sat 3 Oct.
+Goldie is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 53 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: RASA, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 163 sets l
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

@@ -1,8 +1,8 @@
 # Shane Blitz
 
-Shane Blitz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Shane Blitz is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
-Shane Blitz is a garage and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lawrence Anthony, Munchie MC and DJ Brockie. Next up: LDN East, London on Sat 26 Sept.
+Shane Blitz is a garage and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Lawrence Anthony, Munchie MC and DJ Brockie. Next up: LDN East, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Shane Blitz is a garage and house artist tracked on soundcheck, with 5 sets logg
 
 Lawrence Anthony, Munchie MC, DJ Brockie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*

@@ -1,6 +1,6 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Specka, Madrid on Fri, 16 Oct 2026.
+Erik Luebs is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Specka, Madrid on Fri, 16 Oct 2026.
 
 Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Berlin and Brisbane and 15 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Specka, Madrid on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Oberman, DJ Morita, Haruka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*

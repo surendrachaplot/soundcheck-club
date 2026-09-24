@@ -1,8 +1,8 @@
 # Charlie Vaux
 
-Charlie Vaux is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
+Charlie Vaux is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kater, Berlin on Sat, 24 Oct 2026.
 
-Charlie Vaux is an italo disco and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Rome and Warsaw. Often billed alongside Desolate Discotheque, Electric Visionary and Franz Scala. Next up: Kater, Berlin on Sat 24 Oct.
+Charlie Vaux is an italo disco and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Rome and Warsaw. Often billed alongside Desolate Discotheque, Electric Visionary and Franz Scala. Next up: Kater, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Charlie Vaux is an italo disco and techno artist tracked on soundcheck, with 38 
 
 Desolate Discotheque, Electric Visionary, Franz Scala
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlievaux/)*

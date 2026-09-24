@@ -1,8 +1,8 @@
 # Stella Z
 
-Stella Z is a Techno and Jazz artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Spanners, London on Sat, 26 Sept 2026.
+Stella Z is a Techno and Jazz artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Sat, 26 Sept 2026.
 
-Stella Z is a techno and jazz artist tracked on soundcheck, with 55 sets logged across Bristol, Lisbon, London and Munich. Often billed alongside Deejay Nye, Megan Leo and Vince Lam. Next up: Spanners, London on Sat 26 Sept.
+Stella Z is a techno and jazz artist based in China, tracked on soundcheck, with 55 sets logged across Bristol, Lisbon, London and Munich. Often billed alongside Deejay Nye, Megan Leo and Vince Lam. Next up: Spanners, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Stella Z is a techno and jazz artist tracked on soundcheck, with 55 sets logged 
 
 Deejay Nye, Megan Leo, Vince Lam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaz/)*

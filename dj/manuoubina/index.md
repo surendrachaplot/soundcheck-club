@@ -1,8 +1,8 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 25 Sept 2026.
+Manu Oubiña is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 25 Sept 2026.
 
-Manu Oubiña is a house and electro artist tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside LUKAS (4), Guile and Edu C. Next up: Vittoria Wharf Studio, London on Fri 25 Sept.
+Manu Oubiña is a house and electro artist based in Argentina, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside LUKAS (4), Guile and Edu C. Next up: Vittoria Wharf Studio, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 124 sets 
 
 LUKAS (4), Guile, Edu C
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

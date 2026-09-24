@@ -1,8 +1,8 @@
 # Farah (2)
 
-Farah (2) is a Progressive House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
+Farah (2) is a Progressive House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
 
-Farah (2) is a progressive house and minimal techno artist tracked on soundcheck, with 12 sets logged across Brussels, Istanbul, Lyon and Marseille and 1 more. Often billed alongside Mouataz, Waxist and Beatrice M.. Next up: Super7, Lyon on Thu 24 Sept.
+Farah (2) is a progressive house and minimal techno artist based in Morocco, tracked on soundcheck, with 12 sets logged across Brussels, Istanbul, Lyon and Marseille and 1 more. Often billed alongside Mouataz, Waxist and Beatrice M.. Next up: Super7, Lyon on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Farah (2) is a progressive house and minimal techno artist tracked on soundcheck
 
 Mouataz, Waxist, Beatrice M.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farah-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farah-2/)*

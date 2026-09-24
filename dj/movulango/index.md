@@ -1,6 +1,6 @@
 # Movulango
 
-Movulango is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hexagon Brussels, Brussels on Sat, 10 Oct 2026.
+Movulango is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hexagon Brussels, Brussels on Sat, 10 Oct 2026.
 
 Movulango is a pop and post-punk artist based in Belgium, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside 2ManyDJs, Alexander Nut and Bolis Pupul. Next up: Hexagon Brussels, Brussels on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Movulango is a pop and post-punk artist based in Belgium, tracked on soundcheck,
 
 2ManyDJs, Alexander Nut, Bolis Pupul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/movulango/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/movulango/)*

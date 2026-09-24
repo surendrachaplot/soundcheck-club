@@ -1,8 +1,8 @@
 # DSD uk
 
-DSD uk is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+DSD uk is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
 
-DSD uk is a techno and bass artist tracked on soundcheck, with 35 sets logged across Brighton and London. Often billed alongside Kutkh Jackdaw, Cage (1) and Jack Jeffrey. Next up: Volks, Brighton on Fri 2 Oct.
+DSD uk is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton and London. Often billed alongside Kutkh Jackdaw, Cage (1) and Jack Jeffrey. Next up: Volks, Brighton on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DSD uk is a techno and bass artist tracked on soundcheck, with 35 sets logged ac
 
 Kutkh Jackdaw, Cage (1), Jack Jeffrey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsduk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsduk/)*

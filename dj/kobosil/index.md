@@ -1,8 +1,8 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gate Milano, Milan on Fri, 25 Sept 2026.
+Kobosil is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gate Milano, Milan on Fri, 25 Sept 2026.
 
-Kobosil is a techno and house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Gate Milano, Milan on Fri 25 Sept.
+Kobosil is a techno and house artist based in Germany, tracked on soundcheck, with 230 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Gate Milano, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kobosil is a techno and house artist tracked on soundcheck, with 229 sets logged
 | Fri, 2 Oct 2026 | Akvárium Klub | Budapest |
 | Fri, 2 Oct 2026 | Akvárium Klub | Budapest |
 | Thu, 8 Oct 2026 | [UNVRS] | Ibiza |
+| Sat, 10 Oct 2026 | Auditorio Málaga Cortijo de Torres | South |
 | Fri, 13 Nov 2026 | Gianpula Main Room | Malta |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 
@@ -31,4 +32,4 @@ Kobosil is a techno and house artist tracked on soundcheck, with 229 sets logged
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

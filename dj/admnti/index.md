@@ -1,8 +1,8 @@
 # ADMNTi
 
-ADMNTi is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at All My Friends, London on Thu, 22 Oct 2026.
+ADMNTi is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at All My Friends, London on Thu, 22 Oct 2026.
 
-ADMNTi is a house and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 9 more. Often billed alongside Just Jam, Laidlaw and Julian Anthony. Next up: All My Friends, London on Thu 22 Oct.
+ADMNTi is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 9 more. Often billed alongside Just Jam, Laidlaw and Julian Anthony. Next up: All My Friends, London on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ ADMNTi is a house and tech house artist tracked on soundcheck, with 63 sets logg
 
 Just Jam, Laidlaw, Julian Anthony
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*

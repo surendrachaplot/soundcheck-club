@@ -1,8 +1,8 @@
 # Ryoichi Kurokawa
 
-Ryoichi Kurokawa is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
+Ryoichi Kurokawa is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Korjaamo, Helsinki on Wed, 30 Sept 2026.
 
-Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck, with 10 sets logged across Barcelona, Helsinki, Krakow and Mexicocity and 4 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: Korjaamo, Helsinki on Wed 30 Sept.
+Ryoichi Kurokawa is an experimental and electronica artist based in Japan, tracked on soundcheck, with 10 sets logged across Barcelona, Helsinki, Krakow and Mexicocity and 4 more. Often billed alongside Ali M. Demirel, Daito Manabe and Grand River. Next up: Korjaamo, Helsinki on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck
 
 Ali M. Demirel, Daito Manabe, Grand River
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*

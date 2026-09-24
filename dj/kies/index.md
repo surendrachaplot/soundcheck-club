@@ -1,8 +1,8 @@
 # kies
 
-kies is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 28 Nov 2026.
+kies is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 28 Nov 2026.
 
-kies is a techno and trance artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Freya K., RST98 and Jacke. Next up: Der Weiße Hase, Berlin on Sat 28 Nov.
+kies is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Freya K., RST98 and Jacke. Next up: Der Weiße Hase, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ kies is a techno and trance artist tracked on soundcheck, with 9 sets logged acr
 
 Freya K., RST98, Jacke
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kies/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kies/)*

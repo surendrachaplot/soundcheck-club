@@ -1,8 +1,8 @@
 # EMAN (FR)
 
-EMAN (FR) is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+EMAN (FR) is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
-EMAN (FR) is a techno and minimal techno artist tracked on soundcheck, with 32 sets logged across Berlin, Madrid, Miami and Montreal and 2 more. Often billed alongside François X, Isabel Soto and Kian Gast. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
+EMAN (FR) is a techno and minimal techno artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Madrid, Miami and Montreal and 2 more. Often billed alongside François X, Isabel Soto and Kian Gast. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ EMAN (FR) is a techno and minimal techno artist tracked on soundcheck, with 32 s
 
 François X, Isabel Soto, Kian Gast
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eman-FR/)*

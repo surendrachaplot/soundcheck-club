@@ -1,8 +1,8 @@
 # FAE (3)
 
-FAE (3) is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+FAE (3) is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-FAE (3) is a techno and minimal techno artist tracked on soundcheck, with 11 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside ELIF, Predex and Yashar (UK). Next up: Onder Hans, Amsterdam on Thu 22 Oct.
+FAE (3) is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside ELIF, Predex and Yashar (UK). Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ FAE (3) is a techno and minimal techno artist tracked on soundcheck, with 11 set
 
 ELIF, Predex, Yashar (UK)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fae-3/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fae-3/)*

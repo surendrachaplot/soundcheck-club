@@ -1,8 +1,8 @@
 # ERNST (UA)
 
-ERNST (UA) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+ERNST (UA) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
-ERNST (UA) is a techno and trance artist tracked on soundcheck, with 40 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, VRAXX and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
+ERNST (UA) is a techno and trance artist based in Ukraine, tracked on soundcheck, with 40 sets logged across Krakow and Warsaw. Often billed alongside Józef Keuner, VRAXX and SCHELLT. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ERNST (UA) is a techno and trance artist tracked on soundcheck, with 40 sets log
 
 Józef Keuner, VRAXX, SCHELLT
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ernst-ua/)*

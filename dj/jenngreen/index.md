@@ -1,8 +1,8 @@
 # JENN GREEN
 
-JENN GREEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Firn, Seattle on Thu, 24 Sept 2026.
+JENN GREEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Firn, Seattle on Thu, 24 Sept 2026.
 
-JENN GREEN is a techno and house artist tracked on soundcheck, with 67 sets logged across Losangeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: Firn, Seattle on Thu 24 Sept.
+JENN GREEN is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Losangeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: Firn, Seattle on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ JENN GREEN is a techno and house artist tracked on soundcheck, with 67 sets logg
 
 Jason Code, Jordana, Freddy M
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*

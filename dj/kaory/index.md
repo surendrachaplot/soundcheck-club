@@ -1,6 +1,6 @@
 # Kaory
 
-Kaory is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at BAR Inc, Osaka on Sun, 18 Oct 2026.
+Kaory is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BAR Inc, Osaka on Sun, 18 Oct 2026.
 
 Kaory is a house and techno artist based in Japan, tracked on soundcheck, with 41 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Kengo, Satoshi Matsui and Yuki Kakuno. Next up: BAR Inc, Osaka on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Kaory is a house and techno artist based in Japan, tracked on soundcheck, with 4
 
 Kengo, Satoshi Matsui, Yuki Kakuno
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaory/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaory/)*

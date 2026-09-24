@@ -1,6 +1,6 @@
 # Djuma Soundsystem
 
-Djuma Soundsystem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Slakthuset, Stockholm on Sat, 3 Oct 2026.
+Djuma Soundsystem is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Slakthuset, Stockholm on Sat, 3 Oct 2026.
 
 Djuma Soundsystem is a house and deep house artist based in Norway, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Bucharest and Copenhagen and 7 more. Often billed alongside Alain Hellion, Epifanov and Eski. Next up: Slakthuset, Stockholm on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Djuma Soundsystem is a house and deep house artist based in Norway, tracked on s
 
 Alain Hellion, Epifanov, Eski
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djumasoundsystem/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djumasoundsystem/)*

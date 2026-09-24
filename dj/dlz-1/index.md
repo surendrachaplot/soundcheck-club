@@ -1,8 +1,8 @@
 # dlz (1)
 
-dlz (1) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+dlz (1) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
-dlz (1) is a techno and tech house artist tracked on soundcheck, with 8 sets logged across Berlin and Tallinn. Often billed alongside AHAB, BERLIN and Better Call Paul. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
+dlz (1) is a techno and tech house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Tallinn. Often billed alongside AHAB, BERLIN and Better Call Paul. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ dlz (1) is a techno and tech house artist tracked on soundcheck, with 8 sets log
 
 AHAB, BERLIN, Better Call Paul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlz-1/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlz-1/)*

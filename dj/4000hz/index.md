@@ -1,8 +1,8 @@
 # 4000 Hz
 
-4000 Hz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Cause, London on Fri, 20 Nov 2026.
+4000 Hz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Fri, 20 Nov 2026.
 
-4000 Hz is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin, London, Manchester and Paris. Often billed alongside AREA ØNE, LIL DARK ONE and 2FEL. Next up: The Cause, London on Fri 20 Nov.
+4000 Hz is a techno and trance artist based in France, tracked on soundcheck, with 12 sets logged across Berlin, London, Manchester and Paris. Often billed alongside AREA ØNE, LIL DARK ONE and 2FEL. Next up: The Cause, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@
 
 AREA ØNE, LIL DARK ONE, 2FEL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4000hz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4000hz/)*

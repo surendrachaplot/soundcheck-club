@@ -1,8 +1,8 @@
 # Daraio
 
-Daraio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Golden Gate, Berlin on Thu, 24 Sept 2026.
+Daraio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Gate, Berlin on Thu, 24 Sept 2026.
 
-Daraio is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Malaga, Milan and Paris. Often billed alongside Andrea Fiorito, Carmela Ciocia and Francesco Passantino. Next up: Golden Gate, Berlin on Thu 24 Sept.
+Daraio is a techno and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Berlin, Malaga, Milan and Paris. Often billed alongside Andrea Fiorito, Carmela Ciocia and Francesco Passantino. Next up: Golden Gate, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Daraio is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Andrea Fiorito, Carmela Ciocia, Francesco Passantino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daraio/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daraio/)*

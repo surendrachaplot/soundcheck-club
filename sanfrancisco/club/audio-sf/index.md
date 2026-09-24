@@ -1,8 +1,8 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 21 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "WELKER" on Fri, 25 Sept 2026.
+Audio SF is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "WELKER" on Fri, 25 Sept 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming gigs, with line-ups including Ahadadream, ALMAS, Azzecca and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 22 upcoming gigs, with line-ups including Ahadadream, ALMAS, Azzecca and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 21 upcoming gigs
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

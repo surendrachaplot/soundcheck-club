@@ -1,6 +1,6 @@
 # Thick Groovy Fridays at Brixton Radio
 
-Thick Groovy Fridays at Brixton Radio on Fri 2 Oct, London. 10 acts on the bill: B-Pushr, Cecilia Ena, daaz and DJ 2C and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+Thick Groovy Fridays at Brixton Radio on Fri 2 Oct, London. 11 acts on the bill: B-Pushr, Cecilia Ena, daaz and DJ 2C and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,5 +20,6 @@ Thick Groovy Fridays at Brixton Radio on Fri 2 Oct, London. 10 acts on the bill:
 - Revlow
 - Sara P
 - SEN (PL)
+- SURJAL
 
 *Source: [soundcheck](https://soundcheck.club/e/2541086-thick-groovy-fridays-at-brixton-radio/)*

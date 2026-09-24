@@ -1,8 +1,8 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Volnost, Seoul on Sat, 26 Sept 2026.
 
-Isabel Soto is a techno and house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: Volnost, Seoul on Sat 26 Sept.
+Isabel Soto is a techno and house artist based in Venezuela, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Oscar Mulero. Next up: Volnost, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Isabel Soto is a techno and house artist tracked on soundcheck, with 100 sets lo
 
 ## Shares bills with
 
-Claudio PRC, Mike Larry, Fadi Mohem
+Claudio PRC, Mike Larry, Oscar Mulero
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

@@ -1,6 +1,6 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "The Brickworks: LTJ Bukem" on Fri, 25 Sept 2026.
+The Brickworks is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Brickworks: LTJ Bukem" on Fri, 25 Sept 2026.
 
 The Brickworks is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, with line-ups including Captain Wallop, Channel One Sound, LTJ Bukem and Milzy and 2 more. Browse upcoming dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
@@ -19,4 +19,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 6 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

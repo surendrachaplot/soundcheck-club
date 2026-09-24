@@ -1,6 +1,6 @@
 # Dedaena Bar
 
-Dedaena Bar is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Dila: Weekly Program" on Thu, 24 Sept 2026.
+Dedaena Bar is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dila: Weekly Program" on Thu, 24 Sept 2026.
 
 Dedaena Bar is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with line-ups including FRANCHI INFERNO KNUC (2) and Vakomey. Browse upcoming dates, start times and who's playing. Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia.
 
@@ -14,4 +14,4 @@ Dedaena Bar is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, wi
 
 Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia, Tbilisi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/dedaena-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/dedaena-bar/)*

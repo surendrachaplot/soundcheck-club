@@ -1,8 +1,8 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Cadavra, Madrid on Thu, 1 Oct 2026.
+Pariah is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cadavra, Madrid on Thu, 1 Oct 2026.
 
-Pariah is a techno and bass artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside mad miran, Blawan and Or:la. Next up: Cadavra, Madrid on Thu 1 Oct.
+Pariah is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside mad miran, Blawan and Or:la. Next up: Cadavra, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Pariah is a techno and bass artist tracked on soundcheck, with 164 sets logged a
 
 mad miran, Blawan, Or:la
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

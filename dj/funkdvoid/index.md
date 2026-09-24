@@ -1,8 +1,8 @@
 # Funk D'Void
 
-Funk D'Void is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
+Funk D'Void is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
 
-Funk D'Void is a house and techno artist tracked on soundcheck, with 68 sets logged across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Paul Loraine, Ralph Session and Alex Clavijo. Next up: Macarena Club, Barcelona on Thu 15 Oct.
+Funk D'Void is a house and techno artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Paul Loraine, Ralph Session and Alex Clavijo. Next up: Macarena Club, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Funk D'Void is a house and techno artist tracked on soundcheck, with 68 sets log
 
 Paul Loraine, Ralph Session, Alex Clavijo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkdvoid/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkdvoid/)*

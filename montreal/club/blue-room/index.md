@@ -1,6 +1,6 @@
 # Blue Room
 
-Blue Room is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Montreal Techno Cats presents: Ford Fiesta & Opal Stavo" on Thu, 24 Sept 2026.
+Blue Room is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Montreal Techno Cats presents: Ford Fiesta & Opal Stavo" on Thu, 24 Sept 2026.
 
 Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including AYEENB, Kolophane, Rekless Behavior and Underthebed. Browse upcoming dates, start times and who's playing. 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor.
 
@@ -18,4 +18,4 @@ Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, wi
 
 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor, Montreal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*

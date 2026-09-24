@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Krazed W/ DJ BAX, NOVA CHEQ, MALWARE" on Fri, 25 Sept 2026.
+Ouseburn Garden is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Krazed W/ DJ BAX, NOVA CHEQ, MALWARE" on Fri, 25 Sept 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Mariiin, Adam Lance, Alisdair and Anil Aras and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -19,4 +19,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming g
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

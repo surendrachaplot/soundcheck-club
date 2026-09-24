@@ -1,8 +1,8 @@
 # CiKi
 
-CiKi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+CiKi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
-CiKi is a techno and trance artist tracked on soundcheck, with 38 sets logged across Frankfurt and Toronto. Often billed alongside Kacy, Polytoxic and Formale Bassgestaltung. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+CiKi is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Frankfurt and Toronto. Often billed alongside Kacy, Polytoxic and Formale Bassgestaltung. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CiKi is a techno and trance artist tracked on soundcheck, with 38 sets logged ac
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Fri, 30 Oct 2026 | Tanzhaus West | Frankfurt |
+| Sat, 28 Nov 2026 | MTW | Frankfurt |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CiKi is a techno and trance artist tracked on soundcheck, with 38 sets logged ac
 
 Kacy, Polytoxic, Formale Bassgestaltung
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciki/)*

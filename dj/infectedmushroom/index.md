@@ -1,8 +1,8 @@
 # Infected Mushroom
 
-Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Infected Mushroom is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
-Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 49 sets logged across Athens, Austin, Berlin and Boston and 23 more. Often billed alongside Angerfist, Giorgia Angiuli and Astrix. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Infected Mushroom is a psytrance and trance artist based in Israel, tracked on soundcheck, with 49 sets logged across Athens, Austin, Berlin and Boston and 23 more. Often billed alongside Angerfist, Giorgia Angiuli and Astrix. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Infected Mushroom is a psytrance and trance artist tracked on soundcheck, with 4
 
 Angerfist, Giorgia Angiuli, Astrix
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infectedmushroom/)*

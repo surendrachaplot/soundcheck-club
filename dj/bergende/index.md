@@ -1,8 +1,8 @@
 # Bergen (DE)
 
-Bergen (DE) is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at WP8, Düsseldorf on Sat, 26 Sept 2026.
+Bergen (DE) is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at WP8, Düsseldorf on Sat, 26 Sept 2026.
 
-Bergen (DE) is a deep house and tech house artist tracked on soundcheck, with 4 sets logged across Cologne and Dusseldorf. Often billed alongside Anna Cainelli, Arninho and Bergen. Next up: WP8, Dusseldorf on Sat 26 Sept.
+Bergen (DE) is a deep house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne and Dusseldorf. Often billed alongside Anna Cainelli, Arninho and Bergen. Next up: WP8, Dusseldorf on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Bergen (DE) is a deep house and tech house artist tracked on soundcheck, with 4 
 
 Anna Cainelli, Arninho, Bergen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*

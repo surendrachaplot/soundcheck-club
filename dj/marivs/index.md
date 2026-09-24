@@ -1,8 +1,8 @@
 # Marivs
 
-Marivs is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Warehouse, Toronto on Sat, 10 Oct 2026.
+Marivs is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Warehouse, Toronto on Sat, 10 Oct 2026.
 
-Marivs is a techno and minimal techno artist tracked on soundcheck, with 37 sets logged across Barcelona, Detroit, Montreal and Newyorkcity and 1 more. Often billed alongside Antwon Faulkner, AUX_ID and DJ Seoul. Next up: TBA - Warehouse, Toronto on Sat 10 Oct.
+Marivs is a techno and minimal techno artist based in Romania, tracked on soundcheck, with 37 sets logged across Barcelona, Detroit, Montreal and Newyorkcity and 1 more. Often billed alongside Antwon Faulkner, AUX_ID and DJ Seoul. Next up: TBA - Warehouse, Toronto on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Marivs is a techno and minimal techno artist tracked on soundcheck, with 37 sets
 
 Antwon Faulkner, AUX_ID, DJ Seoul
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*

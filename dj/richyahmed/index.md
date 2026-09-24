@@ -1,15 +1,17 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 17 Oct 2026.
+Richy Ahmed is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Richy Ahmed is a tech house and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: Seaseaclub Barcelona, Barcelona on Sat 17 Oct.
+Richy Ahmed is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Berlin and 34 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 17 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 17 Oct 2026 | Sankeys | Manchester |
+| Mon, 28 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 141 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

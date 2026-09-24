@@ -1,14 +1,15 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Mauro Picotto is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
-Mauro Picotto is a trance and techno artist tracked on soundcheck, with 35 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 16 more. Often billed alongside Billy Gillies, Judge Jules and Eddie Halliwell. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
+Mauro Picotto is a trance and techno artist based in Italy, tracked on soundcheck, with 36 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 16 more. Often billed alongside Billy Gillies, Eddie Halliwell and Judge Jules. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | 02 Victoria Warehouse | Manchester |
+| Fri, 6 Nov 2026 | Index | Dublin |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 28 Nov 2026 | Room 2 Glasgow | Glasgow |
 
@@ -25,6 +26,6 @@ Mauro Picotto is a trance and techno artist tracked on soundcheck, with 35 sets 
 
 ## Shares bills with
 
-Billy Gillies, Judge Jules, Eddie Halliwell
+Billy Gillies, Eddie Halliwell, Judge Jules
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*

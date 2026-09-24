@@ -1,8 +1,8 @@
 # Wisdom Tits
 
-Wisdom Tits is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sameheads, Berlin on Fri, 16 Oct 2026.
+Wisdom Tits is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sameheads, Berlin on Fri, 16 Oct 2026.
 
-Wisdom Tits is an ebm and post-punk artist tracked on soundcheck, with 19 sets logged across Berlin, Leipzig and Prague. Often billed alongside Madeleine Rose, 41ISSA and ANDI A.. Next up: Sameheads, Berlin on Fri 16 Oct.
+Wisdom Tits is an ebm and post-punk artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Leipzig and Prague. Often billed alongside Madeleine Rose, 41ISSA and ANDI A.. Next up: Sameheads, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Wisdom Tits is an ebm and post-punk artist tracked on soundcheck, with 19 sets l
 
 Madeleine Rose, 41ISSA, ANDI A.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wisdomtits/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wisdomtits/)*

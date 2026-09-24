@@ -1,8 +1,8 @@
 # sunflwr
 
-sunflwr is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Night Tales Loft, London on Fri, 6 Nov 2026.
+sunflwr is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Night Tales Loft, London on Fri, 6 Nov 2026.
 
-sunflwr is a house and deep house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Berlin and Brussels and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Paluma Sound. Next up: Night Tales Loft, London on Fri 6 Nov.
+sunflwr is a house and deep house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Berlin and Brussels and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Paluma Sound. Next up: Night Tales Loft, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ sunflwr is a house and deep house artist tracked on soundcheck, with 56 sets log
 
 dj poolboi, DJ Cinéma Quartier Latin, Paluma Sound
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunflwr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunflwr/)*

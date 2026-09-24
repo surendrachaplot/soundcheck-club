@@ -1,8 +1,8 @@
 # Sloan (2)
 
-Sloan (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
+Sloan (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 2 Oct 2026.
 
-Sloan (2) is a techno and bass artist tracked on soundcheck, with 43 sets logged across Edinburgh, Glasgow, Lisbon and London and 1 more. Often billed alongside Civic Grief, dj peanut and Skillis. Next up: La Cheetah Club, Glasgow on Fri 2 Oct.
+Sloan (2) is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Edinburgh, Glasgow, Lisbon and London and 1 more. Often billed alongside Civic Grief, dj peanut and Skillis. Next up: La Cheetah Club, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sloan (2) is a techno and bass artist tracked on soundcheck, with 43 sets logged
 
 Civic Grief, dj peanut, Skillis
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sloan-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sloan-2/)*

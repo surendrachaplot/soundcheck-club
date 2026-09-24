@@ -1,13 +1,14 @@
 # Local Suicide
 
-Local Suicide is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at KitKatClub, Berlin on Mon, 12 Oct 2026.
+Local Suicide is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sameheads, Berlin on Thu, 8 Oct 2026.
 
-Local Suicide is a techno and house artist tracked on soundcheck, with 82 sets logged across Athens, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: KitKatClub, Berlin on Mon 12 Oct.
+Local Suicide is a techno and house artist based in Greece, tracked on soundcheck, with 83 sets logged across Athens, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: Sameheads, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Sameheads | Berlin |
 | Mon, 12 Oct 2026 | KitKatClub | Berlin |
 | Fri, 23 Oct 2026 | Kater | Berlin |
 | Sat, 31 Oct 2026 | Colours Hoxton | London |
@@ -27,4 +28,4 @@ Local Suicide is a techno and house artist tracked on soundcheck, with 82 sets l
 
 Frankie Flowerz, Dina Summer, Kalipo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*

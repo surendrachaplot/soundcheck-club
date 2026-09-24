@@ -1,6 +1,6 @@
 # Gilles Bock
 
-Gilles Bock is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Gilles Bock is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Gilles Bock is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne. Often billed alongside Kos:mo, Steven Shade and Tschatsching. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Gilles Bock is a techno and trance artist based in Germany, tracked on soundchec
 
 Kos:mo, Steven Shade, Tschatsching
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gillesbock/)*

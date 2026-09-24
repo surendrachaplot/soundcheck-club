@@ -1,8 +1,8 @@
 # DJ Cartier
 
-DJ Cartier is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Melkweg, Amsterdam on Fri, 6 Nov 2026.
+DJ Cartier is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Melkweg, Amsterdam on Fri, 6 Nov 2026.
 
-DJ Cartier is a garage and bass artist tracked on soundcheck, with 8 sets logged across Amsterdam, London and Manchester. Often billed alongside Artful Dodger, MC DT and MC Kie. Next up: Melkweg, Amsterdam on Fri 6 Nov.
+DJ Cartier is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, London and Manchester. Often billed alongside Artful Dodger, MC DT and MC Kie. Next up: Melkweg, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ DJ Cartier is a garage and bass artist tracked on soundcheck, with 8 sets logged
 
 Artful Dodger, MC DT, MC Kie
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcartier/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcartier/)*

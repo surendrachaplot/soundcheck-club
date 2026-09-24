@@ -1,8 +1,8 @@
 # Crossy
 
-Crossy is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
+Crossy is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
 
-Crossy is a drum & bass and jungle artist tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Trafic MC. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
+Crossy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 14 more. Often billed alongside Carasel, Kelvin 373 and Trafic MC. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Crossy is a drum & bass and jungle artist tracked on soundcheck, with 62 sets lo
 
 Carasel, Kelvin 373, Trafic MC
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

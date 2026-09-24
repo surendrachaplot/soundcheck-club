@@ -1,8 +1,8 @@
 # TNSXORDS
 
-TNSXORDS is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mood Ring, New York City on Sat, 10 Oct 2026.
+TNSXORDS is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Sat, 10 Oct 2026.
 
-TNSXORDS is an electronic artist tracked on soundcheck, with 5 sets logged across London and Newyorkcity. Often billed alongside Baby Cocada, Manuka Honey and MINA G. Next up: Mood Ring, Newyorkcity on Sat 10 Oct.
+TNSXORDS is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Newyorkcity. Often billed alongside Baby Cocada, Manuka Honey and MINA G. Next up: Mood Ring, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ TNSXORDS is an electronic artist tracked on soundcheck, with 5 sets logged acros
 
 Baby Cocada, Manuka Honey, MINA G
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnsxords/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnsxords/)*

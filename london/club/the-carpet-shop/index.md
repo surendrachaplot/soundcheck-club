@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 20 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Primo Italiano with DJ Subaru, Hollick & Manuel Darquart" on Fri, 25 Sept 2026.
+The Carpet Shop is a music venue in London with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Primo Italiano with DJ Subaru, Hollick & Manuel Darquart" on Fri, 25 Sept 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Phountzi, Aqwea, Cam Joon and CasuallyClued and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 20 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

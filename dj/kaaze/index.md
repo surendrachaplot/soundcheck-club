@@ -1,6 +1,6 @@
 # KAAZE
 
-KAAZE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Future Nightlife, Toronto on Fri, 9 Oct 2026.
+KAAZE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Future Nightlife, Toronto on Fri, 9 Oct 2026.
 
 KAAZE is a techno and electro artist based in Sweden, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Boston and Cologne and 17 more. Often billed alongside Aaron Hibell, Adam Beyer and Alesso. Next up: Future Nightlife, Toronto on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ KAAZE is a techno and electro artist based in Sweden, tracked on soundcheck, wit
 
 Aaron Hibell, Adam Beyer, Alesso
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaze/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaze/)*

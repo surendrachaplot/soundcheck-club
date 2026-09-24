@@ -1,8 +1,8 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
-Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 56 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: Club Exil, Vienna on Sat 3 Oct.
+Anaïs is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: Club Exil, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 56 sets lo
 
 Whiney, Degs, P Money
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

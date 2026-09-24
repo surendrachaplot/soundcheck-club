@@ -1,8 +1,8 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mind Against is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, Sanfrancisco on Fri 2 Oct.
+Mind Against is a techno and house artist based in Italy, tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, Sanfrancisco on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 157 sets l
 
 Adriatique, sideral, Dyzen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

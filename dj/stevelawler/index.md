@@ -1,8 +1,8 @@
 # Steve Lawler
 
-Steve Lawler is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Aire Miami, Miami on Sat, 26 Sept 2026.
+Steve Lawler is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aire Miami, Miami on Sat, 26 Sept 2026.
 
-Steve Lawler is a house and progressive house artist tracked on soundcheck, with 64 sets logged across Barcelona, Buenosaires, Ibiza and London and 9 more. Often billed alongside gaeb, Ella Romand and Will Taylor. Next up: Aire Miami, Miami on Sat 26 Sept.
+Steve Lawler is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Barcelona, Buenosaires, Ibiza and London and 9 more. Often billed alongside gaeb, Ella Romand and Will Taylor. Next up: Aire Miami, Miami on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Steve Lawler is a house and progressive house artist tracked on soundcheck, with
 
 gaeb, Ella Romand, Will Taylor
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevelawler/)*

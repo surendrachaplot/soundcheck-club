@@ -1,6 +1,6 @@
 # deep creep
 
-deep creep is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Signal, New York City on Fri, 2 Oct 2026.
+deep creep is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 2 Oct 2026.
 
 deep creep is a techno and house artist based in United States of America, tracked on soundcheck, with 105 sets logged across Auckland, Berlin, Brisbane and Brussels and 13 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: Signal, Newyorkcity on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ deep creep is a techno and house artist based in United States of America, track
 
 DJ Fart in the Club, Amelia Holt, Aurora Halal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

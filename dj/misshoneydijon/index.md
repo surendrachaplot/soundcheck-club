@@ -1,8 +1,8 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 43 more. Often billed alongside Chloé Caillet, Mochakk and The Blessed Madonna. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Honey Dijon is a house and techno artist based in United States of America, tracked on soundcheck, with 203 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 43 more. Often billed alongside Chloé Caillet, Mochakk and The Blessed Madonna. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 203 sets lo
 
 Chloé Caillet, Mochakk, The Blessed Madonna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

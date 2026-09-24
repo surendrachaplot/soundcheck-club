@@ -1,6 +1,6 @@
 # Mouataz
 
-Mouataz is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
+Mouataz is a Breakbeat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Super7, Lyon on Thu, 24 Sept 2026.
 
 Mouataz is a breakbeat and house artist based in Morocco, tracked on soundcheck, with 14 sets logged across Brussels, Lyon, Marseille and Paris. Often billed alongside Farah (2), Beatrice M. and CCL. Next up: Super7, Lyon on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Mouataz is a breakbeat and house artist based in Morocco, tracked on soundcheck,
 
 Farah (2), Beatrice M., CCL
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouataz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouataz/)*

@@ -1,6 +1,6 @@
 # Kudamm 229
 
-Kudamm 229 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Zalando RunZone (Marathon After-Party) featuring POWER" on Sun, 27 Sept 2026.
+Kudamm 229 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Zalando RunZone (Marathon After-Party) featuring POWER" on Sun, 27 Sept 2026.
 
 Kudamm 229 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Power Squad. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kudamm 229 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | Zalando RunZone (Marathon After-Party) featuring POWER | Power Squad |
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kudamm-229/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kudamm-229/)*

@@ -1,8 +1,8 @@
 # ARWIN AZIZ
 
-ARWIN AZIZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
+ARWIN AZIZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Warehouse ZRH, Zurich on Sat, 14 Nov 2026.
 
-ARWIN AZIZ is a tech house and house artist tracked on soundcheck, with 17 sets logged across Zurich. Often billed alongside And Hazel, De La Maso and Alessio da Silva. Next up: Warehouse ZRH, Zurich on Sat 14 Nov.
+ARWIN AZIZ is a tech house and house artist based in Switzerland, tracked on soundcheck, with 17 sets logged across Zurich. Often billed alongside And Hazel, De La Maso and Alessio da Silva. Next up: Warehouse ZRH, Zurich on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ARWIN AZIZ is a tech house and house artist tracked on soundcheck, with 17 sets 
 
 And Hazel, De La Maso, Alessio da Silva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arwinaziz/)*

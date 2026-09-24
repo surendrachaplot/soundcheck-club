@@ -1,8 +1,8 @@
 # Karjala
 
-Karjala is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Subcero Club, Madrid on Fri, 16 Oct 2026.
+Karjala is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Subcero Club, Madrid on Fri, 16 Oct 2026.
 
-Karjala is an electronica and downtempo artist tracked on soundcheck, with 5 sets logged across Ibiza, Madrid and Mexicocity. Often billed alongside Terence :Terry:, Chisko Disco and Darina. Next up: Subcero Club, Madrid on Fri 16 Oct.
+Karjala is an electronica and downtempo artist based in Denmark, tracked on soundcheck, with 5 sets logged across Ibiza, Madrid and Mexicocity. Often billed alongside Terence :Terry:, Chisko Disco and Darina. Next up: Subcero Club, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Karjala is an electronica and downtempo artist tracked on soundcheck, with 5 set
 
 Terence :Terry:, Chisko Disco, Darina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karjala/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karjala/)*

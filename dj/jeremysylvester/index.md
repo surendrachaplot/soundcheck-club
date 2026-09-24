@@ -1,8 +1,8 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Jam Jar, Bristol on Thu, 24 Sept 2026.
+Jeremy Sylvester is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Jam Jar, Bristol on Thu, 24 Sept 2026.
 
-Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 20 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: The Jam Jar, Bristol on Thu 24 Sept.
+Jeremy Sylvester is a garage and house artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 20 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: The Jam Jar, Bristol on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 114 se
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

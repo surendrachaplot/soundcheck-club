@@ -1,6 +1,6 @@
 # Mura Masa
 
-Mura Masa is a Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Mura Masa is a Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Mura Masa is a bass and r&b artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Yaeji, Boo and DARIUS. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mura Masa is a bass and r&b artist based in United Kingdom, tracked on soundchec
 
 Yaeji, Boo, DARIUS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muramasa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muramasa/)*

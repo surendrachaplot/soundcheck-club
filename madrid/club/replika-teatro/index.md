@@ -1,6 +1,6 @@
 # Replika Teatro
 
-Replika Teatro is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "She Makes Noise x Taiwán" on Sat, 3 Oct 2026.
+Replika Teatro is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "She Makes Noise x Taiwán" on Sat, 3 Oct 2026.
 
 Replika Teatro is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Sabiwa, Scintii and Sonia Calico. Browse upcoming dates, start times and who's playing. Calle Explanada, 14, 28040 Madrid Spain.
 
@@ -14,4 +14,4 @@ Replika Teatro is a music venue in Madrid listed on soundcheck. 1 upcoming gig, 
 
 Calle Explanada, 14, 28040 Madrid Spain, Madrid
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/replika-teatro/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/replika-teatro/)*

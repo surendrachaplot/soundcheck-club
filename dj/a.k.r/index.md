@@ -1,8 +1,8 @@
 # A.K.R
 
-A.K.R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
+A.K.R is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 99 Scott Ave, New York City on Fri, 2 Oct 2026.
 
-A.K.R is a techno and trance artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside David Löhlein, Junkfile and Karen Von K. Next up: 99 Scott Ave, Newyorkcity on Fri 2 Oct.
+A.K.R is a techno and trance artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside David Löhlein, Junkfile and Karen Von K. Next up: 99 Scott Ave, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ A.K.R is a techno and trance artist tracked on soundcheck, with 4 sets logged ac
 
 David Löhlein, Junkfile, Karen Von K
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.k.r/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.k.r/)*

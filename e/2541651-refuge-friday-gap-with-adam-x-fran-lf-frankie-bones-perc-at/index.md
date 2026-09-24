@@ -1,6 +1,6 @@
 # Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc at Refuge
 
-Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc on Fri 16 Oct, Newyorkcity. 4 acts on the bill: Adam X, Fran LF, Frankie Bones and Perc. Preview the line-up and save it on soundcheck.
+Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc on Fri 16 Oct, Newyorkcity. 5 acts on the bill: Adam X, cotton, Fran LF and Frankie Bones and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc on Fri 16 Oct,
 ## Line-up
 
 - Adam X
+- cotton
 - Fran LF
 - Frankie Bones
 - Perc

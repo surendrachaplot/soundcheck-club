@@ -1,8 +1,8 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Zorlu Performans Sanatları Merkezi, Istanbul on Fri, 25 Sept 2026.
+Cera Khin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zorlu Performans Sanatları Merkezi, Istanbul on Fri, 25 Sept 2026.
 
-Cera Khin is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Clara Cuvé, Shlømo and Charlie Sparks. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Fri 25 Sept.
+Cera Khin is a techno and house artist based in Tunisia, tracked on soundcheck, with 181 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Clara Cuvé, Shlømo and I Hate Models. Next up: Zorlu Performans Sanatları Merkezi, Istanbul on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 181 sets logg
 
 ## Shares bills with
 
-Clara Cuvé, Shlømo, Charlie Sparks
+Clara Cuvé, Shlømo, I Hate Models
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

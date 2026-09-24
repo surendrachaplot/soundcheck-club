@@ -1,14 +1,13 @@
 # Panke
 
-Panke is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "AJULLIACOSTA" on Wed, 23 Sept 2026.
+Panke is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "/pnèu·ma/" on Thu, 24 Sept 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | AJULLIACOSTA | SILVASURFER000 |
 | Thu, 24 Sept 2026 | /pnèu·ma/ | AGILITÄT, E L A, Marylou, Sentient (3), marcio |
 | Fri, 25 Sept 2026 | Asnam presents: BURIDAN's SNARES by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana | Jana, Rama (2) |
 | Thu, 1 Oct 2026 | Matiah Chinasky&Dj Perez in Berlin |  |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with li
 | Thu, 15 Oct 2026 | FLIGHTMODE |  |
 | Fri, 16 Oct 2026 | Bassism 5.0 feat. N-Type & Slowie | Dj Alyaz, Dj Quien, Grzly Adams, N-Type, Scre_wy, Tommy Lexxus, VILIFY |
 | Fri, 30 Oct 2026 | FUKSTEP |  |
+| Fri, 6 Nov 2026 | ACT!ON: BBBBBBB, Catnapp, Alex Wilcox  | Alex Wilcox, BBBBBBB, Catnapp |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

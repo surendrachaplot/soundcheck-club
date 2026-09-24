@@ -1,8 +1,8 @@
 # Paleman
 
-Paleman is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Phonox, London on Thu, 22 Oct 2026.
+Paleman is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Phonox, London on Thu, 22 Oct 2026.
 
-Paleman is a bass and garage artist tracked on soundcheck, with 19 sets logged across Athens, London, Manchester and Newcastle. Often billed alongside Klose One, Case (2) and El-B. Next up: Phonox, London on Thu 22 Oct.
+Paleman is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Athens, London, Manchester and Newcastle. Often billed alongside Klose One, Case (2) and El-B. Next up: Phonox, London on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Paleman is a bass and garage artist tracked on soundcheck, with 19 sets logged a
 
 Klose One, Case (2), El-B
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paleman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paleman/)*

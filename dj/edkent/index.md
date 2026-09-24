@@ -1,8 +1,8 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
+Ed Kent is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Glamorama, Melbourne on Fri, 25 Sept 2026.
 
-Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, with 77 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Hannah D, Séarlait and Zjoso. Next up: Glamorama, Melbourne on Fri 25 Sept.
+Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, with 78 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Séarlait, Hannah D and Zjoso. Next up: Glamorama, Melbourne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, 
 | Fri, 25 Sept 2026 | Glamorama | Melbourne |
 | Sat, 26 Sept 2026 | TBA | Melbourne |
 | Sat, 17 Oct 2026 | Miscellania | Melbourne |
+| Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 19 Dec 2026 | ark (Melb) | Melbourne |
 
@@ -27,6 +28,6 @@ Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, 
 
 ## Shares bills with
 
-Hannah D, Séarlait, Zjoso
+Séarlait, Hannah D, Zjoso
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

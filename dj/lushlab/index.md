@@ -1,8 +1,8 @@
 # Lush Lab
 
-Lush Lab is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+Lush Lab is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
-Lush Lab is an ebm and techno artist tracked on soundcheck, with 22 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Void Club, Berlin on Fri 2 Oct.
+Lush Lab is an ebm and techno artist based in Brazil, tracked on soundcheck, with 22 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Void Club, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lush Lab is an ebm and techno artist tracked on soundcheck, with 22 sets logged 
 
 Desolate Discotheque, Charlie Vaux, Electric Visionary
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*

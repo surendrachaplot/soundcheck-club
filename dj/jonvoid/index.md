@@ -1,8 +1,8 @@
 # Jon Void
 
-Jon Void is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Helios37, Cologne on Sat, 7 Nov 2026.
+Jon Void is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Sat, 7 Nov 2026.
 
-Jon Void is a techno and drum & bass artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Zurich. Often billed alongside Gourski, Jaycut and Enaly. Next up: Helios37, Cologne on Sat 7 Nov.
+Jon Void is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Zurich. Often billed alongside Gourski, Jaycut and Enaly. Next up: Helios37, Cologne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jon Void is a techno and drum & bass artist tracked on soundcheck, with 37 sets 
 
 Gourski, Jaycut, Enaly
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonvoid/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonvoid/)*

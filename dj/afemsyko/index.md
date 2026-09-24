@@ -1,8 +1,8 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
+Afem Syko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bootshaus, Cologne on Fri, 25 Sept 2026.
 
-Afem Syko is a techno and trance artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Bootshaus, Cologne on Fri 25 Sept.
+Afem Syko is a techno and trance artist based in Germany, tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Bootshaus, Cologne on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Afem Syko is a techno and trance artist tracked on soundcheck, with 157 sets log
 | Fri, 9 Oct 2026 | E1 | London |
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Fri, 23 Oct 2026 | Südpol | Hamburg |
+| Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Afem Syko is a techno and trance artist tracked on soundcheck, with 157 sets log
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

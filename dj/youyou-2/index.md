@@ -1,8 +1,8 @@
 # YouYou (2)
 
-YouYou (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The System, Sheffield on Fri, 16 Oct 2026.
+YouYou (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The System, Sheffield on Fri, 16 Oct 2026.
 
-YouYou (2) is a techno and bass artist tracked on soundcheck, with 15 sets logged across Bristol, London and Sheffield. Often billed alongside Berwick, Tania Atyabi and Medallion Man. Next up: The System, Sheffield on Fri 16 Oct.
+YouYou (2) is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, London and Sheffield. Often billed alongside Berwick, Tania Atyabi and Medallion Man. Next up: The System, Sheffield on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YouYou (2) is a techno and bass artist tracked on soundcheck, with 15 sets logge
 
 Berwick, Tania Atyabi, Medallion Man
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*

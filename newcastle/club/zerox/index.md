@@ -1,6 +1,6 @@
 # Zerox
 
-Zerox is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Tokyo Acid Crew & ZEROX presents: Gez Varley / LFO / G-MAN" on Fri, 2 Oct 2026.
+Zerox is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tokyo Acid Crew & ZEROX presents: Gez Varley / LFO / G-MAN" on Fri, 2 Oct 2026.
 
 Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, with line-ups including G-MAN aka Gez Varley, Gez Varley and LFO. Browse upcoming dates, start times and who's playing. 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK.
 
@@ -14,4 +14,4 @@ Zerox is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, with l
 
 48-52 Sandhill, Newcastle Upon Tyne, Tyne & Wear, NE1 3JF, UK, Newcastle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/zerox/)*

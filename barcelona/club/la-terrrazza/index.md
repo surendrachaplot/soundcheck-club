@@ -1,14 +1,13 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 22 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "PLAYGROUND with Make A Dance" on Wed, 23 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 21 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NEO Open Air Takeover - La Terrrazza Barcelona" on Thu, 24 Sept 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 22 upcoming gigs, with line-ups including Alvaro Medina, Alvva, Baldman and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 21 upcoming gigs, with line-ups including Alvaro Medina, Alvva, Baldman and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | PLAYGROUND with Make A Dance | Cisco, Make A Dance, Martin Noise |
 | Thu, 24 Sept 2026 | NEO Open Air Takeover - La Terrrazza Barcelona |  |
 | Fri, 25 Sept 2026 | La Aso | Danny Daze, Eli Kapowski |
 | Sat, 26 Sept 2026 | CLOSA SELECTS: Guy Gerber 3h set at La Terrrazza | Guy Gerber, MARTISTA |
@@ -18,9 +17,10 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 22 upcoming gig
 | Sat, 3 Oct 2026 | Jackies Open Air Daytime w/ Jayda G | GIVIO, Jayda G, Piem, The Checkup |
 | Sat, 3 Oct 2026 | Local Heroes by La Terrrazza | Alvaro Medina, Baldman, Brieela, Certain People, DJ Sandwich, Guim, PAULA GM |
 | Sun, 4 Oct 2026 | Polenta |  |
+| Fri, 9 Oct 2026 | Hop on The Top (Closing Party) Open Air Hip Hop Party at La Terrrazza | DJ AMAZING |
 
 ## Address
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

@@ -1,8 +1,8 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Ben Sims is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
-Ben Sims is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Hive Club, Zurich on Fri 25 Sept.
+Ben Sims is a techno and house artist based in United Kingdom, tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Hive Club, Zurich on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 187 sets logge
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

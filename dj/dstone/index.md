@@ -1,8 +1,8 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
+D Stone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
 
-D Stone is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: La Java, Paris on Fri 25 Sept.
+D Stone is a house and tech house artist based in Netherlands, tracked on soundcheck, with 116 sets logged across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: La Java, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ D Stone is a house and tech house artist tracked on soundcheck, with 116 sets lo
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

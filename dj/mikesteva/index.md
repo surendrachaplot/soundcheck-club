@@ -1,8 +1,8 @@
 # Mike Steva
 
-Mike Steva is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NEO CLUB ROMA, Rome on Sat, 3 Oct 2026.
+Mike Steva is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NEO CLUB ROMA, Rome on Sat, 3 Oct 2026.
 
-Mike Steva is a house and afro house artist tracked on soundcheck, with 13 sets logged across Auckland, Bali, Hongkong and London and 4 more. Often billed alongside Chris NG, Kikko and ALESSANDRO. Next up: NEO CLUB ROMA, Rome on Sat 3 Oct.
+Mike Steva is a house and afro house artist based in Australia, tracked on soundcheck, with 13 sets logged across Auckland, Bali, Hongkong and London and 4 more. Often billed alongside Chris NG, Kikko and ALESSANDRO. Next up: NEO CLUB ROMA, Rome on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mike Steva is a house and afro house artist tracked on soundcheck, with 13 sets 
 
 Chris NG, Kikko, ALESSANDRO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesteva/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesteva/)*

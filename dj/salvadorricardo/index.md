@@ -1,8 +1,8 @@
 # Salvador Ricardo
 
-Salvador Ricardo is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Coil, Melbourne on Thu, 24 Sept 2026.
+Salvador Ricardo is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Coil, Melbourne on Thu, 24 Sept 2026.
 
-Salvador Ricardo is a disco and balearic artist tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Berkay Mete, DJ Luv You and Hysteric. Next up: Coil, Melbourne on Thu 24 Sept.
+Salvador Ricardo is a disco and balearic artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Berkay Mete, DJ Luv You and Hysteric. Next up: Coil, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Salvador Ricardo is a disco and balearic artist tracked on soundcheck, with 7 se
 
 Berkay Mete, DJ Luv You, Hysteric
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorricardo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorricardo/)*

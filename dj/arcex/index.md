@@ -1,6 +1,6 @@
 # ArceX
 
-ArceX is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
+ArceX is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M7 Club, Barcelona on Sat, 26 Sept 2026.
 
 ArceX is a techno and electronica artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Madrid, Malaga and Manchester. Often billed alongside Adviro, Selecta (ES) and SuttleK. Next up: M7 Club, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ ArceX is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Adviro, Selecta (ES), SuttleK
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arcex/)*

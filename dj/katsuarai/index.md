@@ -1,6 +1,6 @@
 # Katsu Arai
 
-Katsu Arai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+Katsu Arai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
 
 Katsu Arai is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Berlin and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Kojiro and EIGHT. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Katsu Arai is a techno and house artist based in Japan, tracked on soundcheck, w
 
 AMG SAIMURA (TECHVANE), Kojiro, EIGHT
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuarai/)*

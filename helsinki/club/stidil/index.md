@@ -1,6 +1,6 @@
 # Stidilä
 
-Stidilä is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Perjantaijatkot Stidilässä – Florian Kupfer & OKS" on Sat, 26 Sept 2026.
+Stidilä is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Perjantaijatkot Stidilässä – Florian Kupfer & OKS" on Sat, 26 Sept 2026.
 
 Stidilä is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs, with line-ups including Florian Kupfer and Suski. Browse upcoming dates, start times and who's playing. Kaikukatu 4, 00101 Helsinki, Finland.
 
@@ -15,4 +15,4 @@ Stidilä is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs, wit
 
 Kaikukatu 4, 00101 Helsinki, Finland, Helsinki
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/stidil/)*

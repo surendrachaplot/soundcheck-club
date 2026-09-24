@@ -1,8 +1,8 @@
 # Esther Dune
 
-Esther Dune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
+Esther Dune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
-Esther Dune is a techno and house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside I-F, Marsman and Dexon. Next up: Inter-City, Thehague on Sat 26 Sept.
+Esther Dune is a techno and house artist based in Netherlands, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside I-F, Marsman and Dexon. Next up: Inter-City, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Esther Dune is a techno and house artist tracked on soundcheck, with 101 sets lo
 
 I-F, Marsman, Dexon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*

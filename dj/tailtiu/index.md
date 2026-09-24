@@ -1,6 +1,6 @@
 # Tailtiu
 
-Tailtiu is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
+Tailtiu is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Sat, 3 Oct 2026.
 
 Tailtiu is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Belfast, London, Madrid and Paris. Often billed alongside BRAVA, Boo and Origin. Next up: Fvtvr, Paris on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Tailtiu is a techno and electro artist based in United Kingdom, tracked on sound
 
 BRAVA, Boo, Origin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailtiu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tailtiu/)*

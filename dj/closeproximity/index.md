@@ -1,8 +1,8 @@
 # CLOSE PROXIMITY
 
-CLOSE PROXIMITY is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 2 Oct 2026.
+CLOSE PROXIMITY is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vittoria Wharf Studio, London on Fri, 2 Oct 2026.
 
-CLOSE PROXIMITY is a trance and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Krakow, London and Newyorkcity and 1 more. Often billed alongside Claudia (UK), AKWA and Coco Cole. Next up: Vittoria Wharf Studio, London on Fri 2 Oct.
+CLOSE PROXIMITY is a trance and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Krakow, London and Newyorkcity and 1 more. Often billed alongside Claudia (UK), AKWA and Coco Cole. Next up: Vittoria Wharf Studio, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CLOSE PROXIMITY is a trance and house artist tracked on soundcheck, with 13 sets
 
 Claudia (UK), AKWA, Coco Cole
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/closeproximity/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/closeproximity/)*

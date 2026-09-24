@@ -1,6 +1,6 @@
 # Miss Manu
 
-Miss Manu is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
+Miss Manu is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Miss Manu is a tech house and techno artist based in Italy, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Jairo Uría, no_ip and John Acquaviva. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Miss Manu is a tech house and techno artist based in Italy, tracked on soundchec
 
 Jairo Uría, no_ip, John Acquaviva
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmanu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missmanu/)*

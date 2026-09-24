@@ -1,8 +1,8 @@
 # KLATTE
 
-KLATTE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
+KLATTE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mellowpark, Berlin on Sat, 26 Sept 2026.
 
-KLATTE is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside BARTi, Leon Licht and Phauna. Next up: Mellowpark, Berlin on Sat 26 Sept.
+KLATTE is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside BARTi, Leon Licht and Phauna. Next up: Mellowpark, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KLATTE is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 BARTi, Leon Licht, Phauna
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klatte/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klatte/)*

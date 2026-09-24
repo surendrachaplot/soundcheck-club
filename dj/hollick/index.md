@@ -1,8 +1,8 @@
 # Hollick
 
-Hollick is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
+Hollick is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
 
-Hollick is an italo disco and house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Manuel Darquart, AceMoMA and Ariane V. Next up: The Carpet Shop, London on Fri 25 Sept.
+Hollick is an italo disco and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Manuel Darquart, AceMoMA and Ariane V. Next up: The Carpet Shop, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hollick is an italo disco and house artist tracked on soundcheck, with 15 sets l
 
 Manuel Darquart, AceMoMA, Ariane V
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hollick/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hollick/)*

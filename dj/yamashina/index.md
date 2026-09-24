@@ -1,8 +1,8 @@
 # Yamashina
 
-Yamashina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 12 Oct 2026.
+Yamashina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aoyama Hachi, Tokyo on Mon, 12 Oct 2026.
 
-Yamashina is a house and techno artist tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Koni, NITA and Yonenaga. Next up: Aoyama Hachi, Tokyo on Mon 12 Oct.
+Yamashina is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Koni, NITA and Yonenaga. Next up: Aoyama Hachi, Tokyo on Mon 12 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Yamashina is a house and techno artist tracked on soundcheck, with 11 sets logge
 
 Koni, NITA, Yonenaga
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamashina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamashina/)*

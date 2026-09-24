@@ -1,8 +1,8 @@
 # 7e
 
-7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 24 Sept 2026.
+7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 24 Sept 2026.
 
-7e is a techno and house artist tracked on soundcheck, with 173 sets logged across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 24 Sept.
+7e is a techno and house artist based in Japan, tracked on soundcheck, with 173 sets logged across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@
 
 Mari Sakurai, suimin, TEI TEI
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*

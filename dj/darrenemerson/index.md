@@ -1,8 +1,8 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Darren Emerson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
 
-Darren Emerson is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Auckland, Berlin and Brighton and 19 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
+Darren Emerson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Auckland, Berlin and Brighton and 19 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Darren Emerson is a house and techno artist tracked on soundcheck, with 31 sets 
 
 Brandon Block, Danny Tenaglia, John Course
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenemerson/)*

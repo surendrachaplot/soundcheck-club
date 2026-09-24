@@ -1,8 +1,8 @@
 # Dylan Forbes
 
-Dylan Forbes is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Greyhound, London on Fri, 25 Sept 2026.
+Dylan Forbes is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Greyhound, London on Fri, 25 Sept 2026.
 
-Dylan Forbes is a trance and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Dublin and London and 3 more. Often billed alongside IN2STELLAR, Noord Loop and Pjenné. Next up: The Greyhound, London on Fri 25 Sept.
+Dylan Forbes is a trance and house artist based in Ireland, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Dublin and London and 3 more. Often billed alongside IN2STELLAR, Noord Loop and Pjenné. Next up: The Greyhound, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dylan Forbes is a trance and house artist tracked on soundcheck, with 13 sets lo
 
 IN2STELLAR, Noord Loop, Pjenné
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanforbes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanforbes/)*

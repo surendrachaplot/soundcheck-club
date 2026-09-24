@@ -1,14 +1,13 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Arts Club, Liverpool on Wed, 23 Sept 2026.
+1-800 GIRLS is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Think Tank, Newcastle on Thu, 24 Sept 2026.
 
-1-800 GIRLS is a house and techno artist tracked on soundcheck, with 86 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 20 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Arts Club, Liverpool on Wed 23 Sept.
+1-800 GIRLS is a house and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 20 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Think Tank, Newcastle on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Arts Club | Liverpool |
 | Thu, 24 Sept 2026 | Think Tank | Newcastle |
 | Wed, 30 Sept 2026 | Village Underground | London |
 | Sun, 1 Nov 2026 | TBA - The Underpass | Melbourne |
@@ -17,6 +16,7 @@
 
 ## Recently played
 
+- Arts Club, Liverpool — Wed, 23 Sept 2026
 - Gaffe, London — Sat, 12 Sept 2026
 - Yes, Manchester — Fri, 11 Sept 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
@@ -24,10 +24,9 @@
 - The Great Northern, San Francisco/Oakland — Sat, 8 Aug 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Flash, Washington DC — Thu, 28 May 2026
-- Buena Vista Lake, Los Angeles — Wed, 20 May 2026
 
 ## Shares bills with
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

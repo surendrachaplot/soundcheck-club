@@ -1,8 +1,8 @@
 # Cristal Roto
 
-Cristal Roto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
+Cristal Roto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 2 Oct 2026.
 
-Cristal Roto is a techno and house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Madrid. Often billed alongside DimGrøve, Killo and Zagal. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 2 Oct.
+Cristal Roto is a techno and house artist based in Spain, tracked on soundcheck, with 9 sets logged across Amsterdam and Madrid. Often billed alongside DimGrøve, Killo and Zagal. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cristal Roto is a techno and house artist tracked on soundcheck, with 9 sets log
 
 DimGrøve, Killo, Zagal
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalroto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristalroto/)*

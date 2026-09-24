@@ -1,6 +1,6 @@
 # Adrian Collazo
 
-Adrian Collazo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Flash, Washington DC on Fri, 16 Oct 2026.
+Adrian Collazo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Fri, 16 Oct 2026.
 
 Adrian Collazo is a disco and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Washingtondc. Often billed alongside DJ Eddy Bauer, Katrina Mir and Kenny M. Next up: Flash, Washingtondc on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Adrian Collazo is a disco and house artist based in United States of America, tr
 
 DJ Eddy Bauer, Katrina Mir, Kenny M
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancollazo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriancollazo/)*

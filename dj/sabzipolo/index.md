@@ -1,6 +1,6 @@
 # Sabzipolo
 
-Sabzipolo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tendance, Prague on Sat, 26 Sept 2026.
+Sabzipolo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tendance, Prague on Sat, 26 Sept 2026.
 
 Sabzipolo is a techno and electro artist based in Czech Republic, tracked on soundcheck, with 23 sets logged across Berlin, Prague and Strasbourg. Often billed alongside Zuzana Hakl, takaDumm and Epoché. Next up: Tendance, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sabzipolo is a techno and electro artist based in Czech Republic, tracked on sou
 
 Zuzana Hakl, takaDumm, Epoché
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabzipolo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabzipolo/)*

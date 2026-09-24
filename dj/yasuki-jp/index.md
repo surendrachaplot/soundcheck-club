@@ -1,8 +1,8 @@
 # YASUKI
 
-YASUKI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at HVEN, Tokyo on Sat, 26 Sept 2026.
+YASUKI is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at HVEN, Tokyo on Sat, 26 Sept 2026.
 
-YASUKI is a drum & bass and techno artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside DJ AKi, Kulage and YELLOCK. Next up: HVEN, Tokyo on Sat 26 Sept.
+YASUKI is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside DJ AKi, Kulage and YELLOCK. Next up: HVEN, Tokyo on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ YASUKI is a drum & bass and techno artist tracked on soundcheck, with 5 sets log
 
 DJ AKi, Kulage, YELLOCK
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasuki-jp/)*

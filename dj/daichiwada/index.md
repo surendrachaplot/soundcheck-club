@@ -1,8 +1,8 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
+Daichi Wada is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
 
-Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: RADION, Amsterdam on Sat 26 Sept.
+Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside XINOVI, KOSEI and TEI TEI. Next up: RADION, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck,
 
 ## Shares bills with
 
-XINOVI, KOSEI, Golpe Mortal
+XINOVI, KOSEI, TEI TEI
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*

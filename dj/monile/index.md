@@ -1,14 +1,15 @@
 # Monile
 
-Monile is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
+Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
 
-Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Desirée Falessi, Jonny Rock and Lamache. Next up: Nocturna, Ibiza on Fri 25 Sept.
+Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Desirée Falessi, Jonny Rock and Lamache. Next up: Nocturna, Ibiza on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Nocturna | Ibiza |
+| Sat, 26 Sept 2026 | TBA - Cirque Romanes Tzigane | Paris |
 | Fri, 2 Oct 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 3 Oct 2026 | Cadavra | Madrid |
 
@@ -27,4 +28,4 @@ Monile is a house and techno artist based in Morocco, tracked on soundcheck, wit
 
 Desirée Falessi, Jonny Rock, Lamache
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

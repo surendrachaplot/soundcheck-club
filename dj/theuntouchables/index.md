@@ -1,8 +1,8 @@
 # The Untouchables
 
-The Untouchables is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
+The Untouchables is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-The Untouchables is a drum & bass and techno artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Brighton and Brussels and 8 more. Often billed alongside KŌMA (3), Bredren and DUKU. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
+The Untouchables is a drum & bass and techno artist based in Belgium, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Brighton and Brussels and 8 more. Often billed alongside KŌMA (3), Bredren and DUKU. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ The Untouchables is a drum & bass and techno artist tracked on soundcheck, with 
 
 KŌMA (3), Bredren, DUKU
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theuntouchables/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theuntouchables/)*

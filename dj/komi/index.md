@@ -1,8 +1,8 @@
 # KØMI
 
-KØMI is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Forge, Bucharest on Fri, 13 Nov 2026.
+KØMI is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Forge, Bucharest on Fri, 13 Nov 2026.
 
-KØMI is a techno and industrial artist tracked on soundcheck, with 20 sets logged across Bucharest. Often billed alongside DA NA, GODINI and Clast. Next up: Forge, Bucharest on Fri 13 Nov.
+KØMI is a techno and industrial artist based in Romania, tracked on soundcheck, with 20 sets logged across Bucharest. Often billed alongside DA NA, GODINI and Clast. Next up: Forge, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ KØMI is a techno and industrial artist tracked on soundcheck, with 20 sets logg
 
 DA NA, GODINI, Clast
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/komi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/komi/)*

@@ -1,6 +1,6 @@
 # Afterhours with Niko Dalagelis & George Karmokolias at Skull Bar
 
-Afterhours with Niko Dalagelis & George Karmokolias at Skull Bar on Sat 26 Sept, Athens. 1 act on the bill: John Dalagelis. House and Deep House. Preview the line-up and save it on soundcheck.
+Afterhours with Niko Dalagelis & George Karmokolias at Skull Bar on Sat 26 Sept, Athens. 1 act on the bill: Niko Dalagelis. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Afterhours with Niko Dalagelis & George Karmokolias at Skull Bar on Sat 26 Sept,
 
 ## Line-up
 
-- John Dalagelis
+- Niko Dalagelis
 
 *Source: [soundcheck](https://soundcheck.club/e/2543476-afterhours-with-niko-dalagelis-george-karmokolias-at-skull-b/)*

@@ -1,8 +1,8 @@
 # Estimulo
 
-Estimulo is a Deep House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Chicago on Fri, 16 Oct 2026.
+Estimulo is a Deep House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Chicago on Fri, 16 Oct 2026.
 
-Estimulo is a deep house and ambient artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brisbane and Chicago and 3 more. Often billed alongside m50, Fanfarrosa and Jank Inc.. Next up: TBA, Chicago on Fri 16 Oct.
+Estimulo is a deep house and ambient artist based in Germany, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brisbane and Chicago and 3 more. Often billed alongside m50, Fanfarrosa and Jank Inc.. Next up: TBA, Chicago on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Estimulo is a deep house and ambient artist tracked on soundcheck, with 39 sets 
 
 m50, Fanfarrosa, Jank Inc.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estimulo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estimulo/)*

@@ -1,8 +1,8 @@
 # higgy (de)
 
-higgy (de) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SASS Music Club, Vienna on Fri, 25 Sept 2026.
+higgy (de) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SASS Music Club, Vienna on Fri, 25 Sept 2026.
 
-higgy (de) is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Prague and Vienna. Often billed alongside Alex Grebe, Toast Hawaii and Vaneo. Next up: SASS Music Club, Vienna on Fri 25 Sept.
+higgy (de) is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Prague and Vienna. Often billed alongside Alex Grebe, Toast Hawaii and Vaneo. Next up: SASS Music Club, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ higgy (de) is a house and techno artist tracked on soundcheck, with 16 sets logg
 
 Alex Grebe, Toast Hawaii, Vaneo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/higgyde/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/higgyde/)*

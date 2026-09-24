@@ -1,8 +1,8 @@
 # Amos
 
-Amos is a Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Globe, Newcastle on Sat, 31 Oct 2026.
+Amos is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Globe, Newcastle on Sat, 31 Oct 2026.
 
-Amos is a trance artist tracked on soundcheck, with 4 sets logged across Liverpool, London and Newcastle. Often billed alongside Sean Tyas, 0Gravity and Aly & Fila. Next up: The Globe, Newcastle on Sat 31 Oct.
+Amos is a trance artist based in Italy, tracked on soundcheck, with 4 sets logged across Liverpool, London and Newcastle. Often billed alongside Sean Tyas, 0Gravity and Aly & Fila. Next up: The Globe, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Amos is a trance artist tracked on soundcheck, with 4 sets logged across Liverpo
 
 Sean Tyas, 0Gravity, Aly & Fila
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amos/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amos/)*

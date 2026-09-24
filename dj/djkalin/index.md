@@ -1,6 +1,6 @@
 # DJ Kalin
 
-DJ Kalin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
+DJ Kalin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
 
 DJ Kalin is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Philadelphia. Often billed alongside De León, Fold Theory and JFK (USA). Next up: Launderette Records, Philadelphia on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Kalin is a techno and house artist based in United States of America, tracked
 
 De León, Fold Theory, JFK (USA)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkalin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkalin/)*

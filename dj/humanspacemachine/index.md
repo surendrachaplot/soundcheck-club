@@ -1,8 +1,8 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
+Human Space Machine is a Techno and Dub Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Spijkerkade 2, Amsterdam on Sun, 4 Oct 2026.
 
-Human Space Machine is a techno and dub techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Eversines, Kaap and Konduku. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
+Human Space Machine is a techno and dub techno artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Eversines, Kaap and Oberman. Next up: TBA - Spijkerkade 2, Amsterdam on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Human Space Machine is a techno and dub techno artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Eversines, Kaap, Konduku
+Eversines, Kaap, Oberman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

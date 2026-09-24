@@ -1,8 +1,8 @@
 # TAFKAMP
 
-TAFKAMP is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at OHM, Berlin on Sat, 3 Oct 2026.
+TAFKAMP is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OHM, Berlin on Sat, 3 Oct 2026.
 
-TAFKAMP is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Belfast, Berlin and Brussels and 17 more. Often billed alongside Bastienne, Grace Dahl and Deniro. Next up: OHM, Berlin on Sat 3 Oct.
+TAFKAMP is a techno and house artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Belfast, Berlin and Brussels and 17 more. Often billed alongside Bastienne, Grace Dahl and Deniro. Next up: OHM, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ TAFKAMP is a techno and house artist tracked on soundcheck, with 84 sets logged 
 
 Bastienne, Grace Dahl, Deniro
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*

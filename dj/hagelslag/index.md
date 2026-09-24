@@ -1,8 +1,8 @@
 # Hagelslag
 
-Hagelslag is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Amstelhaven, Amsterdam on Sat, 24 Oct 2026.
+Hagelslag is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Amstelhaven, Amsterdam on Sat, 24 Oct 2026.
 
-Hagelslag is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Brent New, Cees and Julius. Next up: Amstelhaven, Amsterdam on Sat 24 Oct.
+Hagelslag is a house and tech house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam and Rotterdam. Often billed alongside Brent New, Cees and Julius. Next up: Amstelhaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Hagelslag is a house and tech house artist tracked on soundcheck, with 7 sets lo
 
 Brent New, Cees, Julius
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagelslag/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagelslag/)*

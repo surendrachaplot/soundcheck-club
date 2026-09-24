@@ -1,6 +1,6 @@
 # Klakaz
 
-Klakaz is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "APOCALYPSE w\ The Muffin Man & Gina Demarchi" on Sun, 11 Oct 2026.
+Klakaz is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "APOCALYPSE w\ The Muffin Man & Gina Demarchi" on Sun, 11 Oct 2026.
 
 Klakaz is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Avatos, Gina Demarchi, MAXImum and Nivk Jane and 2 more. Browse upcoming dates, start times and who's playing. Avramiotou 6-8, Athina 105 51, Greece.
 
@@ -15,4 +15,4 @@ Klakaz is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with li
 
 Avramiotou 6-8, Athina 105 51, Greece, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/klakaz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/klakaz/)*

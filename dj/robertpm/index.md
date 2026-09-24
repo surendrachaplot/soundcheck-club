@@ -1,8 +1,8 @@
 # Robert PM
 
-Robert PM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Robert PM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
-Robert PM is a house and disco artist tracked on soundcheck, with 13 sets logged across Berlin and Newyorkcity. Often billed alongside Borbón, Dee Diggs and HunnyBunny. Next up: Dead Letter No. 9, Newyorkcity on Sat 10 Oct.
+Robert PM is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin and Newyorkcity. Often billed alongside Borbón, Dee Diggs and HunnyBunny. Next up: Dead Letter No. 9, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Robert PM is a house and disco artist tracked on soundcheck, with 13 sets logged
 
 Borbón, Dee Diggs, HunnyBunny
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpm/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpm/)*

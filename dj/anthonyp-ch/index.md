@@ -1,13 +1,14 @@
 # Anthony P. (CH)
 
-Anthony P. (CH) is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Itzel Club, London on Fri, 2 Oct 2026.
+Anthony P. (CH) is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gallery, London on Thu, 1 Oct 2026.
 
-Anthony P. (CH) is an afro house and tech house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside CLEIDO, :DARREN and Cris Cioata. Next up: Itzel Club, London on Fri 2 Oct.
+Anthony P. (CH) is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside CLEIDO, :DARREN and Cris Cioata. Next up: Gallery, London on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Gallery | London |
 | Fri, 2 Oct 2026 | Itzel Club | London |
 
 ## Recently played
@@ -23,4 +24,4 @@ Anthony P. (CH) is an afro house and tech house artist tracked on soundcheck, wi
 
 CLEIDO, :DARREN, Cris Cioata
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyp-ch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyp-ch/)*

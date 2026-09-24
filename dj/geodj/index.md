@@ -1,8 +1,8 @@
 # Geo DJ
 
-Geo DJ is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at [LOADING BAY], London on Thu, 24 Sept 2026.
+Geo DJ is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at [LOADING BAY], London on Thu, 24 Sept 2026.
 
-Geo DJ is a tech house and minimal artist tracked on soundcheck, with 36 sets logged across Barcelona and London. Often billed alongside KAZIA, adamou and HAIG. Next up: [LOADING BAY], London on Thu 24 Sept.
+Geo DJ is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Barcelona and London. Often billed alongside KAZIA, adamou and HAIG. Next up: [LOADING BAY], London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Geo DJ is a tech house and minimal artist tracked on soundcheck, with 36 sets lo
 
 KAZIA, adamou, HAIG
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geodj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geodj/)*

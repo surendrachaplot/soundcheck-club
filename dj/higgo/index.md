@@ -1,8 +1,8 @@
 # Higgo
 
-Higgo is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hidden, Manchester on Thu, 29 Oct 2026.
+Higgo is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hidden, Manchester on Thu, 29 Oct 2026.
 
-Higgo is a garage and bass artist tracked on soundcheck, with 28 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 6 more. Often billed alongside LLEAHDAVIES, SHADEV and BVNQUET. Next up: Hidden, Manchester on Thu 29 Oct.
+Higgo is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 6 more. Often billed alongside LLEAHDAVIES, SHADEV and BVNQUET. Next up: Hidden, Manchester on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Higgo is a garage and bass artist tracked on soundcheck, with 28 sets logged acr
 
 LLEAHDAVIES, SHADEV, BVNQUET
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/higgo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/higgo/)*

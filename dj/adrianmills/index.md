@@ -1,8 +1,8 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Schrotty, Cologne on Fri, 2 Oct 2026.
+Adrian Mills is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Schrotty, Cologne on Fri, 2 Oct 2026.
 
-Adrian Mills is a techno and trance artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Schrotty, Cologne on Fri 2 Oct.
+Adrian Mills is a techno and trance artist based in Germany, tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Schrotty, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -34,4 +34,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 220 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

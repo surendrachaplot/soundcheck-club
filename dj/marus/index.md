@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Mar/us is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Mar/us is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Bangkok and Berlin and 25 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Mar/us is a techno and house artist tracked on soundcheck, with 91 sets logged a
 
 Cristian Marras, Metaraph, Samantha Togni
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

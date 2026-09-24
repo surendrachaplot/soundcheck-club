@@ -1,8 +1,8 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 26 Sept 2026.
+Aiden (DE) is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 26 Sept 2026.
 
-Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Uebel & Gefährlich, Hamburg on Sat 26 Sept.
+Aiden (DE) is a techno and industrial artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Uebel & Gefährlich, Hamburg on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Aiden (DE) is a techno and industrial artist tracked on soundcheck, with 85 sets
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

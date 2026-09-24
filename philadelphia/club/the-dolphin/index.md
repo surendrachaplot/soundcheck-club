@@ -1,8 +1,8 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "FVTVRE FAVORITE with MISS MADELINE [LIVE]" on Fri, 25 Sept 2026.
+The Dolphin is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "FVTVRE FAVORITE with MISS MADELINE [LIVE]" on Fri, 25 Sept 2026.
 
-The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including 4AM NYC, CITYSPROBLEM, Dave Tidey and DJ Papaya and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
+The Dolphin is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including 4AM NYC, America Loves Me, Caiya and CITYSPROBLEM and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
 ## What's on
 
@@ -14,10 +14,11 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 | Thu, 8 Oct 2026 | The Dolphin pres: PLASTICAN [UK DUBSTEP/GRIME PIONEER]  | DJ Papaya, Plastician |
 | Sun, 11 Oct 2026 | OUTFEST AFTERS with Jeffrey Sfire | Doll.Redacted, G I N A, Jeffrey Sfire |
 | Wed, 14 Oct 2026 | FRAXIOM//DATACATS |  |
+| Fri, 23 Oct 2026 | VOLTAGE vol 3° feat. JESSXO (NYC), Caiya | America Loves Me, Caiya, JESSXO, miipmiip |
 | Fri, 30 Oct 2026 | MISCHIEF NIGHT with Lauren Flax B2B Mike Servito | G I N A, Lauren Flax, Mike Servito |
 
 ## Address
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

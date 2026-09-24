@@ -1,8 +1,8 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Flash, Washington DC on Thu, 24 Sept 2026.
+Daphni is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Thu, 24 Sept 2026.
 
-Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Floating Points, Ben UFO and Four Tet. Next up: Flash, Washingtondc on Thu 24 Sept.
+Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Floating Points, Four Tet and Ben UFO. Next up: Flash, Washingtondc on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 ## Shares bills with
 
-Floating Points, Ben UFO, Four Tet
+Floating Points, Four Tet, Ben UFO
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

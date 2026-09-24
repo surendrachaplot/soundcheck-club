@@ -1,8 +1,8 @@
 # DUGASZ
 
-DUGASZ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+DUGASZ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
-DUGASZ is a techno and industrial artist tracked on soundcheck, with 5 sets logged across Birmingham and Budapest. Often billed alongside ALDES (2), GØBLIN and MMCCCXCIX. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+DUGASZ is a techno and industrial artist based in Hungary, tracked on soundcheck, with 5 sets logged across Birmingham and Budapest. Often billed alongside ALDES (2), GØBLIN and MMCCCXCIX. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ DUGASZ is a techno and industrial artist tracked on soundcheck, with 5 sets logg
 
 ALDES (2), GØBLIN, MMCCCXCIX
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dugasz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dugasz/)*

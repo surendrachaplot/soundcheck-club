@@ -1,8 +1,8 @@
 # Reggie
 
-Reggie is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
+Reggie is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sydney on Sat, 26 Sept 2026.
 
-Reggie is a techno and trance artist tracked on soundcheck, with 9 sets logged across Sydney and Tokyo. Often billed alongside Bichue, Jono Xidias and louís. Next up: TBA, Sydney on Sat 26 Sept.
+Reggie is a techno and trance artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney and Tokyo. Often billed alongside Bichue, Jono Xidias and louís. Next up: TBA, Sydney on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Reggie is a techno and trance artist tracked on soundcheck, with 9 sets logged a
 
 Bichue, Jono Xidias, louís
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reggie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reggie/)*

@@ -1,14 +1,15 @@
 # Conor Thomas
 
-Conor Thomas is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Kapsule, Liverpool on Sat, 17 Oct 2026.
+Conor Thomas is a EBM and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kapsule, Liverpool on Sat, 17 Oct 2026.
 
-Conor Thomas is an ebm and club artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Glasgow and Liverpool and 3 more. Often billed alongside Faux Naif, Annabel Fraser and Anna Gray. Next up: Kapsule, Liverpool on Sat 17 Oct.
+Conor Thomas is an ebm and club artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Glasgow and Liverpool and 3 more. Often billed alongside Faux Naif, Annabel Fraser and Anna Gray. Next up: Kapsule, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Kapsule | Liverpool |
+| Sat, 7 Nov 2026 | The Globe, Glossop | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Conor Thomas is an ebm and club artist based in United Kingdom, tracked on sound
 
 Faux Naif, Annabel Fraser, Anna Gray
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*

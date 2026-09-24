@@ -1,6 +1,6 @@
 # Hole44
 
-Hole44 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Kate Ryan" on Thu, 29 Oct 2026.
+Hole44 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Kate Ryan" on Thu, 29 Oct 2026.
 
 Hole44 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Mietze Conte. Browse upcoming dates, start times and who's playing. Hermannstr. 146, 12051 Berlin.
 
@@ -16,4 +16,4 @@ Hole44 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with li
 
 Hermannstr. 146, 12051 Berlin, Berlin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*

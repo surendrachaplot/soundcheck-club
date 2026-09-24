@@ -1,6 +1,6 @@
 # B-ZEY
 
-B-ZEY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Xolo, Munich on Fri, 25 Sept 2026.
+B-ZEY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Xolo, Munich on Fri, 25 Sept 2026.
 
 B-ZEY is a house and tech house artist based in Germany, tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside CHOOSE WHITE, VALOUR and Dan Mlinar. Next up: Xolo, Munich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ B-ZEY is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 CHOOSE WHITE, VALOUR, Dan Mlinar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-zey/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-zey/)*

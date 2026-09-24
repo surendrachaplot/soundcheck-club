@@ -1,8 +1,8 @@
 # STARKILLER.DE
 
-STARKILLER.DE is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Rote Sonne, Munich on Fri, 25 Sept 2026.
+STARKILLER.DE is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Rote Sonne, Munich on Fri, 25 Sept 2026.
 
-STARKILLER.DE is an industrial and techno artist tracked on soundcheck, with 15 sets logged across Munich. Often billed alongside CLOSURE (DE), SYNTA and DJ HUNDEFRIEDHOF. Next up: Rote Sonne, Munich on Fri 25 Sept.
+STARKILLER.DE is an industrial and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Munich. Often billed alongside CLOSURE (DE), SYNTA and DJ HUNDEFRIEDHOF. Next up: Rote Sonne, Munich on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ STARKILLER.DE is an industrial and techno artist tracked on soundcheck, with 15 
 
 CLOSURE (DE), SYNTA, DJ HUNDEFRIEDHOF
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starkiller.de/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starkiller.de/)*

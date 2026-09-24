@@ -1,8 +1,8 @@
 # Zozo
 
-Zozo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
+Zozo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Zozo is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Belgrade and Berlin and 9 more. Often billed alongside Ece Özel, Alex Kassian and Alicia Carrera. Next up: The 1896, Newyorkcity on Sat 17 Oct.
+Zozo is a techno and house artist based in Turkey, tracked on soundcheck, with 35 sets logged across Amsterdam, Auckland, Belgrade and Berlin and 9 more. Often billed alongside Ece Özel, Alex Kassian and Alicia Carrera. Next up: The 1896, Newyorkcity on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zozo is a techno and house artist tracked on soundcheck, with 35 sets logged acr
 
 Ece Özel, Alex Kassian, Alicia Carrera
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*

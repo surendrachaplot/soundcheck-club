@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Mau P - BADDEST BEHAVIOUR" on Wed, 23 Sept 2026.
+Pacha Ibiza is a music venue in Ibiza with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Purple Disco Machine - PURE PACHA" on Thu, 24 Sept 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming gigs, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 14 upcoming gigs, with line-ups including Adriatique, Alle Farben, Âme and Breakbot and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 24 Sept 2026 | Purple Disco Machine - PURE PACHA | Purple Disco Machine, Todd Terje, david bay |
 | Fri, 25 Sept 2026 | Marco Carola PRESENTS MUSIC ON | Chelina Manuhutu, Ilario Alicante, Leon, Marco Carola, Neverdogs, Seth Troxler |
 | Sat, 26 Sept 2026 | Robin Schulz | Noel Holler, Robin Schulz |
@@ -18,9 +17,10 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 15 upcoming gigs, wi
 | Thu, 1 Oct 2026 | Purple Disco Machine - PURE PACHA - CLOSING PARTY | Breakbot, Busy P, Gerd Janson, Purple Disco Machine, david bay |
 | Fri, 2 Oct 2026 | Marco Carola PRESENTS MUSIC ON | Adriatique, II FACES, Marco Carola, Mita Gami |
 | Sat, 3 Oct 2026 | Robin Schulz - CLOSING PARTY | Alle Farben, LOVRA, Oliver Heldens, Robin Schulz |
+| Sun, 4 Oct 2026 | Solomun+1 - CLOSING PARTY | Solomun |
 
 ## Address
 
 Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain, Ibiza
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-ibiza/)*

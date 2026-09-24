@@ -1,8 +1,8 @@
 # Xilla
 
-Xilla is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
+Xilla is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Ground at Club Space, Miami on Fri, 25 Sept 2026.
 
-Xilla is a bass and house artist tracked on soundcheck, with 23 sets logged across Miami. Often billed alongside Marie Qrie, Sel.6 and SATURNSARii. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
+Xilla is a bass and house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Miami. Often billed alongside Marie Qrie, Sel.6 and SATURNSARii. Next up: The Ground at Club Space, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Xilla is a bass and house artist tracked on soundcheck, with 23 sets logged acro
 
 Marie Qrie, Sel.6, SATURNSARii
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xilla/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xilla/)*

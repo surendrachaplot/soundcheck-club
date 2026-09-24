@@ -1,8 +1,8 @@
 # Joe Cotch
 
-Joe Cotch is a Guaracha and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
+Joe Cotch is a Guaracha and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ormside Projects, London on Sat, 26 Sept 2026.
 
-Joe Cotch is a guaracha and experimental artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Geneva and London. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: Ormside Projects, London on Sat 26 Sept.
+Joe Cotch is a guaracha and experimental artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Geneva and London. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: Ormside Projects, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Joe Cotch is a guaracha and experimental artist tracked on soundcheck, with 18 s
 
 Authentically Plastic, Bclip, DJ Lycox
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joecotch/)*

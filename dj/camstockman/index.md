@@ -1,14 +1,13 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Cam Stockman is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 26 Sept 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Gaskin, Locky and Boss Priester. Next up: [UNVRS], Ibiza on Wed 23 Sept.
+Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 21 more. Often billed alongside Gaskin, Locky and Julian Fijma. Next up: Blackstone Street Warehouse, Liverpool on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 3 Oct 2026 | The Nest | Nottingham |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 23 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
 - Electric Studios, Sheffield — Fri, 18 Sept 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
@@ -29,10 +29,9 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 - 93 Feet East, London — Sat, 22 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
-- Cova Santa, Ibiza — Tue, 21 Jul 2026
 
 ## Shares bills with
 
-Gaskin, Locky, Boss Priester
+Gaskin, Locky, Julian Fijma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

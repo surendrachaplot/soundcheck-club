@@ -1,8 +1,8 @@
 # Carlita
 
-Carlita is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Church Nightclub, Denver on Fri, 25 Sept 2026.
+Carlita is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Church Nightclub, Denver on Fri, 25 Sept 2026.
 
-Carlita is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: The Church Nightclub, Denver on Fri 25 Sept.
+Carlita is a house and techno artist based in Turkey, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: The Church Nightclub, Denver on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Carlita is a house and techno artist tracked on soundcheck, with 195 sets logged
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

@@ -1,8 +1,8 @@
 # NØBLESSE
 
-NØBLESSE is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+NØBLESSE is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
-NØBLESSE is an industrial and techno artist tracked on soundcheck, with 9 sets logged across Birmingham, Budapest and Tokyo. Often billed alongside CRIIM, PARAPHER and DUGASZ. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+NØBLESSE is an industrial and techno artist based in Hungary, tracked on soundcheck, with 9 sets logged across Birmingham, Budapest and Tokyo. Often billed alongside CRIIM, PARAPHER and DUGASZ. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NØBLESSE is an industrial and techno artist tracked on soundcheck, with 9 sets 
 
 CRIIM, PARAPHER, DUGASZ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noblesse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noblesse/)*

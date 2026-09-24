@@ -1,8 +1,8 @@
 # Sonia Heis
 
-Sonia Heis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Renaissance Barcelona Hotel, Barcelona on Thu, 24 Sept 2026.
+Sonia Heis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Renaissance Barcelona Hotel, Barcelona on Thu, 24 Sept 2026.
 
-Sonia Heis is a house and disco artist tracked on soundcheck, with 69 sets logged across Barcelona. Often billed alongside PINI, SHAMELESSMUSIC and ANYA (2). Next up: Renaissance Barcelona Hotel, Barcelona on Thu 24 Sept.
+Sonia Heis is a house and disco artist based in Spain, tracked on soundcheck, with 69 sets logged across Barcelona. Often billed alongside PINI, SHAMELESSMUSIC and ANYA (2). Next up: Renaissance Barcelona Hotel, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sonia Heis is a house and disco artist tracked on soundcheck, with 69 sets logge
 
 PINI, SHAMELESSMUSIC, ANYA (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniaheis/)*

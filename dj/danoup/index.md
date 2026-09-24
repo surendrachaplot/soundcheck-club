@@ -1,6 +1,6 @@
 # Danou P
 
-Danou P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
+Danou P is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BIRD, Rotterdam on Fri, 25 Sept 2026.
 
 Danou P is a house and disco artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, London, Paris and Rotterdam. Often billed alongside Klankarbeit, Jamie 3:26 and Beau Zwart. Next up: BIRD, Rotterdam on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Danou P is a house and disco artist based in Netherlands, tracked on soundcheck,
 
 Klankarbeit, Jamie 3:26, Beau Zwart
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*

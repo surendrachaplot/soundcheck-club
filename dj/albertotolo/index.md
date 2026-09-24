@@ -1,8 +1,8 @@
 # Alberto Tolo
 
-Alberto Tolo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
+Alberto Tolo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 9 Oct 2026.
 
-Alberto Tolo is a techno and tech house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 13 more. Often billed alongside Ricksen, L-AUX and Mefteh. Next up: Lokschuppen Berlin, Berlin on Fri 9 Oct.
+Alberto Tolo is a techno and tech house artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 13 more. Often billed alongside Ricksen, L-AUX and Mefteh. Next up: Lokschuppen Berlin, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alberto Tolo is a techno and tech house artist tracked on soundcheck, with 33 se
 
 Ricksen, L-AUX, Mefteh
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albertotolo/)*

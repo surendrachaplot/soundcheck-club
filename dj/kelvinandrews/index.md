@@ -1,8 +1,8 @@
 # Kelvin Andrews
 
-Kelvin Andrews is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Piccadilly Central, Manchester on Sat, 26 Sept 2026.
+Kelvin Andrews is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Piccadilly Central, Manchester on Sat, 26 Sept 2026.
 
-Kelvin Andrews is a balearic and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Brighton, Ibiza and Liverpool and 3 more. Often billed alongside Joey T, DJ Will Grant and Danny Mekanik. Next up: Piccadilly Central, Manchester on Sat 26 Sept.
+Kelvin Andrews is a balearic and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Barcelona, Brighton, Ibiza and Liverpool and 3 more. Often billed alongside Joey T, DJ Will Grant and Danny Mekanik. Next up: Piccadilly Central, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kelvin Andrews is a balearic and house artist tracked on soundcheck, with 17 set
 
 Joey T, DJ Will Grant, Danny Mekanik
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinandrews/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvinandrews/)*

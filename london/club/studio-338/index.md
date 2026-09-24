@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "THE PROJECT X HOUSE PARTY" on Fri, 25 Sept 2026.
+Studio 338 is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "THE PROJECT X HOUSE PARTY" on Fri, 25 Sept 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alex P, ASHOJU, Billy Daniel Bunter and Bontan and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -21,4 +21,4 @@ Studio 338 is a music venue in London listed on soundcheck. 8 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

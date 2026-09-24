@@ -1,8 +1,8 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Timber Loft, London on Sat, 3 Oct 2026.
+Nancy Noise is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Timber Loft, London on Sat, 3 Oct 2026.
 
-Nancy Noise is a house and balearic artist tracked on soundcheck, with 28 sets logged across Brighton, Edinburgh, Ibiza and London and 2 more. Often billed alongside Terry Farley, Lisa Loud and Stuart Patterson. Next up: The Timber Loft, London on Sat 3 Oct.
+Nancy Noise is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Brighton, Edinburgh, Ibiza and London and 2 more. Often billed alongside Terry Farley, Lisa Loud and Stuart Patterson. Next up: The Timber Loft, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Nancy Noise is a house and balearic artist tracked on soundcheck, with 28 sets l
 
 Terry Farley, Lisa Loud, Stuart Patterson
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancynoise/)*

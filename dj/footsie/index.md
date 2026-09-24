@@ -1,8 +1,8 @@
 # Footsie
 
-Footsie is a Dub and Grime artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Footsie is a Dub and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Footsie is a dub and grime artist tracked on soundcheck, with 35 sets logged across Berlin, Brighton, Bristol and Bucharest and 5 more. Often billed alongside Sir Spyro, Killa P and Dubkasm. Next up: Various Venues, London on Thu 24 Sept.
+Footsie is a dub and grime artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Berlin, Brighton, Bristol and Bucharest and 5 more. Often billed alongside Sir Spyro, Killa P and Dubkasm. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Footsie is a dub and grime artist tracked on soundcheck, with 35 sets logged acr
 
 Sir Spyro, Killa P, Dubkasm
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/footsie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/footsie/)*

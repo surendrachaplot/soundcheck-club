@@ -1,6 +1,6 @@
 # Lexxy Jax
 
-Lexxy Jax is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
+Lexxy Jax is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Premises, Chicago on Sat, 26 Sept 2026.
 
 Lexxy Jax is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Chicago, London and Montreal and 4 more. Often billed alongside 99jakes, Replicator and Alice Gas. Next up: TBA - Premises, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lexxy Jax is a hardcore and techno artist based in United States of America, tra
 
 99jakes, Replicator, Alice Gas
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxyjax/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxyjax/)*

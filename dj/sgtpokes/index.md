@@ -1,8 +1,8 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+SGT Pokes is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
 
-SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 100 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Dub Athlete and Mala. Next up: Volks, Brighton on Fri 2 Oct.
+SGT Pokes is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Dub Athlete and Mala. Next up: Volks, Brighton on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 100 sets logg
 
 DUKU, Dub Athlete, Mala
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

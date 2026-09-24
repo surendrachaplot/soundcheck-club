@@ -1,8 +1,8 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Villa, Oslo on Fri, 2 Oct 2026.
+MRD (NO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Villa, Oslo on Fri, 2 Oct 2026.
 
-MRD (NO) is a techno and trance artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: The Villa, Oslo on Fri 2 Oct.
+MRD (NO) is a techno and trance artist based in Norway, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: The Villa, Oslo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 121 sets logg
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

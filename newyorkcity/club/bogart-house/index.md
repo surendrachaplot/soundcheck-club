@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "The LRBB - THE liL RAY BIRTHDAY BASH" on Fri, 25 Sept 2026.
+Bogart House is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The LRBB - THE liL RAY BIRTHDAY BASH" on Fri, 25 Sept 2026.
 
 Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gigs, with line-ups including Mannie Petty, Meilgaarden, Mike Schreder and Nita Aviance. Browse upcoming dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -16,4 +16,4 @@ Bogart House is a music venue in Newyorkcity listed on soundcheck. 3 upcoming gi
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

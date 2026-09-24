@@ -1,8 +1,8 @@
 # JANSE
 
-JANSE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+JANSE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
-JANSE is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Cucut, Abdon and Marcel BS. Next up: Cova Santa, Ibiza on Sun 27 Sept.
+JANSE is a house and tech house artist based in Spain, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Cucut, Abdon and Marcel BS. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JANSE is a house and tech house artist tracked on soundcheck, with 54 sets logge
 
 Cucut, Abdon, Marcel BS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janse/)*

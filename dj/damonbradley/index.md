@@ -1,13 +1,14 @@
 # Damon Bradley
 
-Damon Bradley is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Washington DC on Sat, 24 Oct 2026.
+Damon Bradley is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at KEYBAR, New York City on Sat, 10 Oct 2026.
 
-Damon Bradley is a techno and industrial artist tracked on soundcheck, with 8 sets logged across Chicago, Copenhagen, Detroit and Newyorkcity and 1 more. Often billed alongside Juana, 999999999 and Alejandro Franco. Next up: TBA, Washingtondc on Sat 24 Oct.
+Damon Bradley is a techno and industrial artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Copenhagen, Detroit and Newyorkcity and 1 more. Often billed alongside Jahveri, Juana and 999999999. Next up: KEYBAR, Newyorkcity on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | KEYBAR | New York City |
 | Sat, 24 Oct 2026 | TBA | Washington DC |
 
 ## Recently played
@@ -22,6 +23,6 @@ Damon Bradley is a techno and industrial artist tracked on soundcheck, with 8 se
 
 ## Shares bills with
 
-Juana, 999999999, Alejandro Franco
+Jahveri, Juana, 999999999
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*

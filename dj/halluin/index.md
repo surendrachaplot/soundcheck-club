@@ -1,8 +1,8 @@
 # Halluin
 
-Halluin is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Subcero Club, Madrid on Thu, 8 Oct 2026.
+Halluin is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Subcero Club, Madrid on Thu, 8 Oct 2026.
 
-Halluin is a deep house and tech house artist tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside Liszt, MEANA and Puro Dramma. Next up: Subcero Club, Madrid on Thu 8 Oct.
+Halluin is a deep house and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside Liszt, MEANA and Puro Dramma. Next up: Subcero Club, Madrid on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Halluin is a deep house and tech house artist tracked on soundcheck, with 10 set
 
 Liszt, MEANA, Puro Dramma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halluin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halluin/)*

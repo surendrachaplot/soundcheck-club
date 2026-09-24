@@ -1,8 +1,8 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Amboss Rampe, Zurich on Sat, 26 Sept 2026.
+Pancratio is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amboss Rampe, Zurich on Sat, 26 Sept 2026.
 
-Pancratio is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Amboss Rampe, Zurich on Sat 26 Sept.
+Pancratio is a house and techno artist based in Italy, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Dante (H501), lōrenzo and Leo Benassi. Next up: Amboss Rampe, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Pancratio is a house and techno artist tracked on soundcheck, with 60 sets logge
 
 ## Shares bills with
 
-Dante (H501), Fabrizio Sala, Leo Benassi
+Dante (H501), lōrenzo, Leo Benassi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

@@ -1,8 +1,8 @@
 # YOKER
 
-YOKER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 25 Sept 2026.
+YOKER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 25 Sept 2026.
 
-YOKER is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Glasgow and Hongkong and 2 more. Often billed alongside KEVBER, BenMaster and Biomystic. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 25 Sept.
+YOKER is a techno and house artist based in France, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Glasgow and Hongkong and 2 more. Often billed alongside KEVBER, BenMaster and Biomystic. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YOKER is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 
 KEVBER, BenMaster, Biomystic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoker/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoker/)*

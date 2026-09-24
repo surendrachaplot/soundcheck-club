@@ -1,6 +1,6 @@
 # DJ LESSONS
 
-DJ LESSONS is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
+DJ LESSONS is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Avalon Cafe Bermondsey, London on Sun, 27 Sept 2026.
 
 DJ LESSONS is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Rhi Spect, Snoozy and bomb shelter crew. Next up: Avalon Cafe Bermondsey, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ DJ LESSONS is a jungle and hardcore artist based in United Kingdom, tracked on s
 
 Rhi Spect, Snoozy, bomb shelter crew
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlessons/)*

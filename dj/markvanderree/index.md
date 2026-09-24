@@ -1,8 +1,8 @@
 # Mark van der Ree
 
-Mark van der Ree is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Monarch, Berlin on Wed, 30 Sept 2026.
+Mark van der Ree is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Monarch, Berlin on Wed, 30 Sept 2026.
 
-Mark van der Ree is a house and hip-hop artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ NEAR MiNT, Vanree and CC:NIELOS. Next up: Monarch, Berlin on Wed 30 Sept.
+Mark van der Ree is a house and hip-hop artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ NEAR MiNT, Vanree and CC:NIELOS. Next up: Monarch, Berlin on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Mark van der Ree is a house and hip-hop artist tracked on soundcheck, with 5 set
 
 DJ NEAR MiNT, Vanree, CC:NIELOS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanderree/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markvanderree/)*

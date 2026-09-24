@@ -1,6 +1,6 @@
 # Michael Reinboth
 
-Michael Reinboth is a Jazz and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at JAKI, Cologne on Fri, 25 Sept 2026.
+Michael Reinboth is a Jazz and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at JAKI, Cologne on Fri, 25 Sept 2026.
 
 Michael Reinboth is a jazz and disco artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Cologne, Munich and Tokyo and 2 more. Often billed alongside Alles Andere, Hans Nieswandt and Michael Rütten. Next up: JAKI, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Michael Reinboth is a jazz and disco artist based in Germany, tracked on soundch
 
 Alles Andere, Hans Nieswandt, Michael Rütten
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelreinboth/)*

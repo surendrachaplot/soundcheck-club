@@ -1,6 +1,6 @@
 # txybandi
 
-txybandi is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Budapest Park, Budapest on Thu, 24 Sept 2026.
+txybandi is a Hip-Hop and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Budapest Park, Budapest on Thu, 24 Sept 2026.
 
 txybandi is a hip-hop and bass artist based in Hungary, tracked on soundcheck, with 43 sets logged across Budapest. Often billed alongside kornel (fr), baeker and SHUTDOWN. Next up: Budapest Park, Budapest on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ txybandi is a hip-hop and bass artist based in Hungary, tracked on soundcheck, w
 
 kornel (fr), baeker, SHUTDOWN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txybandi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txybandi/)*

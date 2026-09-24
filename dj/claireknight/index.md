@@ -1,8 +1,8 @@
 # CLAIRE KNIGHT
 
-CLAIRE KNIGHT is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
+CLAIRE KNIGHT is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
 
-CLAIRE KNIGHT is a house and disco artist tracked on soundcheck, with 5 sets logged across London, Melbourne and Sydney. Often billed alongside Arketek, Black Dahlia and Carpe Noctem. Next up: TBA - Secret Inner West Location, Sydney on Fri 30 Oct.
+CLAIRE KNIGHT is a house and disco artist based in Australia, tracked on soundcheck, with 5 sets logged across London, Melbourne and Sydney. Often billed alongside Arketek, Black Dahlia and Carpe Noctem. Next up: TBA - Secret Inner West Location, Sydney on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ CLAIRE KNIGHT is a house and disco artist tracked on soundcheck, with 5 sets log
 
 Arketek, Black Dahlia, Carpe Noctem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claireknight/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claireknight/)*

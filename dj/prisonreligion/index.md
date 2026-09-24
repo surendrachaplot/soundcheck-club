@@ -1,8 +1,8 @@
 # Prison Religion
 
-Prison Religion is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Gretchen, Berlin on Sat, 21 Nov 2026.
+Prison Religion is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gretchen, Berlin on Sat, 21 Nov 2026.
 
-Prison Religion is an experimental and noise artist tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Berlin and Glasgow and 10 more. Often billed alongside Gabber Modus Operandi, PLUS44KALIGULA and Rabit. Next up: Gretchen, Berlin on Sat 21 Nov.
+Prison Religion is an experimental and noise artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Berlin and Glasgow and 10 more. Often billed alongside Gabber Modus Operandi, PLUS44KALIGULA and Rabit. Next up: Gretchen, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Prison Religion is an experimental and noise artist tracked on soundcheck, with 
 
 Gabber Modus Operandi, PLUS44KALIGULA, Rabit
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prisonreligion/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prisonreligion/)*

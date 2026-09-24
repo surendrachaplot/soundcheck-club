@@ -1,8 +1,8 @@
 # Mango and Ginger
 
-Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Mango and Ginger are a baile funk and reggaeton duo tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Chicago and Losangeles and 6 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
+Mango and Ginger are a baile funk and reggaeton duo based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Chicago and Losangeles and 6 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mango and Ginger are a baile funk and reggaeton duo tracked on soundcheck, with 
 
 Cquestt, Bianca Maieli, DINABN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*

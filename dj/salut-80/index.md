@@ -1,6 +1,6 @@
 # Salut 80
 
-Salut 80 is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Sekta Selekta, Krakow on Sat, 26 Sept 2026.
+Salut 80 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sekta Selekta, Krakow on Sat, 26 Sept 2026.
 
 Salut 80 is an electronic artist tracked on soundcheck, with 16 sets logged across Krakow and Warsaw. Often billed alongside Verde, Viikatory and Ilya Semashkevich. Next up: Sekta Selekta, Krakow on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Salut 80 is an electronic artist tracked on soundcheck, with 16 sets logged acro
 
 Verde, Viikatory, Ilya Semashkevich
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*

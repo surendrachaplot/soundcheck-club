@@ -1,8 +1,8 @@
 # Maria Theresia von Eberg
 
-Maria Theresia von Eberg is a Downtempo and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Maria Theresia von Eberg is a Downtempo and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
-Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Corios, J.WOCKENFUSS and Horst Haller. Next up: Südpol, Hamburg on Fri 2 Oct.
+Maria Theresia von Eberg is a downtempo and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Corios, J.WOCKENFUSS and Horst Haller. Next up: Südpol, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Maria Theresia von Eberg is a downtempo and house artist tracked on soundcheck, 
 
 Corios, J.WOCKENFUSS, Horst Haller
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariatheresiavoneberg/)*

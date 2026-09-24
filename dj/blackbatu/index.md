@@ -1,8 +1,8 @@
 # Black Batu
 
-Black Batu is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Klein Phönix, Istanbul on Sat, 17 Oct 2026.
+Black Batu is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Klein Phönix, Istanbul on Sat, 17 Oct 2026.
 
-Black Batu is a house and afro house artist tracked on soundcheck, with 23 sets logged across Istanbul. Often billed alongside Orkun Bozdemir, KARBO and Marc Gonen. Next up: Klein Phönix, Istanbul on Sat 17 Oct.
+Black Batu is a house and afro house artist based in Turkey, tracked on soundcheck, with 23 sets logged across Istanbul. Often billed alongside Orkun Bozdemir, KARBO and Marc Gonen. Next up: Klein Phönix, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Black Batu is a house and afro house artist tracked on soundcheck, with 23 sets 
 
 Orkun Bozdemir, KARBO, Marc Gonen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbatu/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackbatu/)*

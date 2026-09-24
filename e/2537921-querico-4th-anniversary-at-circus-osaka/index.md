@@ -1,6 +1,6 @@
 # QUERICO 4th Anniversary at Circus Osaka
 
-QUERICO 4th Anniversary at Circus Osaka on Sun 11 Oct, Osaka. 4 acts on the bill: Aliceyuki, ANCHIN, Paperkraft and SAMO (JP). House and Tech House. Preview the line-up and save it on soundcheck.
+QUERICO 4th Anniversary at Circus Osaka on Sun 11 Oct, Osaka. 6 acts on the bill: Aliceyuki, ANCHIN, MileZ and Paperkraft and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ QUERICO 4th Anniversary at Circus Osaka on Sun 11 Oct, Osaka. 4 acts on the bill
 
 - Aliceyuki
 - ANCHIN
+- MileZ
 - Paperkraft
+- Ryu (2)
 - SAMO (JP)
 
 *Source: [soundcheck](https://soundcheck.club/e/2537921-querico-4th-anniversary-at-circus-osaka/)*

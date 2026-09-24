@@ -1,8 +1,8 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
+Alexander Skancke is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
 
-Alexander Skancke is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Hoppetosse, Berlin on Sat 26 Sept.
+Alexander Skancke is a house and techno artist based in Norway, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Hoppetosse, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Alexander Skancke is a house and techno artist tracked on soundcheck, with 92 se
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

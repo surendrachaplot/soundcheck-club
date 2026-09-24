@@ -1,13 +1,14 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Onur Özer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-Onur Özer is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Christian AB, Francesco Del Garda and Quest (IT). Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+Onur Özer is a techno and house artist based in Germany, tracked on soundcheck, with 114 sets logged across All, Amsterdam, Athens and Barcelona and 39 more. Often billed alongside Francesco Del Garda, Christian AB and Quest (IT). Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Fri, 9 Oct 2026 | Cobalt Studios | Newcastle |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -27,6 +28,6 @@ Onur Özer is a techno and house artist tracked on soundcheck, with 113 sets log
 
 ## Shares bills with
 
-Christian AB, Francesco Del Garda, Quest (IT)
+Francesco Del Garda, Christian AB, Quest (IT)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

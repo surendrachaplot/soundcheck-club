@@ -1,8 +1,8 @@
 # Jeremy Glenn
 
-Jeremy Glenn is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Black Eagle, Toronto on Fri, 25 Sept 2026.
+Jeremy Glenn is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Black Eagle, Toronto on Fri, 25 Sept 2026.
 
-Jeremy Glenn is a house and disco artist tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Phillippe, Jaime Sin and Sean Roman. Next up: Black Eagle, Toronto on Fri 25 Sept.
+Jeremy Glenn is a house and disco artist based in Canada, tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside Phillippe, Jaime Sin and Sean Roman. Next up: Black Eagle, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Jeremy Glenn is a house and disco artist tracked on soundcheck, with 6 sets logg
 
 Phillippe, Jaime Sin, Sean Roman
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyglenn/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyglenn/)*

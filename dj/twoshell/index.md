@@ -1,8 +1,8 @@
 # Two Shell
 
-Two Shell is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Standard Time, Toronto on Fri, 25 Sept 2026.
+Two Shell is a Techno and Experimental artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Standard Time, Toronto on Fri, 25 Sept 2026.
 
-Two Shell is a techno and experimental artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Standard Time, Toronto on Fri 25 Sept.
+Two Shell is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Ogazón, Avalon Emerson and Richie Hawtin. Next up: Standard Time, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -32,6 +32,6 @@ Two Shell is a techno and experimental artist tracked on soundcheck, with 84 set
 
 ## Shares bills with
 
-Ogazón, Avalon Emerson, Call Super
+Ogazón, Avalon Emerson, Richie Hawtin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

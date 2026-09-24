@@ -1,6 +1,6 @@
 # Cult Member - Montréal at Newspeak
 
-Cult Member - Montréal at Newspeak on Fri 2 Oct, Montreal. 1 act on the bill: Cult Member. Trance and House. Preview the line-up and save it on soundcheck.
+Cult Member - Montréal at Newspeak on Fri 2 Oct, Montreal. 2 acts on the bill: Claireyy and Cult Member. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Cult Member - Montréal at Newspeak on Fri 2 Oct, Montreal. 1 act on the bill: C
 
 ## Line-up
 
+- Claireyy
 - Cult Member
 
 *Source: [soundcheck](https://soundcheck.club/e/2505149-cult-member-montr-al-at-newspeak/)*

@@ -1,8 +1,8 @@
 # Patrícia Brito
 
-Patrícia Brito is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Templete de Pradolongo, Madrid on Sat, 26 Sept 2026.
+Patrícia Brito is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Templete de Pradolongo, Madrid on Sat, 26 Sept 2026.
 
-Patrícia Brito is an electronic artist tracked on soundcheck, with 6 sets logged across Lisbon, Madrid and Porto. Often billed alongside DJ Gostoso, DJ Overdose and Dj Lynce. Next up: TBA - Templete de Pradolongo, Madrid on Sat 26 Sept.
+Patrícia Brito is an electronic artist based in Portugal, tracked on soundcheck, with 6 sets logged across Lisbon, Madrid and Porto. Often billed alongside DJ Gostoso, DJ Overdose and Dj Lynce. Next up: TBA - Templete de Pradolongo, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Patrícia Brito is an electronic artist tracked on soundcheck, with 6 sets logge
 
 DJ Gostoso, DJ Overdose, Dj Lynce
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patríciabrito/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patríciabrito/)*

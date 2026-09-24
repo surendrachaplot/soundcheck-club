@@ -1,8 +1,8 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
+Tsepo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
 
-Tsepo is a house and techno artist tracked on soundcheck, with 122 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Lofi, Amsterdam on Fri 9 Oct.
+Tsepo is a house and techno artist based in Netherlands, tracked on soundcheck, with 122 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Lofi, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Tsepo is a house and techno artist tracked on soundcheck, with 122 sets logged a
 
 Lucky Done Gone, dj sweet6teen, Eversines
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*

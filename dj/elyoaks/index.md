@@ -1,8 +1,8 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Trix, Antwerp on Thu, 1 Oct 2026.
+Ely Oaks is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Trix, Antwerp on Thu, 1 Oct 2026.
 
-Ely Oaks is a techno and house artist tracked on soundcheck, with 42 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 23 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Trix, Antwerp on Thu 1 Oct.
+Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, with 42 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 23 more. Often billed alongside Space 92, DAX J and Partiboi69. Next up: Trix, Antwerp on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Ely Oaks is a techno and house artist tracked on soundcheck, with 42 sets logged
 
 ## Shares bills with
 
-Space 92, DAX J, HNTR
+Space 92, DAX J, Partiboi69
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

@@ -1,8 +1,8 @@
 # Neska
 
-Neska is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
+Neska is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Sat, 26 Sept 2026.
 
-Neska is a techno and club artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside dirtydms, BERTON and Jasmín. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
+Neska is a techno and club artist based in Spain, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 7 more. Often billed alongside dirtydms, BERTON and Jasmín. Next up: Garage Noord, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Neska is a techno and club artist tracked on soundcheck, with 74 sets logged acr
 
 dirtydms, BERTON, Jasmín
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neska/)*

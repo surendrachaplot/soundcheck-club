@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 23 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "Cosmo's Midnight" on Thu, 24 Sept 2026.
+NUMBER 90 LONDON is a music venue in London with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cosmo's Midnight" on Thu, 24 Sept 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 23 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

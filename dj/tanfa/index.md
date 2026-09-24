@@ -1,8 +1,8 @@
 # Tanfa
 
-Tanfa is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342 , Los Angeles on Sat, 3 Oct 2026.
+Tanfa is a Drum & Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342 , Los Angeles on Sat, 3 Oct 2026.
 
-Tanfa is a drum & bass and dub artist tracked on soundcheck, with 5 sets logged across Bangkok, Losangeles and Tokyo. Often billed alongside ATAMI, Double Bass Burgers and MOOTOE. Next up: TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342 , Losangeles on Sat 3 Oct.
+Tanfa is a drum & bass and dub artist based in Thailand, tracked on soundcheck, with 5 sets logged across Bangkok, Losangeles and Tokyo. Often billed alongside ATAMI, Double Bass Burgers and MOOTOE. Next up: TBA - 11770 Foothill Blvd, Lake View Terrace, CA 91342 , Losangeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Tanfa is a drum & bass and dub artist tracked on soundcheck, with 5 sets logged 
 
 ATAMI, Double Bass Burgers, MOOTOE
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanfa/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanfa/)*

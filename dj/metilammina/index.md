@@ -1,8 +1,8 @@
 # Metilammina
 
-Metilammina is a Breakbeat and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Basic Club, Naples on Sat, 24 Oct 2026.
+Metilammina is a Breakbeat and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Basic Club, Naples on Sat, 24 Oct 2026.
 
-Metilammina is a breakbeat and footwork artist tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside ciro S, KRMN and Assyouti. Next up: Basic Club, Naples on Sat 24 Oct.
+Metilammina is a breakbeat and footwork artist based in Italy, tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside ciro S, KRMN and Assyouti. Next up: Basic Club, Naples on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Metilammina is a breakbeat and footwork artist tracked on soundcheck, with 5 set
 
 ciro S, KRMN, Assyouti
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metilammina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metilammina/)*

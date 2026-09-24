@@ -1,6 +1,6 @@
 # DJ Shahmaran
 
-DJ Shahmaran is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+DJ Shahmaran is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
 DJ Shahmaran is a house and bass artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 5 more. Often billed alongside OG Karin, Faustin (NL) and Himera. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ DJ Shahmaran is a house and bass artist based in Netherlands, tracked on soundch
 
 OG Karin, Faustin (NL), Himera
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshahmaran/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshahmaran/)*

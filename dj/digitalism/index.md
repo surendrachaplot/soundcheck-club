@@ -1,8 +1,8 @@
 # Digitalism
 
-Digitalism is a Electro and Electronica artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Yes, Manchester on Fri, 9 Oct 2026.
+Digitalism is a Electro and Electronica artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Yes, Manchester on Fri, 9 Oct 2026.
 
-Digitalism is an electro and electronica artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Yes, Manchester on Fri 9 Oct.
+Digitalism is an electro and electronica artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 19 more. Often billed alongside ISAbella, Bauernfeind and Felix Da Housecat. Next up: Yes, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Digitalism is an electro and electronica artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-ISAbella, Bauernfeind, Dr. Lektroluv
+ISAbella, Bauernfeind, Felix Da Housecat
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*

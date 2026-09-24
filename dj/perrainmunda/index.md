@@ -1,8 +1,8 @@
 # Perra Inmunda
 
-Perra Inmunda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Perra Inmunda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Perra Inmunda is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Perra Inmunda is a techno and house artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Perra Inmunda is a techno and house artist tracked on soundcheck, with 78 sets l
 
 DJ Gigola, MCR-T, ALCATRAZ
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perrainmunda/)*

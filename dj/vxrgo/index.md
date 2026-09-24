@@ -1,8 +1,8 @@
 # VXRGO
 
-VXRGO is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+VXRGO is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
-VXRGO is a jungle and drum & bass artist tracked on soundcheck, with 98 sets logged across Brighton, Bristol, Copenhagen and Glasgow and 7 more. Often billed alongside Silva Snipa, Tim Reaper and The Bass Injector. Next up: Hidden, Manchester on Thu 24 Sept.
+VXRGO is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Brighton, Bristol, Copenhagen and Glasgow and 7 more. Often billed alongside Silva Snipa, Tim Reaper and The Bass Injector. Next up: Hidden, Manchester on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ VXRGO is a jungle and drum & bass artist tracked on soundcheck, with 98 sets log
 
 Silva Snipa, Tim Reaper, The Bass Injector
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*

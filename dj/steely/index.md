@@ -1,8 +1,8 @@
 # Steely
 
-Steely is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
+Steely is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
 
-Steely is a house and deep house artist tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside Horse Meat Disco, Adelphi Music Factory and Alfaz. Next up: The Marquee Moon, London on Sat 26 Sept.
+Steely is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside Horse Meat Disco, Adelphi Music Factory and Alfaz. Next up: The Marquee Moon, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Steely is a house and deep house artist tracked on soundcheck, with 14 sets logg
 
 Horse Meat Disco, Adelphi Music Factory, Alfaz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steely/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steely/)*

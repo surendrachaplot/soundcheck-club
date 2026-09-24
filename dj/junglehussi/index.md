@@ -1,6 +1,6 @@
 # Junglehussi
 
-Junglehussi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
+Junglehussi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Art School, Glasgow on Thu, 24 Sept 2026.
 
 Junglehussi is a house and club artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Wheelman, Maveen and DIJA. Next up: The Art School, Glasgow on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Junglehussi is a house and club artist based in United Kingdom, tracked on sound
 
 Wheelman, Maveen, DIJA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*

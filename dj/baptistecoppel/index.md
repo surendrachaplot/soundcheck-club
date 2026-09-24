@@ -1,8 +1,8 @@
 # Baptiste Coppel
 
-Baptiste Coppel is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Poly, Lyon on Fri, 25 Sept 2026.
+Baptiste Coppel is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Poly, Lyon on Fri, 25 Sept 2026.
 
-Baptiste Coppel is an electro and house artist tracked on soundcheck, with 7 sets logged across Geneva, Lyon and Paris. Often billed alongside Camu, Debvil and Loctop. Next up: Poly, Lyon on Fri 25 Sept.
+Baptiste Coppel is an electro and house artist based in France, tracked on soundcheck, with 7 sets logged across Geneva, Lyon and Paris. Often billed alongside Camu, Debvil and Loctop. Next up: Poly, Lyon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Baptiste Coppel is an electro and house artist tracked on soundcheck, with 7 set
 
 Camu, Debvil, Loctop
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistecoppel/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistecoppel/)*

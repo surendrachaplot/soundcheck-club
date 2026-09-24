@@ -1,6 +1,6 @@
 # elfie
 
-elfie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
+elfie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Sat, 10 Oct 2026.
 
 elfie is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Tiefklang, DJ Bumski and DJ Frechdachs. Next up: Void Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ elfie is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Tiefklang, DJ Bumski, DJ Frechdachs
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*

@@ -1,8 +1,8 @@
 # Sadar Bahar
 
-Sadar Bahar is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
+Sadar Bahar is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Sadar Bahar is a disco and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Auckland and Bali and 16 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: The 1896, Newyorkcity on Sat 17 Oct.
+Sadar Bahar is a disco and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Auckland and Bali and 16 more. Often billed alongside Kamma, DJ Spen and Masalo. Next up: The 1896, Newyorkcity on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sadar Bahar is a disco and house artist tracked on soundcheck, with 63 sets logg
 
 Kamma, DJ Spen, Masalo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sadarbahar/)*

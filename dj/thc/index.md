@@ -1,8 +1,8 @@
 # THC
 
-THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
+THC is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cité Fertile, Paris on Sat, 26 Sept 2026.
 
-THC is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: La Cité Fertile, Paris on Sat 26 Sept.
+THC is a house and techno artist based in Colombia, tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: La Cité Fertile, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ THC is a house and techno artist tracked on soundcheck, with 207 sets logged acr
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

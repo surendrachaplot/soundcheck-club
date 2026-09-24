@@ -1,13 +1,14 @@
 # Laraaji
 
-Laraaji is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Laraaji is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Reed Park, Los Angeles on Thu, 24 Sept 2026.
 
-Laraaji is an ambient and experimental artist tracked on soundcheck, with 43 sets logged across Berlin, Brussels, Cologne and Denver and 8 more. Often billed alongside K Wata, Avalon Emerson and Baby Leo. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Laraaji is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Cologne and Denver and 8 more. Often billed alongside K Wata, Avalon Emerson and Baby Leo. Next up: Reed Park, Losangeles on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Reed Park | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
 | Sat, 26 Sept 2026 | St. Bartholomew's Church | New York City |
 
@@ -26,4 +27,4 @@ Laraaji is an ambient and experimental artist tracked on soundcheck, with 43 set
 
 K Wata, Avalon Emerson, Baby Leo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laraaji/)*

@@ -1,6 +1,6 @@
 # Vandiaz
 
-Vandiaz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Specka, Madrid on Sun, 11 Oct 2026.
+Vandiaz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Specka, Madrid on Sun, 11 Oct 2026.
 
 Vandiaz is a techno and electro artist based in Spain, tracked on soundcheck, with 54 sets logged across Madrid. Often billed alongside Javier Klash, Dyans and Reitze. Next up: Specka, Madrid on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Vandiaz is a techno and electro artist based in Spain, tracked on soundcheck, wi
 
 Javier Klash, Dyans, Reitze
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vandiaz/)*

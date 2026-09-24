@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "dtekk b2b Lake Haze, Quantum Eraser" on Fri, 25 Sept 2026.
+Gare Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "dtekk b2b Lake Haze, Quantum Eraser" on Fri, 25 Sept 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with line-ups including Amulador, Anika Kunst, Blazej Malinowski and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -18,4 +18,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

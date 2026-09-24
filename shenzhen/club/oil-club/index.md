@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 28 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live" on Thu, 24 Sept 2026.
+OIL Club is a music venue in Shenzhen with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live" on Thu, 24 Sept 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming gigs, with line-ups including ADEAD, Alex Banks, Alion and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming gigs, wi
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

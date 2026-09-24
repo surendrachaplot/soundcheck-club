@@ -1,13 +1,14 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Zeiss Grossplanetarium, Berlin on Tue, 13 Oct 2026.
+Lady Starlight is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
-Lady Starlight is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside STERAC, Rødhåd and David Castellani. Next up: Zeiss Grossplanetarium, Berlin on Tue 13 Oct.
+Lady Starlight is a techno and house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside STERAC, Rødhåd and David Castellani. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Laboral Ciudad de la Cultura | North |
 | Tue, 13 Oct 2026 | Zeiss Grossplanetarium | Berlin |
 | Fri, 16 Oct 2026 | smartbar | Chicago |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
@@ -30,4 +31,4 @@ Lady Starlight is a techno and house artist tracked on soundcheck, with 86 sets 
 
 STERAC, Rødhåd, David Castellani
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

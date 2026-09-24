@@ -1,6 +1,6 @@
 # Stockholm Syndrome
 
-Stockholm Syndrome is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Killing Time, Melbourne on Thu, 24 Sept 2026.
+Stockholm Syndrome is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Killing Time, Melbourne on Thu, 24 Sept 2026.
 
 Stockholm Syndrome is a techno and house artist based in Australia, tracked on soundcheck, with 49 sets logged across Berlin, Edinburgh, Madrid and Melbourne. Often billed alongside Mike Callander, Eric Stark and Traxion. Next up: Killing Time, Melbourne on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Stockholm Syndrome is a techno and house artist based in Australia, tracked on s
 
 Mike Callander, Eric Stark, Traxion
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stockholmsyndrome-au/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stockholmsyndrome-au/)*

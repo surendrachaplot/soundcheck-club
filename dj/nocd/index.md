@@ -1,8 +1,8 @@
 # NOCD
 
-NOCD is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
+NOCD is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
 
-NOCD is a house artist tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Juan Guerra, Nuuk and Huser (2). Next up: Safestay Rooftop, Barcelona on Sat 10 Oct.
+NOCD is a house artist based in Argentina, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside Juan Guerra, Nuuk and Huser (2). Next up: Safestay Rooftop, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NOCD is a house artist tracked on soundcheck, with 14 sets logged across Barcelo
 
 Juan Guerra, Nuuk, Huser (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocd/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocd/)*

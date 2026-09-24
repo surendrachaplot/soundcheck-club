@@ -1,8 +1,8 @@
 # W I S S
 
-W I S S is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Opium - Botanical Garden Bar, Dublin on Sat, 26 Sept 2026.
+W I S S is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Opium - Botanical Garden Bar, Dublin on Sat, 26 Sept 2026.
 
-W I S S is a tech house and house artist tracked on soundcheck, with 5 sets logged across Brussels and Dublin. Often billed alongside Eymen, Tjondoo and Axel Blanc. Next up: Opium - Botanical Garden Bar, Dublin on Sat 26 Sept.
+W I S S is a tech house and house artist based in Belgium, tracked on soundcheck, with 5 sets logged across Brussels and Dublin. Often billed alongside Eymen, Tjondoo and Axel Blanc. Next up: Opium - Botanical Garden Bar, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ W I S S is a tech house and house artist tracked on soundcheck, with 5 sets logg
 
 Eymen, Tjondoo, Axel Blanc
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiss/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wiss/)*

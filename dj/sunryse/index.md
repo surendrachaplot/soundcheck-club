@@ -1,8 +1,8 @@
 # SunrYse
 
-SunrYse is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
+SunrYse is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at One77 Brooklyn, New York City on Fri, 4 Dec 2026.
 
-SunrYse is a progressive house and trance artist tracked on soundcheck, with 32 sets logged across Austin, Miami, Newyorkcity and Philadelphia. Often billed alongside TOMMYLOGIK, Asch Pintura and Dan Miles. Next up: One77 Brooklyn, Newyorkcity on Fri 4 Dec.
+SunrYse is a progressive house and trance artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Miami, Newyorkcity and Philadelphia. Often billed alongside TOMMYLOGIK, Asch Pintura and Dan Miles. Next up: One77 Brooklyn, Newyorkcity on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SunrYse is a progressive house and trance artist tracked on soundcheck, with 32 
 
 TOMMYLOGIK, Asch Pintura, Dan Miles
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunryse/)*

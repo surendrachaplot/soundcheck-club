@@ -1,8 +1,8 @@
 # T78
 
-T78 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+T78 is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
-T78 is a techno and acid artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
+T78 is a techno and acid artist based in Italy, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ T78 is a techno and acid artist tracked on soundcheck, with 91 sets logged acros
 
 Aphøtic, BIIA, Basswell
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

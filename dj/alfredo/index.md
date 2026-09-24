@@ -1,8 +1,8 @@
 # Alfredo
 
-Alfredo is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Alfredo is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
-Alfredo is a house and acid artist tracked on soundcheck, with 4 sets logged across Amsterdam, Hamburg and Porto. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
+Alfredo is a house and acid artist based in Spain, tracked on soundcheck, with 4 sets logged across Amsterdam, Hamburg and Porto. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Alfredo is a house and acid artist tracked on soundcheck, with 4 sets logged acr
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredo/)*

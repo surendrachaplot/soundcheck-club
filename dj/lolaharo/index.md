@@ -1,8 +1,8 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Prince Charles, Berlin on Sat, 26 Sept 2026.
+Lola Haro is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Prince Charles, Berlin on Sat, 26 Sept 2026.
 
-Lola Haro is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 44 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Prince Charles, Berlin on Sat 26 Sept.
+Lola Haro is a house and techno artist based in Belgium, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 44 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Prince Charles, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Lola Haro is a house and techno artist tracked on soundcheck, with 162 sets logg
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

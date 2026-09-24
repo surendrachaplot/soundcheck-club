@@ -1,6 +1,6 @@
 # Lobby
 
-Lobby is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Lobby Late Show: Grishagreg" on Fri, 25 Sept 2026.
+Lobby is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Lobby Late Show: Grishagreg" on Fri, 25 Sept 2026.
 
 Lobby is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rua de S. Paulo 18.
 
@@ -14,4 +14,4 @@ Lobby is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse up
 
 Rua de S. Paulo 18, Lisbon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lobby/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lobby/)*

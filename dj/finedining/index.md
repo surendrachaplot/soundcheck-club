@@ -1,6 +1,6 @@
 # finedining
 
-finedining is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Koara, Tokyo on Tue, 13 Oct 2026.
+finedining is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Koara, Tokyo on Tue, 13 Oct 2026.
 
 finedining is a techno and trance artist based in Australia, tracked on soundcheck, with 6 sets logged across Cologne, Sydney and Tokyo. Often billed alongside Lime Sky, Alilia and Aoi Kurihara. Next up: Koara, Tokyo on Tue 13 Oct.
 
@@ -22,4 +22,4 @@ finedining is a techno and trance artist based in Australia, tracked on soundche
 
 Lime Sky, Alilia, Aoi Kurihara
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finedining/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finedining/)*

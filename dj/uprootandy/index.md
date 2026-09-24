@@ -1,8 +1,8 @@
 # Uproot Andy
 
-Uproot Andy is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Friends & Lovers, New York City on Sat, 26 Sept 2026.
+Uproot Andy is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Friends & Lovers, New York City on Sat, 26 Sept 2026.
 
-Uproot Andy is a house and reggaeton artist tracked on soundcheck, with 15 sets logged across Mexicocity, Montreal, Newyorkcity and Portland. Often billed alongside Epic B, Soul Summit Music and AKAntu. Next up: Friends & Lovers, Newyorkcity on Sat 26 Sept.
+Uproot Andy is a house and reggaeton artist based in United States of America, tracked on soundcheck, with 15 sets logged across Mexicocity, Montreal, Newyorkcity and Portland. Often billed alongside Epic B, Soul Summit Music and AKAntu. Next up: Friends & Lovers, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Uproot Andy is a house and reggaeton artist tracked on soundcheck, with 15 sets 
 
 Epic B, Soul Summit Music, AKAntu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uprootandy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uprootandy/)*

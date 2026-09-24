@@ -1,8 +1,8 @@
 # Warzou
 
-Warzou is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
+Warzou is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
 
-Warzou is a bass and electro artist tracked on soundcheck, with 24 sets logged across Belgrade, Berlin, Detroit and Dusseldorf and 10 more. Often billed alongside NVST, Hyas and Subsism. Next up: Salon des Amateurs, Dusseldorf on Fri 25 Sept.
+Warzou is a bass and electro artist based in France, tracked on soundcheck, with 24 sets logged across Belgrade, Berlin, Detroit and Dusseldorf and 10 more. Often billed alongside NVST, Hyas and Subsism. Next up: Salon des Amateurs, Dusseldorf on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Warzou is a bass and electro artist tracked on soundcheck, with 24 sets logged a
 
 NVST, Hyas, Subsism
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warzou/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warzou/)*

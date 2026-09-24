@@ -1,6 +1,6 @@
 # Orbi
 
-Orbi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 74 Hall, Istanbul on Sat, 10 Oct 2026.
+Orbi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 74 Hall, Istanbul on Sat, 10 Oct 2026.
 
 Orbi is a techno and trance artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Ghent and Istanbul and 2 more. Often billed alongside EGE363, REEZN and Neoma. Next up: 74 Hall, Istanbul on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Orbi is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 EGE363, REEZN, Neoma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*

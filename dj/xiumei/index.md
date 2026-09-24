@@ -1,8 +1,8 @@
 # Xiumei
 
-Xiumei is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Vancouver on Sat, 3 Oct 2026.
+Xiumei is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Vancouver on Sat, 3 Oct 2026.
 
-Xiumei is a techno and bass artist tracked on soundcheck, with 22 sets logged across Montreal and Vancouver. Often billed alongside Bronsön, EtOH and IHA (CA). Next up: TBA, Vancouver on Sat 3 Oct.
+Xiumei is a techno and bass artist based in Canada, tracked on soundcheck, with 22 sets logged across Montreal and Vancouver. Often billed alongside Bronsön, EtOH and IHA (CA). Next up: TBA, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Xiumei is a techno and bass artist tracked on soundcheck, with 22 sets logged ac
 
 Bronsön, EtOH, IHA (CA)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*

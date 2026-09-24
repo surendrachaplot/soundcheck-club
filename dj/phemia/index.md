@@ -1,8 +1,8 @@
 # Phemia
 
-Phemia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Phemia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Phemia is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside WLKR, Herton and Border One. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Phemia is a techno and house artist based in Belgium, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside WLKR, Herton and Border One. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Phemia is a techno and house artist tracked on soundcheck, with 53 sets logged a
 
 WLKR, Herton, Border One
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phemia/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phemia/)*

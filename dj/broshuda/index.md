@@ -1,8 +1,8 @@
 # Broshuda
 
-Broshuda is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Broshuda is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
-Broshuda is an experimental and ambient artist tracked on soundcheck, with 19 sets logged across Belgrade, Berlin, Hamburg and London and 4 more. Often billed alongside DRIPTECH, Pisitakun and bela. Next up: 90mil, Berlin on Fri 25 Sept.
+Broshuda is an experimental and ambient artist based in Germany, tracked on soundcheck, with 19 sets logged across Belgrade, Berlin, Hamburg and London and 4 more. Often billed alongside DRIPTECH, Pisitakun and bela. Next up: 90mil, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Broshuda is an experimental and ambient artist tracked on soundcheck, with 19 se
 
 DRIPTECH, Pisitakun, bela
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broshuda/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/broshuda/)*

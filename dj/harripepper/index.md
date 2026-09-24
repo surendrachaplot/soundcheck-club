@@ -1,15 +1,17 @@
 # Harri Pepper
 
-Harri Pepper is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Edami, London on Fri, 25 Sept 2026.
+Harri Pepper is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Edami, London on Fri, 25 Sept 2026.
 
-Harri Pepper is a house and techno artist tracked on soundcheck, with 67 sets logged across Berlin, Bristol, Istanbul and London and 3 more. Often billed alongside Lukas Wigflex, Rosie Ama and A For Alpha. Next up: Edami, London on Fri 25 Sept.
+Harri Pepper is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Berlin, Bristol, Istanbul and London and 4 more. Often billed alongside Lukas Wigflex, Millie McKee and Rosie Ama. Next up: Edami, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Edami | London |
+| Sun, 4 Oct 2026 | Café de la Musique | Paris |
 | Fri, 9 Oct 2026 | Gaffe | London |
+| Sat, 24 Oct 2026 | The Greyhound | London |
 | Fri, 13 Nov 2026 | Village Underground | London |
 
 ## Recently played
@@ -25,6 +27,6 @@ Harri Pepper is a house and techno artist tracked on soundcheck, with 67 sets lo
 
 ## Shares bills with
 
-Lukas Wigflex, Rosie Ama, A For Alpha
+Lukas Wigflex, Millie McKee, Rosie Ama
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*

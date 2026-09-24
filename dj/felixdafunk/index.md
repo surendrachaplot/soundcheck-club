@@ -1,8 +1,8 @@
 # Felix Da Funk
 
-Felix Da Funk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
+Felix Da Funk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Felix Da Funk is a house and deep house artist tracked on soundcheck, with 22 sets logged across Budapest, Ibiza and Madrid. Often billed alongside Oscar Colorado, Davina Moss and Brian S.. Next up: Chinois Ibiza, Ibiza on Mon 5 Oct.
+Felix Da Funk is a house and deep house artist based in Spain, tracked on soundcheck, with 22 sets logged across Budapest, Ibiza and Madrid. Often billed alongside Oscar Colorado, Davina Moss and Brian S.. Next up: Chinois Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Felix Da Funk is a house and deep house artist tracked on soundcheck, with 22 se
 
 Oscar Colorado, Davina Moss, Brian S.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdafunk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdafunk/)*

@@ -1,8 +1,8 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 2 Oct 2026.
+Mita Gami is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Mita Gami is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 30 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Pacha Ibiza, Ibiza on Fri 2 Oct.
+Mita Gami is a house and techno artist based in Israel, tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 30 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Pacha Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 139 sets logg
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

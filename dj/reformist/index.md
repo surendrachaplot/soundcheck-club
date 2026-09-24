@@ -1,8 +1,8 @@
 # Reformist
 
-Reformist is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Thu, 1 Oct 2026.
+Reformist is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Thu, 1 Oct 2026.
 
-Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logged across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: M.O.T, London on Thu 1 Oct.
+Reformist is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: M.O.T, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Reformist is a techno and trance artist tracked on soundcheck, with 22 sets logg
 
 HARLØW, FITS ME FUNNY, Atoxyl
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformist/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reformist/)*

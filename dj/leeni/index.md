@@ -1,16 +1,18 @@
 # LEENI
 
-LEENI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
+LEENI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed, 30 Sept 2026.
 
-LEENI is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Pornbugs. Next up: Beate Uwe, Berlin on Sat 17 Oct.
+LEENI is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across All, Amsterdam, Berlin and Cologne and 8 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Pornbugs. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, All on Wed 30 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Sat, 17 Oct 2026 | Beate Uwe | Berlin |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 20 Nov 2026 | Ritter Butzke | Berlin |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ LEENI is a techno and house artist tracked on soundcheck, with 85 sets logged ac
 
 Danilo Kupfernagel, Mollono.Bass, Pornbugs
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeni/)*

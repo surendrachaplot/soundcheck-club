@@ -1,8 +1,8 @@
 # DJ Pierre
 
-DJ Pierre is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+DJ Pierre is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Pierre is a techno and acid artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Bristol and Buenosaires and 17 more. Often billed alongside Alex Pi, Posthuman and BLACKCLUB. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
+DJ Pierre is a techno and acid artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Bristol and Buenosaires and 17 more. Often billed alongside Alex Pi, Posthuman and BRKN. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ DJ Pierre is a techno and acid artist based in United States of America, tracked
 
 ## Shares bills with
 
-Alex Pi, Posthuman, BLACKCLUB
+Alex Pi, Posthuman, BRKN
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*

@@ -1,8 +1,8 @@
 # N:Fostell
 
-N:Fostell is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Egg London, London on Sat, 10 Oct 2026.
+N:Fostell is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Egg London, London on Sat, 10 Oct 2026.
 
-N:Fostell is an afro house and house artist tracked on soundcheck, with 8 sets logged across Birmingham and London. Often billed alongside Mark Radford, Tippa and Master Stepz. Next up: Egg London, London on Sat 10 Oct.
+N:Fostell is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Birmingham and London. Often billed alongside Mark Radford, Tippa and Master Stepz. Next up: Egg London, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ N:Fostell is an afro house and house artist tracked on soundcheck, with 8 sets l
 
 Mark Radford, Tippa, Master Stepz
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell-uk/)*

@@ -1,13 +1,14 @@
 # PNNY
 
-PNNY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
+PNNY is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Luigis Hot Pizza Bali, Bali on Mon, 12 Oct 2026.
 
-PNNY is a house and disco artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Berlin and 9 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: TILLATEC, Amsterdam on Sat 24 Oct.
+PNNY is a house and disco artist based in Indonesia, tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Berlin and 9 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: Luigis Hot Pizza Bali, Bali on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 12 Oct 2026 | Luigis Hot Pizza Bali | Bali |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ PNNY is a house and disco artist tracked on soundcheck, with 119 sets logged acr
 
 Tiago Oudman, Tjade, DITA (ID)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*

@@ -1,6 +1,6 @@
 # Giamma Soren
 
-Giamma Soren is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
+Giamma Soren is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at SAM Sampling Moods, Milan on Sat, 26 Sept 2026.
 
 Giamma Soren is a house and disco artist based in Italy, tracked on soundcheck, with 53 sets logged across Belfast, Cork, London and Milan and 2 more. Often billed alongside Vannelli Bros, Uabos and Emi Lee. Next up: SAM Sampling Moods, Milan on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Giamma Soren is a house and disco artist based in Italy, tracked on soundcheck, 
 
 Vannelli Bros, Uabos, Emi Lee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giammasoren/)*

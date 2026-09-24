@@ -1,8 +1,8 @@
 # Miriam
 
-Miriam is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
+Miriam is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
 
-Miriam is a techno artist tracked on soundcheck, with 8 sets logged across Athens, Belgrade, Berlin and Chicago and 1 more. Often billed alongside Luka Jukic, 600 mojo and Axxi Oma. Next up: Para Klub Beograd, Belgrade on Sun 27 Sept.
+Miriam is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Athens, Belgrade, Berlin and Chicago and 1 more. Often billed alongside Luka Jukic, 600 mojo and Axxi Oma. Next up: Para Klub Beograd, Belgrade on Sun 27 Sept.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Miriam is a techno artist tracked on soundcheck, with 8 sets logged across Athen
 
 Luka Jukic, 600 mojo, Axxi Oma
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miriam/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miriam/)*

@@ -1,8 +1,8 @@
 # Obri
 
-Obri is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bassiani, Tbilisi on Fri, 2 Oct 2026.
+Obri is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 2 Oct 2026.
 
-Obri is a trance and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen and Tbilisi. Often billed alongside Elene, Holo (GE) and Mtvare. Next up: Bassiani, Tbilisi on Fri 2 Oct.
+Obri is a trance and techno artist based in Georgia, tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen and Tbilisi. Often billed alongside Elene, Holo (GE) and Mtvare. Next up: Bassiani, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Obri is a trance and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Elene, Holo (GE), Mtvare
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obri/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obri/)*

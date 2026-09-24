@@ -1,8 +1,8 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Jacuzzi General is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
 
-Jacuzzi General is a house and balearic artist tracked on soundcheck, with 110 sets logged across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
+Jacuzzi General is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Berlin, Edinburgh and London. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jacuzzi General is a house and balearic artist tracked on soundcheck, with 110 s
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

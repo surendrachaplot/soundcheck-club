@@ -1,13 +1,14 @@
 # Malika
 
-Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NOWHERE, Manchester on Sat, 31 Oct 2026.
+Malika is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Malika is a house and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: NOWHERE, Manchester on Sat 31 Oct.
+Malika is a house and techno artist based in Morocco, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Malika is a house and techno artist tracked on soundcheck, with 48 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

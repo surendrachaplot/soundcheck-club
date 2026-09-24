@@ -1,8 +1,8 @@
 # Oktave
 
-Oktave is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Oktave is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha New York, New York City on Sun, 11 Oct 2026.
 
-Oktave is an afro house and deep house artist tracked on soundcheck, with 34 sets logged across Ibiza, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside MoBlack, Caiiro and Francis Mercier. Next up: Pacha New York, Newyorkcity on Sun 11 Oct.
+Oktave is an afro house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Ibiza, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside MoBlack, Caiiro and Francis Mercier. Next up: Pacha New York, Newyorkcity on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oktave is an afro house and deep house artist tracked on soundcheck, with 34 set
 
 MoBlack, Caiiro, Francis Mercier
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*

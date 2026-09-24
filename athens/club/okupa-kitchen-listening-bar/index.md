@@ -1,6 +1,6 @@
 # Okupa Kitchen & Listening Bar
 
-Okupa Kitchen & Listening Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 23 Sept 2026; the next is "Hot Garden Club with Gia Fu" on Sat, 10 Oct 2026.
+Okupa Kitchen & Listening Bar is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hot Garden Club with Gia Fu" on Sat, 10 Oct 2026.
 
 Okupa Kitchen & Listening Bar is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Gia Fu. Browse upcoming dates, start times and who's playing. Samouil Kalogirou 3, Athina 105 53, Greece.
 
@@ -14,4 +14,4 @@ Okupa Kitchen & Listening Bar is a music venue in Athens listed on soundcheck. 1
 
 Samouil Kalogirou 3, Athina 105 53, Greece, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/okupa-kitchen-listening-bar/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/okupa-kitchen-listening-bar/)*

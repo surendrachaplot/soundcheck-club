@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "null ✣ Cirkle [Live] ✣ Fran LF ✣ LPV" on Fri, 25 Sept 2026.
+AUX Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "null ✣ Cirkle [Live] ✣ Fran LF ✣ LPV" on Fri, 25 Sept 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including a.metz, Adam Des, Alma Libre and Até. and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -21,4 +21,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with 
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

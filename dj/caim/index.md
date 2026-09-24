@@ -1,8 +1,8 @@
 # Caim
 
-Caim is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Gehør, Oslo on Fri, 25 Sept 2026.
+Caim is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gehør, Oslo on Fri, 25 Sept 2026.
 
-Caim is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Marie K (1), Eversines and Pieter Jansen. Next up: Gehør, Oslo on Fri 25 Sept.
+Caim is a techno and house artist based in Netherlands, tracked on soundcheck, with 81 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Marie K (1), Pieter Jansen and Eversines. Next up: Gehør, Oslo on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Caim is a techno and house artist tracked on soundcheck, with 81 sets logged acr
 
 ## Shares bills with
 
-Marie K (1), Eversines, Pieter Jansen
+Marie K (1), Pieter Jansen, Eversines
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

@@ -1,6 +1,6 @@
 # MotorCity Wine
 
-MotorCity Wine is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "A Dub Supreme" on Sun, 27 Sept 2026.
+MotorCity Wine is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "A Dub Supreme" on Sun, 27 Sept 2026.
 
 MotorCity Wine is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Gino (DET) and Peter Croce. Browse upcoming dates, start times and who's playing. 1949 Michigan Ave. Detroit, MI 48216.
 
@@ -15,4 +15,4 @@ MotorCity Wine is a music venue in Detroit listed on soundcheck. 2 upcoming gigs
 
 1949 Michigan Ave. Detroit, MI 48216, Detroit
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*

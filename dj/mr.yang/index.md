@@ -1,8 +1,8 @@
 # Mr. Yang
 
-Mr. Yang is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pisco Bar, Kuala Lumpur on Fri, 25 Sept 2026.
+Mr. Yang is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pisco Bar, Kuala Lumpur on Fri, 25 Sept 2026.
 
-Mr. Yang is a techno and industrial artist tracked on soundcheck, with 5 sets logged across Kualalumpur. Often billed alongside 6EJOU, Adam Beyer and Alam. Next up: Pisco Bar, Kualalumpur on Fri 25 Sept.
+Mr. Yang is a techno and industrial artist based in Malaysia, tracked on soundcheck, with 5 sets logged across Kualalumpur. Often billed alongside 6EJOU, Adam Beyer and Alam. Next up: Pisco Bar, Kualalumpur on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Mr. Yang is a techno and industrial artist tracked on soundcheck, with 5 sets lo
 
 6EJOU, Adam Beyer, Alam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.yang/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.yang/)*

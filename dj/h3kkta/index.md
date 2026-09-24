@@ -1,8 +1,8 @@
 # H3kkta
 
-H3kkta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Mexico City on Fri, 25 Sept 2026.
+H3kkta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Mexico City on Fri, 25 Sept 2026.
 
-H3kkta is a house and techno artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside Alatriste, PR1XX and Phanta. Next up: TBA, Mexicocity on Fri 25 Sept.
+H3kkta is a house and techno artist based in Mexico, tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside Alatriste, PR1XX and Phanta. Next up: TBA, Mexicocity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ H3kkta is a house and techno artist tracked on soundcheck, with 5 sets logged ac
 
 Alatriste, PR1XX, Phanta
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h3kkta/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h3kkta/)*

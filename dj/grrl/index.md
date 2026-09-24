@@ -1,8 +1,8 @@
 # GRRL
 
-GRRL is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
+GRRL is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
 
-GRRL is a club and techno artist tracked on soundcheck, with 40 sets logged across Austin, Chicago, Denver and Detroit and 11 more. Often billed alongside umru, AceMo and KYRUH. Next up: Colour Factory, London on Sat 31 Oct.
+GRRL is a club and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Austin, Chicago, Denver and Detroit and 11 more. Often billed alongside umru, AceMo and KYRUH. Next up: Colour Factory, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ GRRL is a club and techno artist tracked on soundcheck, with 40 sets logged acro
 
 umru, AceMo, KYRUH
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grrl/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grrl/)*

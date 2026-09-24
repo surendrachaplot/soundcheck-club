@@ -1,8 +1,8 @@
 # Pugilist
 
-Pugilist is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tender, Melbourne on Sat, 26 Sept 2026.
+Pugilist is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tender, Melbourne on Sat, 26 Sept 2026.
 
-Pugilist is a jungle and bass artist tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Brisbane and Bristol and 5 more. Often billed alongside Tamen, Stormn Norm and Charms. Next up: Tender, Melbourne on Sat 26 Sept.
+Pugilist is a jungle and bass artist based in Australia, tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Brisbane and Bristol and 5 more. Often billed alongside Tamen, Stormn Norm and Charms. Next up: Tender, Melbourne on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pugilist is a jungle and bass artist tracked on soundcheck, with 27 sets logged 
 
 Tamen, Stormn Norm, Charms
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pugilist/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pugilist/)*

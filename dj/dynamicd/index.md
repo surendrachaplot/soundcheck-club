@@ -1,8 +1,8 @@
 # Dynamic D
 
-Dynamic D is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
+Dynamic D is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Inter-City, The Hague on Sat, 26 Sept 2026.
 
-Dynamic D is a disco and italo disco artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Bristol and Rotterdam and 1 more. Often billed alongside Alden Tyrell, Audio Vacanze and Auryn. Next up: Inter-City, Thehague on Sat 26 Sept.
+Dynamic D is a disco and italo disco artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Bristol and Rotterdam and 1 more. Often billed alongside Alden Tyrell, Audio Vacanze and Auryn. Next up: Inter-City, Thehague on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Dynamic D is a disco and italo disco artist tracked on soundcheck, with 7 sets l
 
 Alden Tyrell, Audio Vacanze, Auryn
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicd/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamicd/)*

@@ -1,6 +1,6 @@
 # Izaac Moses
 
-Izaac Moses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
+Izaac Moses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
 
 Izaac Moses is a house and disco artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Liverpool and London. Often billed alongside Beechy, BRUIN (UK) and Dan Cluskey. Next up: Frederik's Bar, Liverpool on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Izaac Moses is a house and disco artist based in United Kingdom, tracked on soun
 
 Beechy, BRUIN (UK), Dan Cluskey
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*

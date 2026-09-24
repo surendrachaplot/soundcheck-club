@@ -1,8 +1,8 @@
 # Masst
 
-Masst is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Wed, 7 Oct 2026.
+Masst is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Wed, 7 Oct 2026.
 
-Masst is a techno and house artist tracked on soundcheck, with 23 sets logged across Athens, Berlin, Mykonos and Paris. Often billed alongside Agent Greg, Ben Manson and Deelo. Next up: Tresor / Globus, Berlin on Wed 7 Oct.
+Masst is a techno and house artist based in Greece, tracked on soundcheck, with 23 sets logged across Athens, Berlin, Mykonos and Paris. Often billed alongside Agent Greg, Ben Manson and Deelo. Next up: Tresor / Globus, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Masst is a techno and house artist tracked on soundcheck, with 23 sets logged ac
 
 Agent Greg, Ben Manson, Deelo
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masst/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masst/)*

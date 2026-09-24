@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 3 Oct 2026.
+Mood Ring is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-Mood Ring is a house and hip-hop artist tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Camillionaire, DJ Guan and jaag (US). Next up: DNA Lounge, Sanfrancisco on Sat 3 Oct.
+Mood Ring is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Camillionaire, DJ Guan and jaag (US). Next up: DNA Lounge, Sanfrancisco on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Mood Ring is a house and hip-hop artist tracked on soundcheck, with 8 sets logge
 
 Camillionaire, DJ Guan, jaag (US)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodring/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodring/)*

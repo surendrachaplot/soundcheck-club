@@ -1,14 +1,15 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Beate Uwe, Berlin on Sat, 31 Oct 2026.
+AKA AKA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Sat, 31 Oct 2026.
 
-AKA AKA is a techno and tech house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside Moonbootica, Format B and Alignment. Next up: Beate Uwe, Berlin on Sat 31 Oct.
+AKA AKA is a techno and tech house artist based in Germany, tracked on soundcheck, with 39 sets logged across All, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside Moonbootica, Chris Di Perri and Format B. Next up: Beate Uwe, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Beate Uwe | Berlin |
+| Thu, 10 Dec 2026 | Saalbach-Hinterglemm | All |
 | Sat, 12 Dec 2026 | Spindler & Klatt | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ AKA AKA is a techno and tech house artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-Moonbootica, Format B, Alignment
+Moonbootica, Chris Di Perri, Format B
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

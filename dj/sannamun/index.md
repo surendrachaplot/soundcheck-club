@@ -1,6 +1,6 @@
 # Sanna Mun
 
-Sanna Mun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
+Sanna Mun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 2 Oct 2026.
 
 Sanna Mun is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 12 more. Often billed alongside Amanda Mussi, CONCEPTUAL and Function. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sanna Mun is a techno and house artist tracked on soundcheck, with 40 sets logge
 
 Amanda Mussi, CONCEPTUAL, Function
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sannamun/)*

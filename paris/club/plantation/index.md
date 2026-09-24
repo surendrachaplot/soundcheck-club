@@ -1,8 +1,8 @@
 # Plantation
 
-Plantation is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "BAILE INOLVIDABLE - Soirée Latino Mix Salseo con Perreo " on Fri, 25 Sept 2026.
+Plantation is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BAILE INOLVIDABLE - Soirée Latino Mix Salseo con Perreo " on Fri, 25 Sept 2026.
 
-Plantation is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Dielli, Eternal Love, Longneck and Pitaya Soundsystem and 2 more. Browse upcoming dates, start times and who's playing. 37 Rue des Cheminots, 75018, Paris.
+Plantation is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aurèle, Dielli, Disco Paese and Eternal Love and 2 more. Browse upcoming dates, start times and who's playing. 37 Rue des Cheminots, 75018, Paris.
 
 ## What's on
 
@@ -10,10 +10,13 @@ Plantation is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | BAILE INOLVIDABLE - Soirée Latino Mix Salseo con Perreo  |  |
 | Sat, 26 Sept 2026 | OPEN HERBE - 14H ROOFTOP PARTY | Dielli, Longneck, Pontcho |
+| Sun, 27 Sept 2026 | Oui Hours Présente: Lefblom Carte Blanche | Aurèle, Ian Maur, Lefblom, Lüma-G, Marli, Scarlet |
+| Fri, 2 Oct 2026 | Ribella Rave Society - Rooftop Party | Disco Paese, Seabra |
 | Sat, 10 Oct 2026 | Eternal Love + Raphaël Top Secret + Pitaya Soundsystem All Day Long Party | Eternal Love, Pitaya Soundsystem, Raphaël Top-Secret |
+| Sun, 11 Oct 2026 | Finesse Rekords X Groove To Grave | ode (1) |
 
 ## Address
 
 37 Rue des Cheminots, 75018, Paris, Paris
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*

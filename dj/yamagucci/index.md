@@ -1,13 +1,16 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Pacha New York, New York City on Fri, 9 Oct 2026.
+Yamagucci is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Space Miami, Miami on Fri, 25 Sept 2026.
 
-Yamagucci is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL (2). Next up: Pacha New York, Newyorkcity on Fri 9 Oct.
+Yamagucci is a house and techno artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL (2). Next up: Club Space Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Club Space Miami | Miami |
+| Thu, 1 Oct 2026 | Gallery | London |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Fri, 9 Oct 2026 | Pacha New York | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 28 Nov 2026 | Prysm Nightclub | Chicago |
@@ -27,4 +30,4 @@ Yamagucci is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 Adam Ten, Mita Gami, SIEGEL (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci/)*

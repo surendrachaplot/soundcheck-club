@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Lena Willikens is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across All, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Vlada. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 | Fri, 25 Sept 2026 | Bar Part Time | San Francisco/Oakland |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 | Fri, 2 Oct 2026 | Macadam | Nantes |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
 | Fri, 9 Oct 2026 | Strange Brew | Bristol |
@@ -19,7 +20,6 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
-| Sat, 7 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Lena Willikens is a techno and house artist tracked on soundcheck, with 212 sets
 
 ## Shares bills with
 
-Vladimir Ivkovic, Moopie, Elena Colombi
+Vladimir Ivkovic, Moopie, Vlada
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

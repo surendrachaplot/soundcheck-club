@@ -1,8 +1,8 @@
 # Hugo Prime
 
-Hugo Prime is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Le Sucre, Lyon on Fri, 25 Sept 2026.
+Hugo Prime is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Le Sucre, Lyon on Fri, 25 Sept 2026.
 
-Hugo Prime is a techno and electro artist tracked on soundcheck, with 21 sets logged across Cologne, Lyon and Paris. Often billed alongside Ben Manson, Mr Cozzo and High Low. Next up: Le Sucre, Lyon on Fri 25 Sept.
+Hugo Prime is a techno and electro artist based in France, tracked on soundcheck, with 21 sets logged across Cologne, Lyon and Paris. Often billed alongside Ben Manson, Mr Cozzo and High Low. Next up: Le Sucre, Lyon on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hugo Prime is a techno and electro artist tracked on soundcheck, with 21 sets lo
 
 Ben Manson, Mr Cozzo, High Low
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoprime/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoprime/)*

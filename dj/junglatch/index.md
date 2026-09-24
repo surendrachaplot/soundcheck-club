@@ -1,8 +1,8 @@
 # jung latch
 
-jung latch is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+jung latch is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
-jung latch is a hardcore and techno artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Ilya Gurin-Babayeu, grysh77 and CRAIC DAVID. Next up: M.O.T, London on Thu 8 Oct.
+jung latch is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Ilya Gurin-Babayeu, grysh77 and CRAIC DAVID. Next up: M.O.T, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ jung latch is a hardcore and techno artist tracked on soundcheck, with 10 sets l
 
 Ilya Gurin-Babayeu, grysh77, CRAIC DAVID
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junglatch/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junglatch/)*

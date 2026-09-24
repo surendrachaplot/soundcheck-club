@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "[CANCELLED] De Binnenstad x Sissi's" on Fri, 25 Sept 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[CANCELLED] De Binnenstad x Sissi's" on Fri, 25 Sept 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including A For Alpha, Ays (NL), bebe bad and Benny2 and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 15 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

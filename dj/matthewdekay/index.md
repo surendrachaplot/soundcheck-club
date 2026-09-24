@@ -1,6 +1,6 @@
 # Matthew Dekay
 
-Matthew Dekay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
+Matthew Dekay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Veronica Schip, Amsterdam on Thu, 24 Sept 2026.
 
 Matthew Dekay is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Brussels, Budapest and Copenhagen and 8 more. Often billed alongside YokoO, Lee Burridge and S.A.M.. Next up: Veronica Schip, Amsterdam on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Matthew Dekay is a house and techno artist tracked on soundcheck, with 20 sets l
 
 YokoO, Lee Burridge, S.A.M.
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdekay/)*

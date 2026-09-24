@@ -1,8 +1,8 @@
 # Baauer
 
-Baauer is a House and Bass artist with 9 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Bsmnt, Boston on Fri, 25 Sept 2026.
+Baauer is a House and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bsmnt, Boston on Fri, 25 Sept 2026.
 
-Baauer is a house and bass artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston, Chicago, Denver and Houston and 8 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and A-Trak. Next up: Bsmnt, Boston on Fri 25 Sept.
+Baauer is a house and bass artist based in United States of America, tracked on soundcheck, with 23 sets logged across Boston, Chicago, Denver and Houston and 8 more. Often billed alongside Bianca Oblivion, Hudson Mohawke and Star Eyes. Next up: Bsmnt, Boston on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Baauer is a house and bass artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Bianca Oblivion, Hudson Mohawke, A-Trak
+Bianca Oblivion, Hudson Mohawke, Star Eyes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

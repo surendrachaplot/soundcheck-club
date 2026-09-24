@@ -1,8 +1,8 @@
 # EVIE UK
 
-EVIE UK is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+EVIE UK is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
-EVIE UK is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Chopper (UK), Ryan Resso and GW Harrison. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
+EVIE UK is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Chopper (UK), Ryan Resso and GW Harrison. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ EVIE UK is a house and tech house artist tracked on soundcheck, with 54 sets log
 
 Chopper (UK), Ryan Resso, GW Harrison
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evie-uk/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evie-uk/)*

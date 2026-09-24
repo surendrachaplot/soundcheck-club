@@ -1,8 +1,8 @@
 # whomadeAB
 
-whomadeAB is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
+whomadeAB is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
 
-whomadeAB is an electro and house artist tracked on soundcheck, with 5 sets logged across Barcelona and London. Often billed alongside Jay Tripwire, Majid and Billi. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 25 Sept.
+whomadeAB is an electro and house artist based in Saudi Arabia, tracked on soundcheck, with 5 sets logged across Barcelona and London. Often billed alongside Jay Tripwire, Majid and Billi. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ whomadeAB is an electro and house artist tracked on soundcheck, with 5 sets logg
 
 Jay Tripwire, Majid, Billi
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadeab/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadeab/)*

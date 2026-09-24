@@ -1,8 +1,8 @@
 # Boris
 
-Boris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Life Club Milano, Milan on Fri, 25 Sept 2026.
+Boris is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Life Club Milano, Milan on Fri, 25 Sept 2026.
 
-Boris is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Life Club Milano, Milan on Fri 25 Sept.
+Boris is a techno and house artist based in Germany, tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside Massimiliano Pagliara, BASHKKA and Roi Perez. Next up: Life Club Milano, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Boris is a techno and house artist tracked on soundcheck, with 220 sets logged a
 
 ## Shares bills with
 
-BASHKKA, Massimiliano Pagliara, Roi Perez
+Massimiliano Pagliara, BASHKKA, Roi Perez
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

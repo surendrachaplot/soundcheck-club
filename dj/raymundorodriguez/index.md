@@ -1,6 +1,6 @@
 # Raymundo Rodriguez
 
-Raymundo Rodriguez is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Raymundo Rodriguez is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
 Raymundo Rodriguez is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton and London. Often billed alongside Johnny Landers, Mutiny and Acid Steve. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Raymundo Rodriguez is a tech house and deep house artist based in United Kingdom
 
 Johnny Landers, Mutiny, Acid Steve
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raymundorodriguez/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raymundorodriguez/)*

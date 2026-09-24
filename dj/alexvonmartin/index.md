@@ -1,8 +1,8 @@
 # Alex Von Martin
 
-Alex Von Martin is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Suki10c, Birmingham on Fri, 9 Oct 2026.
+Alex Von Martin is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Suki10c, Birmingham on Fri, 9 Oct 2026.
 
-Alex Von Martin is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Birmingham, London and Rome. Often billed alongside Emeye, Paris Camille and SOULMAXX. Next up: Suki10c, Birmingham on Fri 9 Oct.
+Alex Von Martin is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham, London and Rome. Often billed alongside Emeye, Paris Camille and SOULMAXX. Next up: Suki10c, Birmingham on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex Von Martin is a techno and tech house artist tracked on soundcheck, with 10
 
 Emeye, Paris Camille, SOULMAXX
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvonmartin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvonmartin/)*

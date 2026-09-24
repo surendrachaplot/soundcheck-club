@@ -1,8 +1,8 @@
 # Slayphex Twins
 
-Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Honey Street Studio, Manchester on Fri, 25 Sept 2026.
+Slayphex Twins is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Honey Street Studio, Manchester on Fri, 25 Sept 2026.
 
-Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 48 sets logged across Amsterdam, Budapest, Leeds and London and 2 more. Often billed alongside Peggy Viennetta, RQuality and Ushko. Next up: Honey Street Studio, Manchester on Fri 25 Sept.
+Slayphex Twins is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Budapest, Leeds and London and 2 more. Often billed alongside Peggy Viennetta, RQuality and Ushko. Next up: Honey Street Studio, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Slayphex Twins is a hardcore and club artist tracked on soundcheck, with 48 sets
 
 Peggy Viennetta, RQuality, Ushko
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*

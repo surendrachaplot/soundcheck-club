@@ -1,6 +1,6 @@
 # Sanctuary
 
-Sanctuary is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
+Sanctuary is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tresor / Globus, Berlin on Fri, 25 Sept 2026.
 
 Sanctuary is a house and disco artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 9 more. Often billed alongside Mendel, Handmade and Hunee. Next up: Tresor / Globus, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Sanctuary is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Mendel, Handmade, Hunee
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuary/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanctuary/)*

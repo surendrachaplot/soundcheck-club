@@ -1,8 +1,8 @@
 # John Johr
 
-John Johr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
+John Johr is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
-John Johr is a house and deep house artist tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside Ataxia, Atnarko and Curmudgeon. Next up: Marble Bar, Detroit on Fri 25 Sept.
+John Johr is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit. Often billed alongside Ataxia, Atnarko and Curmudgeon. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ John Johr is a house and deep house artist tracked on soundcheck, with 5 sets lo
 
 Ataxia, Atnarko, Curmudgeon
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjohr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnjohr/)*

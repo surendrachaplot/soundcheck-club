@@ -1,14 +1,15 @@
 # Janina
 
-Janina is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
+Janina is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
 
-Janina is a techno and tech house artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 5 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Hoppetosse, Berlin on Fri 25 Sept.
+Janina is a techno and tech house artist based in Germany, tracked on soundcheck, with 71 sets logged across All, Barcelona, Berlin and Hamburg and 6 more. Often billed alongside Francesco Farfa, Luigi Rossi and Piticu. Next up: Hoppetosse, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Hoppetosse | Berlin |
+| Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | All |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Janina is a techno and tech house artist tracked on soundcheck, with 70 sets log
 
 Francesco Farfa, Luigi Rossi, Piticu
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janina/)*

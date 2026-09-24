@@ -1,8 +1,8 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Tap1, Copenhagen on Sat, 26 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tap1, Copenhagen on Sat, 26 Sept 2026.
 
-Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Tap1, Copenhagen on Sat 26 Sept.
+Armin van Buuren is a trance and techno artist based in Netherlands, tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: Tap1, Copenhagen on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 se
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

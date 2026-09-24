@@ -1,8 +1,8 @@
 # Deherian
 
-Deherian is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
+Deherian is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
 
-Deherian is a techno and psytrance artist tracked on soundcheck, with 62 sets logged across Athens and Paris. Often billed alongside Tanison, Christian Cambas and Steve Sai. Next up: Oddity Club, Athens on Sat 10 Oct.
+Deherian is a techno and psytrance artist based in Greece, tracked on soundcheck, with 62 sets logged across Athens and Paris. Often billed alongside Tanison, Christian Cambas and Steve Sai. Next up: Oddity Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Deherian is a techno and psytrance artist tracked on soundcheck, with 62 sets lo
 
 Tanison, Christian Cambas, Steve Sai
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*

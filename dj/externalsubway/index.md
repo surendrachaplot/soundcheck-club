@@ -1,8 +1,8 @@
 # External Subway
 
-External Subway is a Breakbeat and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Lvls, London on Fri, 2 Oct 2026.
+External Subway is a Breakbeat and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lvls, London on Fri, 2 Oct 2026.
 
-External Subway is a breakbeat and grime artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside GreenWay, Sokolyann and rannag. Next up: Lvls, London on Fri 2 Oct.
+External Subway is a breakbeat and grime artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside GreenWay, Sokolyann and rannag. Next up: Lvls, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ External Subway is a breakbeat and grime artist tracked on soundcheck, with 8 se
 
 GreenWay, Sokolyann, rannag
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/externalsubway/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/externalsubway/)*

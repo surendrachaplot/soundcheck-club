@@ -1,8 +1,8 @@
 # Lydmate
 
-Lydmate is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Distillery, Leipzig on Sat, 24 Oct 2026.
+Lydmate is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Distillery, Leipzig on Sat, 24 Oct 2026.
 
-Lydmate is a techno and acid artist tracked on soundcheck, with 7 sets logged across Leipzig. Often billed alongside Templeton, Hanno Hinkelbein and catjes. Next up: Distillery, Leipzig on Sat 24 Oct.
+Lydmate is a techno and acid artist based in Germany, tracked on soundcheck, with 7 sets logged across Leipzig. Often billed alongside Templeton, Hanno Hinkelbein and catjes. Next up: Distillery, Leipzig on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Lydmate is a techno and acid artist tracked on soundcheck, with 7 sets logged ac
 
 Templeton, Hanno Hinkelbein, catjes
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lydmate/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lydmate/)*

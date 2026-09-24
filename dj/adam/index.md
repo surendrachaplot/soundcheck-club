@@ -1,8 +1,8 @@
 # A'DAM
 
-A'DAM is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 7 Nov 2026.
+A'DAM is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 7 Nov 2026.
 
-A'DAM is a house artist tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Lasse Top, Cas Tang and Lasse. Next up: Shelter Amsterdam, Amsterdam on Sat 7 Nov.
+A'DAM is a house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Lasse Top, Cas Tang and Lasse. Next up: Shelter Amsterdam, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ A'DAM is a house artist tracked on soundcheck, with 9 sets logged across Amsterd
 
 Lasse Top, Cas Tang, Lasse
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adam/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adam/)*

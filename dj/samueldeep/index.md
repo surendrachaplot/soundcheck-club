@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+Samuel Deep is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
-Samuel Deep is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
+Samuel Deep is a house and techno artist based in Netherlands, tracked on soundcheck, with 188 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 188 sets lo
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

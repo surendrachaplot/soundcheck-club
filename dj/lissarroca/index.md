@@ -1,8 +1,8 @@
 # Lis Sarroca
 
-Lis Sarroca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
+Lis Sarroca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
 
-Lis Sarroca is a house and techno artist tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 20 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
+Lis Sarroca is a house and techno artist based in Spain, tracked on soundcheck, with 99 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 20 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Lis Sarroca is a house and techno artist tracked on soundcheck, with 99 sets log
 
 Mari.te, Vince Void, Mejia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*

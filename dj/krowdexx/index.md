@@ -1,8 +1,8 @@
 # Krowdexx
 
-Krowdexx is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Krowdexx is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
-Krowdexx is a hardcore and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 8 more. Often billed alongside Angerfist, Dimitri K and LESSSS. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Krowdexx is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 8 more. Often billed alongside Angerfist, Dimitri K and LESSSS. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Krowdexx is a hardcore and techno artist tracked on soundcheck, with 16 sets log
 
 Angerfist, Dimitri K, LESSSS
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krowdexx/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krowdexx/)*

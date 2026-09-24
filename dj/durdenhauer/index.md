@@ -1,8 +1,8 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Chinastraat, Ghent on Fri, 9 Oct 2026.
+DURDENHAUER is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinastraat, Ghent on Fri, 9 Oct 2026.
 
-DURDENHAUER is a techno and trance artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: Chinastraat, Ghent on Fri 9 Oct.
+DURDENHAUER is a techno and trance artist based in France, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: Chinastraat, Ghent on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DURDENHAUER is a techno and trance artist tracked on soundcheck, with 70 sets lo
 
 Fenrick, Carla Schmitt, DJ GUESTLIST
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

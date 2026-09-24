@@ -1,8 +1,8 @@
 # Phantogram
 
-Phantogram is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
+Phantogram is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
 
-Phantogram is an electronica and techno artist tracked on soundcheck, with 5 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside 1-800-Lolita, 619! and 74.97. Next up: Elsewhere, Newyorkcity on Sat 26 Sept.
+Phantogram is an electronica and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside 1-800-Lolita, 619! and 74.97. Next up: Elsewhere, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Phantogram is an electronica and techno artist tracked on soundcheck, with 5 set
 
 1-800-Lolita, 619!, 74.97
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantogram/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phantogram/)*

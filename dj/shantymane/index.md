@@ -1,15 +1,18 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Jupiter Disco, New York City on Sat, 26 Sept 2026.
+shanty mane is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Fri, 25 Sept 2026.
 
-shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit, Losangeles, Mexicocity and Miami and 3 more. Often billed alongside EREZ.JPG, Willy Gorgon and Gill (US). Next up: Jupiter Disco, Newyorkcity on Sat 26 Sept.
+shanty mane is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Detroit, Losangeles and Mexicocity and 4 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: Outer Heaven, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Outer Heaven | New York City |
 | Sat, 26 Sept 2026 | Jupiter Disco | New York City |
 | Sat, 10 Oct 2026 | TBA - Secret Location  | Mexico City |
+| Sat, 24 Oct 2026 | Basement Amsterdam | Amsterdam |
+| Fri, 27 Nov 2026 | Outer Heaven | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
@@ -25,6 +28,6 @@ shanty mane is a house and techno artist based in United States of America, trac
 
 ## Shares bills with
 
-EREZ.JPG, Willy Gorgon, Gill (US)
+EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

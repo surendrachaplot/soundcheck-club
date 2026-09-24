@@ -1,8 +1,8 @@
 # IRVØ
 
-IRVØ is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
+IRVØ is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Main Club, Milan on Sat, 3 Oct 2026.
 
-IRVØ is a techno and psytrance artist tracked on soundcheck, with 26 sets logged across Milan. Often billed alongside IANOSH, TUROTUNZ and ELNA. Next up: Main Club, Milan on Sat 3 Oct.
+IRVØ is a techno and psytrance artist based in Italy, tracked on soundcheck, with 26 sets logged across Milan. Often billed alongside IANOSH, TUROTUNZ and ELNA. Next up: Main Club, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ IRVØ is a techno and psytrance artist tracked on soundcheck, with 26 sets logge
 
 IANOSH, TUROTUNZ, ELNA
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irvo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irvo/)*

@@ -1,8 +1,8 @@
 # Sharnie
 
-Sharnie is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
+Sharnie is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pan-Pan, Birmingham on Sat, 3 Oct 2026.
 
-Sharnie is a garage and dubstep artist tracked on soundcheck, with 55 sets logged across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: Pan-Pan, Birmingham on Sat 3 Oct.
+Sharnie is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Birmingham, Bristol, Edinburgh and London and 4 more. Often billed alongside Axle, Beatrice M. and Bluetoof. Next up: Pan-Pan, Birmingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sharnie is a garage and dubstep artist tracked on soundcheck, with 55 sets logge
 
 Axle, Beatrice M., Bluetoof
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharnie/)*

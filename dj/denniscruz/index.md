@@ -1,8 +1,8 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Ex Macello, Milan on Thu, 24 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ex Macello, Milan on Thu, 24 Sept 2026.
 
-Dennis Cruz is a tech house and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Ex Macello, Milan on Thu 24 Sept.
+Dennis Cruz is a tech house and house artist based in Spain, tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside PAWSA, Marco Carola and Joseph Capriati. Next up: Ex Macello, Milan on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -32,6 +32,6 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 184 set
 
 ## Shares bills with
 
-PAWSA, Marco Carola, ANOTR
+PAWSA, Marco Carola, Joseph Capriati
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

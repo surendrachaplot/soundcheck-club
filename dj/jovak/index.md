@@ -1,6 +1,6 @@
 # Jovak
 
-Jovak is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
+Jovak is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
 
 Jovak is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside Birrell, Slim Shae and Allius. Next up: Piccadilly Central, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Jovak is a progressive house and techno artist based in United Kingdom, tracked 
 
 Birrell, Slim Shae, Allius
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovak/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jovak/)*

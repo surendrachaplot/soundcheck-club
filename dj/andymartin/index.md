@@ -1,8 +1,8 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
 
-Andy Martin is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Niño Arbol, Ogazón and Alarico. Next up: TBA, Detroit on Fri 25 Sept.
+Andy Martin is a techno and house artist based in Mexico, tracked on soundcheck, with 74 sets logged across All, Amsterdam, Athens and Barcelona and 27 more. Often billed alongside Ogazón, Niño Arbol and Richard Akingbehin. Next up: TBA, Detroit on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 73 sets log
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | The Love Inn | Bristol |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
+| Wed, 3 Mar 2027 | El Rio Hostel | All |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 73 sets log
 
 ## Shares bills with
 
-Niño Arbol, Ogazón, Alarico
+Ogazón, Niño Arbol, Richard Akingbehin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

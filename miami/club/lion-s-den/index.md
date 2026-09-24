@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "DJ Sneak, Matt Flesher, Bandito Chico" on Fri, 25 Sept 2026.
+Lion's Den is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DJ Sneak, Matt Flesher, Bandito Chico" on Fri, 25 Sept 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including demenz, DJ Sneak, Lou Flores and Madota and 1 more. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
 
@@ -17,4 +17,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with
 
 150 NW 73rd st, Miami
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

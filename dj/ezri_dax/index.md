@@ -1,8 +1,8 @@
 # ezri_dax
 
-ezri_dax is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
+ezri_dax is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Philadelphia on Sat, 3 Oct 2026.
 
-ezri_dax is a techno and electro artist tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside America Loves Me, Biproduct and Doll Redacted. Next up: TBA, Philadelphia on Sat 3 Oct.
+ezri_dax is a techno and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside America Loves Me, Biproduct and Doll Redacted. Next up: TBA, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ ezri_dax is a techno and electro artist tracked on soundcheck, with 7 sets logge
 
 America Loves Me, Biproduct, Doll Redacted
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezri_dax/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezri_dax/)*

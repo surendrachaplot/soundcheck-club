@@ -1,6 +1,6 @@
 # FRÆNCIS
 
-FRÆNCIS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+FRÆNCIS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
 FRÆNCIS is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside JENKA, DJ Dios and L X S. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FRÆNCIS is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 JENKA, DJ Dios, L X S
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*

@@ -1,19 +1,21 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+E.LINA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
-E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, with 150 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: Distrikt, Leeds on Sat 26 Sept.
+E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 32 more. Often billed alongside Annyrock, DJ Senc and Voigtmann. Next up: Distrikt, Leeds on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Distrikt | Leeds |
+| Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 10 Oct 2026 | Tenuta Tor De' Sordi | Rome |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Thu, 29 Oct 2026 | TBA | London |
+| Fri, 30 Oct 2026 | Orlagh House | Dublin |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -29,6 +31,6 @@ E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Annyrock, DJ Senc, Dyed Soundorom
+Annyrock, DJ Senc, Voigtmann
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

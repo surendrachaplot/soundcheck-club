@@ -1,8 +1,8 @@
 # Ruiso
 
-Ruiso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
+Ruiso is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
 
-Ruiso is a techno and trance artist tracked on soundcheck, with 10 sets logged across Madrid and Valencia. Often billed alongside Karena, Mental Duality and Phranem. Next up: Spook Club, Valencia on Sat 3 Oct.
+Ruiso is a techno and trance artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid and Valencia. Often billed alongside Karena, Mental Duality and Phranem. Next up: Spook Club, Valencia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ruiso is a techno and trance artist tracked on soundcheck, with 10 sets logged a
 
 Karena, Mental Duality, Phranem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiso/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiso/)*

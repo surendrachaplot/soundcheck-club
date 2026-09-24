@@ -1,8 +1,8 @@
 # Katerina
 
-Katerina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Post Bar, Helsinki on Sat, 17 Oct 2026.
+Katerina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Post Bar, Helsinki on Sat, 17 Oct 2026.
 
-Katerina is a techno and house artist tracked on soundcheck, with 89 sets logged across Berlin, Copenhagen, Helsinki and Nantes and 2 more. Often billed alongside DJ JVS, Justus Valtanen and Sansibar. Next up: Post Bar, Helsinki on Sat 17 Oct.
+Katerina is a techno and house artist based in Finland, tracked on soundcheck, with 89 sets logged across Berlin, Copenhagen, Helsinki and Nantes and 2 more. Often billed alongside DJ JVS, Justus Valtanen and Sansibar. Next up: Post Bar, Helsinki on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Katerina is a techno and house artist tracked on soundcheck, with 89 sets logged
 
 DJ JVS, Justus Valtanen, Sansibar
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katerina/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katerina/)*

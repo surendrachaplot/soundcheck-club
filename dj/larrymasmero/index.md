@@ -1,8 +1,8 @@
 # Larry Masmero
 
-Larry Masmero is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Grandangolo, Rome on Fri, 25 Sept 2026.
+Larry Masmero is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grandangolo, Rome on Fri, 25 Sept 2026.
 
-Larry Masmero is a house and disco artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and London and 4 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Grandangolo, Rome on Fri 25 Sept.
+Larry Masmero is a house and disco artist based in Italy, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and London and 4 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Grandangolo, Rome on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Larry Masmero is a house and disco artist tracked on soundcheck, with 98 sets lo
 
 Lele Sacchi, Xavich, Eternal Love
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*

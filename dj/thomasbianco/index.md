@@ -1,8 +1,8 @@
 # Thomas Bianco
 
-Thomas Bianco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Maison25, Zurich on Sat, 26 Sept 2026.
+Thomas Bianco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Maison25, Zurich on Sat, 26 Sept 2026.
 
-Thomas Bianco is a techno and house artist tracked on soundcheck, with 38 sets logged across Basel, Geneva, Porto and Zurich. Often billed alongside MARCISM, Mishael Müller and kso12. Next up: Maison25, Zurich on Sat 26 Sept.
+Thomas Bianco is a techno and house artist based in Switzerland, tracked on soundcheck, with 38 sets logged across Basel, Geneva, Porto and Zurich. Often billed alongside MARCISM, Mishael Müller and kso12. Next up: Maison25, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Thomas Bianco is a techno and house artist tracked on soundcheck, with 38 sets l
 
 MARCISM, Mishael Müller, kso12
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasbianco/)*

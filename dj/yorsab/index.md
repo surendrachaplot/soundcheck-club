@@ -1,6 +1,6 @@
 # Yorsab
 
-Yorsab is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Yorsab is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 Yorsab is a house and techno artist based in Thailand, tracked on soundcheck, with 22 sets logged across Bangkok. Often billed alongside PPOINT, UN!X and Meltmode (2). Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yorsab is a house and techno artist based in Thailand, tracked on soundcheck, wi
 
 PPOINT, UN!X, Meltmode (2)
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yorsab/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yorsab/)*

@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+Dizzy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
 
 Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Lisbon and London and 6 more. Often billed alongside Pabie, DJ Tree and Dario Lem. Next up: Village Underground, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 3
 
 Pabie, DJ Tree, Dario Lem
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

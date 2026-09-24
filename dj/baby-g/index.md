@@ -1,6 +1,6 @@
 # baby-g
 
-baby-g is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at TBA - Secret Ridgewood Location, New York City on Sat, 5 Dec 2026.
+baby-g is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Ridgewood Location, New York City on Sat, 5 Dec 2026.
 
 baby-g is a techno and house artist based in South Africa, tracked on soundcheck, with 53 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside Chillosophy, Lucia Haze and ACIDMOM. Next up: TBA - Secret Ridgewood Location, Newyorkcity on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ baby-g is a techno and house artist based in South Africa, tracked on soundcheck
 
 Chillosophy, Lucia Haze, ACIDMOM
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*

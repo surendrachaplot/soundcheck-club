@@ -1,6 +1,6 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+Xinobi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
 Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

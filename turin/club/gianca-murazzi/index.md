@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Wed, 23 Sept 2026; the next is "EROTIKA" on Thu, 24 Sept 2026.
+Gianca - Murazzi is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "EROTIKA" on Thu, 24 Sept 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Neri, Andrea Introvigne, Bakked and Denaila and 2 more. Browse upcoming dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -19,4 +19,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 6 upcoming gigs
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

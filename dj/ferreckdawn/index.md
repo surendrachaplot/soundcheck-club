@@ -1,8 +1,8 @@
 # Ferreck Dawn
 
-Ferreck Dawn is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 23 Sept 2026, next at Brown Alley, Melbourne on Thu, 24 Sept 2026.
+Ferreck Dawn is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Brown Alley, Melbourne on Thu, 24 Sept 2026.
 
-Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Claptone, Sam Divine and Todd Terry. Next up: Brown Alley, Melbourne on Thu 24 Sept.
+Ferreck Dawn is a house and tech house artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 21 more. Often billed alongside Todd Terry, Claptone and Sam Divine. Next up: Brown Alley, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Ferreck Dawn is a house and tech house artist tracked on soundcheck, with 90 set
 
 ## Shares bills with
 
-Claptone, Sam Divine, Todd Terry
+Todd Terry, Claptone, Sam Divine
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferreckdawn/)*

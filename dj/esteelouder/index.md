@@ -1,8 +1,8 @@
 # Estée Louder
 
-Estée Louder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club 77, Sydney on Sun, 4 Oct 2026.
+Estée Louder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club 77, Sydney on Sun, 4 Oct 2026.
 
-Estée Louder is a techno and house artist tracked on soundcheck, with 54 sets logged across Athens, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside Kato, Jo Christy and Overexpired. Next up: Club 77, Sydney on Sun 4 Oct.
+Estée Louder is a techno and house artist based in Australia, tracked on soundcheck, with 54 sets logged across Athens, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside Kato, Jo Christy and Overexpired. Next up: Club 77, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Estée Louder is a techno and house artist tracked on soundcheck, with 54 sets l
 
 Kato, Jo Christy, Overexpired
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esteelouder/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esteelouder/)*

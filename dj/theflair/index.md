@@ -1,8 +1,8 @@
 # The Flair
 
-The Flair is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Bar Bonobo, New York City on Sun, 4 Oct 2026.
+The Flair is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Bonobo, New York City on Sun, 4 Oct 2026.
 
-The Flair is a house and funk / soul artist tracked on soundcheck, with 15 sets logged across Berlin, Losangeles and Newyorkcity. Often billed alongside Dani Ramos, Discolypso Crew and Kenia. Next up: Bar Bonobo, Newyorkcity on Sun 4 Oct.
+The Flair is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Losangeles and Newyorkcity. Often billed alongside Dani Ramos, Discolypso Crew and Kenia. Next up: Bar Bonobo, Newyorkcity on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ The Flair is a house and funk / soul artist tracked on soundcheck, with 15 sets 
 
 Dani Ramos, Discolypso Crew, Kenia
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*

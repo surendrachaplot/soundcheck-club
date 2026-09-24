@@ -1,8 +1,8 @@
 # Trinity
 
-Trinity is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Club 77, Sydney on Sun, 4 Oct 2026.
+Trinity is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club 77, Sydney on Sun, 4 Oct 2026.
 
-Trinity is a techno and house artist tracked on soundcheck, with 31 sets logged across Istanbul, London, Paris and Sydney. Often billed alongside Magda Bytnerowicz, Dave Stuart and Estée Louder. Next up: Club 77, Sydney on Sun 4 Oct.
+Trinity is a techno and house artist based in Australia, tracked on soundcheck, with 31 sets logged across Istanbul, London, Paris and Sydney. Often billed alongside Magda Bytnerowicz, Dave Stuart and Estée Louder. Next up: Club 77, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Trinity is a techno and house artist tracked on soundcheck, with 31 sets logged 
 
 Magda Bytnerowicz, Dave Stuart, Estée Louder
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinity/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinity/)*

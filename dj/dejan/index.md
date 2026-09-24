@@ -1,8 +1,8 @@
 # Dejan
 
-Dejan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+Dejan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
-Dejan is a house and techno artist tracked on soundcheck, with 49 sets logged across Newyorkcity and Zurich. Often billed alongside Ronny Grauer, Kalabrese and Animal Trainer. Next up: Hive Club, Zurich on Sat 26 Sept.
+Dejan is a house and techno artist based in Switzerland, tracked on soundcheck, with 49 sets logged across Newyorkcity and Zurich. Often billed alongside Ronny Grauer, Kalabrese and Animal Trainer. Next up: Hive Club, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dejan is a house and techno artist tracked on soundcheck, with 49 sets logged ac
 
 Ronny Grauer, Kalabrese, Animal Trainer
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dejan/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dejan/)*

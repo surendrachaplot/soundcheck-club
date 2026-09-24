@@ -1,8 +1,8 @@
 # Romulo Del Castillo
 
-Romulo Del Castillo is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Romulo Del Castillo is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Romulo Del Castillo is an electro and house artist tracked on soundcheck, with 23 sets logged across Miami and Newyorkcity. Often billed alongside Jinks, Marie Qrie and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Romulo Del Castillo is an electro and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Miami and Newyorkcity. Often billed alongside Jinks, Marie Qrie and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Romulo Del Castillo is an electro and house artist tracked on soundcheck, with 2
 
 Jinks, Marie Qrie, SATURNSARii
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romulodelcastillo/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romulodelcastillo/)*

@@ -1,8 +1,8 @@
 # Naomi (FR)
 
-Naomi (FR) is a Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Badaboum, Paris on Fri, 25 Sept 2026.
+Naomi (FR) is a Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Badaboum, Paris on Fri, 25 Sept 2026.
 
-Naomi (FR) is a bass and r&b artist tracked on soundcheck, with 29 sets logged across Geneva, Marseille, Nantes and Paris and 1 more. Often billed alongside Bob Sleigh, ARTEM (FR) and Louise Pétrouchka. Next up: Badaboum, Paris on Fri 25 Sept.
+Naomi (FR) is a bass and r&b artist based in France, tracked on soundcheck, with 29 sets logged across Geneva, Marseille, Nantes and Paris and 1 more. Often billed alongside Bob Sleigh, ARTEM (FR) and Louise Pétrouchka. Next up: Badaboum, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Naomi (FR) is a bass and r&b artist tracked on soundcheck, with 29 sets logged a
 
 Bob Sleigh, ARTEM (FR), Louise Pétrouchka
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-fr/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-fr/)*

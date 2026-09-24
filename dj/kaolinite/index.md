@@ -1,8 +1,8 @@
 # kaolinite
 
-kaolinite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 23 Sept 2026, next at Forestlimit, Tokyo on Thu, 8 Oct 2026.
+kaolinite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forestlimit, Tokyo on Thu, 8 Oct 2026.
 
-kaolinite is a house and techno artist tracked on soundcheck, with 62 sets logged across London and Tokyo. Often billed alongside KOTSU, Aoi Kurihara and MINAMI. Next up: Forestlimit, Tokyo on Thu 8 Oct.
+kaolinite is a house and techno artist based in Japan, tracked on soundcheck, with 62 sets logged across London and Tokyo. Often billed alongside KOTSU, Aoi Kurihara and MINAMI. Next up: Forestlimit, Tokyo on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ kaolinite is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 KOTSU, Aoi Kurihara, MINAMI
 
-*Updated Wed, 23 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaolinite/)*
+*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaolinite/)*
