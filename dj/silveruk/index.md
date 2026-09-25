@@ -1,6 +1,6 @@
 # Silver (UK)
 
-Silver (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Södra Teatern, Stockholm on Sat, 26 Sept 2026.
+Silver (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Södra Teatern, Stockholm on Sat, 26 Sept 2026.
 
 Silver (UK) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, Frankfurt, London and Manchester and 4 more. Often billed alongside RUZE, DJ Majesty and Gracey Grey. Next up: Södra Teatern, Stockholm on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Silver (UK) is a tech house and house artist based in United Kingdom, tracked on
 
 RUZE, DJ Majesty, Gracey Grey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silveruk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silveruk/)*

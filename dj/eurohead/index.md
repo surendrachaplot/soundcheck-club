@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Villa, Oslo on Fri, 16 Oct 2026.
+Eurohead is a Trance and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Villa, Oslo on Fri, 16 Oct 2026.
 
 Eurohead is a trance and club artist based in Sweden, tracked on soundcheck, with 21 sets logged across Austin, Barcelona, Berlin and Houston and 9 more. Often billed alongside Ali RQ, Brutalismus 3000 and Frost Children. Next up: The Villa, Oslo on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Eurohead is a trance and club artist based in Sweden, tracked on soundcheck, wit
 
 Ali RQ, Brutalismus 3000, Frost Children
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

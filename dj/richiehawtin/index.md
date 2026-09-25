@@ -1,6 +1,6 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
+Richie Hawtin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 26 Sept 2026.
 
 Richie Hawtin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Tapada da Ajuda, Lisbon on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Richie Hawtin is a techno and house artist based in United Kingdom, tracked on s
 
 Héctor Oaks, Adiel, KI/KI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

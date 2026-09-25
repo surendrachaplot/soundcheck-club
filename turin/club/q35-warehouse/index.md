@@ -1,6 +1,6 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
+Q35 WAREHOUSE is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
 
 Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
@@ -23,4 +23,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 11 upcoming gigs, 
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

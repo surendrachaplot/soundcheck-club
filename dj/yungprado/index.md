@@ -1,6 +1,6 @@
 # Yung Prado
 
-Yung Prado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Sat, 24 Oct 2026.
+Yung Prado is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Sat, 24 Oct 2026.
 
 Yung Prado is a house and techno artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Nile Fee, Adria (ES) and Baldman. Next up: Nitsa Club, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Yung Prado is a house and techno artist tracked on soundcheck, with 41 sets logg
 
 Nile Fee, Adria (ES), Baldman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungprado/)*

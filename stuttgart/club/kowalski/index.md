@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "TIPSY x Kowalski • Shubostar • MARY • CHAMELIO3000" on Fri, 25 Sept 2026.
+Kowalski is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "TIPSY x Kowalski • Shubostar • MARY • CHAMELIO3000" on Fri, 25 Sept 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Chamelio 3000, Jochen Pash, Shubostar and Thomas Colin. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -20,4 +20,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, wi
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

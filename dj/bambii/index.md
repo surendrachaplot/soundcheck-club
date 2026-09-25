@@ -1,8 +1,8 @@
 # Bambii
 
-Bambii is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Bambii is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
-Bambii is a techno and house artist based in Canada, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown and Chase & Status. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
+Bambii is a techno and house artist based in Canada, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Bambii is a techno and house artist based in Canada, tracked on soundcheck, with
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
+| Tue, 10 Nov 2026 | Société des arts technologiques | Montreal |
 
 ## Recently played
 
@@ -29,6 +30,6 @@ Bambii is a techno and house artist based in Canada, tracked on soundcheck, with
 
 ## Shares bills with
 
-Young Teesh, Nino Brown (2), Chase & Status
+Young Teesh, Nino Brown (2), Nia Archives
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

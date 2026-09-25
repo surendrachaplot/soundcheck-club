@@ -1,6 +1,6 @@
 # Zoe Pea
 
-Zoe Pea is a Dub and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
+Zoe Pea is a Dub and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at M.O.T, London on Sat, 26 Sept 2026.
 
 Zoe Pea is a dub and downtempo artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Mellowdramatics, Rat Section and babyschön. Next up: M.O.T, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Zoe Pea is a dub and downtempo artist based in United Kingdom, tracked on soundc
 
 Mellowdramatics, Rat Section, babyschön
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*

@@ -1,13 +1,14 @@
 # gummi
 
-gummi is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
+gummi is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-gummi is a bass and techno artist based in Poland, tracked on soundcheck, with 42 sets logged across Brussels, Krakow and Warsaw. Often billed alongside Taan, madikoptah and 2K88. Next up: OCZKI, Warsaw on Sun 4 Oct.
+gummi is a bass and techno artist based in Poland, tracked on soundcheck, with 43 sets logged across Brussels, Krakow, Poland and Warsaw. Often billed alongside Taan, 2K88 and madikoptah. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 
@@ -24,6 +25,6 @@ gummi is a bass and techno artist based in Poland, tracked on soundcheck, with 4
 
 ## Shares bills with
 
-Taan, madikoptah, 2K88
+Taan, 2K88, madikoptah
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*

@@ -1,6 +1,6 @@
 # Ann Tweak
 
-Ann Tweak is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Caley Bar, Edinburgh on Fri, 25 Sept 2026.
+Ann Tweak is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Caley Bar, Edinburgh on Fri, 25 Sept 2026.
 
 Ann Tweak is a disco and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Edinburgh and Glasgow. Often billed alongside Jacuzzi General, Fierro Grande and Percy Main. Next up: The Caley Bar, Edinburgh on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ann Tweak is a disco and house artist based in United Kingdom, tracked on soundc
 
 Jacuzzi General, Fierro Grande, Percy Main
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anntweak/)*

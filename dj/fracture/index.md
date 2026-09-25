@@ -1,14 +1,13 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Fracture is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
-Fracture is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Decibella and Equinox (UK). Next up: Hidden, Manchester on Thu 24 Sept.
+Fracture is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Decibella and Equinox (UK). Next up: Void Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Hidden | Manchester |
 | Sat, 3 Oct 2026 | Void Club | Berlin |
 | Sat, 10 Oct 2026 | Stereo | Glasgow |
 | Fri, 23 Oct 2026 | Volks | Brighton |
@@ -16,6 +15,7 @@ Fracture is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- Hidden, Manchester — Thu, 24 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Planet Wax, London — Sun, 17 May 2026
@@ -23,10 +23,9 @@ Fracture is a drum & bass and jungle artist based in United Kingdom, tracked on 
 - fabric, London — Fri, 3 Apr 2026
 - WARRECORDS, Antwerp — Fri, 27 Mar 2026
 - Gorilla, Manchester — Fri, 20 Mar 2026
-- Rich Mix, London — Thu, 26 Feb 2026
 
 ## Shares bills with
 
 Tim Reaper, Decibella, Equinox (UK)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

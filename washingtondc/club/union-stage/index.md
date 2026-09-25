@@ -1,6 +1,6 @@
 # Union Stage
 
-Union Stage is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!)" on Fri, 25 Sept 2026.
+Union Stage is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!)" on Fri, 25 Sept 2026.
 
 Union Stage is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 740 Water St SW.
 
@@ -16,4 +16,4 @@ Union Stage is a music venue in Washington DC listed on soundcheck. 3 upcoming g
 
 740 Water St SW, Washington DC
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*

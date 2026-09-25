@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Expeditions" on Fri, 25 Sept 2026.
+://about blank is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Expeditions" on Fri, 25 Sept 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 4NOUK, alemiko, Alex.Do and Alexis Alien and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

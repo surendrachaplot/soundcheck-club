@@ -1,6 +1,6 @@
 # Josh Wink
 
-Josh Wink is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Josh Wink is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 Josh Wink is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Rob Paine, Doc Martin and Heidi Lawden. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Josh Wink is a house and techno artist based in United States of America, tracke
 
 Rob Paine, Doc Martin, Heidi Lawden
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwink/)*

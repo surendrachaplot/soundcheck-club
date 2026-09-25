@@ -1,6 +1,6 @@
 # Saeed Younan
 
-Saeed Younan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Utopia, Los Angeles on Sat, 26 Sept 2026.
+Saeed Younan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Utopia, Los Angeles on Sat, 26 Sept 2026.
 
 Saeed Younan is a house and tech house artist tracked on soundcheck, with 28 sets logged across Berlin, Los Angeles, Miami and Montreal and 5 more. Often billed alongside SPCL.K, DJ T.E.C. and Neko Berg. Next up: Utopia, Los Angeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Saeed Younan is a house and tech house artist tracked on soundcheck, with 28 set
 
 SPCL.K, DJ T.E.C., Neko Berg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saeedyounan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saeedyounan/)*

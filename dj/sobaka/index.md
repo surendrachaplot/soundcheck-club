@@ -1,6 +1,6 @@
 # SOBAKA
 
-SOBAKA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Sat, 24 Oct 2026.
+SOBAKA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Système, Montreal on Sat, 24 Oct 2026.
 
 SOBAKA is a house and electro artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal. Often billed alongside Papa Kiss, Flleur and dawny. Next up: Système, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SOBAKA is a house and electro artist based in Canada, tracked on soundcheck, wit
 
 Papa Kiss, Flleur, dawny
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sobaka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sobaka/)*

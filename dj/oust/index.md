@@ -1,6 +1,6 @@
 # OUST
 
-OUST is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
+OUST is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Garage Noord, Amsterdam on Fri, 23 Oct 2026.
 
 OUST is an electronic artist based in Cyprus, tracked on soundcheck, with 3 sets logged across Amsterdam, Athens and Berlin. Often billed alongside AEREA, BIIA and Brtinzz. Next up: Garage Noord, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ OUST is an electronic artist based in Cyprus, tracked on soundcheck, with 3 sets
 
 AEREA, BIIA, Brtinzz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oust/)*

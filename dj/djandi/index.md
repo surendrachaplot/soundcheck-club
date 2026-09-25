@@ -1,14 +1,13 @@
 # Andi
 
-Andi is a Italo Disco and EBM artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gabriela, New York City on Thu, 24 Sept 2026.
+Andi is a Italo Disco and EBM artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at smartbar, Chicago on Fri, 25 Sept 2026.
 
-Andi is an italo disco and ebm artist based in United States of America, tracked on soundcheck, with 223 sets logged across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Gabriela, New York City on Thu 24 Sept.
+Andi is an italo disco and ebm artist based in United States of America, tracked on soundcheck, with 223 sets logged across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: smartbar, Chicago on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Gabriela | New York City |
 | Fri, 25 Sept 2026 | smartbar | Chicago |
 | Thu, 1 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 8 Oct 2026 | public records | New York City |
@@ -20,6 +19,7 @@ Andi is an italo disco and ebm artist based in United States of America, tracked
 
 ## Recently played
 
+- Gabriela, New York City — Thu, 24 Sept 2026
 - TBA - Downtown, Los Angeles — Fri, 18 Sept 2026
 - Gabriela, New York City — Fri, 11 Sept 2026
 - Bossa Nova Civic Club, New York City — Thu, 3 Sept 2026
@@ -27,10 +27,9 @@ Andi is an italo disco and ebm artist based in United States of America, tracked
 - Liberty Point, Philadelphia — Sun, 9 Aug 2026
 - TBA - Brooklyn, New York City — Sat, 8 Aug 2026
 - Gabriela, New York City — Fri, 7 Aug 2026
-- Bossa Nova Civic Club, New York City — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

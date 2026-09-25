@@ -1,6 +1,6 @@
 # DJ JUANNY
 
-DJ JUANNY is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri, 25 Sept 2026.
+DJ JUANNY is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 DJ JUANNY is a club and latin bass artist based in United States of America, tracked on soundcheck, with 123 sets logged across Los Angeles, Miami and San Francisco/Oakland. Often billed alongside RITCHRD, Yuca Frita and Discnogirl. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ JUANNY is a club and latin bass artist based in United States of America, tra
 
 RITCHRD, Yuca Frita, Discnogirl
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJJUANNY/)*

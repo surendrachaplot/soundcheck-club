@@ -1,6 +1,6 @@
 # God Is An Ass - presents: Pray For Us #006 (Only Vinyl) at Never
 
-God Is An Ass - presents: Pray For Us #006 (Only Vinyl) at Never on Fri 25 Sept, Barcelona. 2 artists on the bill: MAF and Soul Experience. Electro and Acid. Preview the line-up and save it on soundcheck.
+God Is An Ass - presents: Pray For Us #006 (Only Vinyl) at Never on Fri 25 Sept, Barcelona. 2 artists on the bill: MAF and Soul Experience. Acid and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Taste
 
-The Taste is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
+The Taste is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 26 Sept 2026.
 
 The Taste is a house and techno artist based in Italy, tracked on soundcheck, with 26 sets logged across Rome and Turin. Often billed alongside Riverside (IT), Dystopia and Maceo Plex. Next up: Q35 WAREHOUSE, Turin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ The Taste is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Riverside (IT), Dystopia, Maceo Plex
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*

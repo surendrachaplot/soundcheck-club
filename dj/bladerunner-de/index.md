@@ -1,6 +1,6 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lost Horizon, Bristol on Sat, 26 Sept 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lost Horizon, Bristol on Sat, 26 Sept 2026.
 
 Bladerunner is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Birmingham and Boston and 20 more. Often billed alongside Inja, DJ SS and Benny L. Next up: Lost Horizon, Bristol on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Bladerunner is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 Inja, DJ SS, Benny L
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

@@ -1,6 +1,6 @@
 # Ape Drums
 
-Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
+Ape Drums is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
 
 Ape Drums is an afro house and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Austin, Chicago and Houston and 11 more. Often billed alongside AWEN, Andrea Oliva and Diplo. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Ape Drums is an afro house and house artist based in United States of America, t
 
 AWEN, Andrea Oliva, Diplo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apedrums/)*

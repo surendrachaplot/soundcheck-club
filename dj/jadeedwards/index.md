@@ -1,6 +1,6 @@
 # Jade Edwards
 
-Jade Edwards is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Jade Edwards is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Jade Edwards is a house and disco artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Ibiza, Liverpool and London and 3 more. Often billed alongside Saint Lukez, John Morales and Luke Una. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -15,6 +15,7 @@ Jade Edwards is a house and disco artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- UNO MALTA, Malta — Thu, 24 Sept 2026
 - Djoon, Paris — Fri, 11 Sept 2026
 - Suono, Liverpool — Fri, 28 Aug 2026
 - M.O.T, London — Fri, 3 Jul 2026
@@ -22,10 +23,9 @@ Jade Edwards is a house and disco artist based in United Kingdom, tracked on sou
 - Freight Island, Manchester — Sun, 24 May 2026
 - Various Venues, London — Sat, 2 May 2026
 - Night Tales, London — Sat, 4 Apr 2026
-- Cafe 1001, London — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Saint Lukez, John Morales, Luke Una
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeedwards/)*

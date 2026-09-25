@@ -1,6 +1,6 @@
 # Intrinsic Rhythm (Tr One B2B Remote Society) at Pawn Shop
 
-Intrinsic Rhythm (Tr One B2B Remote Society) at Pawn Shop on Fri 2 Oct, Dublin. 1 act on the bill: Tr One. Techno and House. Preview the line-up and save it on soundcheck.
+Intrinsic Rhythm (Tr One B2B Remote Society) at Pawn Shop on Fri 2 Oct, Dublin. 1 artist on the bill: Tr One. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

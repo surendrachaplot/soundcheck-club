@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+shot by stanley is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 shot by stanley is a techno and house artist based in Colombia, tracked on soundcheck, with 18 sets logged across Berlin, Chicago, Munich and Stuttgart and 1 more. Often billed alongside ALXJ, Pysh and Bombata. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ shot by stanley is a techno and house artist based in Colombia, tracked on sound
 
 ALXJ, Pysh, Bombata
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

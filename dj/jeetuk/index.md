@@ -1,6 +1,6 @@
 # jeet (UK)
 
-jeet (UK) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Om Being, London on Fri, 25 Sept 2026.
+jeet (UK) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Om Being, London on Fri, 25 Sept 2026.
 
 jeet (UK) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Avsluta, Alicia (UK) and Elijah Minnelli. Next up: Om Being, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ jeet (UK) is a garage and house artist based in United Kingdom, tracked on sound
 
 Avsluta, Alicia (UK), Elijah Minnelli
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeetuk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeetuk/)*

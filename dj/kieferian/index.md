@@ -1,6 +1,6 @@
 # Kiefer Ian
 
-Kiefer Ian is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bourbon On Division, Chicago on Sat, 3 Oct 2026.
+Kiefer Ian is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bourbon On Division, Chicago on Sat, 3 Oct 2026.
 
 Kiefer Ian is a garage and house artist tracked on soundcheck, with 10 sets logged across Chicago and New York City. Often billed alongside Kiefer, Double Dipp and Initial G. Next up: Bourbon On Division, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kiefer Ian is a garage and house artist tracked on soundcheck, with 10 sets logg
 
 Kiefer, Double Dipp, Initial G
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieferian/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kieferian/)*

@@ -1,6 +1,6 @@
 # Timo-G
 
-Timo-G is a Broken Beat and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
+Timo-G is a Broken Beat and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dahlia Stereo, Manchester on Sat, 26 Sept 2026.
 
 Timo-G is a broken beat and afro house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Manchester. Often billed alongside Laura Jackson, Lil' Minx and Mikey D.O.N. Next up: Dahlia Stereo, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Timo-G is a broken beat and afro house artist based in United Kingdom, tracked o
 
 Laura Jackson, Lil' Minx, Mikey D.O.N
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timo-g/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timo-g/)*

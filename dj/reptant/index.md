@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
+Reptant is a Electro and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
 
 Reptant is an electro and techno artist based in Australia, tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 37 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Cadavra, Madrid on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Reptant is an electro and techno artist based in Australia, tracked on soundchec
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

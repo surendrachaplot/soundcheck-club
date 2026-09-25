@@ -1,6 +1,6 @@
 # Diyanna Monet
 
-Diyanna Monet is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
+Diyanna Monet is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 7 Nov 2026.
 
 Diyanna Monet is a house and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across New York City and Washington DC. Often billed alongside B_X_R_N_X_R_D, KayLaSoul and Baronhawk Poitier. Next up: TRANSMISSION DC, Washington DC on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Diyanna Monet is a house and club artist based in United States of America, trac
 
 B_X_R_N_X_R_D, KayLaSoul, Baronhawk Poitier
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diyannamonet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diyannamonet/)*

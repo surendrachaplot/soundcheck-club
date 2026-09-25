@@ -1,14 +1,15 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Fri, 25 Sept 2026.
+DJ Python is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at public records, New York City on Fri, 25 Sept 2026.
 
-DJ Python is a techno and house artist based in United States of America, tracked on soundcheck, with 185 sets logged across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside Nick León, Ana Roxanne and Loidis. Next up: public records, New York City on Fri 25 Sept.
+DJ Python is a techno and house artist based in United States of America, tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: public records, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | public records | New York City |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
@@ -24,6 +25,6 @@ DJ Python is a techno and house artist based in United States of America, tracke
 
 ## Shares bills with
 
-Nick León, Ana Roxanne, Loidis
+Nick León, Ana Roxanne, VTSS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

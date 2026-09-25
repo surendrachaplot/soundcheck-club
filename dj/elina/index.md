@@ -1,6 +1,6 @@
 # Elina
 
-Elina is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
+Elina is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
 
 Elina is a breakcore and hardcore artist based in Australia, tracked on soundcheck, with 14 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Melt Unit and Across Boundaries. Next up: Burdekin Hotel, Sydney on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Elina is a breakcore and hardcore artist based in Australia, tracked on soundche
 
 Midsizedsedance, Melt Unit, Across Boundaries
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

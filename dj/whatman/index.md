@@ -1,6 +1,6 @@
 # Whatman
 
-Whatman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
+Whatman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kyoto University Yoshida Dormitory, Kyoto on Sat, 14 Nov 2026.
 
 Whatman is a techno and bass artist based in Japan, tracked on soundcheck, with 53 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside E.O.U, Vís and ntank. Next up: Kyoto University Yoshida Dormitory, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Whatman is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 E.O.U, Vís (1), ntank
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatman/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatman/)*

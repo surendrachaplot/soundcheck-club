@@ -1,6 +1,6 @@
 # RITCHRD
 
-RITCHRD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
+RITCHRD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 RITCHRD is a club and techno artist based in United States of America, tracked on soundcheck, with 112 sets logged across Denver, London, New York City and Paris and 3 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ RITCHRD is a club and techno artist based in United States of America, tracked o
 
 Discnogirl, Bored Lord, Tom Marsi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*

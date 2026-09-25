@@ -1,6 +1,6 @@
 # Eddie Halliwell
 
-Eddie Halliwell is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Index, Dublin on Fri, 6 Nov 2026.
+Eddie Halliwell is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Index, Dublin on Fri, 6 Nov 2026.
 
 Eddie Halliwell is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Dublin, Dundee and Edinburgh and 4 more. Often billed alongside Mauro Picotto, Aly & Fila and Billy Gillies. Next up: Index, Dublin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Eddie Halliwell is a trance and techno artist based in United Kingdom, tracked o
 
 Mauro Picotto, Aly & Fila, Billy Gillies
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiehalliwell/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiehalliwell/)*

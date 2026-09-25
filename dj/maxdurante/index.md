@@ -1,6 +1,6 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
+MAX DURANTE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lvl - World of Gaming Berlin, Berlin on Sat, 26 Sept 2026.
 
 MAX DURANTE is a techno and industrial artist based in Italy, tracked on soundcheck, with 43 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: Lvl - World of Gaming Berlin, Berlin on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ MAX DURANTE is a techno and industrial artist based in Italy, tracked on soundch
 
 Yu Kawabata, Dave Clarke, Stephanie Sykes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*

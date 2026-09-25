@@ -1,6 +1,6 @@
 # Plushie
 
-Plushie is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Silence Please, New York City on Sat, 10 Oct 2026.
+Plushie is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Silence Please, New York City on Sat, 10 Oct 2026.
 
 Plushie is a tech house and electro artist based in United States of America, tracked on soundcheck, with 12 sets logged across New York City. Often billed alongside xJermsx, Jumplink and Justin V.. Next up: Silence Please, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Plushie is a tech house and electro artist based in United States of America, tr
 
 xJermsx, Jumplink, Justin V.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plushie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plushie/)*

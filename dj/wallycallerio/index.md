@@ -1,6 +1,6 @@
 # Wally Callerio
 
-Wally Callerio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
+Wally Callerio is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 26 Sept 2026.
 
 Wally Callerio is a house and deep house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, Detroit, Los Angeles and San Diego and 2 more. Often billed alongside Matthew Brian, DJ Dazy and Big Cee. Next up: Benelux BAR, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Wally Callerio is a house and deep house artist based in United States of Americ
 
 Matthew Brian, DJ Dazy, Big Cee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallycallerio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallycallerio/)*

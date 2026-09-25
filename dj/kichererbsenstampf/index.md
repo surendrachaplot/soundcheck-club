@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Fri, 25 Sept 2026.
+kichererbsenstampf is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Helios37, Cologne on Fri, 25 Sept 2026.
 
 kichererbsenstampf is a trance and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside VLUNA, DJ Schnürschuh and Jaszaloth. Next up: Helios37, Cologne on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ kichererbsenstampf is a trance and techno artist based in Germany, tracked on so
 
 VLUNA, DJ Schnürschuh, Jaszaloth
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

@@ -1,6 +1,6 @@
 # U.NID
 
-U.NID is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Couleur Locale, Athens on Sat, 5 Dec 2026.
+U.NID is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Couleur Locale, Athens on Sat, 5 Dec 2026.
 
 U.NID is a tech house and deep house artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens and Seoul. Often billed alongside KikoMike, ReZo and CJ Jeff. Next up: Couleur Locale, Athens on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ U.NID is a tech house and deep house artist based in Greece, tracked on soundche
 
 KikoMike, ReZo, CJ Jeff
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u.nid/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/u.nid/)*

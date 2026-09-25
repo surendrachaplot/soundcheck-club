@@ -1,6 +1,6 @@
 # Kai the Black Angel
 
-Kai the Black Angel is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Fri, 9 Oct 2026.
+Kai the Black Angel is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mood Ring, New York City on Fri, 9 Oct 2026.
 
 Kai the Black Angel is a club and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston and New York City. Often billed alongside Kenni Javon, Daniro and JAY ENVY. Next up: Mood Ring, New York City on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kai the Black Angel is a club and techno artist based in United States of Americ
 
 Kenni Javon, Daniro, JAY ENVY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitheblackangel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitheblackangel/)*

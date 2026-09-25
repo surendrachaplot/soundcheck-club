@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NSN presents: THE CIRCUIT with DEEVEY, SWANNY and more" on Fri, 25 Sept 2026.
+The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "NSN presents: THE CIRCUIT with DEEVEY, SWANNY and more" on Fri, 25 Sept 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Argy(uk) and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

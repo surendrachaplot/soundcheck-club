@@ -1,6 +1,6 @@
 # Mustelide
 
-Mustelide is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at B-SIDE, Warsaw on Sat, 26 Sept 2026.
+Mustelide is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at B-SIDE, Warsaw on Sat, 26 Sept 2026.
 
 Mustelide is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin and Warsaw. Often billed alongside Arnaldo Capo, jo:af and Alexander Arpeggio. Next up: B-SIDE, Warsaw on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Mustelide is a house and techno artist tracked on soundcheck, with 8 sets logged
 
 Arnaldo Capo, jo:af, Alexander Arpeggio
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mustelide/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mustelide/)*

@@ -1,6 +1,6 @@
 # Pitaya Soundsystem
 
-Pitaya Soundsystem is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Flat HiFi Bar, Madrid on Fri, 25 Sept 2026.
+Pitaya Soundsystem is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Flat HiFi Bar, Madrid on Fri, 25 Sept 2026.
 
 Pitaya Soundsystem is a house and disco artist based in France, tracked on soundcheck, with 91 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Dirty Channels, Eternal Love and Gaspar Antuña. Next up: Flat HiFi Bar, Madrid on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Pitaya Soundsystem is a house and disco artist based in France, tracked on sound
 
 Dirty Channels, Eternal Love, Gaspar Antuña
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*

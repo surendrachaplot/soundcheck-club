@@ -1,6 +1,6 @@
 # motiv-a
 
-motiv-a is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
+motiv-a is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
 
 motiv-a is a techno and ebm artist based in United States of America, tracked on soundcheck, with 12 sets logged across New York City. Often billed alongside Khadija, Arvin T and Boiled Angel. Next up: Bossa Nova Civic Club, New York City on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ motiv-a is a techno and ebm artist based in United States of America, tracked on
 
 Khadija, Arvin T, Boiled Angel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motiv-a/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motiv-a/)*

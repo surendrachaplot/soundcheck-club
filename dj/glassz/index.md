@@ -1,13 +1,14 @@
 # Glassz
 
-Glassz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+Glassz is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Glassz is a techno and electro artist based in Poland, tracked on soundcheck, with 23 sets logged across Berlin, Krakow, Oslo and Porto and 2 more. Often billed alongside Guiltee, dadan karambolo and Galas. Next up: Hotel Forum, Krakow on Sat 10 Oct.
+Glassz is a techno and electro artist based in Poland, tracked on soundcheck, with 24 sets logged across Berlin, Krakow, Oslo and Poland and 3 more. Often billed alongside Guiltee, dadan karambolo and ABADIR. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
@@ -23,6 +24,6 @@ Glassz is a techno and electro artist based in Poland, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Guiltee, dadan karambolo, Galas
+Guiltee, dadan karambolo, ABADIR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glassz/)*

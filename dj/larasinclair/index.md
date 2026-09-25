@@ -1,6 +1,6 @@
 # Lara Sinclair
 
-Lara Sinclair is a Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
+Lara Sinclair is a Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Mash House, Edinburgh on Fri, 25 Sept 2026.
 
 Lara Sinclair is a bass and jungle artist based in United Kingdom, tracked on soundcheck, with 195 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside ZO3, JI_2001 and Casement. Next up: The Mash House, Edinburgh on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Lara Sinclair is a bass and jungle artist based in United Kingdom, tracked on so
 
 ZO3 (1), JI_2001, Casement
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larasinclair/)*

@@ -1,8 +1,8 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "A.D.S.R w/ Somniac One, Kalopsia, 3SBAT" on Fri, 25 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 18 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "A.D.S.R w/ Somniac One, Kalopsia, 3SBAT" on Fri, 25 Sept 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 3SBAT, ACHIRĀ, Angel Negrin and Autumns and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs, with line-ups including 3SBAT, Aba Shanti-I, ACHIRĀ and Angel Negrin and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs,
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

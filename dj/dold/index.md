@@ -1,6 +1,6 @@
 # Dold
 
-Dold is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OIL Club, Shenzhen on Fri, 2 Oct 2026.
+Dold is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at OIL Club, Shenzhen on Fri, 2 Oct 2026.
 
 Dold is a techno artist based in Sweden, tracked on soundcheck, with 31 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside AMORAL, Ahmet Sisman and Blue Hour. Next up: OIL Club, Shenzhen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dold is a techno artist based in Sweden, tracked on soundcheck, with 31 sets log
 
 AMORAL, Ahmet Sisman, Blue Hour
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*

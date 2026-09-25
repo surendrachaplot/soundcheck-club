@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "LOAD pres Harvy Valencia" on Fri, 25 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "LOAD pres Harvy Valencia" on Fri, 25 Sept 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including ART NO LOGIA, Beste Hira, Chris Avantgarde and Colin Benders and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

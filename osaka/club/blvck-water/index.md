@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AWAKING THE UNKNOWN" on Thu, 24 Sept 2026.
+Blvck Water is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, OC, Frank Rayo, ANKHofLIFE, LIZA, ZAGUN" on Fri, 25 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | AWAKING THE UNKNOWN |  |
 | Fri, 25 Sept 2026 | HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, OC, Frank Rayo, ANKHofLIFE, LIZA, ZAGUN | FENGX2, FUJI TRILL, Frank Rayo, LIZA (6), ZAGUN, 死者蘇生CH |
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
 | Tue, 29 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll | ZAGUN, amor (JP), dyn (JP) |
@@ -20,4 +19,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, wit
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

@@ -1,6 +1,6 @@
 # LUMIINA
 
-LUMIINA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
+LUMIINA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
 
 LUMIINA is a house and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside 13Ø4, Edriff and Jumbled. Next up: Ramona, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LUMIINA is a house and garage artist based in United Kingdom, tracked on soundch
 
 13Ø4, Edriff, Jumbled
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiina/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiina/)*

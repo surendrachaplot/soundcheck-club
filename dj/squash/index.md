@@ -1,6 +1,6 @@
 # Squash
 
-Squash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Loft Studios, London on Fri, 30 Oct 2026.
+Squash is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Loft Studios, London on Fri, 30 Oct 2026.
 
 Squash is a house and techno artist based in Estonia, tracked on soundcheck, with 6 sets logged across Copenhagen, London and Tallinn. Often billed alongside Aldonna, Charch and Gearmaster. Next up: Loft Studios, London on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Squash is a house and techno artist based in Estonia, tracked on soundcheck, wit
 
 Aldonna, Charch, Gearmaster
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/squash/)*

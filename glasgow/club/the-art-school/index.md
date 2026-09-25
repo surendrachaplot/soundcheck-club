@@ -1,14 +1,13 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT" on Thu, 24 Sept 2026.
+The Art School is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "PRTY: SLVL - Glasgow" on Fri, 25 Sept 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRĀ, Bash Man, Bonzai Bonner and Bristol Luke and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including ACHIRĀ, Bash Man, Bristol Luke and Cari Lekebusch and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | NIGHTCLUB FUNDRAISER FOR THE UK AIDS MEMORIAL QUILT | Bonzai Bonner, Colin, Gabor Matty, Junglehussi, Prosumer |
 | Fri, 25 Sept 2026 | PRTY: SLVL - Glasgow | SLVL |
 | Sat, 26 Sept 2026 | ¡SOUNDCLASH!: Hometown Sound System vs Mighty Oak Sound System | Hometown Sound, James Hometown |
 | Thu, 1 Oct 2026 | DUB CLUB: FIRMLY ROOTED SOUND (BRISTOL) & Hometown Sound | Hometown Sound, James Hometown |
@@ -18,9 +17,10 @@ The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming gig
 | Wed, 21 Oct 2026 | PILOT |  |
 | Sat, 24 Oct 2026 | SQIFF 2026 Closing Night Party: Paparazzi |  |
 | Sat, 31 Oct 2026 | Polka Dot Disco Club x Relentless LOCAL: Halloween ᜊ(°-°)ᜊ | Frankie Elyse, Olympe4000 |
+| Sat, 7 Nov 2026 | Glasstattoo  | ACHIRĀ |
 
 ## Address
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

@@ -1,6 +1,6 @@
 # Ciel Downtown
 
-Ciel Downtown is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sirocco Sessions: Golden Hour DC" on Sat, 26 Sept 2026.
+Ciel Downtown is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sirocco Sessions: Golden Hour DC" on Sat, 26 Sept 2026.
 
 Ciel Downtown is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Kice and Violin Girl. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ciel Downtown is a music venue in Washington DC listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Sirocco Sessions: Golden Hour DC | Kice, Violin Girl |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/ciel-downtown/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/ciel-downtown/)*

@@ -1,6 +1,6 @@
 # Laurine
 
-Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
+Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Village Underground, London on Fri, 25 Sept 2026.
 
 Laurine is a house and techno artist based in Germany, tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: Village Underground, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Laurine is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Cecilio, S.Moreira, Jorge Escribano
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurine/)*

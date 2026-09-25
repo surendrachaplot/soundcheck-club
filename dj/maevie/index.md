@@ -1,6 +1,6 @@
 # maevie
 
-maevie is a Trance and IDM artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Yard, Manchester on Sat, 24 Oct 2026.
+maevie is a Trance and IDM artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and Willow J. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ maevie is a trance and idm artist based in United Kingdom, tracked on soundcheck
 
 Lucky Bunny, Princess Elf Bar, Willow J
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maevie/)*

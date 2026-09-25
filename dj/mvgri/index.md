@@ -1,6 +1,6 @@
 # MVGRI
 
-MVGRI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DETROIT CLUB, Barcelona on Sat, 31 Oct 2026.
+MVGRI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at DETROIT CLUB, Barcelona on Sat, 31 Oct 2026.
 
 MVGRI is a techno and industrial artist based in Spain, tracked on soundcheck, with 22 sets logged across Athens, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside ERØXX, Jan Krøw and MdMiret. Next up: DETROIT CLUB, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ MVGRI is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 ERØXX, Jan Krøw, MdMiret
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvgri/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvgri/)*

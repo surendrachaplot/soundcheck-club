@@ -1,6 +1,6 @@
 # YellowHeads
 
-YellowHeads is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Cloud, Berlin on Fri, 9 Oct 2026.
+YellowHeads is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Cloud, Berlin on Fri, 9 Oct 2026.
 
 YellowHeads is a techno and tech house artist based in Spain, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 12 more. Often billed alongside CESAR ALMENA, Spartaque and Alchemiah. Next up: The Cloud, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ YellowHeads is a techno and tech house artist based in Spain, tracked on soundch
 
 CESAR ALMENA, Spartaque, Alchemiah
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowheads/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowheads/)*

@@ -1,6 +1,6 @@
 # Warlock
 
-Warlock is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
+Warlock is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
 
 Warlock is a jungle and breakbeat artist tracked on soundcheck, with 45 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: Spanners, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Warlock is a jungle and breakbeat artist tracked on soundcheck, with 45 sets log
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*

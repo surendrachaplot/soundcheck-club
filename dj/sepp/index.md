@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
+Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BORIS CLUB, Barcelona on Fri, 2 Oct 2026.
 
 Sepp is a minimal and house artist based in Romania, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 30 more. Often billed alongside Nu Zau, Alci and Arapu. Next up: BORIS CLUB, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Sepp is a minimal and house artist based in Romania, tracked on soundcheck, with
 
 Nu Zau, Alci, Arapu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

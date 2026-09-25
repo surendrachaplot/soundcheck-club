@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+The Lady Machine is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 The Lady Machine is a techno and house artist based in Brazil, tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ The Lady Machine is a techno and house artist based in Brazil, tracked on soundc
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

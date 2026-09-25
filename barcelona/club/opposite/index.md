@@ -1,6 +1,6 @@
 # Opposite
 
-Opposite is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "alboroto at Opposite I" on Sat, 26 Sept 2026.
+Opposite is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "alboroto at Opposite I" on Sat, 26 Sept 2026.
 
 Opposite is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Agustin Ficarra, Kebin van Reeken, Milo Passier and Nicholas Van Orton and 2 more. Browse upcoming dates, start times and who's playing. Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona).
 
@@ -16,4 +16,4 @@ Opposite is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, wi
 
 Avd. Francesc Ferrer y Guardia, 13, 08038 (Barcelona), Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opposite/)*

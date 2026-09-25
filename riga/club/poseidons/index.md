@@ -1,6 +1,6 @@
 # Poseidons
 
-Poseidons is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "BOILER BSMNT: FALL EDITION" on Fri, 9 Oct 2026.
+Poseidons is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "BOILER BSMNT: FALL EDITION" on Fri, 9 Oct 2026.
 
 Poseidons is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including ARRISHA, DV8 (LV), MBark and RAWKORED and 2 more. Browse upcoming dates, start times and who's playing. Peldu iela 26-28, Centra rajons, Rīga, LV-1050.
 
@@ -14,4 +14,4 @@ Poseidons is a music venue in Riga listed on soundcheck. 1 upcoming gig, with li
 
 Peldu iela 26-28, Centra rajons, Rīga, LV-1050, Riga
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/poseidons/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/poseidons/)*

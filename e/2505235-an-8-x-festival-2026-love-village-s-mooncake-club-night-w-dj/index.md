@@ -1,0 +1,18 @@
+# AN(8)X festival 2026: Love Village's Mooncake Club Night w DJ LOVE at Lark
+
+AN(8)X festival 2026: Love Village's Mooncake Club Night w DJ LOVE at Lark on Fri 25 Sept, Berlin. 4 artists on the bill: 50JING, B3CKI, Kanucia and kjjabber. Electro and Club. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 25 Sept 2026 |
+| Venue | Lark |
+| City | Berlin |
+
+## Line-up
+
+- 50JING
+- B3CKI
+- Kanucia
+- kjjabber
+
+*Source: [soundcheck](https://soundcheck.club/e/2505235-an-8-x-festival-2026-love-village-s-mooncake-club-night-w-dj/)*

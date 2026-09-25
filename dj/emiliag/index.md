@@ -1,6 +1,6 @@
 # Emilia G
 
-Emilia G is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vespers Club, London on Fri, 16 Oct 2026.
+Emilia G is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Vespers Club, London on Fri, 16 Oct 2026.
 
 Emilia G is an acid and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam and London. Often billed alongside Chess, Joey Fontaine and Shamaya. Next up: Vespers Club, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Emilia G is an acid and house artist based in United Kingdom, tracked on soundch
 
 Chess, Joey Fontaine, Shamaya
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliag/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliag/)*

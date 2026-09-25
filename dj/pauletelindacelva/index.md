@@ -1,6 +1,6 @@
 # Paulete Lindacelva
 
-Paulete Lindacelva is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Paulete Lindacelva is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
 Paulete Lindacelva is a house and disco artist based in Brazil, tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Buenos Aires and Leipzig and 8 more. Often billed alongside Cashu, BADSISTA and Gezender. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Paulete Lindacelva is a house and disco artist based in Brazil, tracked on sound
 
 Cashu, BADSISTA, Gezender
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauletelindacelva/)*

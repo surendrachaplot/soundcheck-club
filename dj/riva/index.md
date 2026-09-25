@@ -1,6 +1,6 @@
 # Riva
 
-Riva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
+Riva is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
 
 Riva is a techno and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Teecra, D.Dan and DJ TOOL. Next up: radial, London on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Riva is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Teecra, D.Dan, DJ TOOL
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riva/)*

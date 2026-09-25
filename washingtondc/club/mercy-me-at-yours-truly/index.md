@@ -1,6 +1,6 @@
 # Mercy Me at Yours Truly
 
-Mercy Me at Yours Truly is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Halloweens Haunted Hotel Party 10/31 at Yours Truly DC" on Sat, 31 Oct 2026.
+Mercy Me at Yours Truly is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Halloweens Haunted Hotel Party 10/31 at Yours Truly DC" on Sat, 31 Oct 2026.
 
 Mercy Me at Yours Truly is a music venue in Washington DC listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1143 New Hampshire ave.
 
@@ -14,4 +14,4 @@ Mercy Me at Yours Truly is a music venue in Washington DC listed on soundcheck. 
 
 1143 New Hampshire ave, Washington DC
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mercy-me-at-yours-truly/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mercy-me-at-yours-truly/)*

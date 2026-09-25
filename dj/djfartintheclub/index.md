@@ -1,6 +1,6 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+DJ Fart in the Club is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 DJ Fart in the Club is a techno and house artist based in South Korea, tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 39 more. Often billed alongside deep creep, Kia (AU) and livwutang. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -17,6 +17,7 @@ DJ Fart in the Club is a techno and house artist based in South Korea, tracked o
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - Ankali & Planeta Za, Prague — Sat, 12 Sept 2026
 - Haus der Visionäre, Berlin — Fri, 11 Sept 2026
 - Gaffe, London — Sat, 5 Sept 2026
@@ -24,10 +25,9 @@ DJ Fart in the Club is a techno and house artist based in South Korea, tracked o
 - arkaoda Berlin, Berlin — Sun, 9 Aug 2026
 - Le Maillon, Strasbourg — Sat, 27 Jun 2026
 - Rukatunturi, Helsinki — Thu, 18 Jun 2026
-- TBA - Strasbourg various venues, Strasbourg — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 deep creep, Kia (AU), livwutang
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

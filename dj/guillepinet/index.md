@@ -1,6 +1,6 @@
 # Guille Pinet
 
-Guille Pinet is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat, 3 Oct 2026.
+Guille Pinet is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat, 3 Oct 2026.
 
 Guille Pinet is a house and minimal techno artist based in Chile, tracked on soundcheck, with 34 sets logged across Barcelona and Berlin. Often billed alongside Misla, Elwei and MarioF. Next up: TBA - Parc de l'Alhambra (Hospitalet), Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Guille Pinet is a house and minimal techno artist based in Chile, tracked on sou
 
 Misla, Elwei, MarioF
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*

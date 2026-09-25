@@ -1,6 +1,6 @@
 # Mish (Aus)
 
-Mish (Aus) is a Hardcore and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Mish (Aus) is a Hardcore and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
 Mish (Aus) is a hardcore and electro artist tracked on soundcheck, with 10 sets logged across Cologne, Glasgow, Hannover and Nantes and 4 more. Often billed alongside Clara Cuvé, Cryex and Da Tweekaz. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mish (Aus) is a hardcore and electro artist tracked on soundcheck, with 10 sets 
 
 Clara Cuvé, Cryex, Da Tweekaz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishaus/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mishaus/)*

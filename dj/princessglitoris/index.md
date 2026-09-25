@@ -1,6 +1,6 @@
 # Princess Glitoris
 
-Princess Glitoris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
+Princess Glitoris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sneaky Pete's, Edinburgh on Mon, 26 Oct 2026.
 
 Princess Glitoris is a techno and house artist based in Ireland, tracked on soundcheck, with 31 sets logged across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: Sneaky Pete's, Edinburgh on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Princess Glitoris is a techno and house artist based in Ireland, tracked on soun
 
 Divergence, HI-KRU, IndeniaL
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princessglitoris/)*

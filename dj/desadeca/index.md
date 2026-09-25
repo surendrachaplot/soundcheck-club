@@ -1,6 +1,6 @@
 # Desa Deca
 
-Desa Deca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Desa Deca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Desa Deca is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Azyr, Coco & Breezy and DJ WIFI. Next up: TBA, Los Angeles on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Desa Deca is a techno and house artist based in United States of America, tracke
 
 Azyr, Coco & Breezy, DJ WIFI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desadeca/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desadeca/)*

@@ -1,6 +1,6 @@
 # WWWβ
 
-WWWβ is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "LAUSBUB pre Far East Research 2" on Sat, 26 Sept 2026.
+WWWβ is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "LAUSBUB pre Far East Research 2" on Sat, 26 Sept 2026.
 
 WWWβ is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including ast midori, MK woop and YAMA(JP/OSK). Browse upcoming dates, start times and who's playing. 13-17 Udagawa Shibuya Tokyo 150-0042 Japan.
 
@@ -16,4 +16,4 @@ WWWβ is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line
 
 13-17 Udagawa Shibuya Tokyo 150-0042 Japan, Tokyo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*

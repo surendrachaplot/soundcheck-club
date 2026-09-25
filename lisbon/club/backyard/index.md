@@ -1,6 +1,6 @@
 # Backyard
 
-Backyard is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Brunch Electronik x Fuse Records: Official Afterparty" on Sat, 26 Sept 2026.
+Backyard is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Brunch Electronik x Fuse Records: Official Afterparty" on Sat, 26 Sept 2026.
 
 Backyard is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Cais da Viscondessa 1200-109, Lisbon.
 
@@ -14,4 +14,4 @@ Backyard is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse
 
 Cais da Viscondessa 1200-109, Lisbon, Lisbon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/backyard/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/backyard/)*

@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Trancemaster Krause all night long" on Fri, 25 Sept 2026.
+Grelle Forelle is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Trancemaster Krause all night long" on Fri, 25 Sept 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including AEND, Afem Syko, Andy Catana and Bambi-S and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -22,4 +22,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

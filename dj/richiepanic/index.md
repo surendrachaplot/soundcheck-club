@@ -1,6 +1,6 @@
 # Richie Panic
 
-Richie Panic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Richie Panic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Richie Panic is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Corey Sizemore, Lights Down Low and James Axon. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Richie Panic is a techno and house artist based in United States of America, tra
 
 Corey Sizemore, Lights Down Low, James Axon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiepanic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiepanic/)*

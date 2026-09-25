@@ -1,6 +1,6 @@
 # Kait Xri
 
-Kait Xri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Solace, Melbourne on Fri, 25 Sept 2026.
+Kait Xri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Solace, Melbourne on Fri, 25 Sept 2026.
 
 Kait Xri is a techno and house artist based in Australia, tracked on soundcheck, with 19 sets logged across Melbourne. Often billed alongside Hasvat Informant, Ari (AU) and ADMINISTRATOR. Next up: Solace, Melbourne on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Kait Xri is a techno and house artist based in Australia, tracked on soundcheck,
 
 Hasvat Informant, Ari (AU), ADMINISTRATOR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitxri/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitxri/)*

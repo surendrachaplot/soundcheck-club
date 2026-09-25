@@ -1,6 +1,6 @@
 # Smelteverket
 
-Smelteverket is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Smelt. invites TRANSCEND // Day Party" on Sat, 26 Sept 2026.
+Smelteverket is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Smelt. invites TRANSCEND // Day Party" on Sat, 26 Sept 2026.
 
 Smelteverket is a music venue in Oslo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Vulkan 5, 0182 Oslo.
 
@@ -14,4 +14,4 @@ Smelteverket is a music venue in Oslo listed on soundcheck. 1 upcoming gig. Brow
 
 Vulkan 5, 0182 Oslo, Oslo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/smelteverket/)*

@@ -1,6 +1,6 @@
 # Jino K
 
-Jino K is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
+Jino K is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
 
 Jino K is a house and dub techno artist tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Racil, Othman and Bezze Barra. Next up: TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jino K is a house and dub techno artist tracked on soundcheck, with 20 sets logg
 
 Racil, Othman, Bezze Barra
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinok/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jinok/)*

@@ -1,6 +1,6 @@
 # The Black Dog
 
-The Black Dog is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+The Black Dog is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 The Black Dog is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Chicago, London and Manchester and 2 more. Often billed alongside 96 Back, Big Ang and Charla Green. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ The Black Dog is a techno and ambient artist based in United Kingdom, tracked on
 
 96 Back, Big Ang, Charla Green
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*

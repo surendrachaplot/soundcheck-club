@@ -1,6 +1,6 @@
 # Hall
 
-Hall is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB" on Sat, 17 Oct 2026.
+Hall is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB" on Sat, 17 Oct 2026.
 
 Hall is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including RENGO. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
@@ -14,4 +14,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

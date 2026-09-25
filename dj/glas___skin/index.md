@@ -1,6 +1,6 @@
 # glas___skin
 
-glas___skin is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
+glas___skin is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
 
 glas___skin is an experimental and idm artist tracked on soundcheck, with 16 sets logged across Bristol, Budapest and London. Often billed alongside Naramnesia, overshine and Ship Sket. Next up: The Greyhound, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ glas___skin is an experimental and idm artist tracked on soundcheck, with 16 set
 
 Naramnesia, overshine, Ship Sket
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glas___skin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glas___skin/)*

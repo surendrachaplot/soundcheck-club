@@ -1,6 +1,6 @@
 # Slak
 
-Slak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Urban Spree, Berlin on Fri, 30 Oct 2026.
+Slak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Urban Spree, Berlin on Fri, 30 Oct 2026.
 
 Slak is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Milan. Often billed alongside Stephanie Sykes, Angioma and Esther Dune. Next up: Urban Spree, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Slak is a techno and house artist tracked on soundcheck, with 20 sets logged acr
 
 Stephanie Sykes, Angioma, Esther Dune
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slak-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slak-2/)*

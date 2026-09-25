@@ -1,6 +1,6 @@
 # Chickie
 
-Chickie is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
+Chickie is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
 
 Chickie is an electronica and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside FETCH*, Karpo and Call of the Void. Next up: Ballroom at Palais, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Chickie is an electronica and techno artist based in United Kingdom, tracked on 
 
 FETCH*, Karpo, Call of the Void
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chickie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chickie/)*

@@ -1,6 +1,6 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+Map.ache is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
 Map.ache is a house and techno artist based in Germany, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Map.ache is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/map.ache/)*

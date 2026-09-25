@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Voltage Control Amsterdam" on Sun, 27 Sept 2026.
+Paradiso is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Voltage Control Amsterdam" on Sun, 27 Sept 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including AAT (NL), Alberta Balsam, Because of Art and DJ Snake and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, w
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

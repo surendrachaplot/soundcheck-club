@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
+Beste Hira is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Gewölbe, Cologne on Fri, 25 Sept 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: Gewölbe, Cologne on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Beste Hira is a techno and house artist based in Netherlands, tracked on soundch
 
 Rødhåd, Freddy K, Lobster (NL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

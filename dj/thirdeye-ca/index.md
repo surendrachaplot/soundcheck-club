@@ -1,6 +1,6 @@
 # THIRDEYE
 
-THIRDEYE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Toronto on Sat, 26 Sept 2026.
+THIRDEYE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Toronto on Sat, 26 Sept 2026.
 
 THIRDEYE is a house and tech house artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Sophie Jones, Manzone & Strong and Cozmic Cat. Next up: TBA, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ THIRDEYE is a house and tech house artist based in Canada, tracked on soundcheck
 
 Sophie Jones, Manzone & Strong, Cozmic Cat
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdeye-ca/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdeye-ca/)*

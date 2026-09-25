@@ -1,6 +1,6 @@
 # Keefy G
 
-Keefy G is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TESTBED, Leeds on Sat, 31 Oct 2026.
+Keefy G is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TESTBED, Leeds on Sat, 31 Oct 2026.
 
 Keefy G is a house and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 5 more. Often billed alongside Dungeon Meat, Georgia Girl and Tristan da Cunha. Next up: TESTBED, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Keefy G is a house and garage artist based in United Kingdom, tracked on soundch
 
 Dungeon Meat, Georgia Girl, Tristan da Cunha
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keefyg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keefyg/)*

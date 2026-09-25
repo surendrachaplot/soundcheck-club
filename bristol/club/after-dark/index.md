@@ -1,6 +1,6 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Drive Bristol" on Fri, 2 Oct 2026.
+After Dark is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Drive Bristol" on Fri, 2 Oct 2026.
 
 After Dark is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Dressed To Sweat, Hayliegh and Ruggz. Browse upcoming dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
@@ -15,4 +15,4 @@ After Dark is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, wi
 
 Crusader House, 12 St Stephen's St, Bristol BS1 1EL, Bristol
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*

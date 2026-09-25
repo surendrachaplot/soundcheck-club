@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Depth Perception" on Fri, 25 Sept 2026.
+Cosies is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Depth Perception" on Fri, 25 Sept 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Jay Galligan, Owain K and Zobol. Browse upcoming dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -15,4 +15,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with l
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

@@ -1,6 +1,6 @@
 # Emma Valtonen
 
-Emma Valtonen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
+Emma Valtonen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
 Emma Valtonen is a techno and house artist based in Finland, tracked on soundcheck, with 47 sets logged across Finland and Helsinki. Often billed alongside Suski, Kaspiann and Kristiina Männikkö. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Emma Valtonen is a techno and house artist based in Finland, tracked on soundche
 
 Suski, Kaspiann, Kristiina Männikkö
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmavaltonen-fi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmavaltonen-fi/)*

@@ -1,6 +1,6 @@
 # Heimlich Maneuver
 
-Heimlich Maneuver is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Heimlich Maneuver is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 Heimlich Maneuver is a house and club artist tracked on soundcheck, with 39 sets logged across Berlin, Hamburg, Prague and Vienna. Often billed alongside Monti1one, donna silverstein and raduga. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Heimlich Maneuver is a house and club artist tracked on soundcheck, with 39 sets
 
 Monti1one, donna silverstein, raduga
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichmaneuver/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heimlichmaneuver/)*

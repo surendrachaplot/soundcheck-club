@@ -1,14 +1,13 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells" on Thu, 24 Sept 2026.
+Beursschouwburg is a music venue in Brussels with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Futura Resistenza w/ De Kloe + Venus Tropicaux + Fanny Alizée + Sheree & Bob" on Sat, 26 Sept 2026.
 
-Beursschouwburg is a music venue in Brussels listed on soundcheck. 10 upcoming gigs, with line-ups including Carmilla Sioux, Cinna Peyghamy, DJ Bisou and Dj LovePills and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
+Beursschouwburg is a music venue in Brussels listed on soundcheck. 9 upcoming gigs, with line-ups including Carmilla Sioux, DJ Bisou, Dj LovePills and DONIA and 2 more. Browse upcoming dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Music on a whim presents Folk Futures w/ Sarathy Korwar & Cinna Peyghamy + Monopoly of Bells | Cinna Peyghamy |
 | Sat, 26 Sept 2026 | Futura Resistenza w/ De Kloe + Venus Tropicaux + Fanny Alizée + Sheree & Bob |  |
 | Wed, 30 Sept 2026 | SLAGADER | Slagader |
 | Fri, 9 Oct 2026 | Radio Hito + Suzan Peeters | Radio Hito |
@@ -23,4 +22,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 10 upcoming g
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

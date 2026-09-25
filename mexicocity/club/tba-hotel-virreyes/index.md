@@ -1,6 +1,6 @@
 # TBA - Hotel Virreyes
 
-TBA - Hotel Virreyes is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Raro Club Halloween (Hotel edition)" on Sat, 17 Oct 2026.
+TBA - Hotel Virreyes is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Raro Club Halloween (Hotel edition)" on Sat, 17 Oct 2026.
 
 TBA - Hotel Virreyes is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Hotel Virreyes is a music venue in Mexico City listed on soundcheck. 2 upc
 | Sat, 17 Oct 2026 | Raro Club Halloween (Hotel edition) |  |
 | Sat, 17 Oct 2026 | Halloween Hotel Edition |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-hotel-virreyes/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-hotel-virreyes/)*

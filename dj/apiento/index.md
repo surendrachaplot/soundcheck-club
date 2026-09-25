@@ -1,6 +1,6 @@
 # Apiento
 
-Apiento is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
+Apiento is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 27 Sept 2026.
 
 Apiento is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Athens, Belfast, Berlin and Liverpool and 7 more. Often billed alongside Alex Kassian, Sofie K and Fantastic Man. Next up: Sunday Sunday, Mexico City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Apiento is a house and balearic artist based in United Kingdom, tracked on sound
 
 Alex Kassian, Sofie K, Fantastic Man
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*

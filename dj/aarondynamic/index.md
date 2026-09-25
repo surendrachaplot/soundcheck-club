@@ -1,6 +1,6 @@
 # Aaron Dynamic
 
-Aaron Dynamic is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Movers, Nottingham on Sat, 10 Oct 2026.
+Aaron Dynamic is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Movers, Nottingham on Sat, 10 Oct 2026.
 
 Aaron Dynamic is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across London, Nottingham and Sheffield. Often billed alongside Wow & Flutter, Chapel Walk and Hames. Next up: Movers, Nottingham on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Aaron Dynamic is an electro and techno artist based in United Kingdom, tracked o
 
 Wow & Flutter, Chapel Walk, Hames
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondynamic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondynamic/)*

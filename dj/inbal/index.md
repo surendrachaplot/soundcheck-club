@@ -1,6 +1,6 @@
 # Inbal
 
-Inbal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Inbal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Inbal is a house and disco artist based in United States of America, tracked on soundcheck, with 53 sets logged across Austin, Berlin, Detroit and Ibiza and 5 more. Often billed alongside Rimaye, Terence Tabeau and Will Renuart. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Inbal is a house and disco artist based in United States of America, tracked on 
 
 Rimaye, Terence Tabeau, Will Renuart
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inbal/)*

@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Ashley Henry - Freight Brixton presents: Soul of the South" on Thu, 24 Sept 2026.
+Freight Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Ashley Henry - Freight Brixton presents: Soul of the South" on Thu, 24 Sept 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including CHÉ WAX, ELSA (UK), Marvin Humes and Mixolis and 1 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -22,4 +22,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

@@ -1,6 +1,6 @@
 # Kill Them With Colour
 
-Kill Them With Colour is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Soluna, Toronto on Fri, 25 Sept 2026.
+Kill Them With Colour is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Soluna, Toronto on Fri, 25 Sept 2026.
 
 Kill Them With Colour is an afro house and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Ibiza, Mexico City and Toronto. Often billed alongside Videri, Afrique Like Me and BACKUP DJ. Next up: Soluna, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kill Them With Colour is an afro house and house artist based in Canada, tracked
 
 Videri, Afrique Like Me, BACKUP DJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthemwithcolour/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthemwithcolour/)*

@@ -1,6 +1,6 @@
 # TEEMON&POOMBA
 
-TEEMON&POOMBA is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at High Club Room, Madrid on Sat, 10 Oct 2026.
+TEEMON&POOMBA is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at High Club Room, Madrid on Sat, 10 Oct 2026.
 
 TEEMON&POOMBA is an electronica and house artist based in Spain, tracked on soundcheck, with 57 sets logged across Amsterdam and Madrid. Often billed alongside PAULA ZAPY, ISAAC ARGA and David Ponziano. Next up: High Club Room, Madrid on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ TEEMON&POOMBA is an electronica and house artist based in Spain, tracked on soun
 
 PAULA ZAPY, ISAAC ARGA, David Ponziano
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teemonpoomba/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teemonpoomba/)*

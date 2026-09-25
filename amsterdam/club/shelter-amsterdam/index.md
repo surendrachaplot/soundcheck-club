@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 26 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "10SERIES by Shelter - Hidde van Wee (all night long)" on Fri, 25 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 26 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "10SERIES by Shelter - Hidde van Wee (all night long)" on Fri, 25 Sept 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 26 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 26 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

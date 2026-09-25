@@ -1,6 +1,6 @@
 # illgal
 
-illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at underiolo, Warsaw on Fri, 6 Nov 2026.
+illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at underiolo, Warsaw on Fri, 6 Nov 2026.
 
 illgal is a bass and breakbeat artist based in Georgia, tracked on soundcheck, with 35 sets logged across Berlin, Tbilisi and Warsaw. Often billed alongside faron, iffi and Hermeneia. Next up: underiolo, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ illgal is a bass and breakbeat artist based in Georgia, tracked on soundcheck, w
 
 faron, iffi, Hermeneia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*

@@ -1,6 +1,6 @@
 # Lila Kova
 
-Lila Kova is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Void Club, Berlin on Fri, 30 Oct 2026.
+Lila Kova is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Void Club, Berlin on Fri, 30 Oct 2026.
 
 Lila Kova is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin, Los Angeles and San Diego. Often billed alongside DJ IDeaL, AKONA and Albina Van. Next up: Void Club, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Lila Kova is a techno and house artist based in United States of America, tracke
 
 DJ IDeaL, AKONA, Albina Van
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilakova/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilakova/)*

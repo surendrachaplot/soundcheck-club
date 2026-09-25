@@ -1,6 +1,6 @@
 # Elpawel
 
-Elpawel is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Prince Charles, Berlin on Sat, 3 Oct 2026.
+Elpawel is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Prince Charles, Berlin on Sat, 3 Oct 2026.
 
 Elpawel is a house and hip-hop artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Munich and Vienna. Often billed alongside Inu G, Jeyrototo and Benjamin Roeder. Next up: Prince Charles, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Elpawel is a house and hip-hop artist based in Germany, tracked on soundcheck, w
 
 Inu G, Jeyrototo, Benjamin Roeder
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elpawel/)*

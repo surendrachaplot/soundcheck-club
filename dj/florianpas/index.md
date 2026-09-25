@@ -1,6 +1,6 @@
 # Florian Pas
 
-Florian Pas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+Florian Pas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 Florian Pas is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Glasgow. Often billed alongside M A R, CC:NIELOS and Johænsson. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Florian Pas is a house and techno artist based in Germany, tracked on soundcheck
 
 M A R, CC:NIELOS, Johænsson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*

@@ -1,18 +1,18 @@
 # ANABELEN
 
-ANABELEN is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mad Radio Miami, Miami on Thu, 24 Sept 2026.
+ANABELEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-ANABELEN is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami. Often billed alongside Lou Flores, Mai iachetti and VIDEOBOY. Next up: Mad Radio Miami, Miami on Thu 24 Sept.
+ANABELEN is a house and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami. Often billed alongside Lou Flores, Mai iachetti and VIDEOBOY. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Mad Radio Miami | Miami |
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 
 ## Recently played
 
+- Mad Radio Miami, Miami — Thu, 24 Sept 2026
 - Mad Radio Miami, Miami — Sun, 6 Sept 2026
 - Mad Radio Miami, Miami — Fri, 14 Aug 2026
 - Mad Radio Miami, Miami — Fri, 17 Jul 2026
@@ -23,4 +23,4 @@ ANABELEN is a house and tech house artist based in United States of America, tra
 
 Lou Flores, Mai iachetti, VIDEOBOY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelen/)*

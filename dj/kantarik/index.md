@@ -1,6 +1,6 @@
 # Kantarik
 
-Kantarik is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Supermarket, Zurich on Sat, 3 Oct 2026.
+Kantarik is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Supermarket, Zurich on Sat, 3 Oct 2026.
 
 Kantarik is a tech house and house artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Zurich. Often billed alongside Lou Combo, Alex Kennon and And Hazel. Next up: Supermarket, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kantarik is a tech house and house artist based in Switzerland, tracked on sound
 
 Lou Combo, Alex Kennon, And Hazel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kantarik/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kantarik/)*

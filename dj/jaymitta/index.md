@@ -1,6 +1,6 @@
 # Jay Mitta
 
-Jay Mitta is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Jay Mitta is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
 Jay Mitta is an experimental and electronica artist based in Tanzania, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Catu Diosis, Crystallmess and Kampire. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Jay Mitta is an experimental and electronica artist based in Tanzania, tracked o
 
 Catu Diosis, Crystallmess, Kampire
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaymitta/)*

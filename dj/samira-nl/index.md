@@ -1,6 +1,6 @@
 # Samira (NL)
 
-Samira (NL) is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at LAUT, Barcelona on Sat, 3 Oct 2026.
+Samira (NL) is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at LAUT, Barcelona on Sat, 3 Oct 2026.
 
 Samira (NL) is a bass and electro artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Rotterdam and 3 more. Often billed alongside Mowgli (NL), Ofra and Gamma Intel. Next up: LAUT, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Samira (NL) is a bass and electro artist based in Netherlands, tracked on soundc
 
 Mowgli (NL), Ofra, Gamma Intel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samira-nl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samira-nl/)*

@@ -1,6 +1,6 @@
 # Rachel Noon
 
-Rachel Noon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
+Rachel Noon is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at H0L0, New York City on Sat, 26 Sept 2026.
 
 Rachel Noon is a techno and house artist based in United States of America, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside BASHKKA, Rakans and Mohajer. Next up: H0L0, New York City on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Rachel Noon is a techno and house artist based in United States of America, trac
 
 BASHKKA, Rakans, Mohajer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelnoon/)*

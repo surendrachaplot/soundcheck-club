@@ -1,6 +1,6 @@
 # The Shamrock Bar & Basement
 
-The Shamrock Bar & Basement is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "FUN FUN con Djs Pareja all night long" on Sat, 3 Oct 2026.
+The Shamrock Bar & Basement is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "FUN FUN con Djs Pareja all night long" on Sat, 3 Oct 2026.
 
 The Shamrock Bar & Basement is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Djs Pareja. Browse upcoming dates, start times and who's playing. Rodríguez Peña 1220, C1021ABA CABA, Argentina.
 
@@ -14,4 +14,4 @@ The Shamrock Bar & Basement is a music venue in Buenos Aires listed on soundchec
 
 Rodríguez Peña 1220, C1021ABA CABA, Argentina, Buenos Aires
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-shamrock-bar-basement/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-shamrock-bar-basement/)*

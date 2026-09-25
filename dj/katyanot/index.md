@@ -1,6 +1,6 @@
 # Katyanot
 
-Katyanot is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sabagiro, Tbilisi on Sat, 26 Sept 2026.
+Katyanot is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sabagiro, Tbilisi on Sat, 26 Sept 2026.
 
 Katyanot is an electronic artist based in Georgia, tracked on soundcheck, with 14 sets logged across Tbilisi. Often billed alongside Bero, Gio Shengelia and Giorgi Devadze. Next up: Sabagiro, Tbilisi on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Katyanot is an electronic artist based in Georgia, tracked on soundcheck, with 1
 
 Bero, Gio Shengelia, Giorgi Devadze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*

@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 17 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents" on Sat, 26 Sept 2026.
+Freeze HiFi is a music venue in Liverpool with 17 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Freeze HiFi Saturday Nights - Ian Longo Classic House Vinyl Set plus Residents" on Sat, 26 Sept 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs, with line-ups including Beechy, Fairhurst, Graeme Park and K-Klass and 2 more. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -23,4 +23,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 17 upcoming gigs
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

@@ -1,6 +1,6 @@
 # Biz (AU)
 
-Biz (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Compufunk Records, Osaka on Fri, 16 Oct 2026.
+Biz (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Compufunk Records, Osaka on Fri, 16 Oct 2026.
 
 Biz (AU) is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin, Osaka, Sydney and Tokyo. Often billed alongside DJ Compufunk, Drox and Anomie. Next up: Compufunk Records, Osaka on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Biz (AU) is a techno and house artist tracked on soundcheck, with 8 sets logged 
 
 DJ Compufunk, Drox, Anomie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biz-au/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biz-au/)*

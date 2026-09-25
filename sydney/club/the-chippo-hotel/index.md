@@ -1,6 +1,6 @@
 # The Chippo Hotel
 
-The Chippo Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Bassface: Aftershock" on Sat, 26 Sept 2026.
+The Chippo Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Bassface: Aftershock" on Sat, 26 Sept 2026.
 
 The Chippo Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Jamie Ardor. Browse upcoming dates, start times and who's playing. 87-91 Abercrombie Street, Chippendale NSW 2008, Australia.
 
@@ -14,4 +14,4 @@ The Chippo Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig
 
 87-91 Abercrombie Street, Chippendale NSW 2008, Australia, Sydney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-chippo-hotel/)*

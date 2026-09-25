@@ -1,6 +1,6 @@
 # John O'Callaghan
 
-John O'Callaghan is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+John O'Callaghan is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 John O'Callaghan is a trance and techno artist based in Ireland, tracked on soundcheck, with 33 sets logged across Bangkok, Bristol, Buenos Aires and Chicago and 15 more. Often billed alongside Aly & Fila, Paul Van Dyk and Ferry Corsten. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ John O'Callaghan is a trance and techno artist based in Ireland, tracked on soun
 
 Aly & Fila, Paul Van Dyk, Ferry Corsten
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnocallaghan/)*

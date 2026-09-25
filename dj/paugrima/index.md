@@ -1,6 +1,6 @@
 # Pau Grima
 
-Pau Grima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Pau Grima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
 Pau Grima is a house and techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Amsterdam and Barcelona. Often billed alongside Vikki, Nesi and DJ Playero. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Pau Grima is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 Vikki, Nesi, DJ Playero
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paugrima/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paugrima/)*

@@ -1,6 +1,6 @@
 # zikade
 
-zikade is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
+zikade is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
 zikade is a techno and electro artist based in Germany, tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Madrid and Prague and 1 more. Often billed alongside DJ BONEY S, CHRISPY and ilbroccolovolante. Next up: Fuchs2, Prague on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ zikade is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 DJ BONEY S, CHRISPY, ilbroccolovolante
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zikade/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zikade/)*

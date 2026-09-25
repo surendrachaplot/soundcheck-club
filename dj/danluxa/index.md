@@ -1,6 +1,6 @@
 # Dan Luxa
 
-Dan Luxa is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 77, London on Fri, 25 Sept 2026.
+Dan Luxa is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 77, London on Fri, 25 Sept 2026.
 
 Dan Luxa is a house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Hakz, KEMADA and Ned Spencer. Next up: 77, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dan Luxa is a house artist based in United Kingdom, tracked on soundcheck, with 
 
 Hakz, KEMADA, Ned Spencer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danluxa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danluxa/)*

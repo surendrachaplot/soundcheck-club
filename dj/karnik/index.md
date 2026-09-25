@@ -1,18 +1,18 @@
 # KARNIK
 
-KARNIK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MODULE, Copenhagen on Thu, 24 Sept 2026.
+KARNIK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at MODULE, Copenhagen on Fri, 25 Sept 2026.
 
-KARNIK is a techno and house artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside Baime, ASTA MARI and Emma Sø. Next up: MODULE, Copenhagen on Thu 24 Sept.
+KARNIK is a techno and house artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside Baime, ASTA MARI and Emma Sø. Next up: MODULE, Copenhagen on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | MODULE | Copenhagen |
 | Fri, 25 Sept 2026 | MODULE | Copenhagen |
 
 ## Recently played
 
+- MODULE, Copenhagen — Thu, 24 Sept 2026
 - MODULE, Copenhagen — Fri, 24 Jul 2026
 - MODULE, Copenhagen — Thu, 23 Apr 2026
 - MODULE, Copenhagen — Thu, 12 Feb 2026
@@ -20,10 +20,9 @@ KARNIK is a techno and house artist based in Denmark, tracked on soundcheck, wit
 - MODULE, Copenhagen — Thu, 1 Jan 2026
 - Chateau Motel, Copenhagen — Mon, 22 Dec 2025
 - MODULE, Copenhagen — Thu, 7 Aug 2025
-- MODULE, Copenhagen — Thu, 24 Jul 2025
 
 ## Shares bills with
 
 Baime, ASTA MARI, Emma Sø
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karnik/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karnik/)*

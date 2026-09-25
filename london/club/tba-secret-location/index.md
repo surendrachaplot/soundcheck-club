@@ -1,8 +1,8 @@
-# TBA - (Secret Location)
+# TBA - Secret Location
 
-TBA - (Secret Location) is a music venue in London with 48 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "INDUSTRIAL ALLIANCE" on Fri, 25 Sept 2026.
+TBA - Secret Location is a music venue in London with 48 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "INDUSTRIAL ALLIANCE" on Fri, 25 Sept 2026.
 
-TBA - (Secret Location) is a music venue in London listed on soundcheck. 48 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 48 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA - (Secret Location) is a music venue in London listed on soundcheck. 48 upco
 | Sat, 26 Sept 2026 | COSMIC CODE INVITES Aliens TO SECRET RAVE | Jonny Lust, Omi on Acid, Sylvie Maziarz |
 | Sat, 26 Sept 2026 | High Grade Club Secret Party |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

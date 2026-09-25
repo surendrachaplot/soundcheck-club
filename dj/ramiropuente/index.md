@@ -1,6 +1,6 @@
 # Ramiro Puente
 
-Ramiro Puente is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Oriente, Mexico City on Fri, 25 Sept 2026.
+Ramiro Puente is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Oriente, Mexico City on Fri, 25 Sept 2026.
 
 Ramiro Puente is a techno and trance artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexico City. Often billed alongside AAAA, Alan Palacios and Ursula Prawn. Next up: Bar Oriente, Mexico City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ramiro Puente is a techno and trance artist based in Mexico, tracked on soundche
 
 AAAA, Alan Palacios, Ursula Prawn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiropuente/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiropuente/)*

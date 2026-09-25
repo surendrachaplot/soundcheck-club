@@ -1,6 +1,6 @@
 # Ayana Pattra
 
-Ayana Pattra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
+Ayana Pattra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
 
 Ayana Pattra is a techno and house artist based in Japan, tracked on soundcheck, with 34 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Shun Kurashima and MOTOKA. Next up: Aoyama Hachi, Tokyo on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Ayana Pattra is a techno and house artist based in Japan, tracked on soundcheck,
 
 SIGNAL (JP), Shun Kurashima, MOTOKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*

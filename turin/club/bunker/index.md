@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Shine On You Opening Party" on Sun, 27 Sept 2026.
+Bunker is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Shine On You Opening Party" on Sun, 27 Sept 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Alexander Skancke, ANNĒ, BLACK CROW and Daniele Baldelli and 2 more. Browse upcoming dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -21,4 +21,4 @@ Bunker is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

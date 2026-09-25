@@ -1,6 +1,6 @@
 # Tida Kamara
 
-Tida Kamara is a Dancehall and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
+Tida Kamara is a Dancehall and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Skatecafe, Amsterdam on Fri, 9 Oct 2026.
 
 Tida Kamara is a dancehall and latin bass artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 4 more. Often billed alongside BELLA (NL), TINS and Kurashi Soundsystem. Next up: Skatecafe, Amsterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Tida Kamara is a dancehall and latin bass artist based in Netherlands, tracked o
 
 BELLA (NL), TINS, Kurashi Soundsystem
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tidakamara/)*

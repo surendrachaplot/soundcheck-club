@@ -1,6 +1,6 @@
 # Mckr
 
-Mckr is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Stolen Money Pressure Drop" on Fri, 25 Sept 2026.
+Mckr is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Stolen Money Pressure Drop" on Fri, 25 Sept 2026.
 
 Mckr is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including mp.ulle and Scherbert. Browse upcoming dates, start times and who's playing. Mockau.
 
@@ -14,4 +14,4 @@ Mckr is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line
 
 Mockau, Leipzig
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/mckr/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/mckr/)*

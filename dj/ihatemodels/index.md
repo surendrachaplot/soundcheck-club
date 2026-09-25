@@ -1,8 +1,8 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+I Hate Models is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-I Hate Models is a techno and house artist based in France, tracked on soundcheck, with 276 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 73 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+I Hate Models is a techno and house artist based in France, tracked on soundcheck, with 277 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, tracked on soundchec
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

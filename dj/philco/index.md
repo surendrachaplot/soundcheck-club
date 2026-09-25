@@ -1,6 +1,6 @@
 # Philco
 
-Philco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
+Philco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Philco is a house and tech house artist based in United States of America, tracked on soundcheck, with 28 sets logged across San Francisco/Oakland and Washington DC. Often billed alongside Louiv, Combover and zacky. Next up: Underground SF, San Francisco/Oakland on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Philco is a house and tech house artist based in United States of America, track
 
 Louiv, Combover, zacky
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philco/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philco/)*

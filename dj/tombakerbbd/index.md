@@ -1,6 +1,6 @@
 # Tom Baker (AU)
 
-Tom Baker (AU) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Tom Baker (AU) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
 
 Tom Baker (AU) is a techno and psytrance artist based in Australia, tracked on soundcheck, with 8 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Doppel, Andy Garvey and Dylan Griffin. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Tom Baker (AU) is a techno and psytrance artist based in Australia, tracked on s
 
 Doppel, Andy Garvey, Dylan Griffin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakerbbd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombakerbbd/)*

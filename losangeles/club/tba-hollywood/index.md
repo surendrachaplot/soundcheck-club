@@ -1,6 +1,6 @@
 # TBA - Hollywood
 
-TBA - Hollywood is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Trans*cendent x T4TWrestling" on Fri, 2 Oct 2026.
+TBA - Hollywood is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Trans*cendent x T4TWrestling" on Fri, 2 Oct 2026.
 
 TBA - Hollywood is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Ava Blank and Eva Myra May. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Hollywood is a music venue in Los Angeles listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Trans*cendent x T4TWrestling | Ava Blank, Eva Myra May |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-hollywood/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-hollywood/)*

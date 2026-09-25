@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
+Aashofteh is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
 
 Aashofteh is a tech house and downtempo artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Miscmeg, ATARANGI and D-Grade. Next up: Miscellania, Melbourne on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Aashofteh is a tech house and downtempo artist based in Australia, tracked on so
 
 Miscmeg, ATARANGI, D-Grade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

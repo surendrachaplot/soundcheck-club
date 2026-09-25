@@ -1,6 +1,6 @@
 # Kat_Es
 
-Kat_Es is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
+Kat_Es is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
 
 Kat_Es is a house and disco artist based in Poland, tracked on soundcheck, with 45 sets logged across Berlin and Leipzig. Often billed alongside La Terrasse, Eva Crystaltips and Lobo (DE). Next up: Beate Uwe, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Kat_Es is a house and disco artist based in Poland, tracked on soundcheck, with 
 
 La Terrasse, Eva Crystaltips, Lobo (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kat_es/)*

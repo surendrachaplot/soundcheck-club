@@ -1,6 +1,6 @@
 # Origin8a & Propa
 
-Origin8a & Propa is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+Origin8a & Propa is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
 Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, tracked on soundcheck, with 5 sets logged across Brighton, Bristol and Newcastle. Often billed alongside Hypershe, DJ Hybrid and 4am Kru. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Origin8a & Propa are a jungle and drum & bass duo based in United Kingdom, track
 
 Hypershe, DJ Hybrid, 4am Kru
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/origin8apropa/)*

@@ -1,6 +1,6 @@
 # Jenn Hession
 
-Jenn Hession is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wigwam, Dublin on Fri, 6 Nov 2026.
+Jenn Hession is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
 Jenn Hession is a house and techno artist based in Ireland, tracked on soundcheck, with 32 sets logged across Dublin and London. Often billed alongside Culchee, Surferboy and eskay. Next up: Wigwam, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jenn Hession is a house and techno artist based in Ireland, tracked on soundchec
 
 Culchee, Surferboy, eskay
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*

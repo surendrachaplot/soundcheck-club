@@ -1,6 +1,6 @@
 # BOUM MARSEILLE
 
-BOUM MARSEILLE is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BOUM POP" on Fri, 2 Oct 2026.
+BOUM MARSEILLE is a music venue in Marseille with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BOUM POP" on Fri, 2 Oct 2026.
 
 BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 21 rue André Poggioli, 13006 Marseille.
 
@@ -15,4 +15,4 @@ BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 2 upcoming gi
 
 21 rue André Poggioli, 13006 Marseille, Marseille
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*

@@ -1,6 +1,6 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Neffa-T is a Bass and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Neffa-T is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 174 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 43 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Neffa-T is a bass and techno artist based in United Kingdom, tracked on soundche
 
 Flowdan, Jay Carder, Main Phase
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neffa-t/)*

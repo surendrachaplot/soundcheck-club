@@ -1,6 +1,6 @@
 # Melbo
 
-Melbo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Melbo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Melbo is a techno and electro artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Falke, Surreal (DE) and Le.Fu. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Melbo is a techno and electro artist based in Germany, tracked on soundcheck, wi
 
 Falke, Surreal (DE), Le.Fu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melbo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melbo/)*

@@ -1,6 +1,6 @@
 # Lucas Kid
 
-Lucas Kid is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
+Lucas Kid is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
 
 Lucas Kid is a baile funk and house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Barcelona, Brussels, Mexico City and Rotterdam and 1 more. Often billed alongside JCVS, Kontronatura and AmadoPeace. Next up: TBA, Sao Paulo on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Lucas Kid is a baile funk and house artist based in Brazil, tracked on soundchec
 
 JCVS, Kontronatura, AmadoPeace
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaskid/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaskid/)*

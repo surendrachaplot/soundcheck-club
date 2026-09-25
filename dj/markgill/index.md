@@ -1,6 +1,6 @@
 # Mark Gill
 
-Mark Gill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
+Mark Gill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
 
 Mark Gill is a house and techno artist based in Ireland, tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Tania Just, Murrin and Big Leg. Next up: TBA - Secret Venue, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Mark Gill is a house and techno artist based in Ireland, tracked on soundcheck, 
 
 Tania Just, Murrin, Big Leg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*

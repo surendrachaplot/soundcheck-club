@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
+Terence Tabeau is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Zoko Collective, Miami on Sat, 26 Sept 2026.
 
 Terence Tabeau is a house and disco artist based in United States of America, tracked on soundcheck, with 58 sets logged across Austin, Miami, Osaka and Tokyo. Often billed alongside Artime, Will Renuart and Danny Daze. Next up: Zoko Collective, Miami on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Terence Tabeau is a house and disco artist based in United States of America, tr
 
 Artime, Will Renuart, Danny Daze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

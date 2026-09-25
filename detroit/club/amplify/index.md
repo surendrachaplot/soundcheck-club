@@ -1,6 +1,6 @@
 # Amplify
 
-Amplify is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Amplify Grand Opening" on Wed, 25 Nov 2026.
+Amplify is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Amplify Grand Opening" on Wed, 25 Nov 2026.
 
 Amplify is a music venue in Detroit listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Amplify is a music venue in Detroit listed on soundcheck. 1 upcoming gig. Browse
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | Amplify Grand Opening |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/amplify/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/amplify/)*

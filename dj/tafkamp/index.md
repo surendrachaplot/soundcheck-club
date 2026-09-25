@@ -1,6 +1,6 @@
 # TAFKAMP
 
-TAFKAMP is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
+TAFKAMP is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
 TAFKAMP is a techno and house artist based in Netherlands, tracked on soundcheck, with 85 sets logged across Amsterdam, Belfast, Berlin and Brussels and 18 more. Often billed alongside Bastienne, Grace Dahl and Deniro. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ TAFKAMP is a techno and house artist based in Netherlands, tracked on soundcheck
 
 Bastienne, Grace Dahl, Deniro
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*

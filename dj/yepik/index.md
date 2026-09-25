@@ -1,18 +1,18 @@
 # YEPIK
 
-YEPIK is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+YEPIK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
-YEPIK is a house and tech house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, Artur Bredo and ZARE. Next up: Park Café München, Munich on Thu 24 Sept.
+YEPIK is a house and tech house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, Artur Bredo and ZARE. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Park Café München | Munich |
 | Fri, 23 Oct 2026 | Nido Cocktailbar | Amsterdam |
 
 ## Recently played
 
+- Park Café München, Munich — Thu, 24 Sept 2026
 - Gasteig, Munich — Sat, 12 Sept 2026
 - MH5 Rooftop, Munich — Sat, 22 Aug 2026
 - TBA, Cologne — Sat, 15 Aug 2026
@@ -23,4 +23,4 @@ YEPIK is a house and tech house artist based in Ukraine, tracked on soundcheck, 
 
 Alice DiMar, Artur Bredo, ZARE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*

@@ -1,6 +1,6 @@
 # Lil Texas
 
-Lil Texas is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Content, Liverpool on Sun, 1 Nov 2026.
+Lil Texas is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Content, Liverpool on Sun, 1 Nov 2026.
 
 Lil Texas is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Brussels and Budapest and 29 more. Often billed alongside Angerfist, Mad Dog and NAMARA. Next up: Content, Liverpool on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Lil Texas is a hardcore and techno artist based in United States of America, tra
 
 Angerfist, Mad Dog, NAMARA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liltexas/)*

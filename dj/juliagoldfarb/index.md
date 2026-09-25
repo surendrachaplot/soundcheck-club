@@ -1,6 +1,6 @@
 # Julia Goldfarb
 
-Julia Goldfarb is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Porto Pollo, Vienna on Sat, 26 Sept 2026.
+Julia Goldfarb is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Porto Pollo, Vienna on Sat, 26 Sept 2026.
 
 Julia Goldfarb is a house and acid artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Copenhagen, London and Manchester and 2 more. Often billed alongside Apua, KT and Aghnes. Next up: Porto Pollo, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Julia Goldfarb is a house and acid artist based in United Kingdom, tracked on so
 
 Apua, KT, Aghnes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagoldfarb/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagoldfarb/)*

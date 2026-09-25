@@ -1,6 +1,6 @@
 # Montee
 
-Montee is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Montee is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Montee is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Cologne and 5 more. Often billed alongside Tonic Walter, Gourski and Diode Eins. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Montee is a techno and drum & bass artist based in Germany, tracked on soundchec
 
 Tonic Walter, Gourski, Diode Eins
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montee/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/montee/)*

@@ -1,6 +1,6 @@
 # florasystem
 
-florasystem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
+florasystem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Allan Gardens Conservatory, Toronto on Fri, 25 Sept 2026.
 
 florasystem is a techno and house artist based in Canada, tracked on soundcheck, with 39 sets logged across Montreal and Toronto. Often billed alongside Hiroki, maxedvisa and Program Sam. Next up: Allan Gardens Conservatory, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ florasystem is a techno and house artist based in Canada, tracked on soundcheck,
 
 Hiroki, maxedvisa, Program Sam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*

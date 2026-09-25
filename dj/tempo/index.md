@@ -1,6 +1,6 @@
 # Tempo
 
-Tempo is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Utopia, Los Angeles on Fri, 25 Sept 2026.
+Tempo is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Utopia, Los Angeles on Fri, 25 Sept 2026.
 
 Tempo is a tech house and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Ghent and Leipzig and 6 more. Often billed alongside RCKSLVR, GRLFRND and Tamara Lanza. Next up: Utopia, Los Angeles on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Tempo is a tech house and house artist tracked on soundcheck, with 34 sets logge
 
 RCKSLVR, GRLFRND, Tamara Lanza
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tempo/)*

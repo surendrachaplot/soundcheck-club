@@ -1,6 +1,6 @@
 # Tunnel Signs
 
-Tunnel Signs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Colombian Hotel, Sydney on Fri, 25 Sept 2026.
+Tunnel Signs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Colombian Hotel, Sydney on Fri, 25 Sept 2026.
 
 Tunnel Signs is a techno and house artist based in Australia, tracked on soundcheck, with 16 sets logged across Melbourne and Sydney. Often billed alongside Mina Tonic, Kato and Reenie. Next up: Colombian Hotel, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Tunnel Signs is a techno and house artist based in Australia, tracked on soundch
 
 Mina Tonic, Kato, Reenie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tunnelsigns/)*

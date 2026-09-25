@@ -1,6 +1,6 @@
 # Marie Lung
 
-Marie Lung is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 25 Sept 2026.
+Marie Lung is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 25 Sept 2026.
 
 Marie Lung is a house and techno artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Momo, Michal Zietara and Turkish. Next up: Golden Pudel Club, Hamburg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Marie Lung is a house and techno artist based in Germany, tracked on soundcheck,
 
 Momo, Michal Zietara, Turkish
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marielung/)*

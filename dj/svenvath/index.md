@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audio Club, Geneva on Sat, 26 Sept 2026.
+Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Audio Club, Geneva on Sat, 26 Sept 2026.
 
 Sven Vath is a techno and house artist based in Germany, tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Audio Club, Geneva on Sat 26 Sept.
 
@@ -35,4 +35,4 @@ Sven Vath is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

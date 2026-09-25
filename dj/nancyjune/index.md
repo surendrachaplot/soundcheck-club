@@ -1,6 +1,6 @@
 # Nancy June
 
-Nancy June is a Jungle and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Nancy June is a Jungle and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
 Nancy June is a jungle and dubstep artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, SP:MC and Neffa-T. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nancy June is a jungle and dubstep artist based in United Kingdom, tracked on so
 
 SGT Pokes, SP:MC, Neffa-T
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*

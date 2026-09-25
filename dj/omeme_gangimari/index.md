@@ -1,6 +1,6 @@
 # omeme_gangimari
 
-omeme_gangimari is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at HVEN, Tokyo on Sat, 26 Sept 2026.
+omeme_gangimari is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at HVEN, Tokyo on Sat, 26 Sept 2026.
 
 omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 89 sets logged across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: HVEN, Tokyo on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on so
 
 SN_Yeah, ReFuCafé, Barbie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*

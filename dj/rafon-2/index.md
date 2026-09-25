@@ -1,6 +1,6 @@
 # Rafon (2)
 
-Rafon (2) is a Trance and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
+Rafon (2) is a Trance and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
 
 Rafon is a trance and dub artist based in France, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Cecilio, Laurine and Admo. Next up: Hoppetosse, Berlin on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Rafon is a trance and dub artist based in France, tracked on soundcheck, with 7 
 
 Cecilio, Laurine, Admo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafon-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafon-2/)*

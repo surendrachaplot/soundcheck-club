@@ -1,6 +1,6 @@
 # Bastienne
 
-Bastienne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
+Bastienne is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 3 Oct 2026.
 
 Bastienne is a techno and house artist based in Netherlands, tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Ghent and Paris and 3 more. Often billed alongside Mahabe, Vuur and Tjade. Next up: De Fik Garden, Amsterdam on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Bastienne is a techno and house artist based in Netherlands, tracked on soundche
 
 Mahabe, Vuur, Tjade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*

@@ -1,6 +1,6 @@
 # Mila Morr
 
-Mila Morr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Sun, 27 Sept 2026.
+Mila Morr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Macarena Club, Barcelona on Sun, 27 Sept 2026.
 
 Mila Morr is a house and techno artist based in Colombia, tracked on soundcheck, with 54 sets logged across Barcelona and Ibiza. Often billed alongside Elwei, John Karam and Bttologic. Next up: Macarena Club, Barcelona on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mila Morr is a house and techno artist based in Colombia, tracked on soundcheck,
 
 Elwei, John Karam, Bttologic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milamorr/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milamorr/)*

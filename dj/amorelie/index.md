@@ -1,6 +1,6 @@
 # Amorelie
 
-Amorelie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Amorelie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Amorelie is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside MIMI404, FAballert and Kolja.Kebab. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Amorelie is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 MIMI404, FAballert, Kolja.Kebab
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorelie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorelie/)*

@@ -1,6 +1,6 @@
 # Darcy Justice
 
-Darcy Justice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 2 Oct 2026.
+Darcy Justice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Miscellania, Melbourne on Fri, 2 Oct 2026.
 
 Darcy Justice is a house and techno artist based in Australia, tracked on soundcheck, with 51 sets logged across Melbourne and Sydney. Often billed alongside Emelyne, Moopie and DJ PGZ. Next up: Miscellania, Melbourne on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Darcy Justice is a house and techno artist based in Australia, tracked on soundc
 
 Emelyne, Moopie, DJ PGZ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*

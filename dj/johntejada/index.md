@@ -1,6 +1,6 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radio Radio, Amsterdam on Sat, 26 Sept 2026.
+John Tejada is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Radio Radio, Amsterdam on Sat, 26 Sept 2026.
 
 John Tejada is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Denver and 8 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: Radio Radio, Amsterdam on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ John Tejada is a house and techno artist based in United States of America, trac
 
 DJ Sneak, Danny Goliger, Dj Kerry
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

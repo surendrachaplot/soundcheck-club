@@ -1,6 +1,6 @@
 # YouForgot
 
-YouForgot is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
+YouForgot is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at WOMB, Tokyo on Fri, 30 Oct 2026.
 
 YouForgot is a techno and house artist based in Japan, tracked on soundcheck, with 97 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Yo Nishijima, DJ HI-C and Sunga. Next up: WOMB, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ YouForgot is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Yo Nishijima, DJ HI-C, Sunga
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youforgot/)*

@@ -1,6 +1,6 @@
 # The Bunker
 
-The Bunker is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Darkbeat Invites" on Sat, 26 Sept 2026.
+The Bunker is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Darkbeat Invites" on Sat, 26 Sept 2026.
 
 The Bunker is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Sinner. Browse upcoming dates, start times and who's playing. 13 Seel Street, Liverpool, L1 4AU.
 
@@ -16,4 +16,4 @@ The Bunker is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, 
 
 13 Seel Street, Liverpool, L1 4AU, Liverpool
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bunker/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-bunker/)*

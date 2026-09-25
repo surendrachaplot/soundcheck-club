@@ -1,6 +1,6 @@
 # Raul Parra
 
-Raul Parra is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bollwerk Cologne, Cologne on Sat, 26 Sept 2026.
+Raul Parra is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bollwerk Cologne, Cologne on Sat, 26 Sept 2026.
 
 Raul Parra is a techno and industrial artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Cologne, Madrid and Mallorca and 1 more. Often billed alongside Cristian Varela, Hector MAD and MDTCODE. Next up: Bollwerk Cologne, Cologne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Raul Parra is a techno and industrial artist based in Spain, tracked on soundche
 
 Cristian Varela, Hector MAD, MDTCODE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulparra/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulparra/)*

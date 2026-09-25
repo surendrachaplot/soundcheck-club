@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Baile Do Brazil - Brazilian Baile Funk Party (Liverpool)" on Fri, 25 Sept 2026.
+Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Baile Do Brazil - Brazilian Baile Funk Party (Liverpool)" on Fri, 25 Sept 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including Basswell, Beaux, Dom Townsend and Jade Edwards and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -20,4 +20,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, w
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

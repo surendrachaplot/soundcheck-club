@@ -1,6 +1,6 @@
 # Max Cherry
 
-Max Cherry is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
+Max Cherry is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Heaps Normal Health Club, Sydney on Fri, 25 Sept 2026.
 
 Max Cherry is a bass and garage artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Jane Decks, Lily FM and Mincy. Next up: Heaps Normal Health Club, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Max Cherry is a bass and garage artist based in Australia, tracked on soundcheck
 
 Jane Decks, Lily FM, Mincy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry-uk/)*

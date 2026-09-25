@@ -1,6 +1,6 @@
 # Aidan Bega
 
-Aidan Bega is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room Sydney, Sydney on Sat, 3 Oct 2026.
+Aidan Bega is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Good Room Sydney, Sydney on Sat, 3 Oct 2026.
 
 Aidan Bega is a tech house and house artist based in Australia, tracked on soundcheck, with 8 sets logged across Bali and Sydney. Often billed alongside BRAD WATTS, Rowen Clark and Edger. Next up: Good Room Sydney, Sydney on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ Aidan Bega is a tech house and house artist based in Australia, tracked on sound
 
 BRAD WATTS, Rowen Clark, Edger
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanbega/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidanbega/)*

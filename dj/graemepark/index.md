@@ -1,6 +1,6 @@
 # Graeme Park
 
-Graeme Park is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 31 Oct 2026.
+Graeme Park is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 31 Oct 2026.
 
 Graeme Park is a house and club artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Aberdeen, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside DJ Paulette, Greg Wilson and Todd Terry. Next up: Freeze HiFi, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Graeme Park is a house and club artist based in United Kingdom, tracked on sound
 
 DJ Paulette, Greg Wilson, Todd Terry
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/graemepark/)*

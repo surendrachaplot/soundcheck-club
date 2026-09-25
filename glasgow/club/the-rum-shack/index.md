@@ -1,6 +1,6 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sonica Social: Konx-om-Pax DJ Set" on Fri, 25 Sept 2026.
+The Rum Shack is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sonica Social: Konx-om-Pax DJ Set" on Fri, 25 Sept 2026.
 
 The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Jurnalist, Miles J Paralysis and Ten Years Lost. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs,
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

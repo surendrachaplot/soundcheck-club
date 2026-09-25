@@ -1,6 +1,6 @@
 # Ben Balance
 
-Ben Balance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Ben Balance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Ben Balance is a house and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Greece and Hamburg and 5 more. Often billed alongside Robin RB, Carmelo and Najeh. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Ben Balance is a house and tech house artist based in Germany, tracked on soundc
 
 Robin RB, Carmelo, Najeh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbalance/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbalance/)*

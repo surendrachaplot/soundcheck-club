@@ -1,14 +1,13 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ZENNER, Berlin on Thu, 24 Sept 2026.
+Barker is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lofi, Amsterdam on Sat, 26 Sept 2026.
 
-Barker is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Argentina and Bangkok and 31 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: ZENNER, Berlin on Thu 24 Sept.
+Barker is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Argentina and Bangkok and 31 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Lofi, Amsterdam on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | ZENNER | Berlin |
 | Sat, 26 Sept 2026 | Lofi | Amsterdam |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Mandela Hall | Belfast |
@@ -19,6 +18,7 @@ Barker is a techno and experimental artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- ZENNER, Berlin — Thu, 24 Sept 2026
 - ZENNER, Berlin — Tue, 22 Sept 2026
 - Open Ground, Wuppertal — Sat, 12 Sept 2026
 - Nitsa Club, Barcelona — Fri, 11 Sept 2026
@@ -26,10 +26,9 @@ Barker is a techno and experimental artist based in United Kingdom, tracked on s
 - Société des arts technologiques, Montreal — Wed, 26 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Esplanade Tranquille, Montreal — Tue, 25 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

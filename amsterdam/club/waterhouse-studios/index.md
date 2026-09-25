@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "WP Frequencies presents: Phonotropic" on Fri, 25 Sept 2026.
+Waterhouse Studios is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "WP Frequencies presents: Phonotropic" on Fri, 25 Sept 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Acopo, After Affair, Alex Pi and André Galluzzi and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -23,4 +23,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 10 upcomi
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

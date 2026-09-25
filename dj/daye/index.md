@@ -1,6 +1,6 @@
 # DAYE.
 
-DAYE. is a Footwork and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
+DAYE. is a Footwork and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mood Ring, New York City on Thu, 1 Oct 2026.
 
 DAYE. is a footwork and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Arielle Lana, DJ Manny and GEOTHEORY. Next up: Mood Ring, New York City on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ DAYE. is a footwork and house artist based in United States of America, tracked 
 
 Arielle Lana, DJ Manny, GEOTHEORY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daye/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daye/)*

@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Minimal Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Regis is a Techno and Minimal Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Regis is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Regis is a techno and minimal techno artist based in United Kingdom, tracked on 
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

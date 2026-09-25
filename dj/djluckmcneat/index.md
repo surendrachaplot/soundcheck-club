@@ -1,6 +1,6 @@
 # DJ Luck & MC Neat
 
-DJ Luck & MC Neat is a Garage and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Big Chill House, London on Fri, 6 Nov 2026.
+DJ Luck & MC Neat is a Garage and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Big Chill House, London on Fri, 6 Nov 2026.
 
 DJ Luck & MC Neat are a garage and hip-hop duo based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Artful Dodger, MC Kie and Kele Le Roc. Next up: The Big Chill House, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Luck & MC Neat are a garage and hip-hop duo based in United Kingdom, tracked 
 
 Artful Dodger, MC Kie, Kele Le Roc
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluckmcneat/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djluckmcneat/)*

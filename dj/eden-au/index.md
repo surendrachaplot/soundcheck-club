@@ -1,6 +1,6 @@
 # Eden (AU)
 
-Eden (AU) is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
+Eden (AU) is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Circle Line Cruises, New York City on Sat, 26 Sept 2026.
 
 Eden (AU) is an experimental and jazz artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Lisbon, Los Angeles, New York City and Vienna. Often billed alongside 063N13, A-Trak and ARMANA KHAN. Next up: Circle Line Cruises, New York City on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Eden (AU) is an experimental and jazz artist based in United Kingdom, tracked on
 
 063N13, A-Trak, ARMANA KHAN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eden-au/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eden-au/)*

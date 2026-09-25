@@ -1,6 +1,6 @@
 # Phace
 
-Phace is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bikini, South-west on Fri, 2 Oct 2026.
+Phace is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Bikini, South-west on Fri, 2 Oct 2026.
 
 Phace is a drum & bass and bass artist based in Germany, tracked on soundcheck, with 35 sets logged across Auckland, Berlin, Bristol and Budapest and 18 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: Le Bikini, South West on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Phace is a drum & bass and bass artist based in Germany, tracked on soundcheck, 
 
 Misanthrop, Rockwell, Buunshin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*

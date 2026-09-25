@@ -1,6 +1,6 @@
 # ANEM1
 
-ANEM1 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
+ANEM1 is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
 ANEM1 is an electronic artist based in Italy, tracked on soundcheck, with 12 sets logged across Madrid, Milan and Stockholm. Often billed alongside HEMPTOTE, Pura Solenne and samJ. Next up: Gate Milano, Milan on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ANEM1 is an electronic artist based in Italy, tracked on soundcheck, with 12 set
 
 HEMPTOTE, Pura Solenne, samJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anem1/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anem1/)*

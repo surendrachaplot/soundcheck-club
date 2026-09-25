@@ -1,6 +1,6 @@
 # Undercatt
 
-Undercatt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Society, Brussels on Sat, 26 Sept 2026.
+Undercatt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Society, Brussels on Sat, 26 Sept 2026.
 
 Undercatt is a techno and house artist based in Italy, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amiti, Axel Haube and Brian Cid. Next up: Society, Brussels on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Undercatt is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Amiti, Axel Haube, Brian Cid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/undercatt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/undercatt/)*

@@ -1,6 +1,6 @@
 # raptis
 
-raptis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
+raptis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
 
 raptis is a techno and house artist based in Argentina, tracked on soundcheck, with 8 sets logged across Amsterdam and Buenos Aires. Often billed alongside Bermani, Farceb and Udolph. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ raptis is a techno and house artist based in Argentina, tracked on soundcheck, w
 
 Bermani, Farceb, Udolph
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raptis/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raptis/)*

@@ -1,6 +1,6 @@
 # Alessandro Hòtel Blangetti
 
-Alessandro Hòtel Blangetti is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Blah Blah, Turin on Fri, 25 Sept 2026.
+Alessandro Hòtel Blangetti is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Blah Blah, Turin on Fri, 25 Sept 2026.
 
 Alessandro Hòtel Blangetti is a house and italo disco artist based in Italy, tracked on soundcheck, with 23 sets logged across Turin. Often billed alongside Stefano Di Matteo, Ephem/r and Delle Orfane. Next up: Blah Blah, Turin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Alessandro Hòtel Blangetti is a house and italo disco artist based in Italy, tr
 
 Stefano Di Matteo, Ephem/r, Delle Orfane
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrohotelblangetti/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrohotelblangetti/)*

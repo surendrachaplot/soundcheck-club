@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Process PDX, Portland on Fri, 2 Oct 2026.
+Fred P is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Process PDX, Portland on Fri, 2 Oct 2026.
 
 Fred P is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Process PDX, Portland on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Fred P is a house and techno artist based in United States of America, tracked o
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

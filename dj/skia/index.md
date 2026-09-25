@@ -1,6 +1,6 @@
 # SKIA
 
-SKIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Studionotte, Milan on Sat, 3 Oct 2026.
+SKIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Studionotte, Milan on Sat, 3 Oct 2026.
 
 SKIA is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Chicago, Lyon, Milan and Stuttgart. Often billed alongside Pustesch, Carloalberto and Fabio Monesi. Next up: Studionotte, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SKIA is a techno and industrial artist tracked on soundcheck, with 12 sets logge
 
 Pustesch, Carloalberto, Fabio Monesi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skia/)*

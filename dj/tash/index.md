@@ -1,6 +1,6 @@
 # Tash
 
-Tash is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Tash is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Tash is a progressive house and techno artist based in Greece, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 2 more. Often billed alongside W&DY, Alex O'Rion and Alexisphere. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Tash is a progressive house and techno artist based in Greece, tracked on soundc
 
 W&DY, Alex O'Rion, Alexisphere
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tash/)*

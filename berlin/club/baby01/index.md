@@ -1,6 +1,6 @@
 # BABY01
 
-BABY01 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fogo No Cu" on Sat, 10 Oct 2026.
+BABY01 is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Fogo No Cu" on Sat, 10 Oct 2026.
 
 BABY01 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Acidic Juice, anna andersrum, boyyyish and caipora and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 1, 10245 Berlin, Germany.
 
@@ -15,4 +15,4 @@ BABY01 is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with li
 
 Markgrafendamm 1, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*

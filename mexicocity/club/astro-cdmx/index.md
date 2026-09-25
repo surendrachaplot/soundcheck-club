@@ -1,6 +1,6 @@
 # Astro Cdmx
 
-Astro Cdmx is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NEOPERREO XOXO BDAY" on Fri, 25 Sept 2026.
+Astro Cdmx is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "NEOPERREO XOXO BDAY" on Fri, 25 Sept 2026.
 
 Astro Cdmx is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Babybruise, EL NICK DGO and Nusar3000. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 147.
 
@@ -15,4 +15,4 @@ Astro Cdmx is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs
 
 Calle Dr. Carmona y Valle 147, Mexico City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/astro-cdmx/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/astro-cdmx/)*

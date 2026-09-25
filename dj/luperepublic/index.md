@@ -1,6 +1,6 @@
 # Lupe Republic
 
-Lupe Republic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
+Lupe Republic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 15 Oct 2026.
 
 Lupe Republic is a house and deep house artist based in Argentina, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Copenhagen and Frankfurt and 3 more. Often billed alongside MARA BRAVO, Paul Larrozea and Agatha Pher. Next up: 303 Audiophile Bar, Barcelona on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Lupe Republic is a house and deep house artist based in Argentina, tracked on so
 
 MARA BRAVO, Paul Larrozea, Agatha Pher
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luperepublic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luperepublic/)*

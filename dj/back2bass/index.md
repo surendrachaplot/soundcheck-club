@@ -1,6 +1,6 @@
 # Back2Bass
 
-Back2Bass is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at JAKI, Cologne on Fri, 23 Oct 2026.
+Back2Bass is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at JAKI, Cologne on Fri, 23 Oct 2026.
 
 Back2Bass is a house and electro artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne, Frankfurt and Hamburg. Often billed alongside QT-XTC, Alas and BUTTMONEY. Next up: JAKI, Cologne on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Back2Bass is a house and electro artist based in Germany, tracked on soundcheck,
 
 QT-XTC, Alas (2), BUTTMONEY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/back2bass/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/back2bass/)*

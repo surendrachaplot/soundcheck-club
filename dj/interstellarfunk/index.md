@@ -1,6 +1,6 @@
 # Interstellar Funk
 
-Interstellar Funk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
+Interstellar Funk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
 
 Interstellar Funk is a techno and house artist based in Netherlands, tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Marcel Dettmann, Casper Tielrooij and Loradeniz. Next up: Klymax Discotheque, Bali on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Interstellar Funk is a techno and house artist based in Netherlands, tracked on 
 
 Marcel Dettmann, Casper Tielrooij, Loradeniz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*

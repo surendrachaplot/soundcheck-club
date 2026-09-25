@@ -1,6 +1,6 @@
 # BLACK CROW
 
-BLACK CROW is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bunker, Turin on Sat, 17 Oct 2026.
+BLACK CROW is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bunker, Turin on Sat, 17 Oct 2026.
 
 BLACK CROW is a techno and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Milan, Tokyo and Turin. Often billed alongside EMPTY(IT), Distorted Planet and Gandalf. Next up: Bunker, Turin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BLACK CROW is a techno and electronica artist based in Italy, tracked on soundch
 
 EMPTY(IT), Distorted Planet, Gandalf
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*

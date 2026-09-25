@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Nastia Reigel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Nastia Reigel is a techno and electro artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Inox Traxx, Oscar Mulero and Rene Wise. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Nastia Reigel is a techno and electro artist tracked on soundcheck, with 60 sets
 
 Inox Traxx, Oscar Mulero, Rene Wise
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

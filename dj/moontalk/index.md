@@ -1,6 +1,6 @@
 # Moontalk
 
-Moontalk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
+Moontalk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
 
 Moontalk is a house and tech house artist based in Sweden, tracked on soundcheck, with 19 sets logged across Austin, Berlin, Copenhagen and Ibiza and 7 more. Often billed alongside Darius Syrossian, Jamie Jones and Tummetott. Next up: Grow, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Moontalk is a house and tech house artist based in Sweden, tracked on soundcheck
 
 Darius Syrossian, Jamie Jones, Tummetott
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*

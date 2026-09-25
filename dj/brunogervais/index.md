@@ -1,6 +1,6 @@
 # Bruno Gervais
 
-Bruno Gervais is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
+Bruno Gervais is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
 
 Bruno Gervais is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside Dragos Ilici, CAÑITA and Corazón De Melon. Next up: Outer Heaven, New York City on Thu 1 Oct.
 
@@ -22,4 +22,4 @@ Bruno Gervais is a house and techno artist based in France, tracked on soundchec
 
 Dragos Ilici, CAÑITA, Corazón De Melon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunogervais/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunogervais/)*

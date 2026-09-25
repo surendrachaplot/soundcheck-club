@@ -1,6 +1,6 @@
 # Gandalf
 
-Gandalf is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
+Gandalf is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Audiodrome, Turin on Fri, 25 Sept 2026.
 
 Gandalf is a techno and house artist based in Italy, tracked on soundcheck, with 113 sets logged across Berlin, Mexico City, Milan and Seoul and 1 more. Often billed alongside sizing, Marbox and Polizei. Next up: Audiodrome, Turin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Gandalf is a techno and house artist based in Italy, tracked on soundcheck, with
 
 sizing, Marbox, Polizei
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*

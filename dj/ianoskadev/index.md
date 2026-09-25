@@ -1,6 +1,6 @@
 # Ian Oskadev
 
-Ian Oskadev is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bukanyr Boat, Prague on Fri, 9 Oct 2026.
+Ian Oskadev is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bukanyr Boat, Prague on Fri, 9 Oct 2026.
 
 Ian Oskadev is a house and techno artist based in Czech Republic, tracked on soundcheck, with 31 sets logged across Cologne and Prague. Often billed alongside Thomas Tesla, Cubik and Lucas Hulan. Next up: Bukanyr Boat, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ian Oskadev is a house and techno artist based in Czech Republic, tracked on sou
 
 Thomas Tesla, Cubik, Lucas Hulan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianoskadev/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianoskadev/)*

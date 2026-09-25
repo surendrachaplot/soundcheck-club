@@ -1,6 +1,6 @@
 # Daniel Allen
 
-Daniel Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Sun, 18 Oct 2026.
+Daniel Allen is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Los Angeles on Sun, 18 Oct 2026.
 
 Daniel Allen is a house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Chicago, Denver and Detroit and 3 more. Often billed alongside Bonnie Stoneman, Marcus Lott and Phamstar. Next up: TBA, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Daniel Allen is a house and deep house artist based in United States of America,
 
 Bonnie Stoneman, Marcus Lott, Phamstar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielallen/)*

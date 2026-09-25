@@ -1,6 +1,6 @@
 # Certain People
 
-Certain People is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Doggy Klœb, Malaga on Fri, 25 Sept 2026.
+Certain People is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Doggy Klœb, Malaga on Fri, 25 Sept 2026.
 
 Certain People is a house and electronica artist based in Spain, tracked on soundcheck, with 60 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Doggy Klœb, Malaga on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Certain People is a house and electronica artist based in Spain, tracked on soun
 
 Fuentes-Guerra, Javi Redondo, Emi Koto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/certainpeople/)*

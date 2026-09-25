@@ -1,6 +1,6 @@
 # Imanu
 
-Imanu is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground, London on Fri, 2 Oct 2026.
+Imanu is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Village Underground, London on Fri, 2 Oct 2026.
 
 Imanu is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 81 sets logged across Amsterdam, Auckland, Bangkok and Berlin and 34 more. Often billed alongside Buunshin, The Caracal Project (FR) and Camo & Krooked. Next up: Village Underground, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Imanu is a drum & bass and bass artist based in Netherlands, tracked on soundche
 
 Buunshin, The Caracal Project (FR), Camo & Krooked
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanu/)*

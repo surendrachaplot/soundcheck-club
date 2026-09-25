@@ -1,6 +1,6 @@
 # De Besturing
 
-De Besturing is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Of Paradise X Future Intel X INDEx" on Fri, 25 Sept 2026.
+De Besturing is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Of Paradise X Future Intel X INDEx" on Fri, 25 Sept 2026.
 
 De Besturing is a music venue in The Hague listed on soundcheck. 1 upcoming gig, with line-ups including Edward J, Hünter, Paul P and Silent Era. Browse upcoming dates, start times and who's playing. Saturnusstraat 89.
 
@@ -14,4 +14,4 @@ De Besturing is a music venue in The Hague listed on soundcheck. 1 upcoming gig,
 
 Saturnusstraat 89, The Hague
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/de-besturing/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/de-besturing/)*

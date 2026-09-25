@@ -1,6 +1,6 @@
 # Sensient
 
-Sensient is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
+Sensient is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Wee Jasper, Sydney on Fri, 25 Sept 2026.
 
 Sensient is a psytrance and techno artist tracked on soundcheck, with 19 sets logged across Athens, Auckland, Berlin and Budapest and 8 more. Often billed alongside ERIMIYA, Notion (AU) and Ryanosaurus. Next up: TBA - Wee Jasper, Sydney on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sensient is a psytrance and techno artist tracked on soundcheck, with 19 sets lo
 
 ERIMIYA, Notion (AU), Ryanosaurus
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensient/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensient/)*

@@ -1,6 +1,6 @@
 # Flabbergast (LA)
 
-Flabbergast (LA) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
+Flabbergast (LA) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
 
 Flabbergast (LA) is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Los Angeles and New York City. Often billed alongside BUCK/OFF, Naté and Soul Purpose (LA). Next up: TBA - DTLA, Los Angeles on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Flabbergast (LA) is a house and techno artist based in United States of America,
 
 BUCK/OFF, Naté, Soul Purpose (LA)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*

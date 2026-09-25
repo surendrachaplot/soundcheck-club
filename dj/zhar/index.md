@@ -1,6 +1,6 @@
 # Zhar
 
-Zhar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KALT, Strasbourg on Sat, 17 Oct 2026.
+Zhar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KALT, Strasbourg on Sat, 17 Oct 2026.
 
 Zhar is a techno and house artist based in France, tracked on soundcheck, with 31 sets logged across Basel, Berlin, Brussels and Paris and 1 more. Often billed alongside Lude, MALAISE VAGAL and Makar. Next up: KALT, Strasbourg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Zhar is a techno and house artist based in France, tracked on soundcheck, with 3
 
 Lude (2), MALAISE VAGAL, Makar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhar/)*

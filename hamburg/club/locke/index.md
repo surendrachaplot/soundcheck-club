@@ -1,14 +1,13 @@
 # Locke
 
-Locke is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Rum Tings September Session – Oliver (Silly Walks) & Selecta Ahoy" on Thu, 24 Sept 2026.
+Locke is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Don't Bug The Dub 3 w/ Festnacht, Babsi, Johan Kaseta & Junis" on Fri, 25 Sept 2026.
 
-Locke is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Baumann, Darimel, Festnacht and Fokko and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
+Locke is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Baumann, Darimel, Festnacht and Fokko and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Rum Tings September Session – Oliver (Silly Walks) & Selecta Ahoy |  |
 | Fri, 25 Sept 2026 | Don't Bug The Dub 3 w/ Festnacht, Babsi, Johan Kaseta & Junis | Festnacht, Johan Kaseta |
 | Sat, 26 Sept 2026 | Locke invites with Fokko, sol here, svitanok, Matt You and Disco Kiosco | Fokko |
 | Sun, 27 Sept 2026 | Crazy Taxi 2 with John Known & Phil Abaddon | Phil Abaddon |
@@ -19,4 +18,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with li
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

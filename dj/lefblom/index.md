@@ -1,6 +1,6 @@
 # Lefblom
 
-Lefblom is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
+Lefblom is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
 
 Lefblom is a house and techno artist based in France, tracked on soundcheck, with 57 sets logged across Berlin, Brussels, Paris and Turin. Often billed alongside Camille Doe, GOGO GREEN and Ams (FR). Next up: Plantation, Paris on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Lefblom is a house and techno artist based in France, tracked on soundcheck, wit
 
 Camille Doe, GOGO GREEN, Ams (FR)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*

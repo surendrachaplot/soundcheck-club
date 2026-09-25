@@ -1,6 +1,6 @@
 # Unalome
 
-Unalome is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
+Unalome is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
 
 Unalome is a techno and psytrance artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Melbourne, Rotterdam and The Hague. Often billed alongside Ivano Tetelepta, Vand and ESHU. Next up: Lofi, Amsterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Unalome is a techno and psytrance artist based in Netherlands, tracked on soundc
 
 Ivano Tetelepta, Vand, ESHU
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unalome/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unalome/)*

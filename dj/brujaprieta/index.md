@@ -1,6 +1,6 @@
 # Bruja Prieta
 
-Bruja Prieta is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Casa Imperial, Mexico City on Fri, 25 Sept 2026.
+Bruja Prieta is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Casa Imperial, Mexico City on Fri, 25 Sept 2026.
 
 Bruja Prieta is a reggaeton and electronica artist based in Mexico, tracked on soundcheck, with 49 sets logged across Mexico City. Often billed alongside Amapola Rose, NEGRACONDA and Basho. Next up: Casa Imperial, Mexico City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Bruja Prieta is a reggaeton and electronica artist based in Mexico, tracked on s
 
 Amapola Rose, NEGRACONDA, Basho
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brujaprieta/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brujaprieta/)*

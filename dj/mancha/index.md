@@ -1,6 +1,6 @@
 # Mancha
 
-Mancha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PRST, Vienna on Fri, 25 Sept 2026.
+Mancha is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at PRST, Vienna on Fri, 25 Sept 2026.
 
 Mancha is a techno and house artist based in Serbia, tracked on soundcheck, with 11 sets logged across Belgrade and Vienna. Often billed alongside Peter Portman, Dejan Milicevic and Nemax. Next up: PRST, Vienna on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mancha is a techno and house artist based in Serbia, tracked on soundcheck, with
 
 Peter Portman, Dejan Milicevic, Nemax
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mancha/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mancha/)*

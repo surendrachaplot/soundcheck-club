@@ -1,6 +1,6 @@
 # Tommy 2000
 
-Tommy 2000 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
+Tommy 2000 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gaffe, London on Sat, 26 Sept 2026.
 
 Tommy 2000 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London, Manchester and Newcastle. Often billed alongside Bunney, Boo and Emerald. Next up: Gaffe, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tommy 2000 is a house and techno artist based in United Kingdom, tracked on soun
 
 Bunney, Boo, Emerald
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy2000/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy2000/)*

@@ -1,6 +1,6 @@
 # TBA - Private
 
-TBA - Private is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Shub x Handsome Tiger present: The Electric Pow Wow Tour" on Thu, 3 Dec 2026.
+TBA - Private is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Shub x Handsome Tiger present: The Electric Pow Wow Tour" on Thu, 3 Dec 2026.
 
 TBA - Private is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Private is a music venue in Berlin listed on soundcheck. 1 upcoming gig. B
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Shub x Handsome Tiger present: The Electric Pow Wow Tour |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private/)*

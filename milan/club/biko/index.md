@@ -1,6 +1,6 @@
 # BIKO
 
-BIKO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Black Milk - Ceremonial Tour" on Sat, 19 Sept 2026.
+BIKO is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Black Milk - Ceremonial Tour" on Sat, 19 Sept 2026.
 
 BIKO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including S!RENE. Browse upcoming dates, start times and who's playing. Via Ettore Ponti 40, 20143 Milano.
 
@@ -15,4 +15,4 @@ BIKO is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-
 
 Via Ettore Ponti 40, 20143 Milano, Milan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biko/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/biko/)*

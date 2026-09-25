@@ -1,6 +1,6 @@
 # Perish
 
-Perish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Sat, 10 Oct 2026.
+Perish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spkrbox, Detroit on Sat, 10 Oct 2026.
 
 Perish is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Denver and Detroit. Often billed alongside Taylor Monai, Xan Bishop and Adriel Fantastique!. Next up: Spkrbox, Detroit on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Perish is a house and techno artist based in United States of America, tracked o
 
 Taylor Monai, Xan Bishop, Adriel Fantastique!
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perish/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perish/)*

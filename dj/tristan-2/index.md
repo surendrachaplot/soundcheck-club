@@ -1,6 +1,6 @@
 # Tristan (2)
 
-Tristan (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Fri, 23 Oct 2026.
+Tristan (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KitKatClub, Berlin on Fri, 23 Oct 2026.
 
 Tristan is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Ghent, Leipzig and Paris. Often billed alongside earthworm, 6EJOU and A.N.I.. Next up: KitKatClub, Berlin on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Tristan is a techno and trance artist based in United Kingdom, tracked on soundc
 
 earthworm (2), 6EJOU, A.N.I.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristan-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristan-2/)*

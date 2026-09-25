@@ -1,6 +1,6 @@
 # Oniani
 
-Oniani is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 25 Sept 2026.
+Oniani is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 25 Sept 2026.
 
 Oniani is a house and trance artist based in Georgia, tracked on soundcheck, with 48 sets logged across Tbilisi and Valencia. Often billed alongside Kanko, Mtvare and Seqta. Next up: Mtkvarze, Tbilisi on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Oniani is a house and trance artist based in Georgia, tracked on soundcheck, wit
 
 Kanko, Mtvare, Seqta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oniani/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oniani/)*

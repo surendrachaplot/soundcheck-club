@@ -1,6 +1,6 @@
 # PETERBLUE
 
-PETERBLUE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
+PETERBLUE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Fri, 25 Sept 2026.
 
 PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Noise Mafia, Adrian Mills and fumi (DE). Next up: Nitsa Club, Barcelona on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ PETERBLUE is a techno and trance artist based in Colombia, tracked on soundcheck
 
 Noise Mafia, Adrian Mills, fumi (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterblue/)*

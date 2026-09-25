@@ -1,6 +1,6 @@
 # Makèz
 
-Makèz is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
+Makèz is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 17 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

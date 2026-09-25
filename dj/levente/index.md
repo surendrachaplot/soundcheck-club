@@ -1,6 +1,6 @@
 # Levente
 
-Levente is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sameheads, Berlin on Fri, 30 Oct 2026.
+Levente is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sameheads, Berlin on Fri, 30 Oct 2026.
 
 Levente is a techno and breakbeat artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Düsseldorf, Hamburg and Tbilisi. Often billed alongside BOBBIE*, La Carpio and Hufnagel. Next up: Sameheads, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Levente is a techno and breakbeat artist based in Germany, tracked on soundcheck
 
 BOBBIE*, La Carpio, Hufnagel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levente/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levente/)*

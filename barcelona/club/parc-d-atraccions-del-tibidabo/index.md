@@ -1,6 +1,6 @@
 # Parc d’Atraccions del Tibidabo
 
-Parc d’Atraccions del Tibidabo is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "OFFWEEK presents Nina Kraviz, Quest and Lumiere" on Fri, 9 Oct 2026.
+Parc d’Atraccions del Tibidabo is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "OFFWEEK presents Nina Kraviz, Quest and Lumiere" on Fri, 9 Oct 2026.
 
 Parc d’Atraccions del Tibidabo is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Lumiere, Nina Kraviz and Quest (IT). Browse upcoming dates, start times and who's playing. Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona.
 
@@ -14,4 +14,4 @@ Parc d’Atraccions del Tibidabo is a music venue in Barcelona listed on soundch
 
 Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-d-atraccions-del-tibidabo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/parc-d-atraccions-del-tibidabo/)*

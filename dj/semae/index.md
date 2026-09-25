@@ -1,6 +1,6 @@
 # Sémaé
 
-Sémaé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Sound House, Dublin on Fri, 25 Sept 2026.
+Sémaé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Sound House, Dublin on Fri, 25 Sept 2026.
 
 Sémaé is a techno and house artist based in France, tracked on soundcheck, with 26 sets logged across Dublin. Often billed alongside Fran Ortu, Cailín and Phil Bass. Next up: The Sound House, Dublin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Sémaé is a techno and house artist based in France, tracked on soundcheck, wit
 
 Fran Ortu, Cailín, Phil Bass
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semae/)*

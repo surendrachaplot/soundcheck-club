@@ -1,6 +1,6 @@
 # Sarmabot
 
-Sarmabot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
+Sarmabot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Otto Wagner Areal, Vienna on Fri, 2 Oct 2026.
 
 Sarmabot is a house and tech house artist tracked on soundcheck, with 23 sets logged across Cologne, Munich and Vienna. Often billed alongside Kiawash, Stenny and Lara Fein. Next up: Otto Wagner Areal, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sarmabot is a house and tech house artist tracked on soundcheck, with 23 sets lo
 
 Kiawash, Stenny, Lara Fein
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarmabot/)*

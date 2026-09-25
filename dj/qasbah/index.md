@@ -1,6 +1,6 @@
 # Qasbah
 
-Qasbah is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Alaska, Athens on Fri, 25 Sept 2026.
+Qasbah is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Alaska, Athens on Fri, 25 Sept 2026.
 
 Qasbah is a club and experimental artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside 555ivas, Ara XD and Miss Trouli. Next up: Alaska, Athens on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Qasbah is a club and experimental artist based in Greece, tracked on soundcheck,
 
 555ivas, Ara XD, Miss Trouli
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qasbah/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qasbah/)*

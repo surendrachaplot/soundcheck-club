@@ -1,6 +1,6 @@
 # DJ G.
 
-DJ G. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at public records, New York City on Fri, 9 Oct 2026.
+DJ G. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at public records, New York City on Fri, 9 Oct 2026.
 
 DJ G. is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Berlin, Melbourne, Miami and New York City and 3 more. Often billed alongside Aurora Halal, DJ'J (US) and DJ Possum. Next up: public records, New York City on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ DJ G. is a techno and house artist based in United States of America, tracked on
 
 Aurora Halal, DJ'J (US), DJ Possum
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*

@@ -1,6 +1,6 @@
 # Nilo
 
-Nilo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SORRENTO , Naples on Sat, 26 Sept 2026.
+Nilo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - SORRENTO , Naples on Sat, 26 Sept 2026.
 
 Nilo is a techno and trance artist based in Italy, tracked on soundcheck, with 10 sets logged across Naples. Often billed alongside Jesooria, Amiran and Benth.. Next up: TBA - SORRENTO , Naples on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nilo is a techno and trance artist based in Italy, tracked on soundcheck, with 1
 
 Jesooria, Amiran, Benth.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilo/)*

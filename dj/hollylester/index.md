@@ -1,6 +1,6 @@
 # Holly Lester
 
-Holly Lester is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Holly Lester is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Holly Lester is a house and techno artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Plain Sailing DJs, Swoose and Body Clinic. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -14,6 +14,7 @@ Holly Lester is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Various Venues, London — Thu, 24 Sept 2026
 - The Ulster Sports Club, Belfast — Fri, 18 Sept 2026
 - Music Room, Belfast — Fri, 11 Sept 2026
 - KOKO, London — Sat, 15 Aug 2026
@@ -21,10 +22,9 @@ Holly Lester is a house and techno artist based in United Kingdom, tracked on so
 - Tšungel, Tallinn — Sat, 4 Jul 2026
 - Jolene, Copenhagen — Fri, 3 Jul 2026
 - Renate, Berlin — Fri, 19 Jun 2026
-- Orlagh House, Dublin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Plain Sailing DJs, Swoose, Body Clinic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hollylester/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hollylester/)*

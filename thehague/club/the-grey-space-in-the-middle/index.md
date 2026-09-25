@@ -1,6 +1,6 @@
 # The Grey Space In The Middle
 
-The Grey Space In The Middle is a music venue in The Hague with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HIGHLY SKILLED MIGRANTS" on Fri, 25 Sept 2026.
+The Grey Space In The Middle is a music venue in The Hague with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "HIGHLY SKILLED MIGRANTS" on Fri, 25 Sept 2026.
 
 The Grey Space In The Middle is a music venue in The Hague listed on soundcheck. 4 upcoming gigs, with line-ups including awhlkuhn, Benny2, Berkan V8 and MAGIS and 1 more. Browse upcoming dates, start times and who's playing. Paviljoensgracht 20, 2512 BP Den Haag, Netherlands.
 
@@ -17,4 +17,4 @@ The Grey Space In The Middle is a music venue in The Hague listed on soundcheck.
 
 Paviljoensgracht 20, 2512 BP Den Haag, Netherlands, The Hague
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/the-grey-space-in-the-middle/)*

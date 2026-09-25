@@ -1,6 +1,6 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
+MJ Cole is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
 MJ Cole is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, DJ EZ and Kirollus. Next up: Mint XL, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ MJ Cole is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Chunky, DJ EZ, Kirollus
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*

@@ -1,6 +1,6 @@
 # Alex Dallas
 
-Alex Dallas is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
+Alex Dallas is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
 
 Alex Dallas is an electronica and house artist based in Switzerland, tracked on soundcheck, with 70 sets logged across Berlin, Manchester, Mykonos and Zurich. Often billed alongside Kalabrese, Manuel Fischer and Jenny Cara. Next up: Kauz, Zurich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Alex Dallas is an electronica and house artist based in Switzerland, tracked on 
 
 Kalabrese, Manuel Fischer, Jenny Cara
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*

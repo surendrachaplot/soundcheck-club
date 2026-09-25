@@ -1,6 +1,6 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PIP meets Stingray 313 / mul/ANNA / KI/IP" on Sat, 3 Oct 2026.
+PIP Den Haag is a music venue in The Hague with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "PIP meets Stingray 313 / mul/ANNA / KI/IP" on Sat, 3 Oct 2026.
 
 PIP Den Haag is a music venue in The Hague listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Stingray 313, Jeans (NL), Lobster (NL) and mul/ANNA and 2 more. Browse upcoming dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
@@ -21,4 +21,4 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 8 upcoming gigs
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

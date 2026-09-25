@@ -1,6 +1,6 @@
 # David Lindmer
 
-David Lindmer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at SILO, New York City on Sat, 17 Oct 2026.
+David Lindmer is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at SILO, New York City on Sat, 17 Oct 2026.
 
 David Lindmer is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Buenos Aires, Helsinki and Ibiza and 4 more. Often billed alongside Kevin de Vries, Tale Of Us and Fideles. Next up: SILO, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ David Lindmer is a techno and progressive house artist based in United Kingdom, 
 
 Kevin de Vries, Tale Of Us, Fideles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlindmer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlindmer/)*

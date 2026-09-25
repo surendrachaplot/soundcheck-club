@@ -1,6 +1,6 @@
 # PAS
 
-PAS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eiger Studios, Leeds on Fri, 30 Oct 2026.
+PAS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eiger Studios, Leeds on Fri, 30 Oct 2026.
 
 PAS is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Leeds and Manchester. Often billed alongside Rob Pearson, dj ripple and Au Contraire. Next up: Eiger Studios, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PAS is a tech house and house artist based in United Kingdom, tracked on soundch
 
 Rob Pearson, dj ripple, Au Contraire
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

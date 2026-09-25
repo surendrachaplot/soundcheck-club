@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ALLEMAAL ALLEMAAL AANTAFEL" on Fri, 25 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "ALLEMAAL ALLEMAAL AANTAFEL" on Fri, 25 Sept 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -22,4 +22,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

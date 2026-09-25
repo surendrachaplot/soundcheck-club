@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Barbary pres. Late London" on Fri, 25 Sept 2026.
+The Barbary is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "The Barbary pres. Late London" on Fri, 25 Sept 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including AC Slater, DELACOUR and Late London. Browse upcoming dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -18,4 +18,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 5 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

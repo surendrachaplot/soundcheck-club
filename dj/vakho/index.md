@@ -1,6 +1,6 @@
 # Vakho
 
-Vakho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Vakho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Vakho is a house and techno artist based in Georgia, tracked on soundcheck, with 37 sets logged across Berlin, Copenhagen, Hamburg and New York City and 2 more. Often billed alongside Zurkin, Generali Minerali and IAMEA. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Vakho is a house and techno artist based in Georgia, tracked on soundcheck, with
 
 Zurkin, Generali Minerali, IAMEA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

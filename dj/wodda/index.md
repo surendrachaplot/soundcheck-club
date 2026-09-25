@@ -1,20 +1,20 @@
 # Wodda
 
-Wodda is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Moon Club, Bristol on Thu, 24 Sept 2026.
+Wodda is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
-Wodda is a house and garage artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: Moon Club, Bristol on Thu 24 Sept.
+Wodda is a house and garage artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Locky, Just Jam and ADMNTi. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Moon Club | Bristol |
 | Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 | Fri, 2 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 9 Oct 2026 | Stealth | Nottingham |
 
 ## Recently played
 
+- Moon Club, Bristol — Thu, 24 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Distrikt, Leeds — Sat, 15 Aug 2026
 - Night Tales Loft, London — Sat, 25 Jul 2026
@@ -22,10 +22,9 @@ Wodda is a house and garage artist based in United Kingdom, tracked on soundchec
 - Het Sieraad, Amsterdam — Fri, 17 Jul 2026
 - M.O.T, London — Sat, 27 Jun 2026
 - The Racket Space, Dublin — Sat, 4 Apr 2026
-- Hidden, Manchester — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Locky, Just Jam, ADMNTi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wodda/)*

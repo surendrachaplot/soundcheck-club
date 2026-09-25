@@ -1,6 +1,6 @@
 # Eazy
 
-Eazy is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Piment, Seoul on Sat, 26 Sept 2026.
+Eazy is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Piment, Seoul on Sat, 26 Sept 2026.
 
 Eazy is a dancehall and amapiano artist based in South Africa, tracked on soundcheck, with 7 sets logged across Berlin, Bristol, Brussels and Liverpool and 1 more. Often billed alongside Skel, Aggz and Angel X. Next up: Bar Piment, Seoul on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Eazy is a dancehall and amapiano artist based in South Africa, tracked on soundc
 
 Skel, Aggz, Angel X
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eazy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eazy/)*

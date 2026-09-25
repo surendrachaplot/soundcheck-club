@@ -1,6 +1,6 @@
 # Max Volume
 
-Max Volume is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
+Max Volume is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 90mil, Berlin on Fri, 25 Sept 2026.
 
 Max Volume is a techno and electronica artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Geneva, London and Paris and 1 more. Often billed alongside DJ Regret, Onncor and Potkid. Next up: 90mil, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Max Volume is a techno and electronica artist based in Germany, tracked on sound
 
 DJ Regret, Onncor, Potkid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*

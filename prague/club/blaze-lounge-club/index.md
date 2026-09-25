@@ -1,6 +1,6 @@
 # Blaze Lounge&club
 
-Blaze Lounge&club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Switch Up - BO, DJ JANA, MANLIKEBEDI, VISNEACS" on Sat, 26 Sept 2026.
+Blaze Lounge&club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Switch Up - BO, DJ JANA, MANLIKEBEDI, VISNEACS" on Sat, 26 Sept 2026.
 
 Blaze Lounge&club is a music venue in Prague listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Jungmannovo nám. 750/19A, 110 00 Můstek, Prague.
 
@@ -14,4 +14,4 @@ Blaze Lounge&club is a music venue in Prague listed on soundcheck. 1 upcoming gi
 
 Jungmannovo nám. 750/19A, 110 00 Můstek, Prague, Prague
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/blaze-lounge-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/blaze-lounge-club/)*

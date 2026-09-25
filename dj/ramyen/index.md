@@ -1,6 +1,6 @@
 # Ramyen
 
-Ramyen is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Dojo Boutique Club, Budapest on Fri, 25 Sept 2026.
+Ramyen is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Dojo Boutique Club, Budapest on Fri, 25 Sept 2026.
 
 Ramyen is a deep house and house artist based in France, tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Budapest and Central and 10 more. Often billed alongside Notre Dame, Saraga and Shimza. Next up: Dojo Boutique Club, Budapest on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Ramyen is a deep house and house artist based in France, tracked on soundcheck, 
 
 Notre Dame, Saraga, Shimza
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*

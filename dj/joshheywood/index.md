@@ -1,6 +1,6 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
+Josh Heywood is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
 
 Josh Heywood is a techno and house artist based in Australia, tracked on soundcheck, with 61 sets logged across Auckland, Berlin, Brisbane and Melbourne and 2 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: Echo & Bounce, Brisbane on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Josh Heywood is a techno and house artist based in Australia, tracked on soundch
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

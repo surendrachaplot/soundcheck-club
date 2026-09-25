@@ -1,6 +1,6 @@
 # Jlte
 
-Jlte is a Techno and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ridley Road Social Club, London on Sat, 26 Sept 2026.
+Jlte is a Techno and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ridley Road Social Club, London on Sat, 26 Sept 2026.
 
 Jlte is a techno and uk funky artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Nowt, AOIFE and Ambient Babestation Meltdown. Next up: Ridley Road Social Club, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jlte is a techno and uk funky artist based in United Kingdom, tracked on soundch
 
 Nowt, AOIFE, Ambient Babestation Meltdown
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlte/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlte/)*

@@ -1,6 +1,6 @@
 # Zakk
 
-Zakk is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "SCHAMLOS PARTY - 20 JAHRE MILLENNIUM EDITION" on Sat, 26 Sept 2026.
+Zakk is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "SCHAMLOS PARTY - 20 JAHRE MILLENNIUM EDITION" on Sat, 26 Sept 2026.
 
 Zakk is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Fichtenstraße 40, 40233 Düsseldorf, Germany.
 
@@ -14,4 +14,4 @@ Zakk is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig. Brows
 
 Fichtenstraße 40, 40233 Düsseldorf, Germany, Düsseldorf
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/zakk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/zakk/)*

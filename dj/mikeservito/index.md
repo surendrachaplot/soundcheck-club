@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
+Mike Servito is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
 Mike Servito is a house and techno artist based in United States of America, tracked on soundcheck, with 293 sets logged across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside Erika, Shaun J. Wright and JADALAREIGN. Next up: BASEMENT, New York City on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Mike Servito is a house and techno artist based in United States of America, tra
 
 Erika, Shaun J. Wright, JADALAREIGN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

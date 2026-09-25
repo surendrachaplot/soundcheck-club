@@ -1,6 +1,6 @@
 # Test_One
 
-Test_One is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tunnel, Milan on Sat, 10 Oct 2026.
+Test_One is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tunnel, Milan on Sat, 10 Oct 2026.
 
 Test_One is a house and electro artist based in Italy, tracked on soundcheck, with 24 sets logged across Milan. Often billed alongside Attilio Cassano, BEPPE BRANDO and Kalitragus. Next up: Tunnel, Milan on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Test_One is a house and electro artist based in Italy, tracked on soundcheck, wi
 
 Attilio Cassano, BEPPE BRANDO, Kalitragus
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/test_one/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/test_one/)*

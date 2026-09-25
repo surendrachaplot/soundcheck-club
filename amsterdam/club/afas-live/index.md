@@ -1,6 +1,6 @@
 # Afas Live
 
-Afas Live is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
+Afas Live is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Jean-Michel Jarre: OXYGENE & BEYOND: A Sonic Journey Celebrating 30 Years of ADE" on Wed, 21 Oct 2026.
 
 Afas Live is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Afrojack, AJNA, Alycia Bezgo and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Johan Cruijff Boulevard 590 1101 DS Amsterdam.
 
@@ -21,4 +21,4 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, w
 
 Johan Cruijff Boulevard 590 1101 DS Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/afas-live/)*

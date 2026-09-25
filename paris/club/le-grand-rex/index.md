@@ -1,6 +1,6 @@
 # Le Grand Rex
 
-Le Grand Rex is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "James Blake - Trying Times European Tour" on Mon, 12 Oct 2026.
+Le Grand Rex is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "James Blake - Trying Times European Tour" on Mon, 12 Oct 2026.
 
 Le Grand Rex is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including James Blake. Browse upcoming dates, start times and who's playing. 1 boulevard Poissonnière, 75002 Paris.
 
@@ -14,4 +14,4 @@ Le Grand Rex is a music venue in Paris listed on soundcheck. 1 upcoming gig, wit
 
 1 boulevard Poissonnière, 75002 Paris, Paris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-grand-rex/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-grand-rex/)*

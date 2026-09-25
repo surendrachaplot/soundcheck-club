@@ -1,6 +1,6 @@
 # GINO GENTILI
 
-GINO GENTILI is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+GINO GENTILI is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 GINO GENTILI is a progressive house and house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Amsterdam and Madrid. Often billed alongside Demattei, Martin Fredes and Cris-H. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GINO GENTILI is a progressive house and house artist based in Argentina, tracked
 
 Demattei, Martin Fredes, Cris-H
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginogentili/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginogentili/)*

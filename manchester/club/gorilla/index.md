@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Grey Lantern presents: She Past Away / Actors" on Fri, 25 Sept 2026.
+Gorilla is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Grey Lantern presents: She Past Away / Actors" on Fri, 25 Sept 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -22,4 +22,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, wi
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

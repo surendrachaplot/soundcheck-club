@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Top Floor, Newcastle on Fri, 2 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Top Floor, Newcastle on Fri, 2 Oct 2026.
 
 Blasha & Allatt are a techno and house duo based in United Kingdom, tracked on soundcheck, with 285 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Top Floor, Newcastle on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, tracked on s
 
 aalice, Steffi, Freddy K
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

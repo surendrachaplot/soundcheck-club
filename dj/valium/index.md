@@ -1,6 +1,6 @@
 # Valium
 
-Valium is a House and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Core, Madrid on Fri, 25 Sept 2026.
+Valium is a House and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Core, Madrid on Fri, 25 Sept 2026.
 
 Valium is a house and ambient artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona, Madrid and Rome. Often billed alongside DISTORT (ES), Juguete and nBlueMoney. Next up: Core, Madrid on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Valium is a house and ambient artist based in Spain, tracked on soundcheck, with
 
 DISTORT (ES), Juguete, nBlueMoney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valium/)*

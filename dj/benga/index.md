@@ -1,6 +1,6 @@
 # Benga
 
-Benga is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Benga is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Benga is a dubstep and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Brisbane, Bristol and Brussels and 12 more. Often billed alongside Skream, SGT Pokes and Special Request. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Benga is a dubstep and techno artist based in United Kingdom, tracked on soundch
 
 Skream, SGT Pokes, Special Request
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benga/)*

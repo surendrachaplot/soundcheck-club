@@ -1,6 +1,6 @@
 # Flex
 
-Flex is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "★ HYPERTRASH pres. umru ★" on Sat, 3 Oct 2026.
+Flex is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "★ HYPERTRASH pres. umru ★" on Sat, 3 Oct 2026.
 
 Flex is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including DJ DIAMOND, ephemer, esti.d and hapuk and 2 more. Browse upcoming dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Flex is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-
 
 Abgang Augartenbruecke; 1010 Vienna; Austria, Vienna
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flex/)*

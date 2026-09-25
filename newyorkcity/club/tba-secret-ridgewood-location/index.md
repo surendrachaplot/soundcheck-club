@@ -1,6 +1,6 @@
 # TBA - Secret Ridgewood Location
 
-TBA - Secret Ridgewood Location is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Liminal Collective: Kitty Flip" on Sat, 5 Dec 2026.
+TBA - Secret Ridgewood Location is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Liminal Collective: Kitty Flip" on Sat, 5 Dec 2026.
 
 TBA - Secret Ridgewood Location is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including baby-g and Chillosophy. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Ridgewood Location is a music venue in New York City listed on soun
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Liminal Collective: Kitty Flip | Chillosophy, baby-g |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-ridgewood-location/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-secret-ridgewood-location/)*

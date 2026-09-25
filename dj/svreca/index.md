@@ -1,6 +1,6 @@
 # Svreca
 
-Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Svreca is a techno and electronica artist based in Spain, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Reeko, CONCEPTUAL and Elisa Batti. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Svreca is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 Reeko, CONCEPTUAL, Elisa Batti
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*

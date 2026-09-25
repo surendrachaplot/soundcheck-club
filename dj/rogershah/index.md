@@ -1,6 +1,6 @@
 # Roger Shah
 
-Roger Shah is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Roger Shah is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
 Roger Shah is a trance and progressive house artist tracked on soundcheck, with 8 sets logged across Chicago, Los Angeles, Miami and Portland and 3 more. Often billed alongside John O'Callaghan, Paul Thomas and Aly & Fila. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
@@ -24,4 +24,4 @@ Roger Shah is a trance and progressive house artist tracked on soundcheck, with 
 
 John O'Callaghan, Paul Thomas, Aly & Fila
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogershah/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rogershah/)*

@@ -1,6 +1,6 @@
 # Breakfake
 
-Breakfake is a Dubstep and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
+Breakfake is a Dubstep and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Golden Lion, Manchester on Fri, 9 Oct 2026.
 
 Breakfake is a dubstep and dub artist based in Latvia, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brighton and Bristol and 6 more. Often billed alongside Felixculpah, Iration Steppas and Krotone. Next up: The Golden Lion, Manchester on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Breakfake is a dubstep and dub artist based in Latvia, tracked on soundcheck, wi
 
 Felixculpah, Iration Steppas, Krotone
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakfake/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakfake/)*

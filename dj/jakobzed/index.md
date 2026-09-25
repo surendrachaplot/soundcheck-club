@@ -1,6 +1,6 @@
 # Jakob Zed
 
-Jakob Zed is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
+Jakob Zed is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forge, Bucharest on Fri, 2 Oct 2026.
 
 Jakob Zed is a house and minimal artist based in Germany, tracked on soundcheck, with 10 sets logged across Bucharest, Hamburg and Munich. Often billed alongside Acidus, Bonjessu and SVE. Next up: Forge, Bucharest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jakob Zed is a house and minimal artist based in Germany, tracked on soundcheck,
 
 Acidus, Bonjessu, SVE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobzed/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobzed/)*

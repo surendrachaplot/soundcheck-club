@@ -1,14 +1,16 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Sat, 10 Oct 2026.
+Demi Riquisimo is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, New York City on Sat, 10 Oct 2026.
 
-Demi Riquisimo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: TBA, New York City on Sat 10 Oct.
+Demi Riquisimo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: TBA, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | New York City |
+| Sat, 10 Oct 2026 | Open Air Club | New York City |
+| Sat, 10 Oct 2026 | Outer Heaven | New York City |
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Sat, 17 Oct 2026 | Smoke & Mirrors | Chicago |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -34,4 +36,4 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, tracked on 
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

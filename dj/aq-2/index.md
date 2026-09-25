@@ -1,6 +1,6 @@
 # AQ
 
-AQ is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Monkeybar, Tokyo on Fri, 25 Sept 2026.
+AQ is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Monkeybar, Tokyo on Fri, 25 Sept 2026.
 
 AQ is an amapiano and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami, New York City and Tokyo. Often billed alongside WEMI, Aluna and Brandon Lucas. Next up: Monkeybar, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ AQ is an amapiano and house artist based in United States of America, tracked on
 
 WEMI, Aluna, Brandon Lucas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aq-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aq-2/)*

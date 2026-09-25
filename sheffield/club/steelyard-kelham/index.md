@@ -1,6 +1,6 @@
 # Steelyard Kelham
 
-Steelyard Kelham is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard" on Sat, 26 Sept 2026.
+Steelyard Kelham is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard" on Sat, 26 Sept 2026.
 
 Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Aly & Fila, Ciaran McAuley, Daxson and Doppenberg and 2 more. Browse upcoming dates, start times and who's playing. The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS.
 
@@ -15,4 +15,4 @@ Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 2 upcoming 
 
 The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS, Sheffield
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*

@@ -1,6 +1,6 @@
 # Lorenzo Senni
 
-Lorenzo Senni is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+Lorenzo Senni is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
 
 Lorenzo Senni is an experimental and techno artist based in Italy, tracked on soundcheck, with 37 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Marcel Dettmann, Daito Manabe and Kode9. Next up: Hotel Forum, Krakow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Senni is an experimental and techno artist based in Italy, tracked on so
 
 Marcel Dettmann, Daito Manabe, Kode9
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*

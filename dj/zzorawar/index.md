@@ -1,6 +1,6 @@
 # ZZORAWAR
 
-ZZORAWAR is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NØMAD, Toronto on Sat, 3 Oct 2026.
+ZZORAWAR is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at NØMAD, Toronto on Sat, 3 Oct 2026.
 
 ZZORAWAR is a tech house and house artist based in Canada, tracked on soundcheck, with 9 sets logged across New York City and Toronto. Often billed alongside Singhara, Mrii and Anvaya. Next up: NØMAD, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ZZORAWAR is a tech house and house artist based in Canada, tracked on soundcheck
 
 Singhara, Mrii, Anvaya
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzorawar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzorawar/)*

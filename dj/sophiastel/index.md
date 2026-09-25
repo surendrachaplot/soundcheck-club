@@ -1,6 +1,6 @@
 # Sophia Stel
 
-Sophia Stel is a Electronica and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
+Sophia Stel is a Electronica and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Sophia Stel is an electronica and pop artist based in Canada, tracked on soundcheck, with 12 sets logged across Berlin, London, Melbourne and Montreal and 1 more. Often billed alongside Hannah Diamond, Surusinghe and Ata Kak. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Sophia Stel is an electronica and pop artist based in Canada, tracked on soundch
 
 Hannah Diamond, Surusinghe, Ata Kak
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*

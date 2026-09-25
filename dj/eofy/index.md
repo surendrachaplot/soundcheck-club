@@ -1,6 +1,6 @@
 # eofy
 
-eofy is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
+eofy is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
 
 eofy is a techno and idm artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne and Sydney. Often billed alongside LOIF, Harold and D-Grade. Next up: Miscellania, Melbourne on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ eofy is a techno and idm artist based in Australia, tracked on soundcheck, with 
 
 LOIF, Harold, D-Grade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eofy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eofy/)*

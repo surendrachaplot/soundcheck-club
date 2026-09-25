@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 25 Sept 2026.
+n4tee is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 25 Sept 2026.
 
 n4tee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: The Ulster Sports Club, Belfast on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ n4tee is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Auramatic, Skeptic, DAISY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

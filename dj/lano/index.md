@@ -1,6 +1,6 @@
 # Lano
 
-Lano is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
+Lano is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
 
 Lano is a minimal and house artist based in France, tracked on soundcheck, with 11 sets logged across Paris. Often billed alongside Majer, Céline and DJ STRANGELOVE. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lano is a minimal and house artist based in France, tracked on soundcheck, with 
 
 Majer, Céline, DJ STRANGELOVE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lano/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lano/)*

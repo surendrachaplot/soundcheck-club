@@ -1,6 +1,6 @@
 # Plantation
 
-Plantation is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BAILE INOLVIDABLE - Soirée Latino Mix Salseo con Perreo " on Fri, 25 Sept 2026.
+Plantation is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BAILE INOLVIDABLE - Soirée Latino Mix Salseo con Perreo " on Fri, 25 Sept 2026.
 
 Plantation is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aurèle, Dielli, Disco Paese and Eternal Love and 2 more. Browse upcoming dates, start times and who's playing. 37 Rue des Cheminots, 75018, Paris.
 
@@ -19,4 +19,4 @@ Plantation is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with
 
 37 Rue des Cheminots, 75018, Paris, Paris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/plantation/)*

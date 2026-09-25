@@ -1,6 +1,6 @@
 # Skyport Marina
 
-Skyport Marina is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Reggaeton Boat Party NYC - Avalon Yacht – Sep 25" on Fri, 25 Sept 2026.
+Skyport Marina is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Reggaeton Boat Party NYC - Avalon Yacht – Sep 25" on Fri, 25 Sept 2026.
 
 Skyport Marina is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including TBA. Browse upcoming dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
 
@@ -18,4 +18,4 @@ Skyport Marina is a music venue in New York City listed on soundcheck. 5 upcomin
 
 E 23rd St & FDR Dr, New York, New York 10010, New York City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*

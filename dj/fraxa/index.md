@@ -1,6 +1,6 @@
 # FRAXA
 
-FRAXA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
+FRAXA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
 
 FRAXA is a house and techno artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona and Madrid. Often billed alongside PAULA GM, PABLO MANY and PILAR MOLINERO. Next up: 303 Audiophile Bar, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ FRAXA is a house and techno artist based in Spain, tracked on soundcheck, with 5
 
 PAULA GM, PABLO MANY, PILAR MOLINERO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraxa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraxa/)*

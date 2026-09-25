@@ -1,6 +1,6 @@
 # Shaan (2)
 
-Shaan (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 25 Sept 2026.
+Shaan (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 25 Sept 2026.
 
 Shaan is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Entree, Johannes Astrup and Anna Logic. Next up: Den Anden Side, Copenhagen on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Shaan is a techno and house artist based in Denmark, tracked on soundcheck, with
 
 Entree, Johannes Astrup, Anna Logic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*

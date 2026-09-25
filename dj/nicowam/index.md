@@ -1,6 +1,6 @@
 # Nico WAM
 
-Nico WAM is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Pérola Negra Club, Porto on Sat, 26 Sept 2026.
+Nico WAM is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Pérola Negra Club, Porto on Sat, 26 Sept 2026.
 
 Nico WAM is a house and tech house artist based in Portugal, tracked on soundcheck, with 18 sets logged across Barcelona and Porto. Often billed alongside XipNoize, Gabo Oliveira and Gee Beat. Next up: Pérola Negra Club, Porto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nico WAM is a house and tech house artist based in Portugal, tracked on soundche
 
 XipNoize, Gabo Oliveira, Gee Beat
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicowam/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicowam/)*

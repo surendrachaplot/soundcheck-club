@@ -1,6 +1,6 @@
 # Ryan Ingleby
 
-Ryan Ingleby is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Shrimp, Manchester on Sun, 27 Sept 2026.
+Ryan Ingleby is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Shrimp, Manchester on Sun, 27 Sept 2026.
 
 Ryan Ingleby is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Leeds, London, Manchester and Valencia. Often billed alongside Louie G, Ethan McNamara and Ethan.. Next up: Bar Shrimp, Manchester on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Ryan Ingleby is an electro and techno artist based in United Kingdom, tracked on
 
 Louie G, Ethan McNamara, Ethan.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryaningleby/)*

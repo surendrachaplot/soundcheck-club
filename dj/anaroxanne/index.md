@@ -1,13 +1,14 @@
 # Ana Roxanne
 
-Ana Roxanne is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Arkady Kubickiego - Zamek Królewski w Warszawie, Warsaw on Sat, 3 Oct 2026.
+Ana Roxanne is a Experimental and Ambient artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Ana Roxanne is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside DJ Python, Dreamcrusher and ojoo. Next up: Arkady Kubickiego - Zamek Królewski w Warszawie, Warsaw on Sat 3 Oct.
+Ana Roxanne is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Glasgow and 12 more. Often billed alongside DJ Python, Dawuna and Dreamcrusher. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sat, 3 Oct 2026 | Arkady Kubickiego - Zamek Królewski w Warszawie | Warsaw |
 | Wed, 4 Nov 2026 | The White Hotel | Manchester |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
@@ -26,6 +27,6 @@ Ana Roxanne is an experimental and ambient artist based in United States of Amer
 
 ## Shares bills with
 
-DJ Python, Dreamcrusher, ojoo
+DJ Python, Dawuna, Dreamcrusher
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*

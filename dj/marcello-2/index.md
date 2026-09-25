@@ -1,6 +1,6 @@
 # Marcello (2)
 
-Marcello (2) is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
+Marcello (2) is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paal69, Amsterdam on Sat, 26 Sept 2026.
 
 Marcello is a house and acid artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Austria, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Lucien Foort. Next up: Paal69, Amsterdam on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Marcello is a house and acid artist based in Italy, tracked on soundcheck, with 
 
 Nicola Mazzetti, Alexander Koning, Lucien Foort
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*

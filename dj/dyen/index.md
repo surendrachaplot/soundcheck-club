@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at E1, London on Fri, 25 Sept 2026.
+DYEN is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at E1, London on Fri, 25 Sept 2026.
 
 DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: E1, London on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

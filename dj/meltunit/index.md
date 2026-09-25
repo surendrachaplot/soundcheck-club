@@ -1,6 +1,6 @@
 # Melt Unit
 
-Melt Unit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
+Melt Unit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Burdekin Hotel, Sydney on Fri, 9 Oct 2026.
 
 Melt Unit is a breakcore and hardcore artist based in Australia, tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Elina, Midsizedsedance and Hedonist. Next up: Burdekin Hotel, Sydney on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Melt Unit is a breakcore and hardcore artist based in Australia, tracked on soun
 
 Elina, Midsizedsedance, Hedonist
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltunit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltunit/)*

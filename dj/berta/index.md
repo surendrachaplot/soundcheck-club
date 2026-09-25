@@ -1,6 +1,6 @@
 # berta (ES)
 
-berta (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+berta (ES) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
 berta (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside FUKCNORMAL, Baldman and Maya B. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ berta (ES) is a house and techno artist based in Spain, tracked on soundcheck, w
 
 FUKCNORMAL, Baldman, Maya B
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berta/)*

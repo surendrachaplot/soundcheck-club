@@ -1,6 +1,6 @@
 # TBA - 50:Hertz - House & Techno café
 
-TBA - 50:Hertz - House & Techno café is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "RELO4D invites : The Illumi'Naughties" on Sat, 24 Oct 2026.
+TBA - 50:Hertz - House & Techno café is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "RELO4D invites : The Illumi'Naughties" on Sat, 24 Oct 2026.
 
 TBA - 50:Hertz - House & Techno café is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Dizo, Pedro Mercado and RELO4D. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 50:Hertz - House & Techno café is a music venue in Amsterdam listed on so
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | RELO4D invites : The Illumi'Naughties | Dizo, Pedro Mercado, RELO4D |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-50-hertz-house-techno-caf/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-50-hertz-house-techno-caf/)*

@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a Post-Punk and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
+Cabaret Voltaire is a Post-Punk and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Knockdown Center, New York City on Fri, 25 Sept 2026.
 
 Cabaret Voltaire is a post-punk and industrial artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Brussels and Glasgow and 4 more. Often billed alongside Olga Anna Markowska, 2K88 and 30drop. Next up: Knockdown Center, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Cabaret Voltaire is a post-punk and industrial artist based in United Kingdom, t
 
 Olga Anna Markowska, 2K88, 30drop
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cabaretvoltaire/)*

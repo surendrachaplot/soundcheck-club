@@ -1,6 +1,6 @@
 # Dzeko
 
-Dzeko is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
+Dzeko is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
 
 Dzeko is a techno and electro artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona and Madrid. Often billed alongside Anika Kunst, HERMETICA and Aizikovic. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Dzeko is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 Anika Kunst, HERMETICA, Aizikovic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*

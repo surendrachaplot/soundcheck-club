@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at IFEMA, Madrid on Fri, 25 Sept 2026.
+Winson Ngoh is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at IFEMA, Madrid on Fri, 25 Sept 2026.
 
 Winson Ngoh is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 22 more. Often billed alongside KUKO, Fantasm and Johannes Schuster. Next up: IFEMA, Madrid on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, tracked on s
 
 KUKO, Fantasm, Johannes Schuster
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

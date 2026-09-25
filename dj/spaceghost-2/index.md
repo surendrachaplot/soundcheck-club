@@ -1,6 +1,6 @@
 # Space Ghost
 
-Space Ghost is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 25 Sept 2026.
+Space Ghost is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 25 Sept 2026.
 
 Space Ghost is a house and deep house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin, Copenhagen, London and Los Angeles and 10 more. Often billed alongside nina sol, Sangsih and Sánlo. Next up: Enter Shibuya, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Space Ghost is a house and deep house artist based in United States of America, 
 
 nina sol, Sangsih, Sánlo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceghost-2/)*

@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Fri, 25 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Grelle Forelle, Vienna on Fri, 25 Sept 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Grelle Forelle, Vienna on Fri 25 Sept.
+Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Grelle Forelle, Vienna on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
 | Sat, 24 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 27 Nov 2026 | Amp | Munster |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
@@ -32,4 +33,4 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

@@ -1,6 +1,6 @@
 # Studio Batsumi
 
-Studio Batsumi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+Studio Batsumi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
 Studio Batsumi is a house and italo disco artist based in Italy, tracked on soundcheck, with 15 sets logged across London, Nottingham and Tokyo. Often billed alongside Mr James, Nina Yamada and JOSH FB. Next up: The Cause, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Studio Batsumi is a house and italo disco artist based in Italy, tracked on soun
 
 Mr James, Nina Yamada, JOSH FB
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/studiobatsumi/)*

@@ -1,6 +1,6 @@
 # Dan Piu
 
-Dan Piu is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Dan Piu is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Dan Piu is an electronica and house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 3 more. Often billed alongside Alex Picone, Desyn and DJ Tjizza. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Dan Piu is an electronica and house artist based in Switzerland, tracked on soun
 
 Alex Picone, Desyn, DJ Tjizza
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danpiu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danpiu/)*

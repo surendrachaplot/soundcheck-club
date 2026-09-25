@@ -1,6 +1,6 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Phase Fatale is a Techno and EBM artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Phase Fatale is a techno and ebm artist based in United States of America, tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Berlin and 56 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, track
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

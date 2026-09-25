@@ -1,6 +1,6 @@
 # Bosq
 
-Bosq is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
+Bosq is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gwenda, London on Fri, 2 Oct 2026.
 
 Bosq is a funk / soul and afrobeat artist tracked on soundcheck, with 7 sets logged across Berlin, Istanbul, Leeds and London and 3 more. Often billed alongside Bedu, CHEWCHEW and Carlo. Next up: Gwenda, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Bosq is a funk / soul and afrobeat artist tracked on soundcheck, with 7 sets log
 
 Bedu, CHEWCHEW, Carlo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosq/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosq/)*

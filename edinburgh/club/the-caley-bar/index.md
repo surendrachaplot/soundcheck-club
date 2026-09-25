@@ -1,6 +1,6 @@
 # The Caley Bar
 
-The Caley Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Caley Bar DJ Sessions: Ann Tweak" on Fri, 25 Sept 2026.
+The Caley Bar is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Caley Bar DJ Sessions: Ann Tweak" on Fri, 25 Sept 2026.
 
 The Caley Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Ann Tweak. Browse upcoming dates, start times and who's playing. Princes Street, Edinburgh, United Kingdom EH1 2AB.
 
@@ -15,4 +15,4 @@ The Caley Bar is a music venue in Edinburgh listed on soundcheck. 2 upcoming gig
 
 Princes Street, Edinburgh, United Kingdom EH1 2AB, Edinburgh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-caley-bar/)*

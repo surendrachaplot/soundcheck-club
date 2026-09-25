@@ -1,6 +1,6 @@
 # Ryan Lovell
 
-Ryan Lovell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
+Ryan Lovell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
 
 Ryan Lovell is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Bristol and London and 4 more. Often billed alongside Nadine Noor, Donnie Sunshine and Baby Cocada. Next up: Unit 58, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ryan Lovell is a house and techno artist based in United Kingdom, tracked on sou
 
 Nadine Noor, Donnie Sunshine, Baby Cocada
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*

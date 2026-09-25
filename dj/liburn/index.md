@@ -1,6 +1,6 @@
 # Liburn
 
-Liburn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Liburn is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Liburn is a minimal and house artist based in Kosovo, tracked on soundcheck, with 9 sets logged across Belgrade, Berlin, Bucharest and Geneva and 2 more. Often billed alongside Altin Boshnjaku, Hagel and Raresh. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Liburn is a minimal and house artist based in Kosovo, tracked on soundcheck, wit
 
 Altin Boshnjaku, Hagel, Raresh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liburn/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liburn/)*

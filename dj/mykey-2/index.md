@@ -1,18 +1,18 @@
 # Mykey (2)
 
-Mykey (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Suns Shimokitazawa, Tokyo on Thu, 24 Sept 2026.
+Mykey (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 88block, Tokyo on Fri, 2 Oct 2026.
 
-Mykey is a bass and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Berlin and Tokyo. Often billed alongside Leefia, Ozwick and KCT. Next up: Suns Shimokitazawa, Tokyo on Thu 24 Sept.
+Mykey is a bass and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Berlin and Tokyo. Often billed alongside Leefia, Ozwick and KCT. Next up: 88block, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Suns Shimokitazawa | Tokyo |
 | Fri, 2 Oct 2026 | 88block | Tokyo |
 
 ## Recently played
 
+- Suns Shimokitazawa, Tokyo — Thu, 24 Sept 2026
 - R Lounge, Tokyo — Fri, 4 Sept 2026
 - Live Haus, Tokyo — Mon, 17 Aug 2026
 - VENT, Tokyo — Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Mykey is a bass and techno artist based in Japan, tracked on soundcheck, with 29
 - Bonobo, Tokyo — Sat, 20 Jun 2026
 - Ruby Room, Tokyo — Fri, 19 Jun 2026
 - Suns Shimokitazawa, Tokyo — Sat, 13 Jun 2026
-- Suns Shimokitazawa, Tokyo — Thu, 21 May 2026
 
 ## Shares bills with
 
 Leefia, Ozwick, KCT (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykey-2/)*

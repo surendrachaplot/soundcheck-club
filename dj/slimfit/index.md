@@ -1,6 +1,6 @@
 # Slimfit
 
-Slimfit is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
+Slimfit is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
 
 Slimfit is a techno and house artist based in Netherlands, tracked on soundcheck, with 126 sets logged across Amsterdam, Berlin, Helsinki and Lisbon and 5 more. Often billed alongside angelboy, DIORA and YoungWoman. Next up: Mono, Rotterdam on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Slimfit is a techno and house artist based in Netherlands, tracked on soundcheck
 
 angelboy, DIORA, YoungWoman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimfit/)*

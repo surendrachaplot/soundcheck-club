@@ -1,6 +1,6 @@
 # TBA - Undertone Studio
 
-TBA - Undertone Studio is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tone Zone Leiden #5" on Fri, 25 Sept 2026.
+TBA - Undertone Studio is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Tone Zone Leiden #5" on Fri, 25 Sept 2026.
 
 TBA - Undertone Studio is a music venue in The Hague listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Undertone Studio is a music venue in The Hague listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Tone Zone Leiden #5 |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-undertone-studio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/tba-undertone-studio/)*

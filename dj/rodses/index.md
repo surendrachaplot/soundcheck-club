@@ -1,6 +1,6 @@
 # RODS (ES)
 
-RODS (ES) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sala Cocó, Madrid on Sat, 17 Oct 2026.
+RODS (ES) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sala Cocó, Madrid on Sat, 17 Oct 2026.
 
 RODS (ES) is a techno and trance artist based in Spain, tracked on soundcheck, with 16 sets logged across Madrid. Often billed alongside Venus de Milo, Fernanda Martins and JAIROSKUN. Next up: Sala Cocó, Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ RODS (ES) is a techno and trance artist based in Spain, tracked on soundcheck, w
 
 Venus de Milo, Fernanda Martins, JAIROSKUN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodses/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodses/)*

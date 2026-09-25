@@ -1,6 +1,6 @@
 # Sam The Bastard
 
-Sam The Bastard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 31 Oct 2026.
+Sam The Bastard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 31 Oct 2026.
 
 Sam The Bastard is a techno and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Liverpool and Manchester. Often billed alongside Luke Daniels, Craig Campbell and Esmé. Next up: Eastern Bloc Records, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sam The Bastard is a techno and house artist based in United Kingdom, tracked on
 
 Luke Daniels, Craig Campbell, Esmé
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samthebastard/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samthebastard/)*

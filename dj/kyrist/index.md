@@ -1,6 +1,6 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
+Kyrist is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Muovitehdas, Finland on Fri, 25 Sept 2026.
 
 Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Berlin and Brighton and 12 more. Often billed alongside SP:MC, Visionobi and Calyx. Next up: Muovitehdas, Finland on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 SP:MC, Visionobi, Calyx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*

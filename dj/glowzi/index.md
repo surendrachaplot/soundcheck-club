@@ -1,8 +1,8 @@
 # G L O W Z I
 
-G L O W Z I is a House and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
+G L O W Z I is a House and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Near Villeray, Montreal on Sat, 26 Sept 2026.
 
-G L O W Z I is a house and afrobeat artist based in Canada, tracked on soundcheck, with 34 sets logged across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
+G L O W Z I is a house and afrobeat artist based in Canada, tracked on soundcheck, with 35 sets logged across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: TBA - Near Villeray, Montreal on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ G L O W Z I is a house and afrobeat artist based in Canada, tracked on soundchec
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Near Villeray | Montreal |
 | Thu, 1 Oct 2026 | Système | Montreal |
+| Thu, 22 Oct 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ G L O W Z I is a house and afrobeat artist based in Canada, tracked on soundchec
 
 IAMNOTMYHISTORY, Alina (MTL), Guthrie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*

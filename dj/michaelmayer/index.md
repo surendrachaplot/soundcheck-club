@@ -1,6 +1,6 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at fi, Cologne on Fri, 25 Sept 2026.
+Michael Mayer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at fi, Cologne on Fri, 25 Sept 2026.
 
 Michael Mayer is a techno and house artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Ada. Next up: fi, Cologne on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Michael Mayer is a techno and house artist based in Germany, tracked on soundche
 
 Robag Wruhme, Reinhard Voigt, Ada
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

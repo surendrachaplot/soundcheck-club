@@ -1,6 +1,6 @@
 # Global
 
-Global is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Lark, Berlin on Thu, 1 Oct 2026.
+Global is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Lark, Berlin on Thu, 1 Oct 2026.
 
 Global is an experimental and electro artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Sodomland, Blood of Aza and Europa. Next up: Lark, Berlin on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Global is an experimental and electro artist based in Germany, tracked on soundc
 
 Sodomland, Blood of Aza, Europa (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/global/)*

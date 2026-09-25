@@ -1,14 +1,15 @@
 # Belaria
 
-Belaria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
+Belaria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
 
-Belaria is a techno and house artist based in France, tracked on soundcheck, with 69 sets logged across Berlin, Brussels, Geneva and London and 10 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Kilomètre25, Paris on Fri 25 Sept.
+Belaria is a techno and house artist based in France, tracked on soundcheck, with 70 sets logged across Berlin, Bordeaux, Brussels and Geneva and 11 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Kilomètre25, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Kilomètre25 | Paris |
+| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Belaria is a techno and house artist based in France, tracked on soundcheck, wit
 
 Kendal, Mézigue, Olympe4000
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

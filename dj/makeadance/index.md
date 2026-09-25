@@ -1,6 +1,6 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hope House, Leeds on Fri, 25 Sept 2026.
+Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hope House, Leeds on Fri, 25 Sept 2026.
 
 Make A Dance is a house and disco artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Auckland, Bali and Bangkok and 29 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Hope House, Leeds on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Make A Dance is a house and disco artist based in United Kingdom, tracked on sou
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

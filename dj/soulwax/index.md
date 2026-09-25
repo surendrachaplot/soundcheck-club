@@ -1,6 +1,6 @@
 # Soulwax
 
-Soulwax is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+Soulwax is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Soulwax is an electro and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside 2ManyDJs, Azzecca and 999999999. Next up: TBA - Pier 80, San Francisco/Oakland on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Soulwax is an electro and house artist based in United Kingdom, tracked on sound
 
 2ManyDJs, Azzecca, 999999999
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwax/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwax/)*

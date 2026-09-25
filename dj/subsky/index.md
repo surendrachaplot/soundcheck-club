@@ -1,6 +1,6 @@
 # Subsky
 
-Subsky is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 25 Sept 2026.
+Subsky is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Minimüzikhol, Istanbul on Fri, 25 Sept 2026.
 
 Subsky is a house and deep house artist based in Turkey, tracked on soundcheck, with 40 sets logged across Istanbul. Often billed alongside Fuchs, Barish Turker and Cem Ozden. Next up: Minimüzikhol, Istanbul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Subsky is a house and deep house artist based in Turkey, tracked on soundcheck, 
 
 Fuchs, Barish Turker, Cem Ozden
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subsky/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subsky/)*

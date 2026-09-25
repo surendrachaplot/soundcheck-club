@@ -1,6 +1,6 @@
 # DJ Ray
 
-DJ Ray is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mad Radio Miami, Miami on Sat, 26 Sept 2026.
+DJ Ray is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mad Radio Miami, Miami on Sat, 26 Sept 2026.
 
 DJ Ray is a house and baile funk artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Detroit, Glasgow and Lisbon and 4 more. Often billed alongside Bakke, Coffintexts and Liquid J. Next up: Mad Radio Miami, Miami on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Ray is a house and baile funk artist based in Spain, tracked on soundcheck, w
 
 Bakke, Coffintexts, Liquid J
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djray/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djray/)*

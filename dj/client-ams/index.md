@@ -1,6 +1,6 @@
 # Client
 
-Client is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
+Client is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ministerium Club, Lisbon on Sat, 26 Sept 2026.
 
 Client is a techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Lisbon, Malta and Utrecht. Often billed alongside Lobster (NL), Beste Hira and Blasha & Allatt. Next up: Ministerium Club, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Client is a techno artist based in Netherlands, tracked on soundcheck, with 11 s
 
 Lobster (NL), Beste Hira, Blasha & Allatt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/client-ams/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/client-ams/)*

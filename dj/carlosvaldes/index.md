@@ -1,6 +1,6 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
+Carlos Valdes is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Klymax Discotheque, Bali on Fri, 25 Sept 2026.
 
 Carlos Valdes is a house and techno artist based in Netherlands, tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside TITIA, Vuur and Muallem. Next up: Klymax Discotheque, Bali on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Carlos Valdes is a house and techno artist based in Netherlands, tracked on soun
 
 TITIA, Vuur, Muallem
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

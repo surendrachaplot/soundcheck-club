@@ -1,8 +1,8 @@
 # VTSS
 
-VTSS is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+VTSS is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
-VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Austin and Bali and 59 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
+VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Austin and Bali and 60 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 1
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 27 Sept 2026 | The Midway | San Francisco/Oakland |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | Silencio | Paris |
 | Sat, 3 Oct 2026 | Jasna 1 | Warsaw |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
@@ -19,7 +20,6 @@ VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 1
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 4 Dec 2026 | Preston Warehouse | Melbourne |
-| Sat, 5 Dec 2026 | Preston Warehouse | Melbourne |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 1
 
 Boys Noize, I Hate Models, Patrick Mason
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

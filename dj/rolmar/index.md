@@ -1,6 +1,6 @@
 # Rolmar
 
-Rolmar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+Rolmar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
 Rolmar is a house and tech house artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Amsterdam and Brussels. Often billed alongside Malom, SHAY and Karina.. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Rolmar is a house and tech house artist based in Switzerland, tracked on soundch
 
 Malom, SHAY, Karina.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolmar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolmar/)*

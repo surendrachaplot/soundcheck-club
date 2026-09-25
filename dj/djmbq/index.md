@@ -1,6 +1,6 @@
 # DJ MBq
 
-DJ MBq is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Coil, Melbourne on Fri, 25 Sept 2026.
+DJ MBq is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Coil, Melbourne on Fri, 25 Sept 2026.
 
 DJ MBq is a house and disco artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne. Often billed alongside DJ SWELLA, Mark Moon and Brother Julian. Next up: Coil, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ MBq is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 DJ SWELLA, Mark Moon, Brother Julian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmbq/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmbq/)*

@@ -1,6 +1,6 @@
 # Snuggle
 
-Snuggle is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gammel Strand, Copenhagen on Sat, 3 Oct 2026.
+Snuggle is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gammel Strand, Copenhagen on Sat, 3 Oct 2026.
 
 Snuggle is an experimental and hip-hop artist based in Denmark, tracked on soundcheck, with 13 sets logged across Berlin, Copenhagen, London and Los Angeles and 3 more. Often billed alongside Alexis Taylor, Ben Pest and Carlo Karacho. Next up: Gammel Strand, Copenhagen on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Snuggle is an experimental and hip-hop artist based in Denmark, tracked on sound
 
 Alexis Taylor, Ben Pest, Carlo Karacho
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snuggle/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snuggle/)*

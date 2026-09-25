@@ -1,6 +1,6 @@
 # 821 Runnymede Rd
 
-821 Runnymede Rd is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "liberti healey" on Mon, 28 Sept 2026.
+821 Runnymede Rd is a music venue in Toronto with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "liberti healey" on Mon, 28 Sept 2026.
 
 821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 5 upcoming gigs, with line-ups including 1tbsp, Ana Luisa, Choirboi and Eskha and 2 more. Browse upcoming dates, start times and who's playing. 821 Runnymede Rd.
 
@@ -18,4 +18,4 @@
 
 821 Runnymede Rd, Toronto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/821-runnymede-rd/)*

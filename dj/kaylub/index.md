@@ -1,6 +1,6 @@
 # Kaylub
 
-Kaylub is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
+Kaylub is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Comfort Zone, Toronto on Fri, 25 Sept 2026.
 
 Kaylub is a techno and tech house artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Angelphroot, Ms. GothicFish and UNCL Mike. Next up: The Comfort Zone, Toronto on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Kaylub is a techno and tech house artist based in Canada, tracked on soundcheck,
 
 Angelphroot, Ms. GothicFish, UNCL Mike
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylub/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaylub/)*

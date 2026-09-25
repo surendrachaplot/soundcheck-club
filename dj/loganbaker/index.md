@@ -1,6 +1,6 @@
 # Logan Baker
 
-Logan Baker is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Silent Studios, Auckland on Sat, 17 Oct 2026.
+Logan Baker is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Silent Studios, Auckland on Sat, 17 Oct 2026.
 
 Logan Baker is a house and tech house artist based in New Zealand, tracked on soundcheck, with 37 sets logged across Auckland, Berlin, Melbourne and Sydney. Often billed alongside Mia Kober, DirdyGerdi and Sanoi. Next up: Silent Studios, Auckland on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Logan Baker is a house and tech house artist based in New Zealand, tracked on so
 
 Mia Kober, DirdyGerdi, Sanoi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganbaker/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganbaker/)*

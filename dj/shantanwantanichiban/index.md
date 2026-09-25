@@ -1,6 +1,6 @@
 # Shantan Wantan Ichiban
 
-Shantan Wantan Ichiban is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
+Shantan Wantan Ichiban is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
 
 Shantan Wantan Ichiban is a house and techno artist based in Australia, tracked on soundcheck, with 31 sets logged across Bali, Hobart, Melbourne and Sydney. Often billed alongside Farnozz, Jacqui Cunningham and 3urieb. Next up: Preston Warehouse, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shantan Wantan Ichiban is a house and techno artist based in Australia, tracked 
 
 Farnozz, Jacqui Cunningham, 3urieb
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantanwantanichiban/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shantanwantanichiban/)*

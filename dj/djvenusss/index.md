@@ -1,6 +1,6 @@
 # DJ VENUSSS
 
-DJ VENUSSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Sat, 10 Oct 2026.
+DJ VENUSSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Helios37, Cologne on Sat, 10 Oct 2026.
 
 DJ VENUSSS is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Cologne, Düsseldorf and Vienna. Often billed alongside Gutkind, Juan Del Chambo and DJ Sweet And Sour. Next up: Helios37, Cologne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ VENUSSS is a techno and trance artist based in Germany, tracked on soundcheck
 
 Gutkind, Juan Del Chambo, DJ Sweet And Sour
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvenusss/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvenusss/)*

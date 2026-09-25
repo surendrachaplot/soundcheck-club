@@ -1,6 +1,6 @@
 # Yu Kawabata
 
-Yu Kawabata is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at IT Athens, Athens on Sat, 14 Nov 2026.
+Yu Kawabata is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at IT Athens, Athens on Sat, 14 Nov 2026.
 
 Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundcheck, with 17 sets logged across Athens, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside MAX DURANTE, FENGX2 and Kleyver Reyes. Next up: IT Athens, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yu Kawabata is a techno and industrial artist based in Japan, tracked on soundch
 
 MAX DURANTE, FENGX2, Kleyver Reyes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yukawabata/)*

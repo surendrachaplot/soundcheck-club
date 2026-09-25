@@ -1,6 +1,6 @@
 # Joni DJ
 
-Joni DJ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Post Bar, Helsinki on Sat, 10 Oct 2026.
+Joni DJ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Post Bar, Helsinki on Sat, 10 Oct 2026.
 
 Joni DJ is a house and techno artist based in Finland, tracked on soundcheck, with 88 sets logged across Barcelona, Berlin, Helsinki and New York City and 5 more. Often billed alongside Denzel, Daniel Kayrouz and Justus Valtanen. Next up: Post Bar, Helsinki on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ Joni DJ is a house and techno artist based in Finland, tracked on soundcheck, wi
 
 Denzel, Daniel Kayrouz, Justus Valtanen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*

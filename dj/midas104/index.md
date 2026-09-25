@@ -1,6 +1,6 @@
 # Midas 104
 
-Midas 104 is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Golden Gate, Berlin on Fri, 9 Oct 2026.
+Midas 104 is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Golden Gate, Berlin on Fri, 9 Oct 2026.
 
 Midas 104 is a techno and deep house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Stuttgart and 1 more. Often billed alongside Kollektiv Sheesh, Stiefel One and Al Aslan. Next up: Golden Gate, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Midas 104 is a techno and deep house artist based in Germany, tracked on soundch
 
 Kollektiv Sheesh, Stiefel One, Al Aslan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midas104/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midas104/)*

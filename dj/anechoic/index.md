@@ -1,6 +1,6 @@
 # Anechoic
 
-Anechoic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Anechoic is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Anechoic is a techno and ambient artist based in Morocco, tracked on soundcheck, with 13 sets logged across Berlin, Lyon, Osaka and Paris and 1 more. Often billed alongside Diapasøn, Mersel and Squaric. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Anechoic is a techno and ambient artist based in Morocco, tracked on soundcheck,
 
 Diapasøn, Mersel, Squaric
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anechoic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anechoic/)*

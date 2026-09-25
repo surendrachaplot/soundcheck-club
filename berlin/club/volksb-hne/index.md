@@ -1,6 +1,6 @@
 # Volksbühne
 
-Volksbühne is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Heith und Tarawangsawelas: Duori" on Fri, 9 Oct 2026.
+Volksbühne is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Heith und Tarawangsawelas: Duori" on Fri, 9 Oct 2026.
 
 Volksbühne is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Bapari, Heith and Space Afrika. Browse upcoming dates, start times and who's playing. Rosa-Luxemburg-Platz, 10178 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Volksbühne is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, wi
 
 Rosa-Luxemburg-Platz, 10178 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/volksb-hne/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/volksb-hne/)*

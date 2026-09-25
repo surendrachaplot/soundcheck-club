@@ -1,6 +1,6 @@
 # D-Grade
 
-D-Grade is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
+D-Grade is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Miscellania, Melbourne on Fri, 25 Sept 2026.
 
 D-Grade is a techno and club artist based in Australia, tracked on soundcheck, with 55 sets logged across Athens, Melbourne, Shenzhen and Sydney and 1 more. Often billed alongside Paramat, Moopie and Paramat. Next up: Miscellania, Melbourne on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ D-Grade is a techno and club artist based in Australia, tracked on soundcheck, w
 
 Paramat, Moopie, Paramat (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-grade/)*

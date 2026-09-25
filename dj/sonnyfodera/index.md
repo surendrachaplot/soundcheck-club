@@ -1,6 +1,6 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pacha New York, New York City on Fri, 25 Sept 2026.
+Sonny Fodera is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Pacha New York, New York City on Fri, 25 Sept 2026.
 
 Sonny Fodera is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Pacha New York, New York City on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Sonny Fodera is a house and tech house artist based in United Kingdom, tracked o
 
 Danny Howard, Gorgon City, Greta Levska
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnyfodera/)*

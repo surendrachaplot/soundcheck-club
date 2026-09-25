@@ -1,14 +1,15 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Pan-Pot is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
-Pan-Pot is a techno and house artist based in Germany, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Austria and 56 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Etko, Cyprus on Fri 25 Sept.
+Pan-Pot is a techno and house artist based in Germany, tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Austria and 57 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Etko, Cyprus on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Etko | Cyprus |
+| Sat, 3 Oct 2026 | TBA - BBBANK WILDPARK  | Karlsruhe |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Grelle Forelle | Vienna |
 | Fri, 16 Oct 2026 | Hangar Luke Beograd | Belgrade |
@@ -32,4 +33,4 @@ Pan-Pot is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

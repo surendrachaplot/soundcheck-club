@@ -1,6 +1,6 @@
 # FAG HAG
 
-FAG HAG is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
+FAG HAG is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
 
 FAG HAG is a techno and electronica artist based in Spain, tracked on soundcheck, with 12 sets logged across Valencia. Often billed alongside Angelinanyulí, Vulva Vitamina and Ariezzz. Next up: 16 Toneladas, Valencia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ FAG HAG is a techno and electronica artist based in Spain, tracked on soundcheck
 
 Angelinanyulí, Vulva Vitamina, Ariezzz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faghag/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faghag/)*

@@ -1,6 +1,6 @@
 # N-Type
 
-N-Type is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
+N-Type is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
 
 N-Type is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Bristol and Denver and 8 more. Often billed alongside MINTY, SGT Pokes and DFUSE. Next up: Panke, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ N-Type is a dubstep and bass artist based in United Kingdom, tracked on soundche
 
 MINTY, SGT Pokes, DFUSE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*

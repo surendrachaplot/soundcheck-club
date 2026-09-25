@@ -1,6 +1,6 @@
 # o! michello!
 
-o! michello! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
+o! michello! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Biblioteca di Parco Sempione, Milan on Sun, 4 Oct 2026.
 
 o! michello! is a house and disco artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside Deckneeco, Guayaba and Violett Moon. Next up: Biblioteca di Parco Sempione, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ o! michello! is a house and disco artist based in Italy, tracked on soundcheck, 
 
 Deckneeco, Guayaba, Violett Moon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o!michello!/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o!michello!/)*

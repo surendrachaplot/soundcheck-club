@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+BØĘRY is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
 BØĘRY is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ BØĘRY is a techno and industrial artist based in Netherlands, tracked on sound
 
 BLNK, TiTi, IOSIO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

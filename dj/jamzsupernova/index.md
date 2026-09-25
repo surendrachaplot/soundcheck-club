@@ -1,6 +1,6 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Jamz Supernova is a House and Funk / Soul artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Jamz Supernova is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -9,7 +9,6 @@ Jamz Supernova is a house and funk / soul artist based in United Kingdom, tracke
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Various Venues | London |
-| Thu, 24 Sept 2026 | Dahlia Stereo | Manchester |
 | Fri, 2 Oct 2026 | QUIVR | Brisbane |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -21,17 +20,17 @@ Jamz Supernova is a house and funk / soul artist based in United Kingdom, tracke
 
 ## Recently played
 
+- Various Venues, London — Thu, 24 Sept 2026
+- Dahlia Stereo, Manchester — Thu, 24 Sept 2026
 - Colour Factory, London — Thu, 17 Sept 2026
 - Hackney Bridge, London — Sat, 29 Aug 2026
 - The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - SWG3, Glasgow — Sun, 26 Jul 2026
 - Jumbi, London — Sat, 18 Jul 2026
 - Queen Elizabeth Olympic Park, London — Sat, 11 Jul 2026
-- Moseley Park, Birmingham — Fri, 10 Jul 2026
-- First Light Festival, London — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Tash LC, Ezra Collective, Gilles Peterson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*

@@ -1,6 +1,6 @@
 # Her
 
-Her is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "VERSUS - Hans DC vs Matt Radovich - All Night Long" on Sat, 26 Sept 2026.
+Her is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "VERSUS - Hans DC vs Matt Radovich - All Night Long" on Sat, 26 Sept 2026.
 
 Her is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Matt Radovich. Browse upcoming dates, start times and who's playing. 270 Lonsdale St, Melbourne, Australia.
 
@@ -14,4 +14,4 @@ Her is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with lin
 
 270 Lonsdale St, Melbourne, Australia, Melbourne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/her/)*

@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Studios, Vancouver on Fri, 25 Sept 2026.
+Dean Turnley is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Village Studios, Vancouver on Fri, 25 Sept 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 27 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside MPH, Skepta and Ewan McVicar. Next up: Village Studios, Vancouver on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 MPH (1), Skepta, Ewan McVicar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

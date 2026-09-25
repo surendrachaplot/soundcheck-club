@@ -1,6 +1,6 @@
 # Minopolska
 
-Minopolska is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Barrio Cafe, Brussels on Fri, 16 Oct 2026.
+Minopolska is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Barrio Cafe, Brussels on Fri, 16 Oct 2026.
 
 Minopolska is a techno and acid artist tracked on soundcheck, with 17 sets logged across Antwerp, Barcelona, Brussels and Ghent and 6 more. Often billed alongside Clemente Loffredo, DEBBIE (IT) and Gabriel Padrevita. Next up: Barrio Cafe, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Minopolska is a techno and acid artist tracked on soundcheck, with 17 sets logge
 
 Clemente Loffredo, DEBBIE (IT), Gabriel Padrevita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minopolska/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minopolska/)*

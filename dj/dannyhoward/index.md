@@ -1,6 +1,6 @@
 # Danny Howard
 
-Danny Howard is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Danny Howard is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Danny Howard is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Danny Howard is a house and tech house artist based in United Kingdom, tracked o
 
 Sonny Fodera, Gorgon City, Greta Levska
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*

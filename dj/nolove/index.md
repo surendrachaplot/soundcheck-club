@@ -1,6 +1,6 @@
 # Nolove
 
-Nolove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
+Nolove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
 
 Nolove is a house and techno artist based in South Korea, tracked on soundcheck, with 113 sets logged across Seoul. Often billed alongside Youngseok, Gyusco and Riskii. Next up: Stoked&stoned, Seoul on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Nolove is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Youngseok, Gyusco, Riskii (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolove/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolove/)*

@@ -1,6 +1,6 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "OVERDRIVE: 추석대전" on Fri, 25 Sept 2026.
+Lion Super Club is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "OVERDRIVE: 추석대전" on Fri, 25 Sept 2026.
 
 Lion Super Club is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including Bliss, CamelPhat, Dorothy (NL) and GG and 2 more. Browse upcoming dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
@@ -17,4 +17,4 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 4 upcoming gigs,
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

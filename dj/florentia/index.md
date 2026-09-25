@@ -1,6 +1,6 @@
 # FLORENTIA
 
-FLORENTIA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+FLORENTIA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 FLORENTIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Central and Ibiza and 5 more. Often billed alongside GW Harrison, Jamie Jones and ALISHA. Next up: TBA, Central on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ FLORENTIA is a house and tech house artist based in United Kingdom, tracked on s
 
 GW Harrison, Jamie Jones, ALISHA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florentia/)*

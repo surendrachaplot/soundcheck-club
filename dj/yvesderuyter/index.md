@@ -1,6 +1,6 @@
 # Yves Deruyter
 
-Yves Deruyter is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sala Groove, Madrid on Sat, 21 Nov 2026.
+Yves Deruyter is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sala Groove, Madrid on Sat, 21 Nov 2026.
 
 Yves Deruyter is a techno and electronica artist based in Belgium, tracked on soundcheck, with 15 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Bibi Seck, John Noseda and Lolalita. Next up: Sala Groove, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Yves Deruyter is a techno and electronica artist based in Belgium, tracked on so
 
 Bibi Seck, John Noseda, Lolalita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesderuyter/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvesderuyter/)*

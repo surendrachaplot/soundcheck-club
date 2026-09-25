@@ -1,6 +1,6 @@
 # Takenbymarshall
 
-Takenbymarshall is a Hardcore and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
+Takenbymarshall is a Hardcore and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Otaqlab Bangkok, Bangkok on Sat, 3 Oct 2026.
 
 Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Bangkok, Glasgow, London and Manchester. Often billed alongside Compulsive Leia, alterum and it_dont_Matt.er. Next up: Otaqlab Bangkok, Bangkok on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Takenbymarshall is a hardcore and breakcore artist based in United Kingdom, trac
 
 Compulsive Leia, alterum, it_dont_Matt.er
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenbymarshall/)*

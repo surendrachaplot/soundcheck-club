@@ -1,6 +1,6 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Torren Foot is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Torren Foot is a house and tech house artist based in Australia, tracked on soundcheck, with 50 sets logged across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Dom Dolla and Sonny Fodera. Next up: Waterfront Park in San Diego, San Diego on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Torren Foot is a house and tech house artist based in Australia, tracked on soun
 
 Airwolf Paradise, Dom Dolla, Sonny Fodera
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

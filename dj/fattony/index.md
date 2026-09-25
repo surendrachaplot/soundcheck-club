@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Fattony is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
 Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 32 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Natasha Diggs. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 Horse Meat Disco, Melvo Baptiste, Natasha Diggs
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

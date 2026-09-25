@@ -1,14 +1,13 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Thu, 24 Sept 2026.
+Jade Seatle is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 17 Little Portland Street, London on Thu, 1 Oct 2026.
 
-Jade Seatle is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: La Cheetah Club, Glasgow on Thu 24 Sept.
+Jade Seatle is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Jane Fitz, NIGHT MOVES and Seb Odyssey. Next up: 17 Little Portland Street, London on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | La Cheetah Club | Glasgow |
 | Thu, 1 Oct 2026 | 17 Little Portland Street | London |
 | Fri, 9 Oct 2026 | Gaffe | London |
 | Sun, 11 Oct 2026 | Masada | Milan |
@@ -17,6 +16,7 @@ Jade Seatle is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- La Cheetah Club, Glasgow — Thu, 24 Sept 2026
 - THE MAGICK BAR, Rome — Thu, 17 Sept 2026
 - Arch 535, London — Sat, 5 Sept 2026
 - Next Door Records, London — Sat, 20 Jun 2026
@@ -24,10 +24,9 @@ Jade Seatle is a house and techno artist based in United Kingdom, tracked on sou
 - NUMBER 90 LONDON, London — Sat, 23 May 2026
 - Gaffe, London — Sat, 16 May 2026
 - FOLD, London — Sat, 25 Apr 2026
-- The Lion and Lamb, London — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Jane Fitz, NIGHT MOVES, Seb Odyssey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

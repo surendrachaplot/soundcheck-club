@@ -1,6 +1,6 @@
 # chani
 
-chani is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hertz, Seoul on Fri, 25 Sept 2026.
+chani is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hertz, Seoul on Fri, 25 Sept 2026.
 
 chani is a techno and electro artist based in South Korea, tracked on soundcheck, with 30 sets logged across Berlin, Lyon and Seoul. Often billed alongside Kyuchan, Yoel and .2ndfloor. Next up: Hertz, Seoul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ chani is a techno and electro artist based in South Korea, tracked on soundcheck
 
 Kyuchan, Yoel, .2ndfloor
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chani-2/)*

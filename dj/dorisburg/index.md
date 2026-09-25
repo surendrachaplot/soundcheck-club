@@ -1,6 +1,6 @@
 # Dorisburg
 
-Dorisburg is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
+Dorisburg is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
 
 Dorisburg is a techno and house artist based in Sweden, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Oberman, Laura BCR and Luigi Tozzi. Next up: UMI, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Dorisburg is a techno and house artist based in Sweden, tracked on soundcheck, w
 
 Oberman, Laura BCR, Luigi Tozzi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*

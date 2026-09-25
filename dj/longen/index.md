@@ -1,6 +1,6 @@
 # Longen
 
-Longen is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rua Carlos Del Prete, 36 - Centro, São Bernardo do Campo - SP, 09710-230, Brasil, Sao Paulo on Fri, 25 Sept 2026.
+Longen is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Rua Carlos Del Prete, 36 - Centro, São Bernardo do Campo - SP, 09710-230, Brasil, Sao Paulo on Fri, 25 Sept 2026.
 
 Longen is a techno and acid artist tracked on soundcheck, with 6 sets logged across Sao Paulo. Often billed alongside Acid Asian, Amanda Chang and DJ Godfather. Next up: TBA - Rua Carlos Del Prete, 36 - Centro, São Bernardo do Campo - SP, 09710-230, Brasil, Sao Paulo on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Longen is a techno and acid artist tracked on soundcheck, with 6 sets logged acr
 
 Acid Asian, Amanda Chang, DJ Godfather
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longen/)*

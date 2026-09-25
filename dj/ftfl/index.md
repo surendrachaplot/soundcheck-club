@@ -1,6 +1,6 @@
 # FTFL
 
-FTFL is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KALT, Strasbourg on Sat, 24 Oct 2026.
+FTFL is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KALT, Strasbourg on Sat, 24 Oct 2026.
 
 FTFL is a techno and dub techno artist based in France, tracked on soundcheck, with 10 sets logged across Strasbourg. Often billed alongside Arbo, Clarence Rise and Diliman. Next up: KALT, Strasbourg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FTFL is a techno and dub techno artist based in France, tracked on soundcheck, w
 
 Arbo, Clarence Rise, Diliman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ftfl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ftfl/)*

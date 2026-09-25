@@ -1,6 +1,6 @@
 # Pbox Stnd
 
-Pbox Stnd is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "UKYO LAST PARTY" on Fri, 25 Sept 2026.
+Pbox Stnd is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "UKYO LAST PARTY" on Fri, 25 Sept 2026.
 
 Pbox Stnd is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Pbox Stnd is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs. Brows
 | Fri, 25 Sept 2026 | UKYO LAST PARTY |  |
 | Sat, 26 Sept 2026 | FROM TILL DUSK DISCO |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/pbox-stnd/)*

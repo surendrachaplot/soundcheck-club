@@ -1,15 +1,13 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+Serafina is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
-Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
+Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 165 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
-| Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 26 Sept 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | Schrotty | Cologne |
@@ -23,17 +21,17 @@ Serafina is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
 - Son Fusteret, Mallorca — Sat, 19 Sept 2026
 - Else, Berlin — Fri, 18 Sept 2026
 - Fabrik, Madrid — Sat, 12 Sept 2026
 - Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

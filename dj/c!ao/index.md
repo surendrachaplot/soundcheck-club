@@ -1,6 +1,6 @@
 # C!AO
 
-C!AO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+C!AO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
 
 C!AO is a psytrance and techno artist based in Japan, tracked on soundcheck, with 36 sets logged across Bangkok, Osaka and Seoul. Often billed alongside MARIHO, Tom Monkey and MASOI. Next up: 南港三角公園, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ C!AO is a psytrance and techno artist based in Japan, tracked on soundcheck, wit
 
 MARIHO, Tom Monkey, MASOI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c!ao/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c!ao/)*

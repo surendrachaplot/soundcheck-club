@@ -1,6 +1,6 @@
 # Martin Heimann
 
-Martin Heimann is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at saasfee*pavillon, Frankfurt on Fri, 25 Sept 2026.
+Martin Heimann is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at saasfee*pavillon, Frankfurt on Fri, 25 Sept 2026.
 
 Martin Heimann is a house and new wave artist based in Germany, tracked on soundcheck, with 10 sets logged across Düsseldorf and Frankfurt. Often billed alongside Aprill, Modo Alto and INKASSO. Next up: saasfee*pavillon, Frankfurt on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Martin Heimann is a house and new wave artist based in Germany, tracked on sound
 
 Aprill, Modo Alto, INKASSO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinheimann/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinheimann/)*

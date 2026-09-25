@@ -1,6 +1,6 @@
 # IFEMA
 
-IFEMA is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BlackWorks VII Anniversary Madrid" on Fri, 25 Sept 2026.
+IFEMA is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BlackWorks VII Anniversary Madrid" on Fri, 25 Sept 2026.
 
 IFEMA is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Fantasm and Winson Ngoh. Browse upcoming dates, start times and who's playing. Av. Partenón, 5, 28042 Madrid.
 
@@ -15,4 +15,4 @@ IFEMA is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with lin
 
 Av. Partenón, 5, 28042 Madrid, Madrid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ifema/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ifema/)*

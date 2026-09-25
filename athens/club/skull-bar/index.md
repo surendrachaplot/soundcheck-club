@@ -1,6 +1,6 @@
 # Skull Bar
 
-Skull Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Afterhours with Niko Dalagelis & George Karmokolias" on Sat, 26 Sept 2026.
+Skull Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Afterhours with Niko Dalagelis & George Karmokolias" on Sat, 26 Sept 2026.
 
 Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Niko Dalagelis. Browse upcoming dates, start times and who's playing. 17, Lamprou Katsoni 13, Athina 114 71, Greece.
 
@@ -15,4 +15,4 @@ Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with
 
 17, Lamprou Katsoni 13, Athina 114 71, Greece, Athens
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*

@@ -1,6 +1,6 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Academy LA, Los Angeles on Sat, 14 Nov 2026.
+Justin Martin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Academy LA, Los Angeles on Sat, 14 Nov 2026.
 
 Justin Martin is a house and tech house artist based in United States of America, tracked on soundcheck, with 85 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside MNTRA, Ardalan and Mikey Lion. Next up: Academy LA, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Justin Martin is a house and tech house artist based in United States of America
 
 MNTRA, Ardalan, Mikey Lion
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

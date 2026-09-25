@@ -1,6 +1,6 @@
 # Bella Backe
 
-Bella Backe is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
+Bella Backe is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fleet Steps - Mrs Macquaries Point, Sydney on Sat, 21 Nov 2026.
 
 Bella Backe is a house and afro house artist based in Sweden, tracked on soundcheck, with 76 sets logged across Bali, Ibiza, London and Melbourne and 1 more. Often billed alongside Caleb Jackson, Callyy and Mixed Methods. Next up: Fleet Steps - Mrs Macquaries Point, Sydney on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Bella Backe is a house and afro house artist based in Sweden, tracked on soundch
 
 Caleb Jackson, Callyy, Mixed Methods
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellabacke/)*

@@ -1,6 +1,6 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ZIRKA, Munich on Fri, 25 Sept 2026.
+Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ZIRKA, Munich on Fri, 25 Sept 2026.
 
 Martyna Basta is an experimental and electronica artist based in Poland, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside Heinali, Kitty Sarcasm and Nídia. Next up: ZIRKA, Munich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Martyna Basta is an experimental and electronica artist based in Poland, tracked
 
 Heinali, Kitty Sarcasm, Nídia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

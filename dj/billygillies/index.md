@@ -1,6 +1,6 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
+Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 02 Victoria Warehouse, Manchester on Sat, 26 Sept 2026.
 
 Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Cork, Denver, Dublin and Edinburgh and 20 more. Often billed alongside Giuseppe Ottaviani, Ferry Corsten and Mauro Picotto. Next up: 02 Victoria Warehouse, Manchester on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Billy Gillies is a trance and techno artist based in United Kingdom, tracked on 
 
 Giuseppe Ottaviani, Ferry Corsten, Mauro Picotto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*

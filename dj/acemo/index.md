@@ -1,6 +1,6 @@
 # AceMo
 
-AceMo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bain, New York City on Fri, 25 Sept 2026.
+AceMo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Bain, New York City on Fri, 25 Sept 2026.
 
 AceMo is a house and techno artist based in United States of America, tracked on soundcheck, with 134 sets logged across Amsterdam, Austin, Berlin and Boston and 28 more. Often billed alongside DJ SWISHA, MoMA Ready and Kush Jones. Next up: Le Bain, New York City on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ AceMo is a house and techno artist based in United States of America, tracked on
 
 DJ SWISHA, MoMA Ready, Kush Jones
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

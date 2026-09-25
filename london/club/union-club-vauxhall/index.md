@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA" on Thu, 24 Sept 2026.
+Union Club, Vauxhall is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM)" on Fri, 25 Sept 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Dhez, Duwat?, Elisa Nau. and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 25 Sept 2026 | FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) | Enrico Chirchiello, PERILOUS P |
 | Sun, 27 Sept 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Luigi Imperato, Thomas Galbardi |
 | Thu, 1 Oct 2026 | DESIRE - Weekly Thursday After Party - DJ STREET | Dhez, Duwat?, Elisa Nau., Simone Sim |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 18 upcomin
 | Thu, 8 Oct 2026 | DESIRE - Weekly Thursday After Party - JULIANA BRANCO | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 9 Oct 2026 | FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) |  |
 | Sat, 10 Oct 2026 | VANITY afterhours Old school edition feat.The Sharp Boys / Francesco Poggi  | Francesco Poggi, The Sharp Boys |
+| Sun, 11 Oct 2026 | Orbit Sunday night / Monday morning after party |  |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

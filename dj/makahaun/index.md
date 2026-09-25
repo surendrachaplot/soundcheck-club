@@ -1,6 +1,6 @@
 # makahaun
 
-makahaun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zeche Zollverein, Dortmund-essen on Sat, 28 Nov 2026.
+makahaun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Zeche Zollverein, Dortmund-essen on Sat, 28 Nov 2026.
 
 makahaun is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Dortmund Essen and Düsseldorf and 2 more. Often billed alongside Anuli, Rostøm and Dychromatic. Next up: Zeche Zollverein, Dortmund Essen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ makahaun is a techno and house artist tracked on soundcheck, with 16 sets logged
 
 Anuli, Rostøm, Dychromatic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

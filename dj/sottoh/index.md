@@ -1,6 +1,6 @@
 # SOTTOH
 
-SOTTOH is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Badaboum, Paris on Fri, 25 Sept 2026.
+SOTTOH is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Badaboum, Paris on Fri, 25 Sept 2026.
 
 SOTTOH is a house and garage artist based in France, tracked on soundcheck, with 19 sets logged across Paris and Prague. Often billed alongside Lea Occhi, COCKO and Corbeille Dallas. Next up: Badaboum, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SOTTOH is a house and garage artist based in France, tracked on soundcheck, with
 
 Lea Occhi, COCKO, Corbeille Dallas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*

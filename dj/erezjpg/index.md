@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+EREZ.JPG is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Los Angeles, Mexico City and Miami and 2 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: House of Yes, New York City on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, tracke
 
 shanty mane, Armii1n, Bakke
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

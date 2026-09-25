@@ -1,6 +1,6 @@
 # SHAMMA
 
-SHAMMA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 618 DC, Washington DC on Fri, 25 Sept 2026.
+SHAMMA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 618 DC, Washington DC on Fri, 25 Sept 2026.
 
 SHAMMA is a house and tech house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Washington DC. Often billed alongside ANNYA, Fátima and Neko Berg. Next up: 618 DC, Washington DC on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ SHAMMA is a house and tech house artist based in United States of America, track
 
 ANNYA, Fátima, Neko Berg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shamma/)*

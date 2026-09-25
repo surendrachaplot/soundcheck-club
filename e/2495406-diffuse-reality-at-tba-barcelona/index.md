@@ -1,10 +1,10 @@
 # DIFFUSE REALITY at TBA - Barcelona
 
-DIFFUSE REALITY at TBA - Barcelona on Sat 31 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+DIFFUSE REALITY at TBA - Barcelona on Thu 24 Dec, Barcelona. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Thu, 24 Dec 2026 |
 | Venue | TBA - Barcelona |
 | City | Barcelona |
 

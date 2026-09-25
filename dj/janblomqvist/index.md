@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Jan Blomqvist is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Jan Blomqvist is a house and deep house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Jan Blomqvist is a house and deep house artist based in Germany, tracked on soun
 
 Bedouin, WhoMadeWho, Colyn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

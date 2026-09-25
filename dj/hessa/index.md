@@ -1,6 +1,6 @@
 # Hessa
 
-Hessa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
+Hessa is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Hessa is a house and electro artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside Alffie, Memed Awad and Moruki. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Hessa is a house and electro artist based in Spain, tracked on soundcheck, with 
 
 Alffie, Memed Awad, Moruki
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hessa/)*

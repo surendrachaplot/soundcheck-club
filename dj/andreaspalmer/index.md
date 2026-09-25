@@ -1,6 +1,6 @@
 # Andreas Palmer
 
-Andreas Palmer is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
+Andreas Palmer is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ilion Plus, Athens on Sat, 26 Sept 2026.
 
 Andreas Palmer is a club and techno artist based in Greece, tracked on soundcheck, with 57 sets logged across Athens and Brussels. Often billed alongside Blue Lagoon, Miss Trouli and SRJ. Next up: Ilion Plus, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Andreas Palmer is a club and techno artist based in Greece, tracked on soundchec
 
 Blue Lagoon, Miss Trouli, SRJ (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*

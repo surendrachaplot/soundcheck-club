@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Lady Starlight is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Lady Starlight is a techno and house artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside STERAC, Rødhåd and David Castellani. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Lady Starlight is a techno and house artist based in United States of America, t
 
 STERAC, Rødhåd, David Castellani
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

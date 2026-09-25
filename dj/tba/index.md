@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
+TBA is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
 
 TBA is a techno and house artist based in Georgia, tracked on soundcheck, with 259 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: DNA. CLUB, Berlin on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist based in Georgia, tracked on soundcheck, with 2
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

@@ -1,6 +1,6 @@
 # Hekato
 
-Hekato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
+Hekato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
 
 Hekato is a techno and house artist based in Poland, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Hamburg and Krakow and 2 more. Often billed alongside Jin-Su, Mislaw and Lucyd. Next up: Jasna 1, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Hekato is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Jin-Su, Mislaw, Lucyd
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*

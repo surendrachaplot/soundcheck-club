@@ -1,6 +1,6 @@
 # COLOR K!D
 
-COLOR K!D is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Concourse Project, Austin on Sat, 10 Oct 2026.
+COLOR K!D is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Concourse Project, Austin on Sat, 10 Oct 2026.
 
 COLOR K!D is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Austin. Often billed alongside Holy Priest. Next up: The Concourse Project, Austin on Sat 10 Oct.
 
@@ -15,4 +15,4 @@ COLOR K!D is a techno artist based in Germany, tracked on soundcheck, with 2 set
 
 Holy Priest
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colorkid-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colorkid-de/)*

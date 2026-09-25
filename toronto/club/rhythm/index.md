@@ -1,6 +1,6 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "2 Years of Rhythm: Alexis Cabrera (Live)" on Sat, 26 Sept 2026.
+Rhythm is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "2 Years of Rhythm: Alexis Cabrera (Live)" on Sat, 26 Sept 2026.
 
 Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Alexis Cabrera, Ciel, Emissive and Greg Burke and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
@@ -23,4 +23,4 @@ Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with 
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

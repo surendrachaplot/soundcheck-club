@@ -1,6 +1,6 @@
 # Combret
 
-Combret is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
+Combret is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
 
 Combret is a house and electro artist based in France, tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside Moca (ES), Nurias and enem. Next up: Cafe La Palma, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Combret is a house and electro artist based in France, tracked on soundcheck, wi
 
 Moca (ES), Nurias, enem
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/combret/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/combret/)*

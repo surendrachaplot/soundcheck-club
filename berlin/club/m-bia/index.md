@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€" on Fri, 25 Sept 2026.
+M-BIA is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€" on Fri, 25 Sept 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Daora, fU.impact, Gaya Carmeli and HIGH VIBES and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

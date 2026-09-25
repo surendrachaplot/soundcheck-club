@@ -1,6 +1,6 @@
 # K-MEL
 
-K-MEL is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forge, Bucharest on Sat, 21 Nov 2026.
+K-MEL is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forge, Bucharest on Sat, 21 Nov 2026.
 
 K-MEL is a hardcore and techno artist based in Venezuela, tracked on soundcheck, with 6 sets logged across Bucharest, Budapest, Marseille and Milan and 2 more. Often billed alongside 5ogol, Alessandro Reale and Cristopher Arcuri. Next up: Forge, Bucharest on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ K-MEL is a hardcore and techno artist based in Venezuela, tracked on soundcheck,
 
 5ogol, Alessandro Reale, Cristopher Arcuri
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-mel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k-mel/)*

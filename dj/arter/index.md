@@ -1,6 +1,6 @@
 # Arter
 
-Arter is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+Arter is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
 Arter is a house and garage artist based in Belgium, tracked on soundcheck, with 46 sets logged across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Prinsezy. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Arter is a house and garage artist based in Belgium, tracked on soundcheck, with
 
 DC Noises, BAVR, Prinsezy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*

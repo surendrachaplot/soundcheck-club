@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "I Love Acid presents Luke Vibert" on Fri, 25 Sept 2026.
+Hare & Hounds is a music venue in Birmingham with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "I Love Acid presents Luke Vibert" on Fri, 25 Sept 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 10 upcoming gigs, with line-ups including DAR DISKU, DJ Flight, DRS and Greg Wilson and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -23,4 +23,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 10 upcoming g
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

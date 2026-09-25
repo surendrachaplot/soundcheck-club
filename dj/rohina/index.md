@@ -1,6 +1,6 @@
 # ROHiNA
 
-ROHiNA is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hackney Bridge, London on Fri, 16 Oct 2026.
+ROHiNA is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hackney Bridge, London on Fri, 16 Oct 2026.
 
 ROHiNA is a bass and amapiano artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Olive Juice, Sippin' T and ThatGirlDee. Next up: Hackney Bridge, London on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ ROHiNA is a bass and amapiano artist based in United Kingdom, tracked on soundch
 
 Olive Juice, Sippin' T, ThatGirlDee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rohina/)*

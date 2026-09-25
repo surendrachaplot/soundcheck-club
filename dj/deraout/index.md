@@ -1,6 +1,6 @@
 # Deraout
 
-Deraout is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 22 Oct 2026.
+Deraout is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 22 Oct 2026.
 
 Deraout is a techno artist based in Colombia, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Ali-Az, Flug and Artefakt. Next up: Les Enfants Brillants, Barcelona on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Deraout is a techno artist based in Colombia, tracked on soundcheck, with 8 sets
 
 Ali-Az, Flug, Artefakt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

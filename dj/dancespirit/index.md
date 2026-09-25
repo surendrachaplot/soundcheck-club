@@ -1,6 +1,6 @@
 # Dance Spirit
 
-Dance Spirit is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Franca, Los Angeles on Fri, 25 Sept 2026.
+Dance Spirit is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Franca, Los Angeles on Fri, 25 Sept 2026.
 
 Dance Spirit is a minimal and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Los Angeles. Often billed alongside Brian Cid, Jackson Englund and Maria Nocheydía. Next up: Bar Franca, Los Angeles on Fri 25 Sept.
 
@@ -15,4 +15,4 @@ Dance Spirit is a minimal and house artist based in United States of America, tr
 
 Brian Cid, Jackson Englund, Maria Nocheydía
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancespirit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancespirit/)*

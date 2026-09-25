@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 25 Sept 2026.
+Amotik is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sub Club Melbourne, Melbourne on Fri, 25 Sept 2026.
 
 Amotik is a techno and house artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 41 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Sub Club Melbourne, Melbourne on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Amotik is a techno and house artist based in United Kingdom, tracked on soundche
 
 Lea Occhi, Olivia Mendez, Answer Code Request
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

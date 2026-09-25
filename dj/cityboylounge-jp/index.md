@@ -1,6 +1,6 @@
 # CityBoyLounge
 
-CityBoyLounge is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BnA Alter Museum, Kyoto on Sun, 27 Sept 2026.
+CityBoyLounge is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BnA Alter Museum, Kyoto on Sun, 27 Sept 2026.
 
 CityBoyLounge is a house and club artist based in Japan, tracked on soundcheck, with 40 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ko Yang (JP), Alex Albrecht and SEIJI. Next up: BnA Alter Museum, Kyoto on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ CityBoyLounge is a house and club artist based in Japan, tracked on soundcheck, 
 
 Ko Yang (JP), Alex Albrecht, SEIJI (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboylounge-jp/)*

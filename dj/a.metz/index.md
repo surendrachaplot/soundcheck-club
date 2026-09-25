@@ -1,6 +1,6 @@
 # a.metz
 
-a.metz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at AUX Club, Athens on Fri, 23 Oct 2026.
+a.metz is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at AUX Club, Athens on Fri, 23 Oct 2026.
 
 a.metz is a techno and electro artist based in Greece, tracked on soundcheck, with 51 sets logged across Amsterdam and Athens. Often billed alongside Cirkle, Katra and VRGN. Next up: AUX Club, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ a.metz is a techno and electro artist based in Greece, tracked on soundcheck, wi
 
 Cirkle, Katra, VRGN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.metz/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.metz/)*

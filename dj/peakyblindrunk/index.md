@@ -1,6 +1,6 @@
 # Peaky Blindrunk
 
-Peaky Blindrunk is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vessel, Edinburgh on Fri, 25 Sept 2026.
+Peaky Blindrunk is a Disco and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Vessel, Edinburgh on Fri, 25 Sept 2026.
 
 Peaky Blindrunk is a disco and pop artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Edinburgh. Often billed alongside Nick from Sneaks, Alexis Taylor and Scottieboy. Next up: Vessel, Edinburgh on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Peaky Blindrunk is a disco and pop artist based in United Kingdom, tracked on so
 
 Nick from Sneaks, Alexis Taylor, Scottieboy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peakyblindrunk/)*

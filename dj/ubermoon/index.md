@@ -1,6 +1,6 @@
 # UBERMOON
 
-UBERMOON is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Fri, 30 Oct 2026.
+UBERMOON is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Fri, 30 Oct 2026.
 
 UBERMOON is a drum & bass and dubstep artist based in Australia, tracked on soundcheck, with 52 sets logged across Sydney. Often billed alongside Karnotix, Gnomu and Mushu. Next up: Carousel Bar & Ballroom, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ UBERMOON is a drum & bass and dubstep artist based in Australia, tracked on soun
 
 Karnotix, Gnomu, Mushu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*

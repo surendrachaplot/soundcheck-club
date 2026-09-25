@@ -1,6 +1,6 @@
 # Scarlet
 
-Scarlet is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
+Scarlet is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Plantation, Paris on Sun, 27 Sept 2026.
 
 Scarlet is a club and house artist tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside Amulador, Aurèle and Bloody Mary. Next up: Plantation, Paris on Sun 27 Sept.
 
@@ -24,4 +24,4 @@ Scarlet is a club and house artist tracked on soundcheck, with 8 sets logged acr
 
 Amulador, Aurèle, Bloody Mary
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlet/)*

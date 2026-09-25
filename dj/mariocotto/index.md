@@ -1,6 +1,6 @@
 # Mario Cotto
 
-Mario Cotto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Mario Cotto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 Mario Cotto is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Los Angeles and Philadelphia. Often billed alongside Zillas on Acid, Westov Temple and Dave P. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mario Cotto is a techno and house artist based in United States of America, trac
 
 Zillas on Acid, Westov Temple, Dave P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariocotto/)*

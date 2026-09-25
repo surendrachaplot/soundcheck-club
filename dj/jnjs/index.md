@@ -1,6 +1,6 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
+JNJS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
 
 JNJS is a house and minimal artist based in Spain, tracked on soundcheck, with 76 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ JNJS is a house and minimal artist based in Spain, tracked on soundcheck, with 7
 
 Tania Vulcano, Carlos Vila, Sossa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jnjs/)*

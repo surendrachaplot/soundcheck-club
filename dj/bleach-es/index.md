@@ -1,6 +1,6 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Bleach is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
 Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, 
 
 ADAM MUNNINGS, Dj handbag, JUNN GULDUR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*

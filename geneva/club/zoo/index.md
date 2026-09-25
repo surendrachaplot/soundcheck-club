@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel]" on Fri, 25 Sept 2026.
+Zoo is a music venue in Geneva with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Cringecore x Le Zoo: Hysteria temple Foundation • Jan Loup • Transitionless [VJ Etmel]" on Fri, 25 Sept 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-ups including Channel One Sound, Charlie P, Djamzer and Dubkasm and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -22,4 +22,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 9 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

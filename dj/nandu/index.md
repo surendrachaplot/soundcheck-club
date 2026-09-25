@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Nandu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Nandu is a house and deep house artist based in Denmark, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Nandu is a house and deep house artist based in Denmark, tracked on soundcheck, 
 
 Yet More, Ivory, Bedouin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
+Ben Klock is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Under Club, Buenos Aires on Sun, 27 Sept 2026.
 
 Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, with 261 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Under Club, Buenos Aires on Sun 27 Sept.
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

@@ -1,6 +1,6 @@
 # Symon Says
 
-Symon Says is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Symon Says is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Symon Says is a techno and trance artist based in France, tracked on soundcheck, with 9 sets logged across Berlin and Paris. Often billed alongside Octyx, Vowed and Erna (FR). Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Symon Says is a techno and trance artist based in France, tracked on soundcheck,
 
 Octyx, Vowed, Erna (FR)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symonsays/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symonsays/)*

@@ -1,6 +1,6 @@
 # Citizens Union
 
-Citizens Union is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Festsaal Kreuzberg, Berlin on Sat, 26 Sept 2026.
+Citizens Union is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Festsaal Kreuzberg, Berlin on Sat, 26 Sept 2026.
 
 Citizens Union is a house and techno artist based in Georgia, tracked on soundcheck, with 43 sets logged across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: Festsaal Kreuzberg, Berlin on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Citizens Union is a house and techno artist based in Georgia, tracked on soundch
 
 Natuta, Knaughty, VINVAR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*

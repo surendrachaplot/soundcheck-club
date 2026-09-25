@@ -1,6 +1,6 @@
 # Luksek
 
-Luksek is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
+Luksek is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Mazette, Paris on Sat, 26 Sept 2026.
 
 Luksek is a disco and house artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin, Brussels, Milan and Paris and 1 more. Often billed alongside Arnaud Denzler, Bustin' Loose and Cannelle. Next up: Le Mazette, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Luksek is a disco and house artist based in Italy, tracked on soundcheck, with 1
 
 Arnaud Denzler, Bustin' Loose, Cannelle
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*

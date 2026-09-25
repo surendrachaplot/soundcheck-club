@@ -1,6 +1,6 @@
 # Le Petit Salon
 
-Le Petit Salon is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "23:59 – CREEDS Invite Dj Schnake, JKLL, JULIAN WILD, EVY JOY - R2: EURONIGHT CLUB" on Fri, 2 Oct 2026.
+Le Petit Salon is a music venue in Lyon with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "23:59 – CREEDS Invite Dj Schnake, JKLL, JULIAN WILD, EVY JOY - R2: EURONIGHT CLUB" on Fri, 2 Oct 2026.
 
 Le Petit Salon is a music venue in Lyon listed on soundcheck. 2 upcoming gigs, with line-ups including Dj Schnake, Glaskeen, Istigkeit and tnt. Browse upcoming dates, start times and who's playing. Rue de Cronstadt 69007 Lyon France.
 
@@ -15,4 +15,4 @@ Le Petit Salon is a music venue in Lyon listed on soundcheck. 2 upcoming gigs, w
 
 Rue de Cronstadt 69007 Lyon France, Lyon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-petit-salon/)*

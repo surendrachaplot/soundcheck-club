@@ -1,6 +1,6 @@
 # Girl Unit
 
-Girl Unit is a Experimental and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
+Girl Unit is a Experimental and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
 
 Girl Unit is an experimental and trance artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Dublin, Helsinki, London and Manchester and 2 more. Often billed alongside Bok Bok, Ikonika and OSSX. Next up: Unit 58, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Girl Unit is an experimental and trance artist based in United Kingdom, tracked 
 
 Bok Bok, Ikonika, OSSX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlunit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlunit/)*

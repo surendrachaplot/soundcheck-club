@@ -1,6 +1,6 @@
 # Apollo Dust
 
-Apollo Dust is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
+Apollo Dust is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
 
 Apollo Dust is a house and techno artist based in France, tracked on soundcheck, with 27 sets logged across Washington DC. Often billed alongside Henry P (US), House Twelve and Jess in the Flesh. Next up: Flash, Washington DC on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Apollo Dust is a house and techno artist based in France, tracked on soundcheck,
 
 Henry P (US), House Twelve, Jess in the Flesh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apollodust/)*

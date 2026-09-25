@@ -1,6 +1,6 @@
 # ALDAVE
 
-ALDAVE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Grandangolo, Rome on Fri, 25 Sept 2026.
+ALDAVE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Grandangolo, Rome on Fri, 25 Sept 2026.
 
 ALDAVE is a house and tech house artist based in Argentina, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Madrid and Milan and 3 more. Often billed alongside ETNA, Massi Rocket and SOLE DOSI. Next up: Grandangolo, Rome on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ ALDAVE is a house and tech house artist based in Argentina, tracked on soundchec
 
 ETNA, Massi Rocket, SOLE DOSI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldave/)*

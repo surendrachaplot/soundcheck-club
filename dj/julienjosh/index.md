@@ -1,6 +1,6 @@
 # Julien Josh
 
-Julien Josh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
+Julien Josh is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Süss War Gestern, Berlin on Sat, 3 Oct 2026.
 
 Julien Josh is a house and disco artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Gregor Rost, Ashbeat and ZYMT. Next up: Süss War Gestern, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Julien Josh is a house and disco artist based in Germany, tracked on soundcheck,
 
 Gregor Rost, Ashbeat, ZYMT
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julienjosh/)*

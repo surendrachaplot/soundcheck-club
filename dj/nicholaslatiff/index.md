@@ -1,6 +1,6 @@
 # Nicholas Latiff
 
-Nicholas Latiff is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Schubas, Chicago on Fri, 25 Sept 2026.
+Nicholas Latiff is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Schubas, Chicago on Fri, 25 Sept 2026.
 
 Nicholas Latiff is a minimal and house artist based in Brazil, tracked on soundcheck, with 34 sets logged across Chicago, Mexico City, Miami and Nashville and 2 more. Often billed alongside Volast, Lapilli and Ricardo Roessel. Next up: Schubas, Chicago on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nicholas Latiff is a minimal and house artist based in Brazil, tracked on soundc
 
 Volast, Lapilli, Ricardo Roessel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholaslatiff/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholaslatiff/)*

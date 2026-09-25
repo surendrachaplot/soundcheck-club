@@ -1,6 +1,6 @@
 # kjjabber
 
-kjjabber is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
+kjjabber is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
 
 kjjabber is a club and electronica artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Copenhagen. Often billed alongside yimo yivil, B3CKI and Gina Lo. Next up: Lark, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ kjjabber is a club and electronica artist based in Germany, tracked on soundchec
 
 yimo yivil, B3CKI, Gina Lo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kjjabber/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kjjabber/)*

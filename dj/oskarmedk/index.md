@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cervantes' Masterpiece Ballroom, Denver on Fri, 25 Sept 2026.
+oskar med k is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cervantes' Masterpiece Ballroom, Denver on Fri, 25 Sept 2026.
 
 oskar med k is a house and deep house artist based in Norway, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Cervantes' Masterpiece Ballroom, Denver on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ oskar med k is a house and deep house artist based in Norway, tracked on soundch
 
 Boys Noize, Dean Turnley, Skepta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

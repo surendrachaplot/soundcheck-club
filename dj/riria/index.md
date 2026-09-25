@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 18 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Catwalk, Los Angeles on Fri, 25 Sept 2026.
+RIRIA is a Bass and Techno artist with 18 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Club Catwalk, Los Angeles on Fri, 25 Sept 2026.
 
 RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Atlanta and Bali and 36 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: Club Catwalk, Los Angeles on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99
 
 Diffrent, ryota dj, KETTAMA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

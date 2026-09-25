@@ -1,13 +1,14 @@
 # Nico Raibak
 
-Nico Raibak is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Departamento, Mexico City on Fri, 25 Sept 2026.
+Nico Raibak is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Departamento, Mexico City on Wed, 23 Sept 2026.
 
-Nico Raibak is a house and disco artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexico City. Often billed alongside Monsieur Van Pratt, Lu Fortis and Irena Stanisic. Next up: Departamento, Mexico City on Fri 25 Sept.
+Nico Raibak is a house and disco artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexico City. Often billed alongside Monsieur Van Pratt, Lu Fortis and Irena Stanisic. Next up: Departamento, Mexico City on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | Departamento | Mexico City |
 | Fri, 25 Sept 2026 | Departamento | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nico Raibak is a house and disco artist based in Mexico, tracked on soundcheck, 
 
 Monsieur Van Pratt, Lu Fortis, Irena Stanisic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoraibak/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoraibak/)*

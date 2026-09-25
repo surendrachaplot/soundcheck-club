@@ -1,6 +1,6 @@
 # Daul
 
-Daul is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
+Daul is a House and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
 
 Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, with 99 sets logged across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: Stoked&stoned, Seoul on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, 
 
 TRUEUNSOL, DJ Wow, Gyusco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*

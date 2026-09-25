@@ -1,6 +1,6 @@
 # Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club) at Le Groove
 
-Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club) at Le Groove on Fri 2 Oct, Geneva. 2 acts on the bill: Bowmore and Deborah Aime La Bagarre. Techno and House. Preview the line-up and save it on soundcheck.
+Le Ski Club 8 YEARS (Deborah Aime La Bagarre + Bowmore + Le Ski Club) at Le Groove on Fri 2 Oct, Geneva. 2 artists on the bill: Bowmore and Deborah Aime La Bagarre. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

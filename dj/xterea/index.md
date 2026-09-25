@@ -1,6 +1,6 @@
 # Xterea
 
-Xterea is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
+Xterea is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
 
 Xterea is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Glasgow and Liverpool and 4 more. Often billed alongside Ben Vince, John T. Gast and Josey Rebelle. Next up: MOD Club, Tallinn on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Xterea is an experimental and club artist based in United Kingdom, tracked on so
 
 Ben Vince, John T. Gast, Josey Rebelle
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*

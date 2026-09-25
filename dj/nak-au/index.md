@@ -1,6 +1,6 @@
 # Nak (AU)
 
-Nak (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ark (Melb), Melbourne on Sat, 19 Dec 2026.
+Nak (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ark (Melb), Melbourne on Sat, 19 Dec 2026.
 
 Nak (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 50 sets logged across London, Melbourne and Sydney. Often billed alongside Hannah D, Mabel and Charlotte Rooney. Next up: ark (Melb), Melbourne on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nak (AU) is a techno and house artist based in Australia, tracked on soundcheck,
 
 Hannah D, Mabel, Charlotte Rooney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nak-au/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nak-au/)*

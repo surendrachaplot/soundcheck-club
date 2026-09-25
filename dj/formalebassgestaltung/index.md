@@ -1,6 +1,6 @@
 # Formale Bassgestaltung
 
-Formale Bassgestaltung is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+Formale Bassgestaltung is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
 Formale Bassgestaltung is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Frankfurt. Often billed alongside Kacy, CiKi and PENELOPE (DE). Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Formale Bassgestaltung is a techno and trance artist based in Germany, tracked o
 
 Kacy, CiKi, PENELOPE (DE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formalebassgestaltung/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formalebassgestaltung/)*

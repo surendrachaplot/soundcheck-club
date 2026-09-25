@@ -1,6 +1,6 @@
 # VOLTMARIE
 
-VOLTMARIE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roter Bogen, Vienna on Fri, 25 Sept 2026.
+VOLTMARIE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Roter Bogen, Vienna on Fri, 25 Sept 2026.
 
 VOLTMARIE is a techno and club artist based in Austria, tracked on soundcheck, with 19 sets logged across Vienna. Often billed alongside Eminelli, ninon. and MELIMEKO. Next up: Roter Bogen, Vienna on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ VOLTMARIE is a techno and club artist based in Austria, tracked on soundcheck, w
 
 Eminelli, ninon., MELIMEKO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltmarie/)*

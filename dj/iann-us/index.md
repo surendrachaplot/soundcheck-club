@@ -1,6 +1,6 @@
 # IANN (US)
 
-IANN (US) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ground Floor, Philadelphia on Fri, 25 Sept 2026.
+IANN (US) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ground Floor, Philadelphia on Fri, 25 Sept 2026.
 
 IANN (US) is a house and progressive house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Miami and Philadelphia. Often billed alongside ANDi MANDi, Kobza and Staysis. Next up: Ground Floor, Philadelphia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ IANN (US) is a house and progressive house artist based in United States of Amer
 
 ANDi MANDi, Kobza, Staysis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iann-us/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iann-us/)*

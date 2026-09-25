@@ -1,6 +1,6 @@
 # Spiller
 
-Spiller is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
+Spiller is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
 
 Spiller is a house and disco artist based in Italy, tracked on soundcheck, with 16 sets logged across Bangkok, Copenhagen, Ibiza and Liverpool and 6 more. Often billed alongside Curcio, Dan Shake and Agathe Mougin. Next up: Tempio del Futuro Perduto, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Spiller is a house and disco artist based in Italy, tracked on soundcheck, with 
 
 Curcio, Dan Shake, Agathe Mougin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spiller/)*

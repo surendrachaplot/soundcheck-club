@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Simone de Kunovich + GARAN GARAN" on Fri, 25 Sept 2026.
+Frankhan Selectist is a music venue in Istanbul with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Simone de Kunovich + GARAN GARAN" on Fri, 25 Sept 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 11 upcoming gigs, with line-ups including Bugge Wesseltoft, Deetron, DJ Tennis and Ferhat Albayrak and 2 more. Browse upcoming dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -23,4 +23,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 11 upcomin
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

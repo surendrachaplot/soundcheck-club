@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
 ELIF is a house and techno artist based in Turkey, tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Barcelona and Basel and 32 more. Often billed alongside Mira, Chris Schwarzwälder and Britta Arnold. Next up: Hive Club, Zurich on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ ELIF is a house and techno artist based in Turkey, tracked on soundcheck, with 1
 
 Mira, Chris Schwarzwälder, Britta Arnold
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

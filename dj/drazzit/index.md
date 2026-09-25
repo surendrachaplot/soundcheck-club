@@ -1,6 +1,6 @@
 # Drazzit
 
-Drazzit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
+Drazzit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nitsa Club, Barcelona on Sat, 3 Oct 2026.
 
 Drazzit is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Doppelganger, SANTANA and Fillo Deportaberta. Next up: Nitsa Club, Barcelona on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Drazzit is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Doppelganger, SANTANA, Fillo Deportaberta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drazzit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drazzit/)*

@@ -1,6 +1,6 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Coda, Toronto on Fri, 25 Sept 2026.
+Ricardo Villalobos is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Coda, Toronto on Fri, 25 Sept 2026.
 
 Ricardo Villalobos is a techno and house artist based in Chile, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Raresh, O.BEE and Tomas Station. Next up: Coda, Toronto on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Ricardo Villalobos is a techno and house artist based in Chile, tracked on sound
 
 Raresh, O.BEE, Tomas Station
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

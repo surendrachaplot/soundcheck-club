@@ -1,6 +1,6 @@
 # AJA
 
-AJA is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
+AJA is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
 
 AJA is a club and drum & bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Brussels, Glasgow, Liverpool and London and 5 more. Often billed alongside ANNA, Acido Cielo and Becky Stroke. Next up: Planet Wax, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AJA is a club and drum & bass artist based in United Kingdom, tracked on soundch
 
 ANNA, Acido Cielo, Becky Stroke
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aja/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aja/)*

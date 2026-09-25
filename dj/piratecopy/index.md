@@ -1,6 +1,6 @@
 # Pirate Copy
 
-Pirate Copy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
+Pirate Copy is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
 
 Pirate Copy is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Glasgow and Ibiza and 9 more. Often billed alongside Manda Moor, Wheats and wAFF. Next up: IDRA, Manchester on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Pirate Copy is a tech house and house artist based in United Kingdom, tracked on
 
 Manda Moor, Wheats, wAFF
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*

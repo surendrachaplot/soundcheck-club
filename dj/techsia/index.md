@@ -1,6 +1,6 @@
 # TECHSIA
 
-TECHSIA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M-BIA, Berlin on Fri, 25 Sept 2026.
+TECHSIA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at M-BIA, Berlin on Fri, 25 Sept 2026.
 
 TECHSIA is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Lisbon and Liverpool and 5 more. Often billed alongside A.I.F.O.S., Lau.tastic and SHARKA. Next up: M-BIA, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ TECHSIA is a techno and hardcore artist based in United Kingdom, tracked on soun
 
 A.I.F.O.S., Lau.tastic, SHARKA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techsia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techsia/)*

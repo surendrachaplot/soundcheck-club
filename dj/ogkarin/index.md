@@ -1,6 +1,6 @@
 # OG Karin
 
-OG Karin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+OG Karin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
 OG Karin is a house and techno artist based in Netherlands, tracked on soundcheck, with 59 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside DJ Shahmaran, Lola Edo and Faustin (NL). Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ OG Karin is a house and techno artist based in Netherlands, tracked on soundchec
 
 DJ Shahmaran, Lola Edo, Faustin (NL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogkarin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogkarin/)*

@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Nü Androids x Starlight presents: Nitefreak" on Fri, 25 Sept 2026.
+Culture is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Nü Androids x Starlight presents: Nitefreak" on Fri, 25 Sept 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs, with line-ups including Amtrac, Gravagerz, Morgan Seatree and Nitefreak and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -23,4 +23,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

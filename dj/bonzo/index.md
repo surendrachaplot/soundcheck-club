@@ -1,6 +1,6 @@
 # Bonzo
 
-Bonzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 26 Sept 2026.
+Bonzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 26 Sept 2026.
 
 Bonzo is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Hamburg, Kyoto and Osaka. Often billed alongside Beron, DJ Dan and DWORAK. Next up: Club Frau Holle, Hamburg on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Bonzo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Beron, DJ Dan, DWORAK
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzo/)*

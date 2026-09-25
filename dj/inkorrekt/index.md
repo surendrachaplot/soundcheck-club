@@ -1,6 +1,6 @@
 # Inkorrekt
 
-Inkorrekt is a Acid and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chinastraat, Ghent on Sat, 7 Nov 2026.
+Inkorrekt is a Acid and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chinastraat, Ghent on Sat, 7 Nov 2026.
 
 Inkorrekt is an acid and hardcore artist based in Belgium, tracked on soundcheck, with 9 sets logged across Brussels and Ghent. Often billed alongside Mantrum, Phooka and Brain Impact. Next up: Chinastraat, Ghent on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Inkorrekt is an acid and hardcore artist based in Belgium, tracked on soundcheck
 
 Mantrum, Phooka, Brain Impact
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inkorrekt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inkorrekt/)*

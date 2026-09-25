@@ -1,6 +1,6 @@
 # Lee's Palace
 
-Lee's Palace is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "meat computer" on Sun, 18 Oct 2026.
+Lee's Palace is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "meat computer" on Sun, 18 Oct 2026.
 
 Lee's Palace is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including meat computer. Browse upcoming dates, start times and who's playing. 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada.
 
@@ -15,4 +15,4 @@ Lee's Palace is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, 
 
 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada, Toronto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*

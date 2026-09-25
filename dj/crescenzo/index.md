@@ -1,6 +1,6 @@
 # Crescenzo
 
-Crescenzo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
+Crescenzo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat, 31 Oct 2026.
 
 Crescenzo is a house and deep house artist tracked on soundcheck, with 31 sets logged across Amsterdam and Montreal. Often billed alongside FAMÜ, Jino K and Brian Cuta. Next up: TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Crescenzo is a house and deep house artist tracked on soundcheck, with 31 sets l
 
 FAMÜ, Jino K, Brian Cuta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crescenzo/)*

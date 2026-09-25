@@ -1,6 +1,6 @@
 # Dave Embrace
 
-Dave Embrace is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
+Dave Embrace is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
 
 Dave Embrace is a house and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Atréju Mensah, Fool E and rouvie. Next up: Paloma, Berlin on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Dave Embrace is a house and electro artist based in Germany, tracked on soundche
 
 Atréju Mensah, Fool E, rouvie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveembrace/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveembrace/)*

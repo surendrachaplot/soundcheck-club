@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "UNDERGROUND ASSISTANCE" on Sat, 24 Oct 2026.
+Slot is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "UNDERGROUND ASSISTANCE" on Sat, 24 Oct 2026.
 
 Slot is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including ASSISTANT DJ, Breaka and Nassstya. Browse upcoming dates, start times and who's playing. Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Slot is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line
 
 Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany, Hamburg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*

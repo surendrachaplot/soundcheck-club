@@ -1,6 +1,6 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at REC Napoli, Naples on Sat, 26 Sept 2026.
+Idriss D is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at REC Napoli, Naples on Sat, 26 Sept 2026.
 
 Idriss D is a house and techno artist based in Italy, tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: REC Napoli, Naples on Sat 26 Sept.
 
@@ -31,4 +31,4 @@ Idriss D is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

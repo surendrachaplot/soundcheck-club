@@ -1,6 +1,6 @@
 # Chin Chin Club
 
-Chin Chin Club is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "ROZA" on Fri, 25 Sept 2026.
+Chin Chin Club is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "ROZA" on Fri, 25 Sept 2026.
 
 Chin Chin Club is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rozengracht 133, 1016LV Amsterdam.
 
@@ -14,4 +14,4 @@ Chin Chin Club is a music venue in Amsterdam listed on soundcheck. 1 upcoming gi
 
 Rozengracht 133, 1016LV Amsterdam, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chin-chin-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chin-chin-club/)*

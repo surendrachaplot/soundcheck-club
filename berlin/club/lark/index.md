@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "AN(8)X festival 2026: Love Village's Mooncake Club Night" on Fri, 25 Sept 2026.
+Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "AN(8)X festival 2026: Love Village's Mooncake Club Night w DJ LOVE" on Fri, 25 Sept 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 50JING, B3CKI, BAMBI (UK) and Bulma Brief and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -8,7 +8,7 @@ Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | AN(8)X festival 2026: Love Village's Mooncake Club Night | 50JING, B3CKI, Kanucia, kjjabber |
+| Fri, 25 Sept 2026 | AN(8)X festival 2026: Love Village's Mooncake Club Night w DJ LOVE | 50JING, B3CKI, Kanucia, kjjabber |
 | Sun, 27 Sept 2026 | Hum w/ Kyle Hall b2b K15, Mamalia'The first lady of modern funk'ft.Mauricio Fleury, Bulma Brief | Bulma Brief, K15, Kyle Hall, Mauricio Fleury |
 | Thu, 1 Oct 2026 | collective memory + low harvest | Chickenmilk dot com, Global, edeF. |
 | Sat, 3 Oct 2026 | Delírio 2nd Anniversary - Club Night | KALI., Miss Jay (RO), NEGRACONDA, Wahsabi, dj latinchat, sin serif |
@@ -23,4 +23,4 @@ Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with lin
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

@@ -1,13 +1,14 @@
 # Kingdom Nightclub
 
-Kingdom Nightclub is a music venue in Austin with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Resound & Kingdom presents: Andy Stott & Debit at Kingdom on 10/9" on Fri, 9 Oct 2026.
+Kingdom Nightclub is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Kingdom Presents DVS1" on Thu, 8 Oct 2026.
 
-Kingdom Nightclub is a music venue in Austin listed on soundcheck. 3 upcoming gigs, with line-ups including Amtrac, Andy Stott, Com Truise and Debit. Browse upcoming dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
+Kingdom Nightclub is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Amtrac, Andy Stott, Com Truise and Debit and 1 more. Browse upcoming dates, start times and who's playing. 505 E 7th St. Austin, Texas 78701.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Kingdom Presents DVS1 | DVS1 |
 | Fri, 9 Oct 2026 | Resound & Kingdom presents: Andy Stott & Debit at Kingdom on 10/9 | Andy Stott, Debit |
 | Fri, 13 Nov 2026 | Com Truise | Com Truise |
 | Sat, 5 Dec 2026 | Resound & Special Delivery presents: Amtrac at Kingdom | Amtrac |
@@ -16,4 +17,4 @@ Kingdom Nightclub is a music venue in Austin listed on soundcheck. 3 upcoming gi
 
 505 E 7th St. Austin, Texas 78701, Austin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/kingdom-nightclub/)*

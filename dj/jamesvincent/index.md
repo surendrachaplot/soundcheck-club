@@ -1,6 +1,6 @@
 # James Vincent
 
-James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nighthawk, Chicago on Sat, 26 Sept 2026.
+James Vincent is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nighthawk, Chicago on Sat, 26 Sept 2026.
 
 James Vincent is a deep house and disco artist tracked on soundcheck, with 71 sets logged across Chicago, Detroit and Lisbon. Often billed alongside Cordell Johnson, Lorenzo Dewberry and CTRLZORA. Next up: Nighthawk, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ James Vincent is a deep house and disco artist tracked on soundcheck, with 71 se
 
 Cordell Johnson, Lorenzo Dewberry, CTRLZORA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*

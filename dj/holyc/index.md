@@ -1,6 +1,6 @@
 # HOLY C
 
-HOLY C is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
+HOLY C is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ballroom at Palais, London on Fri, 25 Sept 2026.
 
 HOLY C is a techno and club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: Ballroom at Palais, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ HOLY C is a techno and club artist based in United Kingdom, tracked on soundchec
 
 Toraigh, ASHTREY, Karlie Marx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*

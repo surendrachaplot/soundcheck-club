@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
 
 Culture Shock is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Factory Town, Miami on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Culture Shock is a drum & bass and bass artist based in United Kingdom, tracked 
 
 Sub Focus, Dimension, 1991
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

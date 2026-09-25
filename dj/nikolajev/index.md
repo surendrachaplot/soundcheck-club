@@ -1,6 +1,6 @@
 # Nikolajev
 
-Nikolajev is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
+Nikolajev is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at MOD Club, Tallinn on Sat, 26 Sept 2026.
 
 Nikolajev is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, Helsinki, London and Milan and 2 more. Often billed alongside Denzel, no-a and Dharma Doom. Next up: MOD Club, Tallinn on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Nikolajev is a techno and house artist tracked on soundcheck, with 45 sets logge
 
 Denzel, no-a, Dharma Doom
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolajev/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolajev/)*

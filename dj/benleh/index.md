@@ -1,6 +1,6 @@
 # Benleh
 
-Benleh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
+Benleh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
 
 Benleh is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Antwerp, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside DJ Sweedee, Sober At The Disco and Lisek. Next up: Westhafen, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Benleh is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 DJ Sweedee, Sober At The Disco, Lisek
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benleh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benleh/)*

@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "RITUALISMO" on Fri, 25 Sept 2026.
+Malaga Sin City is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "RITUALISMO" on Fri, 25 Sept 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including AllaDerivaLontano, Avikal, David Bes and GLADJEE and 2 more. Browse upcoming dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -17,4 +17,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 4 upcoming gigs,
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

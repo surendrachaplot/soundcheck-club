@@ -1,6 +1,6 @@
 # Cali Rose
 
-Cali Rose is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
+Cali Rose is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Foundry, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Cali Rose is a techno and club artist based in United States of America, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 9 more. Often billed alongside Mama Yha Yha, Juliana Huxtable and Ariel Zetina. Next up: The Foundry, San Francisco/Oakland on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Cali Rose is a techno and club artist based in United States of America, tracked
 
 Mama Yha Yha, Juliana Huxtable, Ariel Zetina
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calirose/)*

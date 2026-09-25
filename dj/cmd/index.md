@@ -1,6 +1,6 @@
 # CMD
 
-CMD is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Sans Soleil, Montreal on Fri, 25 Sept 2026.
+CMD is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Sans Soleil, Montreal on Fri, 25 Sept 2026.
 
 CMD is a bass and techno artist based in Canada, tracked on soundcheck, with 32 sets logged across Montreal. Often billed alongside somebody3lse, Emil Paquin and Bianca Badita. Next up: Sans Soleil, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ CMD is a bass and techno artist based in Canada, tracked on soundcheck, with 32 
 
 somebody3lse, Emil Paquin, Bianca Badita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*

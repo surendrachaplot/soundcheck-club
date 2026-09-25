@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Always Original presents RUZE, Ellie Scougall + Special Guests" on Fri, 25 Sept 2026.
+World Headquarters is a music venue in Newcastle with 22 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Always Original presents RUZE, Ellie Scougall + Special Guests" on Fri, 25 Sept 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 22 upcoming gigs, with line-ups including A.M.C., Alousea, CICELY and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 22 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

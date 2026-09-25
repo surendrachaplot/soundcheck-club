@@ -1,6 +1,6 @@
 # Yao Yao
 
-Yao Yao is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cafeteria, Toronto on Fri, 2 Oct 2026.
+Yao Yao is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cafeteria, Toronto on Fri, 2 Oct 2026.
 
 Yao Yao is a house and electro artist based in Canada, tracked on soundcheck, with 14 sets logged across Toronto. Often billed alongside HYMZ, Thanks for the Tears and Vertigeux. Next up: Cafeteria, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Yao Yao is a house and electro artist based in Canada, tracked on soundcheck, wi
 
 HYMZ, Thanks for the Tears, Vertigeux
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaoyao/)*

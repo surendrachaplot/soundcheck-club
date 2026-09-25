@@ -1,6 +1,6 @@
 # Olanskii
 
-Olanskii is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jaeger, Oslo on Fri, 25 Sept 2026.
+Olanskii is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Jaeger, Oslo on Fri, 25 Sept 2026.
 
 Olanskii is a house and techno artist based in Norway, tracked on soundcheck, with 218 sets logged across Oslo. Often billed alongside G-HA, Øyvind Morken and Vinny Villbass. Next up: Jaeger, Oslo on Fri 25 Sept.
 
@@ -33,4 +33,4 @@ Olanskii is a house and techno artist based in Norway, tracked on soundcheck, wi
 
 G-HA, Øyvind Morken, Vinny Villbass
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olanskii/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olanskii/)*

@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+bullet tooth is a Garage and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
 bullet tooth is a garage and house artist based in United Kingdom, tracked on soundcheck, with 132 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Document, Bristol on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ bullet tooth is a garage and house artist based in United Kingdom, tracked on so
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

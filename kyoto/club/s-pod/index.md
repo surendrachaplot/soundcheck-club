@@ -1,6 +1,6 @@
 # S-Pod
 
-S-Pod is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sound Pod Session" on Mon, 28 Sept 2026.
+S-Pod is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sound Pod Session" on Mon, 28 Sept 2026.
 
 S-Pod is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F.
 
@@ -15,4 +15,4 @@ S-Pod is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs. Browse up
 
 Japan, 〒602-0033 Kyoto, Kamigyo Ward, Imadegawacho, 328 KARASUMA IMADEGAWA BUILDING 5F, Kyoto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/s-pod/)*

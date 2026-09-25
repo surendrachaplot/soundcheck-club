@@ -1,6 +1,6 @@
 # The Fear Ratio
 
-The Fear Ratio is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+The Fear Ratio is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 The Fear Ratio is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Montreal and 2 more. Often billed alongside Annie Hall, James Ruskin and Mark Broom. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ The Fear Ratio is a techno and experimental artist based in United Kingdom, trac
 
 Annie Hall, James Ruskin, Mark Broom
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thefearratio/)*

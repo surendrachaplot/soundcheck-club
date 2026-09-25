@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 48 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "7e & Kiora" on Thu, 24 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 47 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Mr Disco Kid & PRIMAL DUB" on Fri, 25 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 48 upcoming gigs, with line-ups including 1-DRINK, 7e, BANANA-CHAN and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 47 upcoming gigs, with line-ups including 1-DRINK, BANANA-CHAN, Dazzle Drums and Dictionally and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | 7e & Kiora | 7e |
 | Fri, 25 Sept 2026 | Mr Disco Kid & PRIMAL DUB |  |
 | Sat, 26 Sept 2026 | YUME, SHOWHEY & Blue |  |
 | Mon, 28 Sept 2026 | PRIMAL DUB, DJ YAHMAN, ANELA & Yumic0rn |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 48 upcomi
 | Mon, 5 Oct 2026 | dj yumi-cco & TR | dj yumi-cco |
 | Tue, 6 Oct 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 | Wed, 7 Oct 2026 | 永z遼, JOKI, PInO & Yoshiyuki | JOKI, 永z遼 / Ryo Nagase |
+| Thu, 8 Oct 2026 | Dubyama Jazzo |  |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

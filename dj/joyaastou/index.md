@@ -1,6 +1,6 @@
 # Joya Astou
 
-Joya Astou is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+Joya Astou is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
 Joya Astou is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Prance, Delano Legito and Mees Javois. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Joya Astou is a techno and minimal techno artist based in Netherlands, tracked o
 
 Prance, Delano Legito, Mees Javois
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyaastou/)*

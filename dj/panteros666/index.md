@@ -1,6 +1,6 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+Panteros666 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
 
 Panteros666 is a trance and techno artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: The Hifi Club, Leeds on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Panteros666 is a trance and techno artist based in France, tracked on soundcheck
 
 Die Klar, Part Time Killer, TDJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

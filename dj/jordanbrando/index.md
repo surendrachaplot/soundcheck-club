@@ -1,6 +1,6 @@
 # Jordan Brando
 
-Jordan Brando is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
+Jordan Brando is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
 Jordan Brando is a house and tech house artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Auckland, Australiancapitalterritory and Brisbane and 13 more. Often billed alongside Luke Alessi, William Kiss and Luuk van Dijk. Next up: TBA, Melbourne on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Jordan Brando is a house and tech house artist based in Australia, tracked on so
 
 Luke Alessi, William Kiss, Luuk van Dijk
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanbrando/)*

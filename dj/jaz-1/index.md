@@ -1,6 +1,6 @@
 # JAZ (1)
 
-JAZ (1) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+JAZ (1) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 JAZ is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol, Budapest, London and Melbourne and 4 more. Often billed alongside MIDRIB, Akira (Buntai) and CITIZEN. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ JAZ is an electronica and house artist based in United Kingdom, tracked on sound
 
 MIDRIB, Akira (Buntai), CITIZEN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaz-1/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaz-1/)*

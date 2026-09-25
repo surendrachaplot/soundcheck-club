@@ -1,6 +1,6 @@
 # Maik Gyver
 
-Maik Gyver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ritter Butzke, Berlin on Fri, 25 Sept 2026.
+Maik Gyver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ritter Butzke, Berlin on Fri, 25 Sept 2026.
 
 Maik Gyver is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Niconé, Prismode and Super Flu. Next up: Ritter Butzke, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Maik Gyver is a techno and house artist based in Germany, tracked on soundcheck,
 
 Niconé, Prismode, Super Flu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikgyver/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikgyver/)*

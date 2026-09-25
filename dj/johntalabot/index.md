@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plano B, Porto on Fri, 25 Sept 2026.
+John Talabot is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Plano B, Porto on Fri, 25 Sept 2026.
 
 John Talabot is a house and techno artist based in Spain, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: Plano B, Porto on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ John Talabot is a house and techno artist based in Spain, tracked on soundcheck,
 
 mad miran, Nicolas Lutz, Christian AB
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

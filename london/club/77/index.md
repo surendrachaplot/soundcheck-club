@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "77 SESSIONS: KOTTO" on Fri, 25 Sept 2026.
+77 is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "77 SESSIONS: KOTTO" on Fri, 25 Sept 2026.
 
 77 is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including CLEIDO, AfroKillerz, AliTR and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

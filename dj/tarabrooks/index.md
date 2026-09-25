@@ -1,6 +1,6 @@
 # Tara Brooks
 
-Tara Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 25 Sept 2026.
+Tara Brooks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Tara Brooks is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Bali, Berlin and Boston and 12 more. Often billed alongside Doc Martin, Anthony Mansfield and Cassy. Next up: Napa Music Hall, San Francisco/Oakland on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Tara Brooks is a house and techno artist based in United States of America, trac
 
 Doc Martin, Anthony Mansfield, Cassy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*

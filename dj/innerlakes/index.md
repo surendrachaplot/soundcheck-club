@@ -1,6 +1,6 @@
 # Inner Lakes
 
-Inner Lakes is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Inner Lakes is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 Inner Lakes is a techno and electro artist based in Italy, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Enrico Vivaldi, GNMR and Pabie. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Inner Lakes is a techno and electro artist based in Italy, tracked on soundcheck
 
 Enrico Vivaldi, GNMR, Pabie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innerlakes/)*

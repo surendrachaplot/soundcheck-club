@@ -1,6 +1,6 @@
 # J. Albert
 
-J. Albert is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+J. Albert is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
 J. Albert is an ambient and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Denver, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Duneska, Physical Therapy and ex wiish. Next up: Elsewhere, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ J. Albert is an ambient and house artist based in United States of America, trac
 
 Duneska, Physical Therapy, ex wiish
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalbert/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalbert/)*

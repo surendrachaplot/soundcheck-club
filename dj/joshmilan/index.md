@@ -1,6 +1,6 @@
 # Josh Milan
 
-Josh Milan is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
+Josh Milan is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Chocolate Factory, New York City on Fri, 25 Sept 2026.
 
 Josh Milan is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 12 sets logged across Athens, Detroit, London and New York City and 2 more. Often billed alongside Natasha Diggs, Louie Vega and Afshin. Next up: The Chocolate Factory, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Josh Milan is a house and funk / soul artist based in United States of America, 
 
 Natasha Diggs, Louie Vega, Afshin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshmilan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshmilan/)*

@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
 Saint Ludo is a garage and bass artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
@@ -35,4 +35,4 @@ Saint Ludo is a garage and bass artist tracked on soundcheck, with 125 sets logg
 
 Bakey, Ewan McVicar, KI/KI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

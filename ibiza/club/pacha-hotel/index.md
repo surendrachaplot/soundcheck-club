@@ -1,6 +1,6 @@
 # Pacha Hotel
 
-Pacha Hotel is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dine , Drink & Dance" on Fri, 25 Sept 2026.
+Pacha Hotel is a music venue in Ibiza with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Dine , Drink & Dance" on Fri, 25 Sept 2026.
 
 Pacha Hotel is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, with line-ups including Gaty Lopez. Browse upcoming dates, start times and who's playing. Paseo Marítimo, S/N, Ibiza, Balearic Islands.
 
@@ -15,4 +15,4 @@ Pacha Hotel is a music venue in Ibiza listed on soundcheck. 2 upcoming gigs, wit
 
 Paseo Marítimo, S/N, Ibiza, Balearic Islands, Ibiza
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-hotel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pacha-hotel/)*

@@ -1,6 +1,6 @@
 # Sivanesh
 
-Sivanesh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
+Sivanesh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
 
 Sivanesh is a house and techno artist based in Singapore, tracked on soundcheck, with 70 sets logged across Bali, Kuala Lumpur, Seoul and Singapore. Often billed alongside Miss Lil, James Selva and Bongomann. Next up: RASA, Singapore on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Sivanesh is a house and techno artist based in Singapore, tracked on soundcheck,
 
 Miss Lil, James Selva, Bongomann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sivanesh/)*

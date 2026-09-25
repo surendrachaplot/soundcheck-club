@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "PHANTASY BREAK X TRANSACTIONS" on Fri, 25 Sept 2026.
+QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "PHANTASY BREAK X TRANSACTIONS" on Fri, 25 Sept 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including anna(n), Arktic, Common Tribe and Ish Anja and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -19,4 +19,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

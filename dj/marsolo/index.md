@@ -1,6 +1,6 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Marsolo is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
 Marsolo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Document, Bristol on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Marsolo is a house and tech house artist based in Netherlands, tracked on soundc
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

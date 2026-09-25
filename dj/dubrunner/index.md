@@ -1,6 +1,6 @@
 # Dubrunner
 
-Dubrunner is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+Dubrunner is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
 
 Dubrunner is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Breaka, Yushh and Darwin. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dubrunner is a dub and bass artist based in United Kingdom, tracked on soundchec
 
 Breaka, Yushh, Darwin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*

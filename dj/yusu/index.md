@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at St. Bartholomew's Church, New York City on Sun, 27 Sept 2026.
+Yu Su is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at St. Bartholomew's Church, New York City on Sun, 27 Sept 2026.
 
 Yu Su is a house and techno artist based in China, tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: St. Bartholomew's Church, New York City on Sun 27 Sept.
 
@@ -20,6 +20,7 @@ Yu Su is a house and techno artist based in China, tracked on soundcheck, with 1
 
 ## Recently played
 
+- The Cross, London — Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Standard Time, Toronto — Fri, 18 Sept 2026
 - Soffio Fregene, Rome — Sun, 13 Sept 2026
@@ -27,10 +28,9 @@ Yu Su is a house and techno artist based in China, tracked on soundcheck, with 1
 - fabric, London — Sat, 12 Sept 2026
 - Landesmuseum, Zurich — Tue, 1 Sept 2026
 - Landesmuseum, Zurich — Mon, 31 Aug 2026
-- Hagglers Corner, Sheffield — Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

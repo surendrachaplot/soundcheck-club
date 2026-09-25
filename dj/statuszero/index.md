@@ -1,6 +1,6 @@
 # Status Zero
 
-Status Zero is a Club and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Socore Factory, Osaka on Fri, 16 Oct 2026.
+Status Zero is a Club and Noise artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Socore Factory, Osaka on Fri, 16 Oct 2026.
 
 Status Zero is a club and noise artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Kyoto and Osaka. Often billed alongside Multifun, The Burgler and DJ ritalino. Next up: Socore Factory, Osaka on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Status Zero is a club and noise artist based in Germany, tracked on soundcheck, 
 
 Multifun, The Burgler, DJ ritalino
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/statuszero/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/statuszero/)*

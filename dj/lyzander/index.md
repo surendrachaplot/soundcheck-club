@@ -1,6 +1,6 @@
 # LYZANDER
 
-LYZANDER is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
+LYZANDER is a Dubstep and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Loco Klub, Bristol on Sat, 3 Oct 2026.
 
 LYZANDER is a dubstep and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol and London. Often billed alongside Ifeoluwa, Lilian Lyzander and Princess Xixi. Next up: The Loco Klub, Bristol on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ LYZANDER is a dubstep and techno artist based in United Kingdom, tracked on soun
 
 Ifeoluwa, Lilian Lyzander, Princess Xixi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*

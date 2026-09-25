@@ -1,6 +1,6 @@
 # Cast Lov
 
-Cast Lov is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Cast Lov is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Cast Lov is a techno and trance artist based in Colombia, tracked on soundcheck, with 17 sets logged across Amsterdam and London. Often billed alongside MAXYM, MARIUS SEBASTIAN and MEAKIN. Next up: Eighty-Four Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Cast Lov is a techno and trance artist based in Colombia, tracked on soundcheck,
 
 MAXYM, MARIUS SEBASTIAN, MEAKIN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*

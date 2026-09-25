@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Remmy 'When The Dawn Breaks' EP Release Party" on Thu, 24 Sept 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "FRAN-KEY/iz/Vinyl Youth" on Fri, 25 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Carl H, Celter, Dan Andrei and DJ MARIA. and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Carl H, Celter, Dan Andrei and DJ MARIA. and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Remmy 'When The Dawn Breaks' EP Release Party | DNG (1) |
 | Fri, 25 Sept 2026 | FRAN-KEY/iz/Vinyl Youth |  |
 | Sat, 26 Sept 2026 | Noods Radio: Tokyo | Element (3), Lil Mofo, Mamazu, Mars89 |
 | Mon, 28 Sept 2026 | RAMI/Hue Rey/iz |  |
@@ -23,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

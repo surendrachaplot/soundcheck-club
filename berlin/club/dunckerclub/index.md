@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Back to the Sixties" on Fri, 25 Sept 2026.
+Dunckerclub is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Back to the Sixties" on Fri, 25 Sept 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Neue K. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -18,4 +18,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wi
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

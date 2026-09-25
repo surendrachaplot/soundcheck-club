@@ -1,6 +1,6 @@
 # Alma Libre
 
-Alma Libre is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
+Alma Libre is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at AUX Club, Athens on Fri, 25 Sept 2026.
 
 Alma Libre is a techno and minimal techno artist based in Greece, tracked on soundcheck, with 4 sets logged across Athens. Often billed alongside MVRU, Imperium and MATEA. Next up: AUX Club, Athens on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Alma Libre is a techno and minimal techno artist based in Greece, tracked on sou
 
 MVRU, Imperium, MATEA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almalibre/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almalibre/)*

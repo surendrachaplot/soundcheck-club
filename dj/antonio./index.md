@@ -1,6 +1,6 @@
 # ANTØNIØ.
 
-ANTØNIØ. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
+ANTØNIØ. is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Crack Bellmer, Berlin on Fri, 25 Sept 2026.
 
 ANTØNIØ. is a techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin and London. Often billed alongside TOOTHTAXI, DELARA and LIZAZA. Next up: Crack Bellmer, Berlin on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ ANTØNIØ. is a techno artist based in United Kingdom, tracked on soundcheck, wi
 
 TOOTHTAXI, DELARA, LIZAZA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonio./)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonio./)*

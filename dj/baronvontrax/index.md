@@ -1,6 +1,6 @@
 # Baron Von Trax
 
-Baron Von Trax is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
+Baron Von Trax is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Cheetah Club, Glasgow on Sat, 17 Oct 2026.
 
 Baron Von Trax is a trance and techno artist based in Australia, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 23 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: La Cheetah Club, Glasgow on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Baron Von Trax is a trance and techno artist based in Australia, tracked on soun
 
 Upper90, Bad Boombox, BAUGRUPPE90
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*

@@ -1,6 +1,6 @@
 # NYYYCOL
 
-NYYYCOL is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Latraac, Athens on Fri, 25 Sept 2026.
+NYYYCOL is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Latraac, Athens on Fri, 25 Sept 2026.
 
 NYYYCOL is an electronic artist based in France, tracked on soundcheck, with 9 sets logged across Athens, London and Paris. Often billed alongside OKO DJ, Eiger Drums Propaganda and Hybokh. Next up: Latraac, Athens on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NYYYCOL is an electronic artist based in France, tracked on soundcheck, with 9 s
 
 OKO DJ, Eiger Drums Propaganda, Hybokh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyyycol/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyyycol/)*

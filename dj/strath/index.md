@@ -1,6 +1,6 @@
 # Strath
 
-Strath is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Strath is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Strath is a house and acid artist based in Australia, tracked on soundcheck, with 23 sets logged across Amsterdam, Dublin, Leeds and London and 4 more. Often billed alongside Harry Who, SG Lewis and Afroasis. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Strath is a house and acid artist based in Australia, tracked on soundcheck, wit
 
 Harry Who, SG Lewis, Afroasis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*

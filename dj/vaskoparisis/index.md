@@ -1,6 +1,6 @@
 # Vasko Parisis
 
-Vasko Parisis is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Vasko Parisis is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
 
 Vasko Parisis is a minimal and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Ibiza and Lisbon. Often billed alongside Dimitris Anagnostou, Hannecart and Kirilski. Next up: Loop51, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vasko Parisis is a minimal and techno artist tracked on soundcheck, with 34 sets
 
 Dimitris Anagnostou, Hannecart, Kirilski
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaskoparisis/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaskoparisis/)*

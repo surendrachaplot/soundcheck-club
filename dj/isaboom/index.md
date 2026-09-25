@@ -1,6 +1,6 @@
 # Isa Boom
 
-Isa Boom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Datcha, Montreal on Thu, 1 Oct 2026.
+Isa Boom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Datcha, Montreal on Thu, 1 Oct 2026.
 
 Isa Boom is a house and techno artist tracked on soundcheck, with 22 sets logged across Montreal. Often billed alongside Casa Kobrae, JASHIM and CrisseMarqueur. Next up: Bar Datcha, Montreal on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Isa Boom is a house and techno artist tracked on soundcheck, with 22 sets logged
 
 Casa Kobrae, JASHIM, CrisseMarqueur
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaboom/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaboom/)*

@@ -1,6 +1,6 @@
 # RESONATE.JPEG
 
-RESONATE.JPEG is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
+RESONATE.JPEG is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
 RESONATE.JPEG is an experimental and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Philadelphia and Vancouver. Often billed alongside Obreezy Beats, Speed.FM and WILHELMINA. Next up: TBA, Philadelphia on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ RESONATE.JPEG is an experimental and techno artist based in United States of Ame
 
 Obreezy Beats, Speed.FM, WILHELMINA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resonate-jpeg/)*

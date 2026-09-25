@@ -1,6 +1,6 @@
 # Flight Mode (DE)
 
-Flight Mode (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+Flight Mode (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
 
 Flight Mode (DE) is a techno and house artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Milan and New York City and 2 more. Often billed alongside G.oss, Kobzev and LUISELLE. Next up: Green Room NYC, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Flight Mode (DE) is a techno and house artist based in Italy, tracked on soundch
 
 G.oss, Kobzev, LUISELLE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*

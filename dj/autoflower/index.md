@@ -1,6 +1,6 @@
 # AUTOFLOWER
 
-AUTOFLOWER is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
+AUTOFLOWER is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
 
 AUTOFLOWER is a house and techno artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Fiene, Moody Mehran and Rozie. Next up: Toekomstmuziek, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ AUTOFLOWER is a house and techno artist based in Netherlands, tracked on soundch
 
 Fiene, Moody Mehran, Rozie
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autoflower/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autoflower/)*

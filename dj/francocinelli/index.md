@@ -1,6 +1,6 @@
 # Franco Cinelli
 
-Franco Cinelli is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Circolo degli Illuminati, Rome on Sat, 3 Oct 2026.
+Franco Cinelli is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Circolo degli Illuminati, Rome on Sat, 3 Oct 2026.
 
 Franco Cinelli is a house and tech house artist based in Argentina, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Momo Trosman, Arapu and Raresh. Next up: Circolo degli Illuminati, Rome on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Franco Cinelli is a house and tech house artist based in Argentina, tracked on s
 
 Momo Trosman, Arapu, Raresh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francocinelli/)*

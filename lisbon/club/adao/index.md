@@ -1,6 +1,6 @@
 # Adao
 
-Adao is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "TEKQUINOX #9 - RACKET ALERT (IXINDAMIX & BAGZ) AND MUCH MORE" on Sat, 26 Sept 2026.
+Adao is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "TEKQUINOX #9 - RACKET ALERT (IXINDAMIX & BAGZ) AND MUCH MORE" on Sat, 26 Sept 2026.
 
 Adao is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Rua da Recosta, nº1, Barreiro, Portugal.
 
@@ -14,4 +14,4 @@ Adao is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upc
 
 Rua da Recosta, nº1, Barreiro, Portugal, Lisbon
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/adao/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/adao/)*

@@ -1,6 +1,6 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
+Tonno Disko is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Night Tales Loft, London on Fri, 25 Sept 2026.
 
 Tonno Disko is a house and disco artist based in Netherlands, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 14 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Night Tales Loft, London on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Tonno Disko is a house and disco artist based in Netherlands, tracked on soundch
 
 Leroy Rey, Kirollus, Laura Meester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*

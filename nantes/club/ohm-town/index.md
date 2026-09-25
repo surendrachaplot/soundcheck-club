@@ -1,6 +1,6 @@
 # OHM Town
 
-OHM Town is a music venue in Nantes with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Pitaya Soundsystem All Night Long" on Sat, 26 Sept 2026.
+OHM Town is a music venue in Nantes with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Pitaya Soundsystem All Night Long" on Sat, 26 Sept 2026.
 
 OHM Town is a music venue in Nantes listed on soundcheck. 2 upcoming gigs, with line-ups including Alan.D, Chinau and Pitaya Soundsystem. Browse upcoming dates, start times and who's playing. 16-17 Rue Jules Launey 44100 Nantes.
 
@@ -15,4 +15,4 @@ OHM Town is a music venue in Nantes listed on soundcheck. 2 upcoming gigs, with 
 
 16-17 Rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/ohm-town/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/ohm-town/)*

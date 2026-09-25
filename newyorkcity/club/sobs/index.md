@@ -1,8 +1,8 @@
 # SOBs
 
-SOBs is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Molly & June's Honky Tonk: Line Dance Classes & Country Music" on Fri, 25 Sept 2026.
+SOBs is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Molly & June's Honky Tonk: Line Dance Classes & Country Music" on Fri, 25 Sept 2026.
 
-SOBs is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including Gwen, Joon, Maso and Samsara and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including 444, Gwen, Joon and Maso and 2 more. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SOBs is a music venue in New York City listed on soundcheck. 23 upcoming gigs, w
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

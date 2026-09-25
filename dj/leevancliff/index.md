@@ -1,6 +1,6 @@
 # Lee Van Cliff
 
-Lee Van Cliff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Gate Milano, Milan on Fri, 23 Oct 2026.
+Lee Van Cliff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Gate Milano, Milan on Fri, 23 Oct 2026.
 
 Lee Van Cliff is a techno and house artist based in Italy, tracked on soundcheck, with 6 sets logged across Milan and Turin. Often billed alongside Bassik, Distorted Planet and Hëit. Next up: Gate Milano, Milan on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Lee Van Cliff is a techno and house artist based in Italy, tracked on soundcheck
 
 Bassik, Distorted Planet, Hëit
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leevancliff/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leevancliff/)*

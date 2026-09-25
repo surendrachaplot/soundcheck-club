@@ -1,6 +1,6 @@
 # Hinako Omori
 
-Hinako Omori is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Thu, 17 Dec 2026.
+Hinako Omori is a Electronica and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Prospect Building, Bristol on Thu, 17 Dec 2026.
 
 Hinako Omori is an electronica and r&b artist based in Japan, tracked on soundcheck, with 9 sets logged across Berlin, Bristol, London and Tokyo. Often billed alongside Kloxii Li, ALX-106 and Anthony Rother. Next up: The Prospect Building, Bristol on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Hinako Omori is an electronica and r&b artist based in Japan, tracked on soundch
 
 Kloxii Li, ALX-106, Anthony Rother
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinakoomori/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinakoomori/)*

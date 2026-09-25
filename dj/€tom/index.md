@@ -1,6 +1,6 @@
 # €TOM
 
-€TOM is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kaiku, Helsinki on Fri, 16 Oct 2026.
+€TOM is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kaiku, Helsinki on Fri, 16 Oct 2026.
 
 €TOM is a techno and disco artist based in Finland, tracked on soundcheck, with 23 sets logged across Helsinki and Tbilisi. Often billed alongside C4KE, CEB (FI) and Huijari. Next up: Kaiku, Helsinki on Fri 16 Oct.
 
@@ -25,4 +25,4 @@
 
 C4KE, CEB (FI), Huijari
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/€tom/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/€tom/)*

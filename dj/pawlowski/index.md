@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Room 2 Glasgow, Glasgow on Sun, 27 Sept 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Room 2 Glasgow, Glasgow on Sun, 27 Sept 2026.
 
 Pawlowski is a techno and trance artist based in France, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 48 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Room 2 Glasgow, Glasgow on Sun 27 Sept.
 
@@ -29,4 +29,4 @@ Pawlowski is a techno and trance artist based in France, tracked on soundcheck, 
 
 Nico Moreno, Azyr, DYEN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

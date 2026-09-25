@@ -1,6 +1,6 @@
 # The Loom
 
-The Loom is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Parameter x SQUISH Weekender" on Fri, 2 Oct 2026.
+The Loom is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Parameter x SQUISH Weekender" on Fri, 2 Oct 2026.
 
 The Loom is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Andy Martin, Ayesha, Ben Bondy and Carré and 2 more. Browse upcoming dates, start times and who's playing. 2220 Livingston St, Oakland, CA 94606, USA.
 
@@ -14,4 +14,4 @@ The Loom is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcom
 
 2220 Livingston St, Oakland, CA 94606, USA, San Francisco/Oakland
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-loom/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-loom/)*

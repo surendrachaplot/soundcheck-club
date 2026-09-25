@@ -1,6 +1,6 @@
 # Charlotte Devaney
 
-Charlotte Devaney is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
+Charlotte Devaney is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Charlotte Devaney is a drum & bass and breakbeat artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London and Manchester. Often billed alongside Grooverider, Jumping Jack Frost and Nicky Blackmarket. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Charlotte Devaney is a drum & bass and breakbeat artist based in United Kingdom,
 
 Grooverider, Jumping Jack Frost, Nicky Blackmarket
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedevaney/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedevaney/)*

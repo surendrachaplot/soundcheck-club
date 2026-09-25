@@ -1,6 +1,6 @@
 # Prince Josh
 
-Prince Josh is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cafeteria, Toronto on Fri, 2 Oct 2026.
+Prince Josh is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cafeteria, Toronto on Fri, 2 Oct 2026.
 
 Prince Josh is a house and club artist based in Canada, tracked on soundcheck, with 37 sets logged across Toronto. Often billed alongside Young Teesh, HVN and Milch. Next up: Cafeteria, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Prince Josh is a house and club artist based in Canada, tracked on soundcheck, w
 
 Young Teesh, HVN (1), Milch (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princejosh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princejosh/)*

@@ -1,6 +1,6 @@
 # Flandez
 
-Flandez is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+Flandez is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 Flandez is an electronic artist tracked on soundcheck, with 10 sets logged across Berlin and Hamburg. Often billed alongside Pia Kauitl, Esteban De Haro and Audio Werner. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Flandez is an electronic artist tracked on soundcheck, with 10 sets logged acros
 
 Pia Kauitl, Esteban De Haro, Audio Werner
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flandez/)*

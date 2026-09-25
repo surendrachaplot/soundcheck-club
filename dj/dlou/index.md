@@ -1,6 +1,6 @@
 # DLOU
 
-DLOU is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at EL SÓTANO, Madrid on Fri, 25 Sept 2026.
+DLOU is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at EL SÓTANO, Madrid on Fri, 25 Sept 2026.
 
 DLOU is a tech house and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside Abdon, Freddy Bello and Tini Gessler. Next up: EL SÓTANO, Madrid on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DLOU is a tech house and house artist based in Spain, tracked on soundcheck, wit
 
 Abdon, Freddy Bello, Tini Gessler
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*

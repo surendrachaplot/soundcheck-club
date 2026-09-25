@@ -1,6 +1,6 @@
 # Zengxrl
 
-Zengxrl is a Afro Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
+Zengxrl is a Afro Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at fabric, London on Fri, 6 Nov 2026.
 
 Zengxrl is an afro tech and techno artist based in Portugal, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Geneva and Lisbon and 4 more. Often billed alongside Branko, Meg10 and VIL (PT). Next up: fabric, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Zengxrl is an afro tech and techno artist based in Portugal, tracked on soundche
 
 Branko, Meg10, VIL (PT)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zengxrl/)*

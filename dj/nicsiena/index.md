@@ -1,6 +1,6 @@
 # Nic Siena
 
-Nic Siena is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circolo degli Illuminati, Rome on Fri, 2 Oct 2026.
+Nic Siena is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Circolo degli Illuminati, Rome on Fri, 2 Oct 2026.
 
 Nic Siena is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Rome. Often billed alongside Alessandro Addi, Andrea Saba and Francesco Maria. Next up: Circolo degli Illuminati, Rome on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nic Siena is a house and tech house artist based in Italy, tracked on soundcheck
 
 Alessandro Addi, Andrea Saba, Francesco Maria
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicsiena/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicsiena/)*

@@ -1,6 +1,6 @@
 # DJ Good Evening
 
-DJ Good Evening is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Fri, 25 Sept 2026.
+DJ Good Evening is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spkrbox, Detroit on Fri, 25 Sept 2026.
 
 DJ Good Evening is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Detroit. Often billed alongside RIRKIN, nico dj and Jeff Garcia. Next up: Spkrbox, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Good Evening is a ghetto tech and house artist based in United States of Amer
 
 RIRKIN, nico dj, Jeff Garcia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodevening/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoodevening/)*

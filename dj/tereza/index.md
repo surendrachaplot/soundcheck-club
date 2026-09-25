@@ -1,6 +1,6 @@
 # Tereza
 
-Tereza is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Tereza is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
 Tereza is a house and disco artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Danilo Plessow, MLE (UK) and Manuel Kim. Next up: OXI, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tereza is a house and disco artist based in Germany, tracked on soundcheck, with
 
 Danilo Plessow, MLE (UK), Manuel Kim
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tereza/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tereza/)*

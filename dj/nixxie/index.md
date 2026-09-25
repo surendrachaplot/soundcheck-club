@@ -1,6 +1,6 @@
 # Nixxie
 
-Nixxie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Nixxie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Nixxie is a house and deep house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Athens, Mykonos and Warsaw. Often billed alongside Lehar, Abana and Alex Dallas. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Nixxie is a house and deep house artist tracked on soundcheck, with 7 sets logge
 
 Lehar, Abana, Alex Dallas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nixxie/)*

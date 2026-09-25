@@ -1,6 +1,6 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Fab Massimo is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Fab Massimo is a techno and tech house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Fab Massimo is a techno and tech house artist based in Germany, tracked on sound
 
 Bombata, Techmo, Katzengold
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

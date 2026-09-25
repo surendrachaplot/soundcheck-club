@@ -1,6 +1,6 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Lewis Fautzi is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 24 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Lewis Fautzi is a techno and trance artist based in Portugal, tracked on soundch
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

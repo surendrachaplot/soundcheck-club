@@ -1,6 +1,6 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
+Praslea is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
 Praslea is a minimal and house artist based in Romania, tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: FOLD, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Praslea is a minimal and house artist based in Romania, tracked on soundcheck, w
 
 Raresh, CEZAR, Traumer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

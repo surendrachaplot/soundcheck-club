@@ -1,6 +1,6 @@
 # ATT1C
 
-ATT1C is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - DM FX.FM_ FOR LOCATION, Chicago on Sat, 26 Sept 2026.
+ATT1C is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - DM FX.FM_ FOR LOCATION, Chicago on Sat, 26 Sept 2026.
 
 ATT1C is a techno and trance artist based in United States of America, tracked on soundcheck, with 16 sets logged across Chicago. Often billed alongside dirtymoney, quade and Miss B Haven. Next up: TBA - DM FX.FM_ FOR LOCATION, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ATT1C is a techno and trance artist based in United States of America, tracked o
 
 dirtymoney, quade, Miss B Haven
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/att1c/)*

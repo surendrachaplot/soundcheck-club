@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Skin On Skin is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Skin On Skin is a techno and house artist based in South Sudan, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -23,6 +23,7 @@ Skin On Skin is a techno and house artist based in South Sudan, tracked on sound
 
 ## Recently played
 
+- Various Venues, London — Thu, 24 Sept 2026
 - TBA, Washington DC — Sat, 12 Sept 2026
 - Club Space Miami, Miami — Fri, 11 Sept 2026
 - Good Room, New York City — Thu, 10 Sept 2026
@@ -30,10 +31,9 @@ Skin On Skin is a techno and house artist based in South Sudan, tracked on sound
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Burgess Park, London — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
-- Burgess Park, London — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

@@ -1,6 +1,6 @@
 # Honcho
 
-Honcho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Honcho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
 Honcho is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Detroit, London and Los Angeles and 5 more. Often billed alongside Clark Price, Aaron Clark and d'Adhemar. Next up: Hive Club, Zurich on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Honcho is a house and techno artist based in United States of America, tracked o
 
 Clark Price, Aaron Clark, d'Adhemar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honcho/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honcho/)*

@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pygmalion, Dublin on Fri, 25 Sept 2026.
+Joshwa is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Pygmalion, Dublin on Fri, 25 Sept 2026.
 
 Joshwa is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Pygmalion, Dublin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Joshwa is a tech house and house artist based in United Kingdom, tracked on soun
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

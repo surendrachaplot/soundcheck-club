@@ -1,6 +1,6 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Isla Den - Montréal" on Fri, 25 Sept 2026.
+Newspeak is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Isla Den - Montréal" on Fri, 25 Sept 2026.
 
 Newspeak is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including Ali RQ, Baauer, Brat Star and Claireyy and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
@@ -23,4 +23,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, wi
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

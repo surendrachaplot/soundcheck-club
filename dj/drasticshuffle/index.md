@@ -1,6 +1,6 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
+Drastic Shuffle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
 
 Drastic Shuffle is a house and electronica artist based in Mexico, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Bread and Butter, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Drastic Shuffle is a house and electronica artist based in Mexico, tracked on so
 
 Benebe, MAÏS, Make Money Mafia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*

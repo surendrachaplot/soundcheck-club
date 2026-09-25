@@ -1,6 +1,6 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+Kalabrese is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
 Kalabrese is a house and electronica artist based in Switzerland, tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Kalabrese is a house and electronica artist based in Switzerland, tracked on sou
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

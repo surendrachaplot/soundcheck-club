@@ -1,6 +1,6 @@
 # Ricky Nord
 
-Ricky Nord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
+Ricky Nord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
 
 Ricky Nord is a techno and house artist based in Australia, tracked on soundcheck, with 54 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Mabel and Hannah D. Next up: Dr Morse, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ricky Nord is a techno and house artist based in Australia, tracked on soundchec
 
 Charlotte Rooney, Mabel, Hannah D
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickynord/)*

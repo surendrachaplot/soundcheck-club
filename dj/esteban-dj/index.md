@@ -1,6 +1,6 @@
 # Esteban
 
-Esteban is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Spot, Vancouver on Sat, 26 Sept 2026.
+Esteban is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Spot, Vancouver on Sat, 26 Sept 2026.
 
 Esteban is a techno and house artist based in France, tracked on soundcheck, with 7 sets logged across Barcelona, Melbourne, Milan and New York City and 1 more. Often billed alongside C-Star, Cucina Sonora and Derrick May. Next up: The Spot, Vancouver on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Esteban is a techno and house artist based in France, tracked on soundcheck, wit
 
 C-Star, Cucina Sonora, Derrick May
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esteban-dj/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esteban-dj/)*

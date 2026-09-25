@@ -1,6 +1,6 @@
 # goreshit
 
-goreshit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
+goreshit is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
 
 goreshit is a breakcore and hardcore artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Antwerp, Berlin, Bristol and Glasgow and 10 more. Often billed alongside IFFYHYPE, LustSickPuppy and Bye2. Next up: The Cobalt, Vancouver on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ goreshit is a breakcore and hardcore artist based in United Kingdom, tracked on 
 
 IFFYHYPE, LustSickPuppy, Bye2
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goreshit/)*

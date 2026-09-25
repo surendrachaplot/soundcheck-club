@@ -1,6 +1,6 @@
 # Wade Teo
 
-Wade Teo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
+Wade Teo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at NUMBER 90 LONDON, London on Sat, 26 Sept 2026.
 
 Wade Teo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Ibiza, London and Seoul. Often billed alongside Davide Del Vecchio, Anthony Roachman and Dan Cluskey. Next up: NUMBER 90 LONDON, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Wade Teo is a house and techno artist based in United Kingdom, tracked on soundc
 
 Davide Del Vecchio, Anthony Roachman, Dan Cluskey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wadeteo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wadeteo/)*

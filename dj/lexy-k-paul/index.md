@@ -1,6 +1,6 @@
 # Lexy & K-Paul
 
-Lexy & K-Paul is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
+Lexy & K-Paul is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
 
 Lexy & K-Paul are a techno and progressive house duo based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Mark Dekoda, Prismode and Solvane. Next up: Tanzhaus West, Frankfurt on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Lexy & K-Paul are a techno and progressive house duo based in Germany, tracked o
 
 Mark Dekoda, Prismode, Solvane
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexy-k-paul/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexy-k-paul/)*

@@ -1,6 +1,6 @@
 # elMefti
 
-elMefti is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+elMefti is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Holy Priest, A.N.I. and Nicolas Julian. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ elMefti is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Holy Priest, A.N.I., Nicolas Julian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elmefti/)*

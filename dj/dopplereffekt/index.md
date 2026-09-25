@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
+Dopplereffekt is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Los Angeles on Fri, 25 Sept 2026.
 
 Dopplereffekt is a techno and electro artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: TBA, Los Angeles on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Dopplereffekt is a techno and electro artist based in United States of America, 
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

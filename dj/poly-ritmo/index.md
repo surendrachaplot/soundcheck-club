@@ -1,6 +1,6 @@
 # Poly-Ritmo
 
-Poly-Ritmo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eastway Baths, London on Sun, 25 Oct 2026.
+Poly-Ritmo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eastway Baths, London on Sun, 25 Oct 2026.
 
 Poly-Ritmo is a house and disco artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Copenhagen and Dublin and 11 more. Often billed alongside Palo Santo Discos, Charlie Dark and Coco Maria. Next up: Eastway Baths, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Poly-Ritmo is a house and disco artist based in United Kingdom, tracked on sound
 
 Palo Santo Discos, Charlie Dark, Coco Maria
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*

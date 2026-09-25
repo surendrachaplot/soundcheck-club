@@ -1,6 +1,6 @@
 # Allegretti
 
-Allegretti is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Astoria, Turin on Fri, 2 Oct 2026.
+Allegretti is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Astoria, Turin on Fri, 2 Oct 2026.
 
 Allegretti is a techno artist based in Italy, tracked on soundcheck, with 18 sets logged across Turin. Often billed alongside Teeo, Syca and Arthur Robert. Next up: Astoria, Turin on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Allegretti is a techno artist based in Italy, tracked on soundcheck, with 18 set
 
 Teeo, Syca, Arthur Robert
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allegretti/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allegretti/)*

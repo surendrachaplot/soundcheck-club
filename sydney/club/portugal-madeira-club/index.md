@@ -1,6 +1,6 @@
 # Portugal Madeira Club
 
-Portugal Madeira Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "BLOOD OF AZA" on Fri, 2 Oct 2026.
+Portugal Madeira Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "BLOOD OF AZA" on Fri, 2 Oct 2026.
 
 Portugal Madeira Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Blood of Aza, Jll0Mll0, Jungist and Scariestgirlintheworld. Browse upcoming dates, start times and who's playing. 1-3 Denby St, Marrickville 2204.
 
@@ -14,4 +14,4 @@ Portugal Madeira Club is a music venue in Sydney listed on soundcheck. 1 upcomin
 
 1-3 Denby St, Marrickville 2204, Sydney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/portugal-madeira-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/portugal-madeira-club/)*

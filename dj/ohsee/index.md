@@ -1,6 +1,6 @@
 # Oh See
 
-Oh See is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Tempest Inn, Brighton on Fri, 25 Sept 2026.
+Oh See is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Tempest Inn, Brighton on Fri, 25 Sept 2026.
 
 Oh See is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Brighton, Cardiff and London. Often billed alongside Minister Ballantine, Osmaan and Tiffany Quinn. Next up: The Tempest Inn, Brighton on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Oh See is a house and techno artist based in United Kingdom, tracked on soundche
 
 Minister Ballantine, Osmaan, Tiffany Quinn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohsee/)*

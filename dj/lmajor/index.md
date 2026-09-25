@@ -1,6 +1,6 @@
 # LMajor
 
-LMajor is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Sat, 3 Oct 2026.
+LMajor is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Sat, 3 Oct 2026.
 
 LMajor is a jungle and breakbeat artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Berlin, Brighton, Bristol and Copenhagen and 10 more. Often billed alongside Mani Festo, Denham Audio and Borai. Next up: Planet Wax, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ LMajor is a jungle and breakbeat artist based in United Kingdom, tracked on soun
 
 Mani Festo, Denham Audio, Borai
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*

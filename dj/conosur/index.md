@@ -1,6 +1,6 @@
 # Conosur
 
-Conosur is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
+Conosur is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aire Miami, Miami on Fri, 2 Oct 2026.
 
 Conosur is a progressive house and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Miami. Often billed alongside Goa'98, Guy J and Jessy Nimni. Next up: Aire Miami, Miami on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Conosur is a progressive house and house artist based in United States of Americ
 
 Goa'98, Guy J, Jessy Nimni
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conosur/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conosur/)*

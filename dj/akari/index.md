@@ -1,6 +1,6 @@
 # AKARI
 
-AKARI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ZUBAR, Tokyo on Sun, 4 Oct 2026.
+AKARI is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ZUBAR, Tokyo on Sun, 4 Oct 2026.
 
 AKARI is a house and bass artist based in Japan, tracked on soundcheck, with 37 sets logged across Osaka, Paris, Seoul and Tokyo. Often billed alongside M.I.O, Tada and MUNÉO. Next up: ZUBAR, Tokyo on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ AKARI is a house and bass artist based in Japan, tracked on soundcheck, with 37 
 
 M.I.O, Tada, MUNÉO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akari/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akari/)*

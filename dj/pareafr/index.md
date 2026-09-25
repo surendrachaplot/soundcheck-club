@@ -1,6 +1,6 @@
 # Parea (FR)
 
-Parea (FR) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Outer Heaven, New York City on Wed, 28 Oct 2026.
+Parea (FR) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Outer Heaven, New York City on Wed, 28 Oct 2026.
 
 Parea (FR) is a house and minimal artist based in France, tracked on soundcheck, with 20 sets logged across London, New York City and Paris. Often billed alongside Sonus, Matteo Diop and Archie Hamilton. Next up: Outer Heaven, New York City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Parea (FR) is a house and minimal artist based in France, tracked on soundcheck,
 
 Sonus, Matteo Diop, Archie Hamilton
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pareafr/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pareafr/)*

@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[IVY] presents XTASË - Bristol" on Fri, 25 Sept 2026.
+Sawmills is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "[IVY] presents XTASË - Bristol" on Fri, 25 Sept 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Bladerunner, Burt Cope, De Gladde Paling and DJ Hazard and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -19,4 +19,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

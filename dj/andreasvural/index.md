@@ -1,6 +1,6 @@
 # Andreas Vural
 
-Andreas Vural is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
+Andreas Vural is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Enter Shibuya, Tokyo on Sat, 26 Sept 2026.
 
 Andreas Vural is a techno and tech house artist based in Sweden, tracked on soundcheck, with 10 sets logged across Bangkok and Tokyo. Often billed alongside Sziko Bakos, B and Berry (KR). Next up: Enter Shibuya, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Andreas Vural is a techno and tech house artist based in Sweden, tracked on soun
 
 Sziko Bakos, B (379), Berry (KR)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasvural/)*

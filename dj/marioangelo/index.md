@@ -1,6 +1,6 @@
 # Mario Angelo
 
-Mario Angelo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
+Mario Angelo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
 
 Mario Angelo is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Frankfurt, Nürnberg and Paris. Often billed alongside Cassa Cristano, Mantraa and Klang der Nacht. Next up: Airport Würzburg, Nürnberg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mario Angelo is a techno and trance artist based in Germany, tracked on soundche
 
 Cassa Cristano, Mantraa, Klang der Nacht
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioangelo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioangelo/)*

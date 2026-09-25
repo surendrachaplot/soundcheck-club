@@ -1,6 +1,6 @@
 # Samir (DVS)
 
-Samir (DVS) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
+Samir (DVS) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Glove That Fits, London on Sat, 26 Sept 2026.
 
 Samir (DVS) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside D1 x Samir (DVS), FrezZ and Azire. Next up: The Glove That Fits, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Samir (DVS) is a tech house and house artist based in United Kingdom, tracked on
 
 D1 x Samir (DVS), FrezZ, Azire
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*

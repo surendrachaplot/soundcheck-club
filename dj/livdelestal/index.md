@@ -1,6 +1,6 @@
 # Liv del Estal
 
-Liv del Estal is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Elysée Montmartre, Paris on Thu, 26 Nov 2026.
+Liv del Estal is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Elysée Montmartre, Paris on Thu, 26 Nov 2026.
 
 Liv del Estal is a trance and bass artist based in France, tracked on soundcheck, with 6 sets logged across Brussels, Marseille and Paris. Often billed alongside DJ Caline, ARTEM (FR) and BIIANCO. Next up: Elysée Montmartre, Paris on Thu 26 Nov.
 
@@ -22,4 +22,4 @@ Liv del Estal is a trance and bass artist based in France, tracked on soundcheck
 
 DJ Caline, ARTEM (FR), BIIANCO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*

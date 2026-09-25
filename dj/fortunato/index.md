@@ -1,6 +1,6 @@
 # FORTUNATO
 
-FORTUNATO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
+FORTUNATO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
 
 FORTUNATO is a house and techno artist based in Brazil, tracked on soundcheck, with 11 sets logged across Sao Paulo. Often billed alongside Ananda (BR), Alírio and EVEHIVE. Next up: TBA, Sao Paulo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ FORTUNATO is a house and techno artist based in Brazil, tracked on soundcheck, w
 
 Ananda (BR), Alírio, EVEHIVE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunato/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fortunato/)*

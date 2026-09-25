@@ -1,6 +1,6 @@
 # Villanova
 
-Villanova is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Paradise Now, Düsseldorf on Fri, 25 Sept 2026.
+Villanova is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Paradise Now, Düsseldorf on Fri, 25 Sept 2026.
 
 Villanova is a tech house and deep house artist based in France, tracked on soundcheck, with 13 sets logged across Düsseldorf, Ibiza, London and Lyon and 1 more. Often billed alongside Ramyen, Notre Dame and Saraga. Next up: The Paradise Now, Düsseldorf on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Villanova is a tech house and deep house artist based in France, tracked on soun
 
 Ramyen, Notre Dame, Saraga
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villanova/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villanova/)*

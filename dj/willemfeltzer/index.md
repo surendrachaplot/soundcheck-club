@@ -1,6 +1,6 @@
 # Willem Feltzer
 
-Willem Feltzer is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
+Willem Feltzer is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jolene, Copenhagen on Fri, 25 Sept 2026.
 
 Willem Feltzer is a house and club artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Brussels, Copenhagen and The Hague. Often billed alongside Oceanic, EYCEE and Jasmín. Next up: Jolene, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Willem Feltzer is a house and club artist based in Netherlands, tracked on sound
 
 Oceanic, EYCEE, Jasmín
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*

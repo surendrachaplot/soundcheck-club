@@ -1,6 +1,6 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Roadrunner, Boston on Fri, 25 Sept 2026.
+Tinlicker is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Roadrunner, Boston on Fri, 25 Sept 2026.
 
 Tinlicker is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: Roadrunner, Boston on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, tra
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

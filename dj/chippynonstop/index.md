@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Chippy Nonstop is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Chippy Nonstop is a techno and house artist based in Canada, tracked on soundche
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "pod. 1st birthday party with Melody b2b Ethel & Dav (live)" on Fri, 25 Sept 2026.
+Meraki is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "pod. 1st birthday party with Melody b2b Ethel & Dav (live)" on Fri, 25 Sept 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including CHVZ, CIVILIAN, Dav and EDJM and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -23,4 +23,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, wit
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

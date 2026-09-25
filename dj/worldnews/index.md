@@ -1,6 +1,6 @@
 # World News
 
-World News is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at St. Anne's Parish Hall, Toronto on Sat, 3 Oct 2026.
+World News is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at St. Anne's Parish Hall, Toronto on Sat, 3 Oct 2026.
 
 World News is an experimental and electronica artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Assassin Bug, BodyDBL and Bodywaltz. Next up: St. Anne's Parish Hall, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ World News is an experimental and electronica artist based in Canada, tracked on
 
 Assassin Bug, BodyDBL, Bodywaltz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldnews/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldnews/)*

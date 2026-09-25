@@ -1,6 +1,6 @@
 # Vegan Cannibal
 
-Vegan Cannibal is a Latin Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Casa Imperial, Mexico City on Fri, 25 Sept 2026.
+Vegan Cannibal is a Latin Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Casa Imperial, Mexico City on Fri, 25 Sept 2026.
 
 Vegan Cannibal is a latin bass and ambient artist tracked on soundcheck, with 8 sets logged across Austin and Mexico City. Often billed alongside Bruja Prieta, Imaabs and Iris Estefanía. Next up: Casa Imperial, Mexico City on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Vegan Cannibal is a latin bass and ambient artist tracked on soundcheck, with 8 
 
 Bruja Prieta, Imaabs, Iris Estefanía
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vegancannibal/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vegancannibal/)*

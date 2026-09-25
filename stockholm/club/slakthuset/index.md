@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NORDIC RAVE - TECHNO STOCKHOLM" on Fri, 25 Sept 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "NORDIC RAVE - TECHNO STOCKHOLM" on Fri, 25 Sept 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including Anneli, Bara W, Djuma Soundsystem and Dual Drive and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -17,4 +17,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

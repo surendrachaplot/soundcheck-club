@@ -1,6 +1,6 @@
 # Jerey Stevenson
 
-Jerey Stevenson is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jolene, Copenhagen on Fri, 2 Oct 2026.
+Jerey Stevenson is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jolene, Copenhagen on Fri, 2 Oct 2026.
 
 Jerey Stevenson is a techno and dub techno artist tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Buja, Sound and Fury and A.dixen. Next up: Jolene, Copenhagen on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Jerey Stevenson is a techno and dub techno artist tracked on soundcheck, with 6 
 
 Buja, Sound and Fury, A.dixen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jereystevenson/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jereystevenson/)*

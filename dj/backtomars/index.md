@@ -1,6 +1,6 @@
 # Back to Mars
 
-Back to Mars is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at RADION, Amsterdam on Sat, 17 Oct 2026.
+Back to Mars is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at RADION, Amsterdam on Sat, 17 Oct 2026.
 
 Back to Mars is a trance and psytrance artist tracked on soundcheck, with 10 sets logged across Amsterdam, Antwerp, Berlin and Hamburg. Often billed alongside Marciana, Deepash and Ecleptix. Next up: RADION, Amsterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Back to Mars is a trance and psytrance artist tracked on soundcheck, with 10 set
 
 Marciana, Deepash, Ecleptix
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backtomars/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backtomars/)*

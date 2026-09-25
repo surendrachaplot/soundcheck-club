@@ -1,6 +1,6 @@
 # Rami Nassif
 
-Rami Nassif is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 26 Sept 2026.
+Rami Nassif is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 26 Sept 2026.
 
 Rami Nassif is a pop and house artist based in Canada, tracked on soundcheck, with 24 sets logged across Montreal and Toronto. Often billed alongside Shen, BABL and Sandwavv. Next up: Buddies in Bad Times, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Rami Nassif is a pop and house artist based in Canada, tracked on soundcheck, wi
 
 Shen (2), BABL, Sandwavv
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raminassif/)*

@@ -1,6 +1,6 @@
 # Shvili
 
-Shvili is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
+Shvili is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
 
 Shvili is a house and techno artist based in Georgia, tracked on soundcheck, with 125 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: Nowadays, New York City on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Shvili is a house and techno artist based in Georgia, tracked on soundcheck, wit
 
 Max Sprauer, CAMILLA, Maksim
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

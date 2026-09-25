@@ -1,6 +1,6 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hamburger Börs, Stockholm on Fri, 25 Sept 2026.
+James Hype (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hamburger Börs, Stockholm on Fri, 25 Sept 2026.
 
 James Hype (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Hamburger Börs, Stockholm on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ James Hype (UK) is a house and tech house artist based in United Kingdom, tracke
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

@@ -1,6 +1,6 @@
 # Calvin Harris
 
-Calvin Harris is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 25 Sept 2026.
+Calvin Harris is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Calvin Harris is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 110 sets logged across Glasgow, Ibiza, London and Los Angeles and 4 more. Often billed alongside Marc Kinchen, Bastille and Mumford. Next up: Ushuaïa Ibiza, Ibiza on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Calvin Harris is a house and progressive house artist based in United Kingdom, t
 
 Marc Kinchen, Bastille, Mumford
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinharris/)*

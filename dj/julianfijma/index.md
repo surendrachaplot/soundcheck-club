@@ -1,14 +1,13 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 24 Sept 2026.
+Julian Fijma is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Julian Fijma is a house and tech house artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Amnesia Ibiza, Ibiza on Thu 24 Sept.
+Julian Fijma is a house and tech house artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | THE BATHS | Austin |
 | Fri, 13 Nov 2026 | Night We Met | Nashville |
@@ -16,6 +15,7 @@ Julian Fijma is a house and tech house artist based in Netherlands, tracked on s
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 24 Sept 2026
 - Village Studios, Vancouver — Sat, 19 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 13 Sept 2026
 - Smoke & Mirrors, Chicago — Sat, 12 Sept 2026
@@ -23,10 +23,9 @@ Julian Fijma is a house and tech house artist based in Netherlands, tracked on s
 - Cova Santa, Ibiza — Mon, 7 Sept 2026
 - The Ground at Club Space, Miami — Fri, 21 Aug 2026
 - Refuge, New York City — Sat, 15 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

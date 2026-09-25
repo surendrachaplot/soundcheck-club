@@ -1,6 +1,6 @@
 # Ištar
 
-Ištar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "ISTAR x DJ LEVI" on Fri, 25 Sept 2026.
+Ištar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "ISTAR x DJ LEVI" on Fri, 25 Sept 2026.
 
 Ištar is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). Browse upcoming dates, start times and who's playing. C. de Serrano, 41, 28001 Madrid.
 
@@ -14,4 +14,4 @@ Ištar is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with lin
 
 C. de Serrano, 41, 28001 Madrid, Madrid
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/i-tar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/i-tar/)*

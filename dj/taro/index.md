@@ -1,6 +1,6 @@
 # Taro
 
-Taro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oath, Tokyo on Fri, 25 Sept 2026.
+Taro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Oath, Tokyo on Fri, 25 Sept 2026.
 
 Taro is a techno and house artist based in Japan, tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside Celter, Mikio Kaminakamura and TIMO. Next up: Oath, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Taro is a techno and house artist based in Japan, tracked on soundcheck, with 48
 
 Celter, Mikio Kaminakamura, TIMO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taro/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taro/)*

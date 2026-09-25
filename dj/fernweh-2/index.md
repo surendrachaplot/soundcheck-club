@@ -1,6 +1,6 @@
 # Fernweh (2)
 
-Fernweh (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Fernweh (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Fernweh is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam and London. Often billed alongside MEAKIN, Alythia Kwan and MARIUS SEBASTIAN. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Fernweh is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 MEAKIN, Alythia Kwan, MARIUS SEBASTIAN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*

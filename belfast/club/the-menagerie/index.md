@@ -1,6 +1,6 @@
 # The Menagerie
 
-The Menagerie is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Sonntag Sounds" on Fri, 25 Sept 2026.
+The Menagerie is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Sonntag Sounds" on Fri, 25 Sept 2026.
 
 The Menagerie is a music venue in Belfast listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Menagerie is a music venue in Belfast listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Sonntag Sounds |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-menagerie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-menagerie/)*

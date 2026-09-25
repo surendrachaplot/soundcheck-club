@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Giegling Berlin" on Sat, 26 Sept 2026.
+Haus der Visionäre is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Giegling Berlin" on Sat, 26 Sept 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Al Wootton, Buttechno, Clovis and Deadbeat and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -18,4 +18,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

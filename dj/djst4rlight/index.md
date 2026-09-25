@@ -1,6 +1,6 @@
 # djst4rlight
 
-djst4rlight is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+djst4rlight is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
 djst4rlight is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside maedchenballern, 4NOUK and Ace9. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ djst4rlight is a trance and techno artist based in Germany, tracked on soundchec
 
 maedchenballern, 4NOUK, Ace9
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djst4rlight/)*

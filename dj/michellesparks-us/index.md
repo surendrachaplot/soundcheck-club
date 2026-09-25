@@ -1,6 +1,6 @@
 # Michelle Sparks
 
-Michelle Sparks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Michelle Sparks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Michelle Sparks is a techno and house artist tracked on soundcheck, with 9 sets logged across Amsterdam, Chicago, Denver and Detroit and 3 more. Often billed alongside Juheun, Barbosa and Declan James. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Michelle Sparks is a techno and house artist tracked on soundcheck, with 9 sets 
 
 Juheun, Barbosa, Declan James
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michellesparks-us/)*

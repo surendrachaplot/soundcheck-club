@@ -1,6 +1,6 @@
 # okDUNC
 
-okDUNC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Fri, 2 Oct 2026.
+okDUNC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Good Room, New York City on Fri, 2 Oct 2026.
 
 okDUNC is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across New York City. Often billed alongside S A M I, tyben and sixsix. Next up: Good Room, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ okDUNC is a house and techno artist based in United States of America, tracked o
 
 S A M I, tyben, sixsix
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okdunc/)*

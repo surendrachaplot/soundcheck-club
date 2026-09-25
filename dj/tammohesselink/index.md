@@ -1,6 +1,6 @@
 # Tammo Hesselink
 
-Tammo Hesselink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Tammo Hesselink is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Tammo Hesselink is a techno and house artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside Konduku, Jasmín and Mary Lake. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tammo Hesselink is a techno and house artist based in Netherlands, tracked on so
 
 Konduku, Jasmín, Mary Lake
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tammohesselink/)*

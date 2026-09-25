@@ -1,6 +1,6 @@
 # Hostmigrate
 
-Hostmigrate is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
+Hostmigrate is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bread and Butter, London on Sat, 26 Sept 2026.
 
 Hostmigrate is a techno and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Adela, Benebe and Drastic Shuffle. Next up: Bread and Butter, London on Sat 26 Sept.
 
@@ -15,4 +15,4 @@ Hostmigrate is a techno and house artist based in United Kingdom, tracked on sou
 
 Adela, Benebe, Drastic Shuffle
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hostmigrate/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hostmigrate/)*

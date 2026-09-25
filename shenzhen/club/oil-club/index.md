@@ -1,16 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live" on Thu, 24 Sept 2026.
+OIL Club is a music venue in Shenzhen with 25 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Molecular Recordings x Silicon Kure" on Fri, 25 Sept 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming gigs, with line-ups including ADEAD, Alex Banks, Alion and Beibeilon and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 25 upcoming gigs, with line-ups including ADEAD, Alion, Beibeilon and DJ 86 and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | 小计划呈现 Alex Banks A/V live 中国巡演 with 吴卓玲 live | Alex Banks |
-| Thu, 24 Sept 2026 | Dissolve The Ego Takeover |  |
-| Thu, 24 Sept 2026 | Small Projects pres. Alex Banks [A/V LIVE] with Wu Zhuoling (live) | Alex Banks, Alion, Wu Zhuoling, o0 (1) |
 | Fri, 25 Sept 2026 | Molecular Recordings x Silicon Kure | Finsent C, Marco Lenzi, Sulk |
 | Sat, 26 Sept 2026 | 续油计划 PROJECT REFUEL by OIL: Héctor Oaks (Vinyl Set) +HWA aka. ELVIS.T | Héctor Oaks, Jascer |
 | Sun, 27 Sept 2026 | BASSKICK 特邀嘉宾：铁汉Tiehan（Hybrid Set）+Ziyi |  |
@@ -18,9 +15,12 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 28 upcoming gigs, wi
 | Thu, 1 Oct 2026 | NOIR: Woody92 + Xiorro | Sulk, Woody92, Xiorro |
 | Fri, 2 Oct 2026 | 曲率驱动 Curvature-driven: Dold | Dold |
 | Sat, 3 Oct 2026 | Club Bby & mualot & hub presents: Ouri+bby.eco | Manson, Ouri, Replica.mp3, hatemebaby |
+| Sun, 4 Oct 2026 | 无序重力 Disorder Gravity: Gina Demarchi + DJ Gordon | DJ Gordon, Gina Demarchi, o0 (1) |
+| Mon, 5 Oct 2026 | AFROPULZ TAKEOVER x MSF CREW |  |
+| Tue, 6 Oct 2026 | 好摇不挑曲 精神小伙乱斗四国DJ x Couch Co-Op |  |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

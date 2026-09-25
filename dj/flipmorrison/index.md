@@ -1,6 +1,6 @@
 # Flip Morrison
 
-Flip Morrison is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
+Flip Morrison is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
 
 Flip Morrison is a house and progressive house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Philadelphia. Often billed alongside .breeze, DJ Dommis and DJ Kalin. Next up: Launderette Records, Philadelphia on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Flip Morrison is a house and progressive house artist based in United States of 
 
 .breeze, DJ Dommis, DJ Kalin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flipmorrison/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flipmorrison/)*

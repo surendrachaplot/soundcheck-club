@@ -1,6 +1,6 @@
 # Pacome
 
-Pacome is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
+Pacome is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nocturna, Ibiza on Fri, 25 Sept 2026.
 
 Pacome is a house and minimal artist based in Spain, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: Nocturna, Ibiza on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Pacome is a house and minimal artist based in Spain, tracked on soundcheck, with
 
 Liana, Fer (ES), bOIX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*

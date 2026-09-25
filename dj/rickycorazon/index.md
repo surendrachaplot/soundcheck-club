@@ -1,6 +1,6 @@
 # Ricky Corazón
 
-Ricky Corazón is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Les Halles de Schaerbeek, Brussels on Sat, 26 Sept 2026.
+Ricky Corazón is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Les Halles de Schaerbeek, Brussels on Sat, 26 Sept 2026.
 
 Ricky Corazón is a latin bass and reggaeton artist based in Chile, tracked on soundcheck, with 28 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Vera Moro, NMSS and VTT (BE). Next up: Les Halles de Schaerbeek, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ricky Corazón is a latin bass and reggaeton artist based in Chile, tracked on s
 
 Vera Moro, NMSS, VTT (BE)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickycorazon/)*

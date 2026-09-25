@@ -1,6 +1,6 @@
 # sohotsospicy
 
-sohotsospicy is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
+sohotsospicy is a Footwork and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
 sohotsospicy is a footwork and club artist based in Ireland, tracked on soundcheck, with 21 sets logged across Berlin, Brighton, Dublin and London and 1 more. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: Rebellion, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ sohotsospicy is a footwork and club artist based in Ireland, tracked on soundche
 
 CRAIC DAVID, Big Dope P, Seb (Tropical Waste)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*

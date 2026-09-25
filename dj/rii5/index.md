@@ -1,6 +1,6 @@
 # Rii5
 
-Rii5 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Üllői út 102., Budapest on Fri, 9 Oct 2026.
+Rii5 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Üllői út 102., Budapest on Fri, 9 Oct 2026.
 
 Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Acsa, Dorota and Klayman. Next up: TBA - Üllői út 102., Budapest on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 
 
 Acsa, Dorota, Klayman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*

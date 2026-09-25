@@ -1,8 +1,8 @@
 # Maara
 
-Maara is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Xuxa, Austin on Fri, 25 Sept 2026.
+Maara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Xuxa, Austin on Fri, 25 Sept 2026.
 
-Maara is a techno and house artist based in Canada, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Xuxa, Austin on Fri 25 Sept.
+Maara is a techno and house artist based in Canada, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Xuxa, Austin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Maara is a techno and house artist based in Canada, tracked on soundcheck, with 
 | Sat, 17 Oct 2026 | UMI | Brussels |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
 | Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |
+| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 20 Nov 2026 | Ormside Projects | London |
 
 ## Recently played
@@ -30,4 +31,4 @@ Maara is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

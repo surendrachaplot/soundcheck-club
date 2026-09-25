@@ -1,6 +1,6 @@
 # 1520
 
-1520 is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HØL: Obscure Shape [All Night Long]" on Fri, 25 Sept 2026.
+1520 is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "HØL: Obscure Shape [All Night Long]" on Fri, 25 Sept 2026.
 
 1520 is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including April (UK), Bitzer Maloney, Bunney and FROND and 2 more. Browse upcoming dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
@@ -18,4 +18,4 @@
 
 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*

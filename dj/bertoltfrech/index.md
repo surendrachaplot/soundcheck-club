@@ -1,6 +1,6 @@
 # Bertolt Frech
 
-Bertolt Frech is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
+Bertolt Frech is a Tech House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
 Bertolt Frech is a tech house and downtempo artist based in Germany, tracked on soundcheck, with 14 sets logged across Hamburg, Munich and Vienna. Often billed alongside Moritz Butschek, Wanda Wild and Frida Darko. Next up: FLUCC, Vienna on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Bertolt Frech is a tech house and downtempo artist based in Germany, tracked on 
 
 Moritz Butschek, Wanda Wild, Frida Darko
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*

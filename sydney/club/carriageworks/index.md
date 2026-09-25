@@ -1,6 +1,6 @@
 # Carriageworks
 
-Carriageworks is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "move my way festival / eora / Carriageworks" on Sat, 3 Oct 2026.
+Carriageworks is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "move my way festival / eora / Carriageworks" on Sat, 3 Oct 2026.
 
 Carriageworks is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including ATARANGI, Attu, Claire O'Brien and Coco Maria and 2 more. Browse upcoming dates, start times and who's playing. 245 Wilson Street, Eveleigh, NSW 2015, Australia.
 
@@ -17,4 +17,4 @@ Carriageworks is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, 
 
 245 Wilson Street, Eveleigh, NSW 2015, Australia, Sydney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carriageworks/)*

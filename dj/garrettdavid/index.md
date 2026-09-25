@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
+Garrett David is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
 Garrett David is a house and disco artist based in United States of America, tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Garrett David is a house and disco artist based in United States of America, tra
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

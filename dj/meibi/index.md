@@ -1,6 +1,6 @@
 # Meibi
 
-Meibi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
+Meibi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Moon Club, Lisbon on Fri, 25 Sept 2026.
 
 Meibi is a techno and electro artist based in Portugal, tracked on soundcheck, with 42 sets logged across Berlin, Hamburg, Lisbon and London and 1 more. Often billed alongside Dexter Lux, Patrick Mason and Viegas. Next up: Moon Club, Lisbon on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Meibi is a techno and electro artist based in Portugal, tracked on soundcheck, w
 
 Dexter Lux, Patrick Mason, Viegas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meibi/)*

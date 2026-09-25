@@ -1,6 +1,6 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo on Fri, 25 Sept 2026.
+Hercules & Love Affair is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo on Fri, 25 Sept 2026.
 
 Hercules & Love Affair are a house and disco duo based in United States of America, tracked on soundcheck, with 60 sets logged across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Hercules & Love Affair are a house and disco duo based in United States of Ameri
 
 COBRAH, HAAi, TAAHLIAH
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

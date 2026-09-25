@@ -1,6 +1,6 @@
 # Ty Sunderland
 
-Ty Sunderland is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Sat, 10 Oct 2026.
+Ty Sunderland is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Good Room, New York City on Sat, 10 Oct 2026.
 
 Ty Sunderland is a house and pop artist based in United States of America, tracked on soundcheck, with 19 sets logged across Amsterdam, Denver, Los Angeles and New York City and 2 more. Often billed alongside boyyyish, Jarred Baker and ABSOLUTE.. Next up: Good Room, New York City on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ty Sunderland is a house and pop artist based in United States of America, track
 
 boyyyish, Jarred Baker, ABSOLUTE.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysunderland/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysunderland/)*

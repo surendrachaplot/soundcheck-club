@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Carl H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Carl H is a techno and house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 38 more. Often billed alongside So-Fi, Jane Fitz and DJ TEETH. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -29,4 +29,4 @@ Carl H is a techno and house artist based in United Kingdom, tracked on soundche
 
 So-Fi, Jane Fitz, DJ TEETH
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

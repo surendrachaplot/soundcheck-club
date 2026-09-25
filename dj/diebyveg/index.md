@@ -1,6 +1,6 @@
 # DIEBYVEG
 
-DIEBYVEG is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
+DIEBYVEG is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
 
 DIEBYVEG is a house and garage artist based in Ireland, tracked on soundcheck, with 47 sets logged across Belfast, Dublin and London. Often billed alongside Puzzy Wrangler, Surferboy and Faster Horses. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ DIEBYVEG is a house and garage artist based in Ireland, tracked on soundcheck, w
 
 Puzzy Wrangler, Surferboy, Faster Horses
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diebyveg/)*

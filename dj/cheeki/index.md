@@ -1,6 +1,6 @@
 # CHEEKI
 
-CHEEKI is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
+CHEEKI is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ark (Melb), Melbourne on Sat, 26 Sept 2026.
 
 CHEEKI is a garage and house artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Bekks, Black Dave and Champagnemuma. Next up: ark (Melb), Melbourne on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ CHEEKI is a garage and house artist based in Australia, tracked on soundcheck, w
 
 Bekks, Black Dave, Champagnemuma
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeki/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeki/)*

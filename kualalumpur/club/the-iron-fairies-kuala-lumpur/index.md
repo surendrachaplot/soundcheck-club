@@ -1,6 +1,6 @@
 # The Iron Fairies Kuala Lumpur
 
-The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Less Is More & The Sweatbox pres. Klosing ( Evaporate, TW)" on Sat, 26 Sept 2026.
+The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Less Is More & The Sweatbox pres. Klosing ( Evaporate, TW)" on Sat, 26 Sept 2026.
 
 The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur listed on soundcheck. 3 upcoming gigs, with line-ups including 96000hz, CHICHI (KR), DJ Kuma and Kaï (FR) and 2 more. Browse upcoming dates, start times and who's playing. H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia.
 
@@ -16,4 +16,4 @@ The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur listed on soundch
 
 H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia, Kuala Lumpur
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*

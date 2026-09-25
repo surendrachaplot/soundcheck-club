@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
+Magda is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
 Magda is a techno and house artist based in United States of America, tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Barcelona and Berlin and 49 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Magda is a techno and house artist based in United States of America, tracked on
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

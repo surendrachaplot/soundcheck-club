@@ -1,6 +1,6 @@
 # SuttleK
 
-SuttleK is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+SuttleK is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 SuttleK is a techno and hardcore artist based in Spain, tracked on soundcheck, with 52 sets logged across Barcelona. Often billed alongside Hysteria, Adviro and Leo Cotrozo. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ SuttleK is a techno and hardcore artist based in Spain, tracked on soundcheck, w
 
 Hysteria, Adviro, Leo Cotrozo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suttlek/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suttlek/)*

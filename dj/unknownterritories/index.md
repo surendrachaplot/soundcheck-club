@@ -1,6 +1,6 @@
 # Unknown Territories
 
-Unknown Territories is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dr. Banana Club, Sao Paulo on Fri, 25 Sept 2026.
+Unknown Territories is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dr. Banana Club, Sao Paulo on Fri, 25 Sept 2026.
 
 Unknown Territories is a house and electronica artist tracked on soundcheck, with 11 sets logged across Sao Paulo. Often billed alongside nat consentino, Althoff and Artürst. Next up: Dr. Banana Club, Sao Paulo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Unknown Territories is a house and electronica artist tracked on soundcheck, wit
 
 nat consentino, Althoff, Artürst
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownterritories/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownterritories/)*

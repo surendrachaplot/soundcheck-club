@@ -1,6 +1,6 @@
 # Utopia
 
-Utopia is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Utopia x REUNITE present: Stellar & friends" on Fri, 25 Sept 2026.
+Utopia is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Utopia x REUNITE present: Stellar & friends" on Fri, 25 Sept 2026.
 
 Utopia is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Auburn, Ray Kash, RCKSLVR and Saeed Younan and 2 more. Browse upcoming dates, start times and who's playing. 2233 JESSE ST..
 
@@ -17,4 +17,4 @@ Utopia is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, wi
 
 2233 JESSE ST., Los Angeles
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/utopia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/utopia/)*

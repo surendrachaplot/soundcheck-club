@@ -1,6 +1,6 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Utopia, Los Angeles on Fri, 25 Sept 2026.
+RCKSLVR is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Utopia, Los Angeles on Fri, 25 Sept 2026.
 
 RCKSLVR is a tech house and house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Utopia, Los Angeles on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ RCKSLVR is a tech house and house artist based in United States of America, trac
 
 Tempo, GRLFRND, DENYC
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*

@@ -1,6 +1,6 @@
 # Maudite Machine
 
-Maudite Machine is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Lobby, Montreal on Fri, 16 Oct 2026.
+Maudite Machine is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Lobby, Montreal on Fri, 16 Oct 2026.
 
 Maudite Machine is an electro and house artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside DJ Davidé, DJ Mushin and Mushin. Next up: Le Lobby, Montreal on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Maudite Machine is an electro and house artist based in Canada, tracked on sound
 
 DJ Davidé, DJ Mushin, Mushin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauditemachine/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauditemachine/)*

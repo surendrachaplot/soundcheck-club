@@ -1,6 +1,6 @@
 # Aio
 
-Aio is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
+Aio is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at elipamanoke, Leipzig on Sat, 3 Oct 2026.
 
 Aio is a techno and house artist based in Germany, tracked on soundcheck, with 70 sets logged across Auckland, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Aender, Maurice Mino and Konfusia. Next up: elipamanoke, Leipzig on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Aio is a techno and house artist based in Germany, tracked on soundcheck, with 7
 
 Aender, Maurice Mino, Konfusia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

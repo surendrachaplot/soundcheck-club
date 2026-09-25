@@ -1,6 +1,6 @@
 # Shawn O'Sullivan
 
-Shawn O'Sullivan is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nightmoves, New York City on Sun, 27 Sept 2026.
+Shawn O'Sullivan is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nightmoves, New York City on Sun, 27 Sept 2026.
 
 Shawn O'Sullivan is a techno and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago and New York City. Often billed alongside Amourette, L.Sangre and Sweater On Polo. Next up: Nightmoves, New York City on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Shawn O'Sullivan is a techno and experimental artist based in United States of A
 
 Amourette, L.Sangre, Sweater On Polo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnosullivan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnosullivan/)*

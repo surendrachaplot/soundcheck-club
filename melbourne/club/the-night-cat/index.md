@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "James Massiah (UK)" on Thu, 24 Sept 2026.
+The Night Cat is a music venue in Melbourne with 13 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Clementine Douglas" on Fri, 25 Sept 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including Alan Fitzpatrick, Chris Luno, Dam Swindle and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming gigs, with line-ups including Alan Fitzpatrick, Chris Luno, Dam Swindle and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | James Massiah (UK) | James Massiah |
 | Fri, 25 Sept 2026 | Clementine Douglas |  |
 | Sat, 26 Sept 2026 | Love Action 'Granny Night Special' | Glen S, Traxion |
 | Fri, 2 Oct 2026 | LAVERN (NL) | LAVERN |
@@ -18,9 +17,10 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 14 upcoming gi
 | Sat, 24 Oct 2026 | Soul Wun - MELBOURNE - The Night Cat | Soul Wun |
 | Mon, 2 Nov 2026 | Dam Swindle (Heist Recordings, NL) | Dam Swindle, dozie (uk) |
 | Fri, 6 Nov 2026 | Gravagerz | Gravagerz |
+| Sat, 14 Nov 2026 | Hercules & Love Affair (DJ Set) | Hercules & Love Affair |
 
 ## Address
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

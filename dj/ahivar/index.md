@@ -1,6 +1,6 @@
 # ahivar
 
-ahivar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+ahivar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 ahivar is a house and techno artist based in Thailand, tracked on soundcheck, with 21 sets logged across Bangkok. Often billed alongside Meltmode, DJ Krit Morton and Wildealer. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ahivar is a house and techno artist based in Thailand, tracked on soundcheck, wi
 
 Meltmode (2), DJ Krit Morton, Wildealer
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahivar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahivar/)*

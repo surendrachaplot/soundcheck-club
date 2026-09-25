@@ -1,6 +1,6 @@
 # Mimiq
 
-Mimiq is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Piment, Seoul on Fri, 25 Sept 2026.
+Mimiq is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Piment, Seoul on Fri, 25 Sept 2026.
 
 Mimiq is a techno and house artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona and Seoul. Often billed alongside Arildo, Boyoon and COULIN. Next up: Bar Piment, Seoul on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mimiq is a techno and house artist based in Spain, tracked on soundcheck, with 3
 
 Arildo, Boyoon, COULIN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq/)*

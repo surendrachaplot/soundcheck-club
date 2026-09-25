@@ -1,6 +1,6 @@
 # Nightwave
 
-Nightwave is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
+Nightwave is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
 
 Nightwave is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Birmingham, Edinburgh, Glasgow and London and 2 more. Often billed alongside Posthuman, Slam and Luke Vibert. Next up: Hare & Hounds, Birmingham on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Nightwave is a techno and acid artist based in United Kingdom, tracked on soundc
 
 Posthuman, Slam, Luke Vibert
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightwave/)*

@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Reconnect x BBKK with Ben Derris & Linus Villa" on Fri, 25 Sept 2026.
+elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Reconnect x BBKK with Ben Derris & Linus Villa" on Fri, 25 Sept 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, with line-ups including Justine Perry, Acid Goldee, adamoandiamo and Aender and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

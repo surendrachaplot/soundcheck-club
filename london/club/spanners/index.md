@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Fast Car 40 - Hardcore, Jungle, Speedcore, Noise" on Fri, 25 Sept 2026.
+Spanners is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Fast Car 40 - Hardcore, Jungle, Speedcore, Noise" on Fri, 25 Sept 2026.
 
 Spanners is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Ailish, Bitzer Maloney, Hughesee and Joe Hart and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -17,4 +17,4 @@ Spanners is a music venue in London listed on soundcheck. 4 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

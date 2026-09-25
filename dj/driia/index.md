@@ -1,6 +1,6 @@
 # DRIIA
 
-DRIIA is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+DRIIA is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 DRIIA is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Cardiff, Ibiza and London and 4 more. Often billed alongside Silva Bumpa, SICARIA and Sully. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DRIIA is a garage and jungle artist based in United Kingdom, tracked on soundche
 
 Silva Bumpa, SICARIA, Sully
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/driia/)*

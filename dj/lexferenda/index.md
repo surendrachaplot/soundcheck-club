@@ -1,13 +1,14 @@
 # Lex Ferenda
 
-Lex Ferenda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 11 Oct 2026.
+Lex Ferenda is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Salon Daomé, Montreal on Fri, 2 Oct 2026.
 
-Lex Ferenda is a house and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Montreal and New York City. Often billed alongside Donotstealmyname, MIC ROB! and Manuel Falardeau. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 11 Oct.
+Lex Ferenda is a house and techno artist based in Canada, tracked on soundcheck, with 34 sets logged across Montreal and New York City. Often billed alongside Donotstealmyname, MIC ROB! and Manuel Falardeau. Next up: Salon Daomé, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Salon Daomé | Montreal |
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lex Ferenda is a house and techno artist based in Canada, tracked on soundcheck,
 
 Donotstealmyname, MIC ROB!, Manuel Falardeau
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexferenda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexferenda/)*

@@ -1,6 +1,6 @@
 # Jurek Przezdziecki
 
-Jurek Przezdziecki is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kaskada, Warsaw on Sat, 3 Oct 2026.
+Jurek Przezdziecki is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kaskada, Warsaw on Sat, 3 Oct 2026.
 
 Jurek Przezdziecki is a techno and acid artist based in Poland, tracked on soundcheck, with 12 sets logged across Krakow and Warsaw. Often billed alongside Gary Holldman, Kuba Sojka and Sabre (PL). Next up: Kaskada, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jurek Przezdziecki is a techno and acid artist based in Poland, tracked on sound
 
 Gary Holldman, Kuba Sojka, Sabre (PL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jurekprzezdziecki/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jurekprzezdziecki/)*

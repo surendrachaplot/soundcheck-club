@@ -1,6 +1,6 @@
 # Ann Clue
 
-Ann Clue is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Ann Clue is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Ann Clue is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Ann Clue is a techno and minimal techno artist based in Germany, tracked on soun
 
 Moritz Hofbauer, Boris Brejcha, Deniz Bul
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*

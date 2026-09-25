@@ -1,6 +1,6 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kilomètre25, Paris on Sat, 3 Oct 2026.
+DBBD is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kilomètre25, Paris on Sat, 3 Oct 2026.
 
 DBBD is a techno and trance artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Kilomètre25, Paris on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ DBBD is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

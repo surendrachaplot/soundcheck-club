@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Dj Pone — 30 Ans De Platines" on Fri, 25 Sept 2026.
+Le Makeda is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Dj Pone — 30 Ans De Platines" on Fri, 25 Sept 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, with line-ups including Walla P. Browse upcoming dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -21,4 +21,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 8 upcoming gigs, w
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

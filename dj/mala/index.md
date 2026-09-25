@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Mala is a Dubstep and Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Mala is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Mia Koden, SGT Pokes and Verraco. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -21,6 +21,7 @@ Mala is a dubstep and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
+- Various Venues, London — Thu, 24 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Slaktkyrkan, Stockholm — Fri, 4 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
@@ -28,10 +29,9 @@ Mala is a dubstep and bass artist based in United Kingdom, tracked on soundcheck
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Phonox, London — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Mia Koden, SGT Pokes, Verraco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

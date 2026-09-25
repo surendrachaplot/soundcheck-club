@@ -1,6 +1,6 @@
 # Dede
 
-Dede is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 25 Sept 2026.
+Dede is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 25 Sept 2026.
 
 Dede is a house and dancehall artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Lisbon and New York City. Often billed alongside Adam Purnell, La Gugga and Bernardo Vaz. Next up: Carmo Rooftop, Lisbon on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dede is a house and dancehall artist based in Germany, tracked on soundcheck, wi
 
 Adam Purnell, La Gugga, Bernardo Vaz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*

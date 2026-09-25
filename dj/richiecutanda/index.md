@@ -1,6 +1,6 @@
 # Richie Cutanda
 
-Richie Cutanda is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 24 Oct 2026.
+Richie Cutanda is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 24 Oct 2026.
 
 Richie Cutanda is a house and minimal artist based in Spain, tracked on soundcheck, with 6 sets logged across Ibiza. Often billed alongside Chelu Garcia, 4Pleasure and Brunno. Next up: Esbirra Ibiza, Ibiza on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Richie Cutanda is a house and minimal artist based in Spain, tracked on soundche
 
 Chelu Garcia, 4Pleasure, Brunno
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiecutanda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richiecutanda/)*

@@ -1,6 +1,6 @@
 # Goh Well
 
-Goh Well is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
+Goh Well is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Grow, London on Fri, 25 Sept 2026.
 
 Goh Well is a house and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Berlin and London. Often billed alongside Someone Sunny, Ysanne and Jaye Ward. Next up: Grow, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Goh Well is a house and techno artist based in United Kingdom, tracked on soundc
 
 Someone Sunny, Ysanne, Jaye Ward
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gohwell/)*

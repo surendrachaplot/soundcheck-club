@@ -1,6 +1,6 @@
 # Jobe1811
 
-Jobe1811 is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
+Jobe1811 is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Under Bridge Madrid, Madrid on Sat, 10 Oct 2026.
 
 Jobe1811 is a deep house and progressive house artist tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside Bill Hates, Gabriel Castillo and AMANN. Next up: Under Bridge Madrid, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Jobe1811 is a deep house and progressive house artist tracked on soundcheck, wit
 
 Bill Hates, Gabriel Castillo, AMANN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobe1811/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobe1811/)*

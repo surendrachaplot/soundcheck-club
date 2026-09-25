@@ -1,6 +1,6 @@
 # Muddy Feet
 
-Muddy Feet is a Acid and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Sat, 26 Sept 2026.
+Muddy Feet is a Acid and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at renae, Manchester on Sat, 26 Sept 2026.
 
 Muddy Feet is an acid and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Manchester. Often billed alongside Chris Massey, Ewan Pearson and Psychederek. Next up: renae, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Muddy Feet is an acid and disco artist based in United Kingdom, tracked on sound
 
 Chris Massey, Ewan Pearson, Psychederek
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muddyfeet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muddyfeet/)*

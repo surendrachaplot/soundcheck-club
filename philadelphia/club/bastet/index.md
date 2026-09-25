@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Soul City (DJ Sega, DJ Reezey, Traps N Trees) || DJ Jamz & Friends" on Fri, 25 Sept 2026.
+Bastet is a music venue in Philadelphia with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Soul City (DJ Sega, DJ Reezey, Traps N Trees) || DJ Jamz & Friends" on Fri, 25 Sept 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming gigs, with line-ups including Baejawn, DJ Matpat, DJ Reezey and DJ Sega and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -17,4 +17,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 4 upcoming gigs, w
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

@@ -1,6 +1,6 @@
 # MzTrix
 
-MzTrix is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Horse & Groom, London on Sat, 14 Nov 2026.
+MzTrix is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Horse & Groom, London on Sat, 14 Nov 2026.
 
 MzTrix is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Neil Pierce. Next up: The Horse & Groom, London on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ MzTrix is a deep house and house artist based in United Kingdom, tracked on soun
 
 Neil Pierce
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mztrix/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mztrix/)*

@@ -1,6 +1,6 @@
 # Ambedo
 
-Ambedo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
+Ambedo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Dr Morse, Melbourne on Fri, 25 Sept 2026.
 
 Ambedo is a techno and house artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne and Sydney. Often billed alongside Charlotte Rooney, Ricky Nord and Brent Honey. Next up: Dr Morse, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ambedo is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Charlotte Rooney, Ricky Nord, Brent Honey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambedo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambedo/)*

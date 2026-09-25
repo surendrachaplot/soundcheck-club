@@ -1,6 +1,6 @@
 # DJ HOT DONNA
 
-DJ HOT DONNA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Xuxa, Austin on Sat, 3 Oct 2026.
+DJ HOT DONNA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Xuxa, Austin on Sat, 3 Oct 2026.
 
 DJ HOT DONNA is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Austin. Often billed alongside Brett Johnson, .CLOUDED. and Hotmood. Next up: Xuxa, Austin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ HOT DONNA is a house and disco artist based in United States of America, trac
 
 Brett Johnson, .CLOUDED., Hotmood
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotdonna/)*

@@ -1,6 +1,6 @@
 # Bret Wallace
 
-Bret Wallace is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
+Bret Wallace is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
 
 Bret Wallace is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Los Angeles and San Diego. Often billed alongside Thee-O, Fester and Jesse Brooks. Next up: TBA - Ventura , Los Angeles on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Bret Wallace is a house and deep house artist based in United States of America,
 
 Thee-O, Fester, Jesse Brooks
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bretwallace/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bretwallace/)*

@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Cheetah, SIMMS, Strategy, DJ Jackum + MORE [Brainiac + Psyked + F4B]" on Fri, 25 Sept 2026.
+Amber's is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Cheetah, SIMMS, Strategy, DJ Jackum + MORE [Brainiac + Psyked + F4B]" on Fri, 25 Sept 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Amelia Leigh, Arpy Brown, Demi Riquisimo and Grace Sands and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -20,4 +20,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

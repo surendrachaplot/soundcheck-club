@@ -1,6 +1,6 @@
 # 44 Lounge
 
-44 Lounge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HORROR IN BRUM - BIRMINGHAM's biggest Halloween party" on Sat, 31 Oct 2026.
+44 Lounge is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "HORROR IN BRUM - BIRMINGHAM's biggest Halloween party" on Sat, 31 Oct 2026.
 
 44 Lounge is a music venue in London listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 44 Howard Street.
 
@@ -16,4 +16,4 @@
 
 44 Howard Street, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/44-lounge/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/44-lounge/)*

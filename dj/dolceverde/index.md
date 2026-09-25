@@ -1,6 +1,6 @@
 # Dolce Verde
 
-Dolce Verde is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 25 Sept 2026.
+Dolce Verde is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 25 Sept 2026.
 
 Dolce Verde is an electronic artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Neidex, Darley and Yuuki. Next up: NUMBER 90 LONDON, London on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Dolce Verde is an electronic artist based in United Kingdom, tracked on soundche
 
 Neidex, Darley, Yuuki
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolceverde/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolceverde/)*

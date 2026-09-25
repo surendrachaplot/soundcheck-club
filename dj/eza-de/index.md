@@ -1,6 +1,6 @@
 # EZA (DE)
 
-EZA (DE) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Fri, 25 Sept 2026.
+EZA (DE) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at OST, Berlin on Fri, 25 Sept 2026.
 
 EZA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin. Often billed alongside e.leptic, Paul Bauhaus and bbymeister. Next up: OST, Berlin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ EZA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 e.leptic, Paul Bauhaus, bbymeister
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eza-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eza-de/)*

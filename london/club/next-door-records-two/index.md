@@ -1,6 +1,6 @@
 # Next Door Records Two
 
-Next Door Records Two is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "The Naughty Step:  IZP + Asa Ray All Night Long" on Sat, 26 Sept 2026.
+Next Door Records Two is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "The Naughty Step:  IZP + Asa Ray All Night Long" on Sat, 26 Sept 2026.
 
 Next Door Records Two is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including A.Wild, batgirl, DANCE PROTOCOL and Data Flow and 2 more. Browse upcoming dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -18,4 +18,4 @@ Next Door Records Two is a music venue in London listed on soundcheck. 5 upcomin
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records-two/)*

@@ -1,6 +1,6 @@
 # Couch Mechanic
 
-Couch Mechanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Couch Mechanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Couch Mechanic is a techno and house artist based in Australia, tracked on soundcheck, with 30 sets logged across Melbourne and Sydney. Often billed alongside Casual P, Elijah Something and Jane Decks. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Couch Mechanic is a techno and house artist based in Australia, tracked on sound
 
 Casual P, Elijah Something, Jane Decks
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*

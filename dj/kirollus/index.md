@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Palais Mascotte, Zurich on Fri, 25 Sept 2026.
+Kirollus is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Palais Mascotte, Zurich on Fri, 25 Sept 2026.
 
 Kirollus is a house and disco artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Auckland and 36 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Palais Mascotte, Zurich on Fri 25 Sept.
 
@@ -34,4 +34,4 @@ Kirollus is a house and disco artist based in United Kingdom, tracked on soundch
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

@@ -1,6 +1,6 @@
 # Ben Derris
 
-Ben Derris is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
+Ben Derris is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at elipamanoke, Leipzig on Fri, 25 Sept 2026.
 
 Ben Derris is a trance and house artist based in Germany, tracked on soundcheck, with 95 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 9 more. Often billed alongside Linus Villa, Sony2k and djvonnebenan. Next up: elipamanoke, Leipzig on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ben Derris is a trance and house artist based in Germany, tracked on soundcheck,
 
 Linus Villa, Sony2k, djvonnebenan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*

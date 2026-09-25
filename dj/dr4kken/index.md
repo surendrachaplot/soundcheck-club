@@ -1,6 +1,6 @@
 # Dr4kken
 
-Dr4kken is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Suki10c, Birmingham on Fri, 23 Oct 2026.
+Dr4kken is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
 Dr4kken is a hardcore and gabber artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Birmingham and Budapest and 11 more. Often billed alongside hainafromchina, Auerbach and BL4ZE. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dr4kken is a hardcore and gabber artist based in France, tracked on soundcheck, 
 
 hainafromchina, Auerbach, BL4ZE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*

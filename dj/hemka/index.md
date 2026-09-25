@@ -1,6 +1,6 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
+Hemka is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
 
 Hemka is a techno and minimal techno artist based in France, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Boston and Budapest and 16 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: BASEMENT, New York City on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Hemka is a techno and minimal techno artist based in France, tracked on soundche
 
 SHDW, Regent, Stef Mendesidis
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*

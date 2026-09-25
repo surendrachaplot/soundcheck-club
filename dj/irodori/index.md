@@ -1,6 +1,6 @@
 # IRODORI
 
-IRODORI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at WOMB, Tokyo on Thu, 1 Oct 2026.
+IRODORI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at WOMB, Tokyo on Thu, 1 Oct 2026.
 
 IRODORI is a tech house and house artist based in Japan, tracked on soundcheck, with 53 sets logged across Tokyo. Often billed alongside CLESENT, Daitto and COCOLY. Next up: WOMB, Tokyo on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ IRODORI is a tech house and house artist based in Japan, tracked on soundcheck, 
 
 CLESENT, Daitto, COCOLY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irodori/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irodori/)*

@@ -1,6 +1,6 @@
 # domi d.
 
-domi d. is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at underiolo, Warsaw on Sat, 26 Sept 2026.
+domi d. is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at underiolo, Warsaw on Sat, 26 Sept 2026.
 
 domi d. is an electronica and house artist based in Poland, tracked on soundcheck, with 15 sets logged across Warsaw. Often billed alongside anymati, dj neurospicy and KAROLINDA. Next up: underiolo, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ domi d. is an electronica and house artist based in Poland, tracked on soundchec
 
 anymati, dj neurospicy, KAROLINDA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domid-pl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domid-pl/)*

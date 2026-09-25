@@ -1,6 +1,6 @@
 # Kekeneko
 
-Kekeneko is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Kekeneko is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Kekeneko is a club and techno artist based in Japan, tracked on soundcheck, with 18 sets logged across Brighton, London, Manchester and Tokyo. Often billed alongside Kop-Z, Loveblade and Seren 4 Ever. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Kekeneko is a club and techno artist based in Japan, tracked on soundcheck, with
 
 Kop-Z, Loveblade, Seren 4 Ever
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kekeneko/)*

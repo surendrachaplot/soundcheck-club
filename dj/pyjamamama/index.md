@@ -1,6 +1,6 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
+PyjamaMama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at YAAM Berlin, Berlin on Sat, 26 Sept 2026.
 
 PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin and Krakow. Often billed alongside Dj Sunflash, DJ Spaßgetränk and Westside Bass. Next up: YAAM Berlin, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck,
 
 Dj Sunflash, DJ Spaßgetränk, Westside Bass
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*

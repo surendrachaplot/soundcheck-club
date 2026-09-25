@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Synergy Cult x TunaMelt with Kurilo, O'FortyFour, Hozy, zenwerk & Aist" on Fri, 25 Sept 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Synergy Cult x TunaMelt with Kurilo, O'FortyFour, Hozy, zenwerk & Aist" on Fri, 25 Sept 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including aist (LT), Hozy, Jurek Przezdziecki and Kurilo and 2 more. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with l
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

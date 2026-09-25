@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ L.F.T. is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

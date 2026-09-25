@@ -17,8 +17,8 @@ ReSolute x Yoyaku at H0L0 on Sat 26 Sept, New York City. 15 artists on the bill:
 - Kian OK
 - limbic sis
 - Lis Sarroca
-- Maksim
 - Mari.te
+- Matt Foley
 - Mike Servito
 - Rachel Noon
 - Satoshi Tomiie

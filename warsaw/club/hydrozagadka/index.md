@@ -1,6 +1,6 @@
 # Hydrozagadka
 
-Hydrozagadka is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Krallice - Avant Art Festival" on Sun, 11 Oct 2026.
+Hydrozagadka is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Krallice - Avant Art Festival" on Sun, 11 Oct 2026.
 
 Hydrozagadka is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Aircraft and Myd. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -17,4 +17,4 @@ Hydrozagadka is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, w
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*

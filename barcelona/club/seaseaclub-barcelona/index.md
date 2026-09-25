@@ -1,6 +1,6 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MUTE pres Joris Voorn + Raxon + Bob Tosh" on Sat, 26 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "MUTE pres Joris Voorn + Raxon + Bob Tosh" on Sat, 26 Sept 2026.
 
 Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, arnald and Belu Rodriguez and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 18 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

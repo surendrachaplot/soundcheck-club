@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Visionobi presents: Colony" on Fri, 23 Oct 2026.
+Onyx (E1) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Visionobi presents: Colony" on Fri, 23 Oct 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Ama (UK), Clefheart, DIGITAL and Doc Scott and 2 more. Browse upcoming dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -17,4 +17,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 4 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

@@ -1,6 +1,6 @@
 # Kizu
 
-Kizu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Kizu is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Kizu is a trance and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Vaneska, sterni (DE) and Amo (IT). Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kizu is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 Vaneska, sterni (DE), Amo (IT)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*

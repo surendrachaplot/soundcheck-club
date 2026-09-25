@@ -1,6 +1,6 @@
 # THYORA
 
-THYORA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
+THYORA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kauz, Zurich on Fri, 25 Sept 2026.
 
 THYORA is a techno and house artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Basel and Zurich. Often billed alongside Michel Sacher, Read the News and NTO. Next up: Kauz, Zurich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ THYORA is a techno and house artist based in Switzerland, tracked on soundcheck,
 
 Michel Sacher, Read the News, NTO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*

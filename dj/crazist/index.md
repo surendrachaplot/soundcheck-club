@@ -1,6 +1,6 @@
 # crazist
 
-crazist is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Arch, Tokyo on Sun, 22 Nov 2026.
+crazist is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Arch, Tokyo on Sun, 22 Nov 2026.
 
 crazist is a club and pop artist based in Japan, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside DJ POIPOI, MAXIM and RUKE. Next up: Arch, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ crazist is a club and pop artist based in Japan, tracked on soundcheck, with 11 
 
 DJ POIPOI, MAXIM (8), RUKE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazist/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazist/)*

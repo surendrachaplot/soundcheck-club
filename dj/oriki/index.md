@@ -1,6 +1,6 @@
 # Oriki
 
-Oriki is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
+Oriki is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
 
 Oriki is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Manchester. Often billed alongside Kusasa, Sharari and Chunky. Next up: renae, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Oriki is a bass and techno artist based in United Kingdom, tracked on soundcheck
 
 Kusasa, Sharari, Chunky
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oriki/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oriki/)*

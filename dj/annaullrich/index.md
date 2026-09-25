@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
+Anna Ullrich is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Südpol, Hamburg on Fri, 25 Sept 2026.
 
 Anna Ullrich is a trance and techno artist based in Austria, tracked on soundcheck, with 51 sets logged across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios and KAROLINA. Next up: Südpol, Hamburg on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Anna Ullrich is a trance and techno artist based in Austria, tracked on soundche
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

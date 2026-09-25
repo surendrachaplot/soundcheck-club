@@ -1,6 +1,6 @@
 # Hank Clap
 
-Hank Clap is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beate Uwe, Berlin on Fri, 25 Sept 2026.
+Hank Clap is a Italo Disco and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Beate Uwe, Berlin on Fri, 25 Sept 2026.
 
 Hank Clap is an italo disco and new wave artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Rena Volvo, Cmd Tulch and Andrea Zucca. Next up: Beate Uwe, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hank Clap is an italo disco and new wave artist based in Germany, tracked on sou
 
 Rena Volvo, Cmd Tulch, Andrea Zucca
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hankclap/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hankclap/)*

@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
 
 Sistek is an afro house and house artist tracked on soundcheck, with 35 sets logged across Basel, Berlin, Boston and Chicago and 18 more. Often billed alongside Chelina Manuhutu, ARODES and Cristoph. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
 
@@ -25,4 +25,4 @@ Sistek is an afro house and house artist tracked on soundcheck, with 35 sets log
 
 Chelina Manuhutu, ARODES, Cristoph
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

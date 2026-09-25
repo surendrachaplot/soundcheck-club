@@ -1,18 +1,18 @@
 # Moor Mother
 
-Moor Mother is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Lab, San Francisco/Oakland on Thu, 24 Sept 2026.
+Moor Mother is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-Moor Mother is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Bristol and Cologne and 11 more. Often billed alongside Aquiles Navarro, Hieroglyphic Being and A Guy Called Gerald. Next up: The Lab, San Francisco/Oakland on Thu 24 Sept.
+Moor Mother is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Bristol and Cologne and 11 more. Often billed alongside Aquiles Navarro, Hieroglyphic Being and A Guy Called Gerald. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Lab | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
 
+- The Lab, San Francisco/Oakland — Thu, 24 Sept 2026
 - Rush Hour, Amsterdam — Fri, 5 Jun 2026
 - TBA - KVR, Vienna — Wed, 3 Jun 2026
 - Cascina Falchera, Turin — Fri, 29 May 2026
@@ -20,10 +20,9 @@ Moor Mother is an experimental and electronica artist based in United States of 
 - Paragon, New York City — Thu, 19 Feb 2026
 - TBA - Various Venues, New York City — Tue, 17 Feb 2026
 - Neue Nationalgalerie, Berlin — Sat, 10 Jan 2026
-- Pastiche, Berlin — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Aquiles Navarro, Hieroglyphic Being, A Guy Called Gerald
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*

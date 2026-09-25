@@ -1,6 +1,6 @@
 # Boom Merchant
 
-Boom Merchant is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Barra 88, Mexico City on Thu, 1 Oct 2026.
+Boom Merchant is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Barra 88, Mexico City on Thu, 1 Oct 2026.
 
 Boom Merchant is a techno and house artist based in Ireland, tracked on soundcheck, with 26 sets logged across Glasgow, Mexico City and Tokyo. Often billed alongside VEGMART, iluna and Einar. Next up: La Barra 88, Mexico City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Boom Merchant is a techno and house artist based in Ireland, tracked on soundche
 
 VEGMART, iluna, Einar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boommerchant/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boommerchant/)*

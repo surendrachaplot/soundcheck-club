@@ -1,6 +1,6 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "James Massiah (UK)" on Fri, 25 Sept 2026.
+Oxford Art Factory is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "James Massiah (UK)" on Fri, 25 Sept 2026.
 
 Oxford Art Factory is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Fitzpatrick, BOLT, Dam Swindle and Fatshaudi and 2 more. Browse upcoming dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 10 upcoming 
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

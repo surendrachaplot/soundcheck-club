@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "NCTRN023: Club Nocturne presents Liam Doc" on Sat, 26 Sept 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "NCTRN023: Club Nocturne presents Liam Doc" on Sat, 26 Sept 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming gigs, with line-ups including Dukwa, Liam Doc, Macka and sim0ne. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -18,4 +18,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 5 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

@@ -1,6 +1,6 @@
 # Adrian Sherwood
 
-Adrian Sherwood is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Apr 2027.
+Adrian Sherwood is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 3 Apr 2027.
 
 Adrian Sherwood is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside African Head Charge, Abul Mogard and Aunty Rayzor. Next up: Société des arts technologiques, Montreal on Sat 3 Apr.
 
@@ -26,4 +26,4 @@ Adrian Sherwood is a dub and bass artist based in United Kingdom, tracked on sou
 
 African Head Charge, Abul Mogard, Aunty Rayzor
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansherwood/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansherwood/)*

@@ -1,6 +1,6 @@
 # Cour T.
 
-Cour T. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
+Cour T. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 25 Sept 2026.
 
 Cour T. is a house and tech house artist based in Brazil, tracked on soundcheck, with 10 sets logged across Los Angeles, Miami, New York City and San Diego and 2 more. Often billed alongside RaeCola, Sprout and Acácio Moura. Next up: D-EDGE, Sao Paulo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Cour T. is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 RaeCola, Sprout, Acácio Moura
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cour-t/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cour-t/)*

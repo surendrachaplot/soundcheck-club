@@ -1,6 +1,6 @@
 # MOFS
 
-MOFS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Prisma, Berlin on Thu, 1 Oct 2026.
+MOFS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Prisma, Berlin on Thu, 1 Oct 2026.
 
 MOFS is a techno and industrial artist based in Costa Rica, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Leipzig and Mexico City. Often billed alongside Eve Schwarz, GIA and Hypnosta. Next up: Prisma, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ MOFS is a techno and industrial artist based in Costa Rica, tracked on soundchec
 
 Eve Schwarz, GIA, Hypnosta
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*

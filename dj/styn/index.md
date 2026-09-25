@@ -1,6 +1,6 @@
 # Styn
 
-Styn is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 1 Oct 2026.
+Styn is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 1 Oct 2026.
 
 Styn is a house and bass artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Edinburgh, London and Manchester and 2 more. Often billed alongside T.NO, Kurashi Soundsystem and SAIDAH. Next up: Sneaky Pete's, Edinburgh on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Styn is a house and bass artist based in Netherlands, tracked on soundcheck, wit
 
 T.NO, Kurashi Soundsystem, SAIDAH
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*

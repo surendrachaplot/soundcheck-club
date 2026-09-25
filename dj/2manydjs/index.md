@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 25 Sept 2026.
+2ManyDJs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 2ManyDJs is a house and techno artist based in Belgium, tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: 1015 Folsom, San Francisco/Oakland on Fri 25 Sept.
 
@@ -31,4 +31,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

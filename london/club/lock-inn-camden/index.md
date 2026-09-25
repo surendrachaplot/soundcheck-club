@@ -1,6 +1,6 @@
 # Lock Inn Camden
 
-Lock Inn Camden is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Groove Yard LDN / TOWIP HALLOWEEN RAVE" on Sat, 31 Oct 2026.
+Lock Inn Camden is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Groove Yard LDN / TOWIP HALLOWEEN RAVE" on Sat, 31 Oct 2026.
 
 Lock Inn Camden is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Chloe K. Browse upcoming dates, start times and who's playing. 2 Jamestown road London NW1 7BY.
 
@@ -14,4 +14,4 @@ Lock Inn Camden is a music venue in London listed on soundcheck. 1 upcoming gig,
 
 2 Jamestown road London NW1 7BY, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lock-inn-camden/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lock-inn-camden/)*

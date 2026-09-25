@@ -1,8 +1,8 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+C.ru.z is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Village Underground, London on Sat, 3 Oct 2026.
 
-C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Anthea. Next up: Village Underground, London on Sat 3 Oct.
+C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and tINI. Next up: Village Underground, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck,
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Sat, 3 Oct 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
+| Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck,
 
 ## Shares bills with
 
-DJ Tree, Niff, Anthea
+DJ Tree, Niff, tINI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*

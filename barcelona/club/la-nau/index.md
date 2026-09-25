@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "TKM" on Sat, 26 Sept 2026.
+La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "TKM" on Sat, 26 Sept 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -17,4 +17,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. Brow
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

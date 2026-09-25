@@ -1,6 +1,6 @@
 # Soraya
 
-Soraya is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
+Soraya is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Echostage, Washington DC on Sat, 26 Sept 2026.
 
 Soraya is a house and reggaeton artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Los Angeles and Marseille and 2 more. Often billed alongside Ardalan, Blaq PAGES and Cardo. Next up: Echostage, Washington DC on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Soraya is a house and reggaeton artist based in Netherlands, tracked on soundche
 
 Ardalan, Blaq PAGES, Cardo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*

@@ -1,6 +1,6 @@
 # Kanucia
 
-Kanucia is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
+Kanucia is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lark, Berlin on Fri, 25 Sept 2026.
 
 Kanucia is a club and bass artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Hamburg and Ibiza and 6 more. Often billed alongside Nico Adomako, Mobilegirl and Low.Vision. Next up: Lark, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kanucia is a club and bass artist based in Germany, tracked on soundcheck, with 
 
 Nico Adomako, Mobilegirl, Low.Vision
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*

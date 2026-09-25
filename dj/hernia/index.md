@@ -1,6 +1,6 @@
 # HERNIA
 
-HERNIA is a Disco and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Live Haus, Tokyo on Fri, 25 Sept 2026.
+HERNIA is a Disco and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Live Haus, Tokyo on Fri, 25 Sept 2026.
 
 HERNIA is a disco and experimental artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside YOSHIHARA, Akito and DJ MEMAI. Next up: Live Haus, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ HERNIA is a disco and experimental artist based in Japan, tracked on soundcheck,
 
 YOSHIHARA, Akito, DJ MEMAI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernia/)*

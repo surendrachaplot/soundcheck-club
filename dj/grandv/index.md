@@ -1,6 +1,6 @@
 # Grand V
 
-Grand V is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cabaret  Aléatoire, Marseille on Sat, 14 Nov 2026.
+Grand V is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cabaret  Aléatoire, Marseille on Sat, 14 Nov 2026.
 
 Grand V is a trance and techno artist based in France, tracked on soundcheck, with 35 sets logged across Antwerp, Berlin, Brussels and Cologne and 10 more. Often billed alongside Vitess, EARGASM GOD and TDJ. Next up: Cabaret  Aléatoire, Marseille on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Grand V is a trance and techno artist based in France, tracked on soundcheck, wi
 
 Vitess, EARGASM GOD, TDJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grandv/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grandv/)*

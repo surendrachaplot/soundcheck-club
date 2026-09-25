@@ -1,6 +1,6 @@
 # Brizman
 
-Brizman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Mon, 19 Oct 2026.
+Brizman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KitKatClub, Berlin on Mon, 19 Oct 2026.
 
 Brizman is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Geneva and Prague. Often billed alongside Edgar Peng, Frankie Flowerz and Nils Ohrmann. Next up: KitKatClub, Berlin on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Brizman is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Edgar Peng, Frankie Flowerz, Nils Ohrmann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brizman/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brizman/)*

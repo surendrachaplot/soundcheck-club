@@ -1,6 +1,6 @@
 # LNTX
 
-LNTX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+LNTX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 LNTX is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Cyprus, Hamburg and Lyon and 2 more. Often billed alongside MikAH, ELV/RA and MKHXR. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LNTX is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 MikAH, ELV/RA, MKHXR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lntx/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lntx/)*

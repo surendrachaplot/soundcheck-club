@@ -1,6 +1,6 @@
 # Chin
 
-Chin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hope House, Leeds on Fri, 23 Oct 2026.
+Chin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hope House, Leeds on Fri, 23 Oct 2026.
 
 Chin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds and Manchester. Often billed alongside Vassallo, ADNR and Alex Q. Next up: Hope House, Leeds on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Chin is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Vassallo, ADNR, Alex Q (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chin-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chin-uk/)*

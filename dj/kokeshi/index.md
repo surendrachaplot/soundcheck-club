@@ -1,6 +1,6 @@
 # Kokeshi
 
-Kokeshi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Kokeshi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
 Kokeshi is a techno and house artist based in Portugal, tracked on soundcheck, with 101 sets logged across Lisbon, London, Munich and Porto and 1 more. Often billed alongside John-E, Kaesar and Gear. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kokeshi is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 John-E, Kaesar, Gear
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*

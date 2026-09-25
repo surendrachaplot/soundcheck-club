@@ -1,6 +1,6 @@
 # Stylo
 
-Stylo is a Techno and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministry Of Sound, London on Fri, 25 Sept 2026.
+Stylo is a Techno and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ministry Of Sound, London on Fri, 25 Sept 2026.
 
 Stylo is a techno and hip-hop artist based in Israel, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Anyma, DJ B2B and Mind Against. Next up: Ministry Of Sound, London on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Stylo is a techno and hip-hop artist based in Israel, tracked on soundcheck, wit
 
 Anyma, DJ B2B, Mind Against
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*

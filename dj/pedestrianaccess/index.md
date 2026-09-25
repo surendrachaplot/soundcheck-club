@@ -1,6 +1,6 @@
 # Pedestrian Access
 
-Pedestrian Access is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jupiter Disco, New York City on Fri, 25 Sept 2026.
+Pedestrian Access is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Jupiter Disco, New York City on Fri, 25 Sept 2026.
 
 Pedestrian Access is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across New York City, Seattle and Washington DC. Often billed alongside dj goodboy (BK), Freddy M and Cy Hanson. Next up: Jupiter Disco, New York City on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Pedestrian Access is a house and techno artist based in United States of America
 
 dj goodboy (BK), Freddy M, Cy Hanson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedestrianaccess/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedestrianaccess/)*

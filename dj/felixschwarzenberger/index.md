@@ -1,6 +1,6 @@
 # Felix Schwarzenberger
 
-Felix Schwarzenberger is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
+Felix Schwarzenberger is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Westhafen, Leipzig on Sat, 26 Sept 2026.
 
 Felix Schwarzenberger is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Munich. Often billed alongside DJ SeXex, CARGO (DE) and CARGO x IGOR. Next up: Westhafen, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Felix Schwarzenberger is a trance and techno artist based in Germany, tracked on
 
 DJ SeXex, CARGO (DE), CARGO x IGOR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixschwarzenberger/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixschwarzenberger/)*

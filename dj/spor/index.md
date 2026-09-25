@@ -1,6 +1,6 @@
 # Spor
 
-Spor is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Simplon, Netherlands on Fri, 9 Oct 2026.
+Spor is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Simplon, Netherlands on Fri, 9 Oct 2026.
 
 Spor is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Auckland, Berlin, Cologne and London and 6 more. Often billed alongside Black Sun Empire, Charlie Tee and Circadian. Next up: Simplon, Netherlands on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Spor is a drum & bass and bass artist based in United Kingdom, tracked on soundc
 
 Black Sun Empire, Charlie Tee, Circadian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spor/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spor/)*

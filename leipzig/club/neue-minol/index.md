@@ -1,6 +1,6 @@
 # Neue Minol
 
-Neue Minol is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "RAP DEGGA x HIPHOP IM HINTERHOF" on Sat, 26 Sept 2026.
+Neue Minol is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "RAP DEGGA x HIPHOP IM HINTERHOF" on Sat, 26 Sept 2026.
 
 Neue Minol is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including KOSTJA. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Neue Minol is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | RAP DEGGA x HIPHOP IM HINTERHOF | KOSTJA |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-minol/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-minol/)*

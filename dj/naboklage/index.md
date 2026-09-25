@@ -1,6 +1,6 @@
 # Naboklage
 
-Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 26 Sept 2026.
+Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 26 Sept 2026.
 
 Naboklage is a techno and house artist based in Norway, tracked on soundcheck, with 34 sets logged across Amsterdam, Budapest, Copenhagen and Oslo. Often billed alongside Skodde, G-HA and Komet99. Next up: De Fik Garden, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Naboklage is a techno and house artist based in Norway, tracked on soundcheck, w
 
 Skodde, G-HA, Komet99
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*

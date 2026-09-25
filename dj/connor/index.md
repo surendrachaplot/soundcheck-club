@@ -1,6 +1,6 @@
 # Connor
 
-Connor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at West Harlem, Kyoto on Sat, 31 Oct 2026.
+Connor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at West Harlem, Kyoto on Sat, 31 Oct 2026.
 
 Connor is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Kyoto, Melbourne, Osaka and Tokyo. Often billed alongside KABUTO, Shhhhh and DJ Shibata. Next up: West Harlem, Kyoto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Connor is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 KABUTO, Shhhhh, DJ Shibata
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connor/)*

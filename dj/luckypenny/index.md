@@ -1,6 +1,6 @@
 # Lucky Penny
 
-Lucky Penny is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Mezzanine - Tooting, London on Fri, 25 Sept 2026.
+Lucky Penny is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Mezzanine - Tooting, London on Fri, 25 Sept 2026.
 
 Lucky Penny is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Condy, Gravy Bois and Basic Function. Next up: Mezzanine - Tooting, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lucky Penny is a tech house and minimal artist based in United Kingdom, tracked 
 
 Condy, Gravy Bois, Basic Function
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckypenny/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckypenny/)*

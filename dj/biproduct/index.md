@@ -1,6 +1,6 @@
 # Biproduct
 
-Biproduct is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at O'Briens Pub, Boston on Mon, 28 Sept 2026.
+Biproduct is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at O'Briens Pub, Boston on Mon, 28 Sept 2026.
 
 Biproduct is a techno and experimental artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston, Philadelphia and San Diego. Often billed alongside 9D3, AVATO and Angel Attack. Next up: O'Briens Pub, Boston on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Biproduct is a techno and experimental artist based in United States of America,
 
 9D3, AVATO, Angel Attack
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biproduct/)*

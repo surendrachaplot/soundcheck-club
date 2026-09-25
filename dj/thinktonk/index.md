@@ -1,6 +1,6 @@
 # Think Tonk
 
-Think Tonk is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Think Tonk is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Think Tonk is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Chicago, London, Manchester and San Francisco/Oakland. Often billed alongside Mindstate, dogger and EVABEE. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Think Tonk is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Mindstate, dogger, EVABEE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thinktonk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thinktonk/)*

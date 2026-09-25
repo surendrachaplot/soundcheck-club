@@ -1,6 +1,6 @@
 # San Holo
 
-San Holo is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Radius, Chicago on Fri, 25 Sept 2026.
+San Holo is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Radius, Chicago on Fri, 25 Sept 2026.
 
 San Holo is a bass and experimental artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Boston and Chicago and 13 more. Often billed alongside Boys Noize, I Hate Models and KlangKuenstler. Next up: Radius, Chicago on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ San Holo is a bass and experimental artist based in Netherlands, tracked on soun
 
 Boys Noize, I Hate Models, KlangKuenstler
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

@@ -1,6 +1,6 @@
 # degen
 
-degen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+degen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 degen is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Dreimal T, mole and Zarling. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ degen is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Dreimal T, mole (2), Zarling
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*

@@ -1,6 +1,6 @@
 # Mømentum
 
-Mømentum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
+Mømentum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
 
 Mømentum is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Athens and Berlin. Often billed alongside Gunnar Stiller, Acid Foxy and Multifuse. Next up: 2ten, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mømentum is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Gunnar Stiller, Acid Foxy, Multifuse
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momentum-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momentum-de/)*

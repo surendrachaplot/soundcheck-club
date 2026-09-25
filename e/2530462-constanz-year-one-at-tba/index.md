@@ -1,10 +1,10 @@
 # Constanz Year One at TBA
 
-Constanz Year One at TBA on Fri 30 Oct, Toronto. Techno. Preview the line-up and save it on soundcheck.
+Constanz Year One at TBA on Sat 31 Oct, Toronto. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 30 Oct 2026 |
+| Date | Sat, 31 Oct 2026 |
 | Venue | TBA |
 | City | Toronto |
 

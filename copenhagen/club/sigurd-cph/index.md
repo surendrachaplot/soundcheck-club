@@ -1,6 +1,6 @@
 # Sigurd CPH
 
-Sigurd CPH is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "2200" on Fri, 25 Sept 2026.
+Sigurd CPH is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "2200" on Fri, 25 Sept 2026.
 
 Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including Ave Maria, DJ Nap, John Vincent and Jungle Julia(DK) and 2 more. Browse upcoming dates, start times and who's playing. Sigurdsgade 39, Copenhagen, Denmark, 2200.
 
@@ -23,4 +23,4 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs
 
 Sigurdsgade 39, Copenhagen, Denmark, 2200, Copenhagen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/sigurd-cph/)*

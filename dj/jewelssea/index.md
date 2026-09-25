@@ -1,6 +1,6 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Bain, New York City on Fri, 25 Sept 2026.
+JEWELSSEA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Bain, New York City on Fri, 25 Sept 2026.
 
 JEWELSSEA is a club and techno artist based in United States of America, tracked on soundcheck, with 119 sets logged across Los Angeles, Mexico City, Miami and New York City and 3 more. Often billed alongside low iron, Phreakwency and SHUGAZI. Next up: Le Bain, New York City on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ JEWELSSEA is a club and techno artist based in United States of America, tracked
 
 low iron, Phreakwency, SHUGAZI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelssea/)*

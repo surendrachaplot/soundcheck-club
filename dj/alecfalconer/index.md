@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Alec Falconer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Alec Falconer is a house and garage artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Alec Falconer is a house and garage artist based in United Kingdom, tracked on s
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

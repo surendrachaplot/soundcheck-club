@@ -1,6 +1,6 @@
 # Dimitri Vegas & Like Mike
 
-Dimitri Vegas & Like Mike is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 30 Sept 2026.
+Dimitri Vegas & Like Mike is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 30 Sept 2026.
 
 Dimitri Vegas & Like Mike are an electronica and house duo based in Belgium, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bali and Bangkok and 13 more. Often billed alongside Steve Aoki, Alok and Nervo. Next up: Ushuaïa Ibiza, Ibiza on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ Dimitri Vegas & Like Mike are an electronica and house duo based in Belgium, tra
 
 Steve Aoki, Alok, Nervo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrivegaslikemike/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrivegaslikemike/)*

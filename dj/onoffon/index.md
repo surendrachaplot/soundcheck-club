@@ -1,6 +1,6 @@
 # Onoffon
 
-Onoffon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Marseille on Fri, 25 Sept 2026.
+Onoffon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Marseille on Fri, 25 Sept 2026.
 
 Onoffon is a house and techno artist based in Venezuela, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Brussels and Chicago and 12 more. Often billed alongside Rufo, Sebastián and Christian Arcila. Next up: TBA, Marseille on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Onoffon is a house and techno artist based in Venezuela, tracked on soundcheck, 
 
 Rufo, Sebastián, Christian Arcila
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*

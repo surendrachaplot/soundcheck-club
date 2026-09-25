@@ -1,6 +1,6 @@
 # Kuuma
 
-Kuuma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
+Kuuma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
 
 Kuuma is a techno and experimental artist based in United States of America, tracked on soundcheck, with 32 sets logged across Detroit and Toronto. Often billed alongside RETCON, Seanni B and OMO (US). Next up: The High Dive, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kuuma is a techno and experimental artist based in United States of America, tra
 
 RETCON, Seanni B, OMO (US)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*

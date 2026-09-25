@@ -1,6 +1,6 @@
 # Max Lindemann
 
-Max Lindemann is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
+Max Lindemann is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
 
 Max Lindemann is a techno and electro artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Stuttgart. Often billed alongside Electrooney, Freulein P. and 2ContexX. Next up: Spindler & Klatt, Berlin on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Max Lindemann is a techno and electro artist based in Germany, tracked on soundc
 
 Electrooney, Freulein P., 2ContexX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxlindemann/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxlindemann/)*

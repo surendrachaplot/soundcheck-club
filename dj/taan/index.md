@@ -1,13 +1,14 @@
 # Taan
 
-Taan is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OCZKI, Warsaw on Sun, 4 Oct 2026.
+Taan is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Taan is a techno and bass artist based in Poland, tracked on soundcheck, with 61 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bielak and bart ender. Next up: OCZKI, Warsaw on Sun 4 Oct.
+Taan is a techno and bass artist based in Poland, tracked on soundcheck, with 62 sets logged across Krakow, Poland and Warsaw. Often billed alongside Schmeltzer, bielak and bart ender. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 | Sun, 4 Oct 2026 | OCZKI | Warsaw |
 
@@ -26,4 +27,4 @@ Taan is a techno and bass artist based in Poland, tracked on soundcheck, with 61
 
 Schmeltzer, bielak, bart ender
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*

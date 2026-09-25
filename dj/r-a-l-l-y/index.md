@@ -1,6 +1,6 @@
 # R A L L Y
 
-R A L L Y is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+R A L L Y is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 R A L L Y is a bass and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City and Portland. Often billed alongside DJ Eft, Gardenparty and Moussa-k. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -12,6 +12,7 @@ R A L L Y is a bass and techno artist based in United States of America, tracked
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - Process PDX, Portland — Fri, 10 Jul 2026
 - TBA, Portland — Sat, 23 May 2026
 - TBA - Ming Lounge, Portland — Fri, 22 May 2026
@@ -22,4 +23,4 @@ R A L L Y is a bass and techno artist based in United States of America, tracked
 
 DJ Eft, Gardenparty, Moussa-k
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r-a-l-l-y/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r-a-l-l-y/)*

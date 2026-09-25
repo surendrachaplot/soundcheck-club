@@ -1,6 +1,6 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
+Anil Aras is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Document, Bristol on Fri, 25 Sept 2026.
 
 Anil Aras is a house and tech house artist based in Netherlands, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 14 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Document, Bristol on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Anil Aras is a house and tech house artist based in Netherlands, tracked on soun
 
 Dennis Quin, M-High, Prunk
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

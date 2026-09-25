@@ -1,6 +1,6 @@
 # esme2k
 
-esme2k is a Club and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Jade, New York City on Fri, 25 Sept 2026.
+esme2k is a Club and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Jade, New York City on Fri, 25 Sept 2026.
 
 esme2k is a club and ghetto tech artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, Montreal, New York City and Paris and 2 more. Often billed alongside scoodt, boy_c0ded and Traps N Trees. Next up: Jade, New York City on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ esme2k is a club and ghetto tech artist based in Canada, tracked on soundcheck, 
 
 scoodt, boy_c0ded, Traps N Trees
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esme2k/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esme2k/)*

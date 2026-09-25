@@ -1,6 +1,6 @@
 # dj cookie boy
 
-dj cookie boy is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+dj cookie boy is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 dj cookie boy is a bass and techno artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside 7e, Efeewma and Glico. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ dj cookie boy is a bass and techno artist tracked on soundcheck, with 10 sets lo
 
 7e, Efeewma, Glico
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcookieboy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcookieboy/)*

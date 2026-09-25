@@ -1,6 +1,6 @@
 # nazanael
 
-nazanael is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Circus Osaka, Osaka on Fri, 25 Sept 2026.
+nazanael is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Circus Osaka, Osaka on Fri, 25 Sept 2026.
 
 nazanael is a techno and bass artist based in Japan, tracked on soundcheck, with 40 sets logged across Osaka and Tokyo. Often billed alongside cazbow, kengotaki and TAKENOKO. Next up: Circus Osaka, Osaka on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ nazanael is a techno and bass artist based in Japan, tracked on soundcheck, with
 
 cazbow, kengotaki, TAKENOKO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nazanael/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nazanael/)*

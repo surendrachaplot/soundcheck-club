@@ -1,6 +1,6 @@
 # Nika (2)
 
-Nika (2) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hafen 49, Mannheim on Sat, 26 Sept 2026.
+Nika (2) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hafen 49, Mannheim on Sat, 26 Sept 2026.
 
 Nika is a techno artist based in Slovenia, tracked on soundcheck, with 2 sets logged across Mannheim and Stuttgart. Often billed alongside BIIA, Bjørnson and Deborah De Luca. Next up: Hafen 49, Mannheim on Sat 26 Sept.
 
@@ -15,4 +15,4 @@ Nika is a techno artist based in Slovenia, tracked on soundcheck, with 2 sets lo
 
 BIIA, Bjørnson, Deborah De Luca
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nika-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nika-2/)*

@@ -1,6 +1,6 @@
 # Dave Harvey
 
-Dave Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Rex Club, Paris on Fri, 16 Oct 2026.
+Dave Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Rex Club, Paris on Fri, 16 Oct 2026.
 
 Dave Harvey is a house and techno artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Belgrade, Bristol and Bucharest and 11 more. Often billed alongside Ellie Stokes, Chez de Milo and Felix Dickinson. Next up: Rex Club, Paris on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dave Harvey is a house and techno artist based in United Kingdom, tracked on sou
 
 Ellie Stokes, Chez de Milo, Felix Dickinson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*

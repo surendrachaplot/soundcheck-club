@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
 
 Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 25 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 5 more. Often billed alongside Sinesthesia, AEREA and KALTBLUME. Next up: ÆDEN, Berlin on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 
 Sinesthesia, AEREA, KALTBLUME
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

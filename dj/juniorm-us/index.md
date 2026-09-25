@@ -1,6 +1,6 @@
 # Junior M (US)
 
-Junior M (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Junior M (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Junior M (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Austin, Berlin, London and Los Angeles and 3 more. Often billed alongside Shyboi, FALSEBOI and Henry R. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Junior M (US) is a techno and house artist based in United States of America, tr
 
 Shyboi, FALSEBOI, Henry R
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorm-us/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorm-us/)*

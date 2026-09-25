@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Hadone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Hadone is a techno and house artist based in France, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Hadone is a techno and house artist based in France, tracked on soundcheck, with
 
 UFO95, Chlär, DC Salas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

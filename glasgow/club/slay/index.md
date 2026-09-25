@@ -1,6 +1,6 @@
 # Slay
 
-Slay is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "High Velocity" on Fri, 23 Oct 2026.
+Slay is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "High Velocity" on Fri, 23 Oct 2026.
 
 Slay is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Compulsive Leia, Da Terror, DJ TinyHandz and Quince and 2 more. Browse upcoming dates, start times and who's playing. 24 Glassford Street, Glasgow, G1 1UL.
 
@@ -17,4 +17,4 @@ Slay is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with lin
 
 24 Glassford Street, Glasgow, G1 1UL, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/slay/)*

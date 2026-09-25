@@ -1,6 +1,6 @@
 # Stefhanja
 
-Stefhanja is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
+Stefhanja is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Stefhanja is an electronic artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Rotterdam. Often billed alongside Jo FLM, Kleingeld and Abel Minnee. Next up: ISOamsterdam, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Stefhanja is an electronic artist based in Netherlands, tracked on soundcheck, w
 
 Jo FLM, Kleingeld, Abel Minnee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefhanja/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefhanja/)*

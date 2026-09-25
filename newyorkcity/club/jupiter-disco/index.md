@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Roses: Clay Cornelius, Leon Georges, Reyer, Sibley" on Thu, 24 Sept 2026.
+Jupiter Disco is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Stretch Your Legs x [PLACEHOLDER]" on Fri, 25 Sept 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including Ardio Zemog, Arjun Shah, Balam and BbbBbBB and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Roses: Clay Cornelius, Leon Georges, Reyer, Sibley | Reyer |
 | Fri, 25 Sept 2026 | Stretch Your Legs x [PLACEHOLDER] | Leg Room, Mommy Husband, Pedestrian Access, dj goodboy (BK) |
 | Sat, 26 Sept 2026 | The Jukeboxx: James Juke + shanty mane | James Juke, shanty mane |
 | Sun, 27 Sept 2026 | Booty Club NYC: Symønne, KIMKILLA, Lily Ardalan b2b Remniqe, yNOTi, Caire | Caire, KIMKILLA, Lily Ardalan, Remniqe, Symonne, yNOTi |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 27 upcomin
 | Sun, 4 Oct 2026 | Sunday Bliss: Elephantglasses, KATA, Blvck Truffle | /KATA/, Blvck Truffle, Elephantglasses |
 | Wed, 7 Oct 2026 | EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie | Jake Korolev, Lulannie, Mago (US), Pedestrian Access |
 | Thu, 8 Oct 2026 | PluggedIN: bbbBbBB, Day Cart, HumanbIAN | BbbBbBB (2), Day Cart, HumanbIAN |
+| Fri, 9 Oct 2026 | GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege | HONEY B, Pretty Privilege, Tom Marsi |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

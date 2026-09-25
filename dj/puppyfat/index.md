@@ -1,6 +1,6 @@
 # PuppyFat
 
-PuppyFat is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Low Profile Studios, London on Sat, 3 Oct 2026.
+PuppyFat is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Low Profile Studios, London on Sat, 3 Oct 2026.
 
 PuppyFat is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, Glasgow and London. Often billed alongside B4B, DJ TinyHandz and FURIOUS STYLES. Next up: Low Profile Studios, London on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ PuppyFat is a house and tech house artist based in United Kingdom, tracked on so
 
 B4B (1), DJ TinyHandz, FURIOUS STYLES
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puppyfat/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puppyfat/)*

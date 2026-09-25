@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Todd Terry is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Todd Terry is a house and tech house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -35,4 +35,4 @@ Todd Terry is a house and tech house artist based in United States of America, t
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

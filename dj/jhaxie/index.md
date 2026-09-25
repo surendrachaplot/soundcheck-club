@@ -1,6 +1,6 @@
 # JHAXIE
 
-JHAXIE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Faunna Rooftop, Mexico City on Fri, 25 Sept 2026.
+JHAXIE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Faunna Rooftop, Mexico City on Fri, 25 Sept 2026.
 
 JHAXIE is a techno and industrial artist based in Mexico, tracked on soundcheck, with 31 sets logged across Mexico City. Often billed alongside Frenchie El Tiezo, Salem X and Ironick. Next up: Faunna Rooftop, Mexico City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ JHAXIE is a techno and industrial artist based in Mexico, tracked on soundcheck,
 
 Frenchie El Tiezo, Salem X, Ironick
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhaxie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhaxie/)*

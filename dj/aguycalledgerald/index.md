@@ -1,14 +1,13 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at control, Bucharest on Thu, 24 Sept 2026.
+A Guy Called Gerald is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
-A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: control, Bucharest on Thu 24 Sept.
+A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | control | Bucharest |
 | Fri, 25 Sept 2026 | The Jazz Cafe | London |
 | Wed, 4 Nov 2026 | The Castle & Falcon | Birmingham |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
@@ -16,6 +15,7 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked 
 
 ## Recently played
 
+- control, Bucharest — Thu, 24 Sept 2026
 - Lux Fragil, Lisbon — Fri, 18 Sept 2026
 - Esplanade Tranquille, Montreal — Sun, 30 Aug 2026
 - Société des arts technologiques, Montreal — Fri, 28 Aug 2026
@@ -23,10 +23,9 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, tracked 
 - Rote Fabrik, Zurich — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Palais, London — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Will B, gyrofield, Ben UFO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

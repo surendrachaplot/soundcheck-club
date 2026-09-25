@@ -1,6 +1,6 @@
 # Mai Kah
 
-Mai Kah is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Solace, Melbourne on Sat, 26 Sept 2026.
+Mai Kah is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Solace, Melbourne on Sat, 26 Sept 2026.
 
 Mai Kah is a techno and dub techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Pharis, Shani and Steve Pan. Next up: Solace, Melbourne on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Mai Kah is a techno and dub techno artist based in Australia, tracked on soundch
 
 Pharis, Shani, Steve Pan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maikah/)*

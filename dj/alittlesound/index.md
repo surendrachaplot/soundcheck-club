@@ -1,6 +1,6 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Aladin Music Hall, Bremen on Fri, 2 Oct 2026.
+A Little Sound is a Drum & Bass and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Aladin Music Hall, Bremen on Fri, 2 Oct 2026.
 
 A Little Sound is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Bremen and 25 more. Often billed alongside Wilkinson, Hybrid Minds and Bou (UK). Next up: Aladin Music Hall, Bremen on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, tracke
 
 Wilkinson, Hybrid Minds, Bou (UK)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*

@@ -1,6 +1,6 @@
 # Kalani
 
-Kalani is a Tech House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at XOYO, London on Wed, 30 Sept 2026.
+Kalani is a Tech House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at XOYO, London on Wed, 30 Sept 2026.
 
 Kalani is a tech house and breakbeat artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, London, Manchester and Mexico City. Often billed alongside Nickon Faith, Incupa97 and k.h0lle. Next up: XOYO, London on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Kalani is a tech house and breakbeat artist based in United Kingdom, tracked on 
 
 Nickon Faith, Incupa97, k.h0lle
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*

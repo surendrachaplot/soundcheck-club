@@ -1,6 +1,6 @@
 # Sho Gabi
 
-Sho Gabi is a Breakbeat and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Planet Wax, London on Sun, 27 Sept 2026.
+Sho Gabi is a Breakbeat and Dembow artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Planet Wax, London on Sun, 27 Sept 2026.
 
 Sho Gabi is a breakbeat and dembow artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Paris. Often billed alongside Akabema, Dj Clark Gabble and Ana Isabela. Next up: Planet Wax, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Sho Gabi is a breakbeat and dembow artist based in United Kingdom, tracked on so
 
 Akabema, Dj Clark Gabble, Ana Isabela
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogabi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogabi/)*

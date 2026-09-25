@@ -1,6 +1,6 @@
 # Leo Benassi
 
-Leo Benassi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
+Leo Benassi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Santa Maria della Pietà, Rome on Sat, 3 Oct 2026.
 
 Leo Benassi is a house and club artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Madrid and Milan and 4 more. Often billed alongside Dante (H501), AGNES (IT) and Lorenzo Dada. Next up: TBA - Santa Maria della Pietà, Rome on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Leo Benassi is a house and club artist based in Italy, tracked on soundcheck, wi
 
 Dante (H501), AGNES (IT), Lorenzo Dada
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leobenassi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leobenassi/)*

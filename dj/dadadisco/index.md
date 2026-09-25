@@ -1,6 +1,6 @@
 # Dada Disco
 
-Dada Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Nonsense, Paris on Thu, 8 Oct 2026.
+Dada Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Nonsense, Paris on Thu, 8 Oct 2026.
 
 Dada Disco is a house and disco artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Istanbul and Lisbon and 3 more. Often billed alongside Frozilla, Johannes Albert and Ady Toledano. Next up: Nonsense, Paris on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Dada Disco is a house and disco artist tracked on soundcheck, with 29 sets logge
 
 Frozilla, Johannes Albert, Ady Toledano
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dadadisco/)*

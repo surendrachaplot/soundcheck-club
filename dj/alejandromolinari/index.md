@@ -1,6 +1,6 @@
 # Alejandro Molinari
 
-Alejandro Molinari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at KitKatClub, Berlin on Mon, 28 Sept 2026.
+Alejandro Molinari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at KitKatClub, Berlin on Mon, 28 Sept 2026.
 
 Alejandro Molinari is a house and techno artist based in Venezuela, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Hamburg and Madrid and 4 more. Often billed alongside Frankie Flowerz, DonTom and HEN YANNI. Next up: KitKatClub, Berlin on Mon 28 Sept.
 
@@ -25,4 +25,4 @@ Alejandro Molinari is a house and techno artist based in Venezuela, tracked on s
 
 Frankie Flowerz, DonTom, HEN YANNI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromolinari/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromolinari/)*

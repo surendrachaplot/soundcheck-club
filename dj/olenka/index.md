@@ -1,6 +1,6 @@
 # Olenka
 
-Olenka is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
+Olenka is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
 
 Olenka is a techno and afro house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Paulita, Amalle and DJ Aficionado. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Olenka is a techno and afro house artist based in Ukraine, tracked on soundcheck
 
 Paulita, Amalle, DJ Aficionado
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olenka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olenka/)*

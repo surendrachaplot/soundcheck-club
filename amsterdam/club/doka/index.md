@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary" on Fri, 25 Sept 2026.
+Doka is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Doka presents All Night Long with Vladimir Ivkovic B2B Intergalactic Gary" on Fri, 25 Sept 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with 
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

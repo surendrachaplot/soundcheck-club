@@ -1,6 +1,6 @@
 # Elsa Dove
 
-Elsa Dove is a Rio Funk and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Haggerston, London on Fri, 25 Sept 2026.
+Elsa Dove is a Rio Funk and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Haggerston, London on Fri, 25 Sept 2026.
 
 Elsa Dove is a rio funk and baile funk artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside K-SLICE, VIRI$$ and Ana Isabela. Next up: The Haggerston, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Elsa Dove is a rio funk and baile funk artist based in United Kingdom, tracked o
 
 K-SLICE, VIRI$$, Ana Isabela
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsadove/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsadove/)*

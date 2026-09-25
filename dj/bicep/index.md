@@ -1,6 +1,6 @@
 # Bicep
 
-Bicep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - The Underpass, Melbourne on Sun, 1 Nov 2026.
+Bicep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - The Underpass, Melbourne on Sun, 1 Nov 2026.
 
 Bicep is a house and techno artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Peggy Gou, Saoirse and TSHA. Next up: TBA - The Underpass, Melbourne on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Bicep is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Peggy Gou, Saoirse, TSHA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*

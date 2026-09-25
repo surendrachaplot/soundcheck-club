@@ -1,6 +1,6 @@
 # dawny
 
-dawny is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Système, Montreal on Sat, 24 Oct 2026.
+dawny is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Système, Montreal on Sat, 24 Oct 2026.
 
 dawny is a house and disco artist based in Canada, tracked on soundcheck, with 29 sets logged across Montreal and Toronto. Often billed alongside Flleur, Sherifsound and Nosh. Next up: Système, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ dawny is a house and disco artist based in Canada, tracked on soundcheck, with 2
 
 Flleur, Sherifsound, Nosh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawny/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawny/)*

@@ -1,6 +1,6 @@
 # The Henz Club
 
-The Henz Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "HENZ GIVING DAY" on Fri, 25 Sept 2026.
+The Henz Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "HENZ GIVING DAY" on Fri, 25 Sept 2026.
 
 The Henz Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including POSER. Browse upcoming dates, start times and who's playing. B1 86-22 Sangsu-dong Mapo-gu Seoul Korea.
 
@@ -15,4 +15,4 @@ The Henz Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, w
 
 B1 86-22 Sangsu-dong Mapo-gu Seoul Korea, Seoul
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-henz-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/the-henz-club/)*

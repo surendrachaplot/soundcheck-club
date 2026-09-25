@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 25 Sept 2026.
+Funk Tribu is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 25 Sept 2026.
 
 Funk Tribu is a techno and trance artist based in Colombia, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Studio Club Malaga, Malaga on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Funk Tribu is a techno and trance artist based in Colombia, tracked on soundchec
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

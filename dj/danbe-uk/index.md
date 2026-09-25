@@ -1,6 +1,6 @@
 # Dan be
 
-Dan be is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Firepit Art Gallery and Studios CIC, London on Fri, 25 Sept 2026.
+Dan be is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Firepit Art Gallery and Studios CIC, London on Fri, 25 Sept 2026.
 
 Dan be is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Glasgow and London. Often billed alongside Yesca, DJ Nervous and Lowree. Next up: Firepit Art Gallery and Studios CIC, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dan be is a deep house and house artist based in United Kingdom, tracked on soun
 
 Yesca, DJ Nervous, Lowree
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danbe-uk/)*

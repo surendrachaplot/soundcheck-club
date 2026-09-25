@@ -1,6 +1,6 @@
 # Purita D
 
-Purita D is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
+Purita D is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
 
 Purita D is an electro and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Berlin and Utrecht. Often billed alongside Acid Washed, DJ Regret and Second Storey. Next up: Hoppetosse, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Purita D is an electro and house artist based in Netherlands, tracked on soundch
 
 Acid Washed, DJ Regret, Second Storey
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puritad/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puritad/)*

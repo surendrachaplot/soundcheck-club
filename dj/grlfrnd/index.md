@@ -1,6 +1,6 @@
 # GRLFRND
 
-GRLFRND is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jungle Hollywood, Los Angeles on Wed, 30 Sept 2026.
+GRLFRND is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jungle Hollywood, Los Angeles on Wed, 30 Sept 2026.
 
 GRLFRND is a techno and house artist tracked on soundcheck, with 26 sets logged across Los Angeles and San Diego. Often billed alongside RCKSLVR, Chamoy Baby and Tamara Lanza. Next up: Jungle Hollywood, Los Angeles on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ GRLFRND is a techno and house artist tracked on soundcheck, with 26 sets logged 
 
 RCKSLVR, Chamoy Baby, Tamara Lanza
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grlfrnd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grlfrnd/)*

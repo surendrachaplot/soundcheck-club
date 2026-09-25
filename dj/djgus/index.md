@@ -1,6 +1,6 @@
 # DJ GUS
 
-DJ GUS is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+DJ GUS is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 DJ GUS is an electronic artist based in Argentina, tracked on soundcheck, with 7 sets logged across Athens, Berlin and Greece. Often billed alongside Liou, Innassi and RNO. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ DJ GUS is an electronic artist based in Argentina, tracked on soundcheck, with 7
 
 Liou, Innassi, RNO (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgus/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgus/)*

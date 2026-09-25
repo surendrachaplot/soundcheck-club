@@ -1,6 +1,6 @@
 # NVWLS
 
-NVWLS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at East London Brewing Company, London on Sat, 31 Oct 2026.
+NVWLS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
 NVWLS is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Secretsundaze, ATOM UK and Alien Communications. Next up: East London Brewing Company, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NVWLS is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Secretsundaze, ATOM UK, Alien Communications
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*

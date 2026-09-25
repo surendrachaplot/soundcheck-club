@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
+deBasement is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Industry City, New York City on Fri, 30 Oct 2026.
 
 deBasement is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Marie Davidson, LSDXOXO and OZA. Next up: Industry City, New York City on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ deBasement is a techno and house artist based in United States of America, track
 
 Marie Davidson, LSDXOXO, OZA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

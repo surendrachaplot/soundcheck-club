@@ -1,6 +1,6 @@
 # Fabich
 
-Fabich is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Fabich is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Fabich is a house and r&b artist based in Germany, tracked on soundcheck, with 29 sets logged across Bangkok, Ibiza, Istanbul and Lisbon and 2 more. Often billed alongside Moulin.music, Juju Manju and Moulin. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fabich is a house and r&b artist based in Germany, tracked on soundcheck, with 2
 
 Moulin.music, Juju Manju, Moulin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*

@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hackney Bridge, London on Sat, 26 Sept 2026.
+Reznik is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hackney Bridge, London on Sat, 26 Sept 2026.
 
 Reznik is a house and afro house artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 20 more. Often billed alongside Argia, Samm (BE) and Avangart Tabldot. Next up: Hackney Bridge, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Reznik is a house and afro house artist based in Germany, tracked on soundcheck,
 
 Argia, Samm (BE), Avangart Tabldot
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

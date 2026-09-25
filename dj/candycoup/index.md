@@ -1,6 +1,6 @@
 # Candy Coup
 
-Candy Coup is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Worm, Rotterdam on Fri, 9 Oct 2026.
+Candy Coup is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Worm, Rotterdam on Fri, 9 Oct 2026.
 
 Candy Coup is a techno and bass artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Rotterdam and The Hague. Often billed alongside Chucho, DIORA and DJ Shahmaran. Next up: Worm, Rotterdam on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Candy Coup is a techno and bass artist based in Netherlands, tracked on soundche
 
 Chucho, DIORA, DJ Shahmaran
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/candycoup/)*

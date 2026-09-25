@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
+Cap is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Distrikt, Leeds on Sat, 26 Sept 2026.
 
 Cap is a house and minimal artist based in Romania, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Distrikt, Leeds on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Cap is a house and minimal artist based in Romania, tracked on soundcheck, with 
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

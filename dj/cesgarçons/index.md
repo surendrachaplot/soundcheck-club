@@ -1,6 +1,6 @@
 # Ces Garçons
 
-Ces Garçons is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Spazio Diaz, Milan on Sat, 26 Sept 2026.
+Ces Garçons is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Spazio Diaz, Milan on Sat, 26 Sept 2026.
 
 Ces Garçons is a disco and house artist tracked on soundcheck, with 22 sets logged across Madrid, Milan and Rome. Often billed alongside Oceanwax, Jason K (IT) and GOME. Next up: Spazio Diaz, Milan on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ces Garçons is a disco and house artist tracked on soundcheck, with 22 sets log
 
 Oceanwax, Jason K (IT), GOME
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*

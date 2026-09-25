@@ -1,6 +1,6 @@
 # SAVSSOUNDS
 
-SAVSSOUNDS is a UK Funky and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
+SAVSSOUNDS is a UK Funky and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Vespers Club, London on Sat, 26 Sept 2026.
 
 SAVSSOUNDS is an uk funky and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, London, New York City and Seoul. Often billed alongside Donnie Sunshine, KATALYSSST and Laelo Black. Next up: Vespers Club, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SAVSSOUNDS is an uk funky and jungle artist based in United Kingdom, tracked on 
 
 Donnie Sunshine, KATALYSSST, Laelo Black
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*

@@ -1,6 +1,6 @@
 # Otaqlab Bangkok
 
-Otaqlab Bangkok is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BEETZ: Glued" on Fri, 25 Sept 2026.
+Otaqlab Bangkok is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BEETZ: Glued" on Fri, 25 Sept 2026.
 
 Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including dandarplaya, Emptyshura, Krit Su and NOBEARDD and 2 more. Browse upcoming dates, start times and who's playing. 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400.
 
@@ -15,4 +15,4 @@ Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 2 upcoming gig
 
 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400, Bangkok
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*

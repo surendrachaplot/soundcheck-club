@@ -1,6 +1,6 @@
 # Tilly
 
-Tilly is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Labüsch-Bar, Winterthur, Zurich on Sat, 26 Sept 2026.
+Tilly is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Labüsch-Bar, Winterthur, Zurich on Sat, 26 Sept 2026.
 
 Tilly is a drum & bass and house artist tracked on soundcheck, with 31 sets logged across Berlin, Bristol, Cardiff and Hamburg and 5 more. Often billed alongside JNR, Konetix and Gumm. Next up: Labüsch-Bar, Winterthur, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tilly is a drum & bass and house artist tracked on soundcheck, with 31 sets logg
 
 JNR, Konetix, Gumm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tilly/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tilly/)*

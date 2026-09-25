@@ -1,6 +1,6 @@
 # The Shrine
 
-The Shrine is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "KCRW presents Channel Tres" on Fri, 23 Oct 2026.
+The Shrine is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "KCRW presents Channel Tres" on Fri, 23 Oct 2026.
 
 The Shrine is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Channel Tres. Browse upcoming dates, start times and who's playing. 2109 S. Wabash Ave; Chicago, IL 60616; United States.
 
@@ -14,4 +14,4 @@ The Shrine is a music venue in Chicago listed on soundcheck. 1 upcoming gig, wit
 
 2109 S. Wabash Ave; Chicago, IL 60616; United States, Chicago
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-shrine/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-shrine/)*

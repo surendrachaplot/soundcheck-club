@@ -1,6 +1,6 @@
 # ALMAS
 
-ALMAS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+ALMAS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 ALMAS is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across San Francisco/Oakland. Often billed alongside Emanate, Dirac (US) and HIDRA. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ ALMAS is a house and techno artist based in United States of America, tracked on
 
 Emanate, Dirac (US), HIDRA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*

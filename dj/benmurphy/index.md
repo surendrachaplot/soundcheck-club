@@ -1,6 +1,6 @@
 # Ben Murphy
 
-Ben Murphy is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Ben Murphy is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Ben Murphy is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Marcellus, Mas Fuego and Andrew Kay. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ben Murphy is a tech house and minimal artist based in United Kingdom, tracked o
 
 Marcellus, Mas Fuego, Andrew Kay
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*

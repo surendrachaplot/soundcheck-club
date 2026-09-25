@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Jeff Mills is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Auckland and 58 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Jeff Mills is a techno and house artist based in United States of America, track
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

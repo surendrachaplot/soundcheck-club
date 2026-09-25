@@ -1,6 +1,6 @@
 # patricccio
 
-patricccio is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fuchs2, Prague on Fri, 25 Sept 2026.
+patricccio is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fuchs2, Prague on Fri, 25 Sept 2026.
 
 patricccio is a techno and latin bass artist based in Mexico, tracked on soundcheck, with 45 sets logged across Berlin and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Fuchs2, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ patricccio is a techno and latin bass artist based in Mexico, tracked on soundch
 
 Atch22, Yan (CZ), Alfred Czital
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*

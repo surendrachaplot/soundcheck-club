@@ -1,6 +1,6 @@
 # Zamna Soundsystem
 
-Zamna Soundsystem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Savaya Bali, Bali on Sat, 17 Oct 2026.
+Zamna Soundsystem is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Savaya Bali, Bali on Sat, 17 Oct 2026.
 
 Zamna Soundsystem is a techno and house artist based in Italy, tracked on soundcheck, with 31 sets logged across Amsterdam, Bali, Barcelona and Buenos Aires and 9 more. Often billed alongside Andrea Oliva, Brina Knauss and 19:26. Next up: Savaya Bali, Bali on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Zamna Soundsystem is a techno and house artist based in Italy, tracked on soundc
 
 Andrea Oliva, Brina Knauss, 19:26
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamnasoundsystem/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zamnasoundsystem/)*

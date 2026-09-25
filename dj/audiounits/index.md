@@ -1,18 +1,18 @@
 # Audio Units
 
-Audio Units is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at John Doe, Amsterdam on Thu, 24 Sept 2026.
+Audio Units is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at ://about blank, Berlin on Fri, 25 Sept 2026.
 
-Audio Units is a techno and trance artist based in India, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: John Doe, Amsterdam on Thu 24 Sept.
+Audio Units is a techno and trance artist based in India, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: ://about blank, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | John Doe | Amsterdam |
 | Fri, 25 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- John Doe, Amsterdam — Thu, 24 Sept 2026
 - Para Klub Beograd, Belgrade — Sun, 20 Sept 2026
 - Glazart, Paris — Sun, 6 Sept 2026
 - Tempio del Futuro Perduto, Milan — Fri, 4 Sept 2026
@@ -20,10 +20,9 @@ Audio Units is a techno and trance artist based in India, tracked on soundcheck,
 - Glazart, Paris — Sun, 3 Aug 2025
 - Macarena Club, Barcelona — Sun, 27 Jul 2025
 - Gare Porto, Porto — Fri, 18 Jul 2025
-- clubasia, Tokyo — Fri, 18 Jul 2025
 
 ## Shares bills with
 
 7e, Anna Haleta, BORGBORG
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*

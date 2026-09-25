@@ -1,6 +1,6 @@
 # Tear of Joy
 
-Tear of Joy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
+Tear of Joy is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cross, London on Fri, 2 Oct 2026.
 
 Tear of Joy is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Budapest and London. Often billed alongside Nic Cammelli, STRAY SON and LUNÄTICO (IT). Next up: The Cross, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Tear of Joy is a techno and progressive house artist based in United Kingdom, tr
 
 Nic Cammelli, STRAY SON, LUNÄTICO (IT)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tearofjoy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tearofjoy/)*

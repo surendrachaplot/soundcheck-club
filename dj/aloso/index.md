@@ -1,6 +1,6 @@
 # ALoSo
 
-ALoSo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
+ALoSo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
 
 ALoSo is a techno and club artist tracked on soundcheck, with 38 sets logged across Portland and Seattle. Often billed alongside sqip, cay horiuchi and Dos Flakos. Next up: TBA - Secret Warehouse, Portland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ALoSo is a techno and club artist tracked on soundcheck, with 38 sets logged acr
 
 sqip, cay horiuchi, Dos Flakos
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloso/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aloso/)*

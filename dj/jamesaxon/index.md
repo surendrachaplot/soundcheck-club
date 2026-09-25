@@ -1,14 +1,15 @@
 # James Axon
 
-James Axon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
+James Axon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Good Room, New York City on Fri, 25 Sept 2026.
 
-James Axon is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Los Angeles, New York City, Philadelphia and San Francisco/Oakland and 1 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: Good Room, New York City on Fri 25 Sept.
+James Axon is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Los Angeles, New York City, Philadelphia and San Francisco/Oakland and 2 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: Good Room, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Good Room | New York City |
+| Sat, 3 Oct 2026 | 131 Mccormack St | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ James Axon is a house and techno artist based in United States of America, track
 
 Masha Mar, Sergio Rodriguez, Jason Kendig
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*

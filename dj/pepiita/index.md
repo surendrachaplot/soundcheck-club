@@ -1,6 +1,6 @@
 # PEPIITA
 
-PEPIITA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
+PEPIITA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Virage, Paris on Fri, 25 Sept 2026.
 
 PEPIITA is a house and techno artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Istanbul and Lyon and 3 more. Often billed alongside RAG, Nicol and Lea Occhi. Next up: Virage, Paris on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ PEPIITA is a house and techno artist based in France, tracked on soundcheck, wit
 
 RAG, Nicol, Lea Occhi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*

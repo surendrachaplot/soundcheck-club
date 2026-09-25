@@ -1,6 +1,6 @@
 # Oden
 
-Oden is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Oden is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
 
 Oden is a house and tech house artist based in France, tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Sam Divine and Armand Van Helden. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
 
@@ -29,4 +29,4 @@ Oden is a house and tech house artist based in France, tracked on soundcheck, wi
 
 Fatzo, Sam Divine, Armand Van Helden
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

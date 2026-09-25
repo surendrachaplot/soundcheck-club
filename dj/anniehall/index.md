@@ -1,6 +1,6 @@
 # Annie Hall
 
-Annie Hall is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Annie Hall is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Annie Hall is a techno and idm artist based in Spain, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Lisbon and London and 2 more. Often billed alongside T1_1SK, The Fear Ratio and DJ Free Download. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Annie Hall is a techno and idm artist based in Spain, tracked on soundcheck, wit
 
 T1_1SK, The Fear Ratio, DJ Free Download
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anniehall/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anniehall/)*

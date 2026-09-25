@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Oktoberfest Nights Freitag with AJNA, BRANDO, Alma Hosch" on Fri, 25 Sept 2026.
+Pacha is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Oktoberfest Nights Freitag with AJNA, BRANDO, Alma Hosch" on Fri, 25 Sept 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including AJNA, André Hommen, BRANDO and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -18,4 +18,4 @@ Pacha is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

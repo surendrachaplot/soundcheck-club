@@ -1,6 +1,6 @@
 # Triad (Es)
 
-Triad (Es) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Macarena Club, Barcelona on Sat, 31 Oct 2026.
+Triad (Es) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Macarena Club, Barcelona on Sat, 31 Oct 2026.
 
 Triad (Es) is a house and minimal artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona and Milan. Often billed alongside Marcelo Cura, Bttologic and Will Deluxe. Next up: Macarena Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Triad (Es) is a house and minimal artist based in Spain, tracked on soundcheck, 
 
 Marcelo Cura, Bttologic, Will Deluxe
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triad-es/)*

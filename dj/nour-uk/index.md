@@ -1,6 +1,6 @@
 # Nour (UK)
 
-Nour (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beachaven Complex, Malta on Sun, 11 Oct 2026.
+Nour (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Beachaven Complex, Malta on Sun, 11 Oct 2026.
 
 Nour (UK) is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across London, Malta, Manchester and Nottingham. Often billed alongside Tris (UK), MXV (UK) and Carina Lawrence. Next up: Beachaven Complex, Malta on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Nour (UK) is a progressive house and deep house artist based in United Kingdom, 
 
 Tris (UK), MXV (UK), Carina Lawrence
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nour-uk/)*

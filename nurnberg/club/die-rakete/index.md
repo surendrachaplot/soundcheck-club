@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm" on Fri, 25 Sept 2026.
+Die Rakete is a music venue in Nürnberg with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "FUF Family x Praerie Festival at Rakete Nürnberg with Alex Stein, Konfusia uvm" on Fri, 25 Sept 2026.
 
 Die Rakete is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Stein, Annie O, Arp and Bernhard Groeger and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -21,4 +21,4 @@ Die Rakete is a music venue in Nürnberg listed on soundcheck. 8 upcoming gigs, 
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

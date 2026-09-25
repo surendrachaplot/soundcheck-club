@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "FULLHOUSE 7th Anniversary" on Fri, 25 Sept 2026.
+Circus Osaka is a music venue in Osaka with 12 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "FULLHOUSE 7th Anniversary" on Fri, 25 Sept 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 12 upcoming gigs, with line-ups including Aliceyuki, ANCHIN, AOKI takamasa and Ben Sims and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -23,4 +23,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 12 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

@@ -1,13 +1,14 @@
 # Jawnino
 
-Jawnino is a Hip-Hop and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hotel Forum, Krakow on Thu, 8 Oct 2026.
+Jawnino is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Bristol, Brussels and Copenhagen and 14 more. Often billed alongside KAVARI, Mechatok and Batu. Next up: Hotel Forum, Krakow on Thu 8 Oct.
+Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside KAVARI, Batu and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
@@ -23,6 +24,6 @@ Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-KAVARI, Mechatok, Batu
+KAVARI, Batu, Blawan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

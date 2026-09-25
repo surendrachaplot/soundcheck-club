@@ -1,6 +1,6 @@
 # Fenouil2000
 
-Fenouil2000 is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
+Fenouil2000 is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bal Chavaux, Paris on Sat, 31 Oct 2026.
 
 Fenouil2000 is an electro and techno artist based in France, tracked on soundcheck, with 30 sets logged across Marseille and Paris. Often billed alongside Loki Starfish, Lucifer and Aubry. Next up: Bal Chavaux, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fenouil2000 is an electro and techno artist based in France, tracked on soundche
 
 Loki Starfish, Lucifer, Aubry
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenouil2000/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenouil2000/)*

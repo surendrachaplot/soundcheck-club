@@ -1,6 +1,6 @@
 # Niceteed
 
-Niceteed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
+Niceteed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Superlove, Milan on Fri, 25 Sept 2026.
 
 Niceteed is a techno and house artist based in Italy, tracked on soundcheck, with 22 sets logged across Milan, Naples and Turin. Often billed alongside DJ Dipdel, Daniele Barberi and Frankie Marasco. Next up: Superlove, Milan on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Niceteed is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 DJ Dipdel, Daniele Barberi, Frankie Marasco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niceteed/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niceteed/)*

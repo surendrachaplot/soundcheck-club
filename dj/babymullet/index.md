@@ -1,6 +1,6 @@
 # babymullet
 
-babymullet is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sensorium, Berlin on Fri, 16 Oct 2026.
+babymullet is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sensorium, Berlin on Fri, 16 Oct 2026.
 
 babymullet is a house and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Florian Pas, obiskabir and AZULU. Next up: Sensorium, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ babymullet is a house and tech house artist based in Germany, tracked on soundch
 
 Florian Pas, obiskabir, AZULU
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*

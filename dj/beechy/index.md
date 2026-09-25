@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and Funk / Soul artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Freeze HiFi, Liverpool on Tue, 29 Sept 2026.
+Beechy is a Disco and Funk / Soul artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Freeze HiFi, Liverpool on Tue, 29 Sept 2026.
 
 Beechy is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Liverpool and Manchester. Often billed alongside Izaac Moses, Touch Of Funk and AC Groove. Next up: Freeze HiFi, Liverpool on Tue 29 Sept.
 
@@ -34,4 +34,4 @@ Beechy is a disco and funk / soul artist based in United Kingdom, tracked on sou
 
 Izaac Moses, Touch Of Funk, AC Groove
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

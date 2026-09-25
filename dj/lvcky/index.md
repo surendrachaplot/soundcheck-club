@@ -1,6 +1,6 @@
 # Lvcky
 
-Lvcky is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
+Lvcky is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Multiple Venues across Sheffield & Rotherham, North on Fri, 9 Oct 2026.
 
 Lvcky is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, North, Nottingham and Sheffield. Often billed alongside 96 Back, Lo Shea and Charla Green. Next up: TBA - Multiple Venues across Sheffield & Rotherham, North on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lvcky is a bass and garage artist based in United Kingdom, tracked on soundcheck
 
 96 Back, Lo Shea, Charla Green
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcky/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcky/)*

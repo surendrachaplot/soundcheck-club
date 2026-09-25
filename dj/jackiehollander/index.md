@@ -1,6 +1,6 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
+Jackie Hollander is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Floyd, Miami on Sat, 10 Oct 2026.
 
 Jackie Hollander is a house and tech house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Boston, Bristol and Chicago and 16 more. Often billed alongside Gorgon City, Max Styler and Riordan. Next up: Floyd, Miami on Sat 10 Oct.
 
@@ -15,6 +15,7 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 
 ## Recently played
 
+- Gallagher Square, San Diego — Thu, 24 Sept 2026
 - Randall's Island, New York City — Sat, 19 Sept 2026
 - [UNVRS], Ibiza — Thu, 3 Sept 2026
 - The Grand Boston, Boston — Fri, 31 Jul 2026
@@ -22,10 +23,9 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 - Reframe Studios Indoors, Los Angeles — Sat, 30 May 2026
 - Tracks Denver, Denver — Sat, 9 May 2026
 - Pier 48's Shed A, San Francisco/Oakland — Fri, 1 May 2026
-- Superior Ingredients, New York City — Sun, 1 Mar 2026
 
 ## Shares bills with
 
 Gorgon City, Max Styler, Riordan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

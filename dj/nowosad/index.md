@@ -1,6 +1,6 @@
 # Nowosad
 
-Nowosad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 2 Oct 2026.
+Nowosad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 2 Oct 2026.
 
 Nowosad is a house and techno artist tracked on soundcheck, with 34 sets logged across Berlin and Warsaw. Often billed alongside Easy Audio, Jellin and uiava. Next up: MONKEY LOVE, Warsaw on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nowosad is a house and techno artist tracked on soundcheck, with 34 sets logged 
 
 Easy Audio, Jellin, uiava
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nowosad/)*

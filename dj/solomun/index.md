@@ -1,8 +1,8 @@
 # Solomun
 
-Solomun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Depot Mayfield, Manchester on Fri, 25 Sept 2026.
+Solomun is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Depot Mayfield, Manchester on Fri, 25 Sept 2026.
 
-Solomun is a techno and house artist based in Portugal, tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Depot Mayfield, Manchester on Fri 25 Sept.
+Solomun is a techno and house artist based in Portugal, tracked on soundcheck, with 188 sets logged across Amsterdam, Argentina, Athens and Bali and 37 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Depot Mayfield, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Solomun is a techno and house artist based in Portugal, tracked on soundcheck, w
 | Sat, 26 Sept 2026 | Ex Macello | Milan |
 | Sun, 27 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Pacha Ibiza | Ibiza |
+| Fri, 23 Oct 2026 | TBA - La Estacion, Cordoba | Argentina |
+| Fri, 30 Oct 2026 | Espacio Riesco Expo Centre | Santiago |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Solomun is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

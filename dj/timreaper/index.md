@@ -1,6 +1,6 @@
 # Tim Reaper
 
-Tim Reaper is a Jungle and Drum & Bass artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
+Tim Reaper is a Jungle and Drum & Bass artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
 
 Tim Reaper is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 246 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 47 more. Often billed alongside Dwarde, Sully and Coco Bryce. Next up: FOUND, Berlin on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Tim Reaper is a jungle and drum & bass artist based in United Kingdom, tracked o
 
 Dwarde, Sully, Coco Bryce
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timreaper/)*

@@ -1,6 +1,6 @@
 # Ciccio (IT)
 
-Ciccio (IT) is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at E1, London on Sat, 28 Nov 2026.
+Ciccio (IT) is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at E1, London on Sat, 28 Nov 2026.
 
 Ciccio (IT) is a tech house and minimal artist based in Italy, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Laumee, George Morteanu and Ca:char. Next up: E1, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ciccio (IT) is a tech house and minimal artist based in Italy, tracked on soundc
 
 Laumee, George Morteanu, Ca:char
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciccio-it/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciccio-it/)*

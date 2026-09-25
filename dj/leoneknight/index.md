@@ -1,6 +1,6 @@
 # Leone Knight
 
-Leone Knight is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fitzroy, Berlin on Fri, 25 Sept 2026.
+Leone Knight is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fitzroy, Berlin on Fri, 25 Sept 2026.
 
 Leone Knight is a techno and trance artist based in Japan, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside juan and only, Dreimal T and dom.koski. Next up: Fitzroy, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Leone Knight is a techno and trance artist based in Japan, tracked on soundcheck
 
 juan and only, Dreimal T, dom.koski
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoneknight/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leoneknight/)*

@@ -1,6 +1,6 @@
 # Alex Slater
 
-Alex Slater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Zuzu, Boston on Fri, 25 Sept 2026.
+Alex Slater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Zuzu, Boston on Fri, 25 Sept 2026.
 
 Alex Slater is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Boston. Often billed alongside Màrelle, Wiersma and Your Friend Brett. Next up: Zuzu, Boston on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Alex Slater is a house and techno artist based in United States of America, trac
 
 Màrelle, Wiersma, Your Friend Brett
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexslater/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexslater/)*

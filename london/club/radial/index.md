@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Katia Curie, Daisy Moon b2b Adam Curtain - Trouble Maker" on Fri, 25 Sept 2026.
+radial is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Katia Curie, Daisy Moon b2b Adam Curtain - Trouble Maker" on Fri, 25 Sept 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Abby Daze and Ac1d Vicious and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with l
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

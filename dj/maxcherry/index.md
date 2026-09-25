@@ -1,6 +1,6 @@
 # Maxcherry
 
-Maxcherry is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
+Maxcherry is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
 
 Maxcherry is a house and garage artist tracked on soundcheck, with 15 sets logged across Cologne and Sydney. Often billed alongside Deens, Jane Decks and Lily FM. Next up: The Red Rattler, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Maxcherry is a house and garage artist tracked on soundcheck, with 15 sets logge
 
 Deens, Jane Decks, Lily FM
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*

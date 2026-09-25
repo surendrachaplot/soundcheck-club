@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 38 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MOOG HISTORY: FRIGOLUM aka MARC FRIGOLA (62HZ) + uroz" on Thu, 24 Sept 2026.
+Moog Club is a music venue in Barcelona with 37 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Ross + uroz" on Fri, 25 Sept 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming gigs, with line-ups including BAMBI (BE), carlota., Deckard and Derrick May and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 37 upcoming gigs, with line-ups including BAMBI (BE), carlota., Deckard and Derrick May and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | MOOG HISTORY: FRIGOLUM aka MARC FRIGOLA (62HZ) + uroz | uroz |
 | Fri, 25 Sept 2026 | Ross + uroz | ROSS z, uroz |
 | Sat, 26 Sept 2026 | Javi gOn | Javi gOn |
 | Sun, 27 Sept 2026 | Carol Nyx |  |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming gigs, 
 | Thu, 1 Oct 2026 | Luzzatto | Lzztto |
 | Fri, 2 Oct 2026 | Rabent | Rabent |
 | Sat, 3 Oct 2026 | Javi gOn | Javi gOn |
+| Sun, 4 Oct 2026 | Flug + Gustavo Lopez + Carol Nyx | Flug, Gustavo Lopez |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

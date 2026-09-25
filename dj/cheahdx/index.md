@@ -1,6 +1,6 @@
 # CHEAHDX
 
-CHEAHDX is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+CHEAHDX is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
 CHEAHDX is a techno and bass artist based in Australia, tracked on soundcheck, with 29 sets logged across Australiancapitalterritory, Melbourne and Sydney. Often billed alongside Mabel, Kate Miller and Rakhi. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CHEAHDX is a techno and bass artist based in Australia, tracked on soundcheck, w
 
 Mabel, Kate Miller, Rakhi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*

@@ -1,6 +1,6 @@
 # TBA - Private Warehouse DTLA
 
-TBA - Private Warehouse DTLA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Serenity Link: HALLOWEEN 2026" on Sat, 31 Oct 2026.
+TBA - Private Warehouse DTLA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Serenity Link: HALLOWEEN 2026" on Sat, 31 Oct 2026.
 
 TBA - Private Warehouse DTLA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Private Warehouse DTLA is a music venue in Los Angeles listed on soundchec
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Serenity Link: HALLOWEEN 2026 |  |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-private-warehouse-dtla/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-private-warehouse-dtla/)*

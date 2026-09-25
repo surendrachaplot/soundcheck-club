@@ -1,6 +1,6 @@
 # SNAQ
 
-SNAQ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
+SNAQ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 SNAQ is a techno and club artist based in United States of America, tracked on soundcheck, with 92 sets logged across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside DMN TWNK, Del and JustJovani. Next up: DNA Lounge, San Francisco/Oakland on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ SNAQ is a techno and club artist based in United States of America, tracked on s
 
 DMN TWNK, Del (4), JustJovani
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snaq/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snaq/)*

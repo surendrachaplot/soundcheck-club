@@ -1,6 +1,6 @@
 # Laukia
 
-Laukia is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
+Laukia is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun, 11 Oct 2026.
 
 Laukia is a house and electro artist tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Matteo Floris, Baffa and menine. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Laukia is a house and electro artist tracked on soundcheck, with 12 sets logged 
 
 Matteo Floris, Baffa, menine
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laukia/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laukia/)*

@@ -1,6 +1,6 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sklub, Czech-republic on Fri, 25 Sept 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sklub, Czech-republic on Fri, 25 Sept 2026.
 
 A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Phantom, IC3 and Koven. Next up: Sklub, Czech Republic on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Phantom, IC3, Koven
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

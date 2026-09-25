@@ -1,6 +1,6 @@
 # Joules (AT)
 
-Joules (AT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Wiener Werkshallen, Vienna on Sat, 3 Oct 2026.
+Joules (AT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Wiener Werkshallen, Vienna on Sat, 3 Oct 2026.
 
 Joules (AT) is a house and tech house artist based in Austria, tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Roibo, Valio and BART und BUSEN. Next up: Wiener Werkshallen, Vienna on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Joules (AT) is a house and tech house artist based in Austria, tracked on soundc
 
 Roibo, Valio, BART und BUSEN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joulesat/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joulesat/)*

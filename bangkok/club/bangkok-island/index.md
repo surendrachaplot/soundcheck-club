@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "YUVAL'S BIRTHDAY PARTY" on Fri, 25 Sept 2026.
+Bangkok Island is a music venue in Bangkok with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "YUVAL'S BIRTHDAY PARTY" on Fri, 25 Sept 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 11 upcoming gigs, with line-ups including Art (AU), DJ S (UK) and FASHION (US). Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -23,4 +23,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 11 upcoming gig
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

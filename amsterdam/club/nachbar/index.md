@@ -1,14 +1,13 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Passion DEEZ & Friends w/ special guest" on Thu, 24 Sept 2026.
+nachbar is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "CONTR4ST pres. fka.m4a [all night long]" on Fri, 25 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Passion DEEZ & Friends w/ special guest | Passion DEEZ |
 | Fri, 25 Sept 2026 | CONTR4ST pres. fka.m4a [all night long] | fka.m4a |
 | Sat, 26 Sept 2026 | Faustin & ferrari rot | Faustin, ferrari rot |
 | Wed, 30 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX | DEVØX |
@@ -18,9 +17,10 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, wi
 | Sun, 25 Oct 2026 | 20 Years of Permanent Vacation at ADE | Benjamin Fröhlich, Curses, DJ City, Jordan Nocturne, Jorkes, Joyce Muniz, Naomi (Berlin), Red Axes, Retromigration, Rhode & Brown, Rosa Red, Running Hot, Sam Goku, Tam Tam, Vio PRG |
 | Wed, 28 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 | Sat, 31 Oct 2026 | Freï: Hallow's Eve 2026 | Introspekt, MALLAURY, Miley Serious, bebe bad |
+| Wed, 4 Nov 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

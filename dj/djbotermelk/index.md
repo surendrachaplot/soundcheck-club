@@ -1,6 +1,6 @@
 # DJ Botermelk
 
-DJ Botermelk is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
+DJ Botermelk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Stoked&stoned, Seoul on Mon, 21 Sept 2026.
 
 DJ Botermelk is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Seoul. Often billed alongside YESL, odix and Shlemba. Next up: Stoked&stoned, Seoul on Mon 21 Sept.
 
@@ -9,10 +9,10 @@ DJ Botermelk is a house and tech house artist based in United Kingdom, tracked o
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Stoked&stoned | Seoul |
-| Thu, 24 Sept 2026 | Nué Seoul | Seoul |
 
 ## Recently played
 
+- Nué Seoul, Seoul — Thu, 24 Sept 2026
 - Stoked&stoned, Seoul — Mon, 21 Sept 2026
 - Pistil, Seoul — Sat, 19 Sept 2026
 - Nué Seoul, Seoul — Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ DJ Botermelk is a house and tech house artist based in United Kingdom, tracked o
 - Nué Seoul, Seoul — Fri, 3 Jul 2026
 - Blank Site, Seoul — Fri, 26 Jun 2026
 - Nué Seoul, Seoul — Sat, 2 May 2026
-- Stoked&stoned, Seoul — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 YESL, odix, Shlemba
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*

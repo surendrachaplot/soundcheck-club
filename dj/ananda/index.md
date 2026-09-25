@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
+Ananda (BR) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Sao Paulo on Fri, 25 Sept 2026.
 
 Ananda (BR) is a techno and house artist based in Brazil, tracked on soundcheck, with 54 sets logged across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Victin and Cashu. Next up: TBA, Sao Paulo on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Ananda (BR) is a techno and house artist based in Brazil, tracked on soundcheck,
 
 Kontronatura, Victin, Cashu
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

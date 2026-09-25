@@ -1,6 +1,6 @@
 # Krackk
 
-Krackk is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
+Krackk is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at FOUND, Berlin on Fri, 25 Sept 2026.
 
 Krackk is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Dortmund Essen and Düsseldorf and 8 more. Often billed alongside Robin Tasi, Justin Tinderdate and Mika Heggemann. Next up: FOUND, Berlin on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Krackk is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Robin Tasi, Justin Tinderdate, Mika Heggemann
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*

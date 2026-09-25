@@ -1,6 +1,6 @@
 # Tasheff
 
-Tasheff is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at VERS, New York City on Sat, 3 Oct 2026.
+Tasheff is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at VERS, New York City on Sat, 3 Oct 2026.
 
 Tasheff is a techno and pop artist based in United States of America, tracked on soundcheck, with 21 sets logged across New York City. Often billed alongside porygon k, ALLAN RITUAL and cute boys. Next up: VERS, New York City on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Tasheff is a techno and pop artist based in United States of America, tracked on
 
 porygon k, ALLAN RITUAL, cute boys
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*

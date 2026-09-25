@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 15 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Friday" on Fri, 25 Sept 2026.
+Mastak is a music venue in Warsaw with 15 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Friday" on Fri, 25 Sept 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with line-ups including AilinDeSha*, Alex Kosta, Braincrush and FM (PL) and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with l
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

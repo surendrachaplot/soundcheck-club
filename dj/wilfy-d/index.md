@@ -1,6 +1,6 @@
 # Wilfy D
 
-Wilfy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Refuge, Manchester on Sat, 26 Sept 2026.
+Wilfy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Refuge, Manchester on Sat, 26 Sept 2026.
 
 Wilfy D is a garage and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: The Refuge, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Wilfy D is a garage and house artist based in United Kingdom, tracked on soundch
 
 DJ Stolen, Tommy Gold, Elliot Schooling
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*

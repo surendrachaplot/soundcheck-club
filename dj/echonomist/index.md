@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
+Echonomist is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
 
 Echonomist is a house and techno artist based in Greece, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Filmtheater Sendlinger Tor, Munich on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Echonomist is a house and techno artist based in Greece, tracked on soundcheck, 
 
 Jenia Tarsol, ARODES, Avangart Tabldot
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

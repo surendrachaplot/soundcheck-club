@@ -1,6 +1,6 @@
 # Louise Plus One
 
-Louise Plus One is a Jungle and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
+Louise Plus One is a Jungle and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Spanners, London on Fri, 25 Sept 2026.
 
 Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 6 more. Often billed alongside Hughesee, Equinox (UK) and DJ Azure. Next up: Spanners, London on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Louise Plus One is a jungle and hardcore artist based in United Kingdom, tracked
 
 Hughesee, Equinox (UK), DJ Azure
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louiseplusone/)*

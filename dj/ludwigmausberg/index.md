@@ -1,6 +1,6 @@
 # Ludwig Mausberg
 
-Ludwig Mausberg is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
+Ludwig Mausberg is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
 
 Ludwig Mausberg is a disco and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Munich. Often billed alongside Femdelic, Ada and Antoine Baiser. Next up: MS Stubnitz, Hamburg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ludwig Mausberg is a disco and house artist based in Germany, tracked on soundch
 
 Femdelic, Ada, Antoine Baiser
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigmausberg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigmausberg/)*

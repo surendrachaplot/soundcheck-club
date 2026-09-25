@@ -1,6 +1,6 @@
 # Duwe
 
-Duwe is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
+Duwe is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cascina nascosta, Milan on Sun, 4 Oct 2026.
 
 Duwe is an acid and electronica artist based in Nigeria, tracked on soundcheck, with 11 sets logged across Milan. Often billed alongside Lvca, Lovin Duo and Giale. Next up: Cascina nascosta, Milan on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Duwe is an acid and electronica artist based in Nigeria, tracked on soundcheck, 
 
 Lvca, Lovin Duo, Giale
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*

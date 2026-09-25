@@ -1,14 +1,13 @@
 # Plastician
 
-Plastician is a Dubstep and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Fox and Firkin, London on Thu, 24 Sept 2026.
+Plastician is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
-Plastician is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Auckland, Birmingham, Bristol and Chicago and 16 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Fox and Firkin, London on Thu 24 Sept.
+Plastician is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Auckland, Birmingham, Bristol and Chicago and 16 more. Often billed alongside Skream, Just Jane and Oneman. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Fox and Firkin | London |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Thu, 8 Oct 2026 | The Dolphin | Philadelphia |
@@ -19,6 +18,7 @@ Plastician is a dubstep and bass artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- The Fox and Firkin, London — Thu, 24 Sept 2026
 - Freight Brixton, London — Sat, 22 Aug 2026
 - Phonox, London — Fri, 17 Jul 2026
 - LoHi, New York City — Fri, 15 May 2026
@@ -26,10 +26,9 @@ Plastician is a dubstep and bass artist based in United Kingdom, tracked on soun
 - Hare & Hounds, Birmingham — Sat, 28 Mar 2026
 - Planet Wax, London — Sat, 28 Feb 2026
 - Hidden, Manchester — Fri, 27 Feb 2026
-- Corsica Studios, London — Thu, 26 Feb 2026
 
 ## Shares bills with
 
 Skream, Just Jane, Oneman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

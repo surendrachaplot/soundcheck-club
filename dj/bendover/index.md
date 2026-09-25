@@ -1,6 +1,6 @@
 # Ben Dover
 
-Ben Dover is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Viadukt Bar, Budapest on Fri, 2 Oct 2026.
+Ben Dover is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Viadukt Bar, Budapest on Fri, 2 Oct 2026.
 
 Ben Dover is a techno and house artist based in Hungary, tracked on soundcheck, with 103 sets logged across Antwerp and Budapest. Often billed alongside Nicolaus Made, Murahni and Oxcart. Next up: Viadukt Bar, Budapest on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ben Dover is a techno and house artist based in Hungary, tracked on soundcheck, 
 
 Nicolaus Made, Murahni, Oxcart
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendover/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendover/)*

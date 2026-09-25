@@ -1,6 +1,6 @@
 # Andrea Dare
 
-Andrea Dare is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bike Jesus, Prague on Sat, 17 Oct 2026.
+Andrea Dare is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bike Jesus, Prague on Sat, 17 Oct 2026.
 
 Andrea Dare is an electro and club artist based in Czech Republic, tracked on soundcheck, with 20 sets logged across Prague. Often billed alongside Brigitte Noir, Marie Pravda and Saku. Next up: Bike Jesus, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Andrea Dare is an electro and club artist based in Czech Republic, tracked on so
 
 Brigitte Noir, Marie Pravda, Saku
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadare/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreadare/)*

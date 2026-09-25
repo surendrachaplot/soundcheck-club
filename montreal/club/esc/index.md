@@ -1,14 +1,13 @@
 # ESC
 
-ESC is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Techno Crudo Collective X ESC" on Thu, 24 Sept 2026.
+ESC is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "𝕃𝔸𝕋𝔼𝕏. // 𝕋ℍ𝔼 𝕍𝔼𝕃𝕍𝔼𝕋 ℝ𝕆𝕆𝕄 // 𝕄𝕆ℕ𝕋ℝ𝔼𝔸𝕃" on Sat, 26 Sept 2026.
 
-ESC is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including abel.aiff, BADJUDA, BINKY and Brendocha and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
+ESC is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including abel.aiff, BADJUDA, BINKY and Brendocha and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Techno Crudo Collective X ESC | Char.l.n, Toltech |
 | Sat, 26 Sept 2026 | 𝕃𝔸𝕋𝔼𝕏. // 𝕋ℍ𝔼 𝕍𝔼𝕃𝕍𝔼𝕋 ℝ𝕆𝕆𝕄 // 𝕄𝕆ℕ𝕋ℝ𝔼𝔸𝕃 | CrisseMarqueur, Ekitwanda, Esther Côté, Forello |
 | Thu, 1 Oct 2026 | Tangerine | Pretty Privilege, Tom Marsi, abel.aiff, hÿdra, namanariii |
 | Sat, 3 Oct 2026 | Pikete x Club Bebe (Van): CUERPOS | BADJUDA, BINKY, Brendocha, CUERPOS, DJ Punani, La Niña Kiwi, mCherry |
@@ -20,4 +19,4 @@ ESC is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with lin
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

@@ -1,6 +1,6 @@
 # Andrea Saba
 
-Andrea Saba is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Andrea Saba is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
 Andrea Saba is a house and minimal artist based in Italy, tracked on soundcheck, with 57 sets logged across Berlin, Ibiza, London and Milan and 5 more. Often billed alongside Francesco Maria, Alessandro Addi and GNMR. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Andrea Saba is a house and minimal artist based in Italy, tracked on soundcheck,
 
 Francesco Maria, Alessandro Addi, GNMR
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasaba/)*

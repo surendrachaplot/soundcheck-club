@@ -1,6 +1,6 @@
 # Mia Mai
 
-Mia Mai is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 24 Oct 2026.
+Mia Mai is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 24 Oct 2026.
 
 Mia Mai is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Liverpool and London. Often billed alongside MYOHMY, All Trades and Aly P. Next up: 24 Kitchen Street, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mia Mai is a techno and electronica artist based in United Kingdom, tracked on s
 
 MYOHMY, All Trades, Aly P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamai/)*

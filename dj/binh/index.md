@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
+Binh is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nowadays, New York City on Fri, 25 Sept 2026.
 
 Binh is a techno and house artist based in Germany, tracked on soundcheck, with 206 sets logged across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Nowadays, New York City on Fri 25 Sept.
 
@@ -10,7 +10,7 @@ Binh is a techno and house artist based in Germany, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Nowadays | New York City |
 | Sat, 26 Sept 2026 | Sunday Sunday | Mexico City |
-| Fri, 2 Oct 2026 | TBA | Milan |
+| Fri, 2 Oct 2026 | Studionotte | Milan |
 | Fri, 9 Oct 2026 | Gaffe | London |
 | Sat, 17 Oct 2026 | Concept Haus | Manchester |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -36,4 +36,4 @@ Binh is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

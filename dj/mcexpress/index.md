@@ -1,6 +1,6 @@
 # MC Express
 
-MC Express is a Breakbeat and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+MC Express is a Breakbeat and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 MC Express is a breakbeat and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Billy Daniel Bunter, Slipmatt and Alex P. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -15,4 +15,4 @@ MC Express is a breakbeat and drum & bass artist based in United Kingdom, tracke
 
 Billy Daniel Bunter, Slipmatt, Alex P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcexpress/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcexpress/)*

@@ -1,6 +1,6 @@
 # Adrija
 
-Adrija is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
+Adrija is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kulturlounge, Leipzig on Fri, 25 Sept 2026.
 
 Adrija is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin and Leipzig. Often billed alongside Aio, apøllo and isl&. Next up: Kulturlounge, Leipzig on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Adrija is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Aio, apøllo, isl&
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrija/)*

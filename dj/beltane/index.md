@@ -1,6 +1,6 @@
 # Beltane
 
-Beltane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
+Beltane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Secret Location, London on Sat, 26 Sept 2026.
 
 Beltane is a techno and house artist based in Argentina, tracked on soundcheck, with 7 sets logged across Berlin, Buenos Aires and London. Often billed alongside @ConradoStein, HERS and Lucas Sosa (AR). Next up: Secret Location, London on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Beltane is a techno and house artist based in Argentina, tracked on soundcheck, 
 
 @ConradoStein, HERS, Lucas Sosa (AR)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltane/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltane/)*

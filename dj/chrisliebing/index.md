@@ -1,6 +1,6 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
+Chris Liebing is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Sektor 6D, Warsaw on Fri, 25 Sept 2026.
 
 Chris Liebing is a techno and house artist based in Germany, tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Speedy J, Daria Kolosova and FJAAK. Next up: Sektor 6D, Warsaw on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Chris Liebing is a techno and house artist based in Germany, tracked on soundche
 
 Speedy J, Daria Kolosova, FJAAK
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

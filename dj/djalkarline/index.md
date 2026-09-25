@@ -1,6 +1,6 @@
 # ALKARLINE
 
-ALKARLINE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marmorbar, Berlin on Fri, 25 Sept 2026.
+ALKARLINE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Marmorbar, Berlin on Fri, 25 Sept 2026.
 
 ALKARLINE is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin and Hamburg. Often billed alongside Momo Femi, BBetriebswirt and Revolucien. Next up: Marmorbar, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ALKARLINE is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Momo Femi, BBetriebswirt, Revolucien
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djalkarline/)*

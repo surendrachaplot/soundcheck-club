@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Fvtvr, Paris on Fri, 25 Sept 2026.
+Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Fvtvr, Paris on Fri, 25 Sept 2026.
 
 Lamache is a house and techno artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Fvtvr, Paris on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Lamache is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

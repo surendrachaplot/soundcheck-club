@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at renae, Manchester on Sat, 26 Sept 2026.
+Sybil is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at renae, Manchester on Sat, 26 Sept 2026.
 
 Sybil is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside .VRIL, Kia (AU) and Konduku. Next up: renae, Manchester on Sat 26 Sept.
 
@@ -30,4 +30,4 @@ Sybil is a techno and trance artist based in United Kingdom, tracked on soundche
 
 .VRIL, Kia (AU), Konduku
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

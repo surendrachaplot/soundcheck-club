@@ -1,6 +1,6 @@
 # Lulu (UK)
 
-Lulu (UK) is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
+Lulu (UK) is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Orange Room, London on Sun, 18 Oct 2026.
 
 Lulu (UK) is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across London. Often billed alongside Reeno, Pas2problemes and Tarawar. Next up: Orange Room, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Lulu (UK) is a tech house and garage artist based in United Kingdom, tracked on 
 
 Reeno, Pas2problemes, Tarawar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luluuk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luluuk/)*

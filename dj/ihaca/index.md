@@ -1,6 +1,6 @@
 # IHA (CA)
 
-IHA (CA) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+IHA (CA) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 IHA (CA) is a techno and bass artist based in Philippines, tracked on soundcheck, with 41 sets logged across Amsterdam, Portland, San Francisco/Oakland and Vancouver. Often billed alongside ephemeral objects, Kai Bradley and Atrament. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -13,6 +13,7 @@ IHA (CA) is a techno and bass artist based in Philippines, tracked on soundcheck
 
 ## Recently played
 
+- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - TBA, Vancouver — Fri, 21 Aug 2026
 - TBA, Vancouver — Sat, 18 Jul 2026
 - TBA, Vancouver — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ IHA (CA) is a techno and bass artist based in Philippines, tracked on soundcheck
 - TBA, Vancouver — Fri, 22 May 2026
 - TBA, Vancouver — Sat, 11 Apr 2026
 - TBA, Vancouver — Sat, 28 Mar 2026
-- TBA, Vancouver — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 ephemeral objects, Kai Bradley, Atrament
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihaca/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihaca/)*

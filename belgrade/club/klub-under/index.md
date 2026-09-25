@@ -1,6 +1,6 @@
 # Klub Under
 
-Klub Under is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "APOKOLYPSE96" on Fri, 23 Oct 2026.
+Klub Under is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "APOKOLYPSE96" on Fri, 23 Oct 2026.
 
 Klub Under is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Ruzveltova 1, Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Klub Under is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Br
 
 Ruzveltova 1, Belgrade, Serbia, Belgrade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-under/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-under/)*

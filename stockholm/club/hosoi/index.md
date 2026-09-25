@@ -1,6 +1,6 @@
 # Hosoi
 
-Hosoi is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "25 Years of Cafe 1001 On Tour - Hosoi, Stockholm" on Fri, 9 Oct 2026.
+Hosoi is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "25 Years of Cafe 1001 On Tour - Hosoi, Stockholm" on Fri, 9 Oct 2026.
 
 Hosoi is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including ell.iot. Browse upcoming dates, start times and who's playing. Hallvägen 9, 121 61 Johanneshov.
 
@@ -15,4 +15,4 @@ Hosoi is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with 
 
 Hallvägen 9, 121 61 Johanneshov, Stockholm
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/hosoi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/hosoi/)*

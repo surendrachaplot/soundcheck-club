@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
+Kurilo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
 
 Kurilo is a house and techno artist based in Ukraine, tracked on soundcheck, with 122 sets logged across Berlin, Boston, Detroit and Krakow and 8 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Kaskada, Warsaw on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Kurilo is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

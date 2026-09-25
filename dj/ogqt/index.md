@@ -1,6 +1,6 @@
 # OGQT
 
-OGQT is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Toronto on Fri, 25 Sept 2026.
+OGQT is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Toronto on Fri, 25 Sept 2026.
 
 OGQT is a club and electro artist based in Canada, tracked on soundcheck, with 30 sets logged across Montreal and Toronto. Often billed alongside Ard1n, Litney and HVN. Next up: TBA, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ OGQT is a club and electro artist based in Canada, tracked on soundcheck, with 3
 
 Ard1n, Litney, HVN (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogqt/)*

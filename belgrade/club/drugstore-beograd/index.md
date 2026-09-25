@@ -1,6 +1,6 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "KRШ Season Opener with Rommek & JERM " on Fri, 25 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "KRШ Season Opener with Rommek & JERM " on Fri, 25 Sept 2026.
 
 Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
@@ -21,4 +21,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

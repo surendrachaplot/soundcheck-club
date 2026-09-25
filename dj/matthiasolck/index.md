@@ -1,6 +1,6 @@
 # Matthias Olck
 
-Matthias Olck is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
+Matthias Olck is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Helios37, Cologne on Sat, 26 Sept 2026.
 
 Matthias Olck is a techno and industrial artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Ropemaker, Diode Eins and Kos:mo. Next up: Helios37, Cologne on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Matthias Olck is a techno and industrial artist based in Germany, tracked on sou
 
 Ropemaker, Diode Eins, Kos:mo
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasolck/)*

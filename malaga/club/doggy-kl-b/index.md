@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Doggy & Friends: Rvbbio" on Thu, 24 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Undergroove: Arval invites Certain People" on Fri, 25 Sept 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including Arval, Certain People, Daniel Kelsan and DBlond and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming gigs, with line-ups including Arval, Certain People, Daniel Kelsan and DBlond and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Doggy & Friends: Rvbbio | rubbio |
 | Fri, 25 Sept 2026 | Undergroove: Arval invites Certain People | Arval, Certain People |
 | Sat, 26 Sept 2026 | Doggy Project presents: Sancra | Jorgge Decar, Sancra |
 | Fri, 2 Oct 2026 | Surco 13th Anniversary | DBlond, Daniel Kelsan, Jorgge Decar, Unreal Vibes, rubbio |
@@ -22,4 +21,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, wi
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

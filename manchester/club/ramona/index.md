@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "hazelle All Night Long" on Fri, 2 Oct 2026.
+Ramona is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "hazelle All Night Long" on Fri, 2 Oct 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including DJ POLLY, LIZ-ZIE, LUMIINA and Pearlz and 2 more. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -16,4 +16,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, wit
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

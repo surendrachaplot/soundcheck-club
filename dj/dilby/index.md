@@ -1,6 +1,6 @@
 # Dilby
 
-Dilby is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Dilby is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 Dilby is a deep house and house artist based in New Zealand, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brisbane and Frankfurt and 5 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dilby is a deep house and house artist based in New Zealand, tracked on soundche
 
 Leah Marie, Cris-H, JHNS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*

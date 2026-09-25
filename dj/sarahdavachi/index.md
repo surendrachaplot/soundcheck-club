@@ -1,14 +1,15 @@
 # Sarah Davachi
 
-Sarah Davachi is a Experimental and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at First Unitarian Congregational Society, New York City on Fri, 25 Sept 2026.
+Sarah Davachi is a Experimental and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at First Unitarian Congregational Society, New York City on Fri, 25 Sept 2026.
 
-Sarah Davachi is an experimental and minimal artist based in United States of America, tracked on soundcheck, with 21 sets logged across Athens, Berlin, Hamburg and Krakow and 9 more. Often billed alongside Justin Carter, Kara-Lis Coverdale and Athenaïs. Next up: First Unitarian Congregational Society, New York City on Fri 25 Sept.
+Sarah Davachi is an experimental and minimal artist based in United States of America, tracked on soundcheck, with 22 sets logged across Athens, Berlin, Hamburg and Krakow and 10 more. Often billed alongside Justin Carter, Clarissa Connelly and Dawuna. Next up: First Unitarian Congregational Society, New York City on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | First Unitarian Congregational Society | New York City |
+| Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Thu, 8 Oct 2026 | TBA | Krakow |
 | Thu, 22 Oct 2026 | Gedächtniskirche | Berlin |
 
@@ -25,6 +26,6 @@ Sarah Davachi is an experimental and minimal artist based in United States of Am
 
 ## Shares bills with
 
-Justin Carter, Kara-Lis Coverdale, Athenaïs
+Justin Carter, Clarissa Connelly, Dawuna
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahdavachi/)*

@@ -1,6 +1,6 @@
 # Serial Killaz
 
-Serial Killaz is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Suburbia, South-east on Fri, 25 Sept 2026.
+Serial Killaz is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Suburbia, South-east on Fri, 25 Sept 2026.
 
 Serial Killaz is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Berlin, Birmingham, Bristol and Frankfurt and 13 more. Often billed alongside Deekline, Benny Page and Killa P. Next up: Suburbia, South East on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Serial Killaz is a drum & bass and jungle artist based in United Kingdom, tracke
 
 Deekline, Benny Page, Killa P
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serialkillaz/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serialkillaz/)*

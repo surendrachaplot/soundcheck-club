@@ -1,6 +1,6 @@
 # Hector Rodriguez
 
-Hector Rodriguez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Zeitgeist Coffee, Seattle on Sat, 26 Sept 2026.
+Hector Rodriguez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Zeitgeist Coffee, Seattle on Sat, 26 Sept 2026.
 
 Hector Rodriguez is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Seattle. Often billed alongside Mr. Linden, Copeland and Jon Lee. Next up: TBA - Zeitgeist Coffee, Seattle on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Hector Rodriguez is a house and deep house artist based in United States of Amer
 
 Mr. Linden, Copeland, Jon Lee
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorrodriguez/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorrodriguez/)*

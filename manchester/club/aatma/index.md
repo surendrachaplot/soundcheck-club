@@ -1,6 +1,6 @@
 # Aatma
 
-Aatma is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "[CANCELLED] Techno Sanctuary vol.4" on Sat, 17 Oct 2026.
+Aatma is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "[CANCELLED] Techno Sanctuary vol.4" on Sat, 17 Oct 2026.
 
 Aatma is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Kazek and RaFFski. Browse upcoming dates, start times and who's playing. 1st Floor, 14-16 Faraday St, Manchester M1 1BE.
 
@@ -14,4 +14,4 @@ Aatma is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with 
 
 1st Floor, 14-16 Faraday St, Manchester M1 1BE, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*

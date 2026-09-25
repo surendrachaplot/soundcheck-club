@@ -1,6 +1,6 @@
 # Hexxe
 
-Hexxe is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 33/45 Club, Valencia on Sat, 3 Oct 2026.
+Hexxe is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 33/45 Club, Valencia on Sat, 3 Oct 2026.
 
 Hexxe is a techno and electronica artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Hanten, Xé and Dj badtrip. Next up: 33/45 Club, Valencia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Hexxe is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Hanten, Xé (1), Dj badtrip
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hexxe/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hexxe/)*

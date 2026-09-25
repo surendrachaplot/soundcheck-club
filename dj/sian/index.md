@@ -1,6 +1,6 @@
 # Sian
 
-Sian is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Radius, Chicago on Sat, 3 Oct 2026.
+Sian is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Radius, Chicago on Sat, 3 Oct 2026.
 
 Sian is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Bangkok, Chicago, Denver and Detroit and 3 more. Often billed alongside Eulalia, VILENA and xtelma. Next up: Radius, Chicago on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sian is a techno and progressive house artist based in United States of America,
 
 Eulalia, VILENA, xtelma
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sian/)*

@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Gio.Wav, Bagza + Louis Dominic" on Fri, 25 Sept 2026.
+komunal is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Gio.Wav, Bagza + Louis Dominic" on Fri, 25 Sept 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, with line-ups including GMDS. Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -19,4 +19,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

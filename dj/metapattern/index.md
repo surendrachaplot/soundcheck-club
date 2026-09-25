@@ -1,6 +1,6 @@
 # Metapattern
 
-Metapattern is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Bassement, Madrid on Sat, 26 Sept 2026.
+Metapattern is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Bassement, Madrid on Sat, 26 Sept 2026.
 
 Metapattern is a techno and tech house artist based in Australia, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brisbane and Madrid and 4 more. Often billed alongside Fergus Sweetland, 8-AN and ALIS.. Next up: The Bassement, Madrid on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Metapattern is a techno and tech house artist based in Australia, tracked on sou
 
 Fergus Sweetland, 8-AN, ALIS.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metapattern/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metapattern/)*

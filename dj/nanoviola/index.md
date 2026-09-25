@@ -1,6 +1,6 @@
 # Nanoviola
 
-Nanoviola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+Nanoviola is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 Nanoviola is a techno and hardcore artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Alchemiah, CH4YN and Epicx. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nanoviola is a techno and hardcore artist based in Germany, tracked on soundchec
 
 Alchemiah, CH4YN, Epicx
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoviola/)*

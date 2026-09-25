@@ -1,6 +1,6 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Versalles 64, Mexico City on Sat, 26 Sept 2026.
+MASCHA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Versalles 64, Mexico City on Sat, 26 Sept 2026.
 
 MASCHA is a techno and house artist based in Germany, tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Black Mirror Park, Ursula Prawn and Crille & Tamalt. Next up: Versalles 64, Mexico City on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ MASCHA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Black Mirror Park, Ursula Prawn, Crille & Tamalt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*

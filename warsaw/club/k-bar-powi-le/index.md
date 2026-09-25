@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "𝐕𝐀𝐑𝐒𝐎𝐕𝐈𝐀 𝐓𝐑𝐎𝐏𝐈𝐂𝐀𝐋 - LabTropCrew presenta 𝐆𝐄𝐍𝐎𝐒𝐈𝐃𝐑𝐀 (col) - y amigxs" on Fri, 25 Sept 2026.
+K-Bar Powiśle is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "𝐕𝐀𝐑𝐒𝐎𝐕𝐈𝐀 𝐓𝐑𝐎𝐏𝐈𝐂𝐀𝐋 - LabTropCrew presenta 𝐆𝐄𝐍𝐎𝐒𝐈𝐃𝐑𝐀 (col) - y amigxs" on Fri, 25 Sept 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Abrew, Adobo (PL), anymati and Cosaco and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -17,4 +17,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs,
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

@@ -1,6 +1,6 @@
 # Rozevelt
 
-Rozevelt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Rozevelt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
 Rozevelt is a house and techno artist based in Belgium, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Rick Baguette, r.omy and Ilias. Next up: UMI, Brussels on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rozevelt is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 Rick Baguette, r.omy, Ilias
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozevelt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozevelt/)*

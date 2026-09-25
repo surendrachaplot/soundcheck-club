@@ -1,6 +1,6 @@
 # Özten
 
-Özten is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
+Özten is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Kiosk N1C, London on Wed, 30 Sept 2026.
 
 Özten is a house and garage artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Marco (UK), Adela and Chedda Bred. Next up: Kiosk N1C, London on Wed 30 Sept.
 
@@ -26,4 +26,4 @@
 
 Marco (UK), Adela, Chedda Bred
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*

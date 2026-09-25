@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
+Meg Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Clayshed, Newcastle on Sat, 26 Sept 2026.
 
 Meg Ward is a house and techno artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Brighton, Bristol, Edinburgh and Ibiza and 5 more. Often billed alongside Harry Gay, Junior Simba and Bklava. Next up: The Clayshed, Newcastle on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Meg Ward is a house and techno artist based in United Kingdom, tracked on soundc
 
 Harry Gay, Junior Simba, Bklava
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

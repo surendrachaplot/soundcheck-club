@@ -1,6 +1,6 @@
 # Jeku
 
-Jeku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Jeku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
 Jeku is a techno and house artist based in Finland, tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Chicago and Copenhagen and 11 more. Often billed alongside emkay (FI), Denzel and DJ JVS. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jeku is a techno and house artist based in Finland, tracked on soundcheck, with 
 
 emkay (FI), Denzel, DJ JVS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*

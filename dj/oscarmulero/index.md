@@ -1,6 +1,6 @@
 # Oscar Mulero
 
-Oscar Mulero is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Oscar Mulero is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Oscar Mulero is a techno and house artist based in Spain, tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Ben Sims, Adriana Lopez and DVS1. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ Oscar Mulero is a techno and house artist based in Spain, tracked on soundcheck,
 
 Ben Sims, Adriana Lopez, DVS1
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmulero/)*

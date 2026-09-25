@@ -1,6 +1,6 @@
 # Provitreff
 
-Provitreff is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Peace Beats: Beyond Borders" on Fri, 25 Sept 2026.
+Provitreff is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Peace Beats: Beyond Borders" on Fri, 25 Sept 2026.
 
 Provitreff is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Atlas and L-AUX. Browse upcoming dates, start times and who's playing. Sihlquai 240, 8005 Zürich.
 
@@ -15,4 +15,4 @@ Provitreff is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, wit
 
 Sihlquai 240, 8005 Zürich, Zurich
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/provitreff/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/provitreff/)*

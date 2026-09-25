@@ -1,15 +1,13 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at MAX Watts, Melbourne on Thu, 24 Sept 2026.
+bradeazy is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
 
-bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: MAX Watts, Melbourne on Thu 24 Sept.
+bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | MAX Watts | Melbourne |
-| Thu, 24 Sept 2026 | Max Watt's | Melbourne |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 26 Sept 2026 | The Beaumont Brisbane | Brisbane |
@@ -20,17 +18,17 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 ## Recently played
 
+- MAX Watts, Melbourne — Thu, 24 Sept 2026
+- Max Watt's, Melbourne — Thu, 24 Sept 2026
 - Bauhaus, Houston — Sat, 12 Sept 2026
 - Kingdom Nightclub, Austin — Fri, 11 Sept 2026
 - The Midway, San Francisco/Oakland — Sat, 29 Aug 2026
 - Future Nightlife, Toronto — Fri, 14 Aug 2026
 - Future Nightlife, Toronto — Fri, 14 Aug 2026
 - Flash, Washington DC — Sat, 1 Aug 2026
-- Grant Park, Chicago — Fri, 31 Jul 2026
-- Edge, New York City — Thu, 16 Jul 2026
 
 ## Shares bills with
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Stinny Stone" on Fri, 25 Sept 2026.
+The Comfort Zone is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Stinny Stone" on Fri, 25 Sept 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Carlo Lio, Cobb Douglas, DURDENHAUER and Gene Farris and 2 more. Browse upcoming dates, start times and who's playing. 1369 Queen St. West.
 
@@ -21,4 +21,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 1369 Queen St. West, Toronto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

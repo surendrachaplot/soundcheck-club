@@ -1,6 +1,6 @@
 # SULKFORM
 
-SULKFORM is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Somewhere Special, Los Angeles on Thu, 15 Oct 2026.
+SULKFORM is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Somewhere Special, Los Angeles on Thu, 15 Oct 2026.
 
 SULKFORM is a techno and ebm artist tracked on soundcheck, with 11 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside JADE (US), Paparazzi and Acid Gymnastics. Next up: Somewhere Special, Los Angeles on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ SULKFORM is a techno and ebm artist tracked on soundcheck, with 11 sets logged a
 
 JADE (US), Paparazzi, Acid Gymnastics
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkform/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sulkform/)*

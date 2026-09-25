@@ -1,6 +1,6 @@
 # MoMeWi
 
-MoMeWi is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
+MoMeWi is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
 
 MoMeWi is a disco and house artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Amsterdam. Often billed alongside Han Litz, Kid Sublime and OriaBela. Next up: Black Gold, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MoMeWi is a disco and house artist based in Switzerland, tracked on soundcheck, 
 
 Han Litz, Kid Sublime, OriaBela
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momewi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/momewi/)*

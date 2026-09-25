@@ -1,6 +1,6 @@
 # starfari
 
-starfari is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sun, 27 Sept 2026.
+starfari is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 starfari is a house and disco artist based in United States of America, tracked on soundcheck, with 39 sets logged across Los Angeles, Paris, San Francisco/Oakland and Seattle. Often billed alongside DJ M3, &ndmore and DJ PlayStation. Next up: The Great Northern, San Francisco/Oakland on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ starfari is a house and disco artist based in United States of America, tracked 
 
 DJ M3, &ndmore, DJ PlayStation
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/starfari/)*

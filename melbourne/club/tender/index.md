@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "Tribqu pres. Pugilist, Elsie & Zjoso" on Sat, 26 Sept 2026.
+Tender is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "Tribqu pres. Pugilist, Elsie & Zjoso" on Sat, 26 Sept 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Elsie, Pugilist and Zjoso. Browse upcoming dates, start times and who's playing. 535 Sydney Road.
 
@@ -14,4 +14,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with 
 
 535 Sydney Road, Melbourne
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

@@ -1,6 +1,6 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Plaza Camden, London on Sat, 10 Oct 2026.
+Aline Umber is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Plaza Camden, London on Sat, 10 Oct 2026.
 
 Aline Umber is a house and minimal artist based in France, tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Plaza Camden, London on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Aline Umber is a house and minimal artist based in France, tracked on soundcheck
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

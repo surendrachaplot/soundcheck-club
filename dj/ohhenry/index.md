@@ -1,6 +1,6 @@
 # Oh Henry
 
-Oh Henry is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Fri, 16 Oct 2026.
+Oh Henry is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Unit 58, London on Fri, 16 Oct 2026.
 
 Oh Henry is an electronica and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Alex Rebel, Ariane V and Bradley Skeng. Next up: Unit 58, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Oh Henry is an electronica and acid artist based in United Kingdom, tracked on s
 
 Alex Rebel, Ariane V, Bradley Skeng
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohhenry/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohhenry/)*

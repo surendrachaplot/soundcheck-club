@@ -1,6 +1,6 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Bob Moses is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
 Bob Moses is a house and deep house artist based in Canada, tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Barcelona and Budapest and 20 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Bob Moses is a house and deep house artist based in Canada, tracked on soundchec
 
 Ben Böhmer, Boys Noize, Claptone
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmoses/)*

@@ -1,6 +1,6 @@
 # -CZAR
 
--CZAR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Warehouse, San Diego on Fri, 30 Oct 2026.
+-CZAR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Secret Warehouse, San Diego on Fri, 30 Oct 2026.
 
 -CZAR is a techno and industrial artist based in United States of America, tracked on soundcheck, with 13 sets logged across Los Angeles, New York City and San Diego. Often billed alongside Cyberia Lain, Aundreja and Casska. Next up: TBA - Secret Warehouse, San Diego on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 Cyberia Lain, Aundreja, Casska
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-czar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-czar/)*

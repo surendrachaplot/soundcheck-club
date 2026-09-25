@@ -1,6 +1,6 @@
 # Haste
 
-Haste is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Four Quarters, London on Fri, 2 Oct 2026.
+Haste is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Four Quarters, London on Fri, 2 Oct 2026.
 
 Haste is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, London, Newcastle and Sydney. Often billed alongside Alley Cat, Ben Repertoire and Dwarde. Next up: Four Quarters, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Haste is a jungle and drum & bass artist based in United Kingdom, tracked on sou
 
 Alley Cat, Ben Repertoire, Dwarde
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haste/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haste/)*

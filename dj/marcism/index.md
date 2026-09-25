@@ -1,6 +1,6 @@
 # MARCISM
 
-MARCISM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Alte Kaserne, Zurich on Fri, 25 Sept 2026.
+MARCISM is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Alte Kaserne, Zurich on Fri, 25 Sept 2026.
 
 MARCISM is a techno and house artist based in Switzerland, tracked on soundcheck, with 85 sets logged across Amsterdam, Bangkok, Basel and Berlin and 9 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Alte Kaserne, Zurich on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ MARCISM is a techno and house artist based in Switzerland, tracked on soundcheck
 
 kso12, Megix, Andy Katz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*

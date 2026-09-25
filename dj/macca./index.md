@@ -1,6 +1,6 @@
 # Macca.
 
-Macca. is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
+Macca. is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
 Macca. is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Dublin, Edinburgh, Ibiza and Leeds and 6 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Macca. is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Sofie K, Secretsundaze, Cosmo Sofi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*

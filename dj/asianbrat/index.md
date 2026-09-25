@@ -1,18 +1,18 @@
 # ASIAN BRAT
 
-ASIAN BRAT is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Soup, Manchester on Thu, 24 Sept 2026.
+ASIAN BRAT is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
-ASIAN BRAT is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Betsy Mae, Sexy Lady Massive and SIMMS. Next up: Soup, Manchester on Thu 24 Sept.
+ASIAN BRAT is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Betsy Mae, Sexy Lady Massive and SIMMS. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Soup | Manchester |
 | Fri, 25 Sept 2026 | The Jazz Cafe | London |
 
 ## Recently played
 
+- Soup, Manchester — Thu, 24 Sept 2026
 - The Trinity Centre, Bristol — Sat, 19 Sept 2026
 - Else, Berlin — Sun, 16 Aug 2026
 - TBA - SECRET HACKNEY LOCATION, London — Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ ASIAN BRAT is a garage and jungle artist based in United Kingdom, tracked on sou
 - Cu, London — Sat, 21 Feb 2026
 - Depot Mayfield, Manchester — Sat, 15 Nov 2025
 - Dead Wax Social, Brighton — Fri, 31 Oct 2025
-- Hootananny Brixton, London — Thu, 17 Jul 2025
 
 ## Shares bills with
 
 Betsy Mae, Sexy Lady Massive, SIMMS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asianbrat/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asianbrat/)*

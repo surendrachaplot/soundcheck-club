@@ -1,6 +1,6 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 5 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 5 Oct 2026.
 
 Matt Sassari is a techno and tech house artist based in France, tracked on soundcheck, with 72 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: Ushuaïa Ibiza, Ibiza on Mon 5 Oct.
 
@@ -28,4 +28,4 @@ Matt Sassari is a techno and tech house artist based in France, tracked on sound
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

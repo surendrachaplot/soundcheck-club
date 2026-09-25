@@ -1,6 +1,6 @@
 # Mehill
 
-Mehill is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at M.N.Roy, Mexico City on Fri, 25 Sept 2026.
+Mehill is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at M.N.Roy, Mexico City on Fri, 25 Sept 2026.
 
 Mehill is a techno and progressive house artist based in Mexico, tracked on soundcheck, with 29 sets logged across Barcelona, Malaga and Mexico City. Often billed alongside Alerch, Aera and Köves. Next up: M.N.Roy, Mexico City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mehill is a techno and progressive house artist based in Mexico, tracked on soun
 
 Alerch, Aera, Köves
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mehill/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mehill/)*

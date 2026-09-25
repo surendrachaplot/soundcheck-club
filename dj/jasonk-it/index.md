@@ -1,6 +1,6 @@
 # Jason K (IT)
 
-Jason K (IT) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bluesquare, Milan on Fri, 25 Sept 2026.
+Jason K (IT) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bluesquare, Milan on Fri, 25 Sept 2026.
 
 Jason K (IT) is a house and disco artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Ibiza and Istanbul and 6 more. Often billed alongside Kapote, Fusco Stefano and Antonio Aiello. Next up: Bluesquare, Milan on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jason K (IT) is a house and disco artist tracked on soundcheck, with 76 sets log
 
 Kapote, Fusco Stefano, Antonio Aiello
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*

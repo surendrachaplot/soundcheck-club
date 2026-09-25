@@ -1,6 +1,6 @@
 # SCARBA
 
-SCARBA is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Queen Adelaide, London on Sat, 31 Oct 2026.
+SCARBA is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Queen Adelaide, London on Sat, 31 Oct 2026.
 
 SCARBA is a techno and baile funk artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Brighton, London and Newcastle. Often billed alongside Nick Clev, Sam Beach and CHEZA LUCINA. Next up: The Queen Adelaide, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SCARBA is a techno and baile funk artist based in United Kingdom, tracked on sou
 
 Nick Clev, Sam Beach, CHEZA LUCINA
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarba/)*

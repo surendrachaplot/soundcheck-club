@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
+ThanksMate is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Teatro Bellini, Naples on Fri, 25 Sept 2026.
 
 ThanksMate is a house and disco artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, London, Milan and Naples and 2 more. Often billed alongside Obbi, Curcio and Mugman. Next up: Teatro Bellini, Naples on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ ThanksMate is a house and disco artist based in United Kingdom, tracked on sound
 
 Obbi, Curcio, Mugman
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

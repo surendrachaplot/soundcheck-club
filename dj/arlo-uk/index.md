@@ -1,6 +1,6 @@
 # ARLO (UK)
 
-ARLO (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+ARLO (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 ARLO (UK) is an electronic artist tracked on soundcheck, with 6 sets logged across Bristol, Los Angeles and Washington DC. Often billed alongside Milly on Air, Alesso and Archie Hamilton. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ ARLO (UK) is an electronic artist tracked on soundcheck, with 6 sets logged acro
 
 Milly on Air, Alesso, Archie Hamilton
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo-uk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arlo-uk/)*

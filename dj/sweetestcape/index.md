@@ -1,6 +1,6 @@
 # sweetestcape
 
-sweetestcape is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
+sweetestcape is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Unit 58, London on Fri, 25 Sept 2026.
 
 sweetestcape is a house and experimental artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Unit 58, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ sweetestcape is a house and experimental artist based in United Kingdom, tracked
 
 Amphia, THEMPRESS, ASHTREY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

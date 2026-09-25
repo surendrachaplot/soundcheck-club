@@ -1,6 +1,6 @@
 # Stacie Fields
 
-Stacie Fields is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 93 Feet East, London on Sun, 8 Nov 2026.
+Stacie Fields is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 93 Feet East, London on Sun, 8 Nov 2026.
 
 Stacie Fields is a house and tech house artist based in Australia, tracked on soundcheck, with 26 sets logged across Ibiza, London, Melbourne and Sydney and 1 more. Often billed alongside Ben Horton, Bella Backe and Caleb Jackson. Next up: 93 Feet East, London on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Stacie Fields is a house and tech house artist based in Australia, tracked on so
 
 Ben Horton, Bella Backe, Caleb Jackson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*

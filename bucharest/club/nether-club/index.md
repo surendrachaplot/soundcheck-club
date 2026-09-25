@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "BLXXDNOISE" on Sat, 26 Sept 2026.
+Nether Club is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "BLXXDNOISE" on Sat, 26 Sept 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including AMEDEUS, Amnesico, CAT GROOVE and KATHERYNE and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -17,4 +17,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

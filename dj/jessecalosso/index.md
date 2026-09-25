@@ -1,6 +1,6 @@
 # Jesse Calosso
 
-Jesse Calosso is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at ARTSPACE, New York City on Sat, 26 Sept 2026.
+Jesse Calosso is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at ARTSPACE, New York City on Sat, 26 Sept 2026.
 
 Jesse Calosso is a tech house and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 15 more. Often billed alongside Jean Pierre, The Martinez Brothers and AJ Christou. Next up: ARTSPACE, New York City on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Jesse Calosso is a tech house and house artist based in United States of America
 
 Jean Pierre, The Martinez Brothers, AJ Christou
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessecalosso/)*

@@ -1,6 +1,6 @@
 # Miss Kleio
 
-Miss Kleio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Standard Time, Toronto on Fri, 30 Oct 2026.
+Miss Kleio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Standard Time, Toronto on Fri, 30 Oct 2026.
 
 Miss Kleio is a techno and house artist based in Canada, tracked on soundcheck, with 73 sets logged across Toronto. Often billed alongside Zola (TRM), Jackie Spade and Kika. Next up: Standard Time, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Miss Kleio is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Zola (TRM), Jackie Spade, Kika (4)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskleio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskleio/)*

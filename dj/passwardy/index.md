@@ -1,6 +1,6 @@
 # Passwardy
 
-Passwardy is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Porto on Fri, 25 Sept 2026.
+Passwardy is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Porto on Fri, 25 Sept 2026.
 
 Passwardy is an experimental and ambient artist tracked on soundcheck, with 14 sets logged across Brussels, Istanbul, Leeds and Lisbon and 6 more. Often billed alongside DJ Gostoso, Gostoso and Naima. Next up: TBA, Porto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Passwardy is an experimental and ambient artist tracked on soundcheck, with 14 s
 
 DJ Gostoso, Gostoso, Naima
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*

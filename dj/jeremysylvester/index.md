@@ -1,14 +1,13 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Jam Jar, Bristol on Thu, 24 Sept 2026.
+Jeremy Sylvester is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
-Jeremy Sylvester is a garage and house artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 20 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: The Jam Jar, Bristol on Thu 24 Sept.
+Jeremy Sylvester is a garage and house artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 20 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | The Jam Jar | Bristol |
 | Sat, 10 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
 | Sat, 28 Nov 2026 | Port of Leith Distillery | Edinburgh |
@@ -16,6 +15,7 @@ Jeremy Sylvester is a garage and house artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- The Jam Jar, Bristol — Thu, 24 Sept 2026
 - Night Tales Loft, London — Sat, 12 Sept 2026
 - Freight Island, Manchester — Sun, 6 Sept 2026
 - The Drop inn, Birmingham — Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ Jeremy Sylvester is a garage and house artist based in United Kingdom, tracked o
 - Starlane Pizza Bar, London — Sat, 8 Aug 2026
 - Gaffe, London — Sat, 18 Jul 2026
 - Document, Bristol — Sat, 11 Jul 2026
-- Freight Brixton, London — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

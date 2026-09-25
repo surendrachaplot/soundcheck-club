@@ -1,6 +1,6 @@
 # Monster
 
-Monster is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at B-SIDE, Warsaw on Fri, 25 Sept 2026.
+Monster is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at B-SIDE, Warsaw on Fri, 25 Sept 2026.
 
 Monster is a techno and trance artist based in Poland, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside DiV4, Happy New Tears and LCN. Next up: B-SIDE, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Monster is a techno and trance artist based in Poland, tracked on soundcheck, wi
 
 DiV4, Happy New Tears, LCN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*

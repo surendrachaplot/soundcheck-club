@@ -1,6 +1,6 @@
 # Ajja
 
-Ajja is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 10 Oct 2026.
+Ajja is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 10 Oct 2026.
 
 Ajja is a psytrance and trance artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Athens, Basel, Geneva and Lisbon and 3 more. Often billed alongside AVALON, Act of Rage and Berg. Next up: Bolivar Beach Bar, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Ajja is a psytrance and trance artist based in Switzerland, tracked on soundchec
 
 AVALON, Act of Rage, Berg
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajja/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajja/)*

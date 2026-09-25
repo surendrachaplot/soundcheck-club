@@ -1,6 +1,6 @@
 # Ian Finkelstein
 
-Ian Finkelstein is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
+Ian Finkelstein is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
 Ian Finkelstein is a jazz and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Detroit and New York City. Often billed alongside Andrés, Shigeto and Salar Ansari. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ian Finkelstein is a jazz and house artist based in United States of America, tr
 
 Andrés, Shigeto, Salar Ansari
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfinkelstein/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfinkelstein/)*

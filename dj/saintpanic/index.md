@@ -1,6 +1,6 @@
 # S'aint Panic
 
-S'aint Panic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+S'aint Panic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 S'aint Panic is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Detroit, New York City and San Francisco/Oakland. Often billed alongside Alissa Brianna, Will Automagic and Nita Aviance. Next up: Honey's, New York City on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ S'aint Panic is a house and techno artist based in United States of America, tra
 
 Alissa Brianna, Will Automagic, Nita Aviance
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpanic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpanic/)*

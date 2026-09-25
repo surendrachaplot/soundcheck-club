@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 28 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Smolna: EARGASM GOD Invites" on Fri, 25 Sept 2026.
+Smolna is a music venue in Warsaw with 28 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Smolna: EARGASM GOD Invites" on Fri, 25 Sept 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with line-ups including Alinka, Âme, Ane and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 28 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

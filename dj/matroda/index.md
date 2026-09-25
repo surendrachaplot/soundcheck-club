@@ -1,6 +1,6 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Matroda is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Matroda is a house and tech house artist tracked on soundcheck, with 78 sets logged across Austin, Basel, Berlin and Boston and 20 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Matroda is a house and tech house artist tracked on soundcheck, with 78 sets log
 
 J. Worra, Mary Droppinz, Max Styler
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

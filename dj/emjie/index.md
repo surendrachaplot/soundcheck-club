@@ -1,6 +1,6 @@
 # EMJIE
 
-EMJIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Silencio, Paris on Sat, 26 Sept 2026.
+EMJIE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Silencio, Paris on Sat, 26 Sept 2026.
 
 EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Silencio, Paris on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ EMJIE is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 Nico Morano, Belben, LP Giobbi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*

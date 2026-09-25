@@ -1,6 +1,6 @@
 # CATRONICA
 
-CATRONICA is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Royal Lounge, Tokyo on Sun, 27 Sept 2026.
+CATRONICA is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Royal Lounge, Tokyo on Sun, 27 Sept 2026.
 
 CATRONICA is a psytrance and techno artist based in Japan, tracked on soundcheck, with 43 sets logged across Tokyo. Often billed alongside BEPPU, Kodai and Niko Silencio. Next up: Royal Lounge, Tokyo on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ CATRONICA is a psytrance and techno artist based in Japan, tracked on soundcheck
 
 BEPPU, Kodai, Niko Silencio
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*

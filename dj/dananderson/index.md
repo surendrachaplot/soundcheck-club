@@ -1,6 +1,6 @@
 # Dan Anderson
 
-Dan Anderson is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
+Dan Anderson is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Cause, London on Sat, 31 Oct 2026.
 
 Dan Anderson is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Curby, IZZY (UK) and Mitch Barclay. Next up: The Cause, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Dan Anderson is a techno and tech house artist based in United Kingdom, tracked 
 
 Curby, IZZY (UK), Mitch Barclay
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dananderson/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dananderson/)*

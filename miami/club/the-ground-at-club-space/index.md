@@ -1,8 +1,8 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Autonomy: SHERELLE, Bok Bok, & Introspekt" on Fri, 25 Sept 2026.
+The Ground at Club Space is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Autonomy: SHERELLE, Bok Bok, & Introspekt" on Fri, 25 Sept 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
@@ -15,12 +15,12 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upco
 | Sat, 17 Oct 2026 | Satellite: HAAi, Jacques Greene, & DJ Fuckoff | DJ Fuckoff, HAAi, Jacques Greene |
 | Sun, 18 Oct 2026 | Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More | 1tbsp, Safety Trance |
 | Fri, 23 Oct 2026 | BABY J | 1-800-Lolita, Baby J (2), Berrakka, SUCIA! |
+| Sat, 24 Oct 2026 | BLACK ROOM: Kander | CÛLTÛS VÎS, Dadrev, DomnRob, Kander |
 | Fri, 30 Oct 2026 | Halloweek: Emo Nite |  |
 | Sat, 31 Oct 2026 | PERREO DEL FUTURO Halloween | Anunaku, MARACUYá, Manuka Honey, Mr. Bitch, SATURNSARii, TSVI, yung_womb |
-| Fri, 6 Nov 2026 | Paige Tomlinson + LAMMER + STÜM | ALEJO (US), LAMMER, Paige Tomlinson, STÜM |
 
 ## Address
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

@@ -1,6 +1,6 @@
 # camukg
 
-camukg is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+camukg is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
 camukg is a garage and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Leeds, London and Southampton. Often billed alongside whoswill, B-HIND and Jae Depz. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ camukg is a garage and house artist based in United Kingdom, tracked on soundche
 
 whoswill, B-HIND, Jae Depz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*

@@ -1,6 +1,6 @@
 # Ruf Dug
 
-Ruf Dug is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 26 Sept 2026.
+Ruf Dug is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hang Dai Chinese, Dublin on Sat, 26 Sept 2026.
 
 Ruf Dug is a house and disco artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Bristol, Chicago and Dublin and 14 more. Often billed alongside Tia Cousins, AdomasLP and MEMP3. Next up: Hang Dai Chinese, Dublin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ruf Dug is a house and disco artist based in United Kingdom, tracked on soundche
 
 Tia Cousins, AdomasLP, MEMP3
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*

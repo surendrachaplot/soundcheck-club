@@ -1,6 +1,6 @@
 # MUNÉO
 
-MUNÉO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+MUNÉO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 MUNÉO is a techno and electronica artist tracked on soundcheck, with 142 sets logged across Bangkok, Melbourne, Osaka and Seattle and 2 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MUNÉO is a techno and electronica artist tracked on soundcheck, with 142 sets l
 
 RUKE, INAE, MELEETIME
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muneo/)*

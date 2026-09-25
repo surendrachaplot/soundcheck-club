@@ -1,6 +1,6 @@
 # DNA. HOUSE
 
-DNA. HOUSE is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "House Of Shameless - FREE Day Community Treffen - Market & Workshops" on Sat, 3 Oct 2026.
+DNA. HOUSE is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "House Of Shameless - FREE Day Community Treffen - Market & Workshops" on Sat, 3 Oct 2026.
 
 DNA. HOUSE is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including kutscher, MISSMELODY, PyjamaMama and Westside Bass. Browse upcoming dates, start times and who's playing. Wrangelstraße 25, 10997 Berlin, Germany.
 
@@ -14,4 +14,4 @@ DNA. HOUSE is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with
 
 Wrangelstraße 25, 10997 Berlin, Germany, Berlin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-house/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-house/)*

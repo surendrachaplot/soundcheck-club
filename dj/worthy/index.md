@@ -1,6 +1,6 @@
 # Mz Worthy
 
-Mz Worthy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Meow Wolf Denver, Denver on Sat, 24 Oct 2026.
+Mz Worthy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Meow Wolf Denver, Denver on Sat, 24 Oct 2026.
 
 Mz Worthy is a house and tech house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Denver, Los Angeles, Miami and New York City and 2 more. Often billed alongside Ardalan, Baby Weight and n808. Next up: Meow Wolf Denver, Denver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mz Worthy is a house and tech house artist based in United States of America, tr
 
 Ardalan, Baby Weight, n808
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worthy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worthy/)*

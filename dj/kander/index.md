@@ -1,8 +1,8 @@
 # Kander
 
-Kander is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Kander is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Kander is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Kander is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kander is a techno and trance artist based in United Kingdom, tracked on soundch
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 24 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 13 Nov 2026 | E1 | London |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
@@ -31,4 +32,4 @@ Kander is a techno and trance artist based in United Kingdom, tracked on soundch
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

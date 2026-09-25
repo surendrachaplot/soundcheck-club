@@ -1,6 +1,6 @@
 # GGGG
 
-GGGG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Ministerium Club, Lisbon on Fri, 25 Sept 2026.
+GGGG is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Ministerium Club, Lisbon on Fri, 25 Sept 2026.
 
 GGGG is a house and techno artist based in France, tracked on soundcheck, with 21 sets logged across Brussels, Geneva, Lisbon and Paris. Often billed alongside Flabaire, Mad Rey and Mézigue. Next up: Ministerium Club, Lisbon on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ GGGG is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Flabaire, Mad Rey, Mézigue
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*

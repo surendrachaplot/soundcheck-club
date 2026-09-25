@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
+Francesco Del Garda is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Mint XL, Leeds on Fri, 25 Sept 2026.
 
 Francesco Del Garda is a house and techno artist based in Italy, tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Mint XL, Leeds on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ Francesco Del Garda is a house and techno artist based in Italy, tracked on soun
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

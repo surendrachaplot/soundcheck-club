@@ -1,6 +1,6 @@
 # Ragel Mood
 
-Ragel Mood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Brasserie de la Senne, Brussels on Sat, 26 Sept 2026.
+Ragel Mood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Brasserie de la Senne, Brussels on Sat, 26 Sept 2026.
 
 Ragel Mood is a techno and house artist tracked on soundcheck, with 16 sets logged across Brussels, Ghent and Madrid. Often billed alongside Farfetchd, Joris and Reagan Mian. Next up: Brasserie de la Senne, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ragel Mood is a techno and house artist tracked on soundcheck, with 16 sets logg
 
 Farfetchd, Joris, Reagan Mian
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ragelmood/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ragelmood/)*

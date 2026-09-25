@@ -1,6 +1,6 @@
 # Konstantin Sibold
 
-Konstantin Sibold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 26 Sept 2026.
+Konstantin Sibold is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Bolivar Beach Bar, Athens on Sat, 26 Sept 2026.
 
 Konstantin Sibold is a techno and house artist based in Germany, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Kevin de Vries, 8KAYS and Stephan Bodzin. Next up: Bolivar Beach Bar, Athens on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Konstantin Sibold is a techno and house artist based in Germany, tracked on soun
 
 Kevin de Vries, 8KAYS, Stephan Bodzin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*

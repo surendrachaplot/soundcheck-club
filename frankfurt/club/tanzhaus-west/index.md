@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Hard Bock DRAUF 10Y Pt. II" on Fri, 25 Sept 2026.
+Tanzhaus West is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Hard Bock DRAUF 10Y Pt. II" on Fri, 25 Sept 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including AMBAM, CiKi, Danjo and DeGuzman and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -21,4 +21,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 8 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

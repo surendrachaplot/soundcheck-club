@@ -1,6 +1,6 @@
 # Jlin
 
-Jlin is a Experimental and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cité De La Musique, Paris on Tue, 3 Nov 2026.
+Jlin is a Experimental and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cité De La Musique, Paris on Tue, 3 Nov 2026.
 
 Jlin is an experimental and footwork artist based in United States of America, tracked on soundcheck, with 28 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Batu, HiTech and Mia Koden. Next up: Cité De La Musique, Paris on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Jlin is an experimental and footwork artist based in United States of America, t
 
 Batu, HiTech, Mia Koden
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlin/)*

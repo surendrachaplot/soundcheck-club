@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 18 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "[CANCELLED] PULSE with SPFDJ" on Fri, 25 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 18 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "[CANCELLED] PULSE with SPFDJ" on Fri, 25 Sept 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming gigs, with line-ups including FLIPSIDE., YVI, Bryan Gee and Brynk and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

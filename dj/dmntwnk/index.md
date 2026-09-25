@@ -1,6 +1,6 @@
 # DMN TWNK
 
-DMN TWNK is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+DMN TWNK is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 DMN TWNK is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside SNAQ, Del and Papa Xanny. Next up: TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DMN TWNK is a techno and club artist based in United States of America, tracked 
 
 SNAQ, Del (4), Papa Xanny
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmntwnk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmntwnk/)*

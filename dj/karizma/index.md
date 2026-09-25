@@ -1,6 +1,6 @@
 # Karizma
 
-Karizma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, New York City on Fri, 2 Oct 2026.
+Karizma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, New York City on Fri, 2 Oct 2026.
 
 Karizma is a house and deep house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, Denver, Detroit and Houston and 8 more. Often billed alongside Baronhawk Poitier, Natasha Diggs and Rick Wilhite. Next up: TBA, New York City on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Karizma is a house and deep house artist based in United States of America, trac
 
 Baronhawk Poitier, Natasha Diggs, Rick Wilhite
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karizma/)*

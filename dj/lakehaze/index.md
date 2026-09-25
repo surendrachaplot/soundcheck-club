@@ -1,6 +1,6 @@
 # Lake Haze
 
-Lake Haze is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Gare Porto, Porto on Fri, 25 Sept 2026.
+Lake Haze is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Gare Porto, Porto on Fri, 25 Sept 2026.
 
 Lake Haze is a techno and electro artist based in Portugal, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon, London and Manchester and 3 more. Often billed alongside Catarina Silva, Photonz and dtekk. Next up: Gare Porto, Porto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lake Haze is a techno and electro artist based in Portugal, tracked on soundchec
 
 Catarina Silva, Photonz, dtekk
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*

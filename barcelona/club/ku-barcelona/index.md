@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Free Tickets AVALON: Rivellino B2B Andrea Castells (All Night Long)" on Fri, 25 Sept 2026.
+Ku Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Free Tickets AVALON: Rivellino B2B Andrea Castells (All Night Long)" on Fri, 25 Sept 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Andrea Castells, Rivellino and Sebastián Peña. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

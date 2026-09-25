@@ -1,6 +1,6 @@
 # Memed Awad
 
-Memed Awad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Memed Awad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Memed Awad is a house and minimal artist based in United Arab Emirates, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Central and London and 3 more. Often billed alongside Moruki, Arval and Hessa. Next up: TBA, Central on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Memed Awad is a house and minimal artist based in United Arab Emirates, tracked 
 
 Moruki, Arval, Hessa
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memedawad/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memedawad/)*

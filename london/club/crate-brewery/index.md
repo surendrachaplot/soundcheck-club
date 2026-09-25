@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "IRM: Grace Sands - Free Day Party" on Sat, 26 Sept 2026.
+Crate Brewery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "IRM: Grace Sands - Free Day Party" on Sat, 26 Sept 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including calan, Grace Sands, Jugin and Manuol Bone. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -15,4 +15,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

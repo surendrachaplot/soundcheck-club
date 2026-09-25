@@ -1,6 +1,6 @@
 # Bad Puppy
 
-Bad Puppy is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
+Bad Puppy is a Club and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
 
 Bad Puppy is a club and latin bass artist based in Mexico, tracked on soundcheck, with 11 sets logged across Berlin and Mexico City. Often billed alongside DJ Putilla, Meg10 and Ojos de miel. Next up: Renate, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Bad Puppy is a club and latin bass artist based in Mexico, tracked on soundcheck
 
 DJ Putilla, Meg10, Ojos de miel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badpuppy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badpuppy/)*

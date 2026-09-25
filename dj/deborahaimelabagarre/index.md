@@ -1,6 +1,6 @@
 # Deborah Aime La Bagarre
 
-Deborah Aime La Bagarre is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Groove, Geneva on Fri, 2 Oct 2026.
+Deborah Aime La Bagarre is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Groove, Geneva on Fri, 2 Oct 2026.
 
 Deborah Aime La Bagarre is a house and electro artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Herr Krank, Emma B and THEOS. Next up: Le Groove, Geneva on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Deborah Aime La Bagarre is a house and electro artist based in France, tracked o
 
 Herr Krank, Emma B, THEOS (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*

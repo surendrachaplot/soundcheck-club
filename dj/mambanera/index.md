@@ -1,6 +1,6 @@
 # Mamba Nera
 
-Mamba Nera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
+Mamba Nera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at EL SÓTANO, Madrid on Fri, 16 Oct 2026.
 
 Mamba Nera is a techno and house artist based in Spain, tracked on soundcheck, with 44 sets logged across Madrid. Often billed alongside SOL3M, Dj Michi and Mica Wagner. Next up: EL SÓTANO, Madrid on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mamba Nera is a techno and house artist based in Spain, tracked on soundcheck, w
 
 SOL3M, Dj Michi, Mica Wagner
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mambanera/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mambanera/)*

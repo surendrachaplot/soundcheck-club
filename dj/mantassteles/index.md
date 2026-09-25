@@ -1,6 +1,6 @@
 # Mantas Steles
 
-Mantas Steles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
+Mantas Steles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
 
 Mantas Steles is a house and minimal artist based in Lithuania, tracked on soundcheck, with 26 sets logged across Chicago. Often billed alongside Tyson Dias, Max Jacobson and Christian Thomas. Next up: TBA, Chicago on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mantas Steles is a house and minimal artist based in Lithuania, tracked on sound
 
 Tyson Dias, Max Jacobson, Christian Thomas
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantassteles/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantassteles/)*

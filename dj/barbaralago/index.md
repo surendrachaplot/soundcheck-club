@@ -1,6 +1,6 @@
 # Bárbara Lago
 
-Bárbara Lago is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 25 Sept 2026.
+Bárbara Lago is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 25 Sept 2026.
 
 Bárbara Lago is a techno and trance artist based in Spain, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Budapest and Buenos Aires and 18 more. Often billed alongside Dexphase, Skryption and Daniella da Silva. Next up: Studio Club Malaga, Malaga on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Bárbara Lago is a techno and trance artist based in Spain, tracked on soundchec
 
 Dexphase, Skryption, Daniella da Silva
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaralago/)*

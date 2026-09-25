@@ -1,6 +1,6 @@
 # 4NOUK
 
-4NOUK is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at OST, Berlin on Fri, 25 Sept 2026.
+4NOUK is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at OST, Berlin on Fri, 25 Sept 2026.
 
 4NOUK is a trance and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin. Often billed alongside Amo (IT), Hanne B and Bruno Brero. Next up: OST, Berlin on Fri 25 Sept.
 
@@ -29,4 +29,4 @@
 
 Amo (IT), Hanne B, Bruno Brero
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4nouk/)*

@@ -1,6 +1,6 @@
 # DAMPY
 
-DAMPY is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
+DAMPY is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Parallel 45, London on Fri, 25 Sept 2026.
 
 DAMPY is a house and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Kat Bendis, Steve Brown and ADMNTi. Next up: Parallel 45, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ DAMPY is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Kat Bendis, Steve Brown, ADMNTi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dampy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dampy/)*

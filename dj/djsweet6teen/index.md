@@ -1,8 +1,8 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+dj sweet6teen is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Peach. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+dj sweet6teen is a house and techno artist based in Germany, tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 47 more. Often billed alongside Angel D'lite, Sansibar and Gene On Earth. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ dj sweet6teen is a house and techno artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Angel D'lite, Sansibar, Peach
+Angel D'lite, Sansibar, Gene On Earth
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

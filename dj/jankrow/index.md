@@ -1,6 +1,6 @@
 # Jan Krøw
 
-Jan Krøw is a Acid and Singeli artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 25 Sept 2026.
+Jan Krøw is a Acid and Singeli artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Atlantic Sound, Barcelona on Fri, 25 Sept 2026.
 
 Jan Krøw is an acid and singeli artist based in Spain, tracked on soundcheck, with 10 sets logged across Athens and Barcelona. Often billed alongside MVGRI, AREA ØNE and ArceX. Next up: Atlantic Sound, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Jan Krøw is an acid and singeli artist based in Spain, tracked on soundcheck, w
 
 MVGRI, AREA ØNE, ArceX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jankrow/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jankrow/)*

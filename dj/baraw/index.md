@@ -1,6 +1,6 @@
 # Bara W
 
-Bara W is a Progressive House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
+Bara W is a Progressive House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
 
 Bara W is a progressive house and afro tech artist based in Sweden, tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside Technokid, SkyVibes and Thomas Schumacher. Next up: Slakthuset, Stockholm on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Bara W is a progressive house and afro tech artist based in Sweden, tracked on s
 
 Technokid, SkyVibes, Thomas Schumacher
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baraw/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baraw/)*

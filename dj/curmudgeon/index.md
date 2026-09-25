@@ -1,6 +1,6 @@
 # Curmudgeon
 
-Curmudgeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
+Curmudgeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Marble Bar, Detroit on Fri, 25 Sept 2026.
 
 Curmudgeon is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Detroit. Often billed alongside Jorissen, Rick Wade and Andrea Ghita. Next up: Marble Bar, Detroit on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Curmudgeon is a techno and house artist based in United States of America, track
 
 Jorissen, Rick Wade, Andrea Ghita
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curmudgeon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curmudgeon/)*

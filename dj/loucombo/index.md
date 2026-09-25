@@ -1,6 +1,6 @@
 # Lou Combo
 
-Lou Combo is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
+Lou Combo is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Hive Club, Zurich on Sat, 26 Sept 2026.
 
 Lou Combo is an electronica and tech house artist based in Switzerland, tracked on soundcheck, with 41 sets logged across Basel and Zurich. Often billed alongside Kantarik, Reto Ardour and ARWIN AZIZ. Next up: Hive Club, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lou Combo is an electronica and tech house artist based in Switzerland, tracked 
 
 Kantarik, Reto Ardour, ARWIN AZIZ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucombo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucombo/)*

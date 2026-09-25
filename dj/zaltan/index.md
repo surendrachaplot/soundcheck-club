@@ -1,6 +1,6 @@
 # Zaltan
 
-Zaltan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
+Zaltan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
 
 Zaltan is a house and techno artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Belgrade, Berlin and Central and 11 more. Often billed alongside Gilb'R, D.K. and Iueke. Next up: Nido Marseille, Marseille on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Zaltan is a house and techno artist based in France, tracked on soundcheck, with
 
 Gilb'R, D.K., Iueke
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltan/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltan/)*

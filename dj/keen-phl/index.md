@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fringe Bar, Philadelphia on Fri, 25 Sept 2026.
+Keen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fringe Bar, Philadelphia on Fri, 25 Sept 2026.
 
 Keen is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: Fringe Bar, Philadelphia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Keen is a house and techno artist based in United States of America, tracked on 
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

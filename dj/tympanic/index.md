@@ -1,14 +1,15 @@
 # Tympanic
 
-Tympanic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Hyde Club, Barcelona on Fri, 25 Sept 2026.
+Tympanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hyde Club, Barcelona on Fri, 25 Sept 2026.
 
-Tympanic is a house and techno artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona. Often billed alongside 9 Lives, ATMEN and ALUSH. Next up: Hyde Club, Barcelona on Fri 25 Sept.
+Tympanic is a techno and house artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside 9 Lives, ATMEN and Katya La Mar. Next up: Hyde Club, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Hyde Club | Barcelona |
+| Fri, 30 Oct 2026 | DETROIT CLUB | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tympanic is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 ## Shares bills with
 
-9 Lives, ATMEN, ALUSH
+9 Lives, ATMEN, Katya La Mar
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tympanic/)*

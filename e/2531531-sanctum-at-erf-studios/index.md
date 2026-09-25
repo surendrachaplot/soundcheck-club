@@ -1,6 +1,6 @@
 # SANCTUM at ErF Studios
 
-SANCTUM at ErF Studios on Fri 25 Sept, New York City. 4 artists on the bill: Akanbi, Leafy Greens, Subatomic Sound System and The Hefker Girl. Bass and Dub. Preview the line-up and save it on soundcheck.
+SANCTUM at ErF Studios on Fri 25 Sept, New York City. 3 artists on the bill: Akanbi, Subatomic Sound System and The Hefker Girl. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ SANCTUM at ErF Studios on Fri 25 Sept, New York City. 4 artists on the bill: Aka
 ## Line-up
 
 - Akanbi
-- Leafy Greens
 - Subatomic Sound System
 - The Hefker Girl
 

@@ -1,6 +1,6 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "KOMAoto: jackzebra" on Fri, 25 Sept 2026.
+The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "KOMAoto: jackzebra" on Fri, 25 Sept 2026.
 
 The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming gigs, with line-ups including Fastlove, ABADIR, Abena and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

@@ -1,6 +1,6 @@
 # DykeChow
 
-DykeChow is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 6 Oct 2026.
+DykeChow is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 6 Oct 2026.
 
 DykeChow is a techno and electro artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit and New York City. Often billed alongside Nick Burgess, Auntie Chanel and madeofants. Next up: Bossa Nova Civic Club, New York City on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ DykeChow is a techno and electro artist based in United States of America, track
 
 Nick Burgess, Auntie Chanel, madeofants
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dykechow/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dykechow/)*

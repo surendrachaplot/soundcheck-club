@@ -1,6 +1,6 @@
 # BOTICKA
 
-BOTICKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kilomètre25, Paris on Fri, 16 Oct 2026.
+BOTICKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kilomètre25, Paris on Fri, 16 Oct 2026.
 
 BOTICKA is a techno and hardcore artist based in France, tracked on soundcheck, with 12 sets logged across Brussels, Marseille and Paris. Often billed alongside David Asko, Rebekah and 6EJOU. Next up: Kilomètre25, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BOTICKA is a techno and hardcore artist based in France, tracked on soundcheck, 
 
 David Asko, Rebekah, 6EJOU
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*

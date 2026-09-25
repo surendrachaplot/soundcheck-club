@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Techno Thursday: 313 Trenches" on Thu, 24 Sept 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "12 Hour Party" on Fri, 25 Sept 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including Andrea Ghita, BRALLE, Craze and Curmudgeon and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Andrea Ghita, BRALLE, Craze and Curmudgeon and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Techno Thursday: 313 Trenches | DJ Ace, Shawescape Renegade, Tommie Cool |
 | Fri, 25 Sept 2026 | 12 Hour Party |  |
 | Fri, 25 Sept 2026 | Garrett David (live), Magda, Salar Ansari & Ian Fink (live), + more | Curmudgeon, Garrett David, Ian Finkelstein, John Johr, Magda, Mister Joshooa, Salar Ansari |
 | Sat, 26 Sept 2026 | 12 Hour Party | Andrea Ghita, D'Julz, Shaun Reeves, Shonky, m.O.N.R.O.E. |
@@ -22,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, wi
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

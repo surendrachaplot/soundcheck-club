@@ -1,6 +1,6 @@
 # Renoiterrible
 
-Renoiterrible is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
+Renoiterrible is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 26 Sept 2026.
 
 Renoiterrible is a techno and electronica artist based in Belgium, tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Central and London and 3 more. Often billed alongside Otis (BE), Brodinski and Cheyanne Hudson. Next up: La Station - Gare des Mines, Paris on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Renoiterrible is a techno and electronica artist based in Belgium, tracked on so
 
 Otis (BE), Brodinski, Cheyanne Hudson
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renoiterrible/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renoiterrible/)*

@@ -1,6 +1,6 @@
 # Adventure Club
 
-Adventure Club is a Dubstep and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Adventure Club is a Dubstep and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Adventure Club is a dubstep and tech house artist based in Canada, tracked on soundcheck, with 13 sets logged across Amsterdam, Denver, Los Angeles and Montreal and 3 more. Often billed alongside KREAM, Alesso and Bou (UK). Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Adventure Club is a dubstep and tech house artist based in Canada, tracked on so
 
 KREAM, Alesso, Bou (UK)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*

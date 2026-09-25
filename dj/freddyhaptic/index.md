@@ -1,6 +1,6 @@
 # freddy haptic
 
-freddy haptic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at People's Leisure Club, Edinburgh on Wed, 23 Sept 2026.
+freddy haptic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at People's Leisure Club, Edinburgh on Wed, 23 Sept 2026.
 
 freddy haptic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Edinburgh. Often billed alongside Bartek, Jedda and Louspresso. Next up: People's Leisure Club, Edinburgh on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ freddy haptic is a house and disco artist based in United Kingdom, tracked on so
 
 Bartek, Jedda, Louspresso
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyhaptic/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyhaptic/)*

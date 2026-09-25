@@ -1,6 +1,6 @@
 # Andreas Ramos
 
-Andreas Ramos is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+Andreas Ramos is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
 Andreas Ramos is a tech house and minimal artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Basel, Berlin and Zurich. Often billed alongside Aline (CH), Antja and Akyra. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Andreas Ramos is a tech house and minimal artist based in Switzerland, tracked o
 
 Aline (CH), Antja, Akyra
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasramos/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreasramos/)*

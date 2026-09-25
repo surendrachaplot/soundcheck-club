@@ -1,6 +1,6 @@
 # SALCHIKILLER
 
-SALCHIKILLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+SALCHIKILLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 SALCHIKILLER is a techno and trance artist based in Ecuador, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside mølly (on molly), DJ AYEN and L X S. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SALCHIKILLER is a techno and trance artist based in Ecuador, tracked on soundche
 
 mølly (on molly), DJ AYEN, L X S
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*

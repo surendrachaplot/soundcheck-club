@@ -1,6 +1,6 @@
 # KEi
 
-KEi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 25 Sept 2026.
+KEi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 25 Sept 2026.
 
 KEi is a house and techno artist based in Bulgaria, tracked on soundcheck, with 23 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Gumbo, 35DH-1 and NOËL. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ KEi is a house and techno artist based in Bulgaria, tracked on soundcheck, with 
 
 Gumbo, 35DH-1, NOËL
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*

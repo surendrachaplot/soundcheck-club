@@ -1,6 +1,6 @@
 # Cleo Grooves
 
-Cleo Grooves is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
+Cleo Grooves is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
 
 Cleo Grooves is a house and disco artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside B. Clarke, BISOUX and Camille Doe. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Cleo Grooves is a house and disco artist based in Netherlands, tracked on soundc
 
 B. Clarke, BISOUX, Camille Doe
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleogrooves/)*

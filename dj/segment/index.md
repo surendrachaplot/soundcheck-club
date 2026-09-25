@@ -1,6 +1,6 @@
 # Segment
 
-Segment is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
+Segment is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 3 Oct 2026.
 
 Segment is a techno and club artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Berlin and Prague. Often billed alongside LickMySoul, Marie Pravda and Høll. Next up: Ankali & Planeta Za, Prague on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Segment is a techno and club artist based in Czech Republic, tracked on soundche
 
 LickMySoul, Marie Pravda, Høll
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*

@@ -1,6 +1,6 @@
 # Marie-Julie
 
-Marie-Julie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Marie-Julie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Marie-Julie is a techno and house artist based in Belgium, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Phara, Altinbas and Border One. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marie-Julie is a techno and house artist based in Belgium, tracked on soundcheck
 
 Phara, Altinbas, Border One
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie-julie/)*

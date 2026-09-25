@@ -1,6 +1,6 @@
 # aya
 
-aya is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+aya is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 aya is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside 96 Back, Jennifer Walton and upsammy. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -13,6 +13,7 @@ aya is an experimental and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
+- Venues Across Glasgow, Glasgow — Thu, 24 Sept 2026
 - Nué Seoul, Seoul — Fri, 18 Sept 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -20,10 +21,9 @@ aya is an experimental and techno artist based in United Kingdom, tracked on sou
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - Future Yard, Liverpool — Sat, 13 Jun 2026
 - Komuna Warszawa, Warsaw — Fri, 12 Jun 2026
-- różne lokalizacje / various venues, Warsaw — Mon, 8 Jun 2026
 
 ## Shares bills with
 
 96 Back, Jennifer Walton, upsammy
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aya/)*

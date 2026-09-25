@@ -1,6 +1,6 @@
 # GS Projekt
 
-GS Projekt is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
+GS Projekt is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aaja Basement, London on Fri, 23 Oct 2026.
 
 GS Projekt is a techno and drum & bass artist based in Japan, tracked on soundcheck, with 93 sets logged across Hong Kong, London and Tokyo. Often billed alongside RYOHEI, Da Yama and Taichi Kawahira. Next up: Aaja Basement, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ GS Projekt is a techno and drum & bass artist based in Japan, tracked on soundch
 
 RYOHEI, Da Yama, Taichi Kawahira
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gsprojekt/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gsprojekt/)*

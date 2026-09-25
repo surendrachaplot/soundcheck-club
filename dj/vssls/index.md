@@ -1,6 +1,6 @@
 # VSSLS
 
-VSSLS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
+VSSLS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Romantso, Athens on Fri, 25 Sept 2026.
 
 VSSLS is a techno and trance artist based in Greece, tracked on soundcheck, with 53 sets logged across Athens. Often billed alongside SALIN, Até. and Nivk Jane. Next up: Romantso, Athens on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ VSSLS is a techno and trance artist based in Greece, tracked on soundcheck, with
 
 SALIN, Até., Nivk Jane
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*

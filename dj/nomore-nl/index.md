@@ -1,6 +1,6 @@
 # NoMore
 
-NoMore is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
+NoMore is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Huis van Iemand Anders, Amsterdam on Fri, 16 Oct 2026.
 
 NoMore is a house and deep house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Lyon and Paris. Often billed alongside charuso, Beswerda and GIGEE. Next up: Huis van Iemand Anders, Amsterdam on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ NoMore is a house and deep house artist based in Netherlands, tracked on soundch
 
 charuso, Beswerda, GIGEE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*

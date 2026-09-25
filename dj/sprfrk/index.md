@@ -1,6 +1,6 @@
 # SPRFRK
 
-SPRFRK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Qncc, New York City on Sat, 10 Oct 2026.
+SPRFRK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Qncc, New York City on Sat, 10 Oct 2026.
 
 SPRFRK is a house and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across New York City and Toronto. Often billed alongside Kandylion, fernanDITO and Foster, just Foster.. Next up: Qncc, New York City on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ SPRFRK is a house and techno artist based in United States of America, tracked o
 
 Kandylion, fernanDITO, Foster, just Foster.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*

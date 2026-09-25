@@ -1,6 +1,6 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
+Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Die Rakete, Nürnberg on Fri, 25 Sept 2026.
 
 Sin:port is a techno and house artist based in Germany, tracked on soundcheck, with 132 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Die Rakete, Nürnberg on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Sin:port is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

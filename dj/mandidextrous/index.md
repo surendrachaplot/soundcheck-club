@@ -1,6 +1,6 @@
 # Mandidextrous
 
-Mandidextrous is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
+Mandidextrous is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at FORGE, Sheffield on Fri, 25 Sept 2026.
 
 Mandidextrous is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 29 more. Often billed alongside Samurai Breaks, Camo & Krooked and Carasel. Next up: FORGE, Sheffield on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Mandidextrous is a drum & bass and bass artist based in United Kingdom, tracked 
 
 Samurai Breaks, Camo & Krooked, Carasel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*

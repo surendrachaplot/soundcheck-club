@@ -1,6 +1,6 @@
 # ALOKIN
 
-ALOKIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Midway Music Hall, Edmonton on Sat, 26 Sept 2026.
+ALOKIN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Midway Music Hall, Edmonton on Sat, 26 Sept 2026.
 
 ALOKIN is a techno and hardcore artist based in Canada, tracked on soundcheck, with 18 sets logged across Edmonton, Montreal, Toronto and Vancouver. Often billed alongside Behrad Tehrani, Fizch and Sopik. Next up: Midway Music Hall, Edmonton on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ALOKIN is a techno and hardcore artist based in Canada, tracked on soundcheck, w
 
 Behrad Tehrani, Fizch, Sopik
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alokin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alokin/)*

@@ -1,6 +1,6 @@
 # BEXA
 
-BEXA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at BarKa, Warsaw on Sun, 27 Sept 2026.
+BEXA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at BarKa, Warsaw on Sun, 27 Sept 2026.
 
 BEXA is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Krakow and Lisbon and 1 more. Often billed alongside deafcandance, jensky and Truant. Next up: BarKa, Warsaw on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ BEXA is a techno and house artist tracked on soundcheck, with 36 sets logged acr
 
 deafcandance, jensky, Truant
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bexa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bexa/)*

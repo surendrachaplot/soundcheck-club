@@ -1,6 +1,6 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
+djfix is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Signal, New York City on Fri, 25 Sept 2026.
 
 djfix is a techno and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen, Dublin and Helsinki and 9 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: Signal, New York City on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ djfix is a techno and tech house artist based in United States of America, track
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

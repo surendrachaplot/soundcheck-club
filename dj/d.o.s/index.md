@@ -1,6 +1,6 @@
 # D.O.S
 
-D.O.S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Vagabond, Washington DC on Sat, 3 Oct 2026.
+D.O.S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Vagabond, Washington DC on Sat, 3 Oct 2026.
 
 D.O.S is a house and tech house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston and Washington DC. Often billed alongside Arroyo, Charles Martin and Dusty Digital. Next up: Vagabond, Washington DC on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ D.O.S is a house and tech house artist based in United States of America, tracke
 
 Arroyo, Charles Martin, Dusty Digital
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.s/)*

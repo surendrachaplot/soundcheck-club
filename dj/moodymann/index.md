@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
+Moodymann is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at 314 Scholes, New York City on Sat, 26 Sept 2026.
 
 Moodymann is a house and techno artist based in United States of America, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Carl Craig, Flo Real and DJ Holographic. Next up: 314 Scholes, New York City on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ Moodymann is a house and techno artist based in United States of America, tracke
 
 Carl Craig, Flo Real, DJ Holographic
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

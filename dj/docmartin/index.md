@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BAR Inc, Osaka on Fri, 25 Sept 2026.
+Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BAR Inc, Osaka on Fri, 25 Sept 2026.
 
 Doc Martin is a house and techno artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: BAR Inc, Osaka on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Doc Martin is a house and techno artist based in United States of America, track
 
 DJ Sneak, DJ M3, Mark Farina
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

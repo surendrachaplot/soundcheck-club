@@ -1,14 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 24 Sept 2026.
+Carl Craig is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at DC-10, Ibiza on Mon, 28 Sept 2026.
 
-Carl Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Chinois Ibiza, Ibiza on Thu 24 Sept.
+Carl Craig is a house and techno artist based in United States of America, tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: DC-10, Ibiza on Mon 28 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |
 | Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
@@ -23,6 +22,7 @@ Carl Craig is a house and techno artist based in United States of America, track
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Thu, 24 Sept 2026
 - REC Napoli, Naples — Sat, 19 Sept 2026
 - FOLD, London — Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza — Tue, 15 Sept 2026
@@ -30,10 +30,9 @@ Carl Craig is a house and techno artist based in United States of America, track
 - DURO, Milan — Sat, 12 Sept 2026
 - DURO, Milan — Sat, 12 Sept 2026
 - Silencio, Paris — Fri, 11 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

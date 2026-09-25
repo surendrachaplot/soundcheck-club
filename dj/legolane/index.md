@@ -1,6 +1,6 @@
 # LEGOLANE
 
-LEGOLANE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
+LEGOLANE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 LEGOLANE is a techno and house artist based in France, tracked on soundcheck, with 11 sets logged across Amsterdam, Antwerp, Brussels and Copenhagen and 1 more. Often billed alongside DJNO, DOUBLE P and Absoluut. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ LEGOLANE is a techno and house artist based in France, tracked on soundcheck, wi
 
 DJNO, DOUBLE P, Absoluut
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legolane/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legolane/)*

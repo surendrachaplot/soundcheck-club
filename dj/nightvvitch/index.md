@@ -1,6 +1,6 @@
 # NIGHTVVITCH
 
-NIGHTVVITCH is a EBM and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jade, New York City on Thu, 15 Oct 2026.
+NIGHTVVITCH is a EBM and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jade, New York City on Thu, 15 Oct 2026.
 
 NIGHTVVITCH is an ebm and acid artist based in United States of America, tracked on soundcheck, with 9 sets logged across New York City. Often billed alongside Boiled Angel, Andi and Ali Berger. Next up: Jade, New York City on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ NIGHTVVITCH is an ebm and acid artist based in United States of America, tracked
 
 Boiled Angel, Andi, Ali Berger
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightvvitch/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nightvvitch/)*

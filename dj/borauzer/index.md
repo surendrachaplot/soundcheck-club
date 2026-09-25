@@ -1,6 +1,6 @@
 # Bora Uzer
 
-Bora Uzer is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Cova Santa, Ibiza on Fri, 25 Sept 2026.
+Bora Uzer is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Cova Santa, Ibiza on Fri, 25 Sept 2026.
 
 Bora Uzer is a house and electronica artist based in Turkey, tracked on soundcheck, with 113 sets logged across Amsterdam, Austin, Bali and Barcelona and 17 more. Often billed alongside Julia Sandstorm, Valentin Huedo and Kiddy Smile. Next up: Cova Santa, Ibiza on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Bora Uzer is a house and electronica artist based in Turkey, tracked on soundche
 
 Julia Sandstorm, Valentin Huedo, Kiddy Smile
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*

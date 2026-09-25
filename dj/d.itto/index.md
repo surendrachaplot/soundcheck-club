@@ -1,6 +1,6 @@
 # D.ITTO
 
-D.ITTO is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Handlebar, Toronto on Sat, 10 Oct 2026.
+D.ITTO is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Handlebar, Toronto on Sat, 10 Oct 2026.
 
 D.ITTO is a club and hip-hop artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside 999ADJ, Jayne Dice and Litney. Next up: Handlebar, Toronto on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ D.ITTO is a club and hip-hop artist based in Canada, tracked on soundcheck, with
 
 999ADJ, Jayne Dice, Litney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.itto/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.itto/)*

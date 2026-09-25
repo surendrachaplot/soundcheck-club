@@ -1,6 +1,6 @@
 # BL3CKSMITH
 
-BL3CKSMITH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Super Club, Milan on Fri, 25 Sept 2026.
+BL3CKSMITH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Super Club, Milan on Fri, 25 Sept 2026.
 
 BL3CKSMITH is a house and tech house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, London and Milan. Often billed alongside Pantomatic, SAGO and Akoriz. Next up: Super Club, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ BL3CKSMITH is a house and tech house artist based in Italy, tracked on soundchec
 
 Pantomatic, SAGO (2), Akoriz
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*

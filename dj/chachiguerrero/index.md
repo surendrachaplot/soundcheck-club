@@ -1,6 +1,6 @@
 # Chachi Guerrero
 
-Chachi Guerrero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
+Chachi Guerrero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
 
 Chachi Guerrero is a house and techno artist based in Venezuela, tracked on soundcheck, with 52 sets logged across Boston, Chicago, Detroit and New York City. Often billed alongside La Spacer, CQQCHiFRUIT and Duke Shin. Next up: TBA, Detroit on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Chachi Guerrero is a house and techno artist based in Venezuela, tracked on soun
 
 La Spacer, CQQCHiFRUIT, Duke Shin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chachiguerrero/)*

@@ -1,6 +1,6 @@
 # Kosta Kritikos
 
-Kosta Kritikos is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
+Kosta Kritikos is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Etko, Cyprus on Fri, 25 Sept 2026.
 
 Kosta Kritikos is a techno and afro house artist based in Greece, tracked on soundcheck, with 5 sets logged across Berlin, Cyprus and Leipzig. Often billed alongside Markus Klee, Spartaque and AWEN. Next up: Etko, Cyprus on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Kosta Kritikos is a techno and afro house artist based in Greece, tracked on sou
 
 Markus Klee, Spartaque, AWEN
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostakritikos/)*

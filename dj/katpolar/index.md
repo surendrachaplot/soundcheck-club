@@ -1,6 +1,6 @@
 # Kat Polar
 
-Kat Polar is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Studiodb, Berlin on Sun, 18 Oct 2026.
+Kat Polar is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Studiodb, Berlin on Sun, 18 Oct 2026.
 
 Kat Polar is an experimental and electronica artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Izumi Yamamoto, Jiu-q and Maury111. Next up: Studiodb, Berlin on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Kat Polar is an experimental and electronica artist tracked on soundcheck, with 
 
 Izumi Yamamoto, Jiu-q, Maury111
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katpolar/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katpolar/)*

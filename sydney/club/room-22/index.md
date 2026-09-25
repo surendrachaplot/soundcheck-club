@@ -1,6 +1,6 @@
 # Room 22
 
-Room 22 is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Aura - Indian Fusion Club Night" on Fri, 25 Sept 2026.
+Room 22 is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Aura - Indian Fusion Club Night" on Fri, 25 Sept 2026.
 
 Room 22 is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Aaiste, Gaston Gari, Kamilo Sanclemente and NOIYSE PROJECT. Browse upcoming dates, start times and who's playing. 22 Bayswater Rd, Potts Point, NSW 2011.
 
@@ -15,4 +15,4 @@ Room 22 is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with l
 
 22 Bayswater Rd, Potts Point, NSW 2011, Sydney
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/room-22/)*

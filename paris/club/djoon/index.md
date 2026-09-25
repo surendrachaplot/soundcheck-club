@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Groove Candy invite Victor Simonelli" on Fri, 25 Sept 2026.
+Djoon is a music venue in Paris with 11 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Groove Candy invite Victor Simonelli" on Fri, 25 Sept 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with line-ups including Adri, Bevan, Blck Mamba and Boddhi Satva and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -23,4 +23,4 @@ Djoon is a music venue in Paris listed on soundcheck. 11 upcoming gigs, with lin
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

@@ -1,6 +1,6 @@
 # JAE SANG
 
-JAE SANG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Modeci, Seoul on Sat, 3 Oct 2026.
+JAE SANG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Modeci, Seoul on Sat, 3 Oct 2026.
 
 JAE SANG is a house and techno artist tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside BYUNGHO, Cy Nico and Kim Jooyoung. Next up: Modeci, Seoul on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ JAE SANG is a house and techno artist tracked on soundcheck, with 6 sets logged 
 
 BYUNGHO, Cy Nico, Kim Jooyoung
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesang/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaesang/)*

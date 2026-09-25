@@ -1,6 +1,6 @@
 # Fokko
 
-Fokko is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Locke, Hamburg on Sat, 26 Sept 2026.
+Fokko is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Locke, Hamburg on Sat, 26 Sept 2026.
 
 Fokko is an electronic artist based in Germany, tracked on soundcheck, with 21 sets logged across Hamburg. Often billed alongside Grouf$, aitch and Memorycardio. Next up: Locke, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Fokko is an electronic artist based in Germany, tracked on soundcheck, with 21 s
 
 Grouf$, aitch, Memorycardio
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fokko/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fokko/)*

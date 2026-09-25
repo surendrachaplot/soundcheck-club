@@ -1,6 +1,6 @@
 # ROBIDIO
 
-ROBIDIO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
+ROBIDIO is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
 
 ROBIDIO is an afro house and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside FI-LO, Amy Jor and Autograf. Next up: Superior Ingredients, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ ROBIDIO is an afro house and house artist based in United States of America, tra
 
 FI-LO, Amy Jor, Autograf
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robidio/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robidio/)*

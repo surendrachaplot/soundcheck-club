@@ -1,6 +1,6 @@
 # Asphodel Ivory
 
-Asphodel Ivory is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Middle East, Boston on Fri, 25 Sept 2026.
+Asphodel Ivory is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Middle East, Boston on Fri, 25 Sept 2026.
 
 Asphodel Ivory is a techno and trance artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston. Often billed alongside CITYSPROBLEM, Niqi and Noizcode. Next up: The Middle East, Boston on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Asphodel Ivory is a techno and trance artist based in United States of America, 
 
 CITYSPROBLEM, Niqi, Noizcode
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*

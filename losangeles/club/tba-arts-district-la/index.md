@@ -1,6 +1,6 @@
 # TBA - Arts District LA
 
-TBA - Arts District LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz " on Fri, 2 Oct 2026.
+TBA - Arts District LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz " on Fri, 2 Oct 2026.
 
 TBA - Arts District LA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including DPR, EDA, Ika (GE) and James Zabiela and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Arts District LA is a music venue in Los Angeles listed on soundcheck. 2 u
 | Fri, 2 Oct 2026 | MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz  | DPR (1), Nicky Macha |
 | Sat, 31 Oct 2026 | MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Ush | EDA (2), Ika (GE), James Zabiela, Ricardo Roessel, Satoshi Tomiie, Tommy Pickles, Usherenko |
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-arts-district-la/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-arts-district-la/)*

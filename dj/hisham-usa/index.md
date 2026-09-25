@@ -1,6 +1,6 @@
 # .hisham
 
-.hisham is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Spkrbox, Detroit on Thu, 29 Oct 2026.
+.hisham is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Spkrbox, Detroit on Thu, 29 Oct 2026.
 
 .hisham is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside Liminal, Tylr and 888lambchop. Next up: Spkrbox, Detroit on Thu 29 Oct.
 
@@ -20,4 +20,4 @@
 
 Liminal, Tylr, 888lambchop
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hisham-usa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hisham-usa/)*

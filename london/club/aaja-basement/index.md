@@ -1,6 +1,6 @@
 # Aaja Basement
 
-Aaja Basement is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Reload it" on Fri, 9 Oct 2026.
+Aaja Basement is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Reload it" on Fri, 9 Oct 2026.
 
 Aaja Basement is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including arawzi, Auntie Klockwise, CRAIC DAVID and Dusty Ohms and 2 more. Browse upcoming dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
@@ -17,4 +17,4 @@ Aaja Basement is a music venue in London listed on soundcheck. 4 upcoming gigs, 
 
 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*

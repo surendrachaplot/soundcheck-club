@@ -1,6 +1,6 @@
 # Valleyk
 
-Valleyk is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Enredadera, Madrid on Fri, 2 Oct 2026.
+Valleyk is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Enredadera, Madrid on Fri, 2 Oct 2026.
 
 Valleyk is an electronica and techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Madrid. Often billed alongside Denso, Kamboya and MSKS. Next up: La Enredadera, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Valleyk is an electronica and techno artist based in Spain, tracked on soundchec
 
 Denso, Kamboya, MSKS
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valleyk/)*

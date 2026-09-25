@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 25 Sept 2026.
+I-F is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 25 Sept 2026.
 
 I-F is a disco and italo disco artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 14 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Het Sieraad, Amsterdam on Fri 25 Sept.
 
@@ -31,4 +31,4 @@ I-F is a disco and italo disco artist based in Netherlands, tracked on soundchec
 
 Intergalactic Gary, Marsman, Esther Dune
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

@@ -1,6 +1,6 @@
 # acideplastique
 
-acideplastique is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at La Maison Bistrot, Paris on Fri, 25 Sept 2026.
+acideplastique is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at La Maison Bistrot, Paris on Fri, 25 Sept 2026.
 
 acideplastique is a bass and techno artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Nantes, Paris and Vienna. Often billed alongside Amblio, Antonia XM and Kenji Araki. Next up: La Maison Bistrot, Paris on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ acideplastique is a bass and techno artist based in France, tracked on soundchec
 
 Amblio, Antonia XM, Kenji Araki
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acideplastique/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acideplastique/)*

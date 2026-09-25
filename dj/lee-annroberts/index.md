@@ -1,6 +1,6 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
+Lee Ann Roberts is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 25 Sept 2026.
 
 Lee Ann Roberts is a techno and acid artist based in South Africa, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Lee Ann Roberts is a techno and acid artist based in South Africa, tracked on so
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

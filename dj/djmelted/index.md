@@ -1,6 +1,6 @@
 # Dj Melted
 
-Dj Melted is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Avenida Ipiranga, 955 - República, São Paulo - SP, 01039-000, Brasil, Sao Paulo on Fri, 25 Sept 2026.
+Dj Melted is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Avenida Ipiranga, 955 - República, São Paulo - SP, 01039-000, Brasil, Sao Paulo on Fri, 25 Sept 2026.
 
 Dj Melted is a house and disco artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow and Sao Paulo. Often billed alongside Gabi Fischer, PR.A.DO and Kair. Next up: TBA - Avenida Ipiranga, 955 - República, São Paulo - SP, 01039-000, Brasil, Sao Paulo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dj Melted is a house and disco artist based in United Kingdom, tracked on soundc
 
 Gabi Fischer, PR.A.DO, Kair
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelted/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmelted/)*

@@ -1,6 +1,6 @@
 # O'SIMMIE
 
-O'SIMMIE is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
+O'SIMMIE is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
 
 O'SIMMIE is a bass and club artist based in Belgium, tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Erykah, cyvira and gaiko. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ O'SIMMIE is a bass and club artist based in Belgium, tracked on soundcheck, with
 
 Erykah, cyvira, gaiko
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osimmie/)*

@@ -1,6 +1,6 @@
 # Thiago Martins
 
-Thiago Martins is a Baile Funk and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Rua do Comércio, 111 - Centro, Santos - SP, 11010-122, Brasil, Sao Paulo on Fri, 25 Sept 2026.
+Thiago Martins is a Baile Funk and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Rua do Comércio, 111 - Centro, Santos - SP, 11010-122, Brasil, Sao Paulo on Fri, 25 Sept 2026.
 
 Thiago Martins is a baile funk and dancehall artist based in Brazil, tracked on soundcheck, with 7 sets logged across Amsterdam and Sao Paulo. Often billed alongside ADRY, Akila and DJ Marky. Next up: TBA - Rua do Comércio, 111 - Centro, Santos - SP, 11010-122, Brasil, Sao Paulo on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Thiago Martins is a baile funk and dancehall artist based in Brazil, tracked on 
 
 ADRY, Akila, DJ Marky
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagomartins/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thiagomartins/)*

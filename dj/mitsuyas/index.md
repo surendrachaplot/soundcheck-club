@@ -1,6 +1,6 @@
 # MiTSUYAS
 
-MiTSUYAS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Club Daphnia, Osaka on Sat, 26 Sept 2026.
+MiTSUYAS is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Club Daphnia, Osaka on Sat, 26 Sept 2026.
 
 MiTSUYAS is a techno and house artist based in Japan, tracked on soundcheck, with 56 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Shingo, AKNL and Atsuki. Next up: Club Daphnia, Osaka on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ MiTSUYAS is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 Shingo, AKNL, Atsuki
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuyas/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuyas/)*

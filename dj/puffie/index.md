@@ -1,6 +1,6 @@
 # PUFFIE
 
-PUFFIE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sun, 27 Sept 2026.
+PUFFIE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 PUFFIE is a house and disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Los Angeles, Mexico City, New York City and San Francisco/Oakland. Often billed alongside Jonny Sum, Hayes Bradley and 88.. Next up: The Great Northern, San Francisco/Oakland on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ PUFFIE is a house and disco artist based in United States of America, tracked on
 
 Jonny Sum, Hayes Bradley, 88. (1)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puffie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puffie/)*

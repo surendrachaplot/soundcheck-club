@@ -1,6 +1,6 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū" on Fri, 25 Sept 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Oriental Techno Garden - 東極玄音花園: KINTEL, ZHAZHA WANG, Shū" on Fri, 25 Sept 2026.
 
 Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Manuel Di Martino, Acidalia, ÆQUAL and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
@@ -23,4 +23,4 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 20 upc
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

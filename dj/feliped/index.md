@@ -1,6 +1,6 @@
 # felipe d
 
-felipe d is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri, 25 Sept 2026.
+felipe d is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck, with 33 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: Danzhaus/The Gingerbread House, San Francisco/Oakland on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck,
 
 QUEENIE (US), Profesito, DJ Saratonin
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*

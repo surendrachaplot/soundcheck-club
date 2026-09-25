@@ -1,8 +1,8 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Le Trabendo, Paris on Sat, 26 Sept 2026.
+Lea Occhi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Le Trabendo, Paris on Sat, 26 Sept 2026.
 
-Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Le Trabendo, Paris on Sat 26 Sept.
+Lea Occhi is a techno and house artist based in France, tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Le Trabendo, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,10 +13,12 @@ Lea Occhi is a techno and house artist based in France, tracked on soundcheck, w
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
+| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 
+- HHV.de Store, Berlin — Thu, 24 Sept 2026
 - Fuchs2, Prague — Sat, 19 Sept 2026
 - Fvtvr, Paris — Sat, 12 Sept 2026
 - Artheater, Cologne — Fri, 11 Sept 2026
@@ -24,10 +26,9 @@ Lea Occhi is a techno and house artist based in France, tracked on soundcheck, w
 - La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
 - Club der Visionaere, Berlin — Wed, 12 Aug 2026
 - TBA - Seebruck - Chiemsee, Munich — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Toscan Haas, Amotik, Lobster (NL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

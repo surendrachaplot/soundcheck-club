@@ -1,6 +1,6 @@
 # My Boy Roy
 
-My Boy Roy is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Bar Theo, Amsterdam on Fri, 25 Sept 2026.
+My Boy Roy is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Bar Theo, Amsterdam on Fri, 25 Sept 2026.
 
 My Boy Roy is a house and electronica artist based in Mexico, tracked on soundcheck, with 11 sets logged across Amsterdam and Mexico City. Often billed alongside Flight Status, Dany E and EM2K. Next up: Bar Theo, Amsterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ My Boy Roy is a house and electronica artist based in Mexico, tracked on soundch
 
 Flight Status, Dany E, EM2K
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myboyroy/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/myboyroy/)*

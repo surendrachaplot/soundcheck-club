@@ -1,6 +1,6 @@
 # GFA
 
-GFA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
+GFA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
 
 GFA is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Belfast, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Cersy, Lyonsy and Model Citizen. Next up: Eastern Bloc Records, Manchester on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ GFA is a techno and trance artist based in United Kingdom, tracked on soundcheck
 
 Cersy, Lyonsy, Model Citizen
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*

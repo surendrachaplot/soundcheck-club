@@ -1,6 +1,6 @@
 # moe.
 
-moe. is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Tranans Bar, Stockholm on Fri, 25 Sept 2026.
+moe. is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Tranans Bar, Stockholm on Fri, 25 Sept 2026.
 
 moe. is a house and disco artist based in Sudan, tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Ken Okuda, DJ Westfa and Suze Ijó. Next up: Tranans Bar, Stockholm on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ moe. is a house and disco artist based in Sudan, tracked on soundcheck, with 67 
 
 Ken Okuda, DJ Westfa, Suze Ijó
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*

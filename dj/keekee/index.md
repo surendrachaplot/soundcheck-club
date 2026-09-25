@@ -1,6 +1,6 @@
 # keekee
 
-keekee is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Ulana's, Philadelphia on Fri, 9 Oct 2026.
+keekee is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Ulana's, Philadelphia on Fri, 9 Oct 2026.
 
 keekee is a house and acid artist based in United States of America, tracked on soundcheck, with 22 sets logged across Philadelphia and Toronto. Often billed alongside Zillas on Acid, moodyjooly and ADAB. Next up: Ulana's, Philadelphia on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ keekee is a house and acid artist based in United States of America, tracked on 
 
 Zillas on Acid, moodyjooly, ADAB
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keekee/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keekee/)*

@@ -1,6 +1,6 @@
 # Jonathan Rosa
 
-Jonathan Rosa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Vertigo, Toronto on Fri, 25 Sept 2026.
+Jonathan Rosa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Vertigo, Toronto on Fri, 25 Sept 2026.
 
 Jonathan Rosa is a tech house and house artist based in Canada, tracked on soundcheck, with 60 sets logged across Toronto. Often billed alongside RUDEE NIK, Sam Haze and Tabbara. Next up: Vertigo, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jonathan Rosa is a tech house and house artist based in Canada, tracked on sound
 
 RUDEE NIK, Sam Haze, Tabbara
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanrosa/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanrosa/)*

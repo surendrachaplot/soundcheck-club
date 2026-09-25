@@ -1,14 +1,13 @@
 # Coda
 
-Coda is a music venue in Toronto with 20 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Joseph Ray" on Thu, 24 Sept 2026.
+Coda is a music venue in Toronto with 19 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Ricardo Villalobos" on Fri, 25 Sept 2026.
 
-Coda is a music venue in Toronto listed on soundcheck. 20 upcoming gigs, with line-ups including A Little Sound, Because of Art, Biscits and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
+Coda is a music venue in Toronto listed on soundcheck. 19 upcoming gigs, with line-ups including A Little Sound, Because of Art, Biscits and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 794 Bathurst St.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Joseph Ray |  |
 | Fri, 25 Sept 2026 | Ricardo Villalobos | Ricardo Villalobos |
 | Sat, 26 Sept 2026 | Massano | Massano |
 | Thu, 1 Oct 2026 | Cult Member | Cult Member |
@@ -18,9 +17,10 @@ Coda is a music venue in Toronto listed on soundcheck. 20 upcoming gigs, with li
 | Sat, 10 Oct 2026 | Mind Against | Mind Against |
 | Sat, 17 Oct 2026 | Because of Art | Because of Art |
 | Fri, 23 Oct 2026 | Luuk van Dijk | Luuk van Dijk |
+| Fri, 30 Oct 2026 | Classmatic | Classmatic |
 
 ## Address
 
 794 Bathurst St, Toronto
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/coda/)*

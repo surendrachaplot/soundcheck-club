@@ -1,6 +1,6 @@
 # ROT.TON
 
-ROT.TON is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
+ROT.TON is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
 
 ROT.TON is a techno artist tracked on soundcheck, with 7 sets logged across Berlin, Cologne, Hamburg and Stuttgart. Often billed alongside Nazz, Clara Cuvé and DAX J. Next up: Lehmann Club, Stuttgart on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ ROT.TON is a techno artist tracked on soundcheck, with 7 sets logged across Berl
 
 Nazz, Clara Cuvé, DAX J
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rot.ton/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rot.ton/)*

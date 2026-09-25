@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 6 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Nicolas Lutz, Marko Nastić, Shoxy" on Fri, 25 Sept 2026.
+Karmakoma is a music venue in Belgrade with 6 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Nicolas Lutz, Marko Nastić, Shoxy" on Fri, 25 Sept 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming gigs, with line-ups including Joe Claussell, Marko Nastic, Nicolas Lutz and Nikola Vemic and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -19,4 +19,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming gigs, wi
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

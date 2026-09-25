@@ -1,6 +1,6 @@
 # Krijka
 
-Krijka is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Absolem Marseille, Marseille on Sat, 26 Sept 2026.
+Krijka is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Absolem Marseille, Marseille on Sat, 26 Sept 2026.
 
 Krijka is a techno and tech house artist based in France, tracked on soundcheck, with 147 sets logged across Bangkok, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: Absolem Marseille, Marseille on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Krijka is a techno and tech house artist based in France, tracked on soundcheck,
 
 Mihak, Lyumin, Oho.
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*

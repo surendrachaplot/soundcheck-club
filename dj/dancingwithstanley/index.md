@@ -1,6 +1,6 @@
 # DANCING WITH STANLEY
 
-DANCING WITH STANLEY is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The White Hotel, Manchester on Fri, 23 Oct 2026.
+DANCING WITH STANLEY is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The White Hotel, Manchester on Fri, 23 Oct 2026.
 
 DANCING WITH STANLEY is a club and electro artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow and Manchester. Often billed alongside Kuriboh, sebastieN and KURLZ. Next up: The White Hotel, Manchester on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ DANCING WITH STANLEY is a club and electro artist based in United Kingdom, track
 
 Kuriboh, sebastieN, KURLZ
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dancingwithstanley/)*

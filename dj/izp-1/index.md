@@ -1,6 +1,6 @@
 # IZP (1)
 
-IZP (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Next Door Records Two, London on Sat, 26 Sept 2026.
+IZP (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Next Door Records Two, London on Sat, 26 Sept 2026.
 
 IZP is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Cardiff, Edinburgh and London. Often billed alongside DJBran, Caspar and DJ MOV. Next up: Next Door Records Two, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ IZP is a house and techno artist based in United Kingdom, tracked on soundcheck,
 
 DJBran, Caspar, DJ MOV
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izp-1/)*

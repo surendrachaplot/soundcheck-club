@@ -1,6 +1,6 @@
 # Toby Tobias
 
-Toby Tobias is a Jungle and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+Toby Tobias is a Jungle and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 Toby Tobias is a jungle and acid artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Naples. Often billed alongside Piers Harrison, A Guy Called Gerald and Ariane V. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Toby Tobias is a jungle and acid artist based in United Kingdom, tracked on soun
 
 Piers Harrison, A Guy Called Gerald, Ariane V
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobytobias/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobytobias/)*

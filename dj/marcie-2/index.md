@@ -1,6 +1,6 @@
 # Marcie (2)
 
-Marcie (2) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+Marcie (2) is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
 Marcie is a hardcore and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside ZYNTAX, Makinarium and Osiris. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marcie is a hardcore and trance artist based in Germany, tracked on soundcheck, 
 
 ZYNTAX, Makinarium, Osiris (2)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcie-2/)*

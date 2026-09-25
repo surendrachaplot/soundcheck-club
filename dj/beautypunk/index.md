@@ -1,6 +1,6 @@
 # BEAUTYPUNK
 
-BEAUTYPUNK is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
+BEAUTYPUNK is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 25 Sept 2026.
 
 BEAUTYPUNK is a house and electro artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and VEB Elektrokunst. Next up: Jonny Knüppel, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ BEAUTYPUNK is a house and electro artist based in Germany, tracked on soundcheck
 
 Phat Beat, JaFrei Loufoque, VEB Elektrokunst
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beautypunk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beautypunk/)*

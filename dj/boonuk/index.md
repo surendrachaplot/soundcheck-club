@@ -1,6 +1,6 @@
 # Boon (UK)
 
-Boon (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Boon (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Boon (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Steven Cee, Jnr Windross and Sy Sez. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -12,6 +12,7 @@ Boon (UK) is a deep house and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- UNO MALTA, Malta — Thu, 24 Sept 2026
 - Lab11, Birmingham — Sat, 5 Sept 2026
 - Mint Warehouse, Leeds — Sat, 4 Jul 2026
 - Leyton Jubilee Park, London — Sat, 23 May 2026
@@ -19,10 +20,9 @@ Boon (UK) is a deep house and house artist based in United Kingdom, tracked on s
 - O Beach, Ibiza — Mon, 4 May 2026
 - Mint Warehouse, Leeds — Sat, 18 Apr 2026
 - Lab11, Birmingham — Sat, 30 Aug 2025
-- The Engine Rooms Rehearsal Studios, London — Sat, 8 Mar 2025
 
 ## Shares bills with
 
 Steven Cee, Jnr Windross, Sy Sez
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boonuk/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boonuk/)*

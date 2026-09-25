@@ -1,6 +1,6 @@
 # Sally Bumps
 
-Sally Bumps is a Drone and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at THC MILANO, Milan on Sun, 27 Sept 2026.
+Sally Bumps is a Drone and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at THC MILANO, Milan on Sun, 27 Sept 2026.
 
 Sally Bumps is a drone and techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Diamantha, Known Artist and ARMANDO. Next up: THC MILANO, Milan on Sun 27 Sept.
 
@@ -23,4 +23,4 @@ Sally Bumps is a drone and techno artist based in Italy, tracked on soundcheck, 
 
 Diamantha, Known Artist, ARMANDO
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallybumps/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallybumps/)*

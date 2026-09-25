@@ -1,6 +1,6 @@
 # Always Late
 
-Always Late is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Always Late is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Always Late is a house and minimal artist based in Greece, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Bucharest and Greece and 1 more. Often billed alongside Jonn, Cap and Priku. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Always Late is a house and minimal artist based in Greece, tracked on soundcheck
 
 Jonn, Cap, Priku
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alwayslate/)*

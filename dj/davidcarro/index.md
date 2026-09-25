@@ -1,6 +1,6 @@
 # David Carro
 
-David Carro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at X Private Club, Madrid on Fri, 2 Oct 2026.
+David Carro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at X Private Club, Madrid on Fri, 2 Oct 2026.
 
 David Carro is a house and techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Ibiza and Madrid. Often billed alongside Bianca, Cley Rox and D. Cortés. Next up: X Private Club, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ David Carro is a house and techno artist based in Spain, tracked on soundcheck, 
 
 Bianca, Cley Rox, D. Cortés
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarro/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarro/)*

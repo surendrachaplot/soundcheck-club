@@ -1,6 +1,6 @@
 # Vigilance Zero
 
-Vigilance Zero is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
+Vigilance Zero is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at 42 Marches, Paris on Sat, 31 Oct 2026.
 
 Vigilance Zero is a progressive house and house artist based in France, tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside Chtak., Spicy Sofi and Inspecteur. Next up: 42 Marches, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vigilance Zero is a progressive house and house artist based in France, tracked 
 
 Chtak., Spicy Sofi, Inspecteur
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilancezero/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vigilancezero/)*

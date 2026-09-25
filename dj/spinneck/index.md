@@ -1,6 +1,6 @@
 # Spinneck
 
-Spinneck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
+Spinneck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
 
 Spinneck is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Munich. Often billed alongside Benni B, Maggie Jane and Inspektor Lenny. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Spinneck is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Benni B, Maggie Jane, Inspektor Lenny
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinneck/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spinneck/)*

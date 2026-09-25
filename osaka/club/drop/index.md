@@ -1,6 +1,6 @@
 # Drop
 
-Drop is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Thu, 24 Sept 2026; the next is "SSDD - The Grand Masters Summit -" on Sat, 3 Oct 2026.
+Drop is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Fri, 25 Sept 2026; the next is "SSDD - The Grand Masters Summit -" on Sat, 3 Oct 2026.
 
 Drop is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including Masterpeace. Browse upcoming dates, start times and who's playing. 2-18-9 Nishishinsaibashi, Chuo-Ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -14,4 +14,4 @@ Drop is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-u
 
 2-18-9 Nishishinsaibashi, Chuo-Ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/drop/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/drop/)*

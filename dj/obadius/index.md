@@ -1,6 +1,6 @@
 # Obadius
 
-Obadius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 25 Sept 2026.
+Obadius is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 25 Sept 2026.
 
 Obadius is a techno and house artist based in Iran, tracked on soundcheck, with 84 sets logged across Kuala Lumpur. Often billed alongside Meliha, OtherKind and Biscuit (MY). Next up: TBA - Neo Bar KL- Ilham Tower , Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Obadius is a techno and house artist based in Iran, tracked on soundcheck, with 
 
 Meliha, OtherKind, Biscuit (MY)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obadius/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obadius/)*

@@ -1,6 +1,6 @@
 # Christian Wunsch
 
-Christian Wunsch is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
+Christian Wunsch is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Laboral Ciudad de la Cultura, North on Fri, 25 Sept 2026.
 
 Christian Wunsch is a techno artist based in Monaco, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Buenos Aires and Madrid and 1 more. Often billed alongside Dj Manglés, Jamaica Suk and Lewis Fautzi. Next up: Laboral Ciudad de la Cultura, North on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Christian Wunsch is a techno artist based in Monaco, tracked on soundcheck, with
 
 Dj Manglés, Jamaica Suk, Lewis Fautzi
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianwunsch/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianwunsch/)*

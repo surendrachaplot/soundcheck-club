@@ -1,6 +1,6 @@
 # Lennart (NL)
 
-Lennart (NL) is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Old Distillery, Berlin on Sat, 31 Oct 2026.
+Lennart (NL) is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Old Distillery, Berlin on Sat, 31 Oct 2026.
 
 Lennart (NL) is an italo disco and house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Karolina Bnv, Paty Vapor and Audio Vacanze. Next up: TBA - Old Distillery, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lennart (NL) is an italo disco and house artist based in Netherlands, tracked on
 
 Karolina Bnv, Paty Vapor, Audio Vacanze
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart-nl/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lennart-nl/)*

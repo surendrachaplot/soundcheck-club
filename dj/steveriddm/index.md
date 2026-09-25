@@ -1,6 +1,6 @@
 # Steve Riddm
 
-Steve Riddm is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Cece Bar Urbana, Rotterdam on Sun, 27 Sept 2026.
+Steve Riddm is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Cece Bar Urbana, Rotterdam on Sun, 27 Sept 2026.
 
 Steve Riddm is a house and tech house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam and Rotterdam. Often billed alongside ZOËZO, Cher Semain and HOTBOX COLLECTIVE. Next up: Cece Bar Urbana, Rotterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Steve Riddm is a house and tech house artist based in Netherlands, tracked on so
 
 ZOËZO, Cher Semain, HOTBOX COLLECTIVE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*

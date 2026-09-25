@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Azimut Club, Turin on Fri, 25 Sept 2026.
+BASHKKA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Azimut Club, Turin on Fri, 25 Sept 2026.
 
 BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, with 308 sets logged across Amsterdam, Antwerp, Athens and Bali and 58 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Azimut Club, Turin on Fri 25 Sept.
 
@@ -36,4 +36,4 @@ BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

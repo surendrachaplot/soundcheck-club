@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Pop Mutations presents: Locust" on Sat, 26 Sept 2026.
+The Glad Cafe is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Pop Mutations presents: Locust" on Sat, 26 Sept 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including Carla dal Forno, Gigi Masin, Mark Van Hoen and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -23,4 +23,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

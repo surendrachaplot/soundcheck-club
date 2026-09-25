@@ -1,6 +1,6 @@
 # Florian François
 
-Florian François is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
+Florian François is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at TBA - Secret Location, Malta on Sat, 26 Sept 2026.
 
 Florian François is a techno and progressive house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Malta. Often billed alongside Pascale Voltaire, Víctor Güell and A-THØX. Next up: TBA - Secret Location, Malta on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Florian François is a techno and progressive house artist based in Germany, tra
 
 Pascale Voltaire, Víctor Güell, A-THØX
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*

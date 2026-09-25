@@ -1,6 +1,6 @@
 # Beavs
 
-Beavs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
+Beavs is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Prospect Building, Bristol on Sat, 10 Oct 2026.
 
 Beavs is a house and disco artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Bristol and London. Often billed alongside Lost Track of Time, Milly on Air and SPICYIVY. Next up: The Prospect Building, Bristol on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Beavs is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Lost Track of Time, Milly on Air, SPICYIVY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beavs/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beavs/)*

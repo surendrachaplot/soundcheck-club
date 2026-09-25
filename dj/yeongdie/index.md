@@ -1,6 +1,6 @@
 # Yeong Die
 
-Yeong Die is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Modeci, Seoul on Sat, 26 Sept 2026.
+Yeong Die is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Modeci, Seoul on Sat, 26 Sept 2026.
 
 Yeong Die is an experimental and ambient artist based in South Korea, tracked on soundcheck, with 13 sets logged across Amsterdam, Milan and Seoul. Often billed alongside Joyul, Seesea and ABOPF. Next up: Modeci, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yeong Die is an experimental and ambient artist based in South Korea, tracked on
 
 Joyul, Seesea, ABOPF
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yeongdie/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yeongdie/)*

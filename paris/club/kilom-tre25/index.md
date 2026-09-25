@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "ACCIDENT THEORY: Young Marco, Bambounou, Belaria" on Fri, 25 Sept 2026.
+Kilomètre25 is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "ACCIDENT THEORY: Young Marco, Bambounou, Belaria" on Fri, 25 Sept 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including NYRA (DE), AREA ØNE, ASLO and Avenir and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming gigs, w
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "Skeptic b2b RTK Tarantino - All Night Long" on Fri, 25 Sept 2026.
+M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "Skeptic b2b RTK Tarantino - All Night Long" on Fri, 25 Sept 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including 1LDK, 3DMA, Agility and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

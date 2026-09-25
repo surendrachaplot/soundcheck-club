@@ -1,6 +1,6 @@
 # Bézier
 
-Bézier is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
+Bézier is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
 
 Bézier is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Berlin, Detroit, Hamburg and Hong Kong and 7 more. Often billed alongside BrthrMidnyt, La Carpio and cristian zanotti. Next up: Paloma, Berlin on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ Bézier is a house and techno artist based in United States of America, tracked 
 
 BrthrMidnyt, La Carpio, cristian zanotti
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*

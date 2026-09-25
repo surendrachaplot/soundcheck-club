@@ -1,6 +1,6 @@
 # Nima Gorji
 
-Nima Gorji is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 3 Oct 2026.
+Nima Gorji is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 Nima Gorji is a minimal and house artist based in Denmark, tracked on soundcheck, with 54 sets logged across Bali, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Manuel Parravicini, Piticu and Janina. Next up: Esbirra Ibiza, Ibiza on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nima Gorji is a minimal and house artist based in Denmark, tracked on soundcheck
 
 Manuel Parravicini, Piticu, Janina
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimagorji/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimagorji/)*

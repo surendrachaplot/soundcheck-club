@@ -1,6 +1,6 @@
 # Laurence Matte
 
-Laurence Matte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at StereoBar, Montreal on Fri, 25 Sept 2026.
+Laurence Matte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at StereoBar, Montreal on Fri, 25 Sept 2026.
 
 Laurence Matte is a house and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Düsseldorf, Montreal, New York City and Paris and 1 more. Often billed alongside DJ Tennis, Vayia and Young Marco. Next up: StereoBar, Montreal on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Laurence Matte is a house and techno artist based in Canada, tracked on soundche
 
 DJ Tennis, Vayia, Young Marco
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*

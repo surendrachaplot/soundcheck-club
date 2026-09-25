@@ -1,6 +1,6 @@
 # DJ Lelo
 
-DJ Lelo is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
+DJ Lelo is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Grelle Forelle, Vienna on Sat, 10 Oct 2026.
 
 DJ Lelo is a garage and house artist based in Austria, tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside AEND, Ice Scholle and YPSY. Next up: Grelle Forelle, Vienna on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ DJ Lelo is a garage and house artist based in Austria, tracked on soundcheck, wi
 
 AEND, Ice Scholle, YPSY
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlelo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlelo/)*

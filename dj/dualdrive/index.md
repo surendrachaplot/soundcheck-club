@@ -1,6 +1,6 @@
 # Dual Drive
 
-Dual Drive is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
+Dual Drive is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
 
 Dual Drive is a techno artist based in Sweden, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Edinburgh and London and 1 more. Often billed alongside Ola Roström, Bøgen and Chopper (Scotland). Next up: Slakthuset, Stockholm on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dual Drive is a techno artist based in Sweden, tracked on soundcheck, with 18 se
 
 Ola Roström, Bøgen, Chopper (Scotland)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdrive/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdrive/)*

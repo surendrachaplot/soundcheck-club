@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at The Model, Nottingham on Fri, 11 Dec 2026.
+Wes Baggaley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at The Model, Nottingham on Fri, 11 Dec 2026.
 
 Wes Baggaley is a techno and house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Berlin, Birmingham, Bristol and Dublin and 16 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: The Model, Nottingham on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Wes Baggaley is a techno and house artist based in United Kingdom, tracked on so
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

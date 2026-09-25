@@ -1,14 +1,15 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at BAR15, Stockholm on Fri, 25 Sept 2026.
+S!RENE is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at BAR15, Stockholm on Fri, 25 Sept 2026.
 
-S!RENE is a hip-hop and house artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 22 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: BAR15, Stockholm on Fri 25 Sept.
+S!RENE is a hip-hop and house artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 23 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: BAR15, Stockholm on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | BAR15 | Stockholm |
+| Sat, 3 Oct 2026 | Altes Postlager | Rhineland-palatinate |
 | Sat, 31 Oct 2026 | BIKO | Milan |
 
 ## Recently played
@@ -26,4 +27,4 @@ S!RENE is a hip-hop and house artist based in Netherlands, tracked on soundcheck
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

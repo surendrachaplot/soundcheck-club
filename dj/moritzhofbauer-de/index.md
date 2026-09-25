@@ -1,6 +1,6 @@
 # Moritz Hofbauer
 
-Moritz Hofbauer is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Moritz Hofbauer is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Moritz Hofbauer is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 76 sets logged across Athens, Austin, Barcelona and Berlin and 32 more. Often billed alongside Boris Brejcha, Deniz Bul and Ann Clue. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Moritz Hofbauer is a techno and minimal techno artist based in Germany, tracked 
 
 Boris Brejcha, Deniz Bul, Ann Clue
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzhofbauer-de/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzhofbauer-de/)*

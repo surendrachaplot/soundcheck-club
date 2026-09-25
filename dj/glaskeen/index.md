@@ -1,6 +1,6 @@
 # Glaskeen
 
-Glaskeen is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
+Glaskeen is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
 
 Glaskeen is a techno and hardcore artist based in France, tracked on soundcheck, with 5 sets logged across Lyon and Paris. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Titan Xyphos Complex, Lyon on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Glaskeen is a techno and hardcore artist based in France, tracked on soundcheck,
 
 Istigkeit, 2HOT2PLAY, AREA ØNE
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*

@@ -1,6 +1,6 @@
 # Molø
 
-Molø is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Molø is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Molø is a techno and progressive house artist tracked on soundcheck, with 26 sets logged across Berlin, London, Malta and Manchester and 3 more. Often billed alongside Because of Art, Jody Wisternoff and OLING. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -28,4 +28,4 @@ Molø is a techno and progressive house artist tracked on soundcheck, with 26 se
 
 Because of Art, Jody Wisternoff, OLING
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*

@@ -1,6 +1,6 @@
 # Black Maij
 
-Black Maij is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
+Black Maij is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at La Noxe Trinity, New York City on Fri, 25 Sept 2026.
 
 Black Maij is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside hayden, Oppo-Normalè and kitkaths. Next up: La Noxe Trinity, New York City on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Black Maij is a house and techno artist based in United States of America, track
 
 hayden, Oppo-Normalè, kitkaths
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmaij/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmaij/)*

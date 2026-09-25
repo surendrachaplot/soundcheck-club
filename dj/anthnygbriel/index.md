@@ -1,6 +1,6 @@
 # ANTHNY GBRIEL
 
-ANTHNY GBRIEL is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Reed Park, Los Angeles on Fri, 25 Sept 2026.
+ANTHNY GBRIEL is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Reed Park, Los Angeles on Fri, 25 Sept 2026.
 
 ANTHNY GBRIEL is a house and reggaeton artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles. Often billed alongside baby.com, Alxander Ivey and Cquestt. Next up: Reed Park, Los Angeles on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ ANTHNY GBRIEL is a house and reggaeton artist based in United States of America,
 
 baby.com, Alxander Ivey, Cquestt
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthnygbriel/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthnygbriel/)*

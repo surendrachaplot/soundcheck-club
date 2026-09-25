@@ -1,6 +1,6 @@
 # widdows95
 
-widdows95 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 24 Sept 2026, next at The Lido, Vancouver on Tue, 29 Sept 2026.
+widdows95 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 25 Sept 2026, next at The Lido, Vancouver on Tue, 29 Sept 2026.
 
 widdows95 is a house and techno artist based in Canada, tracked on soundcheck, with 9 sets logged across New York City, Toronto and Vancouver. Often billed alongside Blkvirgo, Carbajal and Critter. Next up: The Lido, Vancouver on Tue 29 Sept.
 
@@ -25,4 +25,4 @@ widdows95 is a house and techno artist based in Canada, tracked on soundcheck, w
 
 Blkvirgo, Carbajal, Critter
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*

@@ -1,6 +1,6 @@
 # Hiroyuki Abe
 
-Hiroyuki Abe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 24 Sept 2026, next at Aoyama Hachi, Tokyo on Tue, 6 Oct 2026.
+Hiroyuki Abe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 25 Sept 2026, next at Aoyama Hachi, Tokyo on Tue, 6 Oct 2026.
 
 Hiroyuki Abe is a house and disco artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside SUETSUGU, HIZAT and Chika Luna. Next up: Aoyama Hachi, Tokyo on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Hiroyuki Abe is a house and disco artist based in Japan, tracked on soundcheck, 
 
 SUETSUGU, HIZAT, Chika Luna
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroyukiabe/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiroyukiabe/)*

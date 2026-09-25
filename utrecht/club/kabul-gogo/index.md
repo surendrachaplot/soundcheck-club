@@ -1,6 +1,6 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Thu, 24 Sept 2026; the next is "N-R-G x Hypa with Sam Girling (UK)" on Fri, 25 Sept 2026.
+KABUL à GoGo is a music venue in Utrecht with 8 upcoming gigs listed on soundcheck as of Fri, 25 Sept 2026; the next is "N-R-G x Hypa with Sam Girling (UK)" on Fri, 25 Sept 2026.
 
 KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 8 upcoming gigs, with line-ups including 36framez, Aba Shanti-I, Azu Tiwaline and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
@@ -21,4 +21,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 8 upcoming gigs,
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 24 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Fri, 25 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
